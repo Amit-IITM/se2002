@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225602A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230620" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225602</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18186729</doc-number>
+<date>20230320</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>07</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>17</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>313</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>07</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>3132</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>17</main-group>
+<subgroup>0293</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="edckfn9d9j11s">Lighted Surgical Access System</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/US2021/054124</doc-number>
+<date>20211008</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18186729</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63248319</doc-number>
+<date>20210924</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63089486</doc-number>
+<date>20201008</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Applied Medical Resources Corporation</orgname>
+<address>
+<city>Rancho Santa Margarita</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Diehl</last-name>
+<first-name>Alex</first-name>
+<address>
+<city>Ladera Ranch</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Salazar</last-name>
+<first-name>Luis</first-name>
+<address>
+<city>Compton</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Nguyen</last-name>
+<first-name>Andrew</first-name>
+<address>
+<city>Rancho Santa Margarita</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Rothschild</last-name>
+<first-name>Jonathan</first-name>
+<address>
+<city>Huntington Beach</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>Velasco</last-name>
+<first-name>Joel</first-name>
+<address>
+<city>Rancho Santa Margarita</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>Saleh</last-name>
+<first-name>Khodr</first-name>
+<address>
+<city>Rancho Santa Margarita</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="06" designation="us-only">
+<addressbook>
+<last-name>Penaloza</last-name>
+<first-name>Alexis</first-name>
+<address>
+<city>Riverside</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="07" designation="us-only">
+<addressbook>
+<last-name>Sias</last-name>
+<first-name>Ralph</first-name>
+<address>
+<city>Oceanside</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="08" designation="us-only">
+<addressbook>
+<last-name>Talwar</last-name>
+<first-name>Tina</first-name>
+<address>
+<city>Rancho Santa Margarita</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="09" designation="us-only">
+<addressbook>
+<last-name>Hague</last-name>
+<first-name>Cory</first-name>
+<address>
+<city>Aliso Viejo</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="10" designation="us-only">
+<addressbook>
+<last-name>Pravong</last-name>
+<first-name>Boun</first-name>
+<address>
+<city>Rancho Santa Margarita</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="11" designation="us-only">
+<addressbook>
+<last-name>Pravongviengkham</last-name>
+<first-name>Kennii</first-name>
+<address>
+<city>Rancho Santa Margarita</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="12" designation="us-only">
+<addressbook>
+<last-name>Sharma</last-name>
+<first-name>Suraj</first-name>
+<address>
+<city>Rancho Santa Margarita</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The lighted surgical access system is provided that includes a circumferential retractor and a plastic optical fiber (POF) attached thereto. The circumferential retractor retracts and protects a patient&#x2019;s body opening while the POF illuminates the internal surgical site, body cavity and/or body opening.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="139.45mm" wi="189.82mm" file="US20230225602A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="191.18mm" wi="159.51mm" file="US20230225602A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="153.33mm" wi="170.86mm" file="US20230225602A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="202.52mm" wi="159.00mm" file="US20230225602A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="192.62mm" wi="157.23mm" file="US20230225602A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="154.18mm" wi="170.77mm" file="US20230225602A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="109.30mm" wi="113.96mm" file="US20230225602A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="125.05mm" wi="122.51mm" file="US20230225602A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="122.09mm" wi="81.53mm" file="US20230225602A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="186.44mm" wi="157.99mm" file="US20230225602A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="187.37mm" wi="157.56mm" file="US20230225602A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="178.48mm" wi="153.33mm" file="US20230225602A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="202.86mm" wi="159.85mm" file="US20230225602A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="149.18mm" wi="164.85mm" file="US20230225602A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="192.62mm" wi="153.92mm" file="US20230225602A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="144.02mm" wi="160.95mm" file="US20230225602A1-20230720-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="144.02mm" wi="164.42mm" file="US20230225602A1-20230720-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="238.76mm" wi="135.81mm" file="US20230225602A1-20230720-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="154.35mm" wi="153.59mm" file="US20230225602A1-20230720-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="90.68mm" wi="157.73mm" file="US20230225602A1-20230720-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="196.68mm" wi="143.26mm" file="US20230225602A1-20230720-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading level="1" id="h-0001">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This is a continuation of International Patent Application No. PCT/US2021/054124, filed on Oct. 8, 2021, that claims priority to and benefit of U.S. Provisional Patent Application Serial Nos. 63/089,486, filed on Oct. 8, 2020, and 63/248,319, filed on Sep. 24, 2021, all of which are incorporated herein by reference in their entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading level="1" id="h-0002">BACKGROUND</heading>
+<p id="p-0003" num="0002">The present application is generally directed to systems and methods for illuminating a surgical site and more particularly, lighted circumferential protectors-retractors and systems and methods thereof for illuminating internal surgical sites.</p>
+<p id="p-0004" num="0003">Proper illumination of a surgical site facilitates a surgical procedure, assisting the surgeon or medical personnel in the placement and operation of surgical instruments within the limited space confines of a patient&#x2019;s body cavity. Overhead surgical lamps are ubiquitous in operating rooms but are limited in providing effective illumination largely because of their positioning far outside the surgical site (e.g., incision or patient opening). Also, as the light comes from a limited direction, e.g., only one or two directions, it is difficult to avoid casting shadows that limit the visibility of the surgical site. In addition, the area of illumination is not tightly focused, causing glare around the site and diminishing the visual contrast. The amount of light that can illuminate the internal anatomy or internal surgical site is also restricted by the size of the incision or opening, becoming extremely challenging to achieve sufficient lighting as the size of the incision or opening is diminished. The convenience of overhead lamps is further reduced by the need for frequent readjustment to find a proper angle, especially when a surgical procedure requires repositioning of the patient.</p>
+<p id="p-0005" num="0004">Surgical headlamps suffer from many of the same drawbacks, including the problem of casting shadows from a unidirectional light, glare around the incision, and limited light entering the incision or opening. Such lamps can also be inconvenient as they are often bulky or require continuous concentration to keep the light properly directed. Lighted single point retractors aim to solve some of the problems with the ineffectiveness of overhead lights and headlamps, though they sacrifice some convenience because they must be held by hand. These lighted retractors also fail to provide circumferential illumination to the surgical site. Furthermore, such devices often provide unidirectional light without being able to illuminate deeply inside the patient&#x2019;s cavity. Additionally, often the direction of the light beams cannot be adjusted without losing traction. Other lighting systems fail to account for or overcome the challenges of obstruction from surrounding tissue or the device itself along with thermal, luminescence output or other similar performance, manufacturing, and procedural issues.</p>
+<heading level="1" id="h-0003">SUMMARY</heading>
+<p id="p-0006" num="0005">In accordance with various embodiments, a lighted surgical access system is provided. The lighted surgical access system comprises a circumferential protector and a plastic optical fiber (POF) connectable to the circumferential protector. In various embodiments, the circumferential protector comprises an outer ring, an inner ring, a sheath, or any combination thereof. In various embodiments, the POF is connectable to a light generator or source. In various embodiments, the POF comprises a plurality of scoring or cuts. In various embodiments, the POF illuminates the internal surgical site, body cavity, body opening or any combination thereof.</p>
+<p id="p-0007" num="0006">In accordance with various embodiments, a lighted surgical access system comprises an outer ring, an inner ring and a sheath having a proximal end connected to the outer ring arranged to be placed outside of a body cavity or externally to an internal surgical site and a distal end connected to the inner ring arranged to be placed inside of a body cavity or proximal to an internal surgical site. The sheath delimits an access channel extending from the outer ring to the inner ring. The lighted surgical access system comprises a light generator and a POF. The light generator is connectable to the POF, a laparoscope or both.</p>
+<p id="p-0008" num="0007">In various embodiments, the POF comprises a POF leader being a proximal portion of the POF and a POF tail being a distal portion of the POF and in various embodiments, the POF leader extends beyond the outer ring and is connectable to the light generator. The lighted surgical access system further comprises a sleeve connected to a distal portion of the sheath and spaced from the inner ring. The sleeve extends radially around the distal portion of the sheath and at least the POF tail is positioned and/or encased within the sleeve.</p>
+<p id="p-0009" num="0008">In accordance with various embodiments, a lighted surgical access system to illuminate internally a body cavity is provided. In various embodiments, the lighted surgical access system comprises an outer ring arranged to be placed outside of a body cavity, an inner ring arranged to be placed inside of the body cavity, and a sheath having a proximal end connected to the outer ring and a distal end connected the inner ring with the sheath delimiting a lumen with an access channel extending from the outer ring to the inner ring. In various embodiments, the light surgical access system comprises a light generator arranged to be connectable to a light emitter or the like.</p>
+<p id="p-0010" num="0009">In various embodiments, the light surgical access system comprises a light generator arranged to be connectable to a laparoscope. In various embodiments, the light surgical access system comprises a plastic optical fiber (POF) comprising a POF leader being a proximal portion of the POF and a POF tail being a distal portion of the POF with the POF leader extending beyond the outer ring and connectable to a light generator. In various embodiments, the light surgical access system comprises a sleeve connected to a distal portion of a sheath and spaced from an inner ring. In various embodiments, the light surgical access system comprises a sleeve extending radially around the distal portion of the sheath and a POF tail being positioned within the sleeve. In various embodiments, a POF tail comprises a plurality of cuts. In various embodiments, a POF tail comprises a plurality of cuts that are disposed on a side of the POF tail that faces away from the inner ring and/or are angled.</p>
+<p id="p-0011" num="0010">In various embodiments, a POF tail comprises a non-transparent material covering a portion of the POF tail that has a plurality of cuts. In various embodiments, a POF tail comprises a reflective material disposed between a non-transparent material and a plurality of cuts. In various embodiments, a non-transparent material covers a POF leader and/or a POF tail. In various embodiments, a POF leader comprises a reflective material disposed between a non-transparent material and the POF leader. In various embodiments, a POF leader comprises a plurality of cuts.</p>
+<p id="p-0012" num="0011">In various embodiments, a light cable is connectable to a light generator and a proximal end of a POF leader. In various embodiments, a light cable is connectable to a light generator and an adaptor or a connector. In various embodiments, an adaptor or connector is connectable to a proximal end of a POF leader and/or comprises an adjustable opening arranged to connect to a light cable. In various embodiments, an adaptor or connector comprises a clamp arranged to adjust an adjustable opening. In various embodiments, a first light cable, a second light cable, and/or a double-sided adaptor are provided. In various embodiments, a double-sided adaptor has a first side connectable to a first light cable and a second side connectable to a connector on a proximal end of a POF leader, the first side of the adaptor also being connectable to the connector and the second side being connectable to a second light cable. In various embodiments, the first side of the double-sided adaptor has a connection interface different from a connection interface of the second side of the double-sided adaptor.</p>
+<p id="p-0013" num="0012">In various embodiments, a reflective material positioned within a sleeve connectable or connected to a sheath. In various embodiments, a sheath has an inner surface, an outer surface, and a sleeve is connected to the outer surface of the sheath. In various embodiments, a reflective material is positioned on an inner surface of a sheath. In various embodiments, a distal end of a POF tail has an angled end profile. In various embodiments, an end cap is connected to a distal end of a POF tail. In various embodiments, a reflective material is attached to an end cap. In various embodiments, a light generator is arranged to be connectable, optionally, to a laparoscope. In various embodiments, the light surgical access system comprises a light generator arranged to be connectable to an optional laparoscope. In various embodiments, a POF leader is connectable to a light generator and a POF tail. In various embodiments, a POF tail comprises a plurality of cuts disposed on one side of the POF tail. In various embodiments, a sleeve extends around the distal portion of the sheath and has a channel through which a POF tail extends therethrough. In various embodiments, a sleeve is sealed to a distal portion of a sheath and is impermeable. In various embodiments, a light generator comprises a Xeon light source, a light output of at least 1500 lumens, and/or a 300-watt light source.</p>
+<p id="p-0014" num="0013">Many of the attendant features of the present inventions will be more readily appreciated as the same becomes better understood by reference to the foregoing and following description and considered in connection with the accompanying drawings.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading level="1" id="h-0004">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0015" num="0014">The present inventions may be better understood taken in connection with the accompanying drawings in which the reference numerals designate like parts throughout the figures thereof.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a lighted surgical access system in accordance with various embodiments of the present invention.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a bottom view of a lighted surgical access system in accordance with various embodiments of the present invention.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIGS. <b>3</b>-<b>4</b></figref> are side views of a lighted surgical access system in accordance with various embodiments of the present invention.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a top view of a lighted surgical access system in accordance with various embodiments of the present invention.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a perspective view of portions of a lighted surgical access system in accordance with various embodiments of the present invention.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a perspective view of a lighted surgical access system in accordance with various embodiments of the present invention.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIGS. <b>8</b>-<b>11</b></figref> are perspective views of portions of a lighted surgical access system in accordance with various embodiments of the present invention.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a bottom perspective view of portions of an activated lighted surgical access system within and illuminating an internal surgical site in accordance with various embodiments of the present invention.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a top view of portions of an activated lighted surgical access system within and illuminating an internal surgical site in accordance with various embodiments of the present invention.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a perspective view of portions of a lighted surgical access system in accordance with various embodiments of the present invention.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a graphical representation of a plastic optical fiber exemplifying a cut relative to incoming light and an internal surgical site in accordance with various embodiments of the present invention.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is a graphical representation of a plastic optical fiber exemplifying a cut relative to incoming light and an internal surgical site in accordance with various embodiments of the present invention.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is a side view of a plurality of cuts or scoring in a plastic optical fiber in accordance with various embodiments of the present invention.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is a top perspective view of a plurality of cuts or scoring in a plastic optical fiber in accordance with various embodiments of the present invention.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>19</b></figref> are side views of an adaptor in accordance with various embodiments of the present invention.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>20</b></figref> is a side view of an adaptor in accordance with various embodiments of the present invention.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>21</b>A</figref> is an end profile of a plastic optical fiber in accordance with various embodiments of the present invention.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>21</b>B</figref> is an end profile of a plastic optical fiber in accordance with various embodiments of the present invention.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>21</b>C</figref> is an end profile of a plastic optical fiber in accordance with various embodiments of the present invention.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>21</b>D</figref> is an end profile of a plastic optical fiber in accordance with various embodiments of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading level="1" id="h-0005">DETAILED DESCRIPTION</heading>
+<p id="p-0036" num="0035">In accordance with various embodiments, lighted surgical access systems are provided, and various views of various embodiments of exemplary lighted surgical access systems and aspects thereof are shown in <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>21</b>D</figref>. The lighted surgical access system, in various embodiments, includes a protector/retractor <b>3</b> (hereinafter referred to as &#x201c;retractor&#x201d;) providing circumferential or 360 degrees of protection and/or retraction of an opening or orifice of a patient. The lighted surgical access system creates and thus provides unobstructed and illuminated access into a patient&#x2019;s body or cavity. The retractor comprises an outer ring or support <b>5</b> and an inner ring or support <b>7</b>. The inner and outer rings are connected by a film, fabric, membrane, or sheath <b>9</b>. The retractor is adjustable in length by rolling the sheath around the outer ring and such adjustment can apply a retraction or radial force to retract or enlarge an opening in a patient. The retractor in various embodiments is adjustable in length or otherwise adjustable to accommodate different patient body types or body wall thickness. In various embodiments, the retractor has a fixed or predetermined length and/or is not adjustable in length by rolling the outer ring or other similar arrangements. The outer ring <b>5</b> is configured to be placed outside of the patient for ease of accessibility, adjustment of the retraction force and/or placement of the lighted surgical access system. In various embodiments, the sheath defines a working or access channel extending from its proximal end to its distal end and the lighted surgical access system provides unobstructed and illuminated access along and/or within the access channel defined by a sheath <b>9</b>.</p>
+<p id="p-0037" num="0036">The retractor is sufficiently flexible to be atraumatic when the retractor is deployed or otherwise placed through and disposed in the opening of the patient. In various embodiments, the outer diameter or periphery of the retractor in operation and/or, as deployed, is delimited or is no larger than the outer diameter of the inner and/or outer rings. In various embodiment, the sheath <b>9</b> is made of an elastomeric or non-metallic material to be atraumatic and/or not or minimally thermally conductive when the retractor is in operation or deployed or otherwise placed through and disposed in the opening of the patient. In various embodiments, the sheath is made of one or more layers of material and in various embodiments is anisotropic, e.g., stretchable or extendable longitudinally but not or minimally radially, being made of or including one or more layers of a fabric or similar materials with such anisotropic characteristics.</p>
+<p id="p-0038" num="0037">Connected to a distal portion of the sheath <b>9</b> of the retractor is a light carrier, e.g., a plastic optical fiber (POF) <b>11</b>. In various embodiments, the POF <b>11</b> is an elongate tube or tubular-like structure and/or having a core covered or encased in an outer cladding. The POF <b>11</b> has a distal portion attached to the distal portion of the sheath and for ease of readability is herein referred to as &#x201c;POF tail&#x201d; <b>16</b>. The POF <b>11</b> also has a proximal portion configured to extend from the POF tail <b>16</b> or an intermediary portion therebetween. The proximal portion of the POF, for ease of readability, is herein referred to as &#x201c;POF leader&#x201d; <b>14</b>. The POF tail or portions thereof is coupled to the sheath <b>9</b> of the retractor. In various embodiments, the POF tail or portions thereof is coupled to the sheath <b>9</b> by a sleeve <b>8</b>.</p>
+<p id="p-0039" num="0038">As illustrated, in various embodiments, the POF <b>11</b> is attached to the sheath <b>9</b> of the retractor via a sleeve <b>8</b>. The sleeve <b>8</b> in various embodiments surrounds all or at least a portion of an outer periphery of a distal portion of the sheath. The sleeve is configured to house a distal portion of the POF or the POF tail <b>16</b> and in various embodiments provides a channel in which the POF extends therethrough. The sleeve <b>8</b> in various embodiments is heat sealed on its proximal and distal portions relative to a longitudinal axis of the sheath enclosing and encompassing the POF. The sleeve <b>8</b> is configured to create a barrier to prevent blood or other foreign matter from entering the sleeve, obstructing the POF and/or absorbing the light emitted from the POF. In various embodiments, the sleeve <b>8</b> anchors the POF to the sheath <b>9</b> of the retractor and thus further assists in preventing the POF from being dislodged or otherwise removed from the sheath. The sleeve <b>8</b>, in various embodiments, anchors the POF from independently moving lengthwise or longitudinally along the sheath or at least not beyond the confines of the sleeve. As such, in various embodiments, the sheath&#x2019;s placement determines the placement of the sleeve and thus the POF.</p>
+<p id="p-0040" num="0039">In various embodiments, the sleeve is embedded or otherwise integrated into the sheath <b>9</b> of the retractor. In various embodiments, the sheath includes at least two walls, e.g., an inner and outer wall, with the POF tail <b>16</b>, sleeve <b>8</b> and/or portions thereof placed between the walls of the sheath. An opening to access and place the POF tail between the walls may be heat sealed or otherwise closed to prevent foreign matter from entering. In various embodiments, a seal <b>24</b> is place on one end of the sleeve <b>8</b> to prevent foreign matter from entering the seal and in various embodiments, the seal is placed between the POF tail <b>16</b> and the POF leader <b>14</b>. Heat seals or the like below and/or above can be used to anchor the POF from independently moving lengthwise or longitudinally along the sheath or at least not beyond the confines of the sleeve. The heat seals may extend circumferentially around the sheath or only along one or more portions thereof. In various embodiments, the sleeve is made of one or more layers of material. In various embodiments, light output may be increased by covering the POF tail with a reflective material <b>22</b>. The reflective material reflects escaping light back into the POF. In various embodiments, reflective material is place between the sleeve <b>8</b> and the sheath <b>9</b> or portions thereof. In various embodiments, reflective material is integrated with the sleeve <b>8</b> or portions thereof, e.g., an upper portion to further reflect down or distally and into an internal surgical site.</p>
+<p id="p-0041" num="0040">In various embodiments, a light generator or source is connectable to the POF. In various embodiments, the light generator or source is a light box <b>40</b>, tower or the like configured to be connected to a laparoscope or endoscope. An endoscope may be connected to the light tower via a light cable <b>30</b> in which one end <b>31</b> is connected to the light tower and the other end <b>32</b> to the endoscope. As such, the light cable is configured to be connectable to a light tower or similar light source that is configured to supply light to a surgical laparoscope or endoscope. In various embodiments, the light source is provided by a surgical laparoscope or endoscope and/or its light source connected thereto. In various embodiments, the light source has a power supply or source and/or a controller to adjust the light output of the light source.</p>
+<p id="p-0042" num="0041">The light source being a source that supplies light to endoscope and laparoscope provides convenience to the user and eases operation of the lighted surgical access device, as such a source is often conveniently available in most surgical environments. Additionally, such sources also place electronic components and/or non-sterile components away from surgical site and can further provide the convenience of adjusting the light output of the light source and thus the POF connected thereto. It should however be appreciated that other sources of light may be provided or otherwise connected to the lighted surgical access device to supply light to the POF. As such, such described light sources should not be construed as limited but rather examples of a source of light for the POF. However, the light source either by itself or through other connections, adaptors, amplifiers, or the like provides sufficient lumens or light output to illuminate the internal surgical site and/or the access channel via the connected POF. In various embodiments, the light source is a Xeon light source, a 300-watt light source, generates a light output of at least 1500 lumens, or any combination thereof. In various embodiments, the light source comprises of one or more light emitting diodes (&#x201c;LEDs&#x201d;). In various embodiments, the light source, e.g., one or more LEDs or the like, is connectable to the light cable, a connector, an adaptor, the POF or any combination thereof. In various embodiments, the light source is battery powered.</p>
+<p id="p-0043" num="0042">In accordance with various embodiments, POFs are described throughout the description and it should be appreciated that POFs are notably different from LEDs or the like in that no metal, semiconductor or similar electronic or electronic related components are located within or provided therewith in POFs. As such, potential undesirable non-biocompatible components can be avoided with POFs relative to LEDs and the like. Other manufacturing or operational options are also available through the use of POFs versus LEDs and the like, such as the use of a single POF to vary the illumination at an internal surgical site versus multiple LEDs to provide similar illumination or coverage. Additionally, without electronic or other potentially sensitive material, the ease of sterilization or the potential range of sterilization techniques that can be used for the POF and/or the lighted surgical access system is enhanced.</p>
+<p id="p-0044" num="0043">In various embodiments, the lighted surgical access system includes one or more adapters or adaptors <b>21</b> and/or connectors <b>12</b> configured to provide a continuation between the POF and a light source, a light cable and/or an intermediary connection between the light source and/or the light cable. This continuation minimizes light loss and decreases the temperature experienced by the adaptor and/or connector as light is directly transferred from the light cable, source and/or intermediary to the POF without gaps or spaces, e.g., an air gap. In various embodiments, the continuation is provided by a flush or near flush contact or similar connections in which gaps or spaces between the POF and a light source, light cable and/or an intermediary connection between the light source and/or the light cable are minimized or eliminated. In various embodiments, the lighted surgical access system includes one or more adapters or adaptors <b>21</b> and/or connecters or connectors <b>12</b> configured to provide a flush or near flush contact between the POF and a light source, a light cable and/or an intermediary connection between the light source and/or the light cable.</p>
+<p id="p-0045" num="0044">In various embodiments, the adaptor and/or connector is made of plastic, metal or the like having high heat dissipation properties. In various embodiments, the adaptor and/or connector is made of or coated with a heat insulated material arranged to minimize heat transfer to other components, user and/or patient.</p>
+<p id="p-0046" num="0045">In various embodiments, the adaptor provides a user with the ability to interchange adaptor connection type based on their need and/or the available light cables, sources and/or intermediary connections. In various embodiments, the adaptor is interchangeable and/or double-sided. For example, as illustrated in <figref idref="DRAWINGS">FIG. <b>19</b></figref>, adaptor <b>21</b><i>c</i> is double-sided having one side <b>25</b> with an interface arranged to engage and secure with a first predetermined type or types of connections to light cables and/or light sources and an opposing or flip side <b>27</b> with an interface arranged to engage and secure with a second or different predetermined type or types of connections to light cables and/or light sources. Both sides <b>25</b>, <b>27</b> of the adaptor <b>21</b><i>c</i> are arranged to engage and secure with the connector <b>12</b> of the POF <b>11</b>. In various embodiments, sides <b>25</b>, <b>27</b> connects and secures the adaptor to respective connections through threads, clips, snap-fits, keyways, bayonets or other various interfaces or interfacing features. An adaptor in various embodiments connects with a fixed ACMI adaptor using threads or snap on features. In various embodiments, the connector and/or adaptor, e.g., adaptor <b>21</b><i>d</i>, includes levers or arms, e.g., arm <b>29</b>, configured to enlarge or retract an inner diameter or opening to open/close or clamp around a connection or end of the light source, light cable, and/or an intermediary connection, e.g., an adaptor or additional cables. In various embodiments, one end of the adaptor and/or connector has an adjustable opening or clamp interface, e.g., adaptor <b>21</b><i>d</i> as shown in <figref idref="DRAWINGS">FIG. <b>20</b></figref>, and in other various embodiments, the adaptor and/or connector has both ends with adjustable openings or clamp interfaces. In various embodiments, the adaptor <b>21</b> can be integrated or otherwise permanently attached to the connector <b>12</b> as a monolithic structure or can replace or be used in place of the connector <b>12</b>.</p>
+<p id="p-0047" num="0046">In various embodiments, the end of the light cable is configured to be removably attached to a laparoscope or the connector of the lighted surgical access device. In various embodiments, the connector and/or adaptor is configured to removably connect directly to a light source. In various embodiments, the connector and/or adaptor is configured to removably connect to a light cable. In various embodiments, the connector is provided to specifically attach to a specific connection presented at the end of the light cable. In various embodiments, the connector and/or adaptor is customizable or adjustable to accommodate one or more different types of connectors or connections presented or offered at the end of the light cable. In various embodiments, the connector and/or adaptor is connectable and/or compatible with industry standard surgical light cables.</p>
+<p id="p-0048" num="0047">In various embodiments, the connector <b>12</b> has a snap-fit connection in which one or more adaptors, e.g., adaptor <b>21</b><i>a</i>, b, are arranged to snap onto an open end of the connector <b>12</b>. In various embodiments, the connector <b>12</b> includes one or more O-rings or snap rings with corresponding grooves or channels configured to seal and engage the inner diameter of the adaptor to further enhance the connection between the two. In various embodiments, the connector <b>12</b> and/or adaptor <b>21</b> includes one or more flanges extending radially from the outer surface of the connector and/or adaptor to prevent or restrict the travel or extension of the adaptor or a connection or connector thereto over the connector <b>12</b> and/or adaptor <b>21</b>. In various embodiments, the adaptor has similar connection type ends. For example, adaptor <b>21</b><i>a</i> has a snap fit connection on one end and a snap fit connection on the opposite end. In various embodiments, the adaptor has dissimilar connection type ends. For example, adaptor <b>21</b><i>b</i> has a snap fit connection on one end and a threaded connection on the opposite end. In various embodiments, the connector <b>12</b> is used without the adaptor <b>21</b>.</p>
+<p id="p-0049" num="0048">In various embodiments, the adaptor is arranged to press fit over the outer surface of different types of light cables. In various embodiments, the adaptor is arranged to connect or secure the connection and/or light cable via a magnetic connection. In various embodiments, the adaptor includes a friction-based push-lock where insertion of the light cable within an opening in the adaptor and the subsequent release of the light cable connects and secure the light cable to the adaptor. In various embodiments, the adaptor is arranged to connect directly to a connection on the light box or source. In various embodiments, the adaptor comprises of clamshell-like components arranged to clamp and secure the light cable and the POF together. In various embodiments, the clamshell further comprises compressible foam or the similar materials or have different diameter tiers to fit and secure different sized or dimensioned and/or shaped light cables and/or their connectors or other intermediaries thereto. In various embodiments, the proximal end of the POF includes a preload or biasing mechanism, such as a spring or O-ring, arranged to engage an distal end of a light cable to compress, e.g., the spring, as the light cable is connected to the adaptor to bias the light cable and/or adaptor into a flush contact position. In various embodiments, the adaptor includes one or more lenses arranged to focus light from the light cable into the POF and/or connector and/or in various embodiments, the connector includes one or more lenses arranged to focus light from the adaptor into the connector and/or from the connector into the POF.</p>
+<p id="p-0050" num="0049">In various embodiments, the adaptor and/or connector includes a heat sink or other heat dissipation and/or insulation to reduce or minimize thermal effects that may occur due to non-flush contacts with the light cable, adaptor and/or connector. In various embodiments, the adaptor and/or connector includes an insulation sleeve arranged to reduce thermal effects and/or spread that may potentially adversely affect the user, patient, and/or the device or other surrounding device or components.</p>
+<p id="p-0051" num="0050">In various embodiments, the POF leader <b>14</b> communicates or transmits light from a proximal end or connector <b>12</b>, in various embodiments, to the POF tail <b>16</b> and ultimately to the internal surgical site or body cavity or opening. In various embodiments, the POF leader is an elongate tube, tubular-like or cylindrical structure.</p>
+<p id="p-0052" num="0051">The POF leader <b>14</b>, in various embodiments, is covered with heat shrink to eliminate glare, reduce bends, and/or to join or connect the connector and/or sleeve with the POF. The heat shrink or another opaque material serves as a barrier that blocks light escaping from the leader from causing glare. The heat shrink in various embodiments has a non-transparent color and/or includes or is made of non-translucent material.</p>
+<p id="p-0053" num="0052">In various embodiments, the POF leader <b>14</b> and/or POF tail <b>16</b> comprises a heat shrink that provides a layer of material constricting the POF and preventing sharp bends. Sharp bends in the POF can cause a substantial amount of light to be lost. To help anchor or seal the connector, adaptor and/or sleeve to the POF, in various embodiments, the heat shrink is used. It should be noted that the heat shrink eliminates glare, reduces bends, and joins the adaptor and/or connector with the POF, solving multiple problems at once. In various embodiments, the POF may be painted or coated to eliminate glare, stress releasers used to reduce bends, and/or clamps used to join or connect to the adaptor, connector or sleeve to separately or individually to reinforce the heat shrink or accomplish the task separately or individually.</p>
+<p id="p-0054" num="0053">In various embodiments, the POF leader <b>14</b> is configured to maintain flexibility to allow a user to manipulate the POF and avoid tissue trauma against the incision wall or interfere with the sheath of the retractor. In various embodiments, the POF leader is configured to prevent the POF from dislodging or shifting to maintain optimal light output or throughput between the light source and the POF. In various embodiments, the POF leader is configured to block light emitting from the POF until the light reaches the POF output site to thereby to maximize the illumination or reduction of delivered or communicated light at the site. In various embodiments, the POF leader includes opaque, e.g., black, film or lining that may or may not be heat shrunk that provides flexibility and light blockage. In various embodiments, select portions, e.g., the proximal and/or distal portions or ends of an opaque film, sleeve, wrap, or lining are heat shrunk onto the tube of the POF leader. In other embodiments, the POF leader is less opaque, e.g., white, with a film or lining that may or may not be heat shrunk that provides flexibility. In various embodiments, the POF leader comprises a black adhesive lined heat shrink that provides flexibility, resistance to pull force or dislodgement of the POF leader and light blockage. In various embodiments, light output may be increased by wrapping the POF leader with a reflective material before applying the heat shrink. The reflective material reflects escaping light back into the POF.</p>
+<p id="p-0055" num="0054">In various embodiments, the POF leader includes cuts, slits and/or scoring to act as cooling scores to reduce or dissipate some of the light energy entering the POF and prior to such energy reaching the POF tail. In various embodiments, cooling scores are provided under an opaque film, sleeve, wrap, or lining are heat shrunk onto the POF leader, e.g., a black adhesive lined heat shrink. In various embodiments, the opaque film, sleeve, wrap or lining are heat shrunk onto the POF leader, e.g., a black adhesive lined heat shrink, absorbs the light from the cooling scores and thereby allows heat energy to be dissipated across a larger surface area along the POF and not concentrated at the POF tail and/or the distal end or distal most end of the POF tail <b>16</b>.</p>
+<p id="p-0056" num="0055">In various embodiments, the POF tail <b>16</b> is configured to lie or be placed inside the surgical site. In various embodiments, the POF tail is an elongate tube or a tubular-like or cylindrical structure. In various embodiments, the POF tail comprises one or more cuts, scoring or indentations <b>18</b>. The cuts <b>18</b> in various embodiments are angled at a predetermined or predefined angle, e.g., at or around 45 degrees, to ensure total internal reflection, for more than half of the light that encounters the cuts. In various embodiment, the scoring or cuts are angled between 42 to 45 degrees, e.g., angle 180 relative to axis 181 as shown in <figref idref="DRAWINGS">FIGS. <b>15</b>-<b>16</b></figref>. The light refracts out of the POF once it reaches the other side of the POF because the angle between the light rays and surface of the POF are large enough that light escapes instead of bouncing inside the POF. Reflecting light to the other side of the POF is beneficial because the cylindrical POF wall helps diffuse light. The cuts are positioned so that the refracted light is directed to the internal anatomy.</p>
+<p id="p-0057" num="0056">In various embodiments, the frequency or the number of the cuts <b>18</b> are predetermined or predefined to create an even extraction and distribution of light near the distal end of the sheath and/or at the internal surgical site. Each cut extracts light and decreases the amount of light traveling through the POF thus resulting in dimmer subsequent cuts. To compensate or account for the dimness, the frequency/amount of the cuts in various embodiments are predetermined such that light extraction is uniform throughout. In various embodiments, the one or more cuts are predetermined or predefined in spacing or positioning to create an even extraction and distribution of light near the distal end of the sheath and/or at the internal surgical site.</p>
+<p id="p-0058" num="0057">The cuts in various embodiments are on the surface or punched through the POF. Circular holes through the POF can achieve similar results as cuts. In various embodiments, the POF is scored to increase the brightness and/or light output at the surgical site about 10 times greater than bare POF or POF unscored. Additionally or alternatively, the POF is scored to reduce the power required to generate a desired light output and/or brightness and in various embodiments reduces power required to about 50 to 60 percent than that required by bare POF or POF unscored.</p>
+<p id="p-0059" num="0058">In various embodiments, the scoring of the POF <b>11</b> can vary in frequency and/or depth to vary the light output, focus and/or direction of the light at the surgical site, e.g., highlighting or focusing on certain portions relative to the orientation of the retractor and the POF attached thereto.</p>
+<p id="p-0060" num="0059">As shown, for example, at least in <figref idref="DRAWINGS">FIGS. <b>21</b>A-<b>21</b>D</figref>, the distal end <b>17</b> of the POF <b>11</b> may have a predefined or predetermined end profile, covering and/or cap. In various embodiments, the distal end <b>17</b> of the POF <b>11</b> has a flat end, profile or shape, e.g., a flat end <b>17</b><i>a</i>, and/or a cap, cover or lens with a flat end, shape or profile. The flat end <b>17</b><i>a</i> is configured to direct light from POF <b>11</b> directly in-line or longitudinally out the distal end <b>17</b> of the POF along a center axis of the POF. As such, the light of the POF exits unobstructed and is not reflected back into the POF. In various embodiments, the distal end <b>17</b> of the POF <b>11</b> has an angled end, shape or profile, e.g., angled end <b>17</b><i>d</i>, and/or a cap, cover or lens with an angled or slanted end, shape or profile. The angled end <b>17</b><i>d</i> is configured to direct light from POF <b>11</b> orthogonally or angled relative to a center or longitudinal axis of the POF and/or offset or parallel to the center axis of the POF.</p>
+<p id="p-0061" num="0060">In various embodiments, the end profile of the POF <b>11</b> is tapered or rounded to refract light radially. In various embodiments, the distal end <b>17</b> of the POF <b>11</b> has a tapered or rounded end, profile or shape and/or a cap, cover or lens with a tapered or rounded end, shape or profile, e.g., a tapered end <b>17</b><i>b</i> or rounded end <b>17</b><i>c</i>. For example, in various embodiments, instead of the light escaping parallel to the POF <b>11</b> it is distributed radially and thus illuminating the internal anatomy. Inside the POF <b>11</b>, in various embodiments, light is traveling at +/- 25 degrees to the POF center axis. In order to extract all of that light radially the end profile is tapered to +/- 23 degrees. In various embodiments, a tapered profile of the POF extracts the light radially. In various embodiments, the distal portion or end of the POF has a profile or shape that is different from a distal end or portion of the cap, cover or lens of the POF. In various embodiments, the distal end <b>17</b> of the POF <b>11</b> has an end, profile or shape and/or a cap, cover or lens with an end, shape or profile of a different geometry other than flat, such as round or a prism, to direct or diffuse light for enhanced illumination, minimize light interference and/or reduce heat or thermal energy.</p>
+<p id="p-0062" num="0061">In various embodiments, the distal end <b>17</b> of the POF <b>11</b> has a predetermined profile or shape and/or a cap, cover or lens with a predetermined shape or profile to help diffuse or redirect light to the internal anatomy and distribute light/thermal energy more evenly. In various embodiments, the distal end <b>17</b> of the POF <b>11</b> is coated, covered or otherwise configured to help diffuse or redirect energy or light exiting out the distal portion or end of the POF <b>11</b>. In various embodiments, the cap, cover or lens is integrated into the distal portion or end <b>17</b> of the POF <b>11</b> forming a monolithic structure. In various embodiments, the cap, cover, or lens, e.g., cap <b>171</b> as shown in <figref idref="DRAWINGS">FIGS. <b>5</b> and <b>14</b></figref>, is friction-fit, adhered or otherwise attached to the distal portion or end <b>17</b> of the POF <b>11</b>. In various embodiments, the cap, cover or lens has an inner diameter matching or somewhat larger than the outer diameter of the distal portion or end of the POF to friction-fit or otherwise attach to the distal portion or end of the POF. In various embodiments, the cap, cover or lens has an outer diameter larger than the outer diameter of the distal portion or end of the POF. In various embodiments, the cap, cover or lens includes an inner concentric tube or cylinder and/or one or more protrusions configured to attached or connect an outer surface of the inner tube, cylinder or protrusion to an inner surface of the distal portion or end of the POF to further secure the cap, cover or lens to the distal portion or end of the POF. In various embodiments, the cap, cover or lens has one or more indents or cavities along or within an outer or end surface of the cap, cover or lens to facilitate attachment and/or removal of the cap, cover or lens and/or to diffuse or direct energy or light of the POF.</p>
+<p id="p-0063" num="0062">In various embodiments, the cap, cover or lens includes a reflective film, coating or lining to help reflect some of the light energy back into the POF tail which in return is reflected out into the body cavity and/or increase light intensity rather than being fully absorbed by the cap, cover or lens. In various embodiments, a disc of mirror-like reflective film may be placed on, e.g., inside, the cap, cover or lens or adhered to the end portion of the POF tail with the disc reflective film configured to reflect light back into the POF, brightening the light emitted into the body cavity and reducing heat absorbed by the cap, cover, lens or end portion of the POF tail, reducing or lowering temperature experienced by the same. In various embodiments, a cap or cover is positioned on a distal most end of the POF tail both of which are placed within the sleeve and, in various embodiments, the cap, sleeve and/or sheath insulate the outside or surrounding area from heat being generated by the light at the end of the POF tail. In various embodiments, the cap is arranged to minimize the temperature on the outside of the cap. For example, the cap has an outer shell creating an insulating air gap between the core or inner portion of the distal end of the POF tail and/or an inner shell or portion of the cap connected thereto. In various embodiments, the POF and/or the POF tail and/or the cap, cover or lens has a wall thickness, coating, covering and/or material that is configured to prevent the temperature of the POF tail and/or cap, cover or lens from exceeding a predetermined temperature, e.g., 43&#xb0; C., or range, e.g., 40-45&#xb0; C. or less than or equal to 43&#xb0; C.</p>
+<p id="p-0064" num="0063">In various embodiments, the lighted surgical access system includes two thermoplastic polyurethane (TPU) inner and outer rings, TPU film that forms a sheath between the rings, a plastic optical fiber (POF) made from methyl methacrylate, polyolefin heat shrink tubing that covers a portion of the POF, and/or connectors and/or adaptors for compatibility with industry standard surgical light cables.</p>
+<p id="p-0065" num="0064">In accordance with various embodiments, a lighted surgical access device or system is provided to eliminate the drawbacks associated with current surgical lighting technologies. In accordance with various embodiments, the lighted surgical access device or system provides illumination in the internal surgical site, body cavity, incision, or opening while providing 360 degrees of hands-free retraction and/or protection. The lighted surgical access device or system is thus configured to provide circumferential, atraumatic retraction as well as illumination of the internal surgical site, body cavity, incision, or opening to gain maximum exposure within the patient&#x2019;s body cavity, incision and/or opening.</p>
+<p id="p-0066" num="0065">In various embodiments, the lighted surgical access system positions the lighting element underneath the incision or patient opening, which eliminates the problems of glare and/or shadows around the incision and insufficient light entering through small incisions or openings. In various embodiments, the POF is positioned and/or mounted to the sheath above the inner ring thereby avoiding or reducing obstruction by the inner ring, not obstructing the ability of the inner ring to anchor within the patient&#x2019;s cavity and/or not reducing the flexibility of the inner ring in placement through the patient&#x2019;s opening and/or within the patient&#x2019;s cavity, yet aligning light output into the internal surgical site.</p>
+<p id="p-0067" num="0066">In various embodiments, a portion of the POF configured to sit below the incision or patient opening has scoring or cuts to help disperse light from the POF and illuminate the internal surgical site or space, body cavity, incision, or opening. The POF leader or portions thereof of the POF that feeds out through the incision or opening, in various embodiments, is shielded to block light from escaping and terminates with a connector and/or an adaptor to connect to standard surgical lighting units or sources. Positioned under the incision or opening, the light emitting portion of the lighted surgical access system is unable to produce glare on the top of the incision or opening, which preserves the visual contrast of the internal surgical site or space. In addition, since the light is carried into the incision or opening by a POF and then dispersed, the amount of light that can illuminate the surgical space is not limited by the size of the incision or opening.</p>
+<p id="p-0068" num="0067">In various embodiments, the hoop or semi-circular shape of the POF contributes to the lighting effectiveness of the lighted surgical access device or system. In various embodiments, the exposed portion of the plastic optical fiber is mounted circumferentially around the sheath, following the path or outline of the sheath or the inner ring, and light is emitted evenly around the circumference of the sheath or inner ring. Therefore, the light emitted from the system is evenly distributed and/or omnidirectional rather than originating from a single point, which eliminates the problem of shadows being cast in the surgical field. For instance, if the surgeon&#x2019;s hand or an instrument is inserted in the incision or opening and thereby blocking the light or portions thereof from one side of the ring, the other half of the ring will still be illuminating the site, preventing a disruptive shadow. The evenly distributed and/or omnidirectional nature of the light also solves the problems of frequent repositioning (e.g., typically necessary for overhead lamps) and keeping the light pointed in the right direction (e.g., typically problematic for headlamps). With the light positioned in the incision or opening and able to come or be dispersed from all angles, the need to adjust its positioning or angle to achieve sufficient lighting, even when the patient needs to be repositioned, is minimized or eliminated.</p>
+<p id="p-0069" num="0068">With the POF integrated or otherwise attached to the self-retaining retractor allows the lighted surgical access device to be completely hands-free in use. This solves the problem and/or the inconvenience of other lighted retractors, which require a member of the surgical team to continuously hold the retractor in place. Operationally, in accordance with various embodiments, the lighted surgical access device is placed in the incision by squeezing the inner ring and inserting it through the incision or opening, where it then expands and anchors. The outer ring is flipped down to tension the sheath and retract the incision. At this point, the lighted surgical access device or system requires no further adjustment and will continue to retract the incision or opening hands-free. With the POF mounted or otherwise attached to the sheath above or spaced away from the inner ring or distal most portion or end of the sheath, the addition of the POF does not change or otherwise interfere with the retraction operation or procedure and/or anchoring of the inner ring, and the lighted surgical access device or system can be used hands-free after initial positioning. In various embodiments, with the POF mounted or otherwise attached to the sheath above or spaced away from the inner ring or distal most portion or end of the sheath, light interference by the inner ring or distal portions of the sheath can be avoided or eliminated and/or positioning of the POF can be eased and/or optimized.</p>
+<p id="p-0070" num="0069">In various embodiments, the POF is one or more plastic optical fibers. In various embodiments, a bundle of plastic optical fibers is used, enhancing flexibility of the POF, and, in various embodiments have equal diameters. In various embodiments, the POF is a plurality of plastic optical fibers that when bundled together delimit a circle or cylinder having about a 5 mm diameter. In various embodiments, the plurality of plastic optical fibers combines at a junction between the POF leader and the POF tail at or proximate the sheath <b>9</b>, sleeve <b>8</b> and/or the inner ring <b>5</b>. In various embodiments, a plurality of smaller POF fibers from the POF leader terminate at different points along or proximate the inner ring <b>5</b> and/or the distal end of the sheath to disperse light at those selected points. In various embodiments, the POF comprises a plurality of plastic optical fibers having different lengths and/or diameters to disperse light at different points and/or adjust flexibility of the POF at different portions of the POF. In various embodiments, the POF is a single plastic optical fiber having about a 5 mm diameter. In various embodiments, the POF has a diameter that is equal or greater than the diameter of the light cable. In various embodiments, the POF is elongate and tubular and in various embodiments, comprises one or more plastic optical fibers that are elongate and tubular. In various embodiments, the POF leader or portions thereof aligned with a patient&#x2019;s opening or incision has a thinned, reduced or smaller profile, e.g., having a oval, rectangular shape or the like, preventing obstruction and/or interference with the retractor and/or the patient&#x2019;s body, opening and/or an incision.</p>
+<p id="p-0071" num="0070">In various embodiments, the POF or portions thereof is or includes an end-glow fiber to reduce light loss. In various embodiments, the POF comprises different types of plastic optical fibers. For example, in accordance with various embodiments, the POF leader comprises an end-glow POF and transitions to a side-glow POF at a predetermined junction at or proximal to the sheath. In various embodiments, the POF leader comprises an end-glow POF and the POF tail comprises a side-glow POF. In various embodiments, a coupler, e.g., a T-shaped coupler, is provided in that the POF leader terminates at or proximate the inner ring with the T-shaped coupler positioned and connecting between the POF leader and one or more side-glow POFs, e.g., the POF tail comprises one or more side-glow POFs. In various embodiments, the POF or portions thereof are molded to an arcuate or circular shape having one or more bubbles embedded therein to disperse light away from the outer ring and towards the internal surgical site or area of interest.</p>
+<p id="p-0072" num="0071">In various embodiments, the POF and/or sleeve is configured to not exceed a predetermined temperature, e.g., 40-45&#xb0; C. or 43&#xb0; C. In various embodiments, the POF and/or sleeve so configured includes one or more layers, coatings, films or thermal or heat dissipating or reducing insulation. In various embodiments, an additional or second sleeve is provided and attached to the sheath. The second sleeve encases or covers the POF leader. In various embodiments, the second sleeve is orientated vertically or diagonally relative to a longitudinal axis of the sheath and its access channel. In various embodiments, the second sleeve is oriented in a transverse direction relative to the sleeve containing the POF tail. In various embodiments, the second sleeve and the sleeve containing the POF tail are combined or monolithically formed to provide a single structured sleeve. In various embodiments, all or portions of the POF and/or sleeve includes or is integrated with a reflective film, coating or cover to reflect light back into the POF to reduce light loss. In various embodiments, a cable-management device or system is attached or integrated with the POF to regulate, control or dispense a desired length of the POF for operational use while any excess remains managed, e.g., coiled or wrapped, to prevent obstruction of an excess portion of the POF.</p>
+<p id="p-0073" num="0072">In operation, surgical retraction is achieved by first compressing and inserting the inner ring into the incision or opening and seating it beneath the desired anchoring tissue. The outer ring is then flipped or rolled by the user, which tensions the sheath and applies outward pressure to the wound or opening, effectively retracting the tissue. Placement of the POF being proximate and/or spaced from the inner ring or distal most portion of the sheath places the POF within the internal surgical site and/or the access channel, beneath the anchoring tissue and/or the incision or opening. The lighted surgical access system illuminates the internal surgical site and/or the access channel by transmitting light through the POF, which is sealed onto the sheath above the inner ring, and spans from within the incision or opening to outside the sterile field. Light is provided from a surgical light source and is transferred through a surgical light cable. The light cable is connected to one of the adaptors of the system. Once the surgical procedure is completed or as desired, the user can disconnect the light cable from the adaptor and/or connector and extract the lighted surgical access device from the surgical site.</p>
+<p id="p-0074" num="0073">In various embodiments, the POF is kept separated from the sheath and subsequently attached to the sheath for operational use. In various embodiment, the POF is incorporated, fitted or placed into the sleeve of the sheath at the time of the procedure or in anticipation of the surgical procedure for operational use. In various embodiment, the sheath comprises a pocket in which the POF is incorporated or placed into the sheath at the time of the procedure or in anticipation of the surgical procedure for operational use. In various embodiments, the POF with or without the sleeve is entrapped between the inner ring and the sheath by wrapping the sheath around the POF by, for example, flipping the inner ring attached to the sheath over and around the POF. In various embodiments, a cushion or impact resistant barrier is provided such as rubber or elastomeric cushion attached or otherwise connected to the POF, sheath and/or sleeve to insulate or protect the body or surgical opening from manipulations or pressure exerted by the POF during operational use. In various embodiments, the cushion or impact resistant barrier is disposed between the POF tail, leader and/or both and the body opening and/or incision. In various embodiments, the POF tail, leader or both is disposed between the cushion and/or impact resistant barrier and/or the sheath and/or sleeve.</p>
+<p id="p-0075" num="0074">In various embodiments, the lighted surgical access system may include a retractor and a POF connected to or otherwise attached to the retractor. In various embodiments, the lighted surgical access system may include a light source, a retractor and a POF connected to the retractor and the light source. In various embodiments, the POF is removably connected to the light source and/or the retractor. In various embodiments, the lighted surgical access system can include a light cable connecting the light source to the POF. In various embodiments, the lighted surgical access system may include a surgical access device and a POF connected to or otherwise attached to the surgical access device. In various embodiments, the surgical access device may be or include a retractor, a cannula, a trocar or the like providing access or a channel or pathway into a patient&#x2019;s body cavity and/or in various embodiments may be flexible being able to bend and/or allow tissue or the like to deform or compress portions thereof.</p>
+<p id="p-0076" num="0075">In various embodiments, the lighted surgical access system may include a retractor that is adjustable in length to accommodate different patient anatomy and/or 360 degrees of hands-free protection and/or retraction of the opening in the patient. In various embodiments, the retractor may not include an outer ring, an inner ring or both. In various embodiments, the lighted surgical access system may comprise a surgical access device, a POF and/or a light source. In various embodiments, the lighted surgical access system comprises a POF. In various embodiments, the POF is spaced and separated from the inner ring and/or the distal most portion, component or end of the sheath or surgical access device. In various embodiments, the POF is fixed to the sheath or otherwise confined longitudinally or lengthwise along or relative to the sheath. In various embodiments, one or more POFs may be attached to the sheath with one or more extending circumferentially or along portions thereof around the sheath. In various embodiments, the inner ring or support or portions thereof in its entirety or one or more portions thereof is made of one or more POFs, e.g., a molded POF and/or side-glow POFs. As such, in various embodiments, one or more POFs, as described throughout the application, can be used in lieu of or to act as an inner ring. In various embodiments, the sheath or portions thereof is arranged to act as a light curtain carrying light under the body wall or patient opening to or at the internal surgical site. In various embodiments, a skirt, drape, and/or a second sheath is attached and/or extends from the distal end of the sheath and/or the inner ring to act as a light curtain to carry light under the body wall or patient opening to or at the internal surgical site.</p>
+<p id="p-0077" num="0076">In various embodiments, the POF comprises a POF leader and/or a POF tail. In various embodiments, the light cable and/or intermediaries thereto is directly connected to the POF tail, e.g., the POF leader is removed. In various embodiments, the POF includes a core and a cladding surrounding or encasing the core. In various embodiments, the POF outer cladding layer is modified, such as added surface roughness, to enhance light scattering. In various embodiment, the outer cladding layer is removed or portions thereof, e.g., exposing one or more sections of the core of one or more portions of the POF, e.g., the POF tail or portions thereof, under the incision or internal surgical site of interest.</p>
+<p id="p-0078" num="0077">In various embodiments, the POF and/or the POF tail includes one or more cuts, protrusions, projections or other deflection and/or reflection points, portions or area are shaped, sized or otherwise dimensioned to adjust light scattering of the POF. In various embodiments, the POF and/or the POF tail includes one or more cuts, protrusions, projections or other deflection and/or reflection points, portions or area to partially direct light in one or more specific directions. In various embodiments, a specific direction is towards an internal surgical site or area of interest and/or away from or opposite that of outside the patient or outer portion of the surgical access system. The one or more cuts, protrusions, projections or other deflection and/or reflection points, portions or area, in various embodiments, allow or permit the incoming light to also travel along any remainder or further along portions of the POF, opposite the incoming light travel. In various embodiments, the one or more cuts, protrusions, projections or other deflection and/or reflection points, portions or area are holes, channels, grooves, apertures or the like are angled, e.g., normal or at 45 degrees or less relative to the POF or light cable. In various embodiments, the POF and/or the POF tail includes one or more cuts, protrusions, projections or other deflection and/or reflection points, portions or area that are molded or otherwise preformed with predetermined shapes, sizes and/or dimensions to adjust or provide optimal scattering or dispersion of light. In various embodiments, the POF and/or the POF tail includes one or more cuts, protrusions, projections or other deflection and/or reflection points, portions or area that are above or on a side away from the inner ring and/or an internal surgical site or area of interest. In various embodiments, the light travels encountering other deflection, reflection or refraction points or areas and/or ultimately to the POF&#x2019;s terminal end. In various embodiments, the POF&#x2019;s terminal end comprises a specific profile and/or end cap or cover that deflections, reflections or retractions the incoming light in one or more specific directions, including allowing the incoming light to proceed uninterrupted upon exiting the terminal end of the POF, as provided by the end profile or cap. In various embodiments, the POF comprises a connector, a POF leader, a POF tail, an end cap and/or any combination thereof.</p>
+<p id="p-0079" num="0078">The above description is provided to enable any person skilled in the art to make and use the devices or systems and perform the methods described herein and sets forth the best modes contemplated by the inventors of carrying out their inventions. Various modifications, however, will remain apparent to those skilled in the art. It is contemplated that these modifications are within the scope of the present disclosure. Different embodiments or aspects of such embodiments may be shown in various figures and described throughout the specification. However, it should be noted that although shown or described separately each embodiment and aspects thereof may be combined with one or more of the other embodiments and aspects thereof unless expressly stated otherwise. It is merely for easing readability of the specification that each combination is not expressly set forth.</p>
+<p id="p-0080" num="0079">Although the present invention has been described in certain specific aspects, many additional modifications and variations would be apparent to those skilled in the art. It is therefore to be understood that the present invention may be practiced otherwise than specifically described, including various changes in the size, shape and materials, without departing from the scope and spirit of the present invention. Thus, embodiments of the present invention should be considered in all respects as illustrative and not restrictive.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A lighted surgical access system to illuminate internally a body cavity comprising:
+<claim-text>an outer ring arranged to be placed outside of a body cavity;</claim-text>
+<claim-text>an inner ring arranged to be placed inside of the body cavity;</claim-text>
+<claim-text>a sheath having a proximal end connected to the outer ring and a distal end connected the inner ring, the sheath delimiting an access channel extending from the outer ring to the inner ring;</claim-text>
+<claim-text>a light generator arranged to be connectable to a laparoscope;</claim-text>
+<claim-text>a plastic optical fiber (POF) comprising a POF leader being a proximal portion of the POF and a POF tail being a distal portion of the POF, the POF leader extending beyond the outer ring and connectable to the light generator; and</claim-text>
+<claim-text>a sleeve connected to a distal portion of the sheath and spaced from the inner ring, the sleeve extending radially around the distal portion of the sheath and the POF tail being positioned within the sleeve.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The lighted surgical access system of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the POF tail comprises a plurality of cuts.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The lighted surgical access system of <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein the plurality of cuts are disposed on a side of the POF tail that faces away from the inner ring and are angled.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The lighted surgical access system of <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein the POF tail further comprises a non-transparent material covering a portion of the POF tail.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The lighted surgical access system of <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein the POF tail further comprises a reflective material disposed between the non-transparent material and the plurality of cuts.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The lighted surgical access system of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a non-transparent material covering the POF leader.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The lighted surgical access system of <claim-ref idref="CLM-00006">claim 6</claim-ref> wherein the POF leader further comprises a reflective material disposed between the non-transparent material and the POF leader.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The lighted surgical access system of <claim-ref idref="CLM-00006">claim 6</claim-ref> wherein the POF leader comprises a plurality of cuts.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The lighted surgical access system of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a light cable connectable to the light generator and a proximal end of the POF leader.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The lighted surgical access system of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a light cable connectable to the lighter generator and at least one of an adaptor or a connector, the at least one of the adaptor or the connector being connectable to the proximal end of the POF leader and comprising an adjustable opening arranged to connect to the light cable.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The lighted surgical access system of <claim-ref idref="CLM-00010">claim 10</claim-ref> wherein the at least one of the adaptor or the connector comprises a clamp arranged to adjust the adjustable opening.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The lighted surgical access system of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a first light cable, a second light cable, and a double-sided adaptor having a first side connectable to the first light cable and a second side connectable to a connector on a proximal end of the POF leader, the first side of the adaptor also being connectable to the connector and the second side being connectable to the second light cable, the first side of the double-sided adaptor having a connection interface different from a connection interface of the second side of the double-sided adaptor.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The lighted surgical access system of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a reflective material positioned within the sleeve.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The lighted surgical access system of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the sheath has an inner surface and an outer surface, the sleeve being connected to the outer surface of the sheath and further comprising a reflective material positioned on the inner surface of the sheath.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The lighted surgical access system of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein a distal end of the POF tail has an angled end profile.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The lighted surgical access system of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising an end cap connected to a distal end of the POF tail.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The lighted surgical access system of <claim-ref idref="CLM-00016">claim 16</claim-ref> further comprising a reflective material attached to the end cap.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. A lighted surgical access system to illuminate internally a body cavity comprising:
+<claim-text>an outer ring arranged to be placed outside a body cavity;</claim-text>
+<claim-text>an inner ring arranged to be placed inside the body cavity;</claim-text>
+<claim-text>a sheath having a proximal end connected to the outer ring and a distal end connected the inner ring, the sheath delimiting an access channel extending from the outer ring to the inner ring;</claim-text>
+<claim-text>a light generator arranged to be connectable to a laparoscope;</claim-text>
+<claim-text>a plastic optical fiber (POF) comprising a POF leader being a proximal portion of the POF and a POF tail being a distal portion of the POF, the POF leader extending beyond the outer ring and connectable to the light generator and the POF tail comprising a plurality of cuts disposed on one side of the POF tail and the POF leader comprising a plurality of cuts and a non-transparent material covering the plurality of cuts of the POF leader; and</claim-text>
+<claim-text>a sleeve connected to a distal portion of the sheath and spaced from the inner ring and disposed between the inner ring and the outer ring, the sleeve extending around the distal portion of the sheath and having a channel through which the POF tail extends therethrough.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The lighted surgical access system of <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein the sleeve is sealed to the distal portion of the sheath and is impermeable.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The lighted surgical access system of <claim-ref idref="CLM-00019">claim 19</claim-ref> wherein the light generator comprises at least one of a Xeon light source, a light output of at least 1500 lumens, or a 300-watt light source.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

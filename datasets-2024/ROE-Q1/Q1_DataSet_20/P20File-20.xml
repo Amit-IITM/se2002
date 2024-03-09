@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225643A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225643</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18056666</doc-number>
+<date>20221117</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>1455</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>0205</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>145</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>14552</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>0205</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>14546</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>2562</main-group>
+<subgroup>0242</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>02427</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">ARCHITECTURE OF A PHOTONIC INTEGRATED CIRCUIT (PIC) AND METHOD FOR OPERATING THE SAME AS WELL AS AN OPTICAL COUPLER</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63280989</doc-number>
+<date>20211118</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="obligated-assignee">
+<addressbook>
+<orgname>ROCKLEY PHOTONICS LIMITED</orgname>
+<address>
+<city>Altrincham</city>
+<country>GB</country>
+</address>
+</addressbook>
+<residence>
+<country>GB</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>SCOFIELD</last-name>
+<first-name>Adam</first-name>
+<address>
+<city>Los Angeles</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>BAHARI</last-name>
+<first-name>Babak</first-name>
+<address>
+<city>Pasadena</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>THOMAS</last-name>
+<first-name>Abu</first-name>
+<address>
+<city>Oak Park</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>TRITA</last-name>
+<first-name>Andrea</first-name>
+<address>
+<city>Pasadena</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>ZILKIE</last-name>
+<first-name>Aaron John</first-name>
+<address>
+<city>Pasadena</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The invention refers to a photonic integrated circuit (PIC), the photonic integrated circuit comprising: at least one laser, the laser having a laser output, a measuring portion including a measuring port and configured to measure an intensity and/or wavelength of light input at the measuring port, and an output portion configured to output light from the photonic integrated circuit to the portion of the tissue, wherein optionally the laser includes a ring resonator laser, a laser generating light having a fixed wavelength, a laser being constructed using hybrid integration, and/or a tunable laser.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="67.14mm" wi="156.21mm" file="US20230225643A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="221.32mm" wi="168.91mm" file="US20230225643A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="235.20mm" wi="158.24mm" file="US20230225643A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="177.55mm" wi="154.43mm" file="US20230225643A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="222.08mm" wi="107.70mm" file="US20230225643A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="120.82mm" wi="113.03mm" file="US20230225643A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="220.98mm" wi="150.03mm" file="US20230225643A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="227.33mm" wi="72.98mm" orientation="landscape" file="US20230225643A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATION(S)</heading>
+<p id="p-0002" num="0001">The present application claims priority to and the benefit of U.S. Provisional Application No. 63/280,989, filed Nov. 18, 2021, entitled &#x201c;Architecture of a photonic integrated circuit (PIC) and method for operating the same&#x201d;, the entire content of which is incorporated herein by reference.</p>
+<p id="p-0003" num="0002">The present application also makes reference to International Application No. PCT/IB2022/000373 filed Jun. 24, 2022, entitled &#x201c;TRANSMITTER PHOTONIC INTEGRATED CIRCUIT&#x201d;, the entire content of which is incorporated herein by reference. The present application makes reference to International application published as WO 2021/116766, filed on Dec. 11, 2020, entitled &#x201c;OPTICAL SENSING MODULE&#x201d; which is incorporated by reference in its entirety.</p>
+<p id="p-0004" num="0003">The present application makes reference to U.S. application Ser. No. 17/814,787, filed on Jul. 25, 2022, entitled &#x201c;PHOTONIC INTEGRATED CIRCUIT&#x201d;, the entire content of which is incorporated herein by reference, and International Application No PCT/EP2022/071467, filed on Jul. 29, 2022, entitled &#x201c;PHOTONIC INTEGRATED CIRCUIT&#x201d;, the entire content of which is incorporated herein by reference.</p>
+<p id="p-0005" num="0004">The present application makes reference to U.S. application Ser. No. 17/711,974, filed on Apr. 1, 2022, entitled &#x201c;OPTICAL SENSOR MODULES&#x201d;, the entire content of which is incorporated herein by reference</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0006" num="0005">The invention refers to a photonic integrated circuit (PIC) for optically investigating flowing and/or non-flowing liquids, for example, flowing blood at a portion of tissue. The invention also refers to a method for controlling a photonic integrated circuit (PIC) for optically investigating flowing and/or non-flowing liquids.</p>
+<p id="p-0007" num="0006">The invention further relates to an optical coupler between a first optical element and a second optical element.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0008" num="0007">Digital healthcare is transforming the healthcare industry with a rising demand for real-time and on-demand analysis of various biomarkers for a range of purposes. Wearable devices (&#x201c;wearables&#x201d;) are now commonplace in the fields of wellness and healthcare (including for e.g. fitness tracking, general health monitoring, and medical condition management). For devices such as these, there is a desire for the sensing and measuring of biological parameters to be quick, non-invasive and of sufficient specificity, sensitivity, and accuracy. As a result, there is a desire to provide components suitable for use in non-invasive wearable devices that provide the necessary technical requirements for the biological parameters that are to be measured, but also that are conveniently small and that can be manufactured at a consumer-friendly price point. Whilst, for the visible and NIR (up to 1200 nm) wavelength ranges LEDs have been used, in the IR wavebands lasers have been introduced with the benefits of narrow bandwidths and higher intensities (better S/N ratios). It is known that non-invasive sensing modules may find uses outside of the wearable device market, for example in robotics or remote sensing.</p>
+<p id="p-0009" num="0008">Wearable devices should be robust, reliable and easy to wear and may include skin contact patches, wrist watches, rings, ear buds, head bands, and glasses frames.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0010" num="0009">This invention can be relevant to the application of lasers on spectroscopy chips for use in the visible and NIR wavelength range.</p>
+<p id="p-0011" num="0010">A photonic integrated circuit (PIC) may be configured to optically investigate blood flow and blood volume changes, and/or measurements of pulse oximetry (SpO2), oxygen saturation, carboxy haemoglobin, methaemoglobin, or fractional oxygen saturation at a portion of tissue of a user. However, the photonic integrated circuit may be used for other applications, such as a Lab-on-a-Chip, for measuring other types of fluids and/or gases, for Raman spectroscopy, and/or any other type of spectroscopy measurements. Pulse oximetry (SpO2), oxygen saturation, carboxy haemoglobin, methaemoglobin, or fractional oxygen saturation are described in WO 2021/116766, filed on Dec. 11, 2020, entitled &#x201c;OPTICAL SENSING MODULE&#x201d; which is incorporated by reference in its entirety.</p>
+<p id="p-0012" num="0011">In an optional embodiment, one, more, or all optical components, such as waveguides, light sources, and the like, disclosed in WO 2021/116766 may be configured to transmit, convey, and/or are functional for light having wavelength below 1200 nm, below 1000 nm, below 850 nm, and/or 750 nm. For example, the optical components disclosed in WO 2021/116766 may include silicon nitride (Si<sub>3</sub>N<sub>4</sub>).</p>
+<p id="p-0013" num="0012">One example would be the application of the photonic integrated circuit for the applications as described in International Application No. PCT/IB2022/000373 filed Jun. 24, 2022, entitled &#x201c;TRANSMITTER PHOTONIC INTEGRATED CIRCUIT&#x201d;, the entire content of which is incorporated herein by reference. The photonic integrated circuit may be the transmitter photonic integrated circuit for generating an optical signal for optical spectroscopy of a surface as described in PCT/IB2022/000373. The one or more coherent light sources described in PCT/IB2022/000373 can correspond to the lasers discussed below.</p>
+<p id="p-0014" num="0013">In an optional embodiment, one, more, or all optical components, such as waveguides, light sources, and the like, disclosed in PCT/IB2022/000373 may be configured to transmit, convey, and/or are functional for light having wavelength below 1200 nm, below 1000 nm, below 850 nm, and/or 750 nm. For example, the optical components disclosed in PCT/IB2022/000373 may include silicon nitride (Si<sub>3</sub>N<sub>4</sub>).</p>
+<p id="p-0015" num="0014">A further example would be the application of the photonic integrated circuit for generating an optical signal for optical spectroscopy of a surface (e.g. skin). Typically, the transmitter PIC would be used in conjunction with a receiver for receiving light that has been scattered and/or reflected from the surface being studied by spectroscopy. The photonic integrated circuit may be the transmitter photonic integrated circuit for generating an optical signal for optical spectroscopy of a surface.</p>
+<p id="p-0016" num="0015">For example, the homogenizer described in PCT/IB2022/000373 may be used with the receiver. Further, the speckle mitigation techniques, such as the ones described in described in PCT/IB2022/000373, may be capable of being turned on and off and not permanently employed to address the fact that some techniques benefit from coherent light while others benefit from incoherent or spatially homogenized light.</p>
+<p id="p-0017" num="0016">A further example would be the application of the photonic integrated circuit for the applications as described in U.S. application Ser. No. 17/814,787, filed on Jul. 25, 2022, entitled &#x201c;PHOTONIC INTEGRATED CIRCUIT&#x201d;, the entire content of which is incorporated herein by reference, and/or PCT application No PCT/EP2022/071467, filed on Jul. 29, 2022, entitled &#x201c;PHOTONIC INTEGRATED CIRCUIT&#x201d;, the entire content of which is incorporated herein by reference. The photonic integrated circuit may be the photonic integrated circuit (PIC) for optically investigating blood flow at a portion of tissue of a user as described in U.S. application Ser. No. 17/814,787 and/or PCT/EP2022/071467. The laser described in U.S. application Ser. No. 17/814,787 and/or PCT/EP2022/071467 can correspond to the lasers discussed below.</p>
+<p id="p-0018" num="0017">In an optional embodiment, one, more, or all optical components, such as waveguides, light sources, and the like, disclosed in U.S. application Ser. No. 17/814,787 and/or PCT/EP2022/071467 may be configured to transmit, convey, and/or are functional for light having wavelength below 1200 nm, below 1000 nm, below 850 nm, and/or 750 nm. For example, the optical components disclosed in U.S. application Ser. No. 17/814,787 and/or PCT/EP2022/071467 may include silicon nitride (Si<sub>3</sub>N<sub>4</sub>).</p>
+<p id="p-0019" num="0018">Further, examples of optical sensors (such as optical sensor module for measuring both speckleplethysmography (SPG) and photoplethysmography (PPG)) for analysing the light generated by photonic integrated circuit and subsequently reflected, diffracted, and/or absorbed light by a sample or object of interest (e.g. human tissue) are described in U.S. application Ser. No. 17/711,974, filed on Apr. 1, 2022, entitled &#x201c;OPTICAL SENSOR MODULES&#x201d;, the entire content of which is incorporated herein by reference</p>
+<p id="p-0020" num="0019">The photonic integrated circuit may be the photonic integrated circuit (PIC) for optically investigating blood flow at a portion of tissue of a user. A photonic integrated chip/circuit (PIC) for optically investigating blood flow at a portion of tissue of a user may comprise a laser, the laser providing an optical output, a first component of which is transmitted to the portion of tissue; one or more detectors, each detector configured to receive speckle generated at the portion of tissue; wherein the PIC further comprises one or more optical splitter(s) to optically couple a second component of the optical output of the laser to one or more respective input(s) of the one or more detectors; and wherein temporal autocorrelation is carried out at the detector between a sample arm formed by the first component and a reference arm formed by the second component. The laser described above can correspond to the lasers discussed below.</p>
+<p id="p-0021" num="0020">According to a first embodiment, a photonic integrated circuit (PIC) comprises at least one laser, a measuring portion including a measuring port and configured to measure an intensity and/or wavelength of light input at the measuring port, and</p>
+<p id="p-0022" num="0000">an output portion configured to output light from the photonic integrated circuit to the portion of the tissue. The laser has a laser output. Optionally, the laser includes a ring resonator laser, a laser generating light having a fixed wavelength, a laser being constructed using hybrid integration, and/or a tunable laser. Hybrid integration may relate to an active material which is not monolithically integrated into a Silicon-on-Insulator (SOI). The (optically) active material may be fabricated separately and bonded to the SOI platform wafer.</p>
+<p id="p-0023" num="0021">According to a second embodiment, a method for controlling a photonic integrated circuit (PIC) comprises</p>
+<p id="p-0024" num="0000">a) setting a tuning element of a laser,
+<br/>
+b) turning the laser on for generating laser light having a wavelength and an intensity,
+<br/>
+c) measuring the intensity and/or the wavelength of generated laser light, and
+<br/>
+d) detecting the reflection of the generated laser light from the portion of the tissue and analysing the reflected light for investigating the blood flow,
+<br/>
+wherein optionally the laser includes a ring resonator laser, a laser being constructed using hybrid integration, and/or a tunable laser.
+</p>
+<p id="p-0025" num="0022">According to a third embodiment, a method for controlling a photonic integrated circuit for optically investigating blood flow at a portion of tissue of a user comprises</p>
+<p id="p-0026" num="0000">a) setting a tuning element of one of n tunable lasers, n being an integer greater than or equal to 2,
+<br/>
+b) turning the one of the n tunable lasers on for generating laser light having a wavelength and an intensity,
+<br/>
+c) measuring the intensity and/or the wavelength of generated laser light,
+<br/>
+d) detecting the reflection of the generated laser light from the portion of the tissue and analysing the reflected light for investigating the blood flow, and
+<br/>
+e) repeating steps a) to d).
+</p>
+<p id="p-0027" num="0023">According to a fourth embodiment, an optical coupler comprises a first optical element including a first waveguide and a second optical element including a second waveguide and an end portion.</p>
+<p id="p-0028" num="0024">The first waveguide includes a facet configured to emit electromagnetic radiation from the first optical element. The end portion is configured to couple electromagnetic radiation into the second optical element. The first optical element and a second optical element are fixed so that the facet faces the end portion. The end portion includes a plurality of nanobeams wherein each nanobeam has a width that is smaller than the width of the second waveguide. The end portion includes a merging section at which the nanobeams merge. The optical element further includes a tapered portion arranged between the merging section and the second waveguide. A minimal width of the merging section is smaller than the width of the second waveguide.</p>
+<p id="p-0029" num="0025">In an optional embodiment, the receiver and/or the (optical) detector is arranged separated from the photonic integrated circuit. The photonic integrated circuit and the receiver/detector may be arranged within a common housing or arranged in separate housings.</p>
+<p id="p-0030" num="0026">In an optional embodiment, the photonic integrated circuit may be configured to generate, output, and/or deliver n wavelengths to tissue, wherein optionally the detection of the generated, output, and/or delivered light is provided on a receiver that is not arranged on the photonic integrated circuit. Further optionally, the receiver may include a discreet photodiode or a Complementary metal-oxide-semiconductor (CMOS) image sensor.</p>
+<p id="p-0031" num="0027">In an optional embodiment, the receiver includes one or more optical detectors.</p>
+<p id="p-0032" num="0028">In an optional embodiment, the receiver includes a controllable homogenizer, such as a Micro-Electro-Mechanical Systems (MEMS) membrane, that is configured to selectively turn spatial coherence off and on.</p>
+<p id="p-0033" num="0029">In an optional embodiment of the photonic integrated circuit, the laser includes a ring resonator laser, a laser generating light having a fixed wavelength, a laser being constructed using hybrid integration, and/or a tunable laser.</p>
+<p id="p-0034" num="0030">In an optional embodiment, the photonic integrated circuit further comprises:</p>
+<p id="p-0035" num="0000">n lasers, n being an integer greater than or equal to <b>2</b> and each laser has a laser output, and a splitting/combining portion including n input ports, a first output port, and a second output port, each input port being coupled to a respective one of the laser outputs, the first output port being coupled to the measuring port, and the second output port being coupled to the output portion.</p>
+<p id="p-0036" num="0031">In an optional embodiment of the photonic integrated circuit, the splitting/combining portion includes n optical splitters, each optical splitter is coupled to one input port, one first output port, and one second output port.</p>
+<p id="p-0037" num="0032">In an optional embodiment of the photonic integrated circuit, the output portion includes n output channels, each output channel being coupled to one second output port.</p>
+<p id="p-0038" num="0033">In an optional embodiment of the photonic integrated circuit, the splitting/combining portion includes one optical combiner and one optical splitter, the optical combiner being coupled to the n input ports for combining the light of the n lasers, the optical splitter being coupled to the optical combiner, to the first input port, and the second input port for splitting the light received from the optical combiner into the first output port and the second output port.</p>
+<p id="p-0039" num="0034">In an optional embodiment of the photonic integrated circuit, the output portion includes one output channel that is coupled to the optical splitter.</p>
+<p id="p-0040" num="0035">In an optional embodiment of the photonic integrated circuit, the splitting/combining portion includes n optical splitters and one optical combiner,</p>
+<p id="p-0041" num="0000">wherein each optical splitter is coupled to one input port, the one optical combiner and to the second output port for splitting the light received from the respective laser into the optical combiner and the second output port, and
+<br/>
+wherein the optical combiner is coupled to the measuring portion for combining the light received from the n optical splitters.
+</p>
+<p id="p-0042" num="0036">In an optional embodiment of the photonic integrated circuit, the output portion includes n output channels, each output channel being coupled to a respective one of the optical splitters.</p>
+<p id="p-0043" num="0037">In an optional embodiment, the photonic integrated circuit further comprises a control portion coupled to the n lasers and the measuring portion for tuning the n lasers based on the intensity and/or the wavelength measured by the measuring portion.</p>
+<p id="p-0044" num="0038">In an optional embodiment of the photonic integrated circuit, the control portion tunes all n tunable lasers using a common tuning algorithm.</p>
+<p id="p-0045" num="0039">In an optional embodiment of the photonic integrated circuit, the tunable laser includes a reflective semiconductor optical amplifier (RSOA) and a tuning element, wherein the tuning element includes a micro-ring reflector and/or a sampled Distributed Bragg Reflector (DBR) grating.</p>
+<p id="p-0046" num="0040">In an optional embodiment of the photonic integrated circuit, at least one of the n tunable lasers includes phase control section coupled between the reflective semiconductor optical amplifier (RSOA) and the tuning element for determining the phase of light.</p>
+<p id="p-0047" num="0041">In an optional embodiment of the photonic integrated circuit, the photonic integrated circuit includes a waveguide core made from silicon nitride (Si3N4), wherein optionally the laser generates light having wavelength below 1000 nm.</p>
+<p id="p-0048" num="0042">In an optional embodiment of the photonic integrated circuit, the laser output is split into a first optical component and a second optical component,</p>
+<p id="p-0049" num="0000">wherein the first optical component is arranged to be transmitted to and generate speckle at the portion of tissue of the user;
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0043">the photonic integrated circuit further comprising:
+<br/>
+one or more detectors, each detector configured to receive the speckle generated by the first optical component at the portion of tissue; and
+</li>
+        <li id="ul0002-0002" num="0044">one or more optical splitters optically coupling the second optical component to one or more respective input(s) of the one or more detectors;</li>
+        <li id="ul0002-0003" num="0045">wherein the photonic integrated circuit is further adapted to measure interference at the one or more detectors between a sample arm formed by the first optical component and a reference arm formed by the second optical component.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0050" num="0046">In an optional embodiment of the photonic integrated circuit, the photonic integrated circuit is configured to execute diffuse correlation spectroscopy (DCS).</p>
+<p id="p-0051" num="0047">In an optional embodiment of the photonic integrated circuit, the photonic integrated circuit executes a measurement of pulse oximetry (SpO2), oxygen saturation, carboxy haemoglobin, methaemoglobin, or fractional oxygen saturation.</p>
+<p id="p-0052" num="0048">In an optional embodiment, the photonic integrated circuit further comprises a homogenizer, the homogenizer comprising a planar waveguide device which receives light from the laser and generates interference to produce multiple statistically uncorrelated speckle patterns that are combined to provide the optical output at the output portion.</p>
+<p id="p-0053" num="0049">A wearable device comprises a photonic integrated circuit according to any one of the above embodiments of the photonic integrated circuit.</p>
+<p id="p-0054" num="0050">In an optional embodiment, the method for controlling a photonic integrated circuit includes</p>
+<p id="p-0055" num="0000">a) setting a tuning element of one of n lasers, n being an integer greater than or equal to 2,
+<br/>
+b) turning the one of the n lasers on for generating laser light having a wavelength and an intensity,
+<br/>
+c) measuring the intensity and/or the wavelength of generated laser light,
+<br/>
+d) detecting the reflection of the generated laser light from the portion of the tissue and analysing the reflected light for investigating the blood flow, and
+<br/>
+e) repeating steps a) to d).
+</p>
+<p id="p-0056" num="0051">In an optional embodiment of the method for controlling a photonic integrated circuit, step a) is executed based on pre-calibrated set points and before step b).</p>
+<p id="p-0057" num="0052">In an optional embodiment of the method for controlling a photonic integrated circuit, step e) is repeated for each one of the n lasers and each wavelength that can be generated by the n lasers.</p>
+<p id="p-0058" num="0053">In an optional embodiment of the method for controlling a photonic integrated circuit, step a) includes simultaneously setting the tuning elements of all n lasers and wherein step e) includes repeating steps b) to d) for each one of the n lasers before returning to step a).</p>
+<p id="p-0059" num="0054">In an optional embodiment of the method for controlling a photonic integrated circuit, step b) is executed before a) and wherein the setting of the tuning element of the one of the n lasers is based on the results achieved in step c).</p>
+<p id="p-0060" num="0055">In an optional embodiment of the method for controlling a photonic integrated circuit, steps a) to d) define a first cycle which includes varying the setting of the tuning element for the one of the n elements and a second cycle of repeating the first cycle which includes changing the one of the n lasers.</p>
+<p id="p-0061" num="0056">In an optional embodiment of the method for controlling a photonic integrated circuit, steps c) and d) are simultaneously executed.</p>
+<p id="p-0062" num="0057">In an optional embodiment of the optical coupler, the width of each of the nanobeams is constant and respective sections of the plurality of nanobeams extend parallel to each other.</p>
+<p id="p-0063" num="0058">In an optional embodiment of the optical coupler, a first angle between a direction of extension of the first waveguide and a plane of the facet is between 80&#xb0; and 84&#xb0;, optionally 82&#xb0;.</p>
+<p id="p-0064" num="0059">In an optional embodiment of the optical coupler, a side surface of the second optical element extends parallel to the facet, wherein a second angle between a direction of extension of the parallel sections of the plurality of nanobeams and a plane of the side surface is between 79&#xb0; and 83&#xb0;, optionally 81&#xb0;.</p>
+<p id="p-0065" num="0060">In an optional embodiment of the optical coupler, the end portion is spaced apart from the side surface of the second optical element, wherein a space between the side surface and the end portion is filled with SiO2.</p>
+<p id="p-0066" num="0061">In an optional embodiment of the optical coupler, the first waveguide includes a T-bar providing the facet.</p>
+<p id="p-0067" num="0062">In an optional embodiment, the photonic integrated circuit further comprises the optical coupler of any one of the embodiments outlined above.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF FIGURES</heading>
+<p id="p-0068" num="0063">Embodiments of the invention will be discussed in conjunction with the accompanying drawings. Therein,</p>
+<p id="p-0069" num="0064"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a schematic cross-sectional view of wearable device;</p>
+<p id="p-0070" num="0065"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a block diagram of the components of a first embodiment of a photonic integrated circuit arranged in the wearable device;</p>
+<p id="p-0071" num="0066"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows a block diagram of the components of a second embodiment of the photonic integrated circuit arranged in the wearable device;</p>
+<p id="p-0072" num="0067"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows a block diagram of the components of a third embodiment of the photonic integrated circuit arranged in the wearable device;</p>
+<p id="p-0073" num="0068"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows a schematic drawing of a fourth embodiment of the photonic integrated circuit arranged in the wearable device;</p>
+<p id="p-0074" num="0069"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows a block diagram indicating steps of a first embodiment of method for controlling the photonic integrated circuit arranged in the wearable device;</p>
+<p id="p-0075" num="0070"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows a block diagram indicating steps of a second embodiment of method for controlling the photonic integrated circuit arranged in the wearable device;</p>
+<p id="p-0076" num="0071"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows a block diagram indicating steps of a third embodiment of method for controlling the photonic integrated circuit arranged in the wearable device;</p>
+<p id="p-0077" num="0072"><figref idref="DRAWINGS">FIG. <b>9</b></figref> shows a schematic top-view of an optical coupler;</p>
+<p id="p-0078" num="0073"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows an enlarged schematic top-view of a tapered portion, a merging section, and nanobeams of the optical coupler of <figref idref="DRAWINGS">FIG. <b>9</b></figref>; and</p>
+<p id="p-0079" num="0074"><figref idref="DRAWINGS">FIG. <b>11</b></figref> shows snap shots of a transition of light in the optical coupler of <figref idref="DRAWINGS">FIG. <b>9</b></figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DESCRIPTION OF SOME EMBODIMENTS OF THE INVENTION</heading>
+<p id="p-0080" num="0075">A photonic integrated circuit (PIC) can comprise n lasers, such lasers optionally including ring resonator lasers, a laser generating light having a fixed wavelength and/or the laser being constructed using hybrid integration, for example with III-V RSOAs integrated into a silicon or silicon nitride photonic chip. The lasers may include a tunable laser. The PIC may have a measuring portion, an output portion, and/or a splitting/combining portion. The integer n can be greater than or equal to 2 and each laser has a laser output. However, it is also possible that one laser is provided. The measuring portion includes a measuring port and is configured to measure an intensity and/or wavelength of light input or received at the measuring port. The output portion is configured to output light form the photonic integrated circuit to the portion of the tissue. The splitting/combining portion includes n input ports, a first output port, and a second output port, wherein each input port is coupled to a respective one of the laser outputs, the first output port is coupled to the measuring port, and the second output port is coupled to the output portion. The III-V RSOAs may be made of gallium arsenide, gallium nitride and similar optical semiconductor materials.</p>
+<p id="p-0081" num="0076">In general, a photonic integrated circuit (PIC) can include one or more of the following features:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0077">Visible and/or NIR (up to 1200 nm, optionally below 1000 nm) spectrometer transmitter chip (and a separate receive chip or receiver which may include a separate discreet detector or a image sensor)</li>
+        <li id="ul0004-0002" num="0078">Visible and NIR transmit and receive chip</li>
+        <li id="ul0004-0003" num="0079">One or more detectors, e.g. one or more detectors as described in PCT/IB2022/000373, the entire content of which is incorporated herein by reference</li>
+        <li id="ul0004-0004" num="0080">N lasers</li>
+        <li id="ul0004-0005" num="0081">Silicon nitride waveguides</li>
+        <li id="ul0004-0006" num="0082">Ring resonator lasers (especially for Si<sub>4</sub>N<sub>3</sub>)</li>
+        <li id="ul0004-0007" num="0083">Hybrid integration/facet coupled</li>
+        <li id="ul0004-0008" num="0084">The laser being tunable</li>
+        <li id="ul0004-0009" num="0085">Optical Coherent detection chip</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0082" num="0086">The PIC may be used in one or more of the following applications.</p>
+<heading id="h-0007" level="2">1) Spectroscopy</heading>
+<p id="p-0083" num="0087">2) Improved PPG for heart rate monitor,
+<br/>
+a. SPG (Speckle plethysmography&#x2014;blood flow detection fast enough to reveal pulsatile features)
+<br/>
+b. interferometric diffuse correlation spectroscopy (iDCS) (details of which are described in Annexes I to IV)
+<br/>
+3) Blood oxygen measurement (optionally for N=2 or more lasers), including co-oximetry (resolving carboxyhemoglobin, methemoglobin, deoxyhemoglobin, and oxyhemoglobin)
+<br/>
+4) Visible spectroscopy
+<br/>
+5) NIR spectroscopy
+<br/>
+6) Diffuse reflectance, Raman spectroscopy, Fluorescence spectroscopy, and related spectroscopies
+<br/>
+7) Moving particles in fluids (liquids and gases)
+<br/>
+8) Moving particles in tissue.
+<br/>
+9) Moving particles in blood.
+</p>
+<p id="p-0084" num="0088">In an optional embodiment, the photonic integrated circuit is a silicon photonics chip. All or a majority of the optical functions necessary to generate and/or transmit optical signals and/or to receive and interpret the returning optical signals can be arranged on the silicon photonics chip.</p>
+<p id="p-0085" num="0089">The transmit (Tx) and receive (Rx) parts may be on one chip to form a single transmitter/receiver chip, or on more than one chip, such as a separate Tx and Rx chip device. The silicon photonics chip may be based upon an SOI structure where there is one buried oxide layer or on a double SOI structure where there are two (or more) buried oxide layers.</p>
+<p id="p-0086" num="0090">In an optional embodiment, the photonic integrated circuit further comprises at least one (optical) detector, wherein the photonic integrated circuit is configured to execute transmittance and/or reflectance photoplethysmography (PPG) and/or speckle photoplethysmography (SPG) measurements. In speckle plethysmography (SPG), an optical signal is used to measure changes in blood flow using laser speckle imaging or temporal decorrelation methods such as diffuse correlation spectroscopy. Laser speckle imaging may be provided on a receiver that is separate from the photonic integrated circuit.</p>
+<p id="p-0087" num="0091">For SPG measurements, the laser may generate light in the visible or near-infrared spectrum, for example between about 380 nm to about 850 nm, or between 380 nm to about 950/960 nm. The waveguides that are used for the SPG application can be optimized for the propagation of light in visible or near infrared spectrum or having wavelengths below 960 nm, 800 nm, or 700 nm. For example, the waveguides may be made from silicon nitride (Si<sub>3</sub>N<sub>4</sub>).</p>
+<p id="p-0088" num="0092">In an optional embodiment, the photonic integrated circuit is configured to execute diffuse correlation spectroscopy (DCS). DCS detects blood flow by quantifying temporal fluctuations of light fields emerging from the tissue surface. Optional embodiments are disclosed in U.S. application Ser. No. 17/814,787 and/or International Application No. PCT/EP2022/071467 which are incorporated by reference in their entirety. Optional embodiments of optical sensor modules for measuring both speckleplethysmography (SPG) and photoplethysmography (PPG) are described in U.S. application Ser. No. 17/711,974.</p>
+<p id="p-0089" num="0093">In an optional embodiment, the photonic integrated circuit is configured to execute diffuse reflection spectroscopy</p>
+<p id="p-0090" num="0094">In an optional embodiment, the photonic integrated circuit executes a measurement of pulse oximetry (SpO2), oxygen saturation, carboxy haemoglobin, methaemoglobin, or fractional oxygen saturation. Optional embodiments are disclosed in WO 2021/116766 which is incorporated by reference in its entirety.</p>
+<p id="p-0091" num="0095">A wearable device may comprise a photonic integrated circuit as described above. The wearable device may be watch or a part of band for finger, arm, leg, and/or chest. The wearable device may provide monitoring of a pulse (heart rate), oxygen saturation, and/or parameters that are can be detected by spectroscopy of the blood in tissue.</p>
+<p id="p-0092" num="0096">The photonic integrated circuit may be used to determine the pulse (heart rate) of the blood flow within the tissue and/or under the tissue. The tissue may be the skin of a user of the wearable device. To this end, the user may bring the wearable device into contact with the tissue (skin) to monitor, determine, and/or record the heart rate oxygen saturation, and/or parameters that are can be detected by spectroscopy of the blood in tissue.</p>
+<p id="p-0093" num="0097">Various spectroscopy techniques, such as the ones described above, can be used to monitor the blood flow. These spectroscopy techniques rely on the light absorption characteristics of blood which changes depending on the oxygen saturation of the blood, such as the pulsatile oxygen saturation (SpO<sub>2</sub>). These techniques may be called pulse oximetry.</p>
+<p id="p-0094" num="0098">To provide accurate and reliable spectroscopy measurements, such as oxygen saturation measurements, two or more lasers with wavelengths on opposite sides of an isosbestic point in the oxygen saturation curve can be used, but it can be beneficial to use various multiple wavelengths. The more wavelengths that are used for the spectroscopy measurement, the more precisely the absorption spectrum can be determined. In particular, the wavelengths generated by the n lasers can be equally distributed over parts or the complete visible spectrum and/or infrared (IR) which are commonly used to measure oxygen saturation. For example, wavelengths of 442 nm, 472 nm, 660 nm, 960 nm, and/or 1200 nm were used for determining the oxygen saturation.</p>
+<p id="p-0095" num="0099">One option for including more wavelengths for investigating the blood flow is to provide an array of discrete lasers each generating a light of a fixed wavelength. The lasers can be multiplexed together. This option has the disadvantage that a multitude of lasers are needed increasing the required space of the photonic integrated circuit. Alternatively, a tunable laser can be used which has the drawback that only a small wavelength range is covered by the tunable laser.</p>
+<p id="p-0096" num="0100">The invention provides a further optional solution, namely in that a plurality of (tunable) lasers is used for covering a wide range of different wavelengths. To this end, the wavelength range of the (tunable) lasers may not overlap with each other and/or may be equally distributed, for example over the visible and/or infrared spectrum. In particular, the wavelength ranges of the (tunable) lasers may cover those wavelength ranges that show a high absorption and, thus, increased signal to noise ratio (SNR). For example, the tunable lasers may have a centre frequency at 442 nm, 472 nm, 660 nm, 960 nm, and/or 1200 nm and a range of tunable frequencies &#xb1;10 nm, 20 nm, or 50 nm around the centre frequency. In particular, it is possible to evenly cover a wide wavelength range (for example, spanning over 100 nm, 200 nm, 500 nm, or 1000 nm) by selecting appropriate centre frequencies of the tunable lasers. Fluorescence measurements may be conducted using light of 442 nm or 472 nm. Further, blue light (e.g. 442 nm or 472 nm) may be used if the photonic integrated circuit is part of a vitro diagnostics, such as a lab-on-a-chip setup.</p>
+<p id="p-0097" num="0101">The visible spectrum is the portion of the electromagnetic spectrum that is visible to the human eye. Electromagnetic radiation in this range of wavelengths is called visible light or simply light. A typical human eye will respond to wavelengths from about 380 nm to about 750 nm. These wavelength boundaries are not sharply defined and may vary per individual. Under optimal conditions the limits of human perception can extend to 310 nm (UV) and 1100 nm (NIR).</p>
+<p id="p-0098" num="0102">Infrared (IR) light is electromagnetic radiation with wavelengths longer than those of visible light. IR is generally understood to encompass wavelengths from the nominal red edge of the visible spectrum around 700 nm to 1 mm.</p>
+<p id="p-0099" num="0103">The photonic integrated circuit of this invention is configured to emit the light generated by the lasers via the output portion which may have a lens or other optical component for emitting the light from the photonic integrated circuit. The light may be guided from the photonic integrated circuit through the wearable device to leave the wearable device. To this end, the wearable device may include optical components, such as waveguides, mirrors, lenses, optical filters, and/or grating which allow the light emitted by the photonic integrated circuit to be redirected, modified and/or shaped. Alternatively, the photonic integrated circuit may include all the optical functions and/or optical components such that the output portion corresponds to the output of the light from the wearable device.</p>
+<p id="p-0100" num="0104">The photonic integrated circuit and/or the silicon photonics chip can be located within a housing of the wearable device.</p>
+<p id="p-0101" num="0105">The photonic integrated circuit may include a detector for detecting the light that is reflected by and/or transmitted through that issue. The receiver or detector may be arranged on the same silicon or silicon nitride photonic chip as the lasers (the transmit chip) or on a different photonic chip. The receiver or detector may be arranged within the housing of the wearable device. There may be more than one detector on the detector chip or on the transmit/receive chip. The detector is an optical instrument that transforms light impinging onto the detector in an electrical signal. The electrical signal can be indicative of the intensity and/or wavelength of the impinging light. The detector could include multiple sensing elements such as an array or a pixelated image sensor.</p>
+<p id="p-0102" num="0106">Light guiding means (such as waveguides) may be provided within the wearable device for guiding the light from a light input of the wearable device do the detector. Alternatively, the detector may be located at such a position within the wearable device that light reflected and/or transmitted by the tissue and entering the variable device directly impinges on the detector without further light guiding means. However, lenses or other optical structures for focusing and/or collecting the light reflected and/or transmitted by the tissue may be provided. Further, lenses or other optical structures for focusing the light generated by the lasers onto the issue may be provided.</p>
+<p id="p-0103" num="0107">The lasers, the measuring portion, the output portion, and/or the splitting/combining portion are coupled or connected to each other to allow transmission of light between these components. To this end, these components may be coupled or connected to each other via one or more optical waveguides or other types of optical components allowing the transmission of light. The optical waveguides may be part of the optical photonics chip. Thus, it is possible that light can be guided from one of these components to another one of these components. The optical waveguides may be configured to transmit radiation in the visible spectrum and/or MR (up to 1200 nm, optionally below 1000 nm). For example, the waveguides are made from silicon nitride.</p>
+<p id="p-0104" num="0108">It is also possible that a free space (filled with air) is arranged between the lasers, the measuring portion, the output portion, and/or the splitting/combining portion such that light can travel through the free space from one of these components to another one of these components.</p>
+<p id="p-0105" num="0109">The laser output may be that part of the (tunable) laser where the light generated by the (tunable) laser exits the (tunable) laser. For example, the laser output may be coupled or connected to a waveguide or corresponds to a section/end of a waveguide of the (tunable) laser. The (tunable) laser may be configured to generate light of discrete wavelengths or to cover a continuous wavelength range. The light emitted by the (tunable) laser has a certain wavelength and/or an intensity which can be set using a control portion controlling the (tunable) laser. There are n laser outputs as each laser includes a laser output.</p>
+<p id="p-0106" num="0110">The measuring portion is configured to measure the intensity and/or the wavelength of light received or input at the measuring port. The measuring port may be considered an input port of the measuring portion, i.e. a part of the measuring portion configured to receive light. For example, the measuring port is connected to a waveguide.</p>
+<p id="p-0107" num="0111">Optionally, the measuring portion includes a wavemeter for determining the wavelength of the light input at the measuring port and/or a photodetector for measuring the intensity of the light input at the measuring port. A wavemeter (or wavelength meter) can be a kind of interferometer which is used for precise wavelength measurements for light. There are different variants, including scanning wavemeters and static devices with no moving parts.</p>
+<p id="p-0108" num="0112">The wavemeter transforms the light impinging onto the wavemeter into an electrical signal. The electrical signal can be indicative of the wavelength of the impinging light.</p>
+<p id="p-0109" num="0113">The photodetector is an optical instrument that transforms light impinging onto the photodetector into an electrical signal. The electrical signal can be indicative of the intensity of the impinging light.</p>
+<p id="p-0110" num="0114">In case the measuring port includes both the wavemeter and the photodetector, the measuring port includes an optical splitter which is connected to the measuring port and splits the incoming light to the wavemeter and the photodetector. The measuring portion may include one or more optical waveguides for guiding the light from the measuring port to the splitter and/or from the splitter to the wavemeter and the photodetector.</p>
+<p id="p-0111" num="0115">The output portion may include one or more optical waveguides and/or one or more lens structures which allow the emission of the light generated by the (tunable) lasers from the photonic integrated circuit. This light may be directly emitted from the wearable device or the light emitted from the output portion may be guided through the wearable device to an output of the wearable device. The waveguides of the output potion may end at an edge of the photonic integrated circuit and can include the lens structure at their end. For example, each waveguide has a separate lens structure or there is a common lens structure coupled to the waveguides. It is also possible that there is no lens structure such that a distal end surface of the waveguides provides the point at which the light is emitted from the photonic integrated circuit.</p>
+<p id="p-0112" num="0116">The output portion may include one or more output ports configured to receive light from the splitting/combining portion. One or more waveguides of the output portion are coupled to the output port. For example, each waveguide of the output portion has an output port connected to a respective second output port of the splitting/combining portion or waveguides connecting the output ports and the second output ports.</p>
+<p id="p-0113" num="0117">The splitting/combining portion is provided for distributing the light generated by the (tunable) lasers to the measuring portion and the output portion. In detail, the splitting/combining portion includes n input ports each of which is coupled to a respective one of the n (tunable) lasers&#x2014;each input port is coupled to a respective laser output, for example by a waveguide. The input ports are configured to receive light generated by their respective (tunable) lasers. This means, at each input port, light of a different (tunable) laser is received.</p>
+<p id="p-0114" num="0118">The first output port is coupled to the measuring portion, for example by a waveguide. The number of the first output ports depends on the way how the splitting/combining portion combines/splits the light received at the input ports. The second output port is coupled to the output portion, for example by a waveguide. The number of the second output ports depends on the way how the splitting/combining portion combines/splits the light received at the input ports. However, the number of second output ports corresponds to the number of output ports.</p>
+<p id="p-0115" num="0119">In an optional embodiment, the splitting/combining portion includes n optical splitters, wherein optionally each optical splitter is coupled to one input port, one first output port, and one second output port.</p>
+<p id="p-0116" num="0120">In an optional embodiment, the optical splitter includes a directional coupler, Y-branch coupler and/or a multimode interference splitter (MMI splitter). The optical splitter may be considered a (power) tap.</p>
+<p id="p-0117" num="0121">In this embodiment, each (tunable) laser is coupled to a single optical splitter which splits the light generated by each (tunable) laser to the measuring portion and the output portion. This means that the intensity and/or wavelength of each (tunable) laser is monitored, and the light generated by each (tunable) laser is output at the output portion.</p>
+<p id="p-0118" num="0122">In an optional embodiment, the output portion includes n output channels, each output channel being coupled to one second output port.</p>
+<p id="p-0119" num="0123">The output channel may include a waveguide such that, in this configuration, the output portion includes n separate waveguides. Each output channel or waveguide is optically coupled to the optical splitter via a respective second output port and a respective output port. Thus, there are n output ports and n second output ports which can be connected by n waveguides.</p>
+<p id="p-0120" num="0124">This allows a segmented configuration of the photonic integrated circuit whereby each segment of the photonic integrated circuit includes a single (tunable) laser, single optical splitter, a single wavemeter and/or single optical detector, and single output channel. Thus, the photonic integrated circuit includes n segments. This may be considered a first embodiment of the architecture of the photonic integrated circuit.</p>
+<p id="p-0121" num="0125">In an optional embodiment, the splitting/combining portion includes one optical combiner and one optical splitter, wherein optionally the optical combiner is coupled to the n input ports for combining the light of the n lasers, the optical splitter is coupled to the optical combiner, to the first input port, and the second input port for splitting the light received from the optical combiner into the first output port and the second output port.</p>
+<p id="p-0122" num="0126">In an optional embodiment, the output portion includes one output channel that is coupled to the optical splitter.</p>
+<p id="p-0123" num="0127">In an optional embodiment, the optical combiner includes an optical multiplexer (MUX). The optical multiplexer may take the form of an echelle grating, specifically an integrated echelle grating, or an arrayed waveguide grating (AWG).</p>
+<p id="p-0124" num="0128">In this embodiment, the optical multiplexer combines the light generated by the n (tunable) lasers. Input ports of the optical multiplexer can be considered the input ports of the measuring portion. This means that the optical multiplexer has n input ports which are respectively coupled to the n laser outputs, for example via n waveguides.</p>
+<p id="p-0125" num="0129">The optical multiplexer is coupled to the optical splitter, for example via a single waveguide. This means that the optical multiplexer can include a single output port connected to the waveguide. The optical splitter splits the multiplexed light into the measuring portion and the output portion. In this case, the output portion may include one optical channel or one waveguide. Further, only a single optical splitter, a single wavemeter, and/or a single photodetector are provided.</p>
+<p id="p-0126" num="0130">This embodiment allows the reduction of the number of components, since only one optical splitter, one output channel, one wavemeter, and/or one photodetector are provided. Thus, the photonic integrated circuit requires less space compared to the previous embodiment. This may be considered a second embodiment of the architecture of the photonic integrated circuit.</p>
+<p id="p-0127" num="0131">In an optional embodiment, the splitting/combining portion includes n optical splitters and one optical combiner, wherein optionally each optical splitter is coupled to one input port, to the one optical combiner and to the second output port for splitting the light received from the respective (tunable) laser into the optical combiner and the second output port, and wherein further optionally the optical combiner is coupled to the measuring portion for combining the light received from the n optical splitters.</p>
+<p id="p-0128" num="0132">In an optional embodiment, the output portion includes n output channels, each output channel being coupled to a respective one of the optical splitters.</p>
+<p id="p-0129" num="0133">Optionally, each input port of the n input ports of the splitting/combining portion is coupled to a respective splitter, for example via a waveguide. Thus, there may be n waveguides for the n optical splitters. Alternatively, the n input ports of the splitting/combining portion are the input ports of the n optical splitters. As a consequence, n first output ports and a second output ports are provided. Each first output port and each second output port may be coupled to the respective optical splitter via a waveguide resulting in 2 n waveguides. Alternatively, the n first and second output ports of the splitting/combining portion are the first and second output ports, respectively, of the n optical splitters.</p>
+<p id="p-0130" num="0134">The n first output ports are coupled to the optical multiplexer, for example via n waveguides. The optical multiplexer combines the light generated by the n (tunable) lasers and forwards the light to the measuring portion. The measuring portion may include a single wavemeter and/or single photodetector.</p>
+<p id="p-0131" num="0135">This may be considered a second embodiment of the architecture of the photonic integrated circuit. In this embodiment, the intensity and/or wavelength of each of the n (tunable) lasers is measured using a single wavemeter and/or single photodetector while each (tunable) laser has a separate output, i.e. a separate output channel. Thus, the optical multiplexer does not affect the light that is emitted from the photonic integrated circuit. The light output by the photonic integrated circuit does not suffer from optical losses due to the optical multiplexer. In addition, the number of components can be reduced compared to the first embodiment.</p>
+<p id="p-0132" num="0136">In an optional embodiment, the photonic integrated circuit further comprises a control portion coupled to the n tunable lasers and configured to tune the n tunable lasers. Optionally, the control portion is coupled the measuring portion and configured to tune the n tunable lasers based on the intensity and/or the wavelength measured by the measuring portion.</p>
+<p id="p-0133" num="0137">In an optional embodiment, the control portion tunes all n tunable lasers using a common tuning parameter.</p>
+<p id="p-0134" num="0138">The control portion may be an electrical component including a processor and/or memory providing electrical control of the (tunable) laser. The control portion may be located external to the silicon photonics chip or on the silicon photonics chip. The control portion may be arranged within the housing of the wearable device. The control portion can be configured to tune the wavelength and/or the intensity of the light that is generated by the (tunable) lasers. To this end, the control portion may output an electrical signal to the tunable laser based on which the tunable laser changes the wavelength and/or the intensity of the generated light. For example, a change in a tuning parameter of the electrical signal (such as voltage, frequency and/or current) results in a change in the wavelength and/or the intensity of the generated light.</p>
+<p id="p-0135" num="0139">The control portion may be configured to separately control each of the n (tunable) lasers. Thus, the control portion outputs n electrical signals or n tuning parameter. Alternatively, the control portion outputs a single electrical signal that is received by all n (tunable) lasers. Thus, the control portion outputs a single electrical signal or a single tuning parameter.</p>
+<p id="p-0136" num="0140">If the control portion is electrically connected to the measuring portion, a feedback control of the wavelength and/or the intensity of the light generated by the (tunable) lasers can be established. Alternatively, the control portion may control the (tunable) lasers independent from the measuring results of the measuring portion.</p>
+<p id="p-0137" num="0141">In an optional embodiment, the output portion includes an optical mode mixing device and/or beam steering device for mitigating speckle. The mixing device and/or the beam steering device are located on the silicon photonics chip and/or are provided for reducing speckle of laser beam(s) emitted by the photonic integrated circuit. For example, each output channel of the output portion may include a separate mixing device and/or the beam steering. Optional details on the output portion and/or optional embodiments of the output portion are described in Annexes I and II.</p>
+<p id="p-0138" num="0142">In an optional embodiment, each tunable laser includes a reflective semiconductor optical amplifier (RSOA) and a tuning element, wherein optionally the tuning element includes a micro-ring reflector and/or a sampled Distributed Bragg Reflector (DBR) grating.</p>
+<p id="p-0139" num="0143">The tunable laser may include a heater for heating the tuning element resulting in a change of the wavelength emitted by the tunable laser. The tuning parameter may be a voltage, current and/or power that is output to the heater resulting in a different temperature of the tuning element which in turn results in different wavelength. Thus, the heater may heat parts of the micro-ring reflector and/or a sampled Distributed Bragg Reflector.</p>
+<p id="p-0140" num="0144">The tuning element may be used to tune/change/alter the wavelength of the light emitted by the RSOA. The tunable laser may include a photodiode for generating light of a particular frequency that is amplified by the RSOA. Thus, control of the photodiode for generating light may be used for varying the intensity of the light generated by the tunable laser. For example, the tuning parameter may be a voltage, current and/or power that is output to the photodiode resulting in a different intensity of the generated light.</p>
+<p id="p-0141" num="0145">In an optional embodiment, at least one of the n tunable lasers includes phase control section coupled between the reflective semiconductor optical amplifier (RSOA) and the tuning element for determining the phase of light.</p>
+<p id="p-0142" num="0146">The RSOA may be coupled to the tuneable element by a waveguide which is coupled to the phase control section. The phase control section may include one or more optical elements allowing the detection of the phase of the light propagating in the waveguide between the tuneable element and the RSOA. The phase control section may be electrically connected to the control portion such that the phase of the light may be a control parameter for controlling the light.</p>
+<p id="p-0143" num="0147">In an optional embodiment, a Fabry-Perot laser is provided. This Fabry-Perot laser may be provided for diagnostic purposes and/or test purposes, but is not essential for the overall function of the photonic integrated circuit. The Fabry-Perot laser circuit may include a separate photodiode for generating light and the RSOA. The Fabry-Perot laser maybe coupled to an output for emitting the generated light from the photonic integrated circuit independent from the output portion.</p>
+<p id="p-0144" num="0148">In an optional embodiment, the photonic integrated circuit includes more than one of the embodiments described above, for example a combination of the first, second, and/or third embodiment. This means that a part of the (tunable) lasers provided on the photonic integrated circuit are coupled to each other according to one of the embodiments described above, while other (tunable) lasers are coupled to each other according to another embodiment described above. For example, the photonic integrated circuit includes a+b=n lasers (a &#x26; b being integers greater than or equal to 2), wherein a (tunable) lasers are coupled to each other according to the first embodiment and b (tunable) lasers are coupled to each other according to the second or third embodiment.</p>
+<p id="p-0145" num="0149">A method for controlling a photonic integrated circuit (PIC) comprises</p>
+<p id="p-0146" num="0000">a) setting a tuning element of a laser,
+<br/>
+b) turning the laser on for generating laser light having a wavelength and an intensity,
+<br/>
+c) measuring the intensity and/or the wavelength of generated laser light, and
+<br/>
+d) detecting the reflection of the generated laser light from the portion of the tissue and analysing the reflected light for investigating the blood flow, volume, or other chromophore wherein optionally the laser includes a ring resonator laser, a laser being constructed using hybrid integration, and/or a tunable laser.
+</p>
+<p id="p-0147" num="0150">A method for controlling a photonic integrated circuit for optically investigating blood flow at a portion of tissue of a user comprises</p>
+<p id="p-0148" num="0000">a) setting a tuning element of one of n tunable lasers, n being an integer greater than or equal to 2,
+<br/>
+b) turning the one of the n tunable lasers on for generating laser light having a wavelength and an intensity,
+<br/>
+c) measuring the intensity and/or the wavelength of generated laser light,
+<br/>
+d) detecting the reflection of the generated laser light from the portion of the tissue and analysing the reflected light for investigating the blood flow, volume, or other chromophore and
+<br/>
+e) repeating steps a) to d).
+</p>
+<p id="p-0149" num="0151">The method may be executed by the control portion. Thus, the method may be a (computer-implemented) method for controlling the photonic integrated circuit described above.</p>
+<p id="p-0150" num="0152">Step a) refers to setting or tuning the wavelength of the light generated by one or more/all of the tunable lasers. To this end, the control portion may output an electrical signal having a certain tuning parameter or change the tuning parameter of the electrical signal.</p>
+<p id="p-0151" num="0153">Step a) may be executed before step b). This means that the tuning element is set or tuned before light is generated by the photodiode/RSOA. However, step b) can be executed before step a).</p>
+<p id="p-0152" num="0154">Step b) may also include setting the intensity of the light generated by one or more/all of the (tunable) lasers. This is also done by starting the output of the electrical signal or by changing a tuning parameter of the electrical signal to the (tunable) laser (in particular the photodiode). The intensity and/or the wavelength generated by the photodiode/RSOA may be different to the intensity and/or the wavelength by the (tunable) laser since the tuning element changes the wavelength and potentially the intensity.</p>
+<p id="p-0153" num="0155">Step c) refers to measuring the intensity and/or the wavelength that is emitted by the (tunable) laser, i.e. the light that is modified by the tuning element. Step c) may be executed by the measuring portion.</p>
+<p id="p-0154" num="0156">Step d) may be executed by the detector and can be executed simultaneously to step c). Thus, feedback control of the generated laser light and detection of the light reflected and/or transmitted by the tissue can be simultaneously done. Step c) includes processing the detected light in order to determine the blood flow. This may be done by the control portion or by a processor external to silicon photonics chip. This processing is known in the field and, thus, not further described here.</p>
+<p id="p-0155" num="0157">Step e) refers to the repetition of steps a) to d) such that each wavelength that is generated by the different photodiodes/RSOAs and each tuned wavelength is used for determining the blood flow. This can be done by scanning firstly to all the wavelengths that can be tuned by the respective tuning element of a tunable laser and then repeating this process for each tunable laser. Alternatively, a particular tunable laser with a particular tuning setting is measured and, in the next step, another tuneable laser is turned on with a particular tuning setting. This step is repeated until all tunable lasers have been turn on and off. Then, the tuning parameter is changed, and the above cycle is repeated for each of the different tuning parameters. Thus, step e) includes varying the tunable lasers and varying the tuning of each of the tunable lasers. After completion of the method, a wide range of different wavelengths has been used for determining the blood flow, volume, or other chromophore increasing the reliability and accuracy of the measurement of the blood flow, volume, or other chromophore. Optionally, all wavelengths that can be generated by the n tunable lasers are used in the method.</p>
+<p id="p-0156" num="0158">In an optional embodiment, step a) is executed based on pre-calibrated set points and, optionally, before step b).</p>
+<p id="p-0157" num="0159">This embodiment may include setting the tuning parameters independent of the measurements result received in step c), i.e. no feedback control of the (tunable) laser is used. The accuracy of the (tunable) lasers may be achieved by calibrating the photonics integrated circuit and the tuning parameters refer to pre-calibrated values.</p>
+<p id="p-0158" num="0160">The execution of step a) before step b) may allow the tuning elements to settle resulting in a more reliable tuning of the wavelength.</p>
+<p id="p-0159" num="0161">In an optional embodiment, step e) is repeated for each one of the n tunable lasers and each wavelength that can be generated by the n tunable lasers. In particular, all wavelengths that can be tuned with a particular tunable laser are scanned through before switching to another tunable laser.</p>
+<p id="p-0160" num="0162">In an optional embodiment, step a) includes simultaneously setting the tuning elements of all n tunable lasers and wherein step e) includes repeating steps b) to d) for each one of the n tunable lasers before returning to step a).</p>
+<p id="p-0161" num="0163">In this embodiment, all n tunable lasers are controlled by the same tuning parameter regarding the tuning element. A certain tuning parameter is output to all n tuning elements. Then, generation of light of a certain tunable laser is started and the response of the blood flow detected. Afterwards, the generation of light of this tunable laser is stopped and different tuneable laser is turned on. If all n tunable lasers were turned on and off again for the respective blood flow measurement, a new tuning parameter for the tuning elements is output and the above-described cycle is repeated.</p>
+<p id="p-0162" num="0164">In an optional embodiment, step b) is executed before a), wherein optionally the setting of the tuning element of the one of the n tunable lasers is based on the results achieved in step c).</p>
+<p id="p-0163" num="0165">This allows an optimization of the tuned wavelength based on the wavelength detected by the measuring portion. In this case, step c) may include a sub step of optimising the wavelength generated by the tunable laser before the actual measurement of the blood flow is executed.</p>
+<p id="p-0164" num="0166">In an optional embodiment, steps a) to d) define a first cycle which includes varying the setting of the tuning element for the one of the n tuning elements and a second cycle of repeating the first cycle which includes changing the one of the n tunable lasers.</p>
+<p id="p-0165" num="0167">In this embodiment, all wavelengths that can be generated by a particular wavelength are measured before switching to a different tunable laser.</p>
+<p id="p-0166" num="0168">In an optional embodiment, wherein steps c) and d) are simultaneously executed. This allows a calibration/adaption of the blood flow measurements depending on variations in the intensity and/or wavelength of the light emitted to the tissue.</p>
+<p id="p-0167" num="0169">An optical coupler may comprise a first optical element including a first waveguide and a second optical element including a second waveguide and an end portion. The first waveguide includes a facet configured to emit electromagnetic radiation from the first optical element. The end portion is configured to couple electromagnetic radiation into the second optical element. The first optical element and a second optical element are fixed so that the facet faces the end portion. The end portion includes a plurality of nanobeams wherein each nanobeam has a width that is smaller than the width of the second waveguide. The end portion includes a merging section at which the nanobeams merge. The optical element further includes a tapered portion arranged between the merging section and the second waveguide. A minimal width of the merging section is smaller than the width of the second waveguide.</p>
+<p id="p-0168" num="0170">The nanobeams may have a dimension (e.g. width and/or height) between 300 nm and 50 nm, optionally 200 nm or less, 150 nm or less, 100 nm or less. The nanobeam may be considered a nano-waveguide.</p>
+<p id="p-0169" num="0171">Waveguides are basic elements of optical systems that can carry light between different sections of a photonic chip. However, photonic chips are usually not uniform on a single aperture substrate, mainly due to the fabrication incompatibility between active and passive materials. Therefore, transferring light from one part of the photonic chip to another part of the photonic chip in an efficient way is required. So far, various methods have been studied for coupling light from a fiber optic structure to an integrated optical waveguide using grating, inverse taper design, end couplers, and lateral couplers. In all these proposals, the main objective is to design an intermediate transition part between two different waveguides that can smoothly transfer light by matching the mode sizes and effective refractive index values.</p>
+<p id="p-0170" num="0172">While some techniques can achieve high coupling efficiencies, but mainly they rely on bulky components such as micro positioners to precisely control the angle and distance of two waveguide structures. Therefore, they are barely compatible for real applications and packaging in nano scales unless with poor coupling efficiencies. For example, coupling from an RSOA chip to a passive integrated waveguide (e.g., silicon-based) is crucial because active materials are not compatible with complementary metal-oxide-semiconductors (CMOS). Therefore, the output light from an RSOA needs to be coupled to a PIC externally.</p>
+<p id="p-0171" num="0173">There are two common approaches to couple light from an active device into a PIC: (1) lateral coupling from top side of chip and using evanescent waves, (2) end coupling from the edge of chip. Both methods may use bonding for practical applications. The focus of this embodiment is on the second approach.</p>
+<p id="p-0172" num="0174">The optical coupler may be used with the photonic integrated circuit (PIC) described above. For example, the first optical element can be the RSOA and the second optical element may be the tunable filter. In other words, the optical coupler can be used with the tunable laser described above.</p>
+<p id="p-0173" num="0175">The first optical element may be manufactured on a first substrate while the second optical element may be manufactured on a second substrate so that the first optical element and the second optical element may need to be assembled for providing the optical coupler (e.g. the tunable laser). For example, the first optical element is fixed to the second act optical element by using an adhesive such as a glue. However, any means for fixing the first optical element with respect to the second optical element are possible as long as there is a fixed relationship between the first optical element and the second optical element.</p>
+<p id="p-0174" num="0176">The first waveguide and/or the second waveguide may be waveguides as described above, i.e. optical structures for conveying electromagnetic radiation. For example, the first optical element includes a light source which generates electromagnetic radiation such as monochromatic light. The electromagnetic radiation generated by the light source (e.g. a RSOA as described above) is conveyed by the first waveguide to the facet.</p>
+<p id="p-0175" num="0177">The facet may be an end surface of the first optical waveguide from which the electromechanical radiation conveyed in the first waveguide is emitted from the first optical element. The facet may be close to or flush with a side surface of the first substrate of the first optical element. This means that the facet is arranged close to or at an edge of the first substrate.</p>
+<p id="p-0176" num="0178">Similarly, the end portion may include several end surfaces for each nanobeam so that light can be coupled into the respective nanobeams via these end surfaces. In other words, the end portions may include facets, i.e. each nanobeam includes a facet which faces the facet of the first waveguide. The end surfaces or facets of the nanobeams may be arranged in a single plane which might be close to or flush with a side surface of the first substrate of the first optical element. This means that the facets or end surfaces of the nanobeams are arranged close to or at an edge of the second substrate.</p>
+<p id="p-0177" num="0179">The nanobeams and the merging section may form a fork shape. The nanobeams are the prongs of the fork while the merging section is the portion of the fork to which each nanobeam is connected. So the nanobeams are in optical communication with the merging section which is in optical communication with the tapered portion. The nanobeams may have a width which is smaller than the width of the second waveguide for example less than 10%, 15%, 20%, or 25% of the width of the second waveguide. The maximal distance between the respective nanobeams may be more than the width of the nanobeams.</p>
+<p id="p-0178" num="0180">Optionally, there is an odd number of nanobeams. For example, there is a center nanobeam which is in the middle of a pair of nanobeams. One, two, or more pairs of nanobeams may be provided whereby the first nanobeam is arranged between the second pair of nanobeams, etc. Each pair of nanobeams may form a Y-coupler at the merging section.</p>
+<p id="p-0179" num="0181">The tapered portion is in optical communication with the merging section and the second waveguide so that there is an optical pathway from each facet of the respective nanobeam to the merging section via the tapered portion to the second waveguide. The end portion (e.g. all nanobeams), the tapered portion, the merging section and/or the second waveguide may be a unitary component. The second waveguide may be in optical communication with other optical components (e.g. the above-described measuring portion and/or the above-described port) arranged on the second optical element.</p>
+<p id="p-0180" num="0182">The tapered portion may have a minimal width which less than the width of the second waveguide, for example less than 10%, 15%, 20%, 25%, 30%, 40%, or 50%. Optionally, the tapered portion has the same width as the width of the nanobeams. The second waveguide may be configured for multimode propagation of light. This means that a width and a height of the second waveguide are chosen such that multiple modes of electromagnetic radiation can propagate within the second waveguide. In contrast thereto, the tapered portion may have a width and height which are chosen should such that only a single mode of electromagnetic radiation can propagate within the tapered portion. The tapered portion may act as a multimode filter allowing only the propagation of a single mode.</p>
+<p id="p-0181" num="0183">The facets of the nanobeams facing the facet of the first waveguide may be spaced apart along the side surface of the second optical element which can be positioned opposite to the facet of the first waveguide. The fixation of the first optical element to the second optical element may not be done with such accuracy that an offset of the first waveguide with regard to the second waveguide can be avoided. The provision of the plurality of nanobeams is immune to a slight offset of the first waveguide with respect to the second waveguide (or the plurality of nanobeams). A width of the assembly of the plurality of nanobeams can be chosen such that it is larger than an accuracy of the fixation of the first waveguide with respect to the second waveguide. This means that, if the first optical component is fixed to the second optical component within the accuracy range, the electromagnetic radiation emitted by the first waveguide is reliably coupled into one or more of the nanobeams. In particular, the electromagnetic radiation emitted by the first waveguide propagates simultaneously in or more of the nanobeams. The intensity of the electromagnetic radiation in the respective nanobeam depends on its proximity to the facet of the first waveguide, i.e. on the unique fixation of the first optical component with respect to the second optical component. Since the width of the assembly of the plurality of nanobeams is chosen greater than the accuracy of the fixation of the first optical element to the second optical element, light can be reliable coupled into the second optical component since one or more of the nanobeams is sufficiently close to the facet of the first waveguide. For example, a coupling tolerance of 0.5 dB drop in maximum efficiency against lateral misalignment is &#xb1;0.5 &#x3bc;m.</p>
+<p id="p-0182" num="0184">The optical coupler is not only less susceptible to manufacturing inaccuracies but also exhibits a coupling loss which can be as low as &#x2212;1 dB. Further, a wavelength bandwidth of 0.5 dB drop in maximum efficiency can be about 300 nm with a center wavelength of 950 nm.</p>
+<p id="p-0183" num="0185">In an optional embodiment, the width of each of the nanobeams is constant and/or respective sections of the plurality of the nanobeams extend parallel to each other.</p>
+<p id="p-0184" num="0186">The nanobeams may include a straight section and a curved section. The straight section of each nanobeam extends parallel to the straight sections of the other nanobeams. The straight section may include the facet of the nanobeam. The curved section is provided for guiding the respective straight sections to the merging section. The straight section and the curves may have the same width.</p>
+<p id="p-0185" num="0187">In an optional embodiment, a first angle between the direction of extension of the first waveguide and a plane of the facet is between 80&#xb0; and 84&#xb0;, optionally 82&#xb0;.</p>
+<p id="p-0186" num="0188">This means that the facet is inclined (i.e. not perpendicular) to the direction of extension of the first waveguide close to the facet. This improves the out-coupling characteristics of the first waveguide. For example, less light is reflected back into the first waveguide at the facet. The facet may be flush with a side surface of the substrate of the first optical element. This means that the side surface of the first optical element is inclined (i.e. not perpendicular) to the direction of extension of the first waveguide close to the facet, for example by 80&#xb0; and 84&#xb0;, optionally 82&#xb0;. The back-reflection at the facet can be less than 0.1%.</p>
+<p id="p-0187" num="0189">In an optional embodiment, a side surface of the second optical element extends parallel to the facet, wherein optionally a second angle between the direction of extension of the parallel sections of the plurality of nanobeams and a plane of the side surfaces between 79&#xb0; and 83&#xb0;, optionally 81&#xb0;.</p>
+<p id="p-0188" num="0190">The facets of the nanobeams may be arranged parallel to the facet of the first waveguide. The straight sections of the nanobeams and/or the second waveguide may extend perpendicular to the side surface of the second optical component&#x2014;this means perpendicular to the facet of the first optical element. However, it is also possible that the side surface of the second optical component and the straight sections of the nanobeams and/or the second waveguide to define an angle less than 90&#xb0; (the second angle). The second angle is provided to accommodate a further diffraction of the light by the adhesive between the first optical element and the second optical element. For example, the adhesive diffracts the electromagnetic radiation by 9&#xb0;. This is addressed by selecting an second angle of 81&#xb0; between the straight sections of the nanobeams and the side surface of the substrate of the second optical element.</p>
+<p id="p-0189" num="0191">In an optional embodiment, the end portion is spaced apart from the side surface, wherein optionally a space between the side surface and the end portion is filled with silicon dioxide (SiO<sub>2</sub>).</p>
+<p id="p-0190" num="0192">In this embodiment, the facets of the nanobeams are spaced apart from side surface of the second optical element and/or an edge of the substrate of the second optical element. This space is filled with a material such as silicon dioxide. This means that a side surface of the second optical element is defined by this material.</p>
+<p id="p-0191" num="0193">In an optional embodiment, the first waveguide includes a T-bar providing facet.</p>
+<p id="p-0192" num="0194">The T-bar may be constituted by an end section of the first waveguide. The end section can be formed so that the end section and the facet provided thereon have a width greater than a width of the first waveguide leading to the end section. Optionally, the end section and/or the facet have a width of least W+2R, wherein W is the width of the first waveguide leading to the end section and R is the radius of curvature of corners of the end section caused as a result of the manufacturing process used to fabricate the end section or T-bar. This may ensure that an area of the facet at which the electromagnetic radiation exits the first waveguide is planar, i.e., free from curvatures or round corners that may result in back reflection of the electromagnetic radiation at the facet. Thus, the T-bar can help to prevent back reflection at the facet. The T-bar may have a height that is equal to the height of the first waveguide. Optionally, a side surface of the T-bar corresponds to the facet of the waveguide.</p>
+<p id="p-0193" num="0195"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a wearable device <b>10</b> in contact with skin <b>12</b> which is an example of a portion of a tissue in which a blood flow is investigated. The wearable device <b>10</b> may be a part of a watch or wristband.</p>
+<p id="p-0194" num="0196">The wearable device <b>10</b> includes a silicon photonics chip <b>14</b>, a mirror <b>16</b>, a light detector <b>18</b>, optical barriers <b>20</b>, and/or a glass <b>22</b>. The silicon photonics chip <b>14</b> may include electrical circuitry, such as a control component <b>24</b>, and a photonic integrated circuit (PIC) <b>28</b> which is not visible in <figref idref="DRAWINGS">FIG. <b>1</b></figref>. The control component <b>24</b> controls the photonic integrated circuit which generates laser light that is directed to the mirror <b>16</b>. The mirror <b>16</b> reflects the light through the glass <b>22</b> towards the skin <b>12</b>. The light generated by the photonic integrated circuit is reflected by the blood within the skin, transmitted by the glass <b>22</b>, and received by the light detector <b>22</b>. The light detector <b>22</b> may include any sensor which is configured to transform the received light into an electrical signal, whereby the electrical signal may vary depending on the wavelength and/or intensity of the received light. The electric signal generated by the light detector <b>22</b> can be forwarded to the control component <b>24</b> or another processor not shown in the figures for analysing the received light in order to determine or investigate the blood flow in the skin <b>12</b>.</p>
+<p id="p-0195" num="0197">The light barriers <b>20</b> may be made from optically opaque material in order to separate the generation of light from the detection of the reflected light. The wearable device <b>10</b> may include a printed circuit board (PCB) <b>26</b> on which the silicon photonics chip <b>14</b>, the mirror <b>16</b>, the light detector <b>18</b>, and/or the optical barriers <b>20</b> are arranged. The printed circuit board (PCB) <b>26</b> may include the processing means for analysing the light received by the light detector <b>18</b>. The wearable device <b>10</b> may include further components which are not depicted in the figures. The printed circuit board <b>26</b> may also be configured to execute the functions of the control portion <b>24</b>.</p>
+<p id="p-0196" num="0198">One embodiment of the architecture of PIC <b>28</b> is depicted in <figref idref="DRAWINGS">FIG. <b>2</b></figref>. The PIC <b>28</b> includes n tunable lasers <b>30</b>, a measuring portion <b>32</b>, an output portion <b>34</b>, and splitting/combining portion <b>36</b>. Each of the tunable lasers <b>30</b> are electrically connected to the control portion <b>24</b>. The tunable lasers <b>30</b> can generate light having an intensity and a wavelength, whereby the wavelength can be tuned based on an electrical signal defining a tuning parameter and generated by the control portion <b>24</b>. Thus, each tunable laser <b>30</b> may provide light having different wavelengths, for example a plurality of discrete wavelengths. For example, 2, 4, or 10 tuneable lasers may be provided&#x2014;in general n is an integer greater or equal to 2.</p>
+<p id="p-0197" num="0199">Each tunable laser <b>30</b> may include a reflective semiconductor optical amplifier (RSOA) <b>38</b> and a tuning element <b>40</b> (indicated as &#x201c;Tunable Filter #N&#x201d; in <figref idref="DRAWINGS">FIG. <b>2</b></figref>). The RSOA <b>38</b> maybe coupled to a photodiode <b>39</b> for generating light that is amplified by the RSOA <b>38</b> (see <figref idref="DRAWINGS">FIG. <b>5</b></figref>). The tuning element <b>40</b> may include a micro-ring reflector <b>42</b> (see <figref idref="DRAWINGS">FIG. <b>5</b></figref>) and/or a sampled Distributed Bragg Reflector (DBR) grating. Further, the tuning element <b>40</b> may include heater (not shown in the figures) for heating the tuning element <b>40</b>. The wavelength generated by the tunable laser <b>30</b> varies depending on the temperature of the tuning element <b>40</b>. Thus, the voltage, current, and/or power supplies to the heater may be considered a tuning parameter. Thus, the control portion <b>24</b> can change the wavelength of the tunable laser <b>30</b> by changing the temperature of the heater.</p>
+<p id="p-0198" num="0200">The tunable laser <b>30</b> may further include a laser output <b>44</b> at which the light generated by the tunable laser <b>30</b> exits the tunable laser <b>30</b>. For example, the laser output <b>44</b> is coupled to a waveguide which transmits the light generated by the tunable laser <b>30</b> to the splitting/combining portion <b>36</b>.</p>
+<p id="p-0199" num="0201">The measuring portion <b>32</b> may include one or more optical combiner <b>46</b> and/or one more optical splitters <b>48</b>. The optical splitter <b>48</b> includes a directional coupler (see <figref idref="DRAWINGS">FIG. <b>5</b></figref>) and/or a multimode interference splitter. The optical combiner <b>46</b> includes an optical multiplexer.</p>
+<p id="p-0200" num="0202">In the embodiment depicted in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the splitting/combining portion <b>36</b> includes n optical splitters <b>48</b> (indicated as &#x201c;Tap #N&#x201d; in <figref idref="DRAWINGS">FIG. <b>2</b></figref>), but no optical combiners <b>46</b>. Each optical splitter <b>48</b> includes an input port <b>50</b>, a first output port <b>52</b>, and a second output port <b>54</b>. Thus, the splitting/combining portion <b>36</b> includes n input ports <b>50</b>, n first output ports <b>52</b>, and n second output ports <b>54</b>.</p>
+<p id="p-0201" num="0203">The input port <b>50</b> is optically coupled to the laser output <b>44</b> (e.g. via a waveguide) for receiving light from a respective tunable laser <b>30</b>; the optical splitter <b>48</b> #<b>1</b> receives light from tunable laser <b>30</b> #<b>1</b>, the optical splitter <b>48</b> #<b>2</b> receive light from tunable laser <b>30</b> #<b>2</b>, etc. The first output port <b>52</b> is optically coupled to a measuring port <b>60</b> of the measuring portion <b>32</b> (e.g. via a waveguide) for receiving light from a respective optical splitter <b>48</b>. The second output port <b>54</b> is optically coupled to the output portion <b>34</b>. Thus, the splitting/combining portion <b>36</b> distributes the light generated by the tunable lasers <b>30</b> to the measuring portion <b>32</b> and the output portion <b>34</b>.</p>
+<p id="p-0202" num="0204">The measuring portion <b>32</b> may include a wavemeter <b>56</b> for determining the wavelength of the light input at a measuring port <b>60</b> and/or a photodetector <b>58</b> (indicated as &#x201c;Monitor PD #N&#x201d; in <figref idref="DRAWINGS">FIG. <b>2</b></figref>) for measuring the intensity of the light input at the measuring port <b>60</b>. The measuring portion <b>32</b> may further an optical splitter coupled to the measuring port <b>60</b>. The measuring port <b>60</b> is optically coupled to the splitting/combining portion <b>36</b>&#x2014;in particular to the first output port <b>50</b>&#x2014;for receiving light from the splitting/combining portion <b>36</b>. The light received at the measuring port <b>60</b> is split by the optical splitter into the wavemeter <b>56</b> and the photodetector <b>58</b>. The wavemeter <b>56</b> and the photodetector <b>58</b> may be electrically connected to the control portion <b>24</b>.</p>
+<p id="p-0203" num="0205">The output portion <b>34</b> is that part of the PIC <b>28</b> at which the light is emitted from the PIC <b>28</b>. For example, the output portion <b>34</b> directs the light to the mirror <b>16</b>. The output portion <b>34</b> includes, in the embodiment of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, n output channels <b>62</b> (indicated as &#x201c;Output #N&#x201d; in <figref idref="DRAWINGS">FIG. <b>2</b></figref>) which each may be implemented by an optical waveguide. Each output channel <b>64</b> may be optically coupled to the second output port <b>52</b>, for example via an optical waveguide. Thus, each output channel <b>62</b> is optically coupled to a respective optical splitter <b>48</b>.</p>
+<p id="p-0204" num="0206">In the embodiment of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, each optical splitter <b>48</b> splits the light of a respective tunable laser <b>30</b> into a respective combination of wavemeter <b>56</b> and photodetector <b>58</b> and the respective output channel <b>62</b>. Thus, the embodiment of <figref idref="DRAWINGS">FIG. <b>2</b></figref> may be considered a segmented architecture in that the light generated by each tunable laser <b>30</b> is split by a respective optical splitter <b>48</b> into a respective wavemeter <b>56</b>/photodetector <b>58</b> one the one hand and into a respective output channel <b>62</b> on the other hand.</p>
+<p id="p-0205" num="0207">The embodiment depicted in <figref idref="DRAWINGS">FIG. <b>3</b></figref> has the same configuration as the embodiment depicted in <figref idref="DRAWINGS">FIG. <b>2</b></figref> except for the following differences.</p>
+<p id="p-0206" num="0208">The splitting/combining portion <b>36</b> includes a single optical combiner <b>46</b> and a single optical splitter <b>48</b>. The measuring portion <b>32</b> includes a single wavemeter <b>56</b> and a single photodetector <b>58</b>. The output portion <b>34</b> includes a single output channel <b>62</b>.</p>
+<p id="p-0207" num="0209">The optical combiner <b>46</b> is a multiplexer which combines the light generated by each of the tunable lasers <b>30</b>. The optical combiner is optically coupled to the optical splitter <b>48</b> which splits the multiplexed light into the measuring portion <b>32</b> and into the single output channel <b>62</b> of the output portion <b>34</b>.</p>
+<p id="p-0208" num="0210">The embodiment depicted in <figref idref="DRAWINGS">FIG. <b>4</b></figref> has the same configuration as the embodiment depicted in <figref idref="DRAWINGS">FIG. <b>2</b></figref> except for the following differences.</p>
+<p id="p-0209" num="0211">The splitting/combining portion <b>36</b> includes a single optical combiner <b>46</b> and n optical splitters <b>48</b>. The measuring portion <b>32</b> includes a single wavemeter <b>56</b> and a single photodetector <b>58</b>. The output portion <b>34</b> includes n output channels <b>62</b> (similar to the configuration depicted in <figref idref="DRAWINGS">FIG. <b>2</b></figref>). Each of the n optical splitters <b>48</b> is optically coupled to a respective tunable laser <b>30</b> and splits the light received from the respective tunable laser <b>30</b> to the respective optical combiner <b>46</b> and to the respective output channel <b>62</b> of the output portion <b>34</b>. The optical combiner <b>46</b> combines the light received by the n optical splitters <b>48</b> and outputs the multiplexed light to the measuring portion <b>32</b>.</p>
+<p id="p-0210" num="0212">The embodiment depicted in <figref idref="DRAWINGS">FIG. <b>5</b></figref> has the same configuration as the embodiment depicted in <figref idref="DRAWINGS">FIG. <b>2</b></figref> except for the following differences.</p>
+<p id="p-0211" num="0213">The PIC <b>28</b> includes only two tunable lasers <b>30</b>. The two measurement portions <b>32</b> each include only the photodetector <b>58</b>. Each of tunable lasers <b>30</b> further includes a Fabry-Perot laser <b>64</b> which generates light that is output by a different waveguide/output compared to the output portion <b>34</b>. The Fabry-Perot laser <b>64</b> is included for diagnostic purposes, but is not essential for the overall function of the PIC <b>28</b>. The numbers depicted in <figref idref="DRAWINGS">FIG. <b>5</b></figref> along the optical splitters <b>48</b> indicate the ratio of intensity that is output at the output channels.</p>
+<p id="p-0212" num="0214"><figref idref="DRAWINGS">FIG. <b>6</b></figref> depicts steps for operating the wearable device <b>10</b>. The tuning element <b>40</b> for the first tunable laser <b>30</b> (tunable laser #<b>1</b>) is set according to predetermined values, such as to a look-up table of pre-calibrated set points, followed by turning on the first photodiode <b>39</b>/RSOA <b>40</b>, then sampling wavelength and intensity while data is collected at the light detector <b>18</b>. This is repeated for all wavelengths of the tunable lasers range and all tunable lasers <b>30</b> on the PIC <b>28</b>.</p>
+<p id="p-0213" num="0215"><figref idref="DRAWINGS">FIG. <b>7</b></figref> depicts steps for operating the wearable device <b>10</b>. The first photodiode <b>39</b>/RSOA <b>40</b> (RSOA #<b>1</b>, i.e. the photodiode <b>39</b>/RSOA <b>40</b> of tunable laser #<b>1</b>) is turned on, the tuning element <b>40</b> is then set and optimized in real time (using the measurement results generated by the measurement portion <b>32</b>). Then wavelength and intensity are sampled while data is collected at the light detector <b>18</b>. The first photodiode <b>39</b>/RSOA <b>40</b> is turned off after cycling through all wavelengths within its range. This is repeated for all other tunable lasers <b>30</b> on the PIC <b>28</b>.</p>
+<p id="p-0214" num="0216"><figref idref="DRAWINGS">FIG. <b>8</b></figref> depicts steps for operating the wearable device <b>10</b>. In this case, the tuning elements <b>40</b> for all tunable lasers <b>30</b> are wired in parallel. The tuning elements <b>40</b> are set for all tunable lasers <b>30</b> simultaneously, then the first photodiode <b>39</b>/RSOA <b>40</b> (RSOA #<b>1</b>, i.e. the photodiode <b>39</b>/RSOA <b>40</b> of tunable laser #<b>1</b>) is turned on while sampling wavelength and intensity with data collection at the light detector <b>18</b>. This is then repeated for all other photodiode <b>39</b>/RSOAs <b>40</b> before setting the tuning elements <b>40</b> again and repeating for all wavelengths.</p>
+<p id="p-0215" num="0217"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a top view of an optical coupler providing a transition part between an RSOA <b>38</b> (an example of the first optical element) and a PIC SiN waveguide (an example of a second optical element which may include the tunable filter <b>40</b>). The RSOA <b>38</b> is electrically driven, and it is made of a ridge structure patterned on top of a multiple quantum wells (MQWs) with an optional width of 2 &#x3bc;m. A narrow unetched part is left in a facet <b>108</b> of RSOA <b>38</b> which provides the first waveguide <b>106</b>, which may include T-bar. The T-bar can help protect the facet <b>108</b> from damages that can happen during the bonding process which is an example for fixing the RSOA <b>38</b> to the tunable filter <b>40</b>. The width of the T-bar can be 1 &#x3bc;m. The facet <b>108</b> of RSOA <b>38</b> has a first angle with respect to a direction of extension of the first waveguide <b>106</b> (optionally between 80&#xb0; and 84&#xb0;), which is designed to minimize the back-reflection into the RSOA <b>38</b>.</p>
+<p id="p-0216" num="0218">On the other side, the PIC or the tunable filter <b>40</b> can include a plurality of nanobeams <b>102</b>, a merging section <b>103</b>, a tapered portion <b>104</b>, and a second waveguide <b>105</b>. The nanobeams <b>102</b>, the merging section <b>103</b>, the tapered portion <b>104</b>, and the waveguide <b>105</b> can be made from SiN<sub>4 </sub>and/or can be covered by a material <b>101</b>, such as silicon dioxide. Each nanobeam <b>102</b> has a width and height of 700 nm and 400 nm, respectively. These dimensions allow a single mode operation.</p>
+<p id="p-0217" num="0219">The tapered portion <b>104</b> has a width corresponding to the width of a nanobeam <b>102</b>. There is a spacing between nanobeams <b>102</b> and the edge of PIC <b>40</b> that is filled by SiO<sub>2 </sub><b>101</b>. An refractive index of fluid, which is used for bonding process of the RSOA <b>38</b> to the tunable filter <b>40</b>, is very close to the index of the SiO2 <b>101</b>. The fluid can be a glue that is provided between the RSOA <b>38</b> and the tunable filter <b>40</b> (not shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>).</p>
+<p id="p-0218" num="0220">Each nanobeam <b>102</b> has a straight section and a curved section. The nanobeams <b>102</b> are arranged to provide a fork design with five nanobeams <b>102</b>. The advantage of this configuration is in part that there is a super-mode distributed over two or more nanobeams <b>102</b> rather than a single mode confined in one nanobeam <b>102</b>. The size and shape of the super-mode is controllable by the number and dimensions of nanobeams <b>102</b>.</p>
+<p id="p-0219" num="0221">The propagation from the first waveguide <b>106</b> via the nanobeams <b>102</b> to the second waveguide <b>105</b> is shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>. It is immediately apparent form <figref idref="DRAWINGS">FIG. <b>11</b></figref> that small offsets of the first waveguide <b>106</b> with respect to the nanobeams <b>102</b> along the direction of the facet <b>108</b> (due to inaccuracies when fixing the RSOA <b>38</b> to the tunable filter <b>40</b>) do not significantly affect the propagation of the light in the nanobeams <b>102</b>. The super-mode in the nanobeams <b>102</b> is essentially in the middle three nanobeams <b>102</b> so that an small offset results in a shift of the super-mode to upper three or lower three nanobeams <b>102</b>.</p>
+<p id="p-0220" num="0222">In this embodiment, there is one nanobeam <b>102</b> at the center, and two sets of double nanobeams <b>102</b> with identical distances from the middle nanobeam <b>102</b>. The nanobeams <b>102</b> of number 2 and 4, and the nanobeams <b>102</b> of number 1 and 5 form Y-combiner with each other. Two Y-combiners have a same joint point along the middle nanobeam <b>102</b> (i.e., number 3). The y-span of the outer Y-combiner is double of the inner Y-combiner. The widths of all nanobeams <b>102</b> are chosen to be the same. While the facet angle of PIC <b>40</b> is the same as the facet angle of RSOA <b>38</b>, but the fork coupler has an extra angle in order to match with the angle of the incoming light from RSOA <b>38</b>. When the light exists from the RSOA facet <b>108</b>, it experiences a bending angle with respect to the facet <b>108</b> due the index change according to the Snell's law. This extra angle can be considered to maximize the coupling efficiency. The facet angle for both RSOA <b>38</b> and PIC <b>40</b> are optimized to 8&#xb0;. Additionally, fork coupler has an extra 9&#xb0; angle so that the nanobeams <b>102</b> form an angle of 81&#xb0; with the side surface of the tunable filter <b>40</b>.</p>
+<p id="p-0221" num="0223"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows the transition between nanobeams <b>102</b> and the merging section <b>103</b>. It is readily visible from the enlarged image in <figref idref="DRAWINGS">FIG. <b>10</b></figref> that the merging section <b>103</b> includes filler portions <b>103</b><i>a </i>(indicated by the dashed lines in <figref idref="DRAWINGS">FIG. <b>10</b></figref>) which fill spaces between the nanobeams <b>102</b>. Without the filler portions <b>103</b><i>a, </i>the nanobeams <b>102</b> would merge closer to the tapered portion <b>104</b>. The filler portions <b>103</b><i>a </i>are present due manufacturing constraints which do not provide very small distances between the nanobeams <b>102</b> which would be present with the spaces occupied by the filler portions <b>103</b><i>a. </i></p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A photonic integrated circuit (PIC), the photonic integrated circuit comprising:
+<claim-text>at least one laser, the laser having a laser output,</claim-text>
+<claim-text>a measuring portion including a measuring port and configured to measure an intensity and/or wavelength of light input at the measuring port, and</claim-text>
+<claim-text>an output portion configured to output light from the photonic integrated circuit to a portion of a tissue of a user,</claim-text>
+<claim-text>wherein the laser generates light having wavelength below 1200 nm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The photonic integrated circuit of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the laser includes a ring resonator laser, a laser generating light having a fixed wavelength, a laser being constructed using hybrid integration, and/or a tunable laser.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The photonic integrated circuit of <claim-ref idref="CLM-00002">claim 2</claim-ref>, further comprising:
+<claim-text>n lasers, n being an integer greater than or equal to 2 and each laser has a laser output, and</claim-text>
+<claim-text>a splitting/combining portion including n input ports, a first output port, and a second output port, each input port being coupled to a respective one of the laser outputs, the first output port being coupled to the measuring port, and the second output port being coupled to the output portion.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The photonic integrated circuit according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the splitting/combining portion includes n optical splitters, each optical splitter is coupled to one input port, one first output port, and one second output port and
+<claim-text>wherein the output portion includes n output channels, each output channel being coupled to one second output port.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The photonic integrated circuit according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the splitting/combining portion includes one optical combiner and one optical splitter, the optical combiner being coupled to the n input ports for combining the light of the n lasers, the optical splitter being coupled to the optical combiner, to the first input port, and the second input port for splitting the light received from the optical combiner into the first output port and the second output port, and
+<claim-text>wherein output portion includes one output channel that is coupled to the optical splitter.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The photonic integrated circuit according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the splitting/combining portion includes n optical splitters and one optical combiner,
+<claim-text>wherein each optical splitter is coupled to one input port, the one optical combiner and to the second output port for splitting the light received from the respective laser into the optical combiner and the second output port, and</claim-text>
+<claim-text>wherein the optical combiner is coupled to the measuring portion for combining the light received from the n optical splitters, and</claim-text>
+<claim-text>wherein the output portion includes n output channels, each output channel being coupled to a respective one of the optical splitters.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The photonic integrated circuit according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, further comprising a control portion coupled to the n lasers and the measuring portion for tuning the n lasers based on the intensity and/or the wavelength measured by the measuring portion, wherein the control portion tunes all n tunable lasers using a common tuning algorithm.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The photonic integrated circuit according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the tunable laser includes a reflective semiconductor optical amplifier (RSOA) and a tuning element, wherein the tuning element includes a micro-ring reflector and/or a sampled Distributed Bragg Reflector (DBR) grating, and
+<claim-text>wherein at least one of the n tunable lasers includes phase control section coupled between the reflective semiconductor optical amplifier (RSOA) and the tuning element for determining the phase of light.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The photonic integrated circuit according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the photonic integrated circuit includes a waveguide core made from silicon nitride (Si<sub>3</sub>N<sub>4</sub>), wherein the laser generates light having wavelength below 1000 nm.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The photonic integrated circuit according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the laser output is split into a first optical component and a second optical component,
+<claim-text>wherein the first optical component is arranged to be transmitted to and generate speckle at the portion of tissue of the user;</claim-text>
+<claim-text>the photonic integrated circuit further comprising:
+<claim-text>one or more detectors, each detector configured to receive the speckle generated by the first optical component at the portion of tissue; and</claim-text>
+<claim-text>one or more optical splitters optically coupling the second optical component to one or more respective input(s) of the one or more detectors;</claim-text>
+</claim-text>
+<claim-text>wherein the photonic integrated circuit is further adapted to measure interference at the one or more detectors between a sample arm formed by the first optical component and a reference arm formed by the second optical component.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The photonic integrated circuit according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the photonic integrated circuit is configured to execute diffuse correlation spectroscopy (DCS), and/or
+<claim-text>wherein the photonic integrated circuit executes a measurement of pulse oximetry (SpO2), oxygen saturation, carboxy haemoglobin, methaemoglobin, or fractional oxygen saturation.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The photonic integrated circuit according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a homogenizer, the homogenizer comprising a planar waveguide device which receives light from the laser and generates interference to produce multiple statistically uncorrelated speckle patterns that are combined to provide the optical output at the output portion.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. A wearable device comprising a photonic integrated circuit according to <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. A method for controlling a photonic integrated circuit (PIC), the method comprising
+<claim-text>a) setting a tuning element of a laser,</claim-text>
+<claim-text>b) turning the laser on for generating laser light having a wavelength and an intensity,</claim-text>
+<claim-text>c) measuring the intensity and/or the wavelength of generated laser light, and</claim-text>
+<claim-text>d) detecting the reflection of the generated laser light from the portion of the tissue and analysing the reflected light for investigating the blood flow,</claim-text>
+<claim-text>wherein the laser includes a ring resonator laser, a laser being constructed using hybrid integration, and/or a tunable laser.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. An optical coupler, comprising
+<claim-text>a first optical element including a first waveguide, the first waveguide including a facet configured to emit electromagnetic radiation from the first optical element,</claim-text>
+<claim-text>a second optical element including a second waveguide and an end portion configured to couple electromagnetic radiation into the second optical element,</claim-text>
+<claim-text>wherein the first optical element and the second optical element are fixed so that the facet faces the end portion,</claim-text>
+<claim-text>wherein the end portion includes a plurality of nanobeams, each nanobeam having a width that is smaller than a width of the second waveguide,</claim-text>
+<claim-text>wherein the end portion includes a merging section at which the nanobeams merge, and</claim-text>
+<claim-text>wherein the optical element further includes a tapered portion arranged between the merging section and the second waveguide, a minimal width of the merging section is smaller than the width of the second waveguide.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The optical coupler of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the width of each of the nanobeams is constant and respective sections of the plurality of nanobeams extend parallel to each other, and/or
+<claim-text>wherein a first angle between a direction of extension of the first waveguide and a plane of the facet is between 80&#xb0; and 84&#xb0;, optionally 82&#xb0;.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The optical coupler of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein a side surface of the second optical element extends parallel to the facet, wherein a second angle between a direction of extension of the parallel sections of the plurality of nanobeams and a plane of the side surface is between 79&#xb0; and 83&#xb0;, optionally 81&#xb0;.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The optical coupler of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the end portion is spaced apart from the side surface of the second optical element, wherein a space between the side surface and the end portion is filled with SiO<sub>2</sub>.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The optical coupler of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the first waveguide includes a T-bar providing the facet.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The photonic integrated circuit of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising the optical coupler of <claim-ref idref="CLM-00015">claim 15</claim-ref>.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

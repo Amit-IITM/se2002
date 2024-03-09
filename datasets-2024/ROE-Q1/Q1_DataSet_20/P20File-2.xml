@@ -1,0 +1,3060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225274A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225274</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17900597</doc-number>
+<date>20220831</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>6</main-group>
+<subgroup>46</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>5</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20180501</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>6</main-group>
+<subgroup>4636</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>5</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">INBRED RICE LINE DG263L</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>17729926</doc-number>
+<date>20220426</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17900597</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63196202</doc-number>
+<date>20210602</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Nutrien AG Solutions, Inc.</orgname>
+<address>
+<city>Loveland</city>
+<state>CO</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Shao</last-name>
+<first-name>Qiming</first-name>
+<address>
+<city>Sugar Land</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Chou</last-name>
+<first-name>Nanyen</first-name>
+<address>
+<city>Sugar Land</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Johnson</last-name>
+<first-name>Kirk Douglas</first-name>
+<address>
+<city>Davis</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The inbred rice line designated DG263L is disclosed. Embodiments include the seeds of inbred rice line designated DG263L, the plants of inbred rice line designated DG263L, plant parts of inbred rice line designated DG263L, and methods for producing a rice plant produced by crossing rice DG263L with itself or with another rice variety. Embodiments include methods for producing a rice plant containing in its genetic material one or more genes or transgenes and the transgenic rice plants and plant parts produced by those methods. Embodiments also relate to rice cultivars, breeding cultivars, plant parts, and cells derived from inbred rice line designated DG263L, methods for producing other rice cultivars, lines or plant parts derived from inbred rice line designated DG263L, and the rice plants, varieties, and their parts derived from use of those methods. Embodiments further include hybrid rice seeds, plants, and plant parts produced by crossing DG263L with another rice cultivar.</p>
+</abstract>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">1. CROSS REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application is a continuation application that claims priority to U.S. patent application Ser. No. 17/729,926, filed Apr. 26, 2022, which claims priority to Provisional Application No. 63/196,202, filed Jun. 2, 2021, which are herein incorporated by reference in the entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">2. BACKGROUND</heading>
+<p id="p-0003" num="0002">An ancient agricultural crop, rice remains one of the world's principal food crops.</p>
+<p id="p-0004" num="0003">Rice in the United States is classified into three primary market types by grain size, shape, and endosperm composition: long-grain, medium-grain, and short-grain. Typical U.S. long-grain cultivars cook dry and fluffy when steamed or boiled, while medium- and short-grain cultivars cook moist and sticky. Medium grain rice is usually slightly wider than long grain rice and slightly shorter, with a length:width ratio between 2:1 and 3:1.</p>
+<p id="p-0005" num="0004">Rice is a semi-aquatic crop that benefits from flooded soil conditions during part or all of the growing season. In the rice producing regions of the United States, rice is typically grown on flooded soil to optimize grain yields.</p>
+<p id="p-0006" num="0005">Long-grain cultivars have become the principal varieties grown throughout the southern United States.</p>
+<p id="p-0007" num="0006">A goal of rice breeders is to develop stable, high yielding rice cultivars that are agronomically sound. The reasons for this goal are to maximize the amount of grain produced on the land used and to supply food for both animals and humans. To accomplish this goal, the rice breeder must select and develop rice plants that have the traits that result in superior cultivars.</p>
+<heading id="h-0003" level="1">3. SUMMARY</heading>
+<p id="p-0008" num="0007">Rice plants and seeds of line DG263L are provided, as are plant parts, tissue cultures of cells, breeding methods, and hybrid rice seed and plants. Inbred rice line designated DG263L is a semi-dwarf, early maturing long grain rice variety (<i>Oryza sativa </i>L.).</p>
+<p id="p-0009" num="0008">Inbred line DG263L is described in detail in sections 4.2 and 4.3.</p>
+<p id="p-0010" num="0009">Method of breeding with DG263L, including, e.g., pedigree breeding and hybrid breeding, are detailed in section 4.4.</p>
+<p id="p-0011" num="0010">Tissue cultures of cells from DG263L are described in section 4.5.</p>
+<p id="p-0012" num="0011">The application of molecular biology to DG263L, including transgenes and related methods and gene editing, are described in section 4.6.2.4.6.2.</p>
+<p id="p-0013" num="0012">Industrial uses for DG263L are provided in section 4.7.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">4. DETAILED DESCRIPTION</heading>
+<p id="p-0014" num="0013">The present disclosure provides a new inbred rice line designated DG263L. Rice plants and seeds of line DG263L are provided, as are plant parts, tissue cultures of cells, breeding methods, and hybrid rice seed and plants.</p>
+<p id="p-0015" num="0014">The seed of inbred rice line DG263L, the plant produced from the inbred rice line DG263L seed, the hybrid rice plant produced from the crossing of the inbred rice line DG263L, and various parts of the inbred rice line DG263L and hybrid rice plants and transgenic versions of the foregoing can be utilized for human food, livestock feed, and as a raw material in industry. DG263L and its hybrids and derived varieties are adapted for growing throughout the rice-growing areas of Texas, Louisiana, Arkansas, Mississippi, Missouri, and Florida, and will also be well suited for growing in many other rice-producing areas throughout the world.</p>
+<heading id="h-0005" level="1">4.1. Definitions</heading>
+<p id="p-0016" num="0015">As used herein, the following terms are intended to have the following meanings:</p>
+<p id="p-0017" num="0016">Amylose: Amylose is a type of grain starch that affects cooking behavior. As such, its measured quantity in rice is used to establish cooking properties of Standard US grain classes, or types (long, medium and short grain).</p>
+<p id="p-0018" num="0017">Amylose Percent: &#x201c;Amylose percent&#x201d; refers to the percentage of the endosperm starch of milled rice that is amylose. Standard long grains contain 20 to 23 percent amylose. Rexmont-type long grains contain 24 to 25 percent amylose. Short and medium grains contain 14 to 16 percent amylose. Waxy rice contains zero percent amylose. Amylose values, like most characteristics of rice, will vary over environments.</p>
+<p id="p-0019" num="0018">Cell: The term &#x201c;cell&#x201d; generally refers to a plant cell, whether isolated, in tissue culture, or included in a plant or plant part.</p>
+<p id="p-0020" num="0019">Chalk: &#x201c;Chalk&#x201d; refers to an opaque region of the rice kernel resulting from loose packing of the starch granules. Chalk may occur throughout or in a part of the kernel.</p>
+<p id="p-0021" num="0020">Days to 50% Heading: The term &#x201c;days to 50% heading&#x201d; refers to the number of days from emergence to the day when 50% of all panicles are exerted at least partially through the leaf sheath. &#x201c;Days to 50% heading&#x201d; is a measure of growth duration.</p>
+<p id="p-0022" num="0021">Essentially all of the physiological and morphological characteristics: The term &#x201c;essentially all of the physiological and morphological characteristics&#x201d; refers to a plant having all of the physiological and morphological characteristics of inbred rice line DG263L, except for the characteristics derived from a converted gene.</p>
+<p id="p-0023" num="0022">Gelatinization temperature: &#x201c;Gelatinization temperature&#x201d; refers to the temperature at which the consistency of a rice flour-water mixture changes into a jelly. Correlates with the cooking time and texture of a rice product.</p>
+<p id="p-0024" num="0023">Genetically modified: &#x201c;Genetically modified&#x201d; refers to an organism that has received genetic material from another, or had its genetic material modified, resulting in a change in one or more of its phenotypic characteristics. Methods used to modify, introduce or delete the genetic material may include mutation breeding, genome editing, backcross conversion, genetic transformation, single and multiple gene conversion, and/or direct gene transfer.</p>
+<p id="p-0025" num="0024">Genome editing: &#x201c;Genome editing&#x201d; refers to a type of engineering in which DNA is inserted, replaced, modified, or removed from a plant genome using, e.g., artificially engineered nucleases or other target changes using homologous recombination.</p>
+<p id="p-0026" num="0025">Plant: As used herein, the term &#x201c;plant&#x201d; includes plant cells, plant protoplasts, plant cell tissue cultures from which rice plants can be regenerated, plant calli, plant clumps and plant cells that are intact in plants or parts of plants, such as embryos, pollen, ovules, flowers, glumes, panicles, leaves, stems, roots, root tips, anthers, pistils and the like. &#x201c;Plant&#x201d; also includes plant cells, plant protoplasts, plant cells of tissue culture from which rice plants can be regenerated, plant calli, plant clumps, and plant cells that are intact in plants or parts of plants, such as pollen, flowers, embryos, ovules, seeds, panicles, glumes, leaves, stems, pistils, anthers and the like. Thus, another aspect of the present disclosure is to provide for cells which upon growth and differentiation produce a cultivar having essentially all of the physiological and morphological characteristics of inbred rice line DG263L. Genetic variants of inbred rice line DG263L can also be obtained as a result of the tissue culture process. Variants recovered by tissue culture of inbred rice line DG263L are another aspect of this invention.</p>
+<p id="p-0027" num="0026">Promoter: As used herein, &#x201c;promoter&#x201d; includes reference to a region of DNA upstream from the start of transcription and involved in recognition and binding of RNA polymerase and other proteins to initiate transcription. A plant promoter is a promoter capable of initiating transcription in plant cells, including rice. Examples of promoters under developmental control include promoters that preferentially initiate transcription in certain tissues, such as leaves, roots, seeds, fibers, xylem vessels, tracheids, or sclerenchyma. Such promoters are referred to as &#x201c;tissue-preferred&#x201d;. Promoters that initiate transcription only in certain tissue are referred to as &#x201c;tissue-specific&#x201d;. A &#x201c;cell type&#x201d; specific promoter primarily drives expression in certain cell types in one or more organs, for example, vascular cells in roots or leaves. An &#x201c;inducible&#x201d; promoter is a promoter which is under environmental control. Examples of environmental conditions that may affect transcription by inducible promoters include anaerobic conditions or the presence of light. Tissue-specific, tissue-preferred, cell type specific, and inducible promoters constitute the class of &#x201c;non-constitutive&#x201d; promoters. A &#x201c;constitutive&#x201d; promoter is a promoter which is active under most environmental conditions.</p>
+<p id="p-0028" num="0027">Transgene: &#x201c;Transgene&#x201d; refers to a segment of DNA containing a gene sequence that has been isolated from one organism and is introduced into a different organism.</p>
+<heading id="h-0006" level="1">4.2. Variety Description</heading>
+<p id="p-0029" num="0028">Inbred rice line designated DG263L is a semi-dwarf, early maturing long grain rice variety (<i>Oryza sativa </i>L.). DG263L has a broad germplasm background with excellent yield potential, stable yields across trials, and a strong disease package for the United States market. The line has 26% amylose, with an intermediate gel temperature, low chalk content, and demonstrated good yield and excellent milling attributes in multi-state testing in southern United States rice production areas.</p>
+<p id="p-0030" num="0029">DG263L typically shows 85 days from planting to 50% heading, and is 36 inches in height at maturity.</p>
+<p id="p-0031" num="0030">DG263L was developed from a pedigree selection system at El Campo, Tex. The line was developed from the cross R9/B1/3/6G4286R//Cypress/Alan. R9, B1, and 6G4286R are all proprietary lines, with 6G4286R acting as a restorer line. Cypress and Alan are US conventional public varieties. Following the cross, plants were selected for strong straw, relatively short height, big panicles, good tillers, high yield potential, good milling and grain quality, and good pollinator ability. From these selections, DG263L was identified. It was entered into the yield trails bulking a F5 row made in El Campo, Tex. in 2016. DG263L has shown uniformity and stability. The line has been self-pollinated a sufficient number of generations with careful attention to uniformity of plant type and has been increased with continued observation for uniformity.</p>
+<p id="p-0032" num="0031">Inbred rice line DG263L was observed to possess the physiological and morphological characteristics set out in Table 1, based primarily on averages of tests conducted over multiple growing seasons (2017 to 2020) at multiple sites (El Campo, Tex.; Crowley, La.; Keiser, Ark.; Clay, Ark.; Colt, Ark.; Stuttgart, Ark.; and Campbell, Mo.).</p>
+<p id="p-0033" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Physiological and Morphological Characteristics</entry>
+</row>
+<row>
+<entry>of Inbred Rice Line DG263L</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Type</entry>
+</row>
+<row>
+<entry>&#x2003;Rice Type: Long grain</entry>
+</row>
+<row>
+<entry>Maturity</entry>
+</row>
+<row>
+<entry>&#x2003;Maturity Days to Heading: 30</entry>
+</row>
+<row>
+<entry>&#x2003;Nitrogen Rate (kg/ha): 168</entry>
+</row>
+<row>
+<entry>&#x2003;Number of Days: 84</entry>
+</row>
+<row>
+<entry>&#x2003;Maturity Class: Very early (85 days or less)</entry>
+</row>
+<row>
+<entry>Culm</entry>
+</row>
+<row>
+<entry>&#x2003;Culm Angle (degrees from perpendicular after flowering): Erect</entry>
+</row>
+<row>
+<entry>&#x2003;(less than 30&#xb0;)</entry>
+</row>
+<row>
+<entry>&#x2003;Culm Length or Plant Height (cm): 91.5</entry>
+</row>
+<row>
+<entry>&#x2003;Height Class: Short (&#x2264;95 cm)</entry>
+</row>
+<row>
+<entry>&#x2003;Internode Color after Flowering: Green</entry>
+</row>
+<row>
+<entry>Flag Leaf at Maturity</entry>
+</row>
+<row>
+<entry>&#x2003;Flag Leaf Width (mm): 15</entry>
+</row>
+<row>
+<entry>&#x2003;Flag Leaf Length (cm): 32</entry>
+</row>
+<row>
+<entry>&#x2003;Flag Leaf Pubescence: Glabrous</entry>
+</row>
+<row>
+<entry>&#x2003;Leaf Angle after Heading: Erect</entry>
+</row>
+<row>
+<entry>&#x2003;Flag Leaf Blade Color at Heading: Dark green</entry>
+</row>
+<row>
+<entry>&#x2003;Basal Leaf Sheath Color at Heading: Green</entry>
+</row>
+<row>
+<entry>Ligule</entry>
+</row>
+<row>
+<entry>&#x2003;Ligule Length (mm): 16</entry>
+</row>
+<row>
+<entry>&#x2003;Ligule Color: White</entry>
+</row>
+<row>
+<entry>&#x2003;Ligule Shape: Acute to acuminate</entry>
+</row>
+<row>
+<entry>&#x2003;Collar Color: Green</entry>
+</row>
+<row>
+<entry>&#x2003;Auricle Color: Pale green</entry>
+</row>
+<row>
+<entry>Panicle</entry>
+</row>
+<row>
+<entry>&#x2003;Panicle Length (cm)</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;Length: 24</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;High: 26</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;Low: 22</entry>
+</row>
+<row>
+<entry>&#x2003;Panicle Type: Intermediate</entry>
+</row>
+<row>
+<entry>&#x2003;Panicle Secondary Branching: Light</entry>
+</row>
+<row>
+<entry>&#x2003;Panicle Exsertion Near Maturity: 90-99%</entry>
+</row>
+<row>
+<entry>&#x2003;Shattering at Maturity: Low</entry>
+</row>
+<row>
+<entry>&#x2003;Threshability: Intermediate</entry>
+</row>
+<row>
+<entry>&#x2003;Panicle Habit: Drooping</entry>
+</row>
+<row>
+<entry>Grain Spikelet</entry>
+</row>
+<row>
+<entry>&#x2003;Awns after Full Heading: Absent</entry>
+</row>
+<row>
+<entry>&#x2003;Apiculus Color at Maturity: Straw</entry>
+</row>
+<row>
+<entry>&#x2003;Apiculus Color after Full Heading: Straw</entry>
+</row>
+<row>
+<entry>&#x2003;Stigma Color: White</entry>
+</row>
+<row>
+<entry>&#x2003;Lemma and Palea Color at Maturity: Straw</entry>
+</row>
+<row>
+<entry>&#x2003;Lemma and Palea Pubescence: Glabrous</entry>
+</row>
+<row>
+<entry>&#x2003;Spikelet Sterility at Maturity: Highly fertile (&#x3e;90%)</entry>
+</row>
+<row>
+<entry>Grain Seed</entry>
+</row>
+<row>
+<entry>&#x2003;Seed Coat (Bran) Color: Light brown</entry>
+</row>
+<row>
+<entry>&#x2003;Endosperm Type: Nonglutinous (nonwaxy)</entry>
+</row>
+<row>
+<entry>&#x2003;Endosperm Translucency: Clear</entry>
+</row>
+<row>
+<entry>&#x2003;Endosperm Chalkiness: None</entry>
+</row>
+<row>
+<entry>&#x2003;Scent (aroma): Nonscented</entry>
+</row>
+<row>
+<entry>&#x2003;Shape Class Ratio</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;Paddy Shape: Long (3.4:1 and more)</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;Brown: Long (3.1:1 and more)</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;Milled: Long (3.0:1 and more)</entry>
+</row>
+<row>
+<entry>&#x2003;Measurements of Grain Seed</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;Paddy</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;Length (mm): 923</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;Width (mm): 262</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;Thickness (mm): 210</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;L/W Ratio: 3.52</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;1000 Grains (grams): 24.1</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;Brown</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;Length (mm): 665</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;Width (mm): 225</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;Thickness (mm): 190</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;L/W Ratio: 2.95</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;1000 Grains (grams): 19.6</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;Milled</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;Length (mm): 645</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;Width (mm): 219</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;Thickness (mm): 171</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;L/W Ratio: 2.94</entry>
+</row>
+<row>
+<entry>&#x2003;&#x2003;&#x2003;1000 Grains (grams): 17.4</entry>
+</row>
+<row>
+<entry>&#x2003;Milling Quality (% hulls): 19.5</entry>
+</row>
+<row>
+<entry>&#x2003;Milling Yield (% white kernel (head) rice to rough rice): 68.5</entry>
+</row>
+<row>
+<entry>&#x2003;% Protein: 7.0</entry>
+</row>
+<row>
+<entry>&#x2003;% Amylose: 26</entry>
+</row>
+<row>
+<entry>&#x2003;Alkali Spreading Value: 1.5% KOH to 1.7% KOH</entry>
+</row>
+<row>
+<entry>&#x2003;Gelatination Temperature Type: Intermediate</entry>
+</row>
+<row>
+<entry>Resistance to Low Temperature</entry>
+</row>
+<row>
+<entry>&#x2003;Germination Vigor: High</entry>
+</row>
+<row>
+<entry>&#x2003;Spikelet Fertility: High</entry>
+</row>
+<row>
+<entry>Seedling Vigor Not Related to Low Temperature</entry>
+</row>
+<row>
+<entry>&#x2003;Seedling Vigor: High</entry>
+</row>
+<row>
+<entry>Disease Resistance</entry>
+</row>
+<row>
+<entry>&#x2003;Narrow Brown Leaf Spot (<i>Cerospora oryzae</i>): Resistant</entry>
+</row>
+<row>
+<entry>&#x2003;Leaf Smut (<i>Entyloma oryzae</i>): Moderately resistant</entry>
+</row>
+<row>
+<entry>&#x2003;Brown Leaf Spot (<i>Helminthosporium oryzae</i>) (=<i>Bipolaris oryzae</i>)</entry>
+</row>
+<row>
+<entry>(=<i>Drechslera oryzae</i>): Moderately resistant</entry>
+</row>
+<row>
+<entry>&#x2003;Straight Head: Moderately resistant</entry>
+</row>
+<row>
+<entry>&#x2003;Kernel Smut (<i>Neovossia horrida</i>) (=<i>Tilletia barclayana</i>): Moderately</entry>
+</row>
+<row>
+<entry>&#x2003;resistant</entry>
+</row>
+<row>
+<entry>&#x2003;Bacterial Blight (<i>Xanthomonas campestris </i>pv. <i>oryzae</i>): Moderately</entry>
+</row>
+<row>
+<entry>&#x2003;resistant</entry>
+</row>
+<row>
+<entry>&#x2003;Sheath Blight (<i>Rhizoctonia solani</i>): Susceptible</entry>
+</row>
+<row>
+<entry>Insect Resistance</entry>
+</row>
+<row>
+<entry>&#x2003;Rice Water Weevil (<i>Lissorhoptrus oryzophilus</i>): Susceptible</entry>
+</row>
+<row>
+<entry>&#x2003;Grape <i>colaspis </i>(<i>Colaspis brunnea</i>): Susceptible</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0007" level="1">4.3. Comparisons of Rice Line DG263L with Other Rice Lines</heading>
+<p id="p-0034" num="0032">Tables 2 to 16 present comparisons of agronomic characteristics and quality ratings of inbred rice line DG263L are to rice lines CL 153, Diamond, and XL 753.</p>
+<p id="p-0035" num="0033">In Table 2, the average main crop yield over two years for inbred rice line DG263L is compared with the yield of rice lines CL 153, Diamond, and XL 753. Yield data was collected in 2017 and 2018 at El Campo, Tex.</p>
+<p id="p-0036" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Average main crop yield (lb/acre) for DG263L, CL 153, Diamond,</entry>
+</row>
+<row>
+<entry>and XL 753 over two years at El Campo, TX (2017 and 2018)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Year</entry>
+<entry>Test</entry>
+<entry>DG263L</entry>
+<entry>CL 153</entry>
+<entry>Diamond</entry>
+<entry>XL 753</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>2017</entry>
+<entry>NAS-El Campo, TX</entry>
+<entry>9098</entry>
+<entry>7854</entry>
+<entry>8821</entry>
+<entry>8965</entry>
+</row>
+<row>
+<entry>2018</entry>
+<entry>NAS-El Campo, TX</entry>
+<entry>9229</entry>
+<entry>8651</entry>
+<entry>9668</entry>
+<entry>9911</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="91pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>2017 and 2018 Average</entry>
+<entry>9163</entry>
+<entry>8252</entry>
+<entry>9244</entry>
+<entry>9438</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0037" num="0034">In Table 3, the average main crop yield from a single growing season for inbred rice line DG263L is compared with the yield of rice lines CL 153, Diamond, and XL 753. Yield data was collected in 2019 at El Campo, Tex.; Crowley, La.; Keiser, Ark.; Clay, Ark.; Colt, Ark.; Stuttgart, Ark.; and Campbell, Mo.</p>
+<p id="p-0038" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Average main crop yield (lb/acre) for DG263L, CL 153, Diamond,</entry>
+</row>
+<row>
+<entry>and XL 753 across several trials at multiple locations</entry>
+</row>
+<row>
+<entry>in Texas, Louisiana, Arkansas, and Missouri (2019)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="77pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Test</entry>
+<entry>DG263L</entry>
+<entry>CL 153</entry>
+<entry>Diamond</entry>
+<entry>XL 753</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="77pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>NAS-El Campo, TX</entry>
+<entry>7416</entry>
+<entry>6261</entry>
+<entry>6703</entry>
+<entry>7731</entry>
+</row>
+<row>
+<entry>NAS-El Campo, TX</entry>
+<entry>8820</entry>
+<entry>8029</entry>
+<entry>8506</entry>
+<entry>10112</entry>
+</row>
+<row>
+<entry>RRS-Crowley, LA</entry>
+<entry>9116</entry>
+<entry>9379</entry>
+<entry>8249</entry>
+<entry>12111</entry>
+</row>
+<row>
+<entry>NEREC-Keiser, AR</entry>
+<entry>11475</entry>
+<entry>8640</entry>
+<entry>8685</entry>
+<entry>11025</entry>
+</row>
+<row>
+<entry>RRS-Clay, AR</entry>
+<entry>10710</entry>
+<entry>9405</entry>
+<entry>10170</entry>
+<entry>11520</entry>
+</row>
+<row>
+<entry>PTRD-Colt, AR</entry>
+<entry>9405</entry>
+<entry>7560</entry>
+<entry>8055</entry>
+<entry>9045</entry>
+</row>
+<row>
+<entry>RREC-Stuttgart, AR</entry>
+<entry>11340</entry>
+<entry>8460</entry>
+<entry>9855</entry>
+<entry>11925</entry>
+</row>
+<row>
+<entry>RRS-Campbell, MO</entry>
+<entry>9153</entry>
+<entry>7807</entry>
+<entry>8865</entry>
+<entry>10071</entry>
+</row>
+<row>
+<entry>2019 Grand Average</entry>
+<entry>9679</entry>
+<entry>8192</entry>
+<entry>8636</entry>
+<entry>10442</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0039" num="0035">In Table 4, the average main crop yield from a single growing season for inbred rice line DG263L is compared with the yield of rice lines CL 153, Diamond, and XL 753. Yield data was collected in 2019 at El Campo, Tex.; Crowley, La.; Palmetto, La.; Arkansas, Ark.; St. Francis, Ark.; Mississippi, Ark.; Desha, Ark.; Poinsett, Ark.; Lawrence, Ark.; Jackson, Ark.; Jefferson, Ark.; Greene, Ark.; Phillips, Ark.; Lonoke, Ark.; Clay, Ark.; Stuttgart, Ark.; and Campbell, Mo.</p>
+<p id="p-0040" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Average main crop yield (lb/acre) for DG263L, CL 153, Diamond,</entry>
+</row>
+<row>
+<entry>and XL 753 across several trials at multiple locations</entry>
+</row>
+<row>
+<entry>in Texas, Louisiana, Arkansas, and Missouri (2020)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Year</entry>
+<entry>Test</entry>
+<entry>DG263L</entry>
+<entry>CL 153</entry>
+<entry>Diamond</entry>
+<entry>XL 753</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<colspec colname="6" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>2020</entry>
+<entry>NAS-El Campo, TX</entry>
+<entry>10807</entry>
+<entry>8596</entry>
+<entry>9884</entry>
+<entry>11911</entry>
+</row>
+<row>
+<entry/>
+<entry>NAS-El Campo, TX</entry>
+<entry>9760</entry>
+<entry>7374</entry>
+<entry>8038</entry>
+<entry>10062</entry>
+</row>
+<row>
+<entry>2020</entry>
+<entry>RSS 1-</entry>
+<entry>11292</entry>
+<entry>10878</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Crowley, LA</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>RSS 2-</entry>
+<entry>11224</entry>
+<entry>10585</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Crowley, LA</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>South Farm-</entry>
+<entry>8944</entry>
+<entry>8115</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Crowley, LA</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Palmetto-LA</entry>
+<entry>7631</entry>
+<entry>7494</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>EV-LA</entry>
+<entry>10106</entry>
+<entry>9446</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>RRS-Crowley</entry>
+<entry>9905</entry>
+<entry>10107</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>RS-Stuttgart, AR</entry>
+<entry>10845</entry>
+<entry>9180</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Arkansas, AR</entry>
+<entry>9675</entry>
+<entry/>
+<entry>8190</entry>
+<entry>9765</entry>
+</row>
+<row>
+<entry/>
+<entry>ST. Francis, AR</entry>
+<entry>9675</entry>
+<entry/>
+<entry>7695</entry>
+<entry>10080</entry>
+</row>
+<row>
+<entry/>
+<entry>Missisippi, AR</entry>
+<entry>11295</entry>
+<entry/>
+<entry>9945</entry>
+<entry>11745</entry>
+</row>
+<row>
+<entry/>
+<entry>Clay, AR</entry>
+<entry>11745</entry>
+<entry/>
+<entry>10170</entry>
+<entry>11340</entry>
+</row>
+<row>
+<entry/>
+<entry>Desha, AR</entry>
+<entry>10035</entry>
+<entry/>
+<entry>10215</entry>
+<entry>11295</entry>
+</row>
+<row>
+<entry/>
+<entry>Poinsett, AR</entry>
+<entry>11475</entry>
+<entry/>
+<entry>8460</entry>
+<entry>11295</entry>
+</row>
+<row>
+<entry/>
+<entry>Lawrence, AR</entry>
+<entry>11565</entry>
+<entry/>
+<entry>9720</entry>
+<entry>12015</entry>
+</row>
+<row>
+<entry/>
+<entry>Jackson, AR</entry>
+<entry>10530</entry>
+<entry/>
+<entry>9855</entry>
+<entry>11745</entry>
+</row>
+<row>
+<entry/>
+<entry>Jefferson, AR</entry>
+<entry>10845</entry>
+<entry/>
+<entry>10575</entry>
+<entry>11340</entry>
+</row>
+<row>
+<entry/>
+<entry>Greene, AR</entry>
+<entry>8280</entry>
+<entry/>
+<entry>6525</entry>
+<entry>5760</entry>
+</row>
+<row>
+<entry/>
+<entry>Phillips, AR</entry>
+<entry>7560</entry>
+<entry/>
+<entry>9360</entry>
+<entry>10665</entry>
+</row>
+<row>
+<entry/>
+<entry>Lonoke, AR</entry>
+<entry>10755</entry>
+<entry/>
+<entry>8955</entry>
+<entry>10755</entry>
+</row>
+<row>
+<entry/>
+<entry>Campbell, MO</entry>
+<entry>9000</entry>
+<entry>7515</entry>
+<entry>8280</entry>
+<entry>10170</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="91pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Grand Average</entry>
+<entry>10134</entry>
+<entry>8929</entry>
+<entry>9058</entry>
+<entry>10663</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0041" num="0036">Table 5 presents summarized data from Tables 2 to 4, which includes 32 yield trials conducted in multiple sites in Texas, Louisiana, Arkansas, and Missouri from 2017-2020.</p>
+<p id="p-0042" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 5</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Average main crop yield (lb/acre) for DG263L, CL 153,</entry>
+</row>
+<row>
+<entry>Diamond, and XL 753 at multiple locations in Texas,</entry>
+</row>
+<row>
+<entry>Louisiana, Arkansas, and Missouri (2017 to 2020)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Years</entry>
+<entry>Trials</entry>
+<entry>DG263L</entry>
+<entry>CL 153</entry>
+<entry>Diamond</entry>
+<entry>XL 753</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>2017-2020</entry>
+<entry>32 Yield Trials</entry>
+<entry>9960</entry>
+<entry>8567</entry>
+<entry>8938</entry>
+<entry>10494</entry>
+</row>
+<row>
+<entry/>
+<entry>in TX, LA, AR,</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>and MO</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0043" num="0037">In Table 6, the average days from planting to 50% heading of the main crop for rice line DG263L is compared with that of rice lines CL 153, Diamond, and XL 753. Data was collected from 2017 to 2020 at El Campo, Tex. and Stuttgart, Ark., as indicated.</p>
+<p id="p-0044" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 6</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Average days from planting to 50% heading of main</entry>
+</row>
+<row>
+<entry>crop for DGL, CL 153, Diamond, and XL 753 at</entry>
+</row>
+<row>
+<entry>locations in Texas and Arkansas (2017 to 2020)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Year</entry>
+<entry>Test</entry>
+<entry>DG263L</entry>
+<entry>CL 153</entry>
+<entry>Diamond</entry>
+<entry>XL 753</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>2017</entry>
+<entry>NAS-El Campo,</entry>
+<entry>85</entry>
+<entry>86</entry>
+<entry>88</entry>
+<entry>88</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>2018</entry>
+<entry>NAS-El Campo,</entry>
+<entry>95</entry>
+<entry>94</entry>
+<entry>95</entry>
+<entry>93</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>2019</entry>
+<entry>NAS-El Campo,</entry>
+<entry>90</entry>
+<entry>90</entry>
+<entry>94</entry>
+<entry>95</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>NAS-El Campo,</entry>
+<entry>82</entry>
+<entry>84</entry>
+<entry>86</entry>
+<entry>84</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>RREC-</entry>
+<entry>84</entry>
+<entry>86</entry>
+<entry>85</entry>
+<entry>84</entry>
+</row>
+<row>
+<entry/>
+<entry>Stuttgart, AR</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>2020</entry>
+<entry>NAS-El Campo,</entry>
+<entry>99</entry>
+<entry>101</entry>
+<entry>103</entry>
+<entry>98</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>NAS-El Campo,</entry>
+<entry>85</entry>
+<entry>86</entry>
+<entry>89</entry>
+<entry>84</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="98pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>2017 to 2020 Grand Average</entry>
+<entry>88</entry>
+<entry>90</entry>
+<entry>91</entry>
+<entry>89</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0045" num="0038">In Table 7, the average plant height of the main crop for rice line DG263L is compared with that of rice lines CL 153, Diamond, and XL 753. Data was collected from 2017 to 2020 at El Campo, Tex. and Crowley, Ala., as indicated.</p>
+<p id="p-0046" num="0000">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 7</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Average plant height (inches) of the main crop</entry>
+</row>
+<row>
+<entry>for DGL, CL 153, Diamond, and XL 753 at locations</entry>
+</row>
+<row>
+<entry>in Texas and Alabama (2017 to 2020)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Year</entry>
+<entry>Test</entry>
+<entry>DG263L</entry>
+<entry>CL 153</entry>
+<entry>Diamond</entry>
+<entry>XL 753</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>2017</entry>
+<entry>NAS-El Campo,</entry>
+<entry>36</entry>
+<entry>36</entry>
+<entry>40</entry>
+<entry>41</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>2018</entry>
+<entry>NAS-El Campo,</entry>
+<entry>39</entry>
+<entry>37</entry>
+<entry>38</entry>
+<entry>40</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>2019</entry>
+<entry>NAS-El Campo,</entry>
+<entry>35</entry>
+<entry>34</entry>
+<entry>35</entry>
+<entry>39</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>NAS-El Campo,</entry>
+<entry>39</entry>
+<entry>39</entry>
+<entry>38</entry>
+<entry>45</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>RRS-Crowley, AL</entry>
+<entry>41</entry>
+<entry>38</entry>
+<entry>40</entry>
+<entry>40</entry>
+</row>
+<row>
+<entry>2020</entry>
+<entry>NAS-El Campo,</entry>
+<entry>38</entry>
+<entry>38</entry>
+<entry>41</entry>
+<entry>41</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>NAS-El Campo,</entry>
+<entry>36</entry>
+<entry>39</entry>
+<entry>38</entry>
+<entry>43</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="84pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>2017 to 2020 Grand Average</entry>
+<entry>37</entry>
+<entry>37</entry>
+<entry>38</entry>
+<entry>41</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0047" num="0039">In table 8, whole grain rice milling yield of the main crop for rice line DG263L is compared with that of rice lines CL 153, Diamond, and XL 753. Data was collected from 2017 to 2020 at El Campo, Tex.; Crowley, Ark.; Stuttgart, Ark.; and Campbell Mo., as indicated.</p>
+<p id="p-0048" num="0000">
+<tables id="TABLE-US-00008" num="00008">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 8</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Whole grain rice milling yield (%) of the main crop for</entry>
+</row>
+<row>
+<entry>DG263L, CL153, Diamond, and XL 753 at multiple locations</entry>
+</row>
+<row>
+<entry>in Texas, Alabama, Arkansas, and Missouri (2017 to 2020)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="21pt" align="left"/>
+<colspec colname="2" colwidth="70pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Year</entry>
+<entry>Test</entry>
+<entry>DG263L</entry>
+<entry>CL 153</entry>
+<entry>Diamond</entry>
+<entry>XL753</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="21pt" align="left"/>
+<colspec colname="2" colwidth="70pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<colspec colname="6" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>2017</entry>
+<entry>NAS-El Campo, TX</entry>
+<entry>49</entry>
+<entry>51</entry>
+<entry>44</entry>
+<entry>29</entry>
+</row>
+<row>
+<entry>2018</entry>
+<entry>NAS- El Campo, TX</entry>
+<entry>56</entry>
+<entry>61</entry>
+<entry>59</entry>
+<entry>58</entry>
+</row>
+<row>
+<entry>2019</entry>
+<entry>NAS-El Campo, TX</entry>
+<entry>55</entry>
+<entry>54</entry>
+<entry>42</entry>
+<entry>20</entry>
+</row>
+<row>
+<entry/>
+<entry>NAS-El Campo, TX</entry>
+<entry>55</entry>
+<entry>59</entry>
+<entry>53</entry>
+<entry>53</entry>
+</row>
+<row>
+<entry/>
+<entry>RRS-Crowley, AL</entry>
+<entry>59</entry>
+<entry>63</entry>
+<entry>59</entry>
+<entry>55</entry>
+</row>
+<row>
+<entry/>
+<entry>RREC-Stuttgart, AR</entry>
+<entry>60</entry>
+<entry>63</entry>
+<entry>59</entry>
+<entry>61</entry>
+</row>
+<row>
+<entry/>
+<entry>RRS-Campbell, MO</entry>
+<entry>65</entry>
+<entry>66</entry>
+<entry>63</entry>
+<entry>58</entry>
+</row>
+<row>
+<entry>2020</entry>
+<entry>NAS- El Campo, TX</entry>
+<entry>55</entry>
+<entry>56</entry>
+<entry>52</entry>
+<entry>49</entry>
+</row>
+<row>
+<entry/>
+<entry>NAS-El Campo, TX</entry>
+<entry>57</entry>
+<entry>59</entry>
+<entry>48</entry>
+<entry>43</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="91pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>2017 to 2020 Grand Average</entry>
+<entry>57</entry>
+<entry>59</entry>
+<entry>53</entry>
+<entry>47</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0049" num="0040">In table 9, total grain rice milling yield of the main crop for rice line DG263L is compared with that of rice lines CL 153, Diamond, and XL 753. Data was collected from 2017 to 2020 at El Campo, Tex.; Crowley, Ark.; Stuttgart, Ark.; and Campbell Mo., as indicated.</p>
+<p id="p-0050" num="0000">
+<tables id="TABLE-US-00009" num="00009">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 9</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Total grain rice milling yield (%) of the main crop for</entry>
+</row>
+<row>
+<entry>DG263L, CL 153, Diamond, and XL 753 at multiple locations</entry>
+</row>
+<row>
+<entry>in Texas, Alabama, Arkansas, and Missouri (2017 to 2020)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="70pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Year</entry>
+<entry>Test</entry>
+<entry>DG263L</entry>
+<entry>CL 153</entry>
+<entry>Diamond</entry>
+<entry>XL 753</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="70pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<colspec colname="6" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>2017</entry>
+<entry>NAS-El Campo,</entry>
+<entry>65</entry>
+<entry>68</entry>
+<entry>67</entry>
+<entry>65</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>2018</entry>
+<entry>NAS-El Campo,</entry>
+<entry>67</entry>
+<entry>68</entry>
+<entry>67</entry>
+<entry>67</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>2019</entry>
+<entry>NAS-El Campo,</entry>
+<entry>67</entry>
+<entry>66</entry>
+<entry>65</entry>
+<entry>53</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>NAS-El Campo,</entry>
+<entry>67</entry>
+<entry>69</entry>
+<entry>67</entry>
+<entry>68</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>RRS-Crowley, AL</entry>
+<entry>69</entry>
+<entry>73</entry>
+<entry>72</entry>
+<entry>73</entry>
+</row>
+<row>
+<entry/>
+<entry>RREC-</entry>
+<entry>68</entry>
+<entry>70</entry>
+<entry>69</entry>
+<entry>71</entry>
+</row>
+<row>
+<entry/>
+<entry>Stuttgart, AR</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>RRS-Campbell, MO</entry>
+<entry>73</entry>
+<entry>75</entry>
+<entry>74</entry>
+<entry>75</entry>
+</row>
+<row>
+<entry>2020</entry>
+<entry>NAS-El Campo,</entry>
+<entry>67</entry>
+<entry>70</entry>
+<entry>68</entry>
+<entry>68</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>NAS-El Campo,</entry>
+<entry>68</entry>
+<entry>69</entry>
+<entry>67</entry>
+<entry>67</entry>
+</row>
+<row>
+<entry/>
+<entry>TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="98pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>2017 to 2020 Grand Average</entry>
+<entry>68</entry>
+<entry>70</entry>
+<entry>68</entry>
+<entry>67</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0051" num="0041">In Tables 10 and 11, seedling vigor of rice line DG263L is compared with that of rice lines CL 153, Diamond, and XL 753. Data was collected in 2017 and 2018 (Table 10), and in 2019 and 2020 (Table 11) at El Campo, Tex.</p>
+<p id="p-0052" num="0000">
+<tables id="TABLE-US-00010" num="00010">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 10</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Seedling vigor for DG263L, CL 153, Diamond, and XL 753</entry>
+</row>
+<row>
+<entry>across several trails at El Campo, TX (2017 and 2018)*</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Year</entry>
+<entry>Test</entry>
+<entry>DG263L</entry>
+<entry>CL 153</entry>
+<entry>Diamond</entry>
+<entry>XL 753</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>2017</entry>
+<entry>NAS-El</entry>
+<entry>5</entry>
+<entry>5</entry>
+<entry>4</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry/>
+<entry>Campo, TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>2018</entry>
+<entry>NAS-El</entry>
+<entry>5</entry>
+<entry>5</entry>
+<entry>4</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry/>
+<entry>Campo, TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="77pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>2017 and 2018 Grand</entry>
+<entry>5</entry>
+<entry>5</entry>
+<entry>4</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry>Average</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00001">*Plant vigor was taken two weeks after seed emergence based on 1 (very weak) to 5 (very vigor)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0053" num="0000">
+<tables id="TABLE-US-00011" num="00011">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 11</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Seedling vigor for DG263L, CL 153, Diamond, and XL 753</entry>
+</row>
+<row>
+<entry>across several trails at El Campo, TX (2019 and 2020)*</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Year</entry>
+<entry>Test</entry>
+<entry>DG263L</entry>
+<entry>CL 153</entry>
+<entry>Diamond</entry>
+<entry>XL 753</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="42pt" align="char" char="."/>
+<colspec colname="6" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>2019</entry>
+<entry>NAS-El</entry>
+<entry>3.3</entry>
+<entry>4.7</entry>
+<entry>3.8</entry>
+<entry>4.3</entry>
+</row>
+<row>
+<entry/>
+<entry>Campo, TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>NAS-El</entry>
+<entry>5</entry>
+<entry>5</entry>
+<entry>4</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry/>
+<entry>Campo, TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>2020</entry>
+<entry>NAS-El</entry>
+<entry>4.6</entry>
+<entry>4.3</entry>
+<entry>4</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry/>
+<entry>Campo, TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>NAS-El</entry>
+<entry>5</entry>
+<entry>4.6</entry>
+<entry>4.6</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry/>
+<entry>Campo, TX</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="77pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="42pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>2019 and 2020 Grand</entry>
+<entry>4.5</entry>
+<entry>4.6</entry>
+<entry>4.1</entry>
+<entry>4.8</entry>
+</row>
+<row>
+<entry>Average</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00002">*Plant vigor was taken two weeks after seed emergence based on 1 (very weak) to 5 (very vigor)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0054" num="0042">Tables 12, 13, and 14 present a comparison of the resistance of DG263L, CL 153, Diamond, and XL 753 to sheath blight (<i>Rhizoctonia solani</i>), bacterial panicle blight (<i>Burkholderia glumae</i>), and rotten neck blast (<i>Pyricularia oryzae</i>), respectively.</p>
+<p id="p-0055" num="0000">
+<tables id="TABLE-US-00012" num="00012">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 12</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Reaction of DG263L, CL 153, Diamond, and XL 753 to sheath</entry>
+</row>
+<row>
+<entry>blight (<i>Rhizoctonia solani</i>) (2019 and 2020)*</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Year</entry>
+<entry>Test</entry>
+<entry>DG263L</entry>
+<entry>CL 153</entry>
+<entry>Diamond</entry>
+<entry>XL 753</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>2019</entry>
+<entry>RRS-Crowley, LA</entry>
+<entry>7</entry>
+<entry>5.3</entry>
+<entry>4.4</entry>
+<entry>3.8</entry>
+</row>
+<row>
+<entry>2020</entry>
+<entry>RRS-Crowley, LA</entry>
+<entry>6.3</entry>
+<entry>8</entry>
+<entry>5.2</entry>
+<entry>4.8</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="84pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>2019-2020 Grand Average</entry>
+<entry>6.6</entry>
+<entry>6.6</entry>
+<entry>4.8</entry>
+<entry>4.3</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00003">*Using a scale of 0 = very resistant to 9 = very susceptible</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0056" num="0000">
+<tables id="TABLE-US-00013" num="00013">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 13</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Reaction of DG263L, CL 153, Diamond, and XL 753 to bacterial</entry>
+</row>
+<row>
+<entry>panicle blight (<i>Burkholderia glumae</i>) (2019 and 2020)*</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Year</entry>
+<entry>Test</entry>
+<entry>DG263L</entry>
+<entry>CL 153</entry>
+<entry>Diamond</entry>
+<entry>XL 753</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>2019</entry>
+<entry>RRS-Crowley, LA</entry>
+<entry>2.7</entry>
+<entry>4.4</entry>
+<entry>4.5</entry>
+<entry>3.3</entry>
+</row>
+<row>
+<entry>2020</entry>
+<entry>RRS-Crowley, LA</entry>
+<entry>2.3</entry>
+<entry>4</entry>
+<entry>3.6</entry>
+<entry>2.7</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="91pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>2019-2020 Grand Average</entry>
+<entry>2.5</entry>
+<entry>4.2</entry>
+<entry>4.0</entry>
+<entry>3.0</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00004">*Using a scale of 0 = very resistant to 9 = very susceptible</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0057" num="0000">
+<tables id="TABLE-US-00014" num="00014">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 14</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Reaction of DG263L, CL 153, Diamond, and XL 753 to rotten</entry>
+</row>
+<row>
+<entry>neck blast (<i>Pyricularia oryzae</i>) (2019 and 2020)*</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Year</entry>
+<entry>Test</entry>
+<entry>DG263L</entry>
+<entry>CL 153</entry>
+<entry>Diamond</entry>
+<entry>XL 753</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="char" char="."/>
+<colspec colname="6" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>2019</entry>
+<entry>RRS-Crowley, LA</entry>
+<entry>2.3</entry>
+<entry>0.3</entry>
+<entry>4.8</entry>
+<entry>2.3</entry>
+</row>
+<row>
+<entry>2020</entry>
+<entry>RRS-Crowley, LA</entry>
+<entry>1.7</entry>
+<entry>0.2</entry>
+<entry>2</entry>
+<entry>0</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="84pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>2019-2020 Grand Average</entry>
+<entry>2.0</entry>
+<entry>0.2</entry>
+<entry>3.4</entry>
+<entry>1.2</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00005">*Using a scale of 0 = very resistant to 9 = very susceptible</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0058" num="0043">In Table 15, rough, brown, and milled grain dimensions, and grain weight from rice line DG263L is compared with that of rice lines CL 153, Diamond, and XL 753. Data was collected from rice grown at El Campo, Tex.</p>
+<p id="p-0059" num="0000">
+<tables id="TABLE-US-00015" num="00015">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 15</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Rough, brown, and milled grain dimensions and weight of DG263L,</entry>
+</row>
+<row>
+<entry>CL 153, Diamond, and XL 753 grown at El Campo, TX (2020)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Weight</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Length</entry>
+<entry>Width</entry>
+<entry>L/W</entry>
+<entry>Thickness</entry>
+<entry>1,000</entry>
+</row>
+<row>
+<entry>Variety</entry>
+<entry>Type</entry>
+<entry>mm</entry>
+<entry>mm</entry>
+<entry>Ratio</entry>
+<entry>mm</entry>
+<entry>Kernels (g)</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="21pt" align="char" char="."/>
+<colspec colname="6" colwidth="35pt" align="char" char="."/>
+<colspec colname="7" colwidth="42pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>DG263L</entry>
+<entry>Rough</entry>
+<entry>923</entry>
+<entry>262</entry>
+<entry>3.52</entry>
+<entry>210</entry>
+<entry>24.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Brown</entry>
+<entry>665</entry>
+<entry>225</entry>
+<entry>2.96</entry>
+<entry>190</entry>
+<entry>19.6</entry>
+</row>
+<row>
+<entry/>
+<entry>Milled</entry>
+<entry>645</entry>
+<entry>219</entry>
+<entry>2.94</entry>
+<entry>171</entry>
+<entry>17.4</entry>
+</row>
+<row>
+<entry>CL 153</entry>
+<entry>Rough</entry>
+<entry>949</entry>
+<entry>254</entry>
+<entry>3.73</entry>
+<entry>200</entry>
+<entry>24.5</entry>
+</row>
+<row>
+<entry/>
+<entry>Brown</entry>
+<entry>737</entry>
+<entry>229</entry>
+<entry>3.21</entry>
+<entry>177</entry>
+<entry>20.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Milled</entry>
+<entry>679</entry>
+<entry>222</entry>
+<entry>3.06</entry>
+<entry>177</entry>
+<entry>17.8</entry>
+</row>
+<row>
+<entry>Diamond</entry>
+<entry>Rough</entry>
+<entry>919</entry>
+<entry>251</entry>
+<entry>3.66</entry>
+<entry>210</entry>
+<entry>23.8</entry>
+</row>
+<row>
+<entry/>
+<entry>Brown</entry>
+<entry>711</entry>
+<entry>233</entry>
+<entry>3.05</entry>
+<entry>188</entry>
+<entry>19.4</entry>
+</row>
+<row>
+<entry/>
+<entry>Milled</entry>
+<entry>678</entry>
+<entry>223</entry>
+<entry>3.04</entry>
+<entry>188</entry>
+<entry>16.4</entry>
+</row>
+<row>
+<entry>XL 753</entry>
+<entry>Rough</entry>
+<entry>943</entry>
+<entry>270</entry>
+<entry>3.49</entry>
+<entry>210</entry>
+<entry>26.0</entry>
+</row>
+<row>
+<entry/>
+<entry>Brown</entry>
+<entry>725</entry>
+<entry>239</entry>
+<entry>3.03</entry>
+<entry>180</entry>
+<entry>20.6</entry>
+</row>
+<row>
+<entry/>
+<entry>Milled</entry>
+<entry>691</entry>
+<entry>231</entry>
+<entry>2.99</entry>
+<entry>170</entry>
+<entry>17.8</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0060" num="0044">In Table 16, grain amylose content, alkali rating, and gel temperature for grain from rice line DG263L is compared with grain from rice lines CL 153, Diamond, and XL 753.</p>
+<p id="p-0061" num="0000">
+<tables id="TABLE-US-00016" num="00016">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 16</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Quality rating for DG263L grown at El Campo, TX (2020)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="63pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Year</entry>
+<entry>Variety</entry>
+<entry>Amylose %</entry>
+<entry>Alkali Rating</entry>
+<entry>Gel Temp</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="char" char="."/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="63pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>2020</entry>
+<entry>DG263L</entry>
+<entry>26</entry>
+<entry>3.5</entry>
+<entry>High amylose,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>intermediate Gel</entry>
+</row>
+<row>
+<entry/>
+<entry>CL 153</entry>
+<entry>20.1</entry>
+<entry>3.8</entry>
+<entry>Intermediate</entry>
+</row>
+<row>
+<entry/>
+<entry>Diamond</entry>
+<entry>23.4</entry>
+<entry>3.5</entry>
+<entry>Intermediate</entry>
+</row>
+<row>
+<entry/>
+<entry>XL 753</entry>
+<entry>16.8</entry>
+<entry>4.0</entry>
+<entry>Low amylose,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>intermediate gel</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0008" level="1">4.4. Breeding with Inbred Rice Line DG263L</heading>
+<p id="p-0062" num="0045">The present disclosure provides methods for producing a rice plant or seed.</p>
+<p id="p-0063" num="0046">The present disclosure provides methods for producing a rice seed by crossing a first parent rice plant with a second parent rice plant, where the first or the second parent rice plant is a rice plant of inbred rice line DG263L, with the other parent rice plant being of a different rice line. Also provided are methods for producing a rice seed where both the first and the second parent rice plants are rice plants of inbred rice line DG263L. The present disclosure thus provides a multitude of breeding methods involving DG263L, including, for example, selfing, backcrosses, hybrid production, crosses to populations, and the like.</p>
+<p id="p-0064" num="0047">The present disclosure also provides methods for producing a rice plant by crossing a rice plant of line DG263L with a second, different rice plant and growing the resultant progeny seed, and repeating the crossing and growing steps with DG263 progeny plants from 0 to 7 times. All plants produced using inbred rice line DG263L are within the scope of the present disclosure, including those developed from varieties derived from inbred rice line DG263L.</p>
+<p id="p-0065" num="0048">Inbred rice line DG263L can be used in the development of further rice plants. In one embodiment, a method for developing a DG263L-derived progeny rice plant in a rice breeding program includes utilizing a plant of line DG263L or a plant part thereof as a source of breeding material and selecting a progeny plant with morphological and/or physiological characteristics selected from those set out in Tables 1 to 16, and/or selecting a progeny plant with molecular markers in common with inbred rice line DG263L. Breeding methods or steps that can be used in a rice breeding program involving DG263L include pedigree breeding, backcrossing, mutation breeding, and recurrent selection. In addition to these methods, techniques such as RFLP-enhanced selection, genetic marker-enhanced selection (e.g., SSR markers), and the making of double haploids can be used.</p>
+<p id="p-0066" num="0049">Other methods include crossing a plant of inbred line DG263L with a rice plant of a different line, thereby producing a population of rice plants, which, on average, derive 50% of their alleles from rice line DG263L. A plant of the resulting population of rice plants can be selected and repeatedly selfed or sibbed with a rice cultivar resulting from these successive filial generations. The present disclosure thus provides a rice cultivar produced by such a method, where the resulting rice cultivar has obtained at least 50% of its alleles from DG263L.</p>
+<p id="p-0067" num="0050">A person of ordinary skill in the art of rice breeding would know how to evaluate the traits of two rice varieties to determine whether there is any significant difference between the traits express by the two rice varieties. See, for example, Fehr and Walt (1987), Principles of Cultivar Development, pp. 261-286. The present disclosure thus provides DG263L progeny plants comprising a combination of at least two DG263L traits selected from those provided in any of Tables 1 to 16, so that the DG263L progeny rice plant is not significantly different for the selected trait that inbred rice line DG263L. Molecular markers can be used to identify a progeny plant as a DG263 progeny plant. Mean trait values can be used to determine whether trait differences are significant. In some embodiments, the traits are measured on plants grown under the same environmental conditions.</p>
+<p id="p-0068" num="0051">Progeny of DG263L can also be characterized through their filial relationship with inbred rice line DG263L. A breeding cross is a cross made to introduce new genetics into the progeny plants, and is distinguished from a cross such as a self or a sib cross made to select among existing genetic alleles. The lower the number of breeding crosses in the pedigree, the closer the relationship between inbred rice line DG263 and its progeny. Progeny plants produced by the methods described herein can be within 1, 2, 3, 4, or 5 breeding crosses of inbred rice line DG263L.</p>
+<heading id="h-0009" level="1">4.4.1. Pedigree Breeding</heading>
+<p id="p-0069" num="0052">Pedigree breeding starts with the crossing of two genotypes, such as inbred rice line DG263L and a rice plant of another line or variety having one or more desirable characteristics that is lacking in, or which complements, inbred rice line DG263L. If the two original parents do not provide all the desired characteristics, other sources can be included in the breeding population. In the pedigree method, superior plants are selfed and selected in successive filial generations. In the succeeding filial generations, the heterozygous condition gives way to homogeneous varieties as a result of self-pollination and selection. Typically, in the pedigree method of breeding, five or more successive filial generations of selfing and selection is practiced: F1 to F2; F2 to F3; F3 to F4; F4 to F5, etc. After sufficient inbreeding, successive filial generations will serve to increase seed of the developed variety. Preferably, the developed variety comprises homozygous alleles at about 95% or more of its loci.</p>
+<p id="p-0070" num="0053">In addition to being used to create a backcross conversion, backcrossing can also be used in combination with pedigree breeding. Backcrossing can be used to transfer one or more specifically desirable traits from one variety, the donor parent, to a developed variety called the recurrent parent, which has overall good agronomic characteristics yet lacks that desirable trait or traits. However, the same procedure can be used to move the progeny toward the genotype of the recurrent parent but at the same time retain many components of the non-recurrent parent by stopping the backcrossing at an early stage and proceeding with selfing and selection. For example, a rice variety may be crossed with another rice variety to produce a first generation progeny plant. The first generation progeny plant may then be backcrossed to one of its parent varieties to create a BC1 or BC2. Progeny are selfed and selected so that the newly developed variety has many of the attributes of the recurrent parent and yet several of the desired attributes of the non-recurrent parent. This approach leverages the value and strengths of the recurrent parent for use in new rice varieties.</p>
+<p id="p-0071" num="0054">Methods of making a backcross conversion of inbred rice line DG263L are provided. Such methods include the steps of crossing a plant of inbred rice line DG263L with a donor plant comprising a desired trait, selecting an F1 progeny plant comprising the desired trait, and backcrossing the selected F1 progeny plant to a plant of inbred rice line DG263L. Such methods can include the step of obtaining a molecular marker profile of inbred rice line DG263L and using the molecular marker profile to select a progeny plant with the desired trait and the molecular marker profile of inbred rice line DG263L. In one embodiment, the desired trait is a mutant gene or transgene present in the donor parent.</p>
+<heading id="h-0010" level="1">4.4.2. Hybrid Breeding</heading>
+<p id="p-0072" num="0055">The inbred rice line DG263L can be used in the production of a first-generation (i.e., F<sub>1</sub>) hybrid plant. Methods for producing such an F<sub>1 </sub>hybrid include crossing a first parent rice plant with a second parent rice plant, wherein either the first or the second parent rice plant is a DG263L plant and the other parent rice plant is a different rice plant. Also provided are methods for producing a hybrid rice line derived from DG263L by crossing DG263L with a different rice plant and growing the progeny seed. The crossing and growing steps can be repeated any number of times.</p>
+<p id="p-0073" num="0056">Optionally, either the first or the second parent rice plant can be produced in male-sterile form, using techniques known in the art.</p>
+<p id="p-0074" num="0057">DG263L can be used in both two-line hybrid rice breeding and three-line hybrid rice breeding. Both methods are well known in the art.</p>
+<heading id="h-0011" level="1">4.4.3. Recurrent Selection and Mass Selection</heading>
+<p id="p-0075" num="0058">Recurrent selection is a method used in a plant breeding program to improve a population of plants. Inbred rice line DG263L is suitable for use in a recurrent selection program. Recurrent selection involves individual plants cross pollinating with each other to form progeny. The progenies are grown and the superior progeny selected by any number of selection methods, which include individual plant, half-sib progeny, full-sib progeny and selfed progeny. The selected progeny are cross pollinated with each other to form progeny for another population. The resulting population is planted and superior plants are again selected to cross pollinate with each other. Recurrent selection is a cyclical process and therefore can be repeated as many times as desired. The objective of recurrent selection is to improve the traits of a population. The improved population can then be used as a source of breeding material to obtain new varieties for commercial or breeding use, including the production of a synthetic cultivar. A synthetic cultivar is the resultant progeny formed by the inter-crossing of several selected varieties.</p>
+<p id="p-0076" num="0059">Mass selection is a useful technique when used in conjunction with molecular marker enhanced selection. In mass selection, seeds from individuals are selected based on phenotype or genotype. These selected seeds are then bulked and used to grow the next generation. Bulk selection requires growing a population of plants in a bulk plot, allowing the plants to self-pollinate, harvesting the seed in bulk and then using a sample of the seed harvested in bulk to plant the next generation.</p>
+<heading id="h-0012" level="1">4.4.4. Mutation Breeding</heading>
+<p id="p-0077" num="0060">Mutation breeding can be used to introduce new traits into inbred rice line DG263L. Mutations that occur spontaneously or are artificially induced can be useful sources of variability for a plant breeder. The goal of artificial mutagenesis is to increase the rate of mutation for a desired characteristic. Mutation rates can be increased by many different means including, for example, temperature; long-term seed storage; tissue culture conditions; radiation, such as X-rays, Gamma rays (e.g. cobalt 60 or cesium 137), neutrons, (product of nuclear fission by uranium 235 in an atomic reactor), Beta radiation (emitted from radioisotopes such as phosphorus 32 or carbon 14), or ultraviolet radiation (preferably from 2500 to 2900 nm); or chemical mutagens such as base analogues, (5-bromo-uracil), related compounds (8-ethoxy caffeine), antibiotics (streptonigrin), alkylating agents (sulfur mustards, nitrogen mustards, epoxides, ethylenamines, sulfates, sulfonates, sulfones, lactones), azide, hydroxylamine, nitrous acid, or acridines. Once a desired trait is observed through mutagenesis, the trait may then be incorporated into existing germplasm by traditional breeding techniques. Mutations created in other rice plants may be used to produce a backcross conversion of inbred rice line DG263L that includes the mutation.</p>
+<heading id="h-0013" level="1">4.4.5. Marker Assisted Breeding</heading>
+<p id="p-0078" num="0061">Isozyme Electrophoresis and RFLPs have been widely used to determine genetic composition. See for example, Dinka et al. (2007), Genetics, 176(4):2035-54; Gonzalez et al. (2007) Mol. Plant Microbe Interact. 20(5):534-546; Jin et al. (2006), Plant Mol. Biol. 62(4-5):769-777; Pan et al. (2006), Plant Mol. Biol. 61(6):933-943; and Huang et al. (2007), J. Genet. Genomics, 33(4):330-338.</p>
+<p id="p-0079" num="0062">SSR technology is one of the most efficient and practical marker technologies. More marker loci can be routinely used and more alleles per marker locus can be found using SSRs in comparison to RFLPs. See, e.g., Lawson et al. (2006), Genome Biology, 7:R14; Nagaraju et al. (2002), PNAS USA, 99(9):5836-5841; and Lu et al. (2005), Crop Science. 45:66-76. Single nucleotide polymorphisms (SNPs) may also be used to identify the unique genetic composition of DG263L plants and progeny varieties retaining the unique genetic composition of DG263L. Various molecular marker techniques may be used in combination to enhance overall resolution.</p>
+<p id="p-0080" num="0063">Rice DNA molecular marker linkage maps have been rapidly constructed and widely implemented in genetic studies such as in Zhu et al. (1999), Mol. Gene Genetics, 261(1):184-195; Cheng et al. (2001), Genome Research, 11(12):2133-2141; Ahn et al. (1993), PNAS USA, 90(17):7980-7984; and Kao et al. (2006), Theor. Appl. Genet. 112(5):891-902. Sequences and PCR conditions of SSR loci in rice as well as the most current genetic map may be found in RiceBLAST and the TIGR Rice Genome Annotation on the world wide web.</p>
+<p id="p-0081" num="0064">One use of molecular markers is Quantitative Trait Loci (QTL) mapping. QTL mapping is the use of markers which are known to be closely linked to alleles that have measurable effects on a quantitative trait. Selection in the breeding process is based upon the accumulation of markers linked to the positive effecting alleles and/or the elimination of the markers linked to the negative effecting alleles from the plant's genome.</p>
+<p id="p-0082" num="0065">Molecular markers can also be used during the breeding process for the selection of qualitative traits. For example, markers closely linked to alleles or markers containing sequences within the actual alleles of interest can be used to select plants that contain the alleles of interest during a backcrossing breeding program. The markers can also be used to select for the genome of the recurrent parent and against the genome of the donor parent. Using this procedure can minimize the amount of genome from the donor parent that remains in the selected plants. It can also be used to reduce the number of crosses back to the recurrent parent needed in a backcrossing program. The use of molecular markers in the selection process is often called genetic marker enhanced selection. Molecular markers may also be used to identify and exclude certain sources of germplasm as parental varieties or ancestors of a plant by providing a means of tracking genetic profiles through crosses.</p>
+<heading id="h-0014" level="1">4.4.6. Double Haploids</heading>
+<p id="p-0083" num="0066">The production of double haploids can also be used for the development of plants with a homozygous phenotype in a breeding program involving DG263L. For example, a rice plant for which inbred rice line DG263L is a parent can be used to produce double haploid plants. Double haploids are produced by the doubling of a set of chromosomes (1 N) from a heterozygous plant to produce a completely homozygous individual. See, e.g., Wan et al. (1989), Theoretical and Applied Genetics, 77:889-892; and U.S. Pat. No. 7,135,615.</p>
+<heading id="h-0015" level="1">4.5. Tissue Culture</heading>
+<p id="p-0084" num="0067">Reproduction of inbred rice line DG263L can occur by tissue culture and regeneration. Tissue culture of various tissues of rice and regeneration of plants therefrom is well known in the art, with methods having been widely published. See, e.g., Komatsuda et al. (1991), Crop Sci., 31:333-337; Stephens et al. (1991), Theor. Appl. Genet., 82:633-635; Shetty et al. (1992), Plant Science, 81:245-251; U.S. Pat. Nos. 5,008,200; and 5,024,944. The present disclosure thus provides regenerative cells which, upon growth and differentiation, produce rice plants having the physiological and morphological characteristics of inbred rice line DG263L.</p>
+<p id="p-0085" num="0068">The term &#x201c;tissue culture&#x201d; refers to a composition including isolated cells of the same type or cells of different types, or a collection of such cells organized into parts of a plant. Examples of tissue cultures include protoplasts, calli, plant clumps, and plant cells that can generate tissue cultures that form intact plants or parts of plants, such as embryos, pollen, flowers, seeds, glumes, panicles, leaves, stems, roots, root tips, anthers, and the like. Means for preparing and maintaining plant tissue cultures are well known in the art.</p>
+<heading id="h-0016" level="1">4.6. Introduction of a New Trait or Locus into Inbred Rice Line DG263L</heading>
+<p id="p-0086" num="0069">Inbred rice line DG263L provides a new genetic line into which a new locus, loci, or trait(s) may be introgressed. Direct transformation and backcrossing are two important methods that can be used to accomplish such an introgression.</p>
+<heading id="h-0017" level="1">4.6.1. Backcross Conversions of Inbred Rice Line DG263L</heading>
+<p id="p-0087" num="0070">A backcross conversion of inbred rice line DG263L occurs when DNA sequences are introduced through backcrossing, with inbred rice line DG263L utilized as the recurrent parent. Backcrossing involves the repeated crossing of a DG263L hybrid progeny back to one of the parental rice plants (i.e., the recurrent parent). The recurrent parent can be DG263L, and backcrossing to the recurrent parent can occur 1, 2, 3, 4, 5, 6, 7, 8, 9 or more times.</p>
+<p id="p-0088" num="0071">Both naturally occurring and transgenic DNA sequences can be introduced through backcrossing techniques. In a typical backcross protocol, the original cultivar of interest (recurrent parent) is crossed to a second cultivar (nonrecurrent parent) that carries the single or multiple gene(s) of interest to be transferred. The resulting progeny from this cross are then crossed again to the recurrent parent and the process is repeated until a rice plant is obtained wherein essentially all of the desired morphological and physiological characteristics of the recurrent parent are recovered in the converted plant, in addition to the single or multiple transferred gene(s) from the nonrecurrent parent.</p>
+<p id="p-0089" num="0072">The selection of a suitable recurrent parent (e.g., DG263L) is an important step for a successful backcrossing procedure. The goal of a backcross protocol is to alter or substitute a single or multiple trait or characteristic in the original line. To accomplish this, a single gene or multiple genes of the recurrent line is/are modified or substituted with the desired gene(s) from the nonrecurrent parent, while retaining essentially all of the rest of the desired genetic (and therefore the desired physiological and morphological) constitution of the recurrent line. The choice of the particular non-recurrent parent will depend on the purpose of the backcross; one of the major purposes is to add some commercially desirable, agronomically important trait to the plant. The exact backcrossing protocol will depend on the characteristic(s) or trait(s) being altered to determine an appropriate testing protocol. Although backcrossing methods are simplified when the characteristic(s) being transferred are the result of the action of a dominant allele(s), a recessive allele may also be transferred. In this instance it may be necessary to introduce a test of the progeny to determine if the desired characteristic(s) has been successfully transferred.</p>
+<p id="p-0090" num="0073">Many single or multiple gene traits have been identified that are not regularly selected for in the development of a new line but that can be improved by backcrossing techniques. Single or multiple gene traits may or may not be transgenic. Examples of these traits include but are not limited to, male sterility, waxy starch, herbicide resistance, resistance for bacterial, fungal, or viral disease, insect resistance, male fertility, enhanced nutritional quality, industrial usage, yield stability, and yield enhancement.</p>
+<p id="p-0091" num="0074">A backcross conversion may produce a plant with a desired trait(s), locus or loci conversion in at least two or more backcrosses, including at least 2 crosses, at least 3 crosses, at least 4 crosses, at least 5 crosses and the like. Molecular marker assisted breeding or selection may be utilized to reduce the number of backcrosses necessary to achieve the backcross conversion. Using marker assisted selection, a backcross conversion can be made in as few as two backcrosses.</p>
+<p id="p-0092" num="0075">The complexity of the backcross conversion method depends on the type of trait being transferred (e.g., single genes or closely linked genes vs. unlinked genes), the level of expression of the trait, the type of inheritance (e.g., cytoplasmic or nuclear) and the types of parents included in the cross. It will be understood by those of ordinary skill in the art that for single gene traits that are relatively easy to classify, the backcross method is effective and relatively easy to manage. Desired traits that may be transferred through backcross conversion include, but are not limited to, sterility (nuclear and cytoplasmic), fertility restoration, nutritional enhancements, drought tolerance, nitrogen utilization, altered fatty acid profile, low phytate, industrial enhancements, disease resistance (bacterial, fungal or viral), insect resistance, and herbicide resistance. In addition, an introgression site itself, such as an FRT site, Lox site or other site-specific integration site, may be inserted by backcrossing and utilized for direct insertion of one or more genes of interest into a specific plant variety. In some embodiments, the number of loci that may be backcrossed into inbred rice line DG263L is 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10. A single locus may contain several transgenes, such as a transgene for disease resistance that, in the same expression vector, also contains a transgene for herbicide resistance. The gene for herbicide resistance may be used as a selectable marker and/or as a phenotypic trait. A single locus conversion of a site-specific integration system allows for the integration of multiple genes at the converted loci.</p>
+<heading id="h-0018" level="1">4.6.1.1. Single or Multiple Gene Conversion</heading>
+<p id="p-0093" num="0076">A genetic trait which has been engineered into a particular rice hybrid or cultivar using molecular biology techniques can be moved into another hybrid or cultivar using traditional backcrossing techniques. For example, a backcrossing approach can be used to move an engineered trait from a public, non-elite rice plant into an elite rice plant (e.g., DG263L), or from a rice plant containing a foreign gene in its genome into a rice plant which does not contain that gene.</p>
+<p id="p-0094" num="0077">The term &#x201c;rice plant&#x201d; also includes any single or multiple gene conversions of that rice plant. The terms single or multiple gene converted plant as used herein refers to those rice plants which are developed by backcrossing.</p>
+<heading id="h-0019" level="1">4.6.2. Molecular Biology</heading>
+<p id="p-0095" num="0078">Molecular biology techniques have provided for the isolation and characterization of genetic elements with specific functions, such as encoding specific protein products. DNA sequences, whether from a different species or from the same species which are inserted into the genome via transformation, are referred to herein collectively as &#x201c;transgenes&#x201d;. In some embodiments, a transgenic variant of inbred rice line DG263L can contain at least one transgene, but can contain at least 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10 transgenes. The present disclosure provides transformed versions of the DG263L inbred line.</p>
+<p id="p-0096" num="0079">Rice is transformable and regenerable such that whole plants containing and expressing desired genes under regulatory control can be produced. General descriptions of plant expression vectors and reporter genes and transformation protocols can be found in the published literature. See, e.g., Gruber et al., &#x201c;Vectors for Plant Transformation&#x201d;, in Methods in Plant Molecular Biology &#x26; Biotechnology, Glich et al., (Eds. pp. 89-119, CRC Press, 1993). Moreover, GUS expression vectors and GUS gene cassettes are available commercially, while luciferase expression vectors and luciferase gene cassettes are also available commercially. General methods of culturing plant tissues are provided, for example, by Miki, et al., &#x201c;Procedures for Introducing Foreign DNA into Plants&#x201d; in Methods in Plant Molecular Biology &#x26; Biotechnology, Glich et al., (Eds. pp. 67-88 CRC Press, 1993); and by Phillips et al., &#x201c;Cell-Tissue Culture and In-Vitro Manipulation&#x201d; in Corn &#x26; Corn Improvement, 3rd Edition; Sprague, et al., (Eds. pp. 345-387 American Society of Agronomy Inc., 1988). Methods of introducing expression vectors into plant tissue include the direct infection or co-cultivation of plant cells with <i>Agrobacterium tumefaciens</i>. See, e.g., Horsch et al. (1985), Science, 227:1229.</p>
+<p id="p-0097" num="0080">In some embodiments, a process for producing rice plant of line DG263L with a desired trait includes transforming the rice plant with a transgene that confers the desired trait. Another embodiment is the plant produced by this process. The desired trait may be one or more of herbicide resistance; bacterial disease resistance; viral disease resistance; fungal disease resistance; insect resistance; modified fatty acid metabolism; modified carbohydrate metabolism; and male sterility. The specific gene may be any known gene in the art, such as, for example, a polynucleotide conferring resistance to glyphosate; sulfonylurea; imidazolinone; dicamba; glufosinate; phenoxy proprionic acid; L-phosphinothricin; cyclohexone; cyclohexanedione; triazine; 2,4-Dichlorophenoxyacetic acid; hydroxyphenyl-pyruvate dioxygenase (HPPD) inhibitors; and benzonitrile.</p>
+<p id="p-0098" num="0081">A genetic trait which has been engineered into the genome of a particular rice plant can be moved into the genome of another rice plant using traditional breeding techniques (e.g., backcrossing) as described herein.</p>
+<p id="p-0099" num="0082">Plant transformation involves the construction of an expression vector that is functional in plant cells. Such vectors include DNA comprising a gene under control of or operatively linked to a regulatory element (for example, a promoter). The expression vector can contain one or more such operably linked gene/regulatory element combinations. The vector(s) may be in the form of a plasmid and can be used alone or in combination with other plasmids to provide transformed rice plants using transformation methods described below, resulting in the incorporation of transgenes into the genetic material of the rice plant(s).</p>
+<heading id="h-0020" level="1">4.6.2.1. Expression Vectors&#x2014;Marker Genes</heading>
+<p id="p-0100" num="0083">Expression vectors functional in rice plants can include at least one genetic marker, operably linked to a regulatory element (a promoter, for example) that allows transformed cells containing the marker to be either recovered by negative selection, i.e., inhibiting growth of cells that do not contain the selectable marker gene, or by positive selection, i.e., screening for the product encoded by the genetic marker. Many commonly used selectable marker genes for plant transformation are well known in the art, and include, for example, genes that code for enzymes that metabolically detoxify a selective chemical agent (e.g., an antibiotic or an herbicide), or genes that encode an altered target which is insensitive to the inhibitor. Positive selection methods are also known in the art.</p>
+<p id="p-0101" num="0084">A commonly used selectable marker gene for plant transformation is the neomycin phosphotransferase II (nptII) gene isolated from transposon Tn5, which, when placed under the control of plant regulatory signals, confers resistance to kanamycin. See, e.g., Fraley et al. (1983), PNAS USA, 80:4803. Another commonly used selectable marker gene is the hygromycin phosphotransferase gene, which confers resistance to the antibiotic hygromycin. See, e.g., Vanden Elzen et al. (1985), Plant Mol. Biol., 5:299.</p>
+<p id="p-0102" num="0085">Additional selectable marker genes of bacterial origin that confer resistance to antibiotics include gentamycin acetyl transferase, streptomycin phosphotransferase, and aminoglycoside-3&#x2032;-adenyl transferase, the bleomycin resistance determinant. Other selectable marker genes confer resistance to herbicides such as glyphosate, glufosinate or bromoxynil.</p>
+<p id="p-0103" num="0086">Marker genes for plant transformation not of bacterial origin include, for example, mouse dihydrofolate reductase, plant 5-enolpyruvylshikimate-3-phosphate synthase and plant acetolactate synthase.</p>
+<p id="p-0104" num="0087">Another class of marker genes for plant transformation requires screening of presumptively transformed plant cells rather than direct genetic selection of transformed cells for resistance to a toxic substance such as an antibiotic. These genes are particularly useful to quantify or visualize the spatial pattern of expression of a gene in specific tissues and are frequently referred to as reporter genes because they can be fused to a gene or gene regulatory sequence for the investigation of gene expression. Commonly used genes for screening presumptively transformed cells include &#x3b2;-glucuronidase (GUS), &#x3b2;-galactosidase, luciferase and chloramphenicol acetyltransferase. See, e.g., Jefferson et al. (1987), Plant Mol. Biol. Rep., 5:387; Teeri et al. (1989), EMBO J., 8:343; Koncz et al. (1987), PNAS USA, 84:131; and DeBlock et al. (1984), EMBO J., 3:1681.</p>
+<p id="p-0105" num="0088">A gene encoding Green Fluorescent Protein (GFP) has been utilized as a marker for gene expression in prokaryotic and eukaryotic cells. See, e.g., Chalfie et al. (1994), Science, 263:802. GFP and mutants of GFP can be used as screenable markers.</p>
+<heading id="h-0021" level="1">4.6.2.2. Expression Vectors&#x2014;Promoters</heading>
+<p id="p-0106" num="0089">Genes included in expression vectors functional in rice plants must be driven by a nucleotide sequence comprising a regulatory element such as, for example, a promoter. Several types of promoters are well known in the art, as are other regulatory elements that can be used alone or in combination with promoters.</p>
+<heading id="h-0022" level="1">4.6.2.2.1. Inducible Promoters</heading>
+<p id="p-0107" num="0090">An inducible promoter is operably linked to a gene for expression in rice. Optionally, the inducible promoter is operably linked to a nucleotide sequence encoding a signal sequence which is operably linked to a gene for expression in rice. With an inducible promoter, the rate of transcription increases in response to an inducing agent.</p>
+<p id="p-0108" num="0091">Any inducible promoter functional in rice plant cells can be used. Inducible promoters include, but are not limited to, the inducible promoter from the ACEI system, which responds to copper (see, e.g., Meft et al. (1993), PNAS, 90:4567-4571); the In2 gene from maize, which responds to benzenesulfonamide herbicide safeners (see, e.g., Hershey et al. (1991), Mol. Gen Genetics, 227:229-237; and Gatz et al (1994), Mol. Gen. Genetics, 243:32-38); or Tet repressor from Tn10 (see, e.g., Gatz et al. (1991), Mol. Gen. Genetics, 227:229-237).</p>
+<p id="p-0109" num="0092">In some embodiments, an inducible promoter is a promoter that responds to an inducing agent to which plants do not normally respond. An exemplary inducible promoter is the inducible promoter from a steroid hormone gene, the transcriptional activity of which is induced by a glucocorticosteroid hormone (see, e.g., Schena et al. (1991), PNAS USA, 88:0421).</p>
+<heading id="h-0023" level="1">4.6.2.2.2. Constitutive Promoters</heading>
+<p id="p-0110" num="0093">A constitutive promoter is operably linked to a gene for expression in rice or the constitutive promoter is operably linked to a nucleotide sequence encoding a signal sequence which is operably linked to a gene for expression in rice.</p>
+<p id="p-0111" num="0094">Many different constitutive promoters can be utilized in accordance with the present disclosure. Constitutive promoters include, but are not limited to, the promoters from plant viruses such as the 35S promoter from CaMV (see, e.g., Odell et al. (1985), Nature, 313:810-812) and the promoters from such genes as rice actin (see, e.g., McElroy et al. (1990), Plant Cell, 2:163-171); ubiquitin (see, e.g., Christensen et al. (1989), Plant Mol. Biol., 12:619-632; and Christensen et al. (1992), Plant Mol. Biol., 18:675-689); pEMU (see, e.g., Last et al. (1991), Theor. Appl. Genet., 81:581-588); MAS (see, e.g., Velten et al. (1984), EMBO J., 3:2723-2730), and maize H3 histone (see, e.g., Lepetit et al. (1992), Mol. Gen. Genetics, 231:276-285; and Atanassova et al. (1992), Plant Journal, 2(3): 291-300).</p>
+<p id="p-0112" num="0095">The ALS promoter, XbaI/NcoI fragment 5&#x2032; to the <i>Brassica napus </i>ALS3 structural gene (or a nucleotide sequence similarity to said XbaI/NcoI fragment), represents another useful constitutive promoter (see, e.g., PCT application WO 96/30530).</p>
+<heading id="h-0024" level="1">4.6.2.2.3. Tissue-Specific and Tissue-Preferred Promoters</heading>
+<p id="p-0113" num="0096">A tissue-specific or tissue-preferred promoter is operably linked to a gene for expression in rice. Optionally, the tissue-specific or tissue-preferred promoter is operably linked to a nucleotide sequence encoding a signal sequence which is operably linked to a gene for expression in rice. Plants transformed with a gene of interest operably linked to a tissue-specific or tissue preferred promoter produce the protein product of the transgene exclusively (tissue-specific) or preferentially (tissue-preferred) in a specific tissue.</p>
+<p id="p-0114" num="0097">Any tissue-specific or tissue-preferred promoter functional in rice plant cells can be utilized in accordance with the present disclosure. Tissue-specific or tissue-preferred promoters include, but are not limited to, a root-preferred promoter, such as that from the phaseolin gene (see, e.g., Murai et al. (1983), Science, 23:476-482; and Sengupta-Gopalan et al. (1985), PNAS USA, 82:3320-3324); a leaf-specific and light-induced promoter such as that from cab or rubisco (see, e.g., Simpson et al. (1985), EMBO J., 4(11):2723-2729; and Timko et al. (1985), Nature, 318:579-582); an anther-specific promoter such as that from LAT52 (see, e.g., Twell et al. (1989), Mol. Gen. Genetics, 217:240-245); a pollen-specific promoter such as that from Zm13 (see, e.g., Guerrero et al. (1990), Mol. Gen. Genetics, 244:161-168); or a microspore-preferred promoter such as that from apg (see, e.g., Twell et al. (1993), Sex. Plant Reprod., 6:217-224).</p>
+<heading id="h-0025" level="1">4.6.2.3. Signal Sequences</heading>
+<p id="p-0115" num="0098">Transport of a protein produced by transgenes to a sub-cellular compartment such as the chloroplast, vacuole, peroxisome, glyoxysome, cell wall or mitochondrion, or for secretion into the apoplast is accomplished by means of operably linking the nucleotide sequence encoding a signal sequence to the 5&#x2032; and/or 3&#x2032; region of a gene encoding the protein of interest. Targeting sequences at the 5&#x2032; and/or 3&#x2032; end of the structural gene may determine, during protein synthesis and processing, where the encoded protein is ultimately compartmentalized.</p>
+<p id="p-0116" num="0099">The presence of a signal sequence directs a polypeptide to either an intracellular organelle or sub-cellular compartment, or for secretion to the apoplast. Many signal sequences are known in the art. See, e.g., Becker et al. (1992), Plant Mol. Biol., 20:49; Knox et al. (1987), Plant Mol. Biol., 9:3-17; Lerner et al. (1989), Plant Physiol., 91:124-129; Fontes et al. (1991), Plant Cell, 3:483-496; Matsuoka et al. (1991), PNAS, 88:834; Gould et al. (1989), J. Cell. Biol., 108:1657; Creissen et al. (1992), Plant J. 2:129; Kalderon et al. (1984), Cell, 39:499-509; Steifel et al. (1990), Plant Cell, 2:785-793.</p>
+<heading id="h-0026" level="1">4.6.2.4. Foreign Proteins Genes and Agronomic Genes</heading>
+<p id="p-0117" num="0100">Techniques for the selection and propagation of transformed rice plants, which are well understood in the art, yield a plurality of transgenic plants which are harvested in a conventional manner. For the relatively small number of transgenic plants that show higher levels of expression, a genetic map can be generated, primarily via conventional RFLP, PCR and SSR analysis, which identifies the approximate chromosomal location of the integrated DNA molecule.</p>
+<p id="p-0118" num="0101">Map information concerning chromosomal location is useful for proprietary protection of a subject transgenic plant. If unauthorized propagation is undertaken and crosses made with other germplasm, the map of the integration region can be compared to similar maps for suspect plants to determine if the suspect plants have a common parentage with the subject plant. Map comparisons can involve hybridizations, RFLP, PCR, SSR and sequencing, each of which are conventional and well known in the art.</p>
+<p id="p-0119" num="0102">Through the transformation of rice, the expression of genes can be altered to enhance, confer, or otherwise alter herbicide resistance; bacterial disease resistance; viral disease resistance; fungal disease resistance; insect resistance; modified fatty acid metabolism; modified carbohydrate metabolism; and other triates. Transformation can also be used to insert DNA sequences which control or help control male-sterility. DNA sequences native to rice as well as non-native DNA sequences can be transformed into rice and used to alter levels of native or non-native proteins. Various promoters, targeting sequences, enhancing sequences, and other DNA sequences can be inserted into the genome for the purpose of altering the expression of proteins. Reduction of the activity of specific genes (also known as gene silencing, or gene suppression) is desirable for several aspects of genetic engineering in plants.</p>
+<p id="p-0120" num="0103">Many techniques for gene silencing are well known to one of skill in the art, including but not limited to knock-outs. Knock-outs can be generated by, for example, insertion of a transposable element such as mu or other genetic elements such as a FRT, Lox or other site specific integration site; antisense technology; co-suppression; RNA interference; virus-induced gene silencing; target-RNA-specific ribozymes; hairpin structures; MicroRNA; ribozymes; oligonucleotide-mediated targeted; zinc-finger nuclease-based gene editing; CRISPR/Cas-based gene editing; TALEN-based gene editing; EMN-base gene editing; and other methods or combinations of the above methods known to those of skill in the art.</p>
+<p id="p-0121" num="0104">Agronomic genes can be expressed in transformed plants. More particularly, plants can be genetically engineered to express various phenotypes of agronomic interest. Exemplary genes implicated in this regard include, but are not limited to, those described below.</p>
+<heading id="h-0027" level="1">4.6.2.4.1. Pest and Disease Resistance Genes</heading>
+<p id="p-0122" num="0105">Genes that confer to resistance to pests or disease include:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0106">a) Plant resistance genes. Plant defenses are often activated by specific interaction between the product of a disease resistance gene (R) in the plant and the product of a corresponding avirulence (Avr) gene in the pathogen. A rice plant can be transformed with a cloned resistance gene to engineer plants that are resistant to specific pathogen strains.</li>
+        <li id="ul0002-0002" num="0107">b) Genes encoding a <i>Bacillus thuringiensis </i>protein, a derivative thereof or a synthetic polypeptide modeled thereon.</li>
+        <li id="ul0002-0003" num="0108">c) Genes encoding a lectin (e.g., <i>Clivia miniata </i>mannose-binding lectin genes).</li>
+        <li id="ul0002-0004" num="0109">d) Genes encoding a vitamin binding protein such as avidin.</li>
+        <li id="ul0002-0005" num="0110">e) Genes encoding an enzyme inhibitor, such as a protease or proteinase inhibitor or an amylase inhibitor.</li>
+        <li id="ul0002-0006" num="0111">f) Genes encoding an insect-specific hormone or pheromone such as an ecdysteroid and juvenile hormone, a variant thereof, a mimetic based thereon, or an antagonist or agonist thereof.</li>
+        <li id="ul0002-0007" num="0112">g) Genes encoding an insect-specific peptide or neuropeptide which, upon expression, disrupts the physiology of the affected pest.</li>
+        <li id="ul0002-0008" num="0113">h) Genes encoding an insect-specific venom produced in nature by a snake, a wasp, etc. (e.g., scorpion insectotoxic peptide).</li>
+        <li id="ul0002-0009" num="0114">i) Genes encoding an enzyme responsible for a hyper-accumulation of a monoterpene, sesquiterpene, steroid, a hydroxamic acid, a phenylpropanoid derivative or another non-protein molecule with insecticidal activity.</li>
+        <li id="ul0002-0010" num="0115">j) Genes encoding n enzyme involved in the modification, including the post-translational modification, of a biologically active molecule; for example, a glycolytic enzyme, a proteolytic enzyme, a lipolytic enzyme, a nuclease, a cyclase, a transaminase, an esterase, a hydrolase, a phosphatase, a kinase, a phosphorylase, a polymerase, an elastase, a chitinase and a glucanase, whether natural or synthetic.</li>
+        <li id="ul0002-0011" num="0116">k) Genes encoding a molecule that stimulates signal transduction (e.g., nucleotide sequences for mung bean calmodulin cDNA clones.</li>
+        <li id="ul0002-0012" num="0117">l) Genes encoding a hydrophobic moment peptide.</li>
+        <li id="ul0002-0013" num="0118">m) Genes encoding a membrane permease, a channel former or a channel blocker.</li>
+        <li id="ul0002-0014" num="0119">n) Genes encoding a viral-invasive protein or a complex toxin derived therefrom. For example, coat protein-mediated resistance has been conferred upon transformed plants against alfalfa mosaic virus, cucumber mosaic virus, tobacco streak virus, potato virus X, potato virus Y, tobacco etch virus, tobacco rattle virus and tobacco mosaic virus.</li>
+        <li id="ul0002-0015" num="0120">o) Genes encoding an insect-specific antibody or an immunotoxin derived therefrom. Thus, an antibody targeted to a critical metabolic function in the insect gut would inactivate an affected enzyme, killing the insect.</li>
+        <li id="ul0002-0016" num="0121">p) Genes encoding a virus-specific antibody.</li>
+        <li id="ul0002-0017" num="0122">q) Genes encoding a developmental-arrestive protein produced in nature by a pathogen or a parasite.</li>
+        <li id="ul0002-0018" num="0123">r) Genes encoding a developmental-arrestive protein produced in nature by a plant.</li>
+        <li id="ul0002-0019" num="0124">s) Genes involved in the Systemic Acquired Resistance (SAR) Response and/or the pathogenesis-related genes.</li>
+        <li id="ul0002-0020" num="0125">t) Antifungal genes.</li>
+        <li id="ul0002-0021" num="0126">u) Detoxification genes, such as for fumonisin, beauvericin, moniliformin and zearalenone and their structurally related derivatives.</li>
+        <li id="ul0002-0022" num="0127">v) Genes encoding cystatin and cysteine proteinase inhibitors.</li>
+        <li id="ul0002-0023" num="0128">w) Defensin genes.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0028" level="1">4.6.2.4.2. Herbicide Resistance</heading>
+<p id="p-0123" num="0129">Genes that confer herbicide resistance or tolerance are known in the art, and can confer resistance or tolerance to, for example, glyphosate; sulfonylurea; imidazolinone; dicamba; glufosinate; phenoxy proprionic acid; L-phosphinothricin; cyclohexone; cyclohexanedione; triazine; 2,4-Dichlorophenoxyacetic acid; hydroxyphenyl-pyruvate dioxygenase (HPPD) inhibitors; and benzonitrile. Specific examples include:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0130">a) Genes encoding mutant ALS or AHAS enzymes, resulting in resistance to herbicide that inhibits the growing point or meristem, such as an imidazolinone or a sulfonylurea.</li>
+        <li id="ul0004-0002" num="0131">b) Mutant 5-enolpyruvlshikimate-3-phosphate synthase (EPSP) and aroA genes, which confer resistance to glyphosate. Glyphosate resistance is also imparted to plants that express a gene that encodes a glyphosate oxido-reductase enzyme as described in U.S. Pat. Nos. 5,776,760 and 5,463,175. In addition, glyphosate resistance can be imparted to plants by the over expression of genes encoding glyphosate N-acetyltransferase. See, e.g., U.S. Pat. No. 7,462,481. A DNA molecule encoding a mutant aroA gene can be obtained under ATCC accession number 39256, and the nucleotide sequence of the mutant gene is disclosed in U.S. Pat. No. 4,769,061.</li>
+        <li id="ul0004-0003" num="0132">c) Phosphinothricin acetyl transferase (PAT) and <i>Streptomyces hygroscopicus </i>PAT bar genes confer resistance to other phosphono compounds such as glufosinate.</li>
+        <li id="ul0004-0004" num="0133">d) ACCase inhibitor-encoding genes confer resistance to pyridinoxy or phenoxy propionic acids and cyclohexanediones.</li>
+        <li id="ul0004-0005" num="0134">e) psbA, gs+, and nitrilase genes confer resistance to herbicides that inhibits photosynthesis, such as a triazine (psbA and gs+ genes) or a benzonitrile (nitrilase gene).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0029" level="1">4.6.2.4.3. Value-Added Traits</heading>
+<p id="p-0124" num="0135">Value-Added Traits Include:
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0000">
+    <ul id="ul0006" list-style="none">
+        <li id="ul0006-0001" num="0136">a) Modified fatty acid metabolism, effected by transforming a plant with an antisense gene of stearyl-ACP desaturase to increase stearic acid content of the plant.</li>
+        <li id="ul0006-0002" num="0137">b) Decreased phytate content, effected by: i) introduction of a phytase-encoding gene to enhance breakdown of phytate, adding more free phosphate to the transformed plant; or 2) up-regulation of a gene that reduces phytate content.</li>
+        <li id="ul0006-0003" num="0138">c) Modified carbohydrate composition effected, for example, by transforming plants with a gene coding for an enzyme that alters the branching pattern of starch or a gene altering thioredoxin such as NTR and/or TRX and/or a gamma zein knock out or mutant such as cs27 or TUSC27 or en27. Fatty acid metabolism modification genes can also be used to affect starch content and/or composition through the interrelationship of the starch and oil pathways.</li>
+        <li id="ul0006-0004" num="0139">d) Altering conjugated linolenic or linoleic acid content by, for example, altering expression of LEC1, AGP, Dek1, Superal1, mi1ps, and various Ipa genes such as Ipa1, Ipa3, hpt or hggt.</li>
+        <li id="ul0006-0005" num="0140">e) Altered antioxidant content or composition, such as alteration of tocopherol or tocotrienols by, for example, alteration of a phytl prenyl transferase (ppt) or through alteration of a homogentisate geranyl transferase (hggt).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0030" level="1">4.6.2.4.4. Male Sterility</heading>
+<p id="p-0125" num="0141">There are several methods available for conferring genetic male sterility, such as multiple mutant genes at separate locations within the genome that confer male sterility, as disclosed in U.S. Pat. Nos. 4,654,465 and 4,727,219, and chromosomal translocations as described in U.S. Pat. Nos. 3,861,709 and 3,710,511. In addition to these methods, U.S. Pat. No. 5,432,068 describes a system of nuclear male sterility which includes: identifying a gene which is critical to male fertility; silencing this native gene which is critical to male fertility; removing the native promoter from the essential male fertility gene and replacing it with an inducible promoter; inserting this genetically engineered gene back into the plant; and thus creating a plant that is male sterile because the inducible promoter is not &#x201c;on&#x201d; resulting in the male fertility gene not being transcribed. Fertility is restored by inducing, or turning &#x201c;on&#x201d;, the promoter, which in turn allows the gene that, confers male fertility to be transcribed.</p>
+<p id="p-0126" num="0142">A tapetum-specific gene, RTS (a rice anther-specific gene) is required for male fertility and its promoter sequence directs tissue-specific gene expression in different plant species. See, e.g., Luo et al. (2006), Plant Molecular Biology, 62(3):397-408. Male sterility can also be controlled by the introduction of a deacetylase gene under the control of a tapetum-specific promoter and with the application of the chemical N-Ac-PPT. See, e.g., WO 01/29237.</p>
+<p id="p-0127" num="0143">Introduction of various stamen-specific promoters can also control male sterility. Rice anther-specific promoters are of particular utility in the production of transgenic male-sterile, monocots and plants for restoring their fertility. See, e.g., U.S. Pat. No. 5,639,948, WO 92/13956, and WO 92/13957.</p>
+<p id="p-0128" num="0144">Male sterility can also be controlled by introducing the barnase and the barstar genes. See, e.g., Paul et al. (1992), Pant Mol. Biol, 19:611-622.</p>
+<heading id="h-0031" level="1">4.6.2.4.5. Site-Specific DNA Integration</heading>
+<p id="p-0129" num="0145">Creation of a site for site-specific DNA integration can be achieved by the introduction of FRT sites that may be used in the FLP/FRT system and/or Lox sites that may be used in the Cre/Loxp system. See, e.g., Lyznik et al. (2003), Plant Cell Rep, 21:925-932 and WO 99/25821. Other systems that can be used include the Gin recombinase of phage Mu, the Pin recombinase of <i>E. coli</i>, and the R/RS system of the pSR1 plasmid.</p>
+<heading id="h-0032" level="1">4.6.2.4.6. Abiotic Stress Resistance</heading>
+<p id="p-0130" num="0146">Genes that affect abiotic stress resistance (including but not limited to flowering, panicle/glume and seed development, enhancement of nitrogen utilization efficiency, altered nitrogen responsiveness, drought resistance or tolerance, cold resistance or tolerance, and salt resistance or tolerance) and increased yield under stress provide a considerable value-add. Many of such genes are known in the art (e.g., OsMAPK5 (positively regulate drought, salt, and cold tolerance and negatively modulate PR gene expression and broad-spectrum disease resistance in rice); rice GF14 genes GF14b, GF14c, GF14e and Gf14f (differentially regulated by salinity, drought, wounding and abscisic acid); CBF genes (mitigates the negative effects of freezing, high salinity, and drought on plants)). For plant transcription factors or transcriptional regulators of abiotic stress, see, e.g. U.S. Publication Nos. 2004/0098764 and 2004/0078852.</p>
+<p id="p-0131" num="0147">Other genes and transcription factors that affect plant growth and agronomic traits such as yield, flowering, plant growth and/or plant structure, can be introduced or introgressed into plants. Many of such genes and transcription factors are known in the art (e.g., LHY, ESD4, CON, VRN1, VRN2, GI, FRI, D8, Rht, TFL, FT, and GAD.</p>
+<heading id="h-0033" level="1">4.6.2.5. Transformation Methods</heading>
+<p id="p-0132" num="0148">Numerous methods for plant transformation have been developed, including biological and physical plant transformation protocols. See, e.g., Miki et al., &#x201c;Procedures for Introducing Foreign DNA into Plants&#x201d; in Methods in Plant Molecular Biology and Biotechnology, Glick and Thompson, Eds. (CRC Press, Inc., Boca Raton, 1993), pp. 67-88. In addition, expression vectors and in vitro culture methods for plant cell or tissue transformation and regeneration of plants are available. See, e.g., Gruber et al., &#x201c;Vectors for Plant Transformation&#x201d; in Methods in Plant Molecular Biology and Biotechnology, Glick and Thompson, Eds. (CRC Press, Inc., Boca Raton, 1993), pp. 89-119.</p>
+<p id="p-0133" num="0149">One method for introducing an expression vector into plants is based on the natural transformation system of <i>Agrobacterium</i>. See, e.g., Horsch et al. (1985), Science, 227:1229. <i>A. tumefaciens </i>and <i>A. rhizogenes </i>are plant pathogenic soil bacteria which genetically transform plant cells. The Ti and Ri plasmids of <i>A. tumefaciens </i>and <i>A. rhizogenes</i>, respectively, carry genes responsible for genetic transformation of the plant. See, e.g., Kado (1991), Crit. Rev. Plant Sci., 10:1. Descriptions of <i>Agrobacterium </i>vector systems and methods for <i>Agrobacterium</i>-mediated gene transfer are provided by Gruber et al., supra, Miki et al., supra, and Moloney et al. (1989), Plant Cell Reports, 8:238. See also, U.S. Pat. No. 5,591,616.</p>
+<p id="p-0134" num="0150">Despite the fact the host range for <i>Agrobacterium</i>-mediated transformation is broad, some major cereal crop species and gymnosperms have generally been recalcitrant to this mode of gene transfer, even though some success has recently been achieved in rice and corn. Several methods of plant transformation collectively referred to as direct gene transfer have been developed as an alternative to <i>Agrobacterium</i>-mediated transformation.</p>
+<p id="p-0135" num="0151">A generally applicable method of plant transformation is microprojectile-mediated transformation wherein DNA is carried on the surface of microprojectiles measuring 1 to 4 &#x3bc;m. The expression vector is introduced into plant tissues with a biolistic device that accelerates the microprojectiles to speeds of 300 to 600 m/s, sufficient to penetrate plant cell walls and membranes.</p>
+<p id="p-0136" num="0152">Another method for physical delivery of DNA to plants is sonication of target cells. Additionally, liposome and spheroplast fusion have been used to introduce expression vectors into plants. Direct uptake of DNA into protoplasts using CaCl<sub>2 </sub>precipitation, polyvinyl alcohol or poly-L-ornithine has also been reported. Electroporation of protoplasts and whole cells and tissues have also been described.</p>
+<p id="p-0137" num="0153">Following transformation of rice target tissues, expression of the above-described selectable marker genes can provide for preferential selection of transformed cells, tissues and/or plants, using regeneration and selection methods now well known in the art.</p>
+<heading id="h-0034" level="1">4.6.2.6. Gene Editing</heading>
+<p id="p-0138" num="0154">Targeted gene editing resulting in gene knock-out, knock-in, down regulation, or altered function can be conducted on inbred rice line DG263L or a parent plant to be crossed with DG263L. The genome of a rice plant can be edited to modify traits and confer or alter resistances or tolerances to pests, viruses, and herbicides. Several gene editing methodologies are well known in the art, including the clustered regularly interspaced short palindromic repeat (CRISPR)/CRISPR-associate protein system, the transcription activator-like effector nuclease (TALEN) system, the zinc-finger nuclease (ZFN) system, and the engineered homing endonuclease/meganuclease (EMN) system.</p>
+<heading id="h-0035" level="1">4.6.3. Genetic Marker Mapping</heading>
+<p id="p-0139" num="0155">In addition to phenotypic observations, a plant can also be identified by its genotype. The genotype of a plant can be characterized through a genetic marker profile which can identify plants of the same variety or a related variety, or be used to determine or validate a pedigree. Genetic marker profiles can be obtained by techniques known in the art, such as isozyme electrophoresis, restriction fragment length polymorphisms (RFLPs), randomly amplified polymorphic DNAs (RAPDs), arbitrarily primed polymerase chain reaction (AP-PCR), DNA amplification fingerprinting (DAF), sequence characterized amplified regions (SCARs), amplified fragment length polymorphisms (AFLPs), simple sequence repeats (SSRs) (which are also referred to as Microsatellites), and single nucleotide polymorphisms (SNPs).</p>
+<p id="p-0140" num="0156">Particular markers used for these purposes are not limited to any particular set of markers, but are envisioned to include any type of marker and marker profile which provides a means of distinguishing varieties.</p>
+<p id="p-0141" num="0157">Primers and PCR protocols for assaying these and other markers are widely known in the art. In addition to being used for identification of inbred rice line DG263L and plant parts and plant cells of inbred rice line DG263L, the genetic profile may be used to identify a rice plant produced through the use of inbred rice line DG263L or to verify a pedigree for progeny plants produced through the use of inbred rice line DG263L. The genetic marker profile is also useful in breeding and developing backcross conversions.</p>
+<p id="p-0142" num="0158">An inbred rice line plant characterized by molecular and physiological data obtained from DG263L is contemplated.</p>
+<p id="p-0143" num="0159">Means of performing genetic marker profiles using SSR polymorphisms are well known in the art. SSRs are genetic markers based on polymorphisms in repeated nucleotide sequences, such as microsatellites. A marker system based on SSRs can be highly informative in linkage analysis relative to other marker systems in that multiple alleles may be present. Another advantage of this type of marker is that, through use of flanking primers, detection of SSRs can be achieved, for example, by the polymerase chain reaction (PCR), thereby eliminating the need for labor-intensive Southern hybridization. The PCR detection is done by use of two oligonucleotide primers flanking the polymorphic segment of repetitive DNA. Repeated cycles of heat denaturation of the DNA followed by annealing of the primers to their complementary sequences at low temperatures, and extension of the annealed primers with DNA polymerase, comprise the major part of the methodology.</p>
+<p id="p-0144" num="0160">Following amplification, markers can be scored by electrophoresis of the amplification products. Scoring of marker genotype is based on the size of the amplified fragment, which may be measured by the number of base pairs of the fragment. While variation in the primer used or in laboratory procedures can affect the reported fragment size, relative values should remain constant regardless of the specific primer or laboratory used. When comparing hybrids or varieties it is preferable if all SSR profiles are performed in the same lab.</p>
+<p id="p-0145" num="0161">Plants and plant parts substantially benefiting from the use of inbred rice line DG263L in their development, such as inbred rice line DG263L comprising a backcross conversion, transgene, or genetic sterility factor, may be identified by having a molecular marker profile with a high percent identity to inbred rice line DG263L. Such a percent identity might be 95%, 96%, 97%, 98%, 99%, 99.5% or 99.9% identical to inbred rice line DG263L.</p>
+<p id="p-0146" num="0162">The SSR profile of inbred rice line DG263L also can be used to identify essentially derived varieties and other progeny varieties developed from the use of inbred rice line DG263L, as well as cells and other plant parts thereof. Progeny plants and plant parts produced using inbred rice line DG263L can be identified by having a molecular marker profile of at least 50%, 55%, 60%, 65%, 70%, 75%, 76%, 77%, 78%, 79%, 80%, 81%, 82%, 83%, 84%, 85%, 86%, 87%, 88%, 89%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, 99% or 99.5% identical to DG263L. Such progeny may be further characterized as being within a pedigree distance of inbred rice line DG263L, such as within 1, 2, 3, 4, or 5 or fewer cross-pollinations to a rice plant other than inbred rice line DG263L or a plant that has inbred rice line DG263L as a progenitor. Unique molecular profiles may be identified with other molecular tools such as SNPs and RFLPs.</p>
+<p id="p-0147" num="0163">While determining the SSR genetic marker profile of the plants described, several unique SSR profiles may also be identified which did not appear in either parent of such rice plant. Such unique SSR profiles may arise during the breeding process from recombination or mutation. A combination of several unique alleles provides a means of identifying a plant variety, an F1 progeny produced from such variety, and progeny produced from such rice plan.</p>
+<heading id="h-0036" level="1">4.7. Industrial Uses</heading>
+<p id="p-0148" num="0164">The seed of inbred rice line DG263L, the plant produced from the seed, the hybrid rice plant produced from the crossing of the variety with any other rice plant, hybrid seed, and various parts of the hybrid rice plant can be utilized for human food, livestock feed, and as a raw material in industry. The rice seeds produced by inbred rice line DG263L can be crushed, or a component of the rice seeds can be extracted, in order to comprise a commodity plant product, such as protein concentrate, protein isolate, meal, flour, starch, extract, or oil for a food or feed product.</p>
+<p id="p-0149" num="0165">Rice is can be used as a food source for both animals and humans. Rice and rice by-products (rice bran, cracked rice) are used as a food for livestock, including cattle and other ruminants.</p>
+<p id="p-0150" num="0166">Inbred rice line DG263L can be used to produce rice meal. Following milling of rice harvested from inbred rice line DG263L, the remaining material or &#x201c;meal&#x201d; is collected. The meal includes rice bran, polishings, and some rice flour. Rice meal is primarily used as a feedstuff for livestock.</p>
+<p id="p-0151" num="0167">Inbred rice line DG263L can be used to produce rice flour.</p>
+<p id="p-0152" num="0168">For human consumption, inbred rice line DG263L can be used to produce cooking rice, or other product such as rice flour (used to make, e.g., noodles, rice paper, cake, and dumplings), alcoholic beverages, rice vinegar, rice milk, rice syrup, puffed rice, rice crackers, and rice starch.</p>
+<p id="p-0153" num="0169">Inbred rice line DG263L can further be processed to produce films, packaging, and nutraceutical products.</p>
+<heading id="h-0037" level="1">5. DEPOSIT INFORMATION</heading>
+<p id="p-0154" num="0170">Applicant is making a deposit of the required number of seeds of Inbred Rice Line DG263L with the American Type Culture Collection (ATCC), Manassas, Va. 20110 USA, ATCC Deposit No. ______. The seeds deposited with the ATCC on ______ were taken from the deposit maintained by Loveland Products, Inc. at LPI Rice Breeding Station in El Campo, Tex. since prior to the filing date of this application. Access to this deposit will be available during the pendency of the application to the Commissioner of Patents and Trademarks and persons determined by the Commissioner to be entitled thereto upon request. Upon allowance of any claims in the application, the Applicant will make the deposit available to the public pursuant to 37 CFR &#xa7; 1.808. This deposit of the Inbred Rice Line DG263L will be maintained in the ATCC depository, which is a public depository, for a period of 30 years, or 5 years after the most recent request, or for the enforceable life of the patent, whichever is longer, and will be replaced if it becomes nonviable during that period. Additionally, Applicant has or will satisfy all the requirements of 37 CFR &#xa7;&#xa7; 1.801-1.809, including providing an indication of the viability of the sample upon deposit.</p>
+<heading id="h-0038" level="1">6. SPECIFIC EMBODIMENTS</heading>
+<p id="p-0155" num="0171">The present disclosure is exemplified by the specific embodiments below.</p>
+<p id="p-0156" num="0172">1. A seed of inbred rice line designated DG263L, wherein a representative sample of seed of DG263L is being stored and maintained by Loveland Products, Inc. at LPI Rice Breeding Station in El Campo, Tex., with a representative sample of seed of DG263L to be deposited with the American Type Culture Collection (ATCC) in accordance with 37 CFR &#xa7;&#xa7; 1.801 to 1.809.</p>
+<p id="p-0157" num="0173">2. A rice plant or a plant part thereof, produced by growing the rice seed of embodiment 1.</p>
+<p id="p-0158" num="0174">3. A rice plant, or a plant part thereof, having essentially all of the physiological and morphological characteristics of inbred rice line designated DGL263L, wherein a representative sample of seed of DG263L is being stored by Loveland Products, Inc. at LPI Rice Breeding Station in El Campo, Tex., with a representative sample of seed of DG263L to be deposited with the American Type Culture Collection (ATCC) in accordance with 37 CFR &#xa7;&#xa7; 1.801 to 1.809.</p>
+<p id="p-0159" num="0175">4. A method comprising growing a plurality of rice seed of embodiment 1.</p>
+<p id="p-0160" num="0176">5. A method comprising growing a plurality of rice seed of embodiment 1 and harvesting seed from a resulting rice plant.</p>
+<p id="p-0161" num="0177">6. A rice seed produced by the method of embodiment 5.</p>
+<p id="p-0162" num="0178">7. A tissue culture of cells produced from the rice plant of embodiment 2.</p>
+<p id="p-0163" num="0179">8. The tissue culture of embodiment 7, wherein said cells are produced from pollen of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0164" num="0180">9. The tissue culture of embodiment 7, wherein said cells are produced from an embryo of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0165" num="0181">10. The tissue culture of embodiment 7, wherein said cells are produced from a cotyledon of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0166" num="0182">11. The tissue culture of embodiment 7, wherein said cells are produced from a hypocotyl of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0167" num="0183">12. The tissue culture of embodiment 7, wherein said cells are produced from meristematic cells of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0168" num="0184">13. The tissue culture of embodiment 7, wherein said cells are produced from a root of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0169" num="0185">14. The tissue culture of embodiment 7, wherein said cells are produced from a root tip of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0170" num="0186">15. The tissue culture of embodiment 7, wherein said cells are produced from a pistil of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0171" num="0187">16. The tissue culture of embodiment 7, wherein said cells are produced from anthers of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0172" num="0188">17. The tissue culture of embodiment 7, wherein said cells are produced from a glume of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0173" num="0189">18. The tissue culture of embodiment 7, wherein said cells are produced from a panicle of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0174" num="0190">19. The tissue culture of embodiment 7, wherein said cells are produced from a flower of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0175" num="0191">20. The tissue culture of embodiment 7, wherein said cells are produced from a leaf of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0176" num="0192">21. The tissue culture of embodiment 7, wherein said cells are produced from a stem of the rice plant of the rice plant of embodiment 2.</p>
+<p id="p-0177" num="0193">22. A rice plant regenerated from the tissue culture of embodiment 7 or any one of embodiments 8 to 21.</p>
+<p id="p-0178" num="0194">23. A protoplast produced from the plant of embodiment 2.</p>
+<p id="p-0179" num="0195">24. A protoplast produced from the tissue culture of embodiment 7 or any one of embodiments 8 to 21.</p>
+<p id="p-0180" num="0196">25. A rice plant regenerated from the protoplast of embodiment 23 or embodiment 24.</p>
+<p id="p-0181" num="0197">26. The rice plant of embodiment 22 or embodiment 25, wherein the rice plant has essentially all of the physiological and morphological characteristics of inbred rice line designated DGL263L.</p>
+<p id="p-0182" num="0198">27. A method for producing a hybrid rice seed, comprising crossing the rice plant of any one of embodiments 2, 22, and 25 with a rice plant of a different rice line and harvesting resultant rice seed.</p>
+<p id="p-0183" num="0199">28. A hybrid rice seed produced by the method of embodiment 27.</p>
+<p id="p-0184" num="0200">29. A hybrid rice plant or a plant part thereof, produced by growing the seed of embodiment 28.</p>
+<p id="p-0185" num="0201">30. The method of embodiment 27, further comprising:
+<ul id="ul0007" list-style="none">
+    <li id="ul0007-0001" num="0000">
+    <ul id="ul0008" list-style="none">
+        <li id="ul0008-0001" num="0202">(a) crossing a rice plant grown from the resultant rice seed and a rice plant of a different line to produce a seed of a progeny rice plant of a subsequent generation;</li>
+        <li id="ul0008-0002" num="0203">(b) growing the seed of a progeny rice plant of a subsequent generation of step produced in step (a) and crossing the resultant progeny rice plant of a subsequent generation with itself or a rice plant of a different line to produce seed of a progeny rice plant of a further subsequent generation;</li>
+        <li id="ul0008-0003" num="0204">(c) growing the seed of the progeny rice plant of a further subsequent generation produced in step (b); and</li>
+        <li id="ul0008-0004" num="0205">(d) interbreeding the progeny rice plant of a further subsequent generation to produce a resultant inbred rice plant.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0186" num="0206">31. The method of embodiment 30, further comprising crossing the resultant inbred rice plant with a rice plant of a different line and harvesting resultant rice seed.</p>
+<p id="p-0187" num="0207">32. A rice seed produced by the method of embodiment 30 or embodiment 31.</p>
+<p id="p-0188" num="0208">33. A rice plant or a part thereof, produced by growing the rice seed of embodiment 32.</p>
+<p id="p-0189" num="0209">34. A method of introducing one or more desired traits into inbred rice line DG263L, wherein the method comprises:
+<ul id="ul0009" list-style="none">
+    <li id="ul0009-0001" num="0000">
+    <ul id="ul0010" list-style="none">
+        <li id="ul0010-0001" num="0210">(a) crossing a rice plant of inbred rice line DG263L with a rice plant of another rice line that comprises the one or more desired traits to produce progeny plants, wherein a representative sample of seed of the inbred rice line DG263L is being stored and maintained by Loveland Products, Inc. at LPI Rice Breeding Station in El Campo, Tex., with a representative sample of seed of DG263L to be deposited with the American Type Culture Collection (ATCC) in accordance with 37 CFR &#xa7;&#xa7; 1.801 to 1.809;</li>
+        <li id="ul0010-0002" num="0211">(b) selecting one or more progeny plants that have the one or more desired traits to produce selected progeny plants;</li>
+        <li id="ul0010-0003" num="0212">(c) backcrossing the selected progeny plants with rice plants of inbred rice line DG263L;</li>
+        <li id="ul0010-0004" num="0213">(d) selecting for backcross progeny plants that have the one or more desired traits; and</li>
+        <li id="ul0010-0005" num="0214">(e) repeating steps (c) and (d) one or more times in succession to produce selected second or higher backcross progeny plants that comprise the one or more desired traits and essentially all of they physiological and morphological characteristics of inbred rice line DG263L.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0190" num="0215">35. The method of embodiment 34, wherein the one or more desired traits is herbicide resistance.</p>
+<p id="p-0191" num="0216">36. The method of embodiment 34 or embodiment 35, wherein the one or more desired traits is bacterial disease resistance.</p>
+<p id="p-0192" num="0217">37. The method of any one embodiments 34 to 36, wherein the one or more desired traits is viral disease resistance.</p>
+<p id="p-0193" num="0218">38. The method of any one embodiments 34 to 37, wherein the one or more desired traits is fungal disease resistance</p>
+<p id="p-0194" num="0219">39. The method of any one embodiments 34 to 38, wherein the one or more desired traits is insect resistance.</p>
+<p id="p-0195" num="0220">40. The method of any one embodiments 34 to 39, wherein the one or more desired traits is modified fatty acid metabolism.</p>
+<p id="p-0196" num="0221">41. The method of any one embodiments 34 to 40, wherein the one or more desired traits is modified carbohydrate metabolism.</p>
+<p id="p-0197" num="0222">42. The method of any one embodiments 34 to 41, wherein the one or more desired traits is male sterility.</p>
+<p id="p-0198" num="0223">43. A rice plant produced by the method of any one of embodiments 34 to 42.</p>
+<p id="p-0199" num="0224">44. A rice seed harvested from the rice plant of embodiment 43, wherein a rice plant grown from the rice seed comprises essentially all of the morphological and physiological characteristics of inbred rice line designated DG263L.</p>
+<p id="p-0200" num="0225">45. A method for producing inbred rice line DG263L seed, comprising crossing a first inbred parent rice plant with a second inbred parent rice plant and harvesting resultant rice seed, wherein both the first and the second inbred parent rice plants are the rice plant of embodiment 2.</p>
+<p id="p-0201" num="0226">46. A method for producing a hybrid rice seed, comprising crossing the rice plant of embodiment 43 with a different rice plant of a different rice line and harvesting resultant rice seed.</p>
+<p id="p-0202" num="0227">47. A hybrid rice seed produced by the method of embodiment 46, wherein a rice plant grown from the hybrid rice seed comprises essentially all of the morphological and physiological characteristics of inbred rice line designated DG263L.</p>
+<p id="p-0203" num="0228">48. A method comprising transforming the rice plant of embodiment 2 with at least one transgene, wherein the at least one transgene confers to the rice plant herbicide resistance.</p>
+<p id="p-0204" num="0229">49. A method comprising transforming the rice plant of embodiment 2 or embodiment 48 with at least one transgene, wherein the at least one transgene confers to the rice plant bacterial disease resistance.</p>
+<p id="p-0205" num="0230">50. A method comprising transforming the rice plant of any one of embodiments 2, 48, and 49 with at least one transgene, wherein the at least one transgene confers to the rice plant viral disease resistance.</p>
+<p id="p-0206" num="0231">51. A method comprising transforming the rice plant of any one of embodiments 2 and 48 to 50 with at least one transgene, wherein the at least one transgene confers to the rice plant fungal disease resistance.</p>
+<p id="p-0207" num="0232">52. A method comprising transforming the rice plant of any one of embodiments 2 and 48 to 51 with at least one transgene, wherein the at least one transgene confers to the rice plant insect resistance.</p>
+<p id="p-0208" num="0233">53. A method comprising transforming the rice plant of any one of embodiments 2 and 48 to 52 with at least one transgene, wherein the at least one transgene confers to the rice plant modified fatty acid metabolism.</p>
+<p id="p-0209" num="0234">54. A method comprising transforming the rice plant of any one of embodiments 2 and 48 to 53 with at least one transgene, wherein the at least one transgene confers to the rice plant modified carbohydrate metabolism.</p>
+<p id="p-0210" num="0235">55. A method comprising transforming the rice plant of any one of embodiments 2 and 48 to 54 with at least one transgene, wherein the at least one transgene confers to the rice plant male sterility.</p>
+<p id="p-0211" num="0236">56. The method of embodiment 48, wherein the at least one transgene confers herbicide resistance to the rice plant.</p>
+<p id="p-0212" num="0237">57. The method of embodiment 56, wherein the at least one transgene confers to the plant resistance to glyphosate.</p>
+<p id="p-0213" num="0238">58. The method of embodiment 56 or embodiment 57, wherein the at least one transgene confers to the plant resistance to sulfonylurea.</p>
+<p id="p-0214" num="0239">59. The method of any one of embodiments 56 to 58, wherein the at least one transgene confers to the plant resistance to imidazolinone.</p>
+<p id="p-0215" num="0240">60. The method of any one of embodiments 56 to 59, wherein the at least one transgene confers to the plant resistance to dicamba.</p>
+<p id="p-0216" num="0241">61. The method of any one of embodiments 56 to 60, wherein the at least one transgene confers to the plant resistance to glufosinate.</p>
+<p id="p-0217" num="0242">62. The method of any one of embodiments 56 to 61, wherein the at least one transgene confers to the plant resistance to phenoxy proprionic acid.</p>
+<p id="p-0218" num="0243">63. The method of any one of embodiments 56 to 62, wherein the at least one transgene confers to the plant resistance to L-phosphinothricin.</p>
+<p id="p-0219" num="0244">64. The method of any one of embodiments 56 to 63, wherein the at least one transgene confers to the plant resistance to cyclohexone.</p>
+<p id="p-0220" num="0245">65. The method of any one of embodiments 56 to 64, wherein the at least one transgene confers to the plant resistance to cyclohexanedione.</p>
+<p id="p-0221" num="0246">66. The method of any one of embodiments 56 to 65, wherein the at least one transgene confers to the plant resistance to triazine.</p>
+<p id="p-0222" num="0247">67. The method of any one of embodiments 56 to 66, wherein the at least one transgene confers to the plant resistance to 2,4-Dichlorophenoxyacetic acid.</p>
+<p id="p-0223" num="0248">68. The method of any one of embodiments 56 to 67, wherein the at least one transgene confers to the plant resistance to a hydroxyphenyl-pyruvate dioxygenase (HPPD) inhibitor.</p>
+<p id="p-0224" num="0249">69. The method of any one of embodiments 56 to 68, wherein the at least one transgene confers to the plant resistance to benzonitrile.</p>
+<p id="p-0225" num="0250">70. The method of any one of embodiments 48 to 69, wherein the at least one transgene confers modified fatty acid or modified carbohydrate metabolism to the rice plant.</p>
+<p id="p-0226" num="0251">71. The method of any one of embodiments 51 to 70, wherein the at least one transgene encodes fructosyltransferase.</p>
+<p id="p-0227" num="0252">72. The method of any one of embodiments 51 to 71, wherein the at least one transgene encodes levansucrase.</p>
+<p id="p-0228" num="0253">73. The method of any one of embodiments 51 to 72, wherein the at least one transgene encodes alpha-amylase.</p>
+<p id="p-0229" num="0254">74. The method of any one of embodiments 51 to 73, wherein the at least one transgene encodes invertase.</p>
+<p id="p-0230" num="0255">75. The method of any one of embodiments 51 to 74, wherein the at least one transgene encodes starch-branching enzyme.</p>
+<p id="p-0231" num="0256">76. A rice plant or a part thereof, produced by the method of any one of embodiments 48 to 75.</p>
+<p id="p-0232" num="0257">77. A method comprising crossing the rice plant of embodiment 2 with either i) a second rice plant of another rice line which includes a transgene or ii) a transformed rice plant of inbred rice line DG263L to produce a progeny plant comprising the transgene, wherein the transgene is operably linked to a regulatory element in the progeny plant and confers one or more desired traits to the rice plant.</p>
+<p id="p-0233" num="0258">78. The method of embodiment 77, wherein the one or more desired traits is herbicide resistance.</p>
+<p id="p-0234" num="0259">79. The method of embodiment 77 or embodiment 78, wherein the one or more desired traits is bacterial disease resistance.</p>
+<p id="p-0235" num="0260">80. The method of any one embodiments 77 to 79, wherein the one or more desired traits is viral disease resistance.</p>
+<p id="p-0236" num="0261">81. The method of any one embodiments 77 to 80, wherein the one or more desired traits is fungal disease resistance</p>
+<p id="p-0237" num="0262">82. The method of any one embodiments 77 to 81, wherein the one or more desired traits is insect resistance.</p>
+<p id="p-0238" num="0263">83. The method of any one embodiments 77 to 82, wherein the one or more desired traits is modified fatty acid metabolism.</p>
+<p id="p-0239" num="0264">84. The method of any one embodiments 77 to 83, wherein the one or more desired traits is modified carbohydrate metabolism.</p>
+<p id="p-0240" num="0265">85. The method of any one embodiments 77 to 84, wherein the one or more desired traits is male sterility.</p>
+<p id="p-0241" num="0266">86. The method of any one of embodiments 78 to 85, wherein the desired trait is resistance to glyphosate.</p>
+<p id="p-0242" num="0267">87. The method of any one of embodiments 78 to 86, wherein the desired trait is resistance to sulfonylurea.</p>
+<p id="p-0243" num="0268">88. The method of any one of embodiments 78 to 87, wherein the desired trait is resistance to imidazolinone.</p>
+<p id="p-0244" num="0269">89. The method of any one of embodiments 78 to 88, wherein the desired trait is resistance to dicamba.</p>
+<p id="p-0245" num="0270">90. The method of any one of embodiments 78 to 89, wherein the desired trait is resistance to glufosinate.</p>
+<p id="p-0246" num="0271">91. The method of any one of embodiments 78 to 90, wherein the desired trait is resistance to phenoxy proprionic acid.</p>
+<p id="p-0247" num="0272">92. The method of any one of embodiments 78 to 91, wherein the desired trait is resistance to L-phosphinothricin.</p>
+<p id="p-0248" num="0273">93. The method of any one of embodiments 78 to 92, wherein the desired trait is resistance to cyclohexone.</p>
+<p id="p-0249" num="0274">94. The method of any one of embodiments 78 to 93, wherein the desired trait is resistance to cyclohexanedione.</p>
+<p id="p-0250" num="0275">95. The method of any one of embodiments 78 to 94, wherein the desired trait is resistance to triazine.</p>
+<p id="p-0251" num="0276">96. The method of any one of embodiments 78 to 95, wherein the desired trait is resistance to 2,4-Dichlorophenoxyacetic acid.</p>
+<p id="p-0252" num="0277">97. The method of any one of embodiments 78 to 96, wherein the desired trait is resistance to a hydroxyphenyl-pyruvate dioxygenase (HPPD) inhibitor.</p>
+<p id="p-0253" num="0278">98. The method of any one of embodiments 78 to 97, wherein the desired trait is resistance to benzonitrile.</p>
+<p id="p-0254" num="0279">99. The method embodiment 77, wherein the transgene confers modified fatty acid or modified carbohydrate metabolism to the progeny plant.</p>
+<p id="p-0255" num="0280">100. The method of embodiment 99, wherein the transgene encodes fructosyltransferase.</p>
+<p id="p-0256" num="0281">101. The method of embodiment 99, wherein the transgene encodes levansucrase.</p>
+<p id="p-0257" num="0282">102. The method of embodiment 99, wherein the transgene encodes alpha-amylase.</p>
+<p id="p-0258" num="0283">103. The method of embodiment 99, wherein the transgene encodes invertase.</p>
+<p id="p-0259" num="0284">104. The method of embodiment 99, wherein the transgene encodes starch-branching enzyme.</p>
+<p id="p-0260" num="0285">105. A rice plant or a part thereof, produce by the method of any one of embodiments 77 to 104.</p>
+<p id="p-0261" num="0286">106. A method of producing a genetically modified rice plant, comprising applying mutation, gene conversion, genome editing, RNA interference, or gene silencing to a rice plant of embodiment 2.</p>
+<p id="p-0262" num="0287">107. A rice plant produced by the method of embodiment 106, wherein the rice plant comprises essentially all of the morphological and physiological characteristics of inbred rice line designated DG263L.</p>
+<p id="p-0263" num="0288">108. A commodity plant product derived or produced from a plant of embodiment 2.</p>
+<p id="p-0264" num="0289">109. The commodity plant product of embodiment 108, wherein the commodity plant product comprises at least one cell of a rice plant of inbred rice line DG263L.</p>
+<p id="p-0265" num="0290">110. The commodity plant product of embodiment 108 or embodiment 109, wherein the commodity plant product is rice.</p>
+<p id="p-0266" num="0291">111. The commodity plant product of embodiment 108 or embodiment 109, wherein the commodity plant product is rice meal.</p>
+<p id="p-0267" num="0292">112. The commodity plant product of embodiment 108 or embodiment 109, wherein the commodity plant product is rice flour.</p>
+<p id="p-0268" num="0293">113. The commodity plant product of embodiment 108 or embodiment 109, wherein the commodity plant product is rice oil.</p>
+<p id="p-0269" num="0294">114. The commodity plant product of embodiment 108 or embodiment 109, wherein the commodity plant product is a film.</p>
+<p id="p-0270" num="0295">115. The commodity plant product of embodiment 108 or embodiment 109, wherein the commodity plant product is a packaging.</p>
+<p id="p-0271" num="0296">116. The commodity plant product of embodiment 108 or embodiment 109, wherein the commodity plant product is a nutraceutical product.</p>
+<p id="p-0272" num="0297">117. A method of producing a commodity plant product, the method comprising collecting a plant part from the rice plant of embodiment 2.</p>
+<p id="p-0273" num="0298">118. The method of embodiment 117 wherein the plant part is seed.</p>
+<p id="p-0274" num="0299">119. The method of embodiment 117 or embodiment 118, further comprising manipulating the plant part to produce the commodity plant product.</p>
+<p id="p-0275" num="0300">120. The method of any one of embodiments 117 to 119, wherein the commodity plant product is rice.</p>
+<p id="p-0276" num="0301">121. The method of any one of embodiments 117 to 119, wherein the commodity plant product is rice meal.</p>
+<p id="p-0277" num="0302">122. The method of any one of embodiments 117 to 119, wherein the commodity plant product is rice flour.</p>
+<p id="p-0278" num="0303">123. The method of any one of embodiments 117 to 119, wherein the commodity plant product is rice oil.</p>
+<p id="p-0279" num="0304">124. The method of any one of embodiments 117 to 119, wherein the commodity plant product is a film.</p>
+<p id="p-0280" num="0305">125. The method of any one of embodiments 117 to 119, wherein the commodity plant product is a packaging.</p>
+<p id="p-0281" num="0306">126. The method of any one of embodiments 117 to 119, wherein the commodity plant product is a nutraceutical product.</p>
+<p id="p-0282" num="0307">127. Pollen or an ovule of the rice plant of any one of claims <b>2</b>, <b>3</b>, <b>22</b>, <b>25</b>, <b>26</b>, <b>29</b>, <b>33</b>, <b>43</b>, <b>76</b>, <b>105</b>, <b>107</b>.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A seed of inbred rice line designated DG263L, wherein a representative sample of seed of DG263L is being stored and maintained by Loveland Products, Inc. at LPI Rice Breeding Station in El Campo, Tex., with a representative sample of seed of DG263L to be deposited with the American Type Culture Collection (ATCC) in accordance with 37 CFR &#xa7;&#xa7; 1.801 to 1.809.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. A rice plant or a plant part thereof, produced by growing the rice seed of <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. A rice plant, or a plant part thereof, having essentially all of the physiological and morphological characteristics of inbred rice line designated DGL263L, wherein a representative sample of seed of DG263L is being stored and Loveland Products, Inc. at LPI Rice Breeding Station in El Campo, Tex., with a representative sample of seed of DG263L to be deposited with the American Type Culture Collection (ATCC) in accordance with 37 CFR &#xa7;&#xa7; 1.801 to 1.809.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The tissue culture of cells produced from a tissue of the rice plant of <claim-ref idref="CLM-00002">claim 2</claim-ref> selected from pollen, embryos, cotyledon, hypocotyl, meristematic cells, roots, root tips, pistils, anthers, glumes, panicles, flowers, leaves, and stems.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. A rice plant regenerated from the tissue culture of <claim-ref idref="CLM-00004">claim 4</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. A protoplast produced from the tissue culture of <claim-ref idref="CLM-00004">claim 4</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. A rice plant regenerated from the protoplast of <claim-ref idref="CLM-00006">claim 6</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The rice plant of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the rice plant has essentially all of the physiological and morphological characteristics of inbred rice line designated DGL263L.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. A method for producing a hybrid rice seed, comprising crossing the rice plant of <claim-ref idref="CLM-00003">claim 3</claim-ref> with a rice plant of a different rice line and harvesting resultant rice seed.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. A hybrid rice seed produced by the method of <claim-ref idref="CLM-00009">claim 9</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. A hybrid rice plant or a plant part thereof, produced by growing the seed of <claim-ref idref="CLM-00010">claim 10</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. A method of introducing one or more desired traits into inbred rice line DG263L, wherein the method comprises:
+<claim-text>(a) crossing a rice plant of inbred rice line DG263L with a rice plant of another rice line that comprises the one or more desired traits to produce progeny plants, wherein a representative sample of seed of the inbred rice line DG263L is being stored and maintained by Loveland Products, Inc. at LPI Rice Breeding Station in El Campo, Tex., with a representative sample of seed of DG263L to be deposited with the American Type Culture Collection (ATCC) in accordance with 37 CFR &#xa7;&#xa7; 1.801 to 1.809;</claim-text>
+<claim-text>(b) selecting one or more progeny plants that have the one or more desired traits to produce selected progeny plants;</claim-text>
+<claim-text>(c) backcrossing the selected progeny plants with rice plants of inbred rice line DG263L;</claim-text>
+<claim-text>(d) selecting for backcross progeny plants that have the one or more desired traits; and</claim-text>
+<claim-text>(e) repeating steps (c) and (d) one or more times in succession to produce selected second or higher backcross progeny plants that comprise the one or more desired traits and essentially all of they physiological and morphological characteristics of inbred rice line DG263L.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the one or more desired traits is one or more of: herbicide resistance; bacterial disease resistance; viral disease resistance; fungal disease resistance; insect resistance; modified fatty acid metabolism; modified carbohydrate metabolism; and male sterility.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. A rice plant produced by the method of <claim-ref idref="CLM-00012">claim 12</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. A rice seed harvested from the rice plant of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein a rice plant grown from the rice seed comprises essentially all of the morphological and physiological characteristics of inbred rice line designated DG263L.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. A method for producing inbred rice line DG263L seed, comprising crossing a first inbred parent rice plant with a second inbred parent rice plant and harvesting resultant rice seed, wherein both the first and the second inbred parent rice plants are the rice plant of <claim-ref idref="CLM-00002">claim 2</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. A method for producing a hybrid rice seed, comprising crossing the rice plant of <claim-ref idref="CLM-00016">claim 16</claim-ref> with a different rice plant of a different rice line and harvesting resultant rice seed.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. A hybrid rice seed produced by the method of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein a rice plant grown from the hybrid rice seed comprises essentially all of the morphological and physiological characteristics of inbred rice line designated DG263L.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. A method comprising crossing the rice plant of <claim-ref idref="CLM-00002">claim 2</claim-ref> with either i) a second rice plant of another rice line which includes a transgene or ii) a genomic edited rice plant of inbred rice line DG263L to produce a progeny plant comprising the edited gene or the transgene wherein the transgene is operably linked to a regulatory element in the progeny plant.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the transgene or the edited gene confers to the progeny plant at least one of: herbicide resistance; bacterial disease resistance; viral disease resistance; fungal disease resistance; insect resistance; modified fatty acid metabolism; modified carbohydrate metabolism; and male sterility.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. A rice plant or a part thereof, produced by the method of <claim-ref idref="CLM-00019">claim 19</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. A method of producing a genetically modified rice plant, comprising applying mutation, gene conversion, genome editing, RNA interference, or gene silencing to a rice plant of <claim-ref idref="CLM-00002">claim 2</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. A rice plant produced by the method of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the rice plant comprises essentially all of the morphological and physiological characteristics of inbred rice line designated DG263L</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The commodity plant product derived or produced from a plant of <claim-ref idref="CLM-00002">claim 2</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The commodity plant product of <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein the commodity plant product comprises at least one cell of a rice plant of inbred rice line DG263L.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The commodity plant product of <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein the commodity plant product is rice, rice meal, rice flour, rice oil, a film, a packaging, or a nutraceutical product.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

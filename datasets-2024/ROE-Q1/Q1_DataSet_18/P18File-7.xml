@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225377A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225377</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17998150</doc-number>
+<date>20210430</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2020-082738</doc-number>
+<date>20200508</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>11</main-group>
+<subgroup>45</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>G</subclass>
+<main-group>47</main-group>
+<subgroup>66</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>G</subclass>
+<main-group>15</main-group>
+<subgroup>22</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20210101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>11</main-group>
+<subgroup>45</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>G</subclass>
+<main-group>47</main-group>
+<subgroup>66</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>G</subclass>
+<main-group>15</main-group>
+<subgroup>22</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>G</subclass>
+<main-group>2201</main-group>
+<subgroup>0202</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">TOFU TRANSFER MECHANISM AND TOFU CONTINUOUS PRODUCTION DEVICE</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>TAKAI TOFU &#x26; SOYMILK EQUIPMENT CO.</orgname>
+<address>
+<city>Ishikawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>TAKAI</last-name>
+<first-name>Toichiro</first-name>
+<address>
+<city>Ishikawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>TAKEDA</last-name>
+<first-name>Masahide</first-name>
+<address>
+<city>Ishikawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>SHIGA</last-name>
+<first-name>Kazuyuki</first-name>
+<address>
+<city>Ishikawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>TAKAI TOFU &#x26; SOYMILK EQUIPMENT CO.</orgname>
+<role>03</role>
+<address>
+<city>Ishikawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2021/017306</doc-number>
+<date>20210430</date>
+</document-id>
+<us-371c12-date><date>20221107</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A tofu transfer mechanism is configured to transfer tofu from a first production device to a second production device in a tofu continuous production device. The tofu transfer mechanism includes: a transfer member disposed so as to bridge a terminal end of the first production device and a starting end of the second production device, the starting end of the second production device facing the terminal end of the first production device; and a folding-back guide unit configured to guide an endless conveyor of the second production device at the starting end of the second production device such that the endless conveyor of the second production device is bent downward at an acute angle with respect to a conveyance surface on which the tofu is conveyed.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="219.37mm" wi="158.75mm" file="US20230225377A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="232.66mm" wi="160.78mm" file="US20230225377A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="231.48mm" wi="161.04mm" file="US20230225377A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="243.16mm" wi="156.72mm" file="US20230225377A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="242.91mm" wi="161.97mm" file="US20230225377A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="233.09mm" wi="150.79mm" file="US20230225377A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="245.79mm" wi="157.73mm" file="US20230225377A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="244.86mm" wi="156.21mm" file="US20230225377A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="244.77mm" wi="131.49mm" file="US20230225377A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="245.03mm" wi="125.48mm" file="US20230225377A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="151.21mm" wi="159.26mm" file="US20230225377A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="244.18mm" wi="158.24mm" file="US20230225377A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="133.35mm" wi="161.37mm" file="US20230225377A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="121.92mm" wi="157.90mm" file="US20230225377A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="229.36mm" wi="162.64mm" file="US20230225377A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="137.08mm" wi="161.71mm" file="US20230225377A1-20230720-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="242.99mm" wi="160.19mm" file="US20230225377A1-20230720-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="225.55mm" wi="157.65mm" file="US20230225377A1-20230720-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="231.82mm" wi="162.39mm" file="US20230225377A1-20230720-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="232.49mm" wi="162.14mm" file="US20230225377A1-20230720-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to a tofu transfer mechanism that is applied to a production device for continuously producing tofu.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">In related art, in order to produce tofu by coagulating soymilk, the tofu is produced by using a mold box in low-volume production, but in mass production, the tofu is continuously formed and produced without using the mold box such that the soymilk is coagulated while being conveyed by a conveyor. After forming, the tofu is cut into a predetermined size and then stored in packs. Various devices have already been provided as such tofu continuous production devices.</p>
+<p id="p-0004" num="0003">Many of the tofu continuous production devices in the related art include at least two conveyors, that is, a primary conveyor and a secondary conveyor, and further include a transfer mechanism that transfers the tofu from the primary conveyor to the secondary conveyor.</p>
+<heading id="h-0003" level="1">CITATION LIST</heading>
+<heading id="h-0004" level="1">Patent Literature</heading>
+<p id="p-0005" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0004">Patent Literature 1: JP2983085B2</li>
+    <li id="ul0001-0002" num="0005">Patent Literature 2: JPS 52-005583B2</li>
+    <li id="ul0001-0003" num="0006">Patent Literature 3: JP3568193B2</li>
+    <li id="ul0001-0004" num="0007">Patent Literature 4: JPH03-251151A</li>
+    <li id="ul0001-0005" num="0008">Patent Literature 5: JP2018-198593 A</li>
+</ul>
+</p>
+<heading id="h-0005" level="1">SUMMARY OF INVENTION</heading>
+<heading id="h-0006" level="1">Technical Problem</heading>
+<p id="p-0006" num="0009">In the devices in the related art, a length of a transfer plate used in the transfer mechanism (a length of the tofu in a traveling direction) is long, which inevitably leads to an increase in a size of the continuous production device. For example, when sheet-shaped tofu transferred from a continuous coagulation machine on a primary conveyor side does not slide well, the device is likely to be clogged with the tofu at the transfer mechanism and thus a trouble is likely to occur. In order to solve such a problem, the device in the related art adopts a structure in which water is sprayed from a bottom side to cause the tofu to slide easily, or adopts a structure in which a difference in height between the primary conveyor and the secondary conveyor is increased to create a downward slope. However, the variation of properties of the tofu may cause the tofu to slide too much to crack and to break down during transferring, or not to slide and accumulate, which may require time and effort for frequent adjustment of the sprayed water or the like.</p>
+<p id="p-0007" num="0010">The present invention provides a tofu transfer mechanism and a tofu continuous production device that can be reduced in size and can prevent a trouble related to transferring of tofu.</p>
+<heading id="h-0007" level="1">Solution to Problem</heading>
+<p id="p-0008" num="0011">A tofu transfer mechanism according to an aspect of the present invention is a tofu transfer mechanism configured to transfer tofu from a first production device to a second production device in a tofu continuous production device, the tofu transfer mechanism including: a transfer member disposed so as to bridge a terminal end of the first production device and a starting end of the second production device, the starting end of the second production device facing the terminal end of the first production device; and a folding-back guide unit configured to guide an endless conveyor of the second production device at the starting end of the second production device such that the endless conveyor of the second production device is bent downward at an acute angle with respect to a conveyance surface on which the tofu is conveyed.</p>
+<p id="p-0009" num="0012">In the tofu transfer mechanism of the present invention, for example, the folding-back guide unit includes: a folding-back unit configured to bend the endless conveyor of the second production device downward; and a folding-back assisting unit disposed farther from the terminal end of the first production device than the folding-back unit and disposed below the folding-back unit. The endless conveyor of the second production device bent by the folding-back unit is bridged over the folding-back assisting unit, so that the acute angle is maintained at a bent portion of the endless conveyor of the second production device at the folding-back unit.</p>
+<p id="p-0010" num="0013">In the tofu transfer mechanism of the present invention, for example, an angle &#x3b1; formed by the conveyance surface of the endless conveyor of the second production device and a virtual plane is 90&#xb0;&#x3c;&#x3b1;&#x3c;270&#xb0;, where the virtual plane is defined as a plane obtained by rotating a folding-back surface by 180 degrees about the folding-back unit, the folding-back surface extending from the folding-back unit toward the folding-back assisting unit.</p>
+<p id="p-0011" num="0014">In the tofu transfer mechanism of the present invention, for example, the folding-back unit includes a rotating roller or a fixing member.</p>
+<p id="p-0012" num="0015">In the tofu transfer mechanism of the present invention, for example, a cross-sectional shape of the rotating roller is circular or polygonal.</p>
+<p id="p-0013" num="0016">In the tofu transfer mechanism of the present invention, for example, the fixing member has a cross-sectional shape including at least a circular arc.</p>
+<p id="p-0014" num="0017">In the tofu transfer mechanism of the present invention, for example, each of both ends of the folding-back unit has a tapered shape.</p>
+<p id="p-0015" num="0018">In the tofu transfer mechanism of the present invention, for example, a conveyor of the first production device includes any one of a metal belt, a Teflon belt, and a food belt.</p>
+<p id="p-0016" num="0019">In the tofu transfer mechanism of the present invention, for example, the endless conveyor of the second production device includes any one of a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt.</p>
+<p id="p-0017" num="0020">In the tofu transfer mechanism of the present invention, for example, a hardness of the tofu transferred from the first production device is 1 kN/m<sup>2 </sup>to 100 kN/m<sup>2</sup>.</p>
+<p id="p-0018" num="0021">The Tofu Transfer Mechanism.</p>
+<p id="p-0019" num="0022">A tofu continuous production device of the present invention includes the above tofu transfer mechanism, the first production device, and the second production device.</p>
+<p id="p-0020" num="0023">In the tofu continuous production device of the present invention, for example, a rearmost end of the first production device and a foremost end of the second production device at the folding-back unit are close to each other in a horizontal direction or in contact with each other in the horizontal direction, or overlap with each other in the horizontal direction.</p>
+<p id="p-0021" num="0024">The tofu continuous production device of the present invention further includes, for example, a cutting device on the first production device, and the tofu is cut and then transferred to the endless conveyor of the second production device.</p>
+<p id="p-0022" num="0025">A tofu transfer mechanism according to an aspect of the present invention is a tofu transfer mechanism configured to transfer tofu from a first production device to a second production device in a tofu continuous production device, the tofu transfer mechanism including: a transfer member disposed so as to bridge a terminal end of the first production device and a starting end of the second production device, the starting end of the second production device facing the terminal end of the first production device; and a folding-back guide unit configured to guide an endless conveyor of the first production device at the terminal end of the first production device such that the endless conveyor of the first production device is bent downward at an acute angle with respect to a conveyance surface on which the tofu is conveyed.</p>
+<p id="p-0023" num="0026">In the tofu transfer mechanism of the present invention, for example, the folding-back guide unit includes: a folding-back unit configured to bend the endless conveyor of the first production device downward; and a folding-back assisting unit disposed farther from the starting end of the second production device than the folding-back unit and disposed below the folding-back unit. The endless conveyor of the first production device bent by the folding-back unit is bridged over the folding-back assisting unit, so that the acute angle is maintained at a bent portion of the endless conveyor of the first production device at the folding-back unit.</p>
+<p id="p-0024" num="0027">In the tofu transfer mechanism of the present invention, for example, an angle &#x3b1; formed by the conveyance surface of the endless conveyor of the first production device and a virtual plane is 90&#xb0;&#x3c;&#x3b1;&#x3c;270&#xb0;, where the virtual plane is defined as a plane obtained by rotating a folding-back surface by 180 degrees about the folding-back unit, the folding-back surface extending from the folding-back unit toward the folding-back assisting unit.</p>
+<p id="p-0025" num="0028">In the tofu transfer mechanism of the present invention, for example, the folding-back unit includes a rotating roller or a fixing member.</p>
+<p id="p-0026" num="0029">In the tofu transfer mechanism of the present invention, for example, a cross-sectional shape of the rotating roller is circular or polygonal.</p>
+<p id="p-0027" num="0030">In the tofu transfer mechanism of the present invention, for example, the fixing member has a cross-sectional shape including at least a circular arc.</p>
+<p id="p-0028" num="0031">In the tofu transfer mechanism of the present invention, for example, each of both ends of the folding-back unit has a tapered shape.</p>
+<p id="p-0029" num="0032">In the tofu transfer mechanism of the present invention, for example, a conveyor of the second production device includes any one of a metal belt, a Teflon belt, a food belt, and a wire net belt.</p>
+<p id="p-0030" num="0033">In the tofu transfer mechanism of the present invention, for example, a conveyor of the second production device is configured to convey the tofu in a direction intersecting with a tofu conveying direction of the first production device.</p>
+<p id="p-0031" num="0034">In the tofu transfer mechanism of the present invention, for example, the endless conveyor of the first production device includes any one of a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt.</p>
+<p id="p-0032" num="0035">In the tofu transfer mechanism of the present invention, for example, a hardness of the tofu transferred from the first production device is 1 kN/m<sup>2 </sup>to 100 kN/m<sup>2</sup>.</p>
+<p id="p-0033" num="0036">The Tofu Transfer Mechanism.</p>
+<p id="p-0034" num="0037">A tofu continuous production device of the present invention includes the above tofu transfer mechanism, the first production device, and the second production device.</p>
+<p id="p-0035" num="0038">In the tofu continuous production device of the present invention, for example, a rearmost end of the first production device at the folding-back unit and a foremost end of the second production device are close to each other in a horizontal direction or in contact with each other in the horizontal direction, or overlap with each other in the horizontal direction.</p>
+<p id="p-0036" num="0039">The tofu continuous production device of the present invention further includes, for example, a cutting device on the first production device, and the tofu is cut and then transferred to an endless conveyor of the second production device.</p>
+<p id="p-0037" num="0040">The present invention is a tofu continuous production device including:</p>
+<p id="p-0038" num="0041">a first production device including an endless conveyor; and</p>
+<p id="p-0039" num="0042">a second production device including an endless conveyor,</p>
+<p id="p-0040" num="0043">wherein the tofu continuous production device is configured to transfer tofu from the first production device to the second production device, and</p>
+<p id="p-0041" num="0044">wherein the tofu continuous production device further includes, a folding-back guide unit at an end of the production device, the end of the production device being one of a terminal end of the first production device and a starting end of the second production device, the starting end of the second production device facing the terminal end of the first production device, the folding-back guide unit being configured to guide the endless conveyor of the production device such that the endless conveyor of the production device is bent downward at an acute angle with respect to a conveyance surface on which the tofu is conveyed.</p>
+<p id="p-0042" num="0045">The tofu continuous production device of the present invention further includes, for example, a transfer member disposed so as to bridge the terminal end of the first production device and the starting end of the second production device.</p>
+<p id="p-0043" num="0046">In the tofu continuous production device of the present invention, for example, the folding-back guide unit includes:</p>
+<p id="p-0044" num="0047">a folding-back unit configured to bend the endless conveyor of the second production device downward; and</p>
+<p id="p-0045" num="0048">a folding-back assisting unit disposed farther from the terminal end of the first production device than the folding-back unit and disposed below the folding-back unit, and</p>
+<p id="p-0046" num="0049">the endless conveyor of the second production device bent by the folding-back unit is bridged over the folding-back assisting unit, so that the acute angle is maintained a bent portion of the endless conveyor of the second production device at the folding-back unit.</p>
+<p id="p-0047" num="0050">In the tofu continuous production device of the present invention, for example, the folding-back guide unit is provided at the starting end of the second production device,</p>
+<p id="p-0048" num="0051">the first production device is a continuous coagulation machine in which the endless conveyor includes any one of a metal belt, a Teflon belt, and a food belt, and</p>
+<p id="p-0049" num="0052">the second production device is any one of a continuous forming machine, a cutting machine, a conveying machine, and a distribution and alignment machine in which the endless conveyor includes any one of a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt.</p>
+<p id="p-0050" num="0053">In the tofu continuous production device of the present invention, for example, the folding-back guide unit is provided at the terminal end of the first production device,</p>
+<p id="p-0051" num="0054">the first production device is a continuous forming machine in which the endless conveyor includes any one of a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt, and</p>
+<p id="p-0052" num="0055">the second production device is any one of a cutting machine, a conveying machine, and a distribution and alignment machine in which the endless conveyor includes any one of a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt.</p>
+<p id="p-0053" num="0056">The tofu continuous production device of the present invention further includes, for example, a third production device including an endless conveyor,</p>
+<p id="p-0054" num="0057">wherein the tofu is transferred from the second production device to the third production device, and</p>
+<p id="p-0055" num="0058">wherein the tofu continuous production device further includes another folding-back guide unit at an end of the production device, the end of the production device being one of a terminal end of the second production device and a starting end of the third production device, the starting end of the third production device facing the terminal end of the second production device, the another folding-back guide unit being configured to guide the endless conveyor of the production device such that the endless conveyor of the production device is bent downward at an acute angle with respect to a conveyance surface on which the tofu is conveyed.</p>
+<p id="p-0056" num="0059">In the tofu continuous production device of the present invention, for example, the folding-back guide unit is provided at the starting end of the second production device, and the another folding-back guide unit is provided at the terminal end of the second production device,</p>
+<p id="p-0057" num="0060">the first production device is a continuous coagulation machine in which the endless conveyor includes any one of a metal belt, a Teflon belt, and a food belt,</p>
+<p id="p-0058" num="0061">the second production device is a continuous forming machine, a cutting machine, a conveying machine, or a distribution and alignment machine in which the endless conveyor includes any one of a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt, and</p>
+<p id="p-0059" num="0062">the third production device is any one of a cutting machine, a conveying machine, and a distribution and alignment machine in which the endless conveyor includes any one of a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt.</p>
+<heading id="h-0008" level="1">Advantageous Effects of Invention</heading>
+<p id="p-0060" num="0063">According to a tofu transfer mechanism of the present invention, a reduction in size is possible, and a trouble related to transferring of tofu can be prevented.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0009" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0061" num="0064"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a side view of a tofu continuous production device in which a steel belt type continuous coagulation machine is used, (a) of <figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a tofu continuous production device in related art, and (b) of <figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a tofu continuous production device according to one embodiment of the present invention.</p>
+<p id="p-0062" num="0065"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a side view of a tofu continuous production device in which a food belt type continuous coagulation machine is used, (a) of <figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a tofu continuous production device in the related art, and (b) of <figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a tofu continuous production device according to one embodiment of the present invention.</p>
+<p id="p-0063" num="0066"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows an enlarged view of a region in which tofu is transferred from a right side to a left side in a drawing sheet and that includes a terminal end of a continuous coagulation machine, a starting end of a continuous forming machine, and a tofu transfer mechanism, (a) of <figref idref="DRAWINGS">FIG. <b>3</b></figref> is an enlarged view of the device in the related art, and (b) of <figref idref="DRAWINGS">FIG. <b>3</b></figref> is an enlarged view of the tofu continuous production device according to the embodiment of the present invention.</p>
+<p id="p-0064" num="0067"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows an enlarged view of a region in which the tofu is transferred from the right side to the left side or from the left side to the right side in the drawing sheet and that includes the terminal end of the continuous coagulation machine, the starting end of the continuous forming machine, and the tofu transfer mechanism, (a) of <figref idref="DRAWINGS">FIG. <b>4</b></figref> is an enlarged view of a tofu continuous production device according to another embodiment, and (b) of <figref idref="DRAWINGS">FIG. <b>4</b></figref> is an enlarged view of a tofu continuous production device according to still another embodiment.</p>
+<p id="p-0065" num="0068"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is an enlarged view illustrating a folding-back unit, (a) of <figref idref="DRAWINGS">FIG. <b>5</b></figref> shows an enlarged view of the folding-back unit implemented by a rotating roller, and (b) of <figref idref="DRAWINGS">FIG. <b>5</b></figref> shows an enlarged view of the folding-back unit implemented by a fixing member.</p>
+<p id="p-0066" num="0069">(a) to (c) of <figref idref="DRAWINGS">FIG. <b>6</b></figref> are enlarged views of various embodiments of the folding-back unit implemented by the rotating roller.</p>
+<p id="p-0067" num="0070">(a) to (c) of <figref idref="DRAWINGS">FIG. <b>7</b></figref> are enlarged views of various embodiments of the folding-back unit implemented by the fixing member.</p>
+<p id="p-0068" num="0071"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is views of various embodiments of the folding-back unit implemented by the rotating roller, (a) of <figref idref="DRAWINGS">FIG. <b>8</b></figref> shows a view equivalent to (a) of <figref idref="DRAWINGS">FIG. <b>5</b></figref>, (b) of <figref idref="DRAWINGS">FIG. <b>8</b></figref> is a plan view when viewed from an arrow direction in (a) of <figref idref="DRAWINGS">FIG. <b>8</b></figref>, and (c) of <figref idref="DRAWINGS">FIG. <b>8</b></figref> is a plan view when viewed from the arrow direction in (a) of <figref idref="DRAWINGS">FIG. <b>8</b></figref>.</p>
+<p id="p-0069" num="0072"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is views of various embodiments of the folding-back unit implemented by the fixing member, (a) of <figref idref="DRAWINGS">FIG. <b>9</b></figref> shows a view equivalent to (b) of <figref idref="DRAWINGS">FIG. <b>5</b></figref>, (b) of <figref idref="DRAWINGS">FIG. <b>9</b></figref> is a plan view when viewed from an arrow direction in (a) of <figref idref="DRAWINGS">FIG. <b>9</b></figref>, and (c) of <figref idref="DRAWINGS">FIG. <b>9</b></figref> is a plan view when viewed from the arrow direction in (a) of <figref idref="DRAWINGS">FIG. <b>9</b></figref>.</p>
+<p id="p-0070" num="0073">(a) to (f) of <figref idref="DRAWINGS">FIG. <b>10</b></figref> show various embodiments of a cross-sectional shape of the folding-back unit implemented by the rotating roller.</p>
+<p id="p-0071" num="0074">(a) to (m) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> show various embodiments of a cross-sectional shape of the folding-back unit implemented by the fixing member.</p>
+<p id="p-0072" num="0075"><figref idref="DRAWINGS">FIG. <b>12</b></figref> shows a tofu continuous production device according to another embodiment of the present invention.</p>
+<p id="p-0073" num="0076"><figref idref="DRAWINGS">FIG. <b>13</b></figref> shows a tofu continuous production device according to another embodiment of the present invention.</p>
+<p id="p-0074" num="0077"><figref idref="DRAWINGS">FIG. <b>14</b></figref> shows a tofu continuous production device according to another embodiment of the present invention, (a) of <figref idref="DRAWINGS">FIG. <b>14</b></figref> shows a plan view, and (b) of <figref idref="DRAWINGS">FIG. <b>14</b></figref> shows a side view.</p>
+<p id="p-0075" num="0078"><figref idref="DRAWINGS">FIG. <b>15</b></figref> shows a tofu continuous production device in the related art.</p>
+<p id="p-0076" num="0079">(a) to (c) of <figref idref="DRAWINGS">FIG. <b>16</b></figref> each show a tofu continuous production device according to another embodiment of the present invention.</p>
+<p id="p-0077" num="0080"><figref idref="DRAWINGS">FIG. <b>17</b></figref> shows a tofu continuous production device according to another embodiment of the present invention, (a) of <figref idref="DRAWINGS">FIG. <b>17</b></figref> shows a plan view, and (b) of <figref idref="DRAWINGS">FIG. <b>17</b></figref> shows a side view.</p>
+<p id="p-0078" num="0081"><figref idref="DRAWINGS">FIG. <b>18</b></figref> shows a tofu continuous production device according to another embodiment of the present invention, (a) of <figref idref="DRAWINGS">FIG. <b>18</b></figref> shows a plan view, and (b) of <figref idref="DRAWINGS">FIG. <b>18</b></figref> shows a side view.</p>
+<p id="p-0079" num="0082"><figref idref="DRAWINGS">FIG. <b>19</b></figref> shows a tofu continuous production device according to another embodiment of the present invention, (a) of <figref idref="DRAWINGS">FIG. <b>19</b></figref> shows a plan view, and (b) of <figref idref="DRAWINGS">FIG. <b>19</b></figref> shows a side view.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0010" level="1">DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p-0080" num="0083">Hereinafter, embodiments of a tofu transfer mechanism and a tofu continuous production device according to the present invention will be described in detail with reference to drawings.</p>
+<p id="p-0081" num="0084"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a side view of a tofu continuous production device, and particularly, (a) of <figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a tofu continuous production device <b>1</b> in related art and (b) of <figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a tofu continuous production device <b>1</b> according to one embodiment of the present invention. The tofu continuous production device <b>1</b> is a device for continuously forming and producing tofu by coagulating injected soymilk while conveying the soymilk by a conveyor, and includes a continuous coagulation machine <b>10</b>, a continuous forming machine <b>30</b>, and a transfer member <b>20</b>. As illustrated, the soymilk injected into the continuous coagulation machine <b>10</b> becomes sheet-shaped tofu T while being coagulated, is conveyed by a conveyor <b>13</b> driven by drive rollers <b>11</b> and <b>12</b>, and is conveyed toward the continuous forming machine <b>30</b>. The continuous coagulation machine <b>10</b> in <figref idref="DRAWINGS">FIG. <b>1</b></figref> is a steel belt type continuous coagulation machine.</p>
+<p id="p-0082" num="0085">In the continuous production device <b>1</b> of the present embodiment, the continuous coagulation machine <b>10</b> in the related art is used, but each of the transfer member <b>20</b> and the continuous forming machine <b>30</b> has a new configuration.</p>
+<p id="p-0083" num="0086">The tofu to be produced by the tofu continuous production device <b>1</b> is, for example, a curd for thick deep-fried tofu, a curd for a tofu cutlet, a curd for deep-fried tofu, a curd for a deep-fried tofu burger, a curd for cotton tofu, a curd for soft cotton tofu, a curd for grilled tofu, a curd for dried-frozen tofu, a curd for a dried-frozen tofu cutlet, a curd for a dried-frozen silken tofu cutlet, or the like, but is not particularly limited. As used herein, the term &#x201c;Tofu&#x201d; is referred to as a concept that includes not only the sheet-shaped tofu T but also block-shaped tofu and a cake of tofu which are obtained by cutting the sheet-shaped tofu T.</p>
+<p id="p-0084" num="0087">The sheet-shaped tofu T conveyed from the continuous coagulation machine <b>10</b> is transferred to the plate-shaped transfer member <b>20</b> in the same direction, and the transfer member <b>20</b> transfers the sheet-shaped tofu T to the continuous forming machine <b>30</b> that conveys the sheet-shaped tofu T in the same direction. That is, a rotation center axis of each of the drive rollers <b>11</b> and <b>12</b> of the continuous coagulation machine <b>10</b> is parallel to a center axis of each of rollers of the continuous forming machine <b>30</b>, and the drive rollers <b>11</b> and <b>12</b> of the continuous coagulation machine <b>10</b> and the rollers of the continuous forming machine <b>30</b> rotate in the same direction when the sheet-shaped tofu T is conveyed.</p>
+<p id="p-0085" num="0088">Conveying speeds of conveyance surfaces of the continuous coagulation machine <b>10</b> and the continuous forming machine <b>30</b> are usually the same, but may be relatively different depending on conditions.</p>
+<p id="p-0086" num="0089">The continuous forming machine <b>30</b> includes an upper endless conveyor <b>31</b>, a lower endless conveyor <b>32</b>, a crushing device <b>33</b>, and a leveling device <b>34</b>. The sheet-shaped tofu T is first conveyed by the lower endless conveyor <b>32</b>, crushed to a predetermined size by the crushing device <b>33</b>, leveled to a uniform height by the leveling device <b>34</b>, and naturally dehydrated without load. Thereafter, the crushed and leveled tofu is further dehydrated while being sandwiched between the upper endless conveyor <b>31</b> and the lower endless conveyor <b>32</b> in an up-and-down direction, and is conveyed to a downstream process. The above description is common to the devices in (a) of <figref idref="DRAWINGS">FIG. <b>1</b></figref> and (b) of <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0087" num="0090">Instead of a steel belt type, the endless conveyor <b>13</b> of the continuous coagulation machine <b>10</b> may be a rigid metal belt that is made of stainless steel, titanium, or the like, and that includes, at both ends, side walls made of flexible silicone rubber (for example, see JP3568193B2 or the like), or the endless conveyor <b>13</b> may be a food belt made of a resin whose surface is to be in contact with food and that includes a lower belt and side wall belts. In the food belt, a canvas made of a resin such as a polyester, or a wire made of metal is used as a core material, and a flexible resin such as a urethane resin or a vinyl chloride resin, or rubber is laminated and welded on a surface of the core material. Further, the endless conveyor <b>13</b> may be a Teflon belt in which aramid fibers are coated with a fluorine resin (for example, see JP4512663B1, JP4613252B1, or the like).</p>
+<p id="p-0088" num="0091">As in a case of a steel belt, a diameter of the drive roller <b>12</b> at a rear end (the drive roller <b>11</b> at a front end in some cases) is set to a large diameter within a range of 300 mm&#x3c6; to 1500 mm&#x3c6;, preferably 500 mm&#x3c6; to 1000 mm&#x3c6;. In a case of the Teflon belt or the food belt, a diameter of the drive roller <b>12</b> at the rear end (the drive roller <b>11</b> at the front end in some cases) is 50 mm or more and preferably 50 mm to 300 mm, which is smaller than that in the case of the steel belt, but a larger diameter is advantageous because slipping can be prevented.</p>
+<p id="p-0089" num="0092">As the endless conveyor <b>32</b> of the continuous forming machine <b>30</b>, there is used a resin filter fabric belt that is flat-wound at starting and rear ends and forms a bottom surface and side walls on a conveyance surface, a wire net belt (a glasses link belt conveyor, a flat flex conveyor, a chocolate conveyor, or the like) in which a wire made of metal such as stainless steel is woven, a perforated or non-perforated food resin belt (a Teflon belt or a food belt), or the like. The resin filter fabric belt is a resin filter fabric in which monofilaments of a fluorine resin, a polyester resin, a polypropylene resin, a polyethylene resin, or the like are woven into a plain weave, a twill weave, or the like (for example, see JP4004413B2 or the like). The endless conveyor <b>32</b> is not particularly limited as long as a material or form is a flexible and tough material capable of forming a knife-edge-shaped folding-back unit <b>42</b> whose diameter (thickness) is 5 mm or more and less than 50 mm (preferably 10 mm to 30 mm). Further, the endless conveyor <b>32</b> may be flat-wound at the starting and terminal ends, and may be vertically folded back at both ends on the conveyance surface as vertical walls are formed at both ends of a caterpillar that rotates on an inner side of the conveyor and supports the filter fabric on the conveyance surface (see, for example, JPH05-000089U, JP4269319B2, or the like).</p>
+<p id="p-0090" num="0093">The transfer member <b>20</b> is a plate-shaped member made of stainless steel or a resin, and in particular, a front end thereof is formed to be sharp in a tapered shape, and a tip member made of a resin may be provided, for example, at a front end of a stainless steel plate so as to be in contact with the steel belt. The transfer member <b>20</b> preferably has a shape that allows the tofu to be transferred from the continuous coagulation machine <b>10</b> without being damaged. Further, it is preferable that a rear end of the transfer member <b>20</b> is also formed to be sharp in a tapered shape.</p>
+<p id="p-0091" num="0094">The transfer member <b>20</b> is formed by members having a round bar shape, a triangular cross section, a hexagonal cross section, or the like in addition to the plate shape (for example, bars having a cross section shown in each of <figref idref="DRAWINGS">FIGS. <b>10</b> and <b>11</b></figref> that shows the folding-back unit to be described later), may be a form in which the plurality of these members are arranged side by side, a form of a knife edge type belt conveyor, or a form in which the members rotate automatically or freely (a roller type, a belt conveyor type, or the like), and is not particularly limited as long as the transfer member <b>20</b> is a member that does not easily hinder transferring.</p>
+<p id="p-0092" num="0095">The sheet-shaped tofu T is, for example, sheet-shaped silken tofu, and is transferred from the continuous coagulation machine <b>10</b> to the continuous forming machine <b>30</b> while keeping a silken shape (silk tofu, soft tofu or the like). Further, the sheet-shaped tofu T may be coarsely crushed tofu (the cotton tofu, the soft cotton tofu, the grilled tofu, a curd for the tofu cutlet, a curd for the thick deep-fried tofu, or the like) coarsely crushed as appropriate by a crushing device which is provided, for example, in the vicinity of a terminal end of the continuous coagulation machine <b>10</b>, on the transfer member <b>20</b>, or in the vicinity of a starting end of the continuous forming machine <b>30</b>. The crushing device may be provided for any of coarse crushing, medium crushing, and fine crushing, and a leveling device may be provided after the crushing device.</p>
+<p id="p-0093" num="0096"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a side view of a tofu continuous production device, and particularly, (a) of <figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a tofu continuous production device <b>1</b> in the related art and (b) of <figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a tofu continuous production device <b>1</b> according to one embodiment of the present invention. The continuous coagulation machine <b>10</b> in <figref idref="DRAWINGS">FIG. <b>2</b></figref> is a food belt type continuous coagulation machine. The other configurations are the same as those in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0094" num="0097">Next, the plate-shaped transfer member <b>20</b> common to <figref idref="DRAWINGS">FIG. <b>1</b></figref> and <figref idref="DRAWINGS">FIG. <b>2</b></figref> will be described. The transfer member <b>20</b> is disposed so as to bridge the terminal end of the continuous coagulation machine <b>10</b> and the starting end of the continuous forming machine <b>30</b> that faces the terminal end of the continuous coagulation machine <b>10</b>. In the device in the related art shown in each of (a) of <figref idref="DRAWINGS">FIG. <b>1</b></figref> and (a) of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, water (fresh water) is sprayed onto the transfer member <b>20</b>, and the sheet-shaped tofu T is transferred from the continuous coagulation machine <b>10</b> to the continuous forming machine <b>30</b> while sliding on the transfer member <b>20</b>.</p>
+<p id="p-0095" num="0098">As illustrated, in the device in the related art, a length of the transfer member <b>20</b> is long (for example, 500 mm or more), and when the sheet-shaped tofu transferred from the continuous coagulation machine <b>10</b> does not slide well, the device is likely to be clogged with the tofu at the transfer member <b>20</b> and thus a trouble is likely to occur. In order to solve such a problem, a structure is used in which the water is sprayed in a small amount to cause the tofu to slide easily, or a difference in height between the continuous coagulation machine <b>10</b> and the continuous forming machine <b>30</b> is increased to create a downward slope. However, when properties of the tofu change, the tofu slides too much to crack and to break down during transferring, or the tofu does not slide and accumulates, and thus time and effort is required for frequent adjustment of the sprayed water or the like.</p>
+<p id="p-0096" num="0099">Since the device is a large-scale machine, for positions (positions in a front-and-rear direction and the up-and-down direction) of the continuous coagulation machine <b>10</b>, the transfer member <b>20</b>, the continuous forming machine <b>30</b>, and a next process device (a cutting device or the like), installation positions initially set and a layout determined during test operation are often directly used. However, when the installation positions and the layout are inappropriate, it is difficult to change the installation positions and the layout later and a lot of effort is required at the time of changing, and thus a quality adjustment range for the tofu tends to be limited.</p>
+<p id="p-0097" num="0100">On the other hand, the tofu continuous production device <b>1</b> of the present embodiment shown in each of (b) of <figref idref="DRAWINGS">FIG. <b>1</b></figref> and (b) of <figref idref="DRAWINGS">FIG. <b>2</b></figref> includes a folding-back guide unit <b>40</b> that guides the lower endless conveyor <b>32</b> of the continuous forming machine <b>30</b> at the starting end of the continuous forming machine <b>30</b> such that the lower endless conveyor <b>32</b> of the continuous forming machine <b>30</b> is bent downward at an acute angle with respect to the conveyance surface on which the sheet-shaped tofu T is conveyed. The folding-back guide unit <b>40</b> and the transfer member <b>20</b> cooperate to constitute a tofu transfer mechanism <b>50</b> that smoothly transfers the sheet-shaped tofu T.</p>
+<p id="p-0098" num="0101"><figref idref="DRAWINGS">FIG. <b>3</b></figref> and <figref idref="DRAWINGS">FIG. <b>4</b></figref> are each an enlarged view of a region including the terminal end of the continuous coagulation machine <b>10</b>, the starting end of the continuous forming machine <b>30</b>, and the tofu transfer mechanism <b>50</b> in <figref idref="DRAWINGS">FIG. <b>1</b></figref> and <figref idref="DRAWINGS">FIG. <b>2</b></figref>. (a) of <figref idref="DRAWINGS">FIG. <b>3</b></figref> is the enlarged view of the device in the related art, and (b) of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, (a) of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, and (b) of <figref idref="DRAWINGS">FIG. <b>4</b></figref> are the enlarged views of various embodiments of the tofu transfer mechanism <b>50</b>. The tofu transfer mechanism <b>50</b> in each of (b) of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, (a) of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, and (b) of <figref idref="DRAWINGS">FIG. <b>4</b></figref> includes the transfer member <b>20</b> and the folding-back guide unit <b>40</b>. The device in each of (a) of <figref idref="DRAWINGS">FIG. <b>3</b></figref> and (b) of <figref idref="DRAWINGS">FIG. <b>3</b></figref> transfers the tofu from a right side to a left side in a drawing sheet as shown by an arrow X<b>1</b>. A device in each of (a) of <figref idref="DRAWINGS">FIG. <b>4</b></figref> and (b) of <figref idref="DRAWINGS">FIG. <b>4</b></figref> transfers the tofu as shown by the arrow X<b>1</b> in the device shown in a respective one of <figref idref="DRAWINGS">FIG. <b>1</b></figref> and <figref idref="DRAWINGS">FIG. <b>2</b></figref>, but can also transfer the tofu from the left side to the right side in the drawing sheet as shown by an arrow X<b>2</b> of an opposite direction.</p>
+<p id="p-0099" num="0102">In each embodiment, the folding-back guide unit <b>40</b> includes the folding-back unit <b>42</b> and a folding-back assisting unit <b>44</b>. The folding-back unit <b>42</b> is implemented by a rotating roller or a fixed fixing member, and serves to bend the lower endless conveyor <b>32</b> downward. The folding-back assisting unit <b>44</b> is implemented by a rotating roller or a fixed fixing member, and is disposed farther from the terminal end of the continuous coagulation machine <b>10</b> than the folding-back unit <b>42</b> and disposed below the folding-back unit <b>42</b>. The folding-back unit <b>42</b> is in contact with and guides a back surface of the conveyance surface of the endless conveyor <b>32</b>, while the folding-back assisting unit <b>44</b> is in contact with and guides the conveyance surface of the endless conveyor <b>32</b> of the continuous forming machine <b>30</b>.</p>
+<p id="p-0100" num="0103">In order to shorten a sliding distance of the tofu, a shorter length L of the transfer member <b>20</b> in the front-and-rear direction is more preferable, and it is ideal that as an extreme instance, L=0, that is, the transfer member <b>20</b> does not exist. For example, when the diameter of the drive roller <b>12</b> at the rear end is 500 mm to 1000 mm, and the diameter (the thickness) of the folding-back unit <b>42</b> is 51 mm or more to 200 mm in an example in the related art and is 5 mm to 50 mm (preferably 10 mm to 30 mm) in the present embodiments, 1000 mm&#x2265;L&#x3e;500 mm in the example in the related art in (a) of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, whereas in the present application, 500 mm&#x2265;L&#x2265;0 mm, preferably 300 mm&#x2265;L&#x2265;0 mm, and most preferably L=0 mm, that is, the transfer member <b>20</b> does not exist in any of the embodiments of (b) of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, (a) of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, and (b) of <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0101" num="0104">The lower endless conveyor <b>32</b> bent by the folding-back unit <b>42</b> is bridged over the folding-back assisting unit <b>44</b>. Since the folding-back assisting unit <b>44</b> is disposed farther from the terminal end of the continuous coagulation machine <b>10</b> than the folding-back unit <b>42</b> and disposed below the folding-back unit <b>42</b>, an acute angle &#x3b8; (correlated with &#x2212;90&#xb0;&#x3c;&#x3b8;&#x3c;90&#xb0;&#x2248;90&#xb0;&#x3c;&#x3b1;&#x3c;270&#xb0; to be described later) can be maintained at a bent portion of the lower endless conveyor <b>32</b> at the folding-back unit <b>42</b>.</p>
+<p id="p-0102" num="0105">In <figref idref="DRAWINGS">FIG. <b>3</b></figref> and <figref idref="DRAWINGS">FIG. <b>4</b></figref>, dimensions A1 (the example in the related art), A2, A3, and A4 each indicate a difference A in height between the conveyance surface of the conveyor <b>13</b> of the continuous coagulation machine <b>10</b> and the conveyance surface of the lower endless conveyor <b>32</b> of the continuous forming machine <b>30</b>. Dimensions B1, B2, B3, and B4 each indicate a center axis distance B between the rotation center axis of the drive roller <b>12</b> at the terminal end of the continuous coagulation machine <b>10</b> and a center axis of the folding-back unit <b>42</b> at the starting end of the continuous forming machine <b>30</b>. Dimensions C1, C2, C3, and C4 each indicate a distance between the drive roller <b>12</b> and the folding-back unit <b>42</b>, and more specifically, a relative horizontal distance C (substantially the same as a distance L in a horizontal direction, in other words, a conveying direction of the sheet-shaped tofu T) between a rearmost end of the drive roller <b>12</b> and a foremost end of the folding-back unit <b>42</b>. Angles &#x3b2;1, &#x3b2;2, &#x3b2;3, and &#x3b2;4 each indicate an inclination angle &#x3b2; of the transfer member <b>20</b> with respect to the conveyance surface of the conveyor <b>13</b>.</p>
+<p id="p-0103" num="0106">In the above examples, A1 (the example in the related art)&#x3e;A2&#x3e;A3&#x3e;0 and A4=0 are satisfied, and the conveyance surface of the conveyor <b>13</b> of the continuous coagulation machine <b>10</b> is located above the conveyance surface of the lower endless conveyor <b>32</b> of the continuous forming machine <b>30</b>. The difference A in height between the two conveyance surfaces is A1&#x2265;A2&#x2265;A3&#x2265;A4=0, and the difference A in height in each of the embodiments is smaller than that in the related art. The dimension A is preferably small, and most preferably there is no difference in height. When the diameter of the drive roller <b>12</b> is 500 mm to 1000 mm, and the diameter (the thickness) of the folding-back unit <b>42</b> is 51 mm or more to 200 mm in the example in the related art and is 5 mm to 50 mm (preferably 10 mm to 30 mm) in the present embodiments, 300 mm&#x2265;A1&#x3e;200 mm in the example in the related art in (a) of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, whereas in the present embodiments, 200 mm&#x2265;A2&#x3e;100 mm in the embodiment of (b) of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, preferably 100 mm&#x2265;A3&#x3e;0 mm in the embodiment of (a) of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, and most preferably A4=0 mm in the embodiment of (b) of <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0104" num="0107">In the above examples, B1 (the example in the related art)&#x3e;B2&#x3e;B3&#x3e;B4&#x3e;0 is satisfied, and the rotation center axis of the drive roller <b>12</b> at the terminal end of the continuous coagulation machine <b>10</b> and the center axis of the folding-back unit <b>42</b> at the starting end of the continuous forming machine <b>30</b> are separated from each other by a predetermined distance in the horizontal direction. The center axis distance B is B1&#x3e;B2&#x3e;B3&#x3e;B4, and the center axis distance B in each of the embodiments is smaller than that in the related art. The dimension B is also related to the length of the transfer member <b>20</b>, but in order to shorten the sliding distance of the tofu and a machine length, the dimension B is preferably small, and ideally and most preferably zero. When the diameter of the drive roller <b>12</b> is 500 mm to 1000 mm, and the diameter (the thickness) of the folding-back unit <b>42</b> is 51 mm or more to 200 mm in the example in the related art and is 5 mm to 50 mm (preferably 10 mm to 30 mm) in the present embodiments, 2000 mm&#x2265;B1&#x3e;1000 mm in the example in the related art in (a) of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, whereas in the present embodiments, 1000 mm&#x2265;B2, B3, B4&#x3e;0 mm, preferably 500 mm&#x2265;B3, B4&#x3e;0 mm in the embodiments of (b) of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, (a) of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, and (b) of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, and most preferably B=0 mm although not illustrated (that is, L=0 mm).</p>
+<p id="p-0105" num="0108">In the above examples, C1 (the example in the related art)&#x3e;C2&#x3e;0 and 0&#x2265;C3&#x3e;C4 are satisfied. The dimensions C1, C2, C3, and C4 each indicate the relative horizontal distance between the rearmost end of the drive roller <b>12</b> and the foremost end of the folding-back unit <b>42</b>, and C1&#x3e;C2&#x3e;0, that is, positive C1 and C2 mean that the rearmost end of the drive roller <b>12</b> and the foremost end of the folding-back unit <b>42</b> are separated from each other in the horizontal direction (the conveying direction of the sheet-shaped tofu T) by a predetermined distance. However, C2 is extremely small, and C2&#x2248;0. Further, the rearmost end of the drive roller <b>12</b> and the foremost end of the folding-back unit <b>42</b> may be in contact with each other, that is, located at the same position in the horizontal direction, and in this case, C2 is zero (C2=0). On the other hand, 0&#x3e;C3&#x3e;C4, that is, negative C3 and C4 mean that the rearmost end of the drive roller <b>12</b> and the foremost end of the folding-back unit <b>42</b> overlap each other in the horizontal direction (the conveying direction of the sheet-shaped tofu T). When viewed from above, for C2, C3, or C4, a form is used in which the foremost end of the folding-back unit <b>42</b> is extremely close to the rearmost end of the drive roller <b>12</b> or overlaps with and covers the rearmost end of the drive roller <b>12</b>. Of course, even when the two rollers overlap with each other in the horizontal direction, as shown in (a) of <figref idref="DRAWINGS">FIG. <b>4</b></figref> and (b) of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the two rollers do not collide with each other since the diameter of the folding-back unit <b>42</b> is smaller than the diameter of the drive roller <b>12</b>. It is preferable that the dimension C has a larger negative value of zero or less (an overlapping state when viewed from above) since the machine length is shortened. For example, when the diameter of the drive roller <b>12</b> is 500 mm to 1000 mm, and the diameter (the thickness) of the folding-back member is 51 mm or more to 200 mm in the example in the related art and is 5 mm to 50 mm (preferably 10 mm to 30 mm) in the present embodiments, 500 mm&#x2265;C1&#x3e;300 mm in the example in the related art in (a) of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, whereas 300 mm&#x2265;C2&#x3e;0 mm in the embodiment of (b) of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, preferably 0 mm&#x2265;C3&#x3e;&#x2212;300 mm in the embodiment of (a) of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, and most preferably &#x2212;300 mm&#x2265;C4&#x3e;&#x2212;500 mm in the embodiment of (b) of <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0106" num="0109">That is, it is preferable that in order to shorten the machine length, a center of the rotating roller or the fixing member constituting the folding-back unit <b>42</b> is located between a center of the drive roller <b>12</b> and the conveyance surface of the conveyor <b>13</b> in the up-and-down direction, and disposed at a position where the center of the rotating roller or the fixing member overlaps with the drive roller <b>12</b> when viewed from above. It is more preferable that a profile of a cross-sectional shape of the rotating roller or the fixing member is disposed between the center of the drive roller <b>12</b> and the conveyance surface of the conveyor <b>13</b> in the up-and-down direction, between the center of the drive roller <b>12</b> and the rearmost end of the drive roller <b>12</b> in the horizontal direction, and in a region where the rotating roller or the fixing member does not interfere with the drive roller <b>12</b>.</p>
+<p id="p-0107" num="0110">Further, in the above examples, &#x3b2;1 (the example in the related art)&#x3e;&#x3b2;2&#x3e;&#x3b2;3&#x3e;0 and &#x3b2;4=0 are satisfied, and the transfer member <b>20</b> is inclined upward with respect to the conveyance surface of the conveyor <b>13</b> when viewed from a continuous forming machine <b>30</b> side. The inclination angle &#x3b2; is &#x3b2;1&#x3e;&#x3b2;2&#x3e;&#x3b2;3&#x3e;&#x3b2;4=0, and the inclination angle &#x3b2; in each of the embodiments is smaller than that in the related art. When the angle of the transfer member <b>20</b> is small, it is possible to avoid a trouble such as breaking down or clogging due to slipperiness of the tofu, and thus &#x3b2; is preferably small and &#x3b2;=0&#xb0; is most preferable. For example, when the diameter of the drive roller <b>12</b> is 500 mm to 1000 mm, and the diameter (the thickness) of the folding-back member is 51 mm or more to 200 mm in the example in the related art and is 5 mm to 50 mm (preferably 10 mm to 30 mm) in the present embodiments, 45&#xb0;&#x2265;&#x3b2;1&#x3e;30&#xb0; in the example in the related art in (a) of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, whereas 30&#xb0;&#x2265;&#x3b2;2&#x3e;10&#xb0; in the embodiment of (b) of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, preferably 10&#xb0;&#x2265;&#x3b2;3&#x3e;0&#xb0; in the embodiment of (a) of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, and most preferably &#x3b2;4=0&#xb0; in the embodiment of (b) of <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0108" num="0111">As described above, in each of the embodiments, values of the difference A in height, the center axis distance B, the relative horizontal distance C, and the inclination angle &#x3b2; are smaller than those in the device in the related art. The result means that according to the present invention, a distance between the continuous coagulation machine <b>10</b> and the continuous forming machine <b>30</b> can be shortened and the length of the transfer member <b>20</b> in the conveying direction can also be shortened. The result means that a difference in height between the continuous coagulation machine <b>10</b> and the continuous forming machine <b>30</b> can be reduced and inclination of the transfer member <b>20</b> can also be reduced. Therefore, it is possible to reduce a length and a height of the entire tofu continuous production device <b>1</b> and achieve space saving. By reducing the length of the transfer member <b>20</b> in the conveying direction and the inclination angle of the transfer member <b>20</b>, the tofu can also be smoothly transferred, and a trouble such as breakage of the tofu can also be prevented.</p>
+<p id="p-0109" num="0112"><figref idref="DRAWINGS">FIGS. <b>5</b> to <b>7</b></figref> show various embodiments of the folding-back guide unit <b>40</b>. The conveying direction of the tofu may be either from right to left (a direction of the arrow X<b>1</b>) or from the left to the right (a direction of the arrow X<b>2</b>) in the drawing sheet. In the lower endless conveyor <b>32</b>, a folding-back surface <b>32</b><i>a </i>from the folding-back unit <b>42</b> toward the folding-back assisting unit <b>44</b> is defined, and a virtual plane V is defined which is obtained by rotating the folding-back surface <b>32</b><i>a </i>by 180 degrees about the folding-back unit <b>42</b>. In the present embodiment, an angle &#x3b1; formed by the conveyance surface of the lower endless conveyor <b>32</b> of the continuous forming machine and the virtual plane V is set within a range of 90&#xb0;&#x3c;&#x3b1;&#x3c;270&#xb0;. The angle &#x3b1; in each drawing schematically shows a center of the folding-back unit <b>42</b> as an intersection point between the conveyance surface and the virtual plane V.</p>
+<p id="p-0110" num="0113">A range of the angle &#x3b1; is preferably set to 120&#xb0;&#x2264;&#x3b1;&#x2264;240&#xb0;, more preferably set to 135&#xb0;&#x2264;&#x3b1;&#x2264;225&#xb0;, and most preferably set to 150&#xb0;&#x2264;&#x3b1;&#x2264;180&#xb0;. By such setting, as illustrated, when viewed from a lateral direction of the device, the lower endless conveyor <b>32</b> rotates in a state where the lower endless conveyor <b>32</b> is folded back, at the folding-back unit <b>42</b>, at the acute angle like a knife edge shape. With such a configuration, the drive roller <b>12</b> and the folding-back unit <b>42</b> can be brought close to each other, space saving for the tofu continuous production device <b>1</b> can be achieved, the transfer member <b>20</b> can also be reduced in size, and the trouble such as the breakage of the tofu can be prevented.</p>
+<p id="p-0111" num="0114">(a) of <figref idref="DRAWINGS">FIG. <b>5</b></figref> shows an embodiment in which the folding-back unit <b>42</b> is implemented by the small-diameter rotating roller. The rotating roller is a so-called freely rotating roller that idles about a rotation axis, includes a bearing such as a bearing part or a resin collar, and is driven by another drive roller. (b) of <figref idref="DRAWINGS">FIG. <b>5</b></figref> shows an embodiment in which the folding-back unit <b>42</b> is implemented by a fixed shaft which is the thin fixing member. The fixing member is fixed and disposed at a predetermined position, and does not rotate. As the fixing member, a flat plate or the like having a round shape on one side is disposed. The rotating roller or the fixing member may be provided, at an appropriate position such as both ends or a center thereof, with a support member that supports the rotating roller or the fixing member from a base (not illustrated), and the rotating roller or the fixing member is a member that has a strength capable of withstanding deflection due to tension of a belt constituting the lower endless conveyor <b>32</b> (in particular, large tensile tension that acts in a state where the tofu is placed or under a press load) and that has a smooth rotation surface or a smooth surface to cause the belt to easily slide thereon.</p>
+<p id="p-0112" num="0115"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows embodiments in which the folding-back unit <b>42</b> is implemented by the small-diameter rotating roller as in (a) of <figref idref="DRAWINGS">FIG. <b>5</b></figref>. (a) of <figref idref="DRAWINGS">FIG. <b>6</b></figref> shows the embodiment in which the angle &#x3b1; is 180&#xb0;&#x3c;&#x3b1;&#x2264;225&#xb0;, (b) of <figref idref="DRAWINGS">FIG. <b>6</b></figref> shows the embodiment in which the angle &#x3b1; is &#x3b1;=180&#xb0;, and (c) of <figref idref="DRAWINGS">FIG. <b>6</b></figref> shows the embodiment in which the angle &#x3b1; is 150&#xb0;&#x2264;&#x3b1;&#x3c;180&#xb0;.</p>
+<p id="p-0113" num="0116"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows embodiments in which the folding-back unit <b>42</b> is implemented by the fixed shaft which is the thin fixing member, as in (b) of <figref idref="DRAWINGS">FIG. <b>5</b></figref>. (a) of <figref idref="DRAWINGS">FIG. <b>7</b></figref> shows the embodiment in which the angle &#x3b1; is 180&#xb0;&#x3c;&#x3b1;&#x2264;225&#xb0;, (b) of <figref idref="DRAWINGS">FIG. <b>7</b></figref> shows the embodiment in which the angle &#x3b1; is &#x3b1;=180&#xb0;, and (c) of <figref idref="DRAWINGS">FIG. <b>7</b></figref> shows the embodiment in which the angle &#x3b1; is 150&#xb0;&#x2264;&#x3b1;&#x3c;180&#xb0;.</p>
+<p id="p-0114" num="0117"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows embodiments in which the folding-back unit <b>42</b> is implemented by the small-diameter rotating roller as in (a) of <figref idref="DRAWINGS">FIG. <b>5</b></figref>. (a) of <figref idref="DRAWINGS">FIG. <b>8</b></figref> shows a view equivalent to (a) of <figref idref="DRAWINGS">FIG. <b>5</b></figref>, (b) of <figref idref="DRAWINGS">FIG. <b>8</b></figref> is a plan view when viewed from an arrow direction in (a) of <figref idref="DRAWINGS">FIG. <b>8</b></figref> and shows a form of the rotating roller having a simple bar shape, and (c) of <figref idref="DRAWINGS">FIG. <b>8</b></figref> is a plan view when viewed from the arrow direction in (a) of <figref idref="DRAWINGS">FIG. <b>8</b></figref> and shows a form of the rotating roller having a bar shape in which both ends are each narrowed in a tapered shape. Since the both ends are each formed in the tapered shape, tension applied to the both ends of the folding-back unit <b>42</b> can be relaxed, and an effect of preventing meandering and wrinkling of the belt of the conveyor is also expected.</p>
+<p id="p-0115" num="0118"><figref idref="DRAWINGS">FIG. <b>9</b></figref> shows embodiments in which the folding-back unit <b>42</b> is implemented by the fixed shaft which is the thin fixing member, as in (b) of <figref idref="DRAWINGS">FIG. <b>5</b></figref>. (a) of <figref idref="DRAWINGS">FIG. <b>9</b></figref> shows a view equivalent to (b) of <figref idref="DRAWINGS">FIG. <b>5</b></figref>, (b) of <figref idref="DRAWINGS">FIG. <b>9</b></figref> is a plan view when viewed from an arrow direction in (a) of <figref idref="DRAWINGS">FIG. <b>9</b></figref> and shows a form of the fixing member having a simple bar shape, and (c) of <figref idref="DRAWINGS">FIG. <b>9</b></figref> is a plan view when viewed from the arrow direction in (a) of <figref idref="DRAWINGS">FIG. <b>9</b></figref> and shows a form of the fixing member having a bar shape in which both ends are each narrowed in a tapered shape. Since the both ends are each formed in the tapered shape, tension applied to the both ends of the folding-back unit <b>42</b> can be relaxed, and an effect of preventing meandering and wrinkling of the belt of the conveyor is also expected.</p>
+<p id="p-0116" num="0119"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows various embodiments of a cross-sectional shape of the folding-back unit <b>42</b> implemented by the rotating roller, (a) of <figref idref="DRAWINGS">FIG. <b>10</b></figref> shows a cross-sectional shape of a circular cross section, (b) of <figref idref="DRAWINGS">FIG. <b>10</b></figref> shows a cross-sectional shape of a cylindrical cross section, (c) of <figref idref="DRAWINGS">FIG. <b>10</b></figref> shows a cross-sectional shape of a polygonal (dodecahedral) cross section, (d) of <figref idref="DRAWINGS">FIG. <b>10</b></figref> shows a cross-sectional shape of a polygonal (decahedral) cross section, (e) of <figref idref="DRAWINGS">FIG. <b>10</b></figref> shows a cross-sectional shape of a polygonal (octahedral) cross section, and (f) of <figref idref="DRAWINGS">FIG. <b>10</b></figref> shows a cross-sectional shape of a polygonal (heptahedral) cross section. A form in each of (a) of <figref idref="DRAWINGS">FIG. <b>10</b></figref> and (b) of <figref idref="DRAWINGS">FIG. <b>10</b></figref> exhibits a circular cross section and includes a curved surface <b>42</b><i>a </i>including at least a circular arc, and a form in each of (c) to (f) of <figref idref="DRAWINGS">FIG. <b>10</b></figref> exhibits a polygonal cross section and includes a polyhedral surface <b>42</b><i>b</i>. Friction is generated on the belt of the conveyor due to contact with the folding-back unit <b>42</b>, but the belt of the conveyor is smoothly conveyed by an action of the curved surface <b>42</b><i>a </i>or the polyhedral surface <b>42</b><i>b</i>. The cross-sectional shape is preferably a polyhedron having six or more faces.</p>
+<p id="p-0117" num="0120">The rotating roller constituting the folding-back unit <b>42</b> is a small-diameter round bar, a hollow pipe having a diameter of, for example, 5 mm to 50 mm, a square bar having a polygonal cross section having six or more sides, or the like. The rotating roller may be an idler roller or a drive roller driven by a drive motor.</p>
+<p id="p-0118" num="0121"><figref idref="DRAWINGS">FIG. <b>11</b></figref> shows various embodiments of a cross-sectional shape of the folding-back unit <b>42</b> implemented by the fixing member, (a) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a circular cross section, (b) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a cylindrical cross section, (c) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows an elliptical cross section, (d) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a bullet-shaped cross section, (e) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a substantially rectangular cross section, (f) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a substantially rectangular cross section, (g) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a dome-shaped cross section, (h) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a sector-shaped cross section, (i) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a polygonal (dodecahedral) cross section, (j) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a polygonal (decahedral) cross section, (k) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a polygonal (octahedral) cross section, (l) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a polygonal (heptahedral) cross section, and (m) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a U-shaped cross section. A form in each of (a) to (h) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> and (m) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> exhibits a circular cross section and includes the curved surface <b>42</b><i>a </i>including at least a circular arc, and a form in each of (i) to (l) of <figref idref="DRAWINGS">FIG. <b>11</b></figref> exhibits a polygonal cross section and includes the polyhedral surface <b>42</b><i>b</i>. Friction is generated on the belt of the conveyor due to contact with the folding-back unit <b>42</b>, but the belt of the conveyor is smoothly conveyed by the action of the curved surface <b>42</b><i>a </i>or the polyhedral surface <b>42</b><i>b</i>. When the cross-sectional shape is polygonal, the cross-sectional shape is preferably a polygonal shape having six or more sides.</p>
+<p id="p-0119" num="0122">It is preferable that the curved surface <b>42</b><i>a </i>or the polyhedral surface <b>42</b><i>b </i>is subjected to various surface treatments by mirror polishing, ceramic thermal spraying, or the like to reduce a sliding resistance with the belt constituting the conveyor as much as possible, and is subjected to hard-facing by hardening treatment. The fixing member constituting the folding-back unit <b>42</b> may be implemented by a small-diameter round bar, a hollow pipe, a square bar having a polygonal cross section having six or more sides, or the like, which has a diameter or a thickness in a vertical direction of, for example, 5 mm to (less than) 50 mm. The surface treatments (surface modification, coating, and the like) are to improve a sliding property or smoothness and to improve wear resistance, and examples of the modification for a material surface include shot peening, nitridation treatment, and the like. Examples of the coating include, but are not limited to, titanium nitride-based coating, titanium carbonitride-based coating, diamond-like carbon (DLC) coating, chromium nitride-based coating, titanium-aluminum-nitride-based coating, chromium carbide-based coating, ceramic thermal spraying, or a laminated film in which these coatings are combined.</p>
+<p id="p-0120" num="0123">In the above embodiments, the tofu transfer mechanism <b>50</b> transfers the sheet-shaped tofu T from the continuous coagulation machine <b>10</b> to the continuous forming machine <b>30</b>. However, the tofu transfer mechanism <b>50</b> can transfer the sheet-shaped tofu T not only between the continuous coagulation machine <b>10</b> and the continuous forming machine <b>30</b> but also between other two production devices. For example, the tofu transfer mechanism <b>50</b> can transfer the sheet-shaped tofu T from the continuous coagulation machine <b>10</b> or the continuous forming machine <b>30</b> to a conveying device for a next process. The conveying device for a next process includes, for example, a cutting machine, a fryer, a freezer, and a packaging machine, and is not particularly limited. A wire net belt made of metal is generally used in a conveyor included in the fryer or the freezer. For example, the tofu transfer mechanism <b>50</b> can transfer the sheet-shaped tofu T to a tuning conveyor for the cutting machine that rotates in the same direction as the continuous forming machine <b>30</b>. In addition, the tofu transfer mechanism <b>50</b> can transfer the block-shaped tofu (or the cake of tofu) to an endless transfer conveyor that rotates in a direction intersecting with (crossing or orthogonal to) the continuous coagulation machine <b>10</b> or the continuous forming machine <b>30</b>, and the block-shaped tofu (or the cake of tofu) is obtained by cutting the sheet-shaped tofu T into a block shape or a strip shape.</p>
+<p id="p-0121" num="0124">That is, in the tofu continuous production device <b>1</b>, the tofu transfer mechanism <b>50</b> can transfer the sheet-shaped tofu from a first production device to a second production device. The first production device and the second production device are various devices used for producing the tofu, and types thereof are not particularly limited.</p>
+<p id="p-0122" num="0125"><figref idref="DRAWINGS">FIG. <b>12</b></figref> shows a tofu continuous production device <b>1</b> according to another embodiment, and the tofu continuous production device <b>1</b> includes the continuous coagulation machine <b>10</b>, the continuous forming machine <b>30</b>, a cutting machine <b>60</b>, and the tofu transfer mechanism <b>50</b>. Between the continuous coagulation machine <b>10</b> and the continuous forming machine <b>30</b>, the sheet-shaped tofu T is transferred by a plate-shaped transfer member <b>20</b>A in the related art. On the other hand, between the continuous forming machine <b>30</b> and the cutting machine <b>60</b>, the sheet-shaped tofu T is transferred by the tofu transfer mechanism <b>50</b> including a transfer member <b>20</b>B. The sheet-shaped tofu T transferred to the cutting machine <b>60</b> is cut into the block-shaped tofu by a cutting device <b>61</b> having a cutting blade.</p>
+<p id="p-0123" num="0126">That is, in the embodiment shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>, the first production device corresponds to the continuous forming machine <b>30</b>, and the second production device corresponds to the cutting machine <b>60</b>. The folding-back guide unit <b>40</b> is provided at a terminal end of the continuous forming machine <b>30</b> which is the first production device.</p>
+<p id="p-0124" num="0127"><figref idref="DRAWINGS">FIG. <b>13</b></figref> shows a tofu continuous production device <b>1</b> according to another embodiment, and the tofu continuous production device <b>1</b> includes the continuous coagulation machine <b>10</b>, the continuous forming machine <b>30</b>, the cutting machine <b>60</b>, a first tofu transfer mechanism <b>50</b>A, and a second tofu transfer mechanism <b>50</b>B. That is, between the continuous coagulation machine <b>10</b> and the continuous forming machine <b>30</b>, the sheet-shaped tofu T is transferred by the first tofu transfer mechanism <b>50</b>A that includes the transfer member <b>20</b>A and a folding-back guide unit <b>40</b>A. On the other hand, between the continuous forming machine <b>30</b> and the cutting machine <b>60</b>, the sheet-shaped tofu T is transferred by the second tofu transfer mechanism <b>50</b>B that includes the transfer member <b>20</b>B and a folding-back guide unit <b>40</b>B.</p>
+<p id="p-0125" num="0128">That is, in the embodiment shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>, the first production device corresponds to the continuous coagulation machine <b>10</b>, the second production device corresponds to the continuous forming machine <b>30</b>, and a third production device corresponds to the cutting machine <b>60</b>. The folding-back guide unit <b>40</b>A and the folding-back guide unit (the other folding-back guide unit) <b>40</b>B are respectively provided at the starting end and the terminal end of the continuous forming machine <b>30</b> which is the second production device.</p>
+<p id="p-0126" num="0129"><figref idref="DRAWINGS">FIG. <b>14</b></figref> shows a tofu continuous production device <b>1</b> according to another embodiment, and the tofu continuous production device <b>1</b> includes the continuous coagulation machine <b>10</b>, the continuous forming machine <b>30</b>, a conveying machine <b>70</b>, the first tofu transfer mechanism <b>50</b>A, and the second tofu transfer mechanism <b>50</b>B. That is, between the continuous coagulation machine <b>10</b> and the continuous forming machine <b>30</b>, the sheet-shaped tofu T is transferred by the first tofu transfer mechanism <b>50</b>A that includes the transfer member <b>20</b>A and the folding-back guide unit <b>40</b>A. On the other hand, between the continuous forming machine <b>30</b> and the conveying machine <b>70</b>, the sheet-shaped tofu T is transferred by the second tofu transfer mechanism <b>50</b>B that includes the transfer member <b>20</b>B and the folding-back guide unit <b>40</b>B. The cutting device <b>61</b> is provided at the terminal end of the continuous forming machine <b>30</b>, and the block-shaped tofu cut out by the cutting device <b>61</b> is sent to a next process by the conveying machine <b>70</b>. The conveying machine <b>70</b> conveys the block-shaped tofu in a direction orthogonal to the conveying direction of the continuous coagulation machine <b>10</b> and the continuous forming machine <b>30</b>. The device may be a form in which the transfer member <b>20</b>B does not exist (L=0) and the terminal end of the continuous forming machine <b>30</b> is disposed to slightly overlap with the conveying machine <b>70</b> when viewed from directly above so as to cover the conveying machine <b>70</b>.</p>
+<p id="p-0127" num="0130">That is, in the embodiment shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>, the first production device corresponds to the continuous coagulation machine <b>10</b>, the second production device corresponds to the continuous forming machine <b>30</b>, and the third production device corresponds to the conveying machine <b>70</b>. The folding-back guide unit <b>40</b>A and the folding-back guide unit (the other folding-back guide unit) <b>40</b>B are respectively provided at the starting end and the terminal end of the continuous forming machine <b>30</b> which is the second production device.</p>
+<p id="p-0128" num="0131"><figref idref="DRAWINGS">FIG. <b>15</b></figref> shows a tofu continuous production device <b>1</b> in the related art. The tofu continuous production device <b>1</b> includes the continuous coagulation machine <b>10</b>, the cutting machine <b>60</b>, and the tofu transfer mechanism <b>50</b>, and between the continuous coagulation machine <b>10</b> and the cutting machine <b>60</b>, the sheet-shaped tofu T is transferred by the plate-shaped transfer member <b>20</b> in the related art. The cutting machine <b>60</b> includes: a first cutting device <b>63</b> that cuts the sheet-shaped tofu T in the lateral direction (a direction perpendicular to the conveying direction and perpendicular to the drawing sheet); and a second cutting device <b>65</b> that cuts the sheet-shaped tofu T in a longitudinal direction (a direction along the conveying direction and along the drawing sheet). By these devices, the sheet-shaped tofu T is cut into the block-shaped tofu and transferred to a packing device (not illustrated)</p>
+<p id="p-0129" num="0132">Each of (a) to (c) of <figref idref="DRAWINGS">FIG. <b>16</b></figref> shows the continuous coagulation machine <b>10</b> and the cutting machine <b>60</b> in a tofu continuous production device <b>1</b> according to another embodiment of the present invention. The continuous coagulation machine <b>10</b> is for silken tofu or a curd for frozen silken tofu and serves as the first production device, and the cutting machine <b>60</b> serves as the second production device. In the tofu continuous production device <b>1</b> shown in (a) of <figref idref="DRAWINGS">FIG. <b>16</b></figref>, the tofu transfer mechanism <b>50</b> including the folding-back guide unit <b>40</b> is provided on a downstream side of the transfer member <b>20</b> in <figref idref="DRAWINGS">FIG. <b>15</b></figref>. In the tofu continuous production device <b>1</b> shown in (b) of <figref idref="DRAWINGS">FIG. <b>16</b></figref>, the first cutting device <b>63</b> in (a) of <figref idref="DRAWINGS">FIG. <b>16</b></figref> is provided on the continuous coagulation machine <b>10</b>, and only the second cutting device <b>65</b> is provided in the cutting machine <b>60</b>. The second cutting device <b>65</b> also has a function of cutting the sheet-shaped tofu T in the longitudinal direction and increasing an interval in the lateral direction.</p>
+<p id="p-0130" num="0133">In a form in (b) of <figref idref="DRAWINGS">FIG. <b>16</b></figref>, the first cutting device <b>63</b> is provided at the terminal end of the continuous coagulation machine <b>10</b> and the tofu can be cut in a state where there are side walls, and thus a shape can be accurately cut into a strip-shaped rectangular parallelepiped. When the sheet-shaped tofu T is transferred onto a conveyor of the cutting machine, the tofu sags due to softness of the tofu, and thus the tofu is difficult to be cut accurately and many extra parts exist on both ends. However, in the form, the tofu can be cut accurately without sagging at positions where side walls are located, and the extra parts can also be minimized.</p>
+<p id="p-0131" num="0134">The tofu continuous production device <b>1</b> in (c) of <figref idref="DRAWINGS">FIG. <b>16</b></figref> includes the continuous coagulation machine <b>10</b>, a distribution and alignment machine <b>80</b>, and the tofu transfer mechanism <b>50</b>. The continuous coagulation machine <b>10</b> is provided with the first cutting device <b>63</b>, and a roll cutter <b>67</b> that cuts the sheet-shaped tofu T in the longitudinal direction similarly to the second cutting device <b>65</b>. However, the roll cutter <b>67</b> does not have a function of increasing an interval in the lateral direction like the second cutting device <b>65</b>. The block-shaped tofu, which is obtained by cutting laterally elongated strip-shaped tofu into a block shape (for example, a cake) in the continuous coagulation machine <b>10</b>, is sent to the distribution and alignment machine <b>80</b> by the tofu transfer mechanism <b>50</b>. The adjacent tofu blocks are arranged in a staggered shape by a tofu conveyor below the distribution and alignment machine <b>80</b>, and a distribution and alignment device <b>81</b> including a staggered distribution member in which a comb-shaped stopper member moves up and down. In the staggered shape, an interval in the front-and-rear direction is increased. The distribution and alignment device <b>81</b> may include, for example, a suction device that suctions and lifts the block-shaped tofu, or may lift and move the block-shaped tofu.</p>
+<p id="p-0132" num="0135">That is, in the embodiments shown in (a) to (c) of <figref idref="DRAWINGS">FIG. <b>16</b></figref>, the first production device corresponds to the continuous coagulation machine <b>10</b>, and the second production device corresponds to the cutting machine <b>60</b> or the distribution and alignment machine <b>80</b>. Further, the folding-back guide unit <b>40</b> is provided at a starting end of the cutting machine <b>60</b> or the distribution and alignment machine <b>80</b> which is the second production device.</p>
+<p id="p-0133" num="0136"><figref idref="DRAWINGS">FIG. <b>17</b></figref> shows a tofu continuous production device <b>1</b> according to another embodiment, and the tofu continuous production device <b>1</b> includes the continuous coagulation machine <b>10</b>, the distribution and alignment machine <b>80</b>, and the tofu transfer mechanism <b>50</b>. In the present embodiment, in the continuous coagulation machine <b>10</b>, the roll cutter <b>67</b> first cuts the sheet-shaped tofu T in the longitudinal direction, and then the first cutting device <b>63</b> cuts the sheet-shaped tofu T in the lateral direction. The block-shaped tofu, which is obtained by cutting longitudinally strip-shaped tofu into a block shape (for example, a cake) in the continuous coagulation machine <b>10</b>, is sent to the distribution and alignment machine <b>80</b> by the tofu transfer mechanism <b>50</b>. The adjacent tofu blocks are arranged in a staggered shape by the tofu conveyor below the distribution and alignment machine <b>80</b>, and the distribution and alignment device <b>81</b> including the staggered distribution member in which the comb-shaped stopper member moves up and down. In the staggered shape, an interval in the front-and-rear direction is increased.</p>
+<p id="p-0134" num="0137">That is, in the embodiment shown in <figref idref="DRAWINGS">FIG. <b>17</b></figref>, the first production device corresponds to the continuous coagulation machine <b>10</b>, and the second production device corresponds to the distribution and alignment machine <b>80</b>. Further, the folding-back guide unit <b>40</b> is provided at the starting end of the distribution and alignment machine <b>80</b> which is the second production device.</p>
+<p id="p-0135" num="0138"><figref idref="DRAWINGS">FIG. <b>18</b></figref> shows a tofu continuous production device <b>1</b> according to another embodiment, and the tofu continuous production device <b>1</b> includes the continuous coagulation machine <b>10</b>, the continuous forming machine <b>30</b>, the conveying machine <b>70</b>, the tofu transfer mechanism <b>50</b>, and the cutting machine <b>60</b>. In the present embodiment, at the terminal end of the continuous forming machine <b>30</b>, the first cutting device <b>63</b> cuts the sheet-shaped tofu T in the lateral direction. The conveying machine <b>70</b> conveys, in a direction, the strip-shaped tofu cut only in the lateral direction, and sends the strip-shaped tofu to a next process, and the direction intersects at a right angle with the conveying direction of the continuous forming machine <b>30</b>.</p>
+<p id="p-0136" num="0139">That is, in the embodiment shown in <figref idref="DRAWINGS">FIG. <b>18</b></figref>, the first production device corresponds to the continuous coagulation machine <b>10</b>, the second production device corresponds to the continuous forming machine <b>30</b>, and the third production device corresponds to the cutting machine <b>60</b> that laterally performs cutting. The folding-back guide unit <b>40</b>A and the folding-back guide unit (the other folding-back guide unit) <b>40</b>B are respectively provided at the starting end and the terminal end of the continuous forming machine <b>30</b> which is the second production device.</p>
+<p id="p-0137" num="0140"><figref idref="DRAWINGS">FIG. <b>19</b></figref> shows a tofu continuous production device <b>1</b> according to another embodiment, and the tofu continuous production device <b>1</b> includes the continuous coagulation machine <b>10</b>, the continuous cutting machine <b>60</b>, the conveying machine <b>70</b>, and the tofu transfer mechanism <b>50</b>. In the present embodiment, in the continuous cutting machine <b>60</b>, the roll cutter <b>67</b> first cuts the sheet-shaped tofu T in the longitudinal direction, and then the first cutting device <b>63</b> cuts the sheet-shaped tofu T in the lateral direction. The conveying machine <b>70</b> conveys, for example, a cake or several cakes of the cut block-shaped tofu, and sends the block-shaped tofu to a next process.</p>
+<p id="p-0138" num="0141">That is, in the embodiment shown in <figref idref="DRAWINGS">FIG. <b>19</b></figref>, the first production device corresponds to the continuous coagulation machine <b>10</b>, the second production device corresponds to the continuous cutting machine <b>60</b>, and the third production device corresponds to the conveying machine <b>70</b>. The folding-back guide unit <b>40</b>A and the folding-back guide unit (the other folding-back guide unit) <b>40</b>B are respectively provided at a starting end and a terminal end of the continuous cutting machine <b>60</b> which is the second production device.</p>
+<p id="p-0139" num="0142">The conveyor included in the continuous forming machine <b>30</b> which is the first or second production device shown in <figref idref="DRAWINGS">FIGS. <b>12</b> to <b>14</b>, <b>18</b>, and <b>19</b></figref> may be other than a metal belt, a food belt, a Teflon belt, a wire net belt, or the like in which the diameter (the thickness) of the folding-back unit is large (thick) and is 50 mm or more. That is, the conveyor included in the continuous forming machine <b>30</b> is preferably the resin filter fabric belt, the food belt, or the Teflon belt that forms the knife-edge-shaped folding-back unit whose diameter (thickness) is small (thin) and is 5 mm or more and less than 50 mm, and preferably 5 mm to 30 mm. Other forms may be a wire net conveyor (the glasses link belt conveyor, the flat flex conveyor, the chocolate conveyor, or the like) that includes the wire net belt, and the like, and the wire net belt is made of a wire net or a wire mesh made of stainless steel or the like. Therefore, the conveyor included in the continuous forming machine <b>30</b> is not particularly limited as long as the material or form is the flexible and tough material capable of forming a knife-edge-shaped fold.</p>
+<p id="p-0140" num="0143">An endless conveyor included in the cutting machine <b>60</b>, the conveying machine <b>70</b>, or the distribution and alignment machine <b>80</b> which is the second or third production device shown in <figref idref="DRAWINGS">FIGS. <b>12</b> to <b>14</b>, <b>18</b>, and <b>19</b></figref> is preferably a food belt, a Teflon belt, or a metal belt, which includes a shaft that has a diameter of 50 mm or more and that has a relatively large diameter at a front end. The food belt or the Teflon belt has a diameter of 50 mm to 300 mm, and the metal belt has a diameter of 300 mm&#x3c6; to 1500 mm&#x3c6; and preferably has a diameter of 500 mm&#x3c6; to 1000 mm&#x3c6;. Other forms of the endless conveyor may be a resin filter fabric belt and a wire net conveyor (a glasses link belt conveyor, a flat flex conveyor, a chocolate conveyor, or the like) including a wire net belt, the wire net belt is made of a wire or a wire mesh made of stainless steel or the like, and the food belt in a broad sense may be a roller conveyor, a top chain conveyor made of a metal such as stainless steel or a resin, a slat band chain conveyor, a plastic modular chain conveyor, a plastic top chain conveyor made of a resin, or the like. That is, the endless conveyor included in the cutting machine <b>60</b>, the conveying machine <b>70</b>, or the distribution and alignment machine <b>80</b> is not particularly limited as long as a material thereof is a belt material that forms the folding-back unit having the diameter (the thickness) of 50 mm or more. Further, the conveyor of the second or third production device may convey the tofu in a direction intersecting with the tofu conveying direction of the first or second production device, and a material of the conveyor of the second or third production device in this case is not particularly limited.</p>
+<p id="p-0141" num="0144">Although not illustrated, the first production device and the second production device may be interchanged (similarly to <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref>, the conveyor may be a food belt including a shaft having a relatively large diameter at a rear end of the first production device, and the second production device may use a flexible material to form a knife edge at a front end).</p>
+<p id="p-0142" num="0145">Although not illustrated, both the first production device and the second production device may use a belt made of a flexible material to form a knife-edge-shaped fold (for example, another device or a transverse passage can be provided in a lower space).</p>
+<p id="p-0143" num="0146">A hardness of the sheet-shaped tofu T transferred from the continuous coagulation machine <b>10</b> is, for example, 1 kN/m<sup>2 </sup>to 100 kN/m<sup>2</sup>, or preferably 20 kN/m<sup>2 </sup>to 10 kN/m<sup>2</sup>. Tofu does not have a shape retaining property and transferring itself is difficult when the tofu is soft, whereas hard tofu is advantageous for transfer and transferring is easy when the tofu is too hard.</p>
+<p id="p-0144" num="0147">According to the tofu transfer mechanism <b>50</b> of the present embodiment, the distance between the continuous coagulation machine <b>10</b> and the continuous forming machine <b>30</b> is shortened, and the length of the transfer member <b>20</b> in the conveying direction is also shortened. Further, the difference in height between the continuous coagulation machine <b>10</b> and the continuous forming machine <b>30</b> can also be reduced and the inclination of the transfer member <b>20</b> can also be reduced. Therefore, it is possible to reduce the length and the height of the entire tofu continuous production device <b>1</b> and achieve space saving. As a result, for example, a space (height) occupied by the device in a factory can be reduced, a ceiling height can be lowered accordingly, construction cost can also be reduced, an amount of a steel material constituting the machine is also small, initial cost is reduced, and the device is excellent in economic efficiency.</p>
+<p id="p-0145" num="0148">By reducing the length of the transfer member <b>20</b> in the conveying direction and the inclination angle of the transfer member <b>20</b>, the tofu can also be smoothly transferred, and the trouble such as the breakage of the tofu can also be prevented. It is also possible to reduce the water sprayed onto the transfer member <b>20</b>. Even when the water is sprayed onto the transfer member <b>20</b>, a small amount of water is required, the water can be saved, and an amount of discharged water can also be reduced to reduce burden on a purification tank. The device is economical because running cost is also reduced, for example, a work time and effort for performing fine adjustment on an amount of sprayed water according to a sliding condition of the tofu is reduced and work efficiency is improved.</p>
+<p id="p-0146" num="0149">Since the sliding resistance when the sheet-shaped tofu T passes through the transfer member <b>20</b> can be reduced, even soft tofu that is not hard tofu is also likely to pass through the transfer member <b>20</b> stably. Generally, in order to make the tofu hard, means such as increasing a concentration of soymilk or increasing an addition amount of a coagulant is used. When the addition amount of the coagulant is increased, secondary coagulation is performed by heat sterilization, an amount of separated water from the tofu tends to increase, and an umami taste thereof also tends to escape. According to the present invention, it is possible to appropriately control the addition amount of the coagulant, and it is possible to provide tofu that is slightly soft but has elasticity, is increased in water retention capacity, small in taste loss even after heat sterilization, more delicious, smooth and improved in texture. When there is a change in tofu quality due to a difference in tofu product type or a change in soybean quality, the sliding behavior (the sliding resistance) on the transfer member may change. However, since the transfer member is small (a transfer distance is short), it is difficult for the tofu to break down or to stop and accumulate, the tofu is not easily affected, and the trouble and the loss can also be reduced. Since the tofu has the water retention capacity, an improvement in yield is also expected especially when the tofu is pressed and compacted like the cotton tofu or the like.</p>
+<p id="p-0147" num="0150">The present invention is not limited to the above embodiments, and modifications, improvements, and the like are possible as appropriate. In addition, a material, a shape, a dimension, a numerical value, a form, the number, a disposition position, and the like of each of components in the above embodiments are not limited as long as the present invention can be achieved. The components in the above embodiments may be combined freely within a range not departing from the spirit of the present invention.</p>
+<p id="p-0148" num="0151">The present application is based on Japanese Patent Application No. 2020-082738 filed on May 8, 2020, the contents of which are incorporated herein by reference.</p>
+<heading id="h-0011" level="1">REFERENCE SIGNS LIST</heading>
+<p id="p-0149" num="0000">
+<ul id="ul0002" list-style="none">
+    <li id="ul0002-0001" num="0000">
+    <ul id="ul0003" list-style="none">
+        <li id="ul0003-0001" num="0152"><b>1</b>: tofu continuous production device</li>
+        <li id="ul0003-0002" num="0153"><b>10</b>: continuous coagulation machine</li>
+        <li id="ul0003-0003" num="0154"><b>20</b>: transfer member</li>
+        <li id="ul0003-0004" num="0155"><b>30</b>: continuous forming machine</li>
+        <li id="ul0003-0005" num="0156"><b>31</b>: upper endless conveyor</li>
+        <li id="ul0003-0006" num="0157"><b>32</b>: lower endless conveyor</li>
+        <li id="ul0003-0007" num="0158"><b>32</b><i>a</i>: folding-back surface</li>
+        <li id="ul0003-0008" num="0159"><b>40</b>: folding-back guide unit</li>
+        <li id="ul0003-0009" num="0160"><b>42</b>: folding-back unit</li>
+        <li id="ul0003-0010" num="0161"><b>44</b>: folding-back assisting unit</li>
+        <li id="ul0003-0011" num="0162"><b>50</b>: tofu transfer mechanism</li>
+        <li id="ul0003-0012" num="0163"><b>60</b>: cutting machine</li>
+        <li id="ul0003-0013" num="0164"><b>61</b>: cutting device</li>
+        <li id="ul0003-0014" num="0165"><b>63</b>: first cutting device</li>
+        <li id="ul0003-0015" num="0166"><b>65</b>: second cutting device</li>
+        <li id="ul0003-0016" num="0167"><b>67</b>: roll cutter</li>
+        <li id="ul0003-0017" num="0168"><b>70</b>: conveying machine</li>
+        <li id="ul0003-0018" num="0169"><b>80</b>: distribution and alignment machine</li>
+        <li id="ul0003-0019" num="0170"><b>81</b>: distribution and alignment device</li>
+        <li id="ul0003-0020" num="0171">V: virtual plane</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A tofu transfer mechanism configured to transfer tofu from a first production device to a second production device in a tofu continuous production device, the tofu transfer mechanism comprising:
+<claim-text>a transfer member disposed so as to bridge a terminal end of the first production device and a starting end of the second production device, the starting end of the second production device facing the terminal end of the first production device; and</claim-text>
+<claim-text>a folding-back guide unit configured to guide an endless conveyor of the second production device at the starting end of the second production device such that the endless conveyor of the second production device is bent downward at an acute angle with respect to a conveyance surface on which the tofu is conveyed.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein the folding-back guide unit comprises:
+<claim-text>a folding-back unit configured to bend the endless conveyor of the second production device downward; and</claim-text>
+<claim-text>a folding-back assisting unit disposed farther from the terminal end of the first production device than the folding-back unit and disposed below the folding-back unit, and</claim-text>
+</claim-text>
+<claim-text>wherein the endless conveyor of the second production device bent by the folding-back unit is bridged over the folding-back assisting unit, so that the acute angle is maintained at a bent portion of the endless conveyor of the second production device at the folding-back unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00002">claim 2</claim-ref>,
+<claim-text>wherein an angle &#x3b1; formed by the conveyance surface of the endless conveyor of the second production device and a virtual plane is 90&#xb0;&#x3c;&#x3b1;&#x3c;270&#xb0;,</claim-text>
+<claim-text>where the virtual plane is defined as a plane obtained by rotating a folding-back surface by 180 degrees about the folding-back unit, the folding-back surface extending from the folding-back unit toward the folding-back assisting unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00002">claim 2</claim-ref>,
+<claim-text>wherein the folding-back unit comprises a rotating roller or a fixing member.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00004">claim 4</claim-ref>,
+<claim-text>wherein a cross-sectional shape of the rotating roller is circular or polygonal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00004">claim 4</claim-ref>,
+<claim-text>wherein the fixing member has a cross-sectional shape including at least a circular arc.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00002">claim 2</claim-ref>,
+<claim-text>wherein each of both ends of the folding-back unit has a tapered shape.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein a conveyor of the first production device comprises any one of a metal belt, a Teflon belt, and a food belt.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein the endless conveyor of the second production device comprises any one of a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein a hardness of the tofu transferred from the first production device is 1 kN/m<sup>2 </sup>to 100 kN/m<sup>2</sup>.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. A tofu continuous production device comprising:
+<claim-text>the tofu transfer mechanism according to <claim-ref idref="CLM-00001">claim 1</claim-ref>;</claim-text>
+<claim-text>the first production device; and</claim-text>
+<claim-text>the second production device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The tofu continuous production device according to <claim-ref idref="CLM-00011">claim 11</claim-ref>,
+<claim-text>wherein a rearmost end of the first production device and a foremost end of the second production device at the folding-back unit are close to each other in a horizontal direction or in contact with each other in the horizontal direction, or overlap with each other in the horizontal direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The tofu continuous production device according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising:
+<claim-text>a cutting device on the first production device,</claim-text>
+<claim-text>wherein the tofu is cut and then transferred to the endless conveyor of the second production device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. A tofu transfer mechanism configured to transfer tofu from a first production device to a second production device in a tofu continuous production device, the tofu transfer mechanism comprising:
+<claim-text>a transfer member disposed so as to bridge a terminal end of the first production device and a starting end of the second production device, the starting end of the second production device facing the terminal end of the first production device; and</claim-text>
+<claim-text>a folding-back guide unit configured to guide an endless conveyor of the first production device at the terminal end of the first production device such that the endless conveyor of the first production device is bent downward at an acute angle with respect to a conveyance surface on which the tofu is conveyed.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00014">claim 14</claim-ref>,
+<claim-text>wherein the folding-back guide unit comprises:
+<claim-text>a folding-back unit configured to bend the endless conveyor of the first production device downward; and</claim-text>
+<claim-text>a folding-back assisting unit disposed farther from the starting end of the second production device than the folding-back unit and disposed below the folding-back unit, and</claim-text>
+</claim-text>
+<claim-text>wherein the endless conveyor of the first production device bent by the folding-back unit is bridged over the folding-back assisting unit, so that the acute angle is maintained at a bent portion of the endless conveyor of the first production device at the folding-back unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00015">claim 15</claim-ref>,
+<claim-text>wherein an angle &#x3b1; formed by the conveyance surface of the endless conveyor of the first production device and a virtual plane is 90&#xb0;&#x3c;&#x3b1;&#x3c;270&#xb0;,</claim-text>
+<claim-text>where the virtual plane is defined as a plane obtained by rotating a folding-back surface by 180 degrees about the folding-back unit, the folding-back surface extending from the folding-back unit toward the folding-back assisting unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00015">claim 15</claim-ref>,
+<claim-text>wherein the folding-back unit comprises a rotating roller or a fixing member.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00017">claim 17</claim-ref>,
+<claim-text>wherein a cross-sectional shape of the rotating roller is circular or polygonal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00017">claim 17</claim-ref>,
+<claim-text>wherein the fixing member has a cross-sectional shape including at least a circular arc.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00015">claim 15</claim-ref>,
+<claim-text>wherein each of both ends of the folding-back unit has a tapered shape.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00014">claim 14</claim-ref>,
+<claim-text>wherein a conveyor of the second production device comprises any one of a metal belt, a Teflon belt, a food belt, and a wire net belt.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00014">claim 14</claim-ref>,
+<claim-text>wherein a conveyor of the second production device is configured to convey the tofu in a direction intersecting with a tofu conveying direction of the first production device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00014">claim 14</claim-ref>,
+<claim-text>wherein the endless conveyor of the first production device comprises any one of a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The tofu transfer mechanism according to <claim-ref idref="CLM-00014">claim 14</claim-ref>,
+<claim-text>wherein a hardness of the tofu transferred from the first production device is 1 kN/m<sup>2 </sup>to 100 kN/m<sup>2</sup>.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. A tofu continuous production device comprising:
+<claim-text>the tofu transfer mechanism according to <claim-ref idref="CLM-00014">claim 14</claim-ref>;</claim-text>
+<claim-text>the first production device; and</claim-text>
+<claim-text>the second production device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The tofu continuous production device according to <claim-ref idref="CLM-00025">claim 25</claim-ref>,
+<claim-text>wherein a rearmost end of the first production device at the folding-back unit and a foremost end of the second production device are close to each other in a horizontal direction or in contact with each other in the horizontal direction, or overlap with each other in a horizontal direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. The tofu continuous production device according to <claim-ref idref="CLM-00025">claim 25</claim-ref>, further comprising:
+<claim-text>a cutting device on the first production device,</claim-text>
+<claim-text>wherein the tofu is cut and then transferred to an endless conveyor of the second production device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. A tofu continuous production device comprising:
+<claim-text>a first production device comprising an endless conveyor; and</claim-text>
+<claim-text>a second production device comprising an endless conveyor,</claim-text>
+<claim-text>wherein the tofu continuous production device is configured to transfer tofu from the first production device to the second production device, and</claim-text>
+<claim-text>wherein the tofu continuous production device further comprises:</claim-text>
+<claim-text>a folding-back guide unit at an end of the production device, the end of the production device being one of a terminal end of the first production device and a starting end of the second production device, the starting end of the second production device facing the terminal end of the first production device, the folding-back guide unit being configured to guide the endless conveyor of the production device such that the endless conveyor of the production device is bent downward at an acute angle with respect to a conveyance surface on which the tofu is conveyed.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. The tofu continuous production device according to <claim-ref idref="CLM-00028">claim 28</claim-ref>, further comprising:
+<claim-text>a transfer member disposed so as to bridge the terminal end of the first production device and the starting end of the second production device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. The tofu continuous production device according to <claim-ref idref="CLM-00028">claim 28</claim-ref>,
+<claim-text>wherein the folding-back guide unit comprises:
+<claim-text>a folding-back unit configured to bend the endless conveyor of the second production device downward; and</claim-text>
+<claim-text>a folding-back assisting unit disposed farther from the terminal end of the first production device than the folding-back unit and disposed below the folding-back unit, and</claim-text>
+</claim-text>
+<claim-text>wherein the endless conveyor of the second production device bent by the folding-back unit is bridged over the folding-back assisting unit, so that the acute angle is maintained at a bent portion of the endless conveyor of the second production device at the folding-back unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text><b>31</b>. The tofu continuous production device according to <claim-ref idref="CLM-00028">claim 28</claim-ref>,
+<claim-text>wherein the folding-back guide unit is provided at the starting end of the second production device,</claim-text>
+<claim-text>wherein the first production device is a continuous coagulation machine in which the endless conveyor comprises any one of a metal belt, a Teflon belt, and a food belt, and</claim-text>
+<claim-text>wherein the second production device is any one of a continuous forming machine, a cutting machine, a conveying machine, and a distribution and alignment machine, in which the endless conveyor comprises any one of a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text><b>32</b>. The tofu continuous production device according to <claim-ref idref="CLM-00028">claim 28</claim-ref>,
+<claim-text>wherein the folding-back guide unit is provided at the terminal end of the first production device,</claim-text>
+<claim-text>wherein the first production device is a continuous forming machine in which the endless conveyor comprises any one of a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt, and</claim-text>
+<claim-text>wherein the second production device is any one of a cutting machine, a conveying machine, and a distribution and alignment machine, in which the endless conveyor comprises any one of a metal belt, a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text><b>33</b>. The tofu continuous production device according to <claim-ref idref="CLM-00028">claim 28</claim-ref>, further comprising:
+<claim-text>a third production device comprising an endless conveyor,</claim-text>
+<claim-text>wherein the tofu is transferred from the second production device to the third production device, and</claim-text>
+<claim-text>wherein the tofu continuous production device further comprises another folding-back guide unit at an end of the production device, the end of the production device being one of a terminal end of the second production device and a starting end of the third production device, the starting end of the third production device facing the terminal end of the second production device, the another folding-back guide unit being configured to guide the endless conveyor of the production device such that the endless conveyor of the production device is bent downward at an acute angle with respect to a conveyance surface on which the tofu is conveyed.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00034" num="00034">
+<claim-text><b>34</b>. The tofu continuous production device according to <claim-ref idref="CLM-00033">claim 33</claim-ref>,
+<claim-text>wherein the folding-back guide unit is provided at the starting end of the second production device, and the another folding-back guide unit is provided at the terminal end of the second production device,</claim-text>
+<claim-text>wherein the first production device is a continuous coagulation machine in which the endless conveyor comprises any one of a metal belt, a Teflon belt, and a food belt,</claim-text>
+<claim-text>wherein the second production device is a continuous forming machine in which the endless conveyor comprises any one of a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt, and</claim-text>
+<claim-text>wherein the third production device is any one of a cutting machine, a conveying machine, and a distribution and alignment machine, in which the endless conveyor comprises any one of a metal belt, a resin filter fabric belt, a Teflon belt, a food belt, and a wire net belt.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00035" num="00035">
+<claim-text><b>35</b>. The tofu continuous production device according to <claim-ref idref="CLM-00028">claim 28</claim-ref>,
+<claim-text>wherein the endless conveyor of the first production device is a first endless conveyor,</claim-text>
+<claim-text>wherein the endless conveyor of the second production device is a second endless conveyor,</claim-text>
+<claim-text>wherein the tofu continuous production device is configured to transfer, from the first endless conveyor to the second endless conveyor, the tofu for which a production process conducted at the first production device has been completed, and then conduct a production process for the tofu at the second production device,</claim-text>
+<claim-text>wherein the first production device comprises a first drive roller provided on a side of the second endless conveyor, the first drive roller being configured to drive the first endless conveyor,</claim-text>
+<claim-text>wherein the folding-back guide unit is provided in the second production device on a side of the first endless conveyor, the folding-back guide unit being configured to contact a back surface of a conveyance surface of the second endless conveyor and fold back the conveyance surface in a knife edge shape,</claim-text>
+<claim-text>wherein the second production device further comprises a folding-back assisting unit provided at a position farther from the first endless conveyor than the folding-back guide unit, the folding-back assisting being configured to contact a front surface of the conveyance surface and change a traveling direction of the conveyance surface,</claim-text>
+<claim-text>wherein a height position of the folding-back guide unit as viewed from a horizontal direction is located between a center of the first drive roller and a conveyance surface of the first endless conveyor or at a same height as the conveyance surface of the first endless conveyor, and</claim-text>
+<claim-text>wherein a position of the folding-back guide unit as viewed from above is located at a position overlapping with the first drive roller.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00036" num="00036">
+<claim-text><b>36</b>. The tofu continuous production device according to <claim-ref idref="CLM-00028">claim 28</claim-ref>,
+<claim-text>wherein the endless conveyor of the first production device is a first endless conveyor,</claim-text>
+<claim-text>wherein the endless conveyor of the second production device is a second endless conveyor,</claim-text>
+<claim-text>wherein the tofu continuous production device is configured to transfer, from the first endless conveyor to the second endless conveyor, the tofu for which a production process conducted at the first production device has been completed, and then conduct a production process for the tofu at the second production device,</claim-text>
+<claim-text>wherein the second production device comprises a second drive roller provided on a side of the first endless conveyor, the second drive roller being configured to drive the second endless conveyor,</claim-text>
+<claim-text>wherein the folding-back guide unit is provided in the first production device on a side of the second endless conveyor, the folding-back guide unit being configured to contact a back surface of a conveyance surface of the first endless conveyor and fold back the conveyance surface in a knife edge shape,</claim-text>
+<claim-text>wherein the first production device further comprises a folding-back assisting unit provided at a position farther from the second endless conveyor than the folding-back guide unit, the folding-back assisting being configured to contact a front surface of the conveyance surface and change a traveling direction of the conveyance surface,</claim-text>
+<claim-text>wherein a height position of the folding-back guide unit as viewed from a horizontal direction is located at a same height as a conveyance surface of the second endless conveyor, and</claim-text>
+<claim-text>wherein a position of the folding-back guide unit as viewed from above is located at a position overlapping with the second drive roller.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

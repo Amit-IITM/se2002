@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225378A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225378</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18002544</doc-number>
+<date>20210623</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EP</country>
+<doc-number>20182109.7</doc-number>
+<date>20200624</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>11</main-group>
+<subgroup>60</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20210101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>11</main-group>
+<subgroup>60</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">METHOD FOR THE TREATMENT OF PROTEIN-CONTAINING COMPOSITIONS</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>SOCIETE DES PRODUITS NESTLE S.A.</orgname>
+<address>
+<city>Vevey</city>
+<country>CH</country>
+</address>
+</addressbook>
+<residence>
+<country>CH</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>ANANTA</last-name>
+<first-name>EDWIN</first-name>
+<address>
+<city>Epalinges</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>BIEHL</last-name>
+<first-name>JAN</first-name>
+<address>
+<city>Thun</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>DENG</last-name>
+<first-name>YUXI</first-name>
+<address>
+<city>Bern</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>LIANG</last-name>
+<first-name>YOUYUN</first-name>
+<address>
+<city>Singapore</city>
+<country>SG</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>MERZ</last-name>
+<first-name>MICHAEL</first-name>
+<address>
+<city>Bern</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>WIDMER</last-name>
+<first-name>CHRISTOPH THOMAS</first-name>
+<address>
+<city>Kehrsatz</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2021/067247</doc-number>
+<date>20210623</date>
+</document-id>
+<us-371c12-date><date>20221220</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention relates to a method for treatment of a plant-based protein-containing composition comprising the steps of subjecting the protein-containing composition to a protein-deamidase treatment and to high-pressure homogenization. The invention further concerns a plant-based protein-containing composition that can be obtained by the inventive method as well as the use of the plant-based protein-containing composition obtained by the inventive method as a food, a food additive, or a starting material for the production of food.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="106.43mm" wi="119.13mm" file="US20230225378A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="226.48mm" wi="146.22mm" file="US20230225378A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="217.34mm" wi="151.81mm" file="US20230225378A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="191.09mm" wi="134.79mm" file="US20230225378A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="229.53mm" wi="151.13mm" file="US20230225378A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="188.55mm" wi="120.65mm" file="US20230225378A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to the method for treatment of a plant-based protein-containing composition comprising the steps of subjecting the protein-containing composition to a protein-deamidase treatment and to high-pressure homogenization. The invention further concerns a plant-based protein-containing composition that can be obtained by the inventive method as well as the use of the plant-based protein-containing composition obtained by the inventive method as a food, a food additive, or a starting material for the production of food.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Food products and food additives showing a high protein content are highly desirable in the food industry due to their excellent functional and nutritional properties.</p>
+<p id="p-0004" num="0003">Apart from well-known nutritional benefits of high protein foods, protein functionalities in aqueous food systems mainly refer to emulsifying properties, foaming ability and gelling ability. The emulsifying ability is one of the most important functionalities of food proteins, since emulsions are commonly systems existing in various aqueous foods. Thereby, good protein solubility is an important precondition for good emulsifying, foaming and gelling properties.</p>
+<p id="p-0005" num="0004">However, many proteins occurring in food materials do not show sufficient solubility in aqueous foods, which significantly limits their use in food applications in terms of protein amounts as well as protein-derived functionalities.</p>
+<p id="p-0006" num="0005">Therefore, improvement of water solubility of these proteins is needed to extend the range of possible food applications.</p>
+<p id="p-0007" num="0006">Hence, there is a need for processing methods that are food grade, controllable, effective and specific in improving protein functionality. Moreover, methods are required that do not change the properties of other compounds in the protein-containing material in a non-favorable way.</p>
+<p id="p-0008" num="0007">Deamidation is one type of modification that can improve solubility and other functional properties of food proteins. Hydrolysis by deamidation can alter secondary and tertiary structure of proteins by removal of amide groups from glutamine and asparagine residues. During deamidation amide groups are converted into acid residues (carboxyl groups) with the subsequent release of ammonia. This leads to a decrease in the isoelectric point (pI) of the protein due to the increase in number of negatively charged carboxyl groups. As a consequence, deamidated proteins will be more soluble under weekly acidic conditions. Deamidation can be conducted both enzymatically and non-enzymatically (chemically). Enzymatic deamidation has several advantages over chemical methods, including mild reaction conditions, higher specificity and greater safety. Enzymes that have been used for protein deamidation include protease, peptide-glutaminase and protein-glutaminase (PG).</p>
+<p id="p-0009" num="0008">In WO 2014/123466 A1 a process is described, wherein deamidation is carried out for oat material to improve the solubility of oat protein.</p>
+<p id="p-0010" num="0009">EP 3437481 A1 relates to a production method of yoghurt, comprising adding a particular enzyme (PG) and starch.</p>
+<p id="p-0011" num="0010">However, there is still a need in the food industry for methods that allow for further improvement of the protein solubility to extend the range of possible applications. This particularly applies to proteins that show only very little solubility in aqueous foods by nature.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0012" num="0011">In a first aspect, the invention to a method for the treatment of a plant-based protein-containing composition, the method comprising the steps of:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0012">a) subjecting the protein-containing composition to a protein-deamidase treatment; and</li>
+        <li id="ul0002-0002" num="0013">b) subjecting the composition obtained in step a) to high-pressure homogenization.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0013" num="0014">In a second aspect, the invention relates to a plant-based protein-containing composition obtained by the method according to any of claims <b>1</b> to <b>10</b>.</p>
+<p id="p-0014" num="0015">The invention furthermore a use of a plant-based protein-containing composition according to any of claims <b>11</b> to <b>14</b> as a food, a food additive, or a starting material for the production of food.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">DESCRIPTION OF THE FIGURES</heading>
+<p id="p-0015" num="0016"><figref idref="DRAWINGS">FIG. <b>1</b></figref> Process diagram for the treatment of soy flour</p>
+<p id="p-0016" num="0017"><figref idref="DRAWINGS">FIG. <b>2</b></figref> Protein solubility of soy flour without enzymatic treatment and high-pressure homogenization (initial); protein solubility after enzymatic treatments only (PG+FoodPro CBL); protein solubility after high-pressure homogenization only (with homo); protein solubility after both enzymatic treatments and high-pressure homogenization (PG+FoodPro CBL+homo).</p>
+<p id="p-0017" num="0018"><figref idref="DRAWINGS">FIG. <b>3</b></figref> Enzymatic treatment with soy flour: PG ratio of 100:1, left column&#x2014;only enzymatic treatments have been carried out (PG+FoodPro CBL), right column&#x2014;both enzymatic treatments and high-pressure homogenization have been carried out (values correspond to <figref idref="DRAWINGS">FIG. <b>2</b></figref>); Enzymatic treatment with soy flour: PG ratio of 200:1, left column&#x2014;only enzymatic treatments have been carried out (PG+FoodPro CBL), right column&#x2014;both enzymatic treatments and high-pressure homogenization has been carried out; Enzymatic treatment with soy flour:PG ratio of 1000:1, left column&#x2014;only enzymatic treatments have been carried out (PG+FoodPro CBL), right column&#x2014;both enzymatic treatments and high-pressure homogenization has been carried out.</p>
+<p id="p-0018" num="0019"><figref idref="DRAWINGS">FIG. <b>4</b></figref> Process diagram for the treatment of four milk analogue variants.</p>
+<p id="p-0019" num="0020"><figref idref="DRAWINGS">FIG. <b>5</b></figref> LUMiFuge transmission images for the milk analogue variants.</p>
+<p id="p-0020" num="0021"><figref idref="DRAWINGS">FIG. <b>6</b></figref> Milk analogue variants after 24 h and 48 h</p>
+<p id="p-0021" num="0022"><figref idref="DRAWINGS">FIG. <b>7</b></figref> The delta backscattering analyses of the milk analogue variants after 3 and 7 days.</p>
+<p id="p-0022" num="0023"><figref idref="DRAWINGS">FIG. <b>8</b></figref> Foam height and liquid height for the milk analogue variants over a period of 1 hour.</p>
+<p id="p-0023" num="0024"><figref idref="DRAWINGS">FIG. <b>9</b></figref> Scheme for sesame and sunflower press cakes is illustrated.</p>
+<p id="p-0024" num="0025"><figref idref="DRAWINGS">FIG. <b>10</b></figref> The protein solubility in sesame press cake are shown.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0025" num="0026">The invention relates to a method for the treatment of a plant-based protein-containing composition, the method comprising the steps of:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0027">c) subjecting the protein-containing composition to a protein-deamidase treatment;</li>
+        <li id="ul0004-0002" num="0028">d) subjecting the composition obtained in step a) to high-pressure homogenization.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0026" num="0029">Under plant-based protein-containing composition is understood any plant-based or plant-derived composition that comprises proteins. The composition can be either a naturally occurring composition or a composition that has already been subjected to any form of food processing.</p>
+<p id="p-0027" num="0030">In a preferred embodiment of the method according to the invention the plant-based protein-containing composition is subjected to a carbohydrate-hydrolyzing enzyme in step a).</p>
+<p id="p-0028" num="0031">It is furthermore preferred that enzymes in step a) are added simultaneously or sequentially.</p>
+<p id="p-0029" num="0032">In a preferred embodiment, the plant-based protein-containing composition is selected from the group consisting of cocoa bean, coffee bean, kidney bean, bran, lupin, wheat, walnut, hemp, microalgae, soy, white rice, brown rice, pea, corn, potato, rapeseed, or any mixtures thereof.</p>
+<p id="p-0030" num="0033">In another preferred embodiment, the plant-based protein-containing composition is soy flour, or press cake, preferably peanut press cake. A press cake represents the solids remaining after pressing a protein-containing composition to remove its liquids, in general its fatty component. For instance, press cake is a by-product of the vegetable oil industry.</p>
+<p id="p-0031" num="0034">In a preferred embodiment, the plant-based protein-containing composition is food grade, i.e. the composition is suitable for human consumption. Therefore, the composition may not comprise ingredients that are not suitable for human consumption, such as e.g. toxic ingredients.</p>
+<p id="p-0032" num="0035">In the preferred embodiment the plant-based protein-containing composition comprises at least 10 wt. % of protein, more preferably 15 wt. % of protein, even more preferably at least 20 wt. % of protein, even more preferably at least 30 wt. % of protein and most preferably at least 40 wt. % of protein.</p>
+<p id="p-0033" num="0036">In another preferred embodiment, the plant-based protein-containing composition comprises from 10 to 90 wt. % of protein, more preferably from 20 to 60 wt. %, most preferably from 40 to 55 wt. %.</p>
+<p id="p-0034" num="0037">In another preferred embodiment, the plant-based protein-containing composition consists of protein.</p>
+<p id="p-0035" num="0038">Proteins are large biomolecules, or macromolecules, consisting of one or more long chains of amino acids. Proteins are considered to comprise at least 100 amino acids within one amino acid chain.</p>
+<p id="p-0036" num="0039">In a preferred embodiment, the protein in the plant-based protein-containing composition comprises high amounts of glutamine (GLN), preferably the glutamine content is at least 5 wt. %, more preferably at least 10 wt. %, even more preferably at least 12 wt. %, calculated on the basis of the total protein content.</p>
+<p id="p-0037" num="0040">In another preferred embodiment, the protein in the plant-based protein-containing composition comprises amounts of glutamine (GLN) from 5 to 30 wt. %, preferably from 12 to 22 wt. %, calculated on the basis of the total protein content.</p>
+<p id="p-0038" num="0041">In a preferred embodiment, the protein in the plant-based protein-containing composition comprises high amounts of asparagine (ASN), preferably the asparagine content is at least 5 wt. %, more preferably at least 10 wt. %, even more preferably 12 wt. %, calculated on the basis of the total protein content.</p>
+<p id="p-0039" num="0042">In another preferred embodiment, the protein in the plant-based protein-containing composition comprises amounts of asparagine (ASN) from 5 to 30 wt. %, preferably from 12 to 22 wt. %, calculated on the basis of the total protein content.</p>
+<p id="p-0040" num="0043">In a preferred embodiment, the protein in the plant-based protein-containing composition shows low solubility in water, preferably the solubility of the protein is less than 41%, more preferably less than 20%. The protein solubility is determined according to the following protocol:</p>
+<p id="p-0041" num="0044">The sample is diluted to 3% (w/w) protein. The sample is centrifuged for 15 minutes at 3,000 g at ambient conditions. The wet sediment is quantified by decanting the supernatant. The Total Nitrogen (TN) content in the supernatant as well as in the initial solution is quantified by Kjeldahl combustion analysis. The protein solubility is calculated as follow:</p>
+<p id="p-0042" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Protein Solubility [%]=(TN of supernatant)/(TN of initial solution)&#xd7;100<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0043" num="0045">Proteins having a low protein solubility are particularly preferred in the context of the present invention, as they might benefit from the method according to the invention the most.</p>
+<p id="p-0044" num="0046">In a preferred embodiment, the inventive method results in an increased solubility of the protein in the protein-containing composition by a factor of at least 2, preferably by a factor of at least 5. The factor is calculated as the ratio of the protein solubility of the protein in the protein-containing composition before applying the inventive method and the protein solubility of the protein in the protein-containing composition after having applied the inventive method.</p>
+<p id="p-0045" num="0047">In another preferred embodiment, the inventive method results in an increased solubility of the protein in the protein-containing composition by a factor of from 1.5 to 10, preferably by a factor of from 2 to 6.</p>
+<p id="p-0046" num="0048">In a preferred embodiment, the protein-containing composition further comprises polysaccharides. Polysaccharides are long chains of carbohydrate molecules, specifically polymeric carbohydrates composed of monosaccharide units bound together by glycosidic linkages. Preferably the protein-containing composition comprises polysaccharides in amounts of from 10 to 50 wt. %, more preferably from 20 to 45 wt. %, based on the total weight of the protein-containing composition.</p>
+<p id="p-0047" num="0049">In a preferred embodiment, the plant-based protein-containing composition comprises vitamins. Vitamins may be selected from the group consisting of vitamin A, B, C, D, E, or any mixtures thereof.</p>
+<p id="p-0048" num="0050">In a preferred embodiment, the plant-based protein-containing composition comprises lipids. By definition, a lipid is soluble in nonpolar solvents. Preferably the protein-containing composition comprises lipids in amounts of from 1 to 10 wt. %, more preferably from 2 to 8 wt. %, based on the total weight of the protein-containing composition.</p>
+<p id="p-0049" num="0051">In a preferred embodiment, the plant-based protein-containing composition has a moisture content of from 0.5 to 10 wt. %, preferably of from 2 to 6 wt. %.</p>
+<p id="p-0050" num="0052">According to the invention, the protein-containing composition is subjected to a protein-deamidase treatment.</p>
+<p id="p-0051" num="0053">Depending on the specific enzyme used, different parameters have to be applied to carry out the enzymatic treatment, such as e.g. the pH-value. Further parameters and how these parameters have to be adapted are well-known to a skilled person.</p>
+<p id="p-0052" num="0054">Treatment with a protein-deamidase (deamidation) can improve solubility and other functional properties of proteins. Hydrolysis by deamidation can alter secondary and tertiary structure of proteins by removal of amide groups from glutamine and asparagine residues. During deamidation amide groups are converted into acid residues (carboxyl groups) with the subsequent release of ammonia. This leads to a decrease in the isoelectric point (pI) of the protein due to the increase in number of negatively charged carboxyl groups. As a consequence, deamidated proteins will be more soluble under weak acidic conditions. Enzymatic deamidation has several advantages over chemical methods, including mild reaction conditions, higher specificity and greater safety.</p>
+<p id="p-0053" num="0055">In a preferred embodiment, the protein-deamidase is selected from the group consisting of protein-asparaginase (PA), protein-glutaminase (PG), or any mixtures thereof. Preferably, the protein-deamidase is protein-glutaminase (PG).</p>
+<p id="p-0054" num="0056">Protein-asparaginase (PA) is an enzyme that catalyzes the hydrolysis of asparagine to aspartic acid while releasing ammonia.</p>
+<p id="p-0055" num="0057">Protein-glutaminase (PG) is an amidohydrolase enzyme that generates glutamate from glutamine within a protein (amino acid chain) while releasing ammonia. In case deamidation is carried out with protein-glutaminase (PG), the enzymatic treatment is preferably carried out at a pH value of from 6.8 to 7.5, and preferably at a temperature of from 40 to 50&#xb0; C.</p>
+<p id="p-0056" num="0058">In a preferred embodiment, the ratio of plant-based protein-containing composition to protein-deamidase is from 50:1 to 2000:1 based on weight (w/w), more preferably from 100:1 to 1000:1 (w/w), most preferably the ratio is 100:1 (w/w).</p>
+<p id="p-0057" num="0059">In a preferred embodiment, 0.25-5 U protein-deamidase is used per g plant-based protein-containing composition during protein-deamidase treatment. The unit &#x201c;U&#x201d; refers to the enzyme unit. Preferably, 0.5 U protein-deamidase per g plant-based protein-containing composition is equal to a ratio of plant-based protein-containing composition to protein-deamidase of 1000:1, 2.5 U protein-deamidase per g plant-based protein-containing composition is equal to a ratio of plant-based protein-containing composition to protein-deamidase of 200:1, and 5 U protein-deamidase per g plant-based protein-containing composition is equal to a ratio of plant-based protein-containing composition to protein-deamidase of 100:1.</p>
+<p id="p-0058" num="0060">According to the invention, the plant-based protein-containing composition is subjected to a high pressure-homogenization (step b) after protein-deamidase treatment (step a).</p>
+<p id="p-0059" num="0061">High pressure-homogenization in the context of the present invention has to be understood as pressure-homogenization at a pressure of at least 50 bar.</p>
+<p id="p-0060" num="0062">Without intention to be bound by theory, it is assumed that high-pressure homogenization has a disruptive effect on the tertiary and quaternary structure of proteins via cleavage of non-covalent bonds, which likewise leads to improved solubility of the proteins. Therefore, it is assumed that high-pressure homogenization is particularly effective for proteins showing pronounced quaternary structures, such as globular proteins (e.g. soy protein).</p>
+<p id="p-0061" num="0063">For high-pressure homogenization, any high-pressure homogenizer can be used. For example, a GEA Italy (ex GEA Niro Soavi) Panda Plus 200 can be used.</p>
+<p id="p-0062" num="0064">In a preferred embodiment, high-pressure homogenization is performed at a pressure of from 100 bar to 600 bar, more preferably from 200 to 500 bar, most preferably from 270 to 330 bar.</p>
+<p id="p-0063" num="0065">In another preferred embodiment, high-pressure homogenization is performed at a pressure of at least 50 bar, more preferably the pressure is at least 100 bar, even more preferably the pressure is at least 200 bar, even more preferably the pressure is at least 250 bar and most preferably the pressure is at least 250 bar.</p>
+<p id="p-0064" num="0066">In a particular embodiment, high-pressure homogenization is performed at a pressure of 300 bar.</p>
+<p id="p-0065" num="0067">In a preferred embodiment of the inventive method, the method comprises a further enzymatic treatment that includes the treatment with a carbohydrate-hydrolyzing enzyme, preferably wherein the carbohydrate-hydrolyzing enzyme is a cellulase, such as commercially available &#x201c;FoodPro CBL&#x201d;. The further enzymatic treatment represents another enzymatic treatment that is independent from the aforementioned protein-deamidase treatment according to step a).</p>
+<p id="p-0066" num="0068">A carbohydrate-hydrolyzing enzyme is to be understood as an enzyme capable of hydrolyzing polysaccharides into smaller saccharide fragments. Polysaccharides are long chains of carbohydrate molecules, specifically polymeric carbohydrates composed of at least eleven monosaccharide units bound together by glycosidic linkages.</p>
+<p id="p-0067" num="0069">A cellulase is an enzyme that catalyzes the decomposition of cellulose and related polysaccharides.</p>
+<p id="p-0068" num="0070">In case the plant-based protein-containing composition comprises carbohydrates (polysaccharides), the treatment with a carbohydrate-hydrolyzing enzyme enables the modification of functional properties of the protein-containing composition as a whole.</p>
+<p id="p-0069" num="0071">In a preferred embodiment, the ratio of protein-containing composition and carbohydrate-hydrolyzing enzyme is between 2000:1 to 500:1 (w/w), more preferably between 1000:1 and 750:1 (w/w).</p>
+<p id="p-0070" num="0072">In a preferred embodiment, the further enzymatic treatment with a carbohydrate-hydrolyzing enzyme is carried out before the protein-deamidase treatment in step a).</p>
+<p id="p-0071" num="0073">In another preferred embodiment, the further enzymatic treatment with a carbohydrate-hydrolyzing enzyme is carried out simultaneously with the protein-deamidase treatment in step a).</p>
+<p id="p-0072" num="0074">In another preferred embodiment, the further enzymatic treatment with a carbohydrate-hydrolyzing enzyme is carried out after the protein-deamidase treatment in step a).</p>
+<p id="p-0073" num="0075">In a preferred embodiment, the method according to the present invention comprises the following steps:
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0000">
+    <ul id="ul0006" list-style="none">
+        <li id="ul0006-0001" num="0076">a) Mixing the plant-based protein-containing composition with an aqueous medium;</li>
+        <li id="ul0006-0002" num="0077">b) Subjecting the plant-based protein-containing composition obtained in step a) to a protein-deamidase treatment and preferably also a carbohydrate-hydrolyzing enzymatic treatment.</li>
+        <li id="ul0006-0003" num="0078">c) Subjecting the composition obtained in step b) to high-pressure homogenization.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0074" num="0079">In said embodiment, the protein-deamidase treatment mentioned in step b) corresponds to the protein-deamidase treatment as given under step a) above, i.e. said step refers to the enzymatic treatment with a protein-deamidase.</p>
+<p id="p-0075" num="0080">Preferably, the aqueous medium in step a) of this embodiment is an aqueous solution, more preferably the aqueous medium is water. The protein-containing composition is preferably mixed with the aqueous medium to a total solid (TS) content of between 5 to 30% (w/w), more preferably to a total solid (TS) content of between 10 and 20% (w/w).</p>
+<p id="p-0076" num="0081">Another aspect of the present inventions concerns a plant-based protein-containing composition obtained by the method according to the invention.</p>
+<p id="p-0077" num="0082">As mentioned above, the individual method steps of the method according to the invention result in distinct modifications of the protein-containing composition used. In particular, the protein-deamidase treatment combined with the high-pressure homogenization step results in distinct modifications of the protein being present in the protein-containing composition (changes involving covalent bonds, and changes as to the tertiary and quaternary protein structure). These modifications would not be obtained if none or only one of the aforementioned steps would be applied to the plant-based protein-containing composition.</p>
+<p id="p-0078" num="0083">In a preferred embodiment, the plant-based protein-containing composition is a milk analogue. A milk analogue is understood as a liquid that is used as replacement for the milk from a mammal (mainly cows). Preferably, a milk analogue has a viscosity of about 2 mPas when measured at shear rate of 100 s<sup>&#x2212;1 </sup>and at a temperature of 20&#xb0; C.</p>
+<p id="p-0079" num="0084">In a preferred embodiment, the protein in the plant-based protein-containing composition has a solubility of at least 42%, more preferably the solubility is at least 50%, 60%, 70%, 80%, or 90%.</p>
+<p id="p-0080" num="0085">In another preferred embodiment, the protein in the plant-based protein-containing composition has a solubility of from 42% to 100%, preferably from 50% to 95%, more preferably from 70% to 90%.</p>
+<p id="p-0081" num="0086">For the determination of the solubility, the protocol as described above has to be followed.</p>
+<p id="p-0082" num="0087">In another preferred embodiment, the plant-based protein-containing composition has a shear viscosity of from 50 mPas to 70 mPas, preferably from 55 mPas to 65 mPas, when measured at a shear rate of 100 s-1 and at a temperature of 25&#xb0; C. The shear viscosity can be measured by any kind of rheometer known to a person skilled in the art. For example, a Thermo Haake Germany, Haake RS6000 coupled with UMTC thermo controller can be used.</p>
+<p id="p-0083" num="0088">In a preferred embodiment, the plant-based protein-containing composition has a volumetric diameter D(v)90 value of from 80 to 100 &#x3bc;m, more preferably from 85 to 95 &#x3bc;m.</p>
+<p id="p-0084" num="0089">In a preferred embodiment, the plant-based protein-containing composition is an emulsion. An emulsion in the context of the present invention is to be understood as a mixture of two lipids that are immiscible due to their different polarities (hydrophobic vs. hydrophilic). In an emulsion, one liquid (dispersed or internal phase) is generally dispersed in another liquid (external or continuous phase). Preferably, the non-polar phase is dispersed within the polar-phase. Preferably, the emulsion has an emulsion instability index of from 0.035 to 0.050.</p>
+<p id="p-0085" num="0090">Another aspect of the invention relates to the use the plant-based protein-containing composition according to the invention as a food, a food additive, or a starting material for the production of food. Thereby, the plant-based protein-containing composition according to the invention can directly be used as a nutritional food product or it can be added to complement other nutritional products, or it can be used as basis for the production of nutritional products.</p>
+<p id="p-0086" num="0091">Another aspect of the invention relates to a method of manufacturing a food product comprising:
+<ul id="ul0007" list-style="none">
+    <li id="ul0007-0001" num="0000">
+    <ul id="ul0008" list-style="none">
+        <li id="ul0008-0001" num="0092">(1) Manufacturing a plant-based protein-containing composition according to the invention;</li>
+        <li id="ul0008-0002" num="0093">(2) Spray drying the composition obtained in step (1);</li>
+        <li id="ul0008-0003" num="0094">(3) Dry mixing 2) the composition obtained in step (2) with dry powder ingredient(s).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0006" level="1">EXAMPLES</heading>
+<heading id="h-0007" level="1">Example 1</heading>
+<p id="p-0087" num="0095">Example 1 exemplarily depicts a treatment scheme for soy flour. The scheme is illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0088" num="0096">The soy flour used in this Example had the following specifications:</p>
+<p id="p-0089" num="0097">dehulled soy flour</p>
+<p id="p-0090" num="0098">protein content of 42.6 wt. %;</p>
+<p id="p-0091" num="0099">fiber content of 5.0 wt. %;</p>
+<p id="p-0092" num="0100">available carbohydrate content of 22.1 wt. %;</p>
+<p id="p-0093" num="0101">lipid content of 19 wt. %;</p>
+<p id="p-0094" num="0102">moisture content of 4.1 wt. %.</p>
+<p id="p-0095" num="0103">In a first step, the soy flour has been suspended in water to a total solid (TS) content of 20 wt. %. Then the suspension has been pre-mixed at high speed at 14.000 rpm for 15 min. Afterwards, the suspension has been heated at 60&#xb0; C. Thereupon, carbohydrate hydrolytic treatment has been performed using FoodPro CBL (from DuPont, cellulase) for 1-2 hours. Afterwards, the pH was adjusted to pH=7.0 for the subsequent 2 hours-treatment with protein-glutaminase (PG; ratio soy flour to PG, 100:1 (w/w) corresponding to 5 U PG per g soy flour). After inactivation of PG at 80&#xb0; C. and dilution, the enzyme-treated composition has been subjected to high-pressure homogenization at 300 bar. For high-pressure homogenization, a GEA Italy (ex GEA Niro Soavi) Panda Plus 200 has been used. The following settings have been used: pressure, 250 bar at 1<sup>st </sup>stage and 50 bar at 2<sup>nd </sup>stage; temperature, 50&#xb0; C., 1 run.</p>
+<p id="p-0096" num="0104">Likewise, comparative experiments have been carried out, wherein either only enzymatic treatments or only high-pressure homogenization has been performed in order to study the impact of the individual treatments on the protein solubility of soy flour protein. Protein solubility has been measured according to the following protocol:</p>
+<p id="p-0097" num="0105">All samples were diluted to 3% (w/w) protein. The samples were centrifuged for 15 min at 3,000 g at ambient conditions (temperature and pressure). The wet sediment was quantified by decanting the supernatant. The Total Nitrogen content in the supernatant as well as in the initial solution was quantified by Kjeldahl combustion analysis. The protein solubility was calculated as follows: Protein solubility [%]=(TN of supernatant)/(TN of initial solution)&#xd7;100. The results are shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>.</p>
+<p id="p-0098" num="0106">As can be observed from <figref idref="DRAWINGS">FIG. <b>2</b></figref>, initial protein solubility in soy flour has been very low at a level of 14% (initial). Having applied enzymatic treatments, both with protein-glutaminase and FoodPro CBL, the protein solubility could be improved to a level of 31% (PG+FoodPro CBL). When only high-pressure homogenization has been applied, the protein solubility could be improved from 14% (initial) to 24% (with homo). Surprisingly, a much higher protein solubility could be achieved when enzymatic treatments and high-pressure homogenization have been combined, which resulted in an improvement from 14% (initial) to 78% (PG+FoodPro CBL+homo). Therefore, it has been found that the combined application of both enzymatic treatments and high-pressure homogenization leads to an improvement with regard to protein solubility that is much higher than what might have been expected based on the results of the individual aforementioned treatments, i.e. applying only enzymatic treatments (PG+FoodPro CBL) or only high-pressure homogenization (with homo). Hence, these data provide evidence that there is a synergistic effect between PG treatment and post-homogenization.</p>
+<p id="p-0099" num="0107">In order to study the influence of the soy flour to PG ratio (w/w), apart from the experiment mentioned above, the same experiments have been carried out, wherein the soy flour to PG ratio has been changed from 100:1 to 200:1 (equal to 2.5 U PG per g soy flour) and 1000:1 (equal to 0.5 U PG per g soy flour), respectively. The results are shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>.</p>
+<p id="p-0100" num="0108">As already shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, it can be observed from <figref idref="DRAWINGS">FIG. <b>3</b></figref> (ratio 100:1) that enzymatic treatments lead to a protein solubility of 31% (PG+FoodPro CBL), whereas enzymatic treatments and high-pressure homogenization leads to a solubility of even 78%. It has already been shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref> that high-pressure homogenization alone led to a protein solubility of 24%.</p>
+<p id="p-0101" num="0109">It can further be observed in <figref idref="DRAWINGS">FIG. <b>3</b></figref> that at a ratio of 200:1 enzymatic treatments lead to a protein solubility of 26% (PG+FoodPro CBL), whereas enzymatic treatments and high-pressure homogenization lead to a solubility of 69%. It has already been shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref> that high-pressure homogenization alone led to a protein solubility of 24%. Therefore, synergistic effects also have been observed at a ratio of 200:1, although the effect was less pronounced compared to the ratio of 100:1.</p>
+<p id="p-0102" num="0110">Similar observations have been made for a ratio of 1000:1. It can be observed in <figref idref="DRAWINGS">FIG. <b>3</b></figref> that at a ratio of 1000:1 enzymatic treatments lead to a protein solubility of 22% (PG+FoodPro CBL), whereas enzymatic treatments and high-pressure homogenization leads to a solubility of 54%. It has already been shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref> that high-pressure homogenization alone led to a protein solubility of 24%. Therefore, synergistic effects also have been observed at a ratio of 1000:1, although the effect was less pronounced compared to the ratios of 100:1 and 200:1, respectively.</p>
+<heading id="h-0008" level="1">Example 2</heading>
+<p id="p-0103" num="0111">Example 2 depicts the production of a milk analogue based on soy flour using the method according to the invention and comparative methods. The experimental trials that have been carried out are summarized in <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0104" num="0112">As can be observed from <figref idref="DRAWINGS">FIG. <b>4</b></figref>, variant 1 represents a comparative example, wherein no enzymatic treatment has been performed. Similarly, variant 2 represents a comparative example, wherein an enzymatic treatment has been performed with only a carbohydrate-hydrolyzing enzyme (FoodPro CBL). Variant 3 and 4, respectively, have been produced according to the method of the invention, wherein for variant 3 the enzymatic treatments has been carried out with protein-glutaminase (PG) only, whereas for variant 4, an additional enzymatic treatment has been performed with a carbohydrate-hydrolysing enzyme (FoodPro CBL).</p>
+<p id="p-0105" num="0113">All variants 1 to 4 (according to the invention and comparative) have been assessed with regard to their initial pH, protein solubility, D(v)90 value, and viscosity after heat treatment. The results are summarized in Table 1 below.</p>
+<p id="p-0106" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>The intial pH, solubility, D(v)90 before and after heating,</entry>
+</row>
+<row>
+<entry>and viscosity of the milk analogue variants.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>D90</entry>
+<entry>D90</entry>
+<entry>Viscosity at</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>before</entry>
+<entry>after</entry>
+<entry>100 s<sup>&#x2212;1 </sup>after</entry>
+</row>
+<row>
+<entry/>
+<entry>Initial</entry>
+<entry/>
+<entry>heat</entry>
+<entry>heat</entry>
+<entry>heat</entry>
+</row>
+<row>
+<entry>Variants</entry>
+<entry>pH</entry>
+<entry>Solubility</entry>
+<entry>treatment</entry>
+<entry>treatment</entry>
+<entry>treatment</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>1) w/o enzyme</entry>
+<entry>6.47</entry>
+<entry>24%</entry>
+<entry>73 &#x3bc;m</entry>
+<entry>93 &#x3bc;m</entry>
+<entry>31 mPa &#xb7; s</entry>
+</row>
+<row>
+<entry>2) FoodPro</entry>
+<entry>6.32</entry>
+<entry>27%</entry>
+<entry>78 &#x3bc;m</entry>
+<entry>123 &#x3bc;m&#x2002;</entry>
+<entry>20 mPa &#xb7; s</entry>
+</row>
+<row>
+<entry>CBL 2 h</entry>
+</row>
+<row>
+<entry>3) PG 2 h</entry>
+<entry>6.43</entry>
+<entry>59%</entry>
+<entry>95 &#x3bc;m</entry>
+<entry>90 &#x3bc;m</entry>
+<entry>62 mPa &#xb7; s</entry>
+</row>
+<row>
+<entry>4) FoodPro</entry>
+<entry>6.43</entry>
+<entry>57%</entry>
+<entry>87 &#x3bc;m</entry>
+<entry>94 &#x3bc;m</entry>
+<entry>59 mPa &#xb7; s</entry>
+</row>
+<row>
+<entry>CBL + PG</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0107" num="0114">From Table 1 it can be observed that the initial pH of the four variants was very similar. The protein solubility of the samples increased from 24% to 59% by PG treatment. For the particle size distribution (PSD), the variants with PG treatment showed higher D(v)90 values before the heat treatment than the other two variants. However, this difference was lost after the heat treatment, except for the variant that has only been treated with FoodPro CBL (variant 2). In addition, large differences with regard to the viscosities have been observed among the variants. The variants with PG treatment showed a much higher viscosity compared to the variants without PG treatment. After FoodPro CBL treatment, the viscosity of the variant (variant 2) decreased around 30%, indicating that the high viscosity was due to the fiber present in soy flour. For variants with PG treatment (variant 3 and 4), the viscosity was two times higher than that of the variants without PG (variant 1 and 2). This indicates improved protein solubilization for variant 3 and 4.</p>
+<p id="p-0108" num="0115">Moreover, in order to illustrate the differences in the techno-functional properties between the milk analogue variants, their emulsion and foaming properties were evaluated. For this purpose, emulsion stability analysis using LUMiFuge has been carried out. The results are shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref> below.</p>
+<p id="p-0109" num="0116">Moreover, pictures of the four variants after 24 h and 48 h, respectively, are shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>.</p>
+<p id="p-0110" num="0117">High transmission values shown in the LUMiFuge transmission images (<figref idref="DRAWINGS">FIG. <b>5</b></figref>) indicate low emulsion stability.</p>
+<p id="p-0111" num="0118">Based on <figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref>, it can be observed that variant 2 has the lowest emulsion stability. As the FoodPro CBL treatment decreased the viscosity of the respective variant (see Table 1), a higher risk for creaming for the emulsion occurred. The variants 3 and 4, which were treated with PG, showed much higher emulsion stability than variants 1 and 2, due to improved protein solubilization. The negative impact from FoodPro CBL on the emulsion stability could also be counteracted by PG treatment. Despite the partly negative influence of the FoodPro CBL treatment, the advantage of FoodPro CBL treatment is that the PG induced viscosity increase can be controlled.</p>
+<p id="p-0112" num="0119">The emulsion instability indexes for the four variants were calculated 14 hours after the online transmission analysis. The results are shown in Table 2. The results indicate that the emulsion stability increased around 54% by PG treatment.</p>
+<p id="p-0113" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>The emulsion instability indexes for the milk analogue variants.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="21pt" align="left"/>
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="126pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Variants</entry>
+<entry>Emulsion instability index</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>1) w/o enzyme</entry>
+<entry>0.087</entry>
+</row>
+<row>
+<entry/>
+<entry>2) FoodPro CBL (2 h)</entry>
+<entry>0.251</entry>
+</row>
+<row>
+<entry/>
+<entry>3) PG (2 h)</entry>
+<entry>0.043</entry>
+</row>
+<row>
+<entry/>
+<entry>4) FoodPro CBL + PG</entry>
+<entry>0.040</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0114" num="0120">After 48 h, the variants were left on a lab bench over 7 days and were measured by TurbiScan at a time interval. The delta backscattering results of day 3 and day 7 are shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>. The results gave similar results as the LUMiFuge transmission images.</p>
+<p id="p-0115" num="0121">The foaming properties, the foamability, the overrun and the foam stability of the four variants are shown in Table 3 below.</p>
+<p id="p-0116" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Foamability, overrun and foam stability</entry>
+</row>
+<row>
+<entry>of the milk analogue variants.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="77pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Foamability</entry>
+<entry>Overrum</entry>
+<entry>Foam stability</entry>
+</row>
+<row>
+<entry>Variants</entry>
+<entry>(mL)</entry>
+<entry>(%)</entry>
+<entry>(%)</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>1) w/o enzyme</entry>
+<entry>159</entry>
+<entry>59</entry>
+<entry>70</entry>
+</row>
+<row>
+<entry>2) FoodPro CBL 2 h</entry>
+<entry>157</entry>
+<entry>62</entry>
+<entry>57</entry>
+</row>
+<row>
+<entry>3) PG 2 h</entry>
+<entry>131</entry>
+<entry>31</entry>
+<entry>85</entry>
+</row>
+<row>
+<entry>4) FoodPro CBL + PG</entry>
+<entry>134</entry>
+<entry>34</entry>
+<entry>87</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0117" num="0122">The data in Table 3 indicate that on the one hand, PG treatment decreased the foamability, but on the other hand, improved the foam stability. The relative foam height and liquid height for the four variants over 1 hour are shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>.</p>
+<p id="p-0118" num="0123">From <figref idref="DRAWINGS">FIG. <b>8</b></figref> it can be concluded that the variants treated with PG (variant 3 and 4) show improved foam stability compared to the variants that have not been treated with PG (variant 1 and 2).</p>
+<heading id="h-0009" level="1">Example 3</heading>
+<p id="p-0119" num="0124">Example 3 depicts a treatment scheme for sesame and sunflower press cakes. The scheme is illustrated in <figref idref="DRAWINGS">FIG. <b>9</b></figref>.</p>
+<p id="p-0120" num="0125">The sesame press cake used in this Example had the following specifications:</p>
+<p id="p-0121" num="0126">protein content of 39.8 wt. %;</p>
+<p id="p-0122" num="0127">fiber content of 23.3 wt. %;</p>
+<p id="p-0123" num="0128">available carbohydrate content of 8.5 wt. %;</p>
+<p id="p-0124" num="0129">lipid content of 11.7 wt. %;</p>
+<p id="p-0125" num="0130">a maximum moisture content of 12 wt. %.</p>
+<p id="p-0126" num="0131">The sunflower press cake used in this Example had the following specifications:</p>
+<p id="p-0127" num="0132">protein content of 48.6 wt. %;</p>
+<p id="p-0128" num="0133">fiber content of 15.2 wt. %;</p>
+<p id="p-0129" num="0134">available carbohydrate content of 13.2 wt. %;</p>
+<p id="p-0130" num="0135">lipid content of 9.4 wt. %;</p>
+<p id="p-0131" num="0136">a maximum moisture content of 12 wt. %.</p>
+<p id="p-0132" num="0137">In a first step, the soy flour has been suspended in water to a total solid (TS) content of 10 wt. %. Then the suspension has been pre-mixed at high speed at 14.000 rpm for 15 min. Afterwards, the suspension has been heated at 60&#xb0; C. Thereupon, the pH was adjusted to pH=7.0 for the subsequent 2 hours-treatment with protein-glutaminase (PG; ratio soy flour to PG, 500:1 (w/w) corresponding to 1 U PG per g sesame or sunflower press cake). After inactivation of PG at 80&#xb0; C. and dilution, the enzyme-treated composition has been subjected to high-pressure homogenization at 300 bar. For high-pressure homogenization, a GEA Italy (ex GEA Niro Soavi) Panda Plus 200 has been used. The following settings have been used: pressure, 250 bar at 1<sup>st </sup>stage and 50 bar at 2<sup>nd </sup>stage; temperature, 50&#xb0; C., 1 run.</p>
+<p id="p-0133" num="0138">Likewise, comparative experiments have been carried out, wherein either only enzymatic treatment or only high-pressure homogenization has been performed in order to study the impact of the individual treatments on the protein solubility of sesame and sunflower press cakes. Protein solubility has been measured according to the following protocol:</p>
+<p id="p-0134" num="0139">All samples were diluted to 3% (w/w) protein. The samples were centrifuged for 15 min at 3,000 g at ambient conditions (temperature and pressure). The wet sediment was quantified by decanting the supernatant. The Total Nitrogen content in the supernatant as well as in the initial solution was quantified by Kjeldahl combustion analysis. The protein solubility was calculated as follows: Protein solubility [%]=(TN of supernatant)/(TN of initial solution)&#xd7;100. The results are shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>.</p>
+<p id="p-0135" num="0140">As can be observed from <figref idref="DRAWINGS">FIG. <b>10</b></figref>, initial protein solubility in sesame press cake has been very low at a level of 9% (initial). When only high-pressure homogenization has been applied, the protein solubility almost has no change (Homo). Having only applied enzymatic treatment using protein glutaminase, the protein solubility could be improved to a level of 48% (PG). Similarly as the soy flour, a much higher protein solubility could be achieved when enzymatic treatment and high-pressure homogenization have been combined, which resulted in an improvement from 9% (initial) to 55% (PG+homo). Therefore, it has been found that the combined application of both enzymatic treatment and high-pressure homogenization leads to an particular improvement with regard to protein solubility that is much higher than what might have been expected based on the results of the individual aforementioned treatments, i.e. applying only enzymatic treatments (PG) or only high-pressure homogenization (Homo). Hence, these data provide evidence that there is a synergistic effect between PG treatment and post-homogenization.</p>
+<p id="p-0136" num="0141">Similar results have been found for sunflower press cake. The initial protein solubility in sunflower press cake has been at a level of 48% (initial). When only high-pressure homogenization has been applied, the protein solubility has no change, which was also at a level of 48% (Homo). Having only applied enzymatic treatment using protein glutaminase, the protein solubility was improved to a level of 69% (PG). A much higher protein solubility was achieved when enzymatic treatment and high-pressure homogenization have been combined, which resulted in an improvement from 48% (initial) to 78% (PG+homo). Therefore, it has been found that the combined application of both enzymatic treatments and high-pressure homogenization leads to an improvement with regard to protein solubility that is much higher than what might have been expected based on the results of the individual treatments. Hence, these data again provide evidence that there is a synergistic effect between PG treatment and post-homogenization.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method for the treatment of a plant-based protein-containing composition, the method comprising the steps of:
+<claim-text>a) subjecting the plant-based protein-containing composition to a protein-deamidase treatment; and</claim-text>
+<claim-text>b) subjecting the composition obtained in step a) to high-pressure homogenization.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the plant-based protein-containing composition is also subjected to a carbohydrate-hydrolyzing enzyme in step a).</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein enzymes in step a) are added simultaneously or sequentially.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the protein-deamidase is protein-glutaminase.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the ratio of protein-containing composition to protein-deamidase is from 50:1 to 2000:1 (w/w).</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the protein-containing composition is a press cake.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein high-pressure homogenization is performed at a pressure of from 100 bar to 600 bar.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the method comprises a further enzymatic treatment including the treatment with a carbohydrate-hydrolyzing enzyme.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The method according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the further enzymatic treatment with a carbohydrate-hydrolyzing enzyme is carried out before the enzymatic treatment in step a).</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the further enzymatic treatment with a carbohydrate-hydrolyzing enzyme is carried out simultaneously with the protein-deamidase treatment in step a).</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the protein in the plant-based protein-containing composition has a solubility of less than 41%.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the method comprises the following steps:
+<claim-text>a) Mixing the plant-based protein-containing composition with an aqueous medium;</claim-text>
+<claim-text>b) Subjecting the plant-based protein-containing composition obtained in step a) to a protein-deamidase treatment; and</claim-text>
+<claim-text>c) Subjecting the composition obtained in step b) to high-pressure homogenization.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. A plant-based protein-containing composition obtained by the method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The protein-containing composition according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the plant-based protein-containing composition is a milk analogue.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The protein-containing composition according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the protein in the plant-based protein-containing composition has a solubility of at least 42%.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The plant-based protein-containing composition according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the protein-containing composition has a shear viscosity of from 50 mPas to 70 mPas, when measured at a shear rate of 100 s-1 and at a temperature of 25&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. A method of manufacturing a food product comprising (1) Manufacturing the plant-based protein-containing composition comprising the steps of:
+<claim-text>a) subjecting the plant-based protein-containing composition to a protein-deamidase treatment and</claim-text>
+<claim-text>b) subjecting the composition obtained in step a) to high-pressure homogenization;</claim-text>
+<claim-text>(2) Spray drying the composition obtained in step (1); and</claim-text>
+<claim-text>(3) Dry mixing the composition obtained in step (2) with dry powder ingredient(s).</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

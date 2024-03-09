@@ -1,0 +1,2773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225357A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225357</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18093884</doc-number>
+<date>20230106</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>J</subclass>
+<main-group>1</main-group>
+<subgroup>12</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20160101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>20</main-group>
+<subgroup>147</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20160101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>50</main-group>
+<subgroup>80</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20160101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>40</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>J</subclass>
+<main-group>1</main-group>
+<subgroup>14</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20160101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>10</main-group>
+<subgroup>38</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20160101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>40</main-group>
+<subgroup>25</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20160101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>10</main-group>
+<subgroup>14</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>J</subclass>
+<main-group>1</main-group>
+<subgroup>125</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160501</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>20</main-group>
+<subgroup>147</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160501</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>50</main-group>
+<subgroup>80</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160501</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>40</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>J</subclass>
+<main-group>1</main-group>
+<subgroup>148</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>J</subclass>
+<main-group>1</main-group>
+<subgroup>14</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160501</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>10</main-group>
+<subgroup>38</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160501</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>40</main-group>
+<subgroup>25</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160501</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>10</main-group>
+<subgroup>14</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20180101</date></cpc-version-indicator>
+<section>Y</section>
+<class>02</class>
+<subclass>A</subclass>
+<main-group>40</main-group>
+<subgroup>818</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">Microbial-Based Process for High Quality Protein Concentrate</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>17243315</doc-number>
+<date>20210428</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18093884</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16918831</doc-number>
+<date>20200701</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11147292</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17243315</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>15151599</doc-number>
+<date>20160511</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>16918831</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>13691843</doc-number>
+<date>20121202</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>9370200</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>15151599</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61566487</doc-number>
+<date>20111202</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61566557</doc-number>
+<date>20111202</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>PRAIRIE AQUATECH LLC</orgname>
+<address>
+<city>Brookings</city>
+<state>SD</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>GIBBONS</last-name>
+<first-name>WILLIAM</first-name>
+<address>
+<city>BROOKINGS</city>
+<state>SD</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Brown</last-name>
+<first-name>Michael L.</first-name>
+<address>
+<city>Volga</city>
+<state>SD</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>PRAIRIE AQUATECH LLC</orgname>
+<role>02</role>
+<address>
+<city>Brookings</city>
+<state>SD</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention describes a bio-based process to produce high quality protein concentrate (HQPC) by converting plant derived celluloses into bioavailable protein via aerobic incubation, including the use of such HQPC so produced as a nutrient, including use as a fish meal replacement in aquaculture diets.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="201.08mm" wi="143.85mm" file="US20230225357A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="210.90mm" wi="145.88mm" file="US20230225357A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="188.89mm" wi="133.18mm" file="US20230225357A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="162.22mm" wi="148.76mm" file="US20230225357A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="200.15mm" wi="143.76mm" file="US20230225357A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="153.92mm" wi="133.86mm" file="US20230225357A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application is a continuation under 35 U.S.C. &#xa7; 120 of Ser. No. 17/581,535, which is a continuation under 35 U.S.C. &#xa7; 120 of U.S. Ser. No. 17/243,315, filed Apr. 28, 2021, which is a continuation under 35 U.S.C. &#xa7; 120 of U.S. Ser. No. 16/918,831, filed Jul. 1, 2020, now U.S. Pat. No. 11,147,292, which is a continuation under 35 U.S.C. &#xa7; 120 of U.S. Ser. No. 15/151,599, filed May 11, 2016, which is a continuation under 35 U.S.C. &#xa7; 120 of U.S. Ser. No. 13/691,843, filed Dec. 2, 2012, now U.S. Pat. No. 9,370,200, which claims benefit under 35 U.S.C. &#xa7; 119(e) to U.S. Provisional Application No. 61/556,487, filed on Dec. 2, 2011, and U.S. Provisional Application No. 61/566,557, filed on Dec. 2, 2011, each of which is incorporated by reference herein in its entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?federal-research-statement description="Federal Research Statement" end="lead"?>
+<p id="p-0003" num="0002">This work was made with Governmental support from the National Science Foundation under contract DBI-1005068. The Government has certain rights in this invention.</p>
+<?federal-research-statement description="Federal Research Statement" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<heading id="h-0003" level="1">Field of the Invention</heading>
+<p id="p-0004" num="0003">The invention generally relates to incubation processes, and specifically microbial-based aerobic incubation processes to produce high quality protein concentrates, including products made therefrom and use of such products in the formulation of nutrient feeds.</p>
+<heading id="h-0004" level="1">Background Information</heading>
+<p id="p-0005" num="0004">In 2008, approximately 28% of the world's wild, marine fish stocks were overexploited and 52% were fully exploited, even as the demand for per capita consumption of fish and shellfish products have increased with the increasing human population. With dwindling wild fish stocks, in an effort to meet this increased demand, commercial aquaculture production has increased dramatically. However, one of the primary constituents of dietary formulations for aquaculture, fish meal protein, is also derived from wild capture fisheries. It is estimated that at least 6.7 mmt of fish meal will be required to support commercial aquaculture production by 2012. This is clearly an unsustainable trend.</p>
+<p id="p-0006" num="0005">Lower cost, more sustainable plant-derived sources of protein have been used to partially replace fish meal in aquaculture diets. Defatted soybean meal (SBM, 42-48% protein) has commonly been used to replace up to 20% of total protein in grower diets for several species, while soy protein concentrate (SPC, 65% protein) has been tested successfully at higher total protein replacement levels, largely governed by the trophic status of the species. These soybean products provide high protein and relative good amino acid profiles, but are still deficient in some critical amino acids (e.g., taurine) required by carnivorous marine fishes. SPC can be used at higher levels than soybean meal, primarily because the solvent extraction process used to produce SPC removes anti-nutritional factors (e.g., oligosaccharides) and thereby increases protein bioavailability. In addition, a thermal step has been used to inactivate heat-labile antigenic factors. The primary limitations of the current solvent extraction process are its cost, the lack of use for the oligosaccharides removed in the process, and quality issues that frequently limit inclusion to 50% of total protein in the diet. Further, processing of soy material into soybean meal or soy protein concentrates can be environmentally problematic (e.g., problems with disposal of chemical waste associated with hexane-extraction).</p>
+<p id="p-0007" num="0006">Corn co-products, including dried distiller's grains with solubles (DDGS), have also been evaluated in aquaculture diets at fish meal replacement levels of up to 20%. DDGS has lower protein (28-32%) and more fiber than soy products, but is typically priced at &#x2dc;50% of the value of defatted soybean meal. Some ethanol plants have incorporated a dry fractionation process to remove part of the fiber and oil prior to the conversion process, resulting in a dry-frac DDGS of up to 42% protein. While this product has been used to replace 20-40% of fish meal in aquaculture feeds, there remains the need for a higher protein, more digestible DDGS aqua feed product. Such a product would be especially attractive if the protein component had higher levels of critical amino acids such as taurine, lysine, methionine, and cysteine.</p>
+<p id="p-0008" num="0007">Therefore, a plant-derived protein source which is cost-effective and &#x201c;green,&#x201d; and that is of a high-enough quality to fully or substantially replace more of the fish meal in an aquaculture diet is needed.</p>
+<heading id="h-0005" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0009" num="0008">The present disclosure relates to an organic, microbially-based system to convert plant material into a highly digestible, concentrated protein source that also contains a microbial gum (exopolysaccharide) binder, including such a concentrated source which is suitable for use as a feed for animals used for human consumption.</p>
+<p id="p-0010" num="0009">In embodiments, a composition containing a non-animal based protein concentrate is disclosed, where the composition contains at least 55% protein content and no detectable stachyose on a dry matter basis. In one aspect, the composition contains <i>Aureobasidium pullulans </i>deposited strain NRRL No. 50792, NRRL No. 50793, NRRL No. 50794, NRRL No. 50795, or a combination thereof.</p>
+<p id="p-0011" num="0010">In one aspect, the non-animal based protein concentrate is isolated from cereal grain and oilseed plant material including, but not limited to, soybeans, peanuts, Rapeseeds, canola, sesame seeds, barley, cottonseeds, palm kernels, grape seeds, olives, safflowers, sunflowers, copra, corn, coconuts, linseed, hazelnuts, wheat, rice, potatoes, cassavas, legumes, camelina seeds, mustard seeds, germ meal, corn gluten meal, distillery/brewery by-products, portions and combinations thereof.</p>
+<p id="p-0012" num="0011">In another aspect, the protein content of the composition is in the range of from about 56% to about 90% on a dry matter basis produced by a process including extruding plant material at above room temperature to form a mash; adding one or more cellulose-deconstructing enzymes to release sugars into the mash; inoculating the enzyme-treated mash with at least one microbe, which microbe converts released sugars into proteins and exopolysaccharides; precipitating the resulting proteins, microbes, and exopolysaccharides with ethanol or a flocculent; recovering the precipitated material via hydrodynamic force; and drying said precipitated material.</p>
+<p id="p-0013" num="0012">In a related aspect, the at least one microbe includes, but is not limited to, <i>Aureobasidium pullulans, Sclerotium glucanicum, Sphingomonas paucimobilis, Ralstonia eutropha, Rhodospirillum rubrum, Kluyveromyces </i>spp, <i>Pichia </i>spp, <i>Trichoderma reesei, Pleurotus ostreatus, Rhizopus </i>spp, and combinations thereof.</p>
+<p id="p-0014" num="0013">In one aspect, the plant material is from soybeans in the form of soy flakes or soy meal. In another aspect, the plant material is from oil seeds or their de-oiled meals. In another aspect, the plant material is from distiller's dried grain with solubles (DDGS).</p>
+<p id="p-0015" num="0014">In one aspect, the protein concentrate includes at least 0.1 g hydroxylysine/100 g of concentrate.</p>
+<p id="p-0016" num="0015">In one embodiment, an animal feed comprising a non-animal based protein concentrate is disclosed, where the composition includes at least about 1.25 g of lipid/100 g composition, where the composition contains no detectable stachyose and at least 55% protein content on a dry matter basis, and where the composition includes at least 45% of said animal feed by weight.</p>
+<p id="p-0017" num="0016">In a related aspect, the composition is a complete replacement for animal-based fishmeal in a fish feed. In a further related aspect, fish feed is formulated for fish including, but not limited to, Siberian sturgeon, Sterlet sturgeon, Starry sturgeon, White sturgeon, Arapaima, Japanese eel, American eel, Short-finned eel, Long-finned eel, European eel, Chanos chanos, Milkfish, Bluegill sunfish, Green sunfish, White crappie, Black crappie, Asp, Catla, Goldfish, Crucian carp, Mud carp, Mrigal carp, Grass carp, Common carp, Silver carp, Bighead carp, Orangefin labeo, Roho labeo, Hoven's carp, Wuchang bream, Black carp, Golden shiner, Nilem carp, White amur bream, Thai silver barb, Java, Roach, Tench, Pond loach, Bocachico, Dorada, Cachama, Cachama Blanca, Paco, Black bullhead, Channel catfish, Bagrid catfish, Blue catfish, Webs catfish, Pangasius (Swai, Tra, Basa) catfish, Striped catfish, Mudfish, Philippine catfish, Hong Kong catfish, North African catfish, Bighead catfish, Sampa, South American catfish, Atipa, Northern pike, Ayu sweetfish, Vendace, Whitefish, Pink salmon, Chum salmon, Coho salmon, Masu salmon, Rainbow trout, Sockeye salmon, Chinook salmon, Atlantic salmon, Sea trout, Arctic char, Brook trout, Lake trout, Atlantic cod, Pejerrey, Lai, Common snook, Barramundi/Asian sea bass, Nile perch, Murray cod, Golden perch, Striped bass, White bass, European seabass, Hong Kong grouper, Areolate grouper, Greasy grouper, Spotted coralgrouper, Silver perch, White perch, Jade perch, Largemouth bass, Smallmouth bass, European perch, Zander (Pike-perch), Yellow Perch, Sauger, Walleye, Bluefish, Greater amberjack, Japanese amberjack, Snubnose pompano, Florida pompano, Palometa pompano, Japanese jack mackerel, Cobia, Mangrove red snapper, Yellowtail snapper, Dark seabream, White seabream, Crimson seabream, Red seabream, Red porgy, Goldlined seabream, Gilthead seabream, Red drum, Green terror, Blackbelt cichlid, Jaguar guapote, Mexican mojarra, Pearlspot, Three spotted tilapia, Blue tilapia, Longfin tilapia, Mozambique tilapia, Nile tilapia, Tilapia, Wami tilapia, Blackchin tilapia, Redbreast tilapia, Redbelly tilapia, Golden grey mullet, Largescale mullet, Gold-spot mullet, Thinlip grey mullet, Leaping mullet, Tade mullet, Flathead grey mullet, White mullet, Lebranche mullet, Pacific fat sleeper, Marble goby, White-spotted spinefoot, Goldlined spinefoot, Marbled spinefoot, Southern bluefin tuna, Northern bluefin tuna, Climbing perch, Snakeskin gourami, Kissing gourami, Giant gourami, Snakehead, Indonesian snakehead, Spotted snakehead, Striped snakehead, Turbot, Bastard halibut (Japanese flounder), Summer Flounder, Southern flounder, Winter flounder, Atlantic Halibut, Greenback flounder, Common sole, and combinations thereof.</p>
+<p id="p-0018" num="0017">In one aspect, the fish feed effects greater performance in one or more performance aspects including, but not limited to, growth, weight gain, protein efficiency ratio, feed conversion ratio, total consumption, survival, and Fulton's condition factor compared to equivalent fish feed comprising animal-based fishmeal or soy protein concentrate.</p>
+<p id="p-0019" num="0018">In another aspect, the fish feed effects the performance aspects at a crude protein content that is less than the protein content of equivalent fish feed comprising animal-based fishmeal or soy protein concentrate.</p>
+<p id="p-0020" num="0019">In one aspect, the animal feed is supplemented with lysine, methionine, lipids, biotin, choline, niacin, ascorbic acid, inositol, pantothenic acid, folic acid, pyridoxine, riboflavin, thiamin, vitamin A, vitamin B12, vitamin D, vitamin E, vitamin K, calcium, phosphorus, potassium, sodium, magnesium, manganese, aluminum, iodine, cobalt, zinc, iron, selenium or a combination thereof.</p>
+<p id="p-0021" num="0020">In another embodiment, a method of producing a non-animal based protein concentrate is disclosed including extruding plant material at above room temperature to form a mash and transferring the mash to a biorector; adding one or more cellulose-deconstructing enzymes to release sugars into the mash in the bioreactor; inoculating the enzyme treated mash with at least one microbe, which microbe converts released sugars into proteins and exopolysaccharides; precipitating the resulting proteins, microbes, and exopolysaccharides with ethanol, a flocculent or a combination thereof; recovering the precipitated material via hydrodynamic force; and drying the precipitated material.</p>
+<p id="p-0022" num="0021">In a related aspect, extrusion is carried out at between about 50&#xb0; C. to about 170&#xb0; C., at a compression ratio of about 3:1, and at a screw speed sufficient to provide a shearing effect against ridged channels on both sides of an extrusion barrel.</p>
+<p id="p-0023" num="0022">In another related aspect, the method includes mixing the extruded materials with water to achieve a solid loading rate of at least 5% in the bioreactor; and optionally, autoclaving and cooling the diluted extruded materials, where the one or more cellulose-deconstructing enzymes are selected from the group consisting of endo-xylanase and beta-xylosidase, glycoside hydrolase, &#xdf;-glucosidases, hemicellulase activities, and combinations thereof.</p>
+<p id="p-0024" num="0023">In one related aspect, the method includes reducing the temperature of the enzyme treated mash to between about 30&#xb0; C. to about 37&#xb0; C.; inoculating the cooled mash with 2% (v/v) of a 24 hour culture of the at least one microbe, where the at least one microbe includes, but is not limited to <i>Aureobasidium pullulans, Sclerotium glucanicum, Sphingomonas paucimobilis, Ralstonia eutropha, Rhodospirillum rubrum, Kluyveromyces </i>spp, <i>Pichia </i>spp, <i>Trichoderma reesei, Pleurotus ostreatus, Rhizopus </i>spp, and combinations thereof; optionally aerating the inoculated mash at about 0.05 L/L/min; and incubating until utilization of sugars ceases or after about 96 to 120 hours incubation in the presence of the at least one microbe.</p>
+<p id="p-0025" num="0024">In one aspect, the method includes adding about 0.6 L ethanol/L of mash; centrifuging the ethanol treated mash; recovering the ethanol; optionally recovering fine suspended particles, recovering centrifuged solids; and drying the recovered centrifuge solids. In another aspect, the supernatant may be dried, dried solids recovered, and thereafter mixed with the centrifuge solids.</p>
+<p id="p-0026" num="0025">In one embodiment, a biologically pure culture of <i>Aureobasidium pullulans </i>strain selected from the group consisting of NRRL No. 50792, NRRL No. 50793, NRRL No. 50794, and NRRL No. 50795 is disclosed.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0006" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a flow chart for the HQSPC conversion process.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a flow chart for the HQSPC conversion process for aqua feeds.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows bench scale, extended incubation trials to evaluate HQSPC composition and yield.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows a flow chart for the HP-DDGS conversion process for aqua feeds.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows the effect of moisture content and extrusion speed on glucose recovery following extrusion of HP-DDGS at 100&#xb0; C.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0007" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0032" num="0031">Before the present composition, methods, and methodologies are described, it is to be understood that this invention is not limited to particular compositions, methods, and experimental conditions described, as such compositions, methods, and conditions may vary. It is also to be understood that the terminology used herein is for purposes of describing particular embodiments only, and is not intended to be limiting, since the scope of the present invention will be limited only in the appended claims.</p>
+<p id="p-0033" num="0032">As used in this specification and the appended claims, the singular forms &#x201c;a&#x201d;, &#x201c;an&#x201d;, and &#x201c;the&#x201d; include plural references unless the context clearly dictates otherwise. Thus, for example, references to &#x201c;a nucleic acid&#x201d; includes one or more nucleic acids, and/or compositions of the type described herein which will become apparent to those persons skilled in the art upon reading this disclosure and so forth.</p>
+<p id="p-0034" num="0033">Unless defined otherwise, all technical and scientific terms used herein have the same meaning as commonly understood by one of ordinary skill in the art to which this invention belongs. Any methods and materials similar or equivalent to those described herein can be used in the practice or testing of the invention, as it will be understood that modifications and variations are encompassed within the spirit and scope of the instant disclosure.</p>
+<p id="p-0035" num="0034">As used herein, &#x201c;about,&#x201d; &#x201c;approximately,&#x201d; &#x201c;substantially&#x201d; and &#x201c;significantly&#x201d; will be understood by a person of ordinary skill in the art and will vary in some extent depending on the context in which they are used. If there are uses of the term which are not clear to persons of ordinary skill in the art given the context in which it is used, &#x201c;about&#x201d; and &#x201c;approximately&#x201d; will mean plus or minus &#x3c;10% of particular term and &#x201c;substantially&#x201d; and &#x201c;significantly&#x201d; will mean plus or minus &#x3e;10% of the particular term.</p>
+<p id="p-0036" num="0035">As used herein, the term &#x201c;animal&#x201d; means any organism belonging to the kingdom Animalia and includes, without limitation, humans, birds (e.g. poultry), mammals (e.g. cattle, swine, goal, sheep, cat, dog, mouse and horse) as well as aquaculture organisms such as fish (e.g. trout, salmon, perch), mollusks (e.g. clams) and crustaceans (e.g. lobster and shrimp).</p>
+<p id="p-0037" num="0036">Use of the term &#x201c;fish&#x201d; includes all vertebrate fish, which may be bony or cartilaginous fish.</p>
+<p id="p-0038" num="0037">As used herein &#x201c;non-animal based protein&#x201d; means that the protein concentrate comprises at least 0.81 g of crude fiber/100 g of composition (dry matter basis), which crude fiber is chiefly cellulose and lignin material obtained as a residue in the chemical analysis of vegetable substances.</p>
+<p id="p-0039" num="0038">As used herein, &#x201c;incubation process&#x201d; means the provision of proper conditions for growth and development of bacteria or cells, where such bacteria or cells use biosynthetic pathways to metabolize various feed stocks. In embodiments, the incubation process may be carried out, for example, under aerobic conditions. In other embodiments, the incubation process may include fermentation.</p>
+<p id="p-0040" num="0039">As used herein, the term &#x201c;incubation products&#x201d; means any residual substances directly resulting from an incubation process/reaction. In some instances, an incubation product contains microorganisms such that it has a nutritional content enhanced as compared to an incubation product that is deficient in such microorganisms. The incubation products may contain suitable constituent(s) from an incubation broth. For example, the incubation products may include dissolved and/or suspended constituents from an incubation broth. The suspended constituents may include undissolved soluble constituents (e.g., where the solution is supersaturated with one or more components) and/or insoluble materials present in the incubation broth. The incubation products may include substantially all of the dry solids present at the end of an incubation (e.g., by spray drying an incubation broth and the biomass produced by the incubation) or may include a portion thereof. The incubation products may include crude material from incubation where a microorganism may be fractionated and/or partially purified to increase the nutrient content of the material.</p>
+<p id="p-0041" num="0040">As used herein, a &#x201c;conversion culture&#x201d; means a culture of microorganisms which are contained in a medium that comprises material sufficient for the growth of the microorganisms, e.g., water and nutrients. The term &#x201c;nutrient&#x201d; means any substance with nutritional value. It can be part of an animal feed or food supplement for an animal. Exemplary nutrients include but are not limited to proteins, peptides, fats, fatty acids, lipids, water and fat soluble vitamins, essential amino acids, carbohydrates, sterols, enzymes and trace minerals, such as, phosphorus, iron, copper, zinc, manganese, magnesium, cobalt, iodine, selenium, molybdenum, nickel, fluorine, vanadium, tin, and silicon.</p>
+<p id="p-0042" num="0041">Conversion is the process of culturing microorganisms in a conversion culture under conditions suitable to convert protein/carbohydrate/polysaccharide materials, for example, soybean material into a high-quality protein concentrate. Adequate conversion means utilization of 90% or more of specified carbohydrates to produce microbial cell mass and/or exopolysaccharide. In embodiments, conversion may be aerobic or anaerobic.</p>
+<p id="p-0043" num="0042">As used herein a &#x201c;flocculent&#x201d; or &#x201c;clearing agent&#x201d; is a chemical that promotes colloids to come out of suspension through aggregation, and includes, but is not limited to, a multivalent ion and polymer. In embodiments, such a flocculent/clearing agent may include bioflocculents such as exopolysaccharides.</p>
+<p id="p-0044" num="0043">A large number of plant protein sources may be used in connection with the present disclosure as feed stocks for conversion. The main reason for using plant proteins in the feed industry is to replace more expensive protein sources, like animal protein sources. Another important factor is the danger of transmitting diseases thorough feeding animal proteins to animals of the same species. Examples for plant protein sources include, but are not limited to, protein from the plant family Fabaceae as exemplified by soybean and peanut, from the plant family Brassiciaceae as exemplified by canola, cottonseed, the plant family Asteraceae including, but not limited to sunflower, and the plant family Arecaceae including copra. These protein sources, also commonly defined as oilseed proteins may be fed whole, but they are more commonly fed as a by-product after oils have been removed. Other plant protein sources include plant protein sources from the family Poaceae, also known as Gramineae, like cereals and grains especially corn, wheat and rice or other staple crops such as potato, cassava, and legumes (peas and beans), some milling by-products including germ meal or corn gluten meal, or distillery/brewery by-products. In embodiments, feed stocks for proteins include, but are not limited to, plant materials from soybeans, peanuts, Rapeseeds, barley, canola, sesame seeds, cottonseeds, palm kernels, grape seeds, olives, safflowers, sunflowers, copra, corn, coconuts, linseed, hazelnuts, wheat, rice, potatoes, cassavas, legumes, camelina seeds, mustard seeds, germ meal, corn gluten meal, distillery/brewery by-products, and combinations thereof.</p>
+<p id="p-0045" num="0044">In the fish farming industry the major fishmeal replacers with plant origin reportedly used, include, but are not limited to, soybean meal (SBM), maize gluten meal, Rapeseed/canola (<i>Brassica </i>sp.) meal, lupin (<i>Lupinus </i>sp. like the proteins in kernel meals of de-hulled white (<i>Lupinus albus</i>), sweet (<i>L. angustifolius</i>) and yellow (<i>L. luteus</i>) lupins, Sunflower (<i>Helianthus annuus</i>) seed meal, crystalline amino acids; as well as pea meal (<i>Pisum sativum</i>), Cottonseed (<i>Gossypium </i>sp.) meal, Peanut (groundnut; <i>Arachis hypogaea</i>) meal and oilcake, soybean protein concentrate, corn (<i>Zea mays</i>) gluten meal and wheat (<i>Triticum aestivum</i>) gluten, Potato (<i>Solanum tuberosum </i>L.) protein concentrate as well as other plant feedstuffs like <i>Moringa </i>(<i>Moringa oleifera </i>Lam.) leaves, all in various concentrations and combinations.</p>
+<p id="p-0046" num="0045">The protein sources may be in the form of non-treated plant materials and treated and/or extracted plant proteins. As an example, heat treated soy products have high protein digestibility.</p>
+<p id="p-0047" num="0046">A protein material includes any type of protein or peptide. In embodiments, soybean material or the like may be used such as whole soybeans. Whole soybeans may be standard, commoditized soybeans; soybeans that have been genetically modified (GM) in some manner; or non-GM identity preserved soybeans. Exemplary GM soybeans include, for example, soybeans engineered to produce carbohydrates other than stachyose and raffinose. Exemplary non-GM soybeans include, for example, Schillinger varieties that are line bred for low carbohydrates, and low trypsin inhibition.</p>
+<p id="p-0048" num="0047">Other types of soybean material include soy protein flour, soy protein concentrate, soybean meal and soy protein isolate, or mixtures thereof. The traditional processing of whole soybean into other forms of soy protein such as soy protein flours, soy protein concentrates, soybean meal and soy protein isolates, includes cracking the cleaned, raw whole soybean into several pieces, typically six (6) to eight (8), to produce soy chips and hulls, which are then removed. Soy chips are then conditioned at about 60&#xb0; C. and flaked to about 0.25 millimeter thickness. The resulting flakes are then extracted with an inert solvent, such as a hydrocarbon solvent, typically hexane, in one of several types of countercurrent extraction systems to remove the soybean oil. For soy protein flours, soy protein concentrates, and soy protein isolates, it is important that the flakes be desolventized in a manner which minimizes the amount of cooking or toasting of the soy protein to preserve a high content of water-soluble soy protein. This is typically accomplished by using vapour desolventizers or flash desolventizers. The flakes resulting from this process are generally referred to as &#x201c;edible defatted flakes&#x201d; or &#x201c;white soy(bean) flakes.&#x201d;</p>
+<p id="p-0049" num="0048">White soy bean flakes, which are the starting material for soy protein flour, soy protein concentrate, and soy protein isolate, have a protein content of approximately 50%. White soybean flakes are then milled, usually in an open-loop grinding system, by a hammer mill, classifier mill, roller mill or impact pin mill first into grits, and with additional grinding, into soy flours with desired particle sizes. Screening is typically used to size the product to uniform particle size ranges, and can be accomplished with shaker screens or cylindrical centrifugal screeners. Other oil seeds may be processed in a similar manner.</p>
+<p id="p-0050" num="0049">In embodiments, distiller's dried grain solubles (DDGS) may be used. DDGS are currently manufactured by the corn ethanol industry. Traditional DDGS comes from dry grind facilities, in which the entire corn kernel is ground and processed. DDGS in these facilities typically contains 28-32% protein.</p>
+<p id="p-0051" num="0050">The protein sources may be in the form of non-treated plant materials and treated and/or extracted plant proteins. As an example, heat treated soy products have high protein digestibility. Still, the upper inclusion level for full fat or defatted soy meal inclusion in diets for carnivorous fish is between an inclusion level of 20 to 30%, even if heat labile antinutrients are eliminated. In fish, soybean protein has shown that feeding fish with protein concentration inclusion levels over 30% causes intestinal damage and in general reduces growth performance in different fish species. In fact, most farmers are reluctant to use more than 10% plant proteins in the total diet due to these effects.</p>
+<p id="p-0052" num="0051">The present invention solves this problem and allows for plant protein inclusion levels of up to 40 or even 50%, depending on, amongst other factors, the animal species being fed, the origin of the plant protein source, the ratio of different plant protein sources, the protein concentration and the amount, origin, molecular structure and concentration of the glucan and/or mannan. In embodiments, the plant protein inclusion levels are up to 40%, preferably up to 20 or 30%. Typically the plant protein present in the diet is between 5 and 40%, preferably between 10 or 15 and 30%. These percentages define the percentage amount of a total plant protein source in the animal feed or diet, this includes fat, ashes etc. In embodiments, pure protein levels are up to 50%, typically up to 45%, in embodiments 5-95%.</p>
+<p id="p-0053" num="0052">The proportion of plant protein to other protein in the total feed or diet may be 5:95 to 95:5, 15:85 to 50:50, or 25:75 to 45:55.</p>
+<heading id="h-0008" level="2">Microorganisms</heading>
+<p id="p-0054" num="0053">The disclosed microorganisms must be capable of converting carbohydrates and other nutrients into a high-quality protein concentrate in a conversion culture. In embodiments, the microorganism is a yeast-like fungus. An example of a yeast-like fungus is <i>Aurobasidium pullulans</i>. Other example microorganisms include yeast such as <i>Kluyveromyces </i>and <i>Pichia </i>spp, Lactic acid bacteria, <i>Trichoderma reesei, Pleurotus ostreatus, Rhizopus </i>spp, and many types of lignocellulose degrading microbes. Generally, exemplary microbes include those microbes that can metabolize stachyose, raffinose, xylose and other sugars. However, it is within the abilities of a skilled artisan to pick, without undue experimentation, other appropriate microorganisms based on the disclosed methods.</p>
+<p id="p-0055" num="0054">In embodiments, the microbial organisms that may be used in the present process include, but are not limited to, <i>Aureobasidium pullulans, Sclerotium glucanicum, Sphingomonas paucimobilis, Ralstonia eutropha, Rhodospirillum rubrum, Kluyveromyces </i>and <i>Pichia </i>spp, <i>Trichoderma reesei, Pleurotus ostreatus, Rhizopus </i>spp, and combinations thereof. In embodiments, the microbe is <i>Aureobasidium pullulans. </i></p>
+<p id="p-0056" num="0055">In embodiments, the <i>A. pullulans </i>is adapted to various environments/stressors encountered during conversion. In embodiments, an <i>A. pullulans </i>strain denoted by NRRL deposit No. 50793, which was deposited with the Agricultural Research Culture Collection (NRRL), Peoria, Ill., under the terms of the Budapest Treaty on Nov. 30, 2012, exhibits lower gum production and is adapted to DDGC. In embodiments, an <i>A. pullulans </i>strain denoted by NRRL deposit No. 50792, which was deposited with the Agricultural Research Culture Collection (NRRL), Peoria, Ill., under the terms of the Budapest Treaty on Nov. 30, 2012, is adapted to high levels of the antibiotic tetracycline (e.g., from about 75 &#x3bc;g/ml tetracycline to about 200 &#x3bc;g/ml tetracycline). In embodiments, an <i>A. pullulans </i>strain denoted by NRRL deposit No. 50794, which was deposited with the Agricultural Research Culture Collection (NRRL), Peoria, Ill., under the terms of the Budapest Treaty on Nov. 30, 2012, is adapted to high levels of the antibiotic LACTROL&#xae; (e.g., from about 2 &#x3bc;g/ml virginiamycin to about 6 &#x3bc;g/ml virginiamycin). In embodiments, an <i>A. pullulans </i>strain denoted by NRRL deposit No. 50795, which was deposited with the Agricultural Research Culture Collection (NRRL), Peoria, Ill., under the terms of the Budapest Treaty on Nov. 30, 2012, is acclimated to condensed corn solubles.</p>
+<heading id="h-0009" level="2">Conversion Culture</heading>
+<p id="p-0057" num="0056">In exemplary embodiments, after pretreatment, the protein material (such as extruded soy white flakes) may be blended with water at a solid loading rate of at least 5%, with pH adjusted to 4.5-5.5. Then appropriate dosages of hydrolytic enzymes may be added and the slurry incubated with agitation at 150-250 rpm at 50&#xb0; C. for 3-24 h. After cooling to 35&#xb0; C., an inoculum of <i>A. pullulans </i>may be added and the culture may be incubated for an additional 72-120 h, or until the carbohydrates are consumed. During incubation, sterile air may be sparged into the reactor at a rate of 0.5-1 L/L/h. In embodiments, the conversion culture undergoes conversion by incubation with the soybean material for less than about 96 hours. In embodiments, the conversion culture will be incubated for between about 96 hours and about 120 hours. In embodiments, the conversion culture may be incubated for more than about 120 hours. The conversion culture may be incubated at about 35&#xb0; C.</p>
+<p id="p-0058" num="0057">In embodiments, the pH of the conversion culture, while undergoing conversion, may be about 4.5 to about 5.5. In embodiments, the pH of the conversion culture may be less than 4.5 (e.g., at pH 3). In embodiments, the conversion culture may be actively aerated such as is disclosed in Deshpande et al., <i>Aureobasidium pullulans </i>in applied microbiology: A status report, Enzyme and Microbial Technology (1992), 14(7):514.</p>
+<p id="p-0059" num="0058">The high-quality protein concentrate (HQPC), as well as pullulan and siderophores, may be recovered from the conversion culture following the conversion process by optionally alcohol precipitation and centrifugation. An example alcohol is ethanol, although the skilled artisan understands that other alcohols should work. In embodiments, salts may also be used to precipitate. Exemplary salts may be salts of potassium, sodium and magnesium chloride. In embodiments, a polymer or mutilvalent ions may be used alone or in combination with the alcohol.</p>
+<p id="p-0060" num="0059">In embodiments, final protein concentrations solids recovery may be modulated by varying incubation times. For example, about 75% protein may be achieved with a 14 day incubation, where the solids recovery is about 16-20%. In embodiments, incubation for 2-2.5 days increase solids recovery to about 60-64%, and protein level of 58-60% in the HQPC. In embodiments, 4-5 day incubation may maximize both protein content (e.g., but not limited to greater than about 70%) and solids recovery (e.g., but not limited to greater than about 60%). These numbers may greater or lower, depending on the feed stock. In embodiments, the protein concentrates (i.e., HQSPC or HP-DDGS) may have a specific lipid:protein ratio, e.g., at about 0.010:1 to about 0.03:1, about 0.020:1 to about 0.025:1 or about 0.021:1 to about 0.023:1.</p>
+<p id="p-0061" num="0060">In embodiments, feed stocks may be extruded in a single screw extruder (e.g., BRABENDER PLASTI-CORDER EXTRUDER Model PL2000, Hackensack, N.J.) with a barrel length to screw diameter of 1:20 and a compression ratio of 3:1, although other geometries and ratios may be used. Feed stocks may be adjusted to about 10% to about 15% moisture, to about 15%, or to about 25% moisture. The temperature of feed, barrel, and outlet sections of extruder may be held at between about 40&#xb0; C. to about 50&#xb0; C. or to about 50&#xb0; C. to about 100&#xb0; C., about 100&#xb0; C. to about 150&#xb0; C., about 150&#xb0; C. to about 170&#xb0; C., and screw speed may be set at about 50 rpm to about 75 rpm or about 75 rpm to about 100 rpm or about 100 rpm to about 200 rpm to about 250 rpm. In embodiments, the screw speed is sufficient to provide a shearing effect against the ridged channels on both sides of a barrel. In embodiments, screw speed is selected to maximize sugar release.</p>
+<p id="p-0062" num="0061">In embodiments, extruded feed stock materials (e.g., plant proteins or DDGS) may be mixed with water to achieve a solid loading rate of at least 5% in a reactor (e.g., a 5 L NEW BRUNSWICK BIOFLO 3 BIOREACTOR; 3-4 L working volume). The slurry may be autoclaved, cooled, and then saccharified by subjection to enzymatic hydrolysis using a cocktail of enzymes including, but not limited to, endo-xylanase and beta-xylosidase, Glycoside Hydrolase, &#xdf;-glucosidases, hemicellulase activities. In one aspect, the cocktail of enzymes includes NOVOZYME&#xae; enzymes. Dosages to be may include 6% CELLICCTEK&#xae; (per gm glucan), 0.3% CELLICHTEK&#xae; (per gm total solids), and 0.15% NOVOZYME 960&#xae; (per gm total solids). Saccharification may be conducted for about 12 h to about 24 h at 40&#xb0; to about 50&#xb0; C. and about 150 rpm to about 200 rpm to solubilize the fibers and oligosaccharides into simple sugars. The temperature may then be reduced to between about 30&#xb0; C. to about 37&#xb0; C., in embodiments to about 35&#xb0; C., and the slurry may be inoculated with 2% (v/v) of a 24 h culture of the microbe. The slurry may be aerated at 0.5 L/L/min and incubation may be continued until sugar utilization ceases or about 96 h to about 120 h. In fed-batch conversions more extruded feed stock may be added during either saccharification and/or the microbial conversion phase.</p>
+<p id="p-0063" num="0062">In embodiments, the feed stock and/or extrudate may be treated with one or more antibiotics (e.g., but not limited to, tetracycline, penicillin, erythromycin, tylosin, virginiamycin, and combinations thereof) before inoculation with the converting microbe to avoid, for example, contamination by unwanted bacteria strains.</p>
+<p id="p-0064" num="0063">During incubation, samples may be removed at 6-12 h intervals. Samples for HPLC analysis may be boiled, centrifuged, filtered (e.g., through 0.22-&#x3bc;m filters), placed into autosampler vials, and frozen until analysis. In embodiments, samples may be assayed for carbohydrates and organic solvents using a WATERS HPLC system, although other HPLC systems may be used. Samples may be subjected to plate or hemocytometer counts to assess microbial populations. Samples may also be assayed for levels of cellulose, hemicellulose, and pectin using National Renewable Energy Laboratory procedures.</p>
+<heading id="h-0010" level="2">Dietary Formulations</heading>
+<p id="p-0065" num="0064">In exemplary embodiments, the high-quality protein concentrate recovered from the conversion culture that has undergone conversion is used in dietary formulations. In embodiments, the recovered high-quality protein concentrate (HQPC) will be the only protein source in the dietary formulation. Protein source percentages in dietary formulations are not meant to be limiting and may include 24 to 80% protein. In embodiments, the high-quality protein concentrate (HQPC) will be more than about 50%, more than about 60%, or more than about 70% of the total dietary formulation protein source. Recovered HQPC may replace protein sources such as fish meal, soybean meal, wheat and corn flours and glutens and concentrates, and animal byproduct such as blood, poultry, and feather meals. Dietary formulations using recovered HQPC may also include supplements such as mineral and vitamin premixes to satisfy remaining nutrient requirements as appropriate.</p>
+<p id="p-0066" num="0065">In certain embodiments, performance of the HQPC, such as high-quality soy protein concentrate (HQSPC) or high-quality DDGS (HP-DDGS), may be measured by comparing the growth, feed conversion, protein efficiency, and survival of animal on a high-quality protein concentrate dietary formulation to animals fed control dietary formulations, such as fish-meal. In embodiments, test formulations contain consistent protein, lipid, and energy contents. For example, when the animal is a fish, viscera (fat deposition) and organ (liver and spleen) characteristics, dress-out percentage, and fillet proximate analysis, as well as intestinal histology (enteritis) may be measured to assess dietary response.</p>
+<p id="p-0067" num="0066">As is understood, individual dietary formulations containing the recovered HQPC may be optimized for different kinds of animals. In embodiments, the animals are fish grown in commercial aquaculture. Methods for optimization of dietary formulations are well-known and easily ascertainable by the skilled artisan without undue experimentation.</p>
+<p id="p-0068" num="0067">Complete grower diets may be formulated using HQPC in accordance with known nutrient requirements for various animal species. In embodiments, the formulation may be used for yellow perch (e.g., 42% protein, 8% lipid). In embodiments, the formulation may be used for rainbow trout (35% protein, 16% lipid). In embodiments, the formulation may be used for any one of the animals recited supra.</p>
+<p id="p-0069" num="0068">Basal mineral and vitamin premixes for plant-based diets may be used to ensure that micro-nutrient requirements will be met. Any supplements (as deemed necessary by analysis) may be evaluated by comparing to an identical formulation without supplementation; thus, the feeding trial may be done in a factorial design to account for supplementation effects. In embodiments, feeding trials may include a fish meal-based control diet and ESPC- and LSPC-based reference diets [traditional SPC (TSPC) is produced from solvent washing soy flake to remove soluble carbohydrate; texturized SPC (ESPC) is produced by extruding TSPC under moist, high temperature; and low-antigen SPC (LSPC) is produced from TSPC by altering the solvent wash and temperature during processing]. Pellets for feeding trials may be produced using the lab-scale single screw extruder (e.g., BRABENDERPLASTI-CORDER EXTRUDER Model PL2000).</p>
+<heading id="h-0011" level="2">Feeding Trials</heading>
+<p id="p-0070" num="0069">In embodiments, a replication of four experimental units per treatment (i.e., each experimental and control diet blend) may be used (e.g., about 60 to 120 days each). Trials may be carried out in 110-L circular tanks (20 fish/tank) connected in parallel to a closed-loop recirculation system driven by a centrifugal pump and consisting of a solids sump, and bioreactor, filters (100 &#x3bc;m bag, carbon and ultra-violet). Heat pumps may be used as required to maintain optimal temperatures for species-specific growth. Water quality (e.g., dissolved oxygen, pH, temperature, ammonia and nitrite) may be monitored in all systems.</p>
+<p id="p-0071" num="0070">In embodiments, experimental diets may be delivered according to fish size and split into two to five daily feedings. Growth performance may be determined by total mass measurements taken at one to four weeks (depending upon fish size and trial duration); rations may be adjusted in accordance with gains to allow satiation feeding and to reduce waste streams. Consumption may be assessed biweekly from collections of uneaten feed from individual tanks. Uneaten feed may be dried to a constant temperature, cooled, and weighed to estimate feed conversion efficiency. Protein and energy digestibilities may determined from fecal material manually stripped during the midpoint of each experiment or via necropsy from the lower intestinal tract at the conclusion of a feeding trial. Survival, weight gain, growth rate, health indices, feed conversion, protein and energy digestibilities, and protein efficiency may be compared among treatment groups. Proximate analysis of necropsied fishes may be carried out to compare composition of fillets among dietary treatments. Analysis of amino and fatty acids may be done as needed for fillet constituents, according to the feeding trial objective. Feeding trial responses of dietary treatments may be compared to a control (e.g., fish meal) diet response to ascertain whether performance of HQPC diets meet or exceed control responses.</p>
+<p id="p-0072" num="0071">Statistical analyses of diets and feeding trial responses may be completed with an a priori &#x3b1;=0.05. Analysis of performance parameters among treatments may be performed with appropriate analysis of variance or covariance (Proc Mixed) and post hoc multiple comparisons, as needed. Analysis of fish performance and tissue responses may be assessed by nonlinear models.</p>
+<p id="p-0073" num="0072">In embodiments, the present disclosure proposes to convert fibers and other carbohydrates in soy flakes/meal or DDGS into additional protein using, for example, a GRAS-status microbe. A microbial exopolysaccharide (i.e., gum) may also be produced that may facilitate extruded feed pellet formation, negating the need for binders. This microbial gum may also provide immunostimulant activity to activate innate defense mechanisms that protect fish from common pathogens resulting from stressors. Immunoprophylactic substances, such as &#x3b2;-glucans, bacterial products, and plant constituents, are increasingly used in commercial feeds to reduce economic losses due to infectious diseases and minimize antibiotic use. The microbes of the present disclosure also produce extracellular peptidases, which should increase corn protein digestibility and absorption during metabolism, providing higher feed efficiency and yields. As disclosed herein, this microbial incubation process provides a valuable, sustainable aquaculture feed that is less expensive per unit of protein than SBM, SPC, and fish meal.</p>
+<p id="p-0074" num="0073">As disclosed, the instant microbes may metabolize the individual carbohydrates in soy flakes/meal or DDGS, producing both cell mass (protein) and a microbial gum. Various strains of these microbes also enhance fiber deconstruction. The microbes of the present invention may also convert soy and corn proteins into more digestible peptides and amino acids. In embodiments, the following actions in may be performed: 1) determining the efficiency of using select microbes of the present disclosure to convert pretreated soy protein, oil seed proteins, DDGS and the like, yielding a high quality protein concentrate (HQPC) with a protein concentration of at least 45%, and 2) assessing the effectiveness of HQPC in replacing fish meal. In embodiments, optimizing soy, oil seed, and DDGS pretreatment and conversion conditions may be carried out to improve the performance and robustness of the microbes, test the resultant grower feeds for a range of commercially important fishes, validate process costs and energy requirements, and complete steps for scale-up and commercialization. In embodiments, the HQPC of the present disclosure may be able to replace at least 50% of fish meal, while providing increased growth rates and conversion efficiencies. Production costs should be less than commercial soy protein concentrate (SPC) and substantially less than fish meal.</p>
+<p id="p-0075" num="0074"><figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref> show the approach of the present disclosure in the pretreatment of plant based product, converting sugars into cell mass (protein) and gum, recovering HQSPC and generating aqua feeds, and testing the resulting aqua feeds in fish feeding trials.</p>
+<p id="p-0076" num="0075">After extrusion pretreatment, cellulose-deconstructing enzymes may be evaluated to generate sugars, which microbes of the present disclosure may convert to protein and gum. In embodiments, sequential omission of these enzymes and evaluation of co-culturing with cellulolytic microbes may be used. Ethanol may be evaluated to precipitate the gum and improve centrifugal recovery of the HQPC. After drying, the HQPC may be incorporated into practical diet formulations. In embodiments, test grower diets may be formulated (with mineral and vitamin premixes) and comparisons to a fish-meal control and commercial SPC (SPC is distinctly different from soybean meal, as it contains traces of oligopolysaccharides and antigenic substances glycinin and b-conglycinin) diets in feeding trials with a commercially important fish, e.g., yellow perch or rainbow trout, may be performed. Performance (e.g., growth, feed conversion, protein efficiency), viscera characteristics, and intestinal histology may be examined to assess fish responses.</p>
+<p id="p-0077" num="0076">In other embodiments, optimizing the HQPC production process by determining optimum pretreatment and conversion conditions while minimizing process inputs, improving the performance and robustness of the microbe, testing the resultant grower feeds for a range of commercially important fishes, validating process costs and energy requirements, and completing initial steps for scale-up and commercialization may be carried out.</p>
+<p id="p-0078" num="0077">In the past few years, a handful of facilities have installed a dry mill capability that removes corn hulls and germ prior to the ethanol production process. This dry fractionation process yields a DDGS with up to 42% protein (hereafter referred to as dryfrac DDGS). In embodiments, conventional and dryfrac DDGS under conditions previously determined to rapidly generate a sufficient amount of high protein DDGS (HP-DDGS) for use in perch feeding trials may be compared. In embodiments, careful monitoring of the performance of this conversion (via chemical composition changes) is carried out and parameters with the greatest impact on HP-DDGS quality identified. In some embodiments, low oil DDGS may be used as a substrate for conversion, where such low oil DDGS has a higher protein level than conventional DDGS. In a related aspect, low oil DDGS increase growth rates of <i>A. pullulans </i>compared to conventional DDGS.</p>
+<p id="p-0079" num="0078">Several groups are evaluating partial replacement of fish-meal with plant derived proteins, such as soybean meal and DDGS. However, the lower protein content, inadequate amino acid balance, and presence of anti-nutritional factors have limited the replacement levels to 20-40%. Preliminary growth trials indicate that no current DDGS or SPC-based diets provide performance similar to fish-meal control diets. Several deficiencies have been identified among commercially produced DDGS and SPCs, principally in protein and amino acid composition, which impart variability in growth performance and fish composition. However, HP-DDGS and HQSPC diets as disclosed herein containing nutritional supplements (formulated to meet or exceed all requirements) have provided growth results that are similar to or exceed fish-meal controls. Thus, the processes as disclosed herein and products developed therefrom provide a higher quality HQSPC or HP-DDGS (relative to nutritional requirements) and support growth performance equivalent to or better than diets containing fish meal.</p>
+<p id="p-0080" num="0079">Fish that can be fed the fish feed composition of the present disclosure include, but are not limited to, Siberian sturgeon, Sterlet sturgeon, Starry sturgeon, White sturgeon, Arapaima, Japanese eel, American eel, Short-finned eel, Long-finned eel, European eel, Chanos chanos, Milkfish, Bluegill sunfish, Green sunfish, White crappie, Black crappie, Asp, Catla, Goldfish, Crucian carp, Mud carp, Mrigal carp, Grass carp, Common carp, Silver carp, Bighead carp, Orangefin labeo, Roho labeo, Hoven's carp, Wuchang bream, Black carp, Golden shiner, Nilem carp, White amur bream, Thai silver barb, Java, Roach, Tench, Pond loach, Bocachico, Dorada, Cachama, Cachama Blanca, Paco, Black bullhead, Channel catfish, Bagrid catfish, Blue catfish, Wels catfish, Pangasius (Swai, Tra, Basa) catfish, Striped catfish, Mudfish, Philippine catfish, Hong Kong catfish, North African catfish, Bighead catfish, Sampa, South American catfish, Atipa, Northern pike, Ayu sweetfish, Vendace, Whitefish, Pink salmon, Chum salmon, Coho salmon, Masu salmon, Rainbow trout, Sockeye salmon, Chinook salmon, Atlantic salmon, Sea trout, Arctic char, Brook trout, Lake trout, Atlantic cod, Pejerrey, Lai, Common snook, Barramundi/Asian sea bass, Nile perch, Murray cod, Golden perch, Striped bass, White bass, European seabass, Hong Kong grouper, Areolate grouper, Greasy grouper, Spotted coralgrouper, Silver perch, White perch, Jade perch, Largemouth bass, Smallmouth bass, European perch, Zander (Pike-perch), Yellow Perch, Sauger, Walleye, Bluefish, Greater amberjack, Japanese amberjack, Snubnose pompano, Florida pompano, Palometa pompano, Japanese jack mackerel, Cobia, Mangrove red snapper, Yellowtail snapper, Dark seabream, White seabream, Crimson seabream, Red seabream, Red porgy, Goldlined seabream, Gilthead seabream, Red drum, Green terror, Blackbelt cichlid, Jaguar guapote, Mexican mojarra, Pearlspot, Three spotted tilapia, Blue tilapia, Longfin tilapia, Mozambique tilapia, Nile tilapia, Tilapia, Wami tilapia, Blackchin tilapia, Redbreast tilapia, Redbelly tilapia, Golden grey mullet, Largescale mullet, Gold-spot mullet, Thinlip grey mullet, Leaping mullet, Tade mullet, Flathead grey mullet, White mullet, Lebranche mullet, Pacific fat sleeper, Marble goby, White-spotted spinefoot, Goldlined spinefoot, Marbled spinefoot, Southern bluefin tuna, Northern bluefin tuna, Climbing perch, Snakeskin gourami, Kissing gourami, Giant gourami, Snakehead, Indonesian snakehead, Spotted snakehead, Striped snakehead, Turbot, Bastard halibut (Japanese flounder), Summer Flounder, Southern flounder, Winter flounder, Atlantic Halibut, Greenback flounder, Common sole, and combinations thereof</p>
+<p id="p-0081" num="0080">It will be appreciated by the skilled person that the fish feed composition of the present disclosure may be used as a convenient carrier for pharmaceutically active substances such as for example antimicrobial agents and immunologically active substances including vaccines against bacterial or viral infections, and any combination thereof.</p>
+<p id="p-0082" num="0081">The fish feed composition according to present disclosure may be provided as a liquid, pourable emulsion, or in the form of a paste, or in a dry form, for example as a granulate, a powder, or as flakes. When the fish feed composition is provided as an emulsion, a lipid-in-water emulsion, it is may be in a relatively concentrated form. Such a concentrated emulsion form may also be referred to as a pre-emulsion as it may be diluted in one or more steps in an aqueous medium to provide the final enrichment medium for the organisms.</p>
+<p id="p-0083" num="0082">In embodiments, cellulosic-containing starting material for the microbial-based process as disclosed is corn. Corn is about two-thirds starch, which is converted during a fermentation and distilling process into ethanol and carbon dioxide. The remaining nutrients or fermentation products may result in condensed distiller's solubles or distiller's grains such as DDGS, which can be used in feed products. In general, the process involves an initial preparation step of dry milling or grinding of the corn. The processed corn is then subject to hydrolysis and enzymes added to break down the principal starch component in a saccharification step. The following step of fermentation is allowed to proceed upon addition of a microorganism (e.g., yeast) provided in accordance with an embodiment of the disclosure to produce gaseous products such as carbon dioxide. The fermentation is conducted for the production of ethanol which can be distilled from the fermentation broth. The remainder of the fermentation medium can be then dried to produce fermentation products including DDGS. This step usually includes a solid/liquid separation process by centrifugation wherein a solid phase component can be collected. Other methods including filtration and spray dry techniques can be employed to effect such separation. The liquid phase components can be subjected further afterwards to an evaporation step that can concentrate soluble coproducts, such as sugars, glycerol and amino acids, into a material called syrup or condensed corn solubles (CC S). The CCS can then be recombined with the solid phase component to be dried as incubation products (DDGS). It shall be understood that the subject compositions and can be applied to new or already existing ethanol plants based on dry milling to provide an integrated ethanol production process that also generates fermentation products with increased value.</p>
+<p id="p-0084" num="0083">In embodiments, incubation products produced according to the present disclosure have a higher commercial value than the conventional fermentation products. For example, the incubation products may include enhanced dried solids with improved amino acid and micronutrient content. A &#x201c;golden colored&#x201d; product can be thus provided which generally indicates higher amino acid digestibility compared to darker colored HQSP. For example, a light-colored HQSP may be produced with an increased lysine concentration in accordance with embodiments herein compared to relatively darker colored products with generally less nutritional value. The color of the products may be an important factor or indicator in the assessing the quality and nutrient digestibility of the fermentation products or HQSP. Color is used as an indicator of exposure to excess heat during drying causing caramelization and Millard reactions of the free amino groups and sugars, reducing the quality of some amino acids.</p>
+<p id="p-0085" num="0084">The basic steps in a dry mill or grind ethanol manufacturing process may be described as follows: milling or grinding of corn or other grain product, saccharification, fermentation, and distillation. For example, selected whole corn kernels may be milled or ground with typically either hammer mills or roller mills. The particle size can influence cooking hydration and subsequent enzymatic conversion. The milled or ground corn can be then mixed with water to make a mash that is cooked and cooled. It may be useful to include enzymes during the initial steps of this conversion to decrease the viscosity of the gelatinized starch. The mixture may be then transferred to saccharification reactors, maintained at selected temperatures such as 140&#xb0; F., where the starch is converted by addition of saccharifying enzymes to fermentable sugars such as glucose or maltose. The converted mash can be cooled to desired temperatures such as 84&#xb0; F., and fed to fermentation reactors where fermentable sugars are converted to carbon dioxide by the use of selected strains of microbes provided in accordance with the disclosure that results in more nutritional fermentation products compared to more traditional ingredients such as <i>Saccharomyces </i>yeasts. The resulting product can be flashed to separate out carbon dioxide and the resulting liquid can be fed to a recovery system consisting of distillation columns and a stripping column. The ethanol stream can be directed to a molecular sieve where remaining water is removed using adsorption technology. Purified ethanol, denatured with a small amount of gasoline, can produce fuel grade ethanol. Another product can be produced by further purifying the initial distillate ethanol to remove impurities, resulting in about 99.95% ethanol for non-fuel uses.</p>
+<p id="p-0086" num="0085">The whole stillage can be withdrawn from the bottom of the distillation unit and centrifuged to produce distiller's wet grains (DWG) and thin stillage (liquids). The DWG can leave the centrifuge at 55-65% moisture, and can either be sold wet as a cattle feed or dried as enhanced fermentation products provided in accordance with the disclosure. These products include an enhanced end product that may be referred to herein as distiller's dried grains (DDG). Using an evaporator, the thin stillage (liquid) can be concentrated to form distiller's solubles, which can be added back to and combined with a distiller's grains process stream and dried. This combined product in accordance with embodiments of the disclosure may be marketed as an enhanced fermentation product having increased amino acid and micronutrient content. It shall be understood that various concepts of the disclosure may be applied to other fermentation processes known in the field other than those illustrated herein.</p>
+<p id="p-0087" num="0086">Another aspect of the present invention is directed towards complete fish meal compositions with an enhanced concentration of nutrients which includes microorganisms characterized by an enhanced concentration of nutrients such as, but not limited to, fats, fatty acids, lipids such as phospholipid, vitamins, essential amino acids, peptides, proteins, carbohydrates, sterols, enzymes, and trace minerals such as, iron, copper, zinc, manganese, cobalt, iodine, selenium, molybdenum, nickel, fluorine, vanadium, tin, silicon, and combinations thereof.</p>
+<p id="p-0088" num="0087">In a incubation process of the present disclosure, a carbon source may be hydrolyzed to its component sugars by microorganisms to produce alcohol and other gaseous products. Gaseous product includes carbon dioxide and alcohol includes ethanol. The incubation products obtained after the incubation process are typically of higher commercial value. In embodiments, the incubation products contain microorganisms that have enhanced nutrient content than those products deficient in the microorganisms. The microorganisms may be present in an incubation system, the incubation broth and/or incubation biomass. The incubation broth and/or biomass may be dried (e.g., spray-dried), to produce the incubation products with an enhanced content of the nutritional contents.</p>
+<p id="p-0089" num="0088">For example, the spent, dried solids recovered following the incubation process are enhanced in accordance with the disclosure. These incubation products are generally non-toxic, biodegradable, readily available, inexpensive, and rich in nutrients. The choice of microorganism and the incubation conditions are important to produce a low toxicity or non-toxic incubation product for use as a feed or nutritional supplement. While glucose is the major sugar produced from the hydrolysis of the starch from grains, it is not the only sugar produced in carbohydrates generally. Unlike the SPC or DDG produced from the traditional dry mill ethanol production process, which contains a large amount of non-starch carbohydrates (e.g., as much as 35% percent of cellulose and arabinoxylans-measured as neutral detergent fiber, by dry weight), the subject nutrient enriched incubation products produced by enzymatic hydrolysis of the non-starch carbohydrates are more palatable and digestible to the non-ruminant.</p>
+<p id="p-0090" num="0089">The nutrient enriched incubation product of this disclosure may have a nutrient content of from at least about 1% to about 95% by weight. The nutrient content is preferably in the range of at least about 10%-20%, 20%-30%, 30%-40%, 40%-50%, 50%-60%, 60%-70%, and 70%-80% by weight. The available nutrient content may depend upon the animal to which it is fed and the context of the remainder of the diet, and stage in the animal life cycle. For instance, beef cattle require less histidine than lactating cows. Selection of suitable nutrient content for feeding animals is well known to those skilled in the art.</p>
+<p id="p-0091" num="0090">The incubation products may be prepared as a spray-dried biomass product. Optionally, the biomass may be separated by known methods, such as centrifugation, filtration, separation, decanting, a combination of separation and decanting, ultrafiltration or microfiltration. The biomass incubation products may be further treated to facilitate rumen bypass. In embodiments, the biomass product may be separated from the incubation medium, spray-dried, and optionally treated to modulate rumen bypass, and added to feed as a nutritional source. In addition to producing nutritionally enriched incubation products in a incubation process containing microorganisms, the nutritionally enriched incubation products may also be produced in transgenic plant systems. Methods for producing transgenic plant systems are known in the art. Alternatively, where the microorganism host excretes the nutritional contents, the nutritionally-enriched broth may be separated from the biomass produced by the incubation and the clarified broth may be used as an animal feed ingredient, e.g., either in liquid form or in spray dried form.</p>
+<p id="p-0092" num="0091">The incubation products obtained after the incubation process using microorganisms may be used as an animal feed or as food supplement for humans. The incubation product includes at least one ingredient that has an enhanced nutritional content that is derived from a non-animal source (e.g., a bacteria, yeast, and/or plant). In particular, the incubation products are rich in at least one or more of fats, fatty acids, lipids such as phospholipid, vitamins, essential amino acids, peptides, proteins, carbohydrates, sterols, enzymes, and trace minerals such as, iron, copper, zinc, manganese, cobalt, iodine, selenium, molybdenum, nickel, fluorine, vanadium, tin and silicon. In embodiments, the peptides contain at least one essential amino acid. In other embodiments, the essential amino acids are encapsulated inside a subject modified microorganism used in an incubation reaction. In embodiments, the essential amino acids are contained in heterologous polypeptides expressed by the microorganism. Where desired, the heterologous polypeptides are expressed and stored in the inclusion bodies in a suitable microorganism (e.g., fungi).</p>
+<p id="p-0093" num="0092">In embodiments, the incubation products have a high nutritional content. As a result, a higher percentage of the incubation products may be used in a complete animal feed. In embodiments, the feed composition comprises at least about 15% of incubation product by weight. In a complete feed, or diet, this material will be fed with other materials. Depending upon the nutritional content of the other materials, and/or the nutritional requirements of the animal to which the feed is provided, the modified incubation products may range from 15% of the feed to 100% of the feed. In embodiments, the subject incubation products may provide lower percentage blending due to high nutrient content. In other embodiments, the subject incubation products may provide very high fraction feeding, e.g. over 75%. In suitable embodiments, the feed composition comprises at least about 20%, at least about 25%, at least about 30%, at least about 35%, at least about 40%, at least about 45%, at least about 50%, at least about 60%, at least about 70%, or at least about 75% of the subject incubation products. Commonly, the feed composition comprises at least about 20% of incubation product by weight. More commonly, the feed composition comprises at least about 15-25%, 25-20%, 20-25%, 30%-40%, 40%-50%, 50%-60%, or 60%-70% by weight of incubation product. Where desired, the subject incubation products may be used as a sole source of feed.</p>
+<p id="p-0094" num="0093">The complete fish meal compositions may have enhanced amino acid content with regard to one or more essential amino acids for a variety of purposes, e.g., for weight increase and overall improvement of the animal's health. The complete fish meal compositions may have an enhanced amino acid content because of the presence of free amino acids and/or the presence of proteins or peptides including an essential amino acid, in the incubation products. Essential amino acids may include histidine, lysine, methionine, phenylalanine, threonine, taurine, isoleucine, and/or tryptophan, which may be present in the complete animal feed as a free amino acid or as part of a protein or peptide that is rich in the selected amino acid. At least one essential amino acid-rich peptide or protein may have at least 1% essential amino acid residues per total amino acid residues in the peptide or protein, at least 5% essential amino acid residues per total amino acid residues in the peptide or protein, or at least 10% essential amino acid residues per total amino acid residues in the protein. By feeding a diet balanced in nutrients to animals, maximum use is made of the nutritional content, requiring less feed to achieve comparable rates of growth, milk production, or a reduction in the nutrients present in the excreta reducing bioburden of the wastes.</p>
+<p id="p-0095" num="0094">A complete fish meal composition with an enhanced content of an essential amino acid, may have an essential amino acid content (including free essential amino acid and essential amino acid present in a protein or peptide) of at least 2.0 wt % relative to the weight of the crude protein and total amino acid content, and more suitably at least 5.0 wt % relative to the weight of the crude protein and total amino acid content. The complete fish meal composition includes other nutrients derived from microorganisms including but not limited to, fats, fatty acids, lipids such as phospholipid, vitamins, carbohydrates, sterols, enzymes, and trace minerals.</p>
+<p id="p-0096" num="0095">The complete fish meal composition may include complete feed form composition, concentrate form composition, blender form composition, and base form composition. If the composition is in the form of a complete feed, the percent nutrient level, where the nutrients are obtained from the microorganism in an incubation product, which may be about 10 to about 25 percent, more suitably about 14 to about 24 percent; whereas, if the composition is in the form of a concentrate, the nutrient level may be about 30 to about 50 percent, more suitably about 32 to about 48 percent. If the composition is in the form of a blender, the nutrient level in the composition may be about 20 to about 30 percent, more suitably about 24 to about 26 percent; and if the composition is in the form of a base mix, the nutrient level in the composition may be about 55 to about 65 percent. Unless otherwise stated herein, percentages are stated on a weight percent basis. If the HQPC is high in a single nutrient, e.g., Lys, it will be used as a supplement at a low rate; if it is balanced in amino acids and Vitamins, e.g., vitamin A and E, it will be a more complete feed and will be fed at a higher rate and supplemented with a low protein, low nutrient feed stock, like corn stover.</p>
+<p id="p-0097" num="0096">The fish meal composition may include a peptide or a crude protein fraction present in an incubation product having an essential amino acid content of at least about 2%. In embodiments, a peptide or crude protein fraction may have an essential amino acid content of at least about 3%, at least about 5%, at least about 10%, at least about 15%, at least about 20%, at least about 30%, at least about 40%, and in embodiments, at least about 50%. In embodiments, the peptide may be 100% essential amino acids. Commonly, the fish meal composition may include a peptide or crude protein fraction present in an incubation product having an essential amino acid content of up to about 10%. More commonly, the fish meal composition may include a peptide or a crude protein fraction present in an incubation product having an essential amino acid content of about 2-10%, 3.0-8.0%, or 4.0-6.0%.</p>
+<p id="p-0098" num="0097">The fish meal composition may include a peptide or a crude protein fraction present in a incubation product having a lysine content of at least about 2%. In embodiments, the peptide or crude protein fraction may have a lysine content of at least about 3%, at least about 5%, at least about 10%, at least about 15%, at least about 20%, at least about 30%, at least about 40%, and in embodiments, at least about 50%. Typically, the fish meal composition may include the peptide or crude protein fraction having a lysine content of up to about 10%. Where desired, the fish meal composition may include the peptide or a crude protein fraction having a lysine content of about 2-10%, 3.0-8.0%, or 4.0-6.0%.</p>
+<p id="p-0099" num="0098">The fish meal composition may include nutrients in the incubation product from about 1 g/Kg dry solids to 900 g/Kg dry solids. In embodiments, the nutrients in a fish meal composition may be present to at least about 2 g/Kg dry solids, 5 g/Kg dry solids, 10 g/Kg dry solids, 50 g/Kg dry solids, 100 g/Kg dry solids, 200 g/Kg dry solids, and about 300 g/Kg dry solids. In embodiments, the nutrients may be present to at least about 400 g/Kg dry solids, at least about 500 g/Kg dry solids, at least about 600 g/Kg dry solids, at least about 700 g/Kg dry solids, at least about 800 g/Kg dry solids and/or at least about 900 g/Kg dry solids.</p>
+<p id="p-0100" num="0099">The fish meal composition may include an essential amino acid or a peptide containing at least one essential amino acid present in an incubation product having a content of about 1 g/Kg dry solids to 900 g/Kg dry solids. In embodiments, the essential amino acid or a peptide containing at least one essential amino acid in a fish meal composition may be present to at least about 2 g/Kg dry solids, 5 g/Kg dry solids, 10 g/Kg dry solids, 50 g/Kg dry solids, 100 g/Kg dry solids, 200 g/Kg dry solids, and about 300 g/Kg dry solids. In embodiments, the essential amino acid or a peptide containing at least one essential amino acid may be present to at least about 400 g/Kg dry solids, at least about 500 g/Kg dry solids, at least about 600 g/Kg dry solids, at least about 700 g/Kg dry solids, at least about 800 g/Kg dry solids and/or at least about 900 g/Kg dry solids.</p>
+<p id="p-0101" num="0100">The complete fish meal composition may contain a nutrient enriched incubation product in the form of a biomass formed during incubation and at least one additional nutrient component. In another example, the fish meal composition contains a nutrient enriched incubation product that is dissolved and suspended from an incubation broth formed during incubation and at least one additional nutrient component. In a further embodiment, the fish meal composition has a crude protein fraction that includes at least one essential amino acid-rich protein. The fish meal composition may be formulated to deliver an improved balance of essential amino acids.</p>
+<p id="p-0102" num="0101">For compositions comprising DDGS, the complete composition form may contain one or more ingredients such as wheat middlings (&#x201c;wheat mids&#x201d;), corn, soybean meal, corn gluten meal, distiller's grains or distiller's grains with solubles, salt, macro-minerals, trace minerals and vitamins. Other potential ingredients may commonly include, but not be limited to sunflower meal, malt sprouts and soybean hulls. The blender form composition may contain wheat middlings, corn gluten meal, distiller's grains or distiller's grains with solubles, salt, macro-minerals, trace minerals and vitamins. Alternative ingredients would commonly include, but not be limited to, corn, soybean meal, sunflower meal, cottonseed meal, malt sprouts and soybean hulls. The base form composition may contain wheat middlings, corn gluten meal, and distiller's grains or distiller's grains with solubles. Alternative ingredients would commonly include, but are not limited to, soybean meal, sunflower meal, malt sprouts, macro-minerals, trace minerals and vitamins.</p>
+<p id="p-0103" num="0102">Highly unsaturated fatty acids (HUFAs) in microorganisms, when exposed to oxidizing conditions may be converted to less desirable unsaturated fatty acids or to saturated fatty acids. However, saturation of omega-3 HUFAs may be reduced or prevented by the introduction of synthetic antioxidants or naturally-occurring antioxidants, such as beta-carotene, vitamin E and vitamin C, into the feed. Synthetic antioxidants, such as BHT, BHA, TBHQ or ethoxyquin, or natural antioxidants such as tocopherols, may be incorporated into the food or feed products by adding them to the products, or they may be incorporated by in situ production in a suitable organism. The amount of antioxidants incorporated in this manner depends, for example, on subsequent use requirements, such as product formulation, packaging methods, and desired shelf life.</p>
+<p id="p-0104" num="0103">Incubation products or complete fish meal containing the incubation products of the present disclosure, may also be utilized as a nutritional supplement for human consumption if the process begins with human grade input materials, and human food quality standards are observed through out the process. Incubation product or the complete feed as disclosed herein is high in nutritional content. Nutrients such as, protein and fiber are associated with healthy diets. Recipes may be developed to utilize incubation product or the complete feed of the disclosure in foods such as cereal, crackers, pies, cookies, cakes, pizza crust, summer sausage, meat balls, shakes, and in any forms of edible food. Another choice may be to develop the incubation product or the complete feed of the disclosure into snacks or a snack bar, similar to a granola bar that could be easily eaten, convenient to distribute. A snack bar may include protein, fiber, germ, vitamins, minerals, from the grain, as well as nutraceuticals such as glucosamine, HUFAs, or co-factors, such as Vitamin Q-10.</p>
+<p id="p-0105" num="0104">The fish meal comprising the subject incubation products may be further supplemented with flavors. The choice of a particular flavor will depend on the animal to which the feed is provided. The flavors and aromas, both natural and artificial, may be used in making feeds more acceptable and palatable. These supplementations may blend well with all ingredients and may be available as a liquid or dry product form. Suitable flavors, attractants, and aromas to be supplemented in the animal feeds include but not limited to fish pheromones, fenugreek, banana, cherry, rosemary, cumin, carrot, peppermint oregano, vanilla, anise, plus rum, maple, caramel, citrus oils, ethyl butyrate, menthol, apple, cinnamon, any natural or artificial combinations thereof. The favors and aromas may be interchanged between different animals. Similarly, a variety of fruit flavors, artificial or natural may be added to food supplements comprising the subject incubation products for human consumption.</p>
+<p id="p-0106" num="0105">The shelf-life of the incubation product or the complete feed of the present disclosure may typically be longer than the shelf life of an incubation product that is deficient in the microorganism. The shelf-life may depend on factors such as, the moisture content of the product, how much air can flow through the feed mass, the environmental conditions and the use of preservatives. A preservative may be added to the complete feed to increase the shelf life to weeks and months. Other methods to increase shelf life include management similar to silage management such as mixing with other feeds and packing, covering with plastic or bagging. Cool conditions, preservatives and excluding air from the feed mass all extend shelf life of wet co-products. The complete feed can be stored in bunkers or silo bags. Drying the wet incubation product or complete feed may also increase the product's shelf life and improve consistency and quality.</p>
+<p id="p-0107" num="0106">The complete feed of the present disclosure may be stored for long periods of time. The shelf life may be extended by ensiling, adding preservatives such as organic acids, or blending with other feeds such as soy hulls. Commodity bins or bulk storage sheds may be used for storing the complete feeds.</p>
+<p id="p-0108" num="0107">As used herein, &#x201c;room temperature&#x201d; is about 25&#xb0; C. under standard pressure.</p>
+<p id="p-0109" num="0108">The following examples are illustrative and are not intended to limit the scope of the disclosed subject matter.</p>
+<heading id="h-0012" level="1">EXAMPLES</heading>
+<heading id="h-0013" level="1">Example 1. High Quality Soy Protein Concentrate (HQSPC)</heading>
+<p id="p-0110" num="0109"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows the overall approach to pre-treating white flakes, converting sugars into cell mass (protein) and gum, recovering HQSPC and generating aquafeeds (<figref idref="DRAWINGS">FIG. <b>2</b></figref>), and testing resulting aquafeeds in fish feeding trials. White flakes were first subject to extrusion pretreatment (BRABENDER PLASTI-CORDER SINGLE SCREW EXTRUDER Model PL2000, Hackensack, N.J.) at 15% moisture content, 50&#xb0; C., and 75 rpm to disrupt the structure and allow increased intrusion of hydrolytic enzymes during subsequent saccharification. These conditions provided a shearing effect against the rigged channels on both sides of the barrel, and it had been observed previously that this resulted in 50-70% greater sugar release following enzymatic hydrolysis. Extruded white flakes were then ground through a 3 mm hammermill screen, blended with water to achieve a 10% solid loading rate, and adjusted to pH 5. After heating to pasteurize or sterilize the mash, the mash was cooled to about 50&#xb0; C. and cellulose and oligosaccharide-deconstructing enzymes (15 ml total/kg of white flake) were added to hydrolyze the polymers into simple sugars (4-24 h hydrolysis). Specific dosages included were 6% CELLIC CTEK (per gm glucan), 0.3% CELLIC HTEK (per gm total solids), 0.015% NOVOZYME 960 (per gm solids). The resulting mash was then cooled to 30&#xb0; C., pH adjusted to 3-5, inoculated with <i>A. pullulans </i>(1% v/v), and incubated for 4-5 days at 50 to 200 rpm mixing and an aeration rate of 0.5 L/L/min to convert sugars into protein and gum. During incubation, samples were periodically removed and analyzed for sugars, cell counts and gum production. Following incubation, the pH was increased to 6.5, and ethanol (0.6 L/L broth) was added to precipitate the gum. The protein, pullulan and microbial mass (HQSPC) were recovered by centrifugation and dried, while the supernatant was distilled to recover ethanol, and the residual liquid chemically assayed for future recycling at the start of the process. The HQSPC was then tested in feeding trials with yellow perch, a fish of regional market importance. Test grower diets were formulated with HQSPC compared to fishmeal and a competing plant based ingredient. Performance (e.g., growth, feed conversion, protein efficiency), viscera characteristics, and intestinal histology were examined to assess fish responses.</p>
+<p id="p-0111" num="0000">HQSPC Using Soy White Flake and Microbial Conversion with <i>A. pullulans</i>, Pilot Scale System for the Production of HQSPC.</p>
+<p id="p-0112" num="0110">The system contained a 675 L bioreactor, a variable speed progressive cavity pump, a continuous flow centrifuge, and a 1&#xd7;4 meter drying table. Inoculum for use in the 675 L bioreactor was prepared in two, 5 L NEW BRUNSWICK BIOFLO 3 BIOREACTORS. For each trial 8-10 L quantities of inoculum was prepared by growing <i>A. pullulans </i>as described for 2-3 days. This material was used to inoculate larger quantities of extruded and saccharified white flake prepared in the 675 L bioreactor. Following incubation, ethanol was added, the mash was centrifuged to recover the wet solids which were then dried and used in fish feeding trials. By monitoring performance of the conversion process, the yield and composition of the HQSPC, several parameters were observed that significantly affected solids recovery. In the large scale trials, the parameters as shown in Table 1 were varied.</p>
+<p id="p-0113" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Pre-Pilot scale trail variables and key performance parameters.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Parameter</entry>
+<entry>Trial 1</entry>
+<entry>Trial 2</entry>
+<entry>Trial 3</entry>
+<entry>Trial 4</entry>
+<entry>Trial 5</entry>
+<entry>Trial 6</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Extruded</entry>
+<entry>yes</entry>
+<entry>yes</entry>
+<entry>no</entry>
+<entry>no</entry>
+<entry>no</entry>
+<entry>yes</entry>
+</row>
+<row>
+<entry>Sacc Time (h)</entry>
+<entry>3</entry>
+<entry>3.5</entry>
+<entry>4</entry>
+<entry>7</entry>
+<entry>5</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry>Incub pH</entry>
+<entry>4.2</entry>
+<entry>5.1</entry>
+<entry>4.3</entry>
+<entry>4.6</entry>
+<entry>3.05</entry>
+<entry>3.15</entry>
+</row>
+<row>
+<entry>Incub Temp (C)</entry>
+<entry>29-30</entry>
+<entry>29-30</entry>
+<entry>29-30</entry>
+<entry>26-27</entry>
+<entry>29-30</entry>
+<entry>29-30</entry>
+</row>
+<row>
+<entry>Aeration</entry>
+<entry>0.25</entry>
+<entry>0.25</entry>
+<entry>0.25</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>(L/L/min)</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Incub Time</entry>
+<entry>16</entry>
+<entry>15</entry>
+<entry>3.5</entry>
+<entry>4.5</entry>
+<entry>2</entry>
+<entry>2.5</entry>
+</row>
+<row>
+<entry>(days)</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Solids Recovery</entry>
+<entry>20</entry>
+<entry>16</entry>
+<entry>48</entry>
+<entry>48</entry>
+<entry>60</entry>
+<entry>64</entry>
+</row>
+<row>
+<entry>(%)</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Solids %</entry>
+<entry>75.18</entry>
+<entry>75.04</entry>
+<entry>63.93</entry>
+<entry>61.5</entry>
+<entry>61.61</entry>
+<entry>56.86</entry>
+</row>
+<row>
+<entry>Protein</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Trypsin</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>NA</entry>
+<entry>NA</entry>
+<entry>16,750</entry>
+<entry>6,538</entry>
+</row>
+<row>
+<entry>Inhibitors</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Supernatant</entry>
+<entry>2.5</entry>
+<entry>5</entry>
+<entry>2.1</entry>
+<entry>3.89</entry>
+<entry>2.39</entry>
+<entry>3.4</entry>
+</row>
+<row>
+<entry>% Solids</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Supernatant</entry>
+<entry>78.16</entry>
+<entry>80</entry>
+<entry>71.66</entry>
+<entry>61.47</entry>
+<entry>NA</entry>
+<entry>NA</entry>
+</row>
+<row>
+<entry>% Protein</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0114" num="0111">From the HQSPC yields and protein levels, the following were noted: 1) an incubation pH of 3-3.5 and temperature of 30-32&#xb0; C., along with high aeration maximized growth of <i>A. pullulans </i>and minimized pullulan production, 2) an incubation time of 4-5 days was optimal for protein content and solids recovery, 3) longer incubation times increased protein content, but substantially reduced solids recovery, 4) shorter incubation times maintained high solids recovery, but limited protein content, and 5) due to the lack of stachyose and raffinose in the end product, extrusion and/or reduced (omitted) enzymatic saccharification may be possible.</p>
+<p id="p-0115" num="0112">Preliminary bench-scale trials in the 5 L bioreactors were conducted to optimize process conditions. A 10% solid loading rate of extruded white flake was used and saccharified for 24 h, followed by inoculation with <i>A. pullulans </i>and incubated at pH 5, 0.5 L/L/min aeration, 200 rpm agitation for 10 days. The extended incubation time was tested to establish optimal harvest window to maximize both percent solids recovery and protein content in the solids. Samples (100 ml) were removed daily and, on alternate days, were subjected to the following:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0113">Precipitating all solids with ethanol, centrifuging and drying solids, measuring residual solids in the resulting supernatant.</li>
+        <li id="ul0002-0002" num="0114">Centrifuging the broth first to recover solids, drying the solids, precipitating the pullulan from the resulting supernatant and drying.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0116" num="0115">The ethanol precipitation first method recovered about 97% of the solids (soybean solids, cells and gum) using a lab centrifuge (10,000 g), with about 3% solids remaining in the fluid phase. The centrifugation first method recovered about 81.7% of solids (soybean solids and cells), with ethanol precipitation of the supernatant recovering about 14.8% solids (exopolysaccharide), and about 3.5% solids remaining in the fluid.</p>
+<p id="p-0117" num="0116">Through these bench scale trials, levels of protein, pullulan, and total solids that could be recovered each day were measured. It was expected that as incubation proceeded, protein and pullulan levels would increase, but that total solids recovered would decrease as some nutrients were catabolized into water and CO<sub>2</sub>. Average protein levels of the solids from three replications are shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>. Protein levels reached 70% by day 3-5, while total solids recovered begin dropping by day 5-6. Thus it appears that a 4-5 day incubation time may be optimal.</p>
+<p id="p-0118" num="0000">Performance evaluation of HQSPC as Fish Meal Replacement in Perch Fish</p>
+<p id="p-0119" num="0117">Several difference among commercially available SPC were previously identified, principally in protein and amino acid composition and anti-nutritional properties, which imparted variability in growth performance and fish composition. Those experiments justified the need to develop higher quality SPC products that would support growth performance equivalent to or better than diets containing fish meal. A feeding trial was conducted utilizing yellow perch to provide assessment of two HQSPC soy products (fermentation trials 5 and 6) in comparison to a commercial SPC and a Menhaden fish meal control.</p>
+<p id="p-0120" num="0118">Feed Preparations: Seven diets were formulated as follows:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0119">Diet 1=fish meal control</li>
+        <li id="ul0004-0002" num="0120">Diet 2=commercial SPC</li>
+        <li id="ul0004-0003" num="0121">Diet 3=commercial SPC (supplemented with lysine+methionine)</li>
+        <li id="ul0004-0004" num="0122">Diet 4=HQSPC trial 5</li>
+        <li id="ul0004-0005" num="0123">Diet 5=HQSPC trial 5 (supplemented with lysine+methionine)</li>
+        <li id="ul0004-0006" num="0124">Diet 6=HQSPC trial 6</li>
+        <li id="ul0004-0007" num="0125">Diet 7=HQSPC trial 7 (supplemented with lysine+methionine)</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0121" num="0126">Approximately 12 kg of each diet were prepared, including 2 kg containing 1 g/100 g chromic oxide for digestability determinations. The trial diets were formulated to contain equivalent SPC amounts with an appropriate protein:lipid target of 42:10. Soy Protein Concentrate (SPC, e.g., from Netzcon Ltd. Rehovot, Israel) with a minimum protein content of 69% is made by aqueous alcohol extraction of defatted non-toasted white flakes. SPC is distinctly different from soybean meal, as it contains traces of oligopolysaccharides and antigenic substances glycinin and b-conglycinin.</p>
+<p id="p-0122" num="0127">Large particle ingredients were ground with a Fitzpatrick comminutator (Elhurst, Ill.) with 0.51 mm screen prior to dry blending. Dry ingredients were blended for 20 min using a VI-10 mixer with an intensifier bar (Vanguard Pharmaceutical Machinery, Inc., Spring, Tex.). Dry blended feedstuffs were then transferred to a Hobart HL200 mixer (Troy, Ohio) where oils and water were added and blended for about 5 min. Feeds were then screw pressed using a Hobart 4146 grinder with a 3/16&#x2033; die and dried under cool, forced-air conditions. Following drying, feeds were milled into pellets using a food processor, sieved to achieve consistent pellet size, and placed in frozen storage at &#x2212;20&#xb0; C. Chemical analyses of primary protein sources may be seen in Table 2.</p>
+<p id="p-0123" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Composition of the primary protein sources (g/100 g, dry matter </entry>
+</row>
+<row>
+<entry>basis (dmb)) incorporated into yellow perch experimental diets.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Menhaden</entry>
+<entry>Commercial</entry>
+<entry>HQSPC</entry>
+<entry>HQSPC</entry>
+</row>
+<row>
+<entry>Protein Source</entry>
+<entry>Fish Meal</entry>
+<entry>SPC</entry>
+<entry>Trial 5</entry>
+<entry>Trial 6</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="left"/>
+<colspec colname="3" colwidth="49pt" align="left"/>
+<colspec colname="4" colwidth="35pt" align="left"/>
+<colspec colname="5" colwidth="35pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Proximate</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Components</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Protein</entry>
+<entry>66.77</entry>
+<entry>78.18</entry>
+<entry>61.61</entry>
+<entry>56.86</entry>
+</row>
+<row>
+<entry>Moisture*</entry>
+<entry>7.62</entry>
+<entry>9.73</entry>
+<entry>5.14</entry>
+<entry>7.89</entry>
+</row>
+<row>
+<entry>Lipid</entry>
+<entry>5.21</entry>
+<entry>0.00</entry>
+<entry>1.70</entry>
+<entry>1.26</entry>
+</row>
+<row>
+<entry>Crude Fiber</entry>
+<entry>0.18</entry>
+<entry>10.08</entry>
+<entry>0.81</entry>
+<entry>4.86</entry>
+</row>
+<row>
+<entry>Ash</entry>
+<entry>25.33</entry>
+<entry>7.10</entry>
+<entry>8.82</entry>
+<entry>5.21</entry>
+</row>
+<row>
+<entry>Amino Acids</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Alanine</entry>
+<entry>3.97</entry>
+<entry>3.03</entry>
+<entry>2.71</entry>
+<entry>2.66</entry>
+</row>
+<row>
+<entry>Arginine</entry>
+<entry>3.69</entry>
+<entry>5.30</entry>
+<entry>2.44</entry>
+<entry>3.65</entry>
+</row>
+<row>
+<entry>Aspartic Acid</entry>
+<entry>5.47</entry>
+<entry>8.08</entry>
+<entry>6.72</entry>
+<entry>6.45</entry>
+</row>
+<row>
+<entry>Cystine</entry>
+<entry>0.48</entry>
+<entry>0.97</entry>
+<entry>0.87</entry>
+<entry>0.88</entry>
+</row>
+<row>
+<entry>Glutamic Acid</entry>
+<entry>7.73</entry>
+<entry>12.51</entry>
+<entry>8.70</entry>
+<entry>8.85</entry>
+</row>
+<row>
+<entry>Glycine</entry>
+<entry>4.81</entry>
+<entry>2.96</entry>
+<entry>2.67</entry>
+<entry>2.51</entry>
+</row>
+<row>
+<entry>Histidine</entry>
+<entry>1.26</entry>
+<entry>1.84</entry>
+<entry>1.41</entry>
+<entry>1.40</entry>
+</row>
+<row>
+<entry>Hydroxylysine</entry>
+<entry>0.27</entry>
+<entry>0.04</entry>
+<entry>0.81</entry>
+<entry>0.10</entry>
+</row>
+<row>
+<entry>Hydroxyproline</entry>
+<entry>1.19</entry>
+<entry>0.08</entry>
+<entry>0.10</entry>
+<entry>0.07</entry>
+</row>
+<row>
+<entry>Isoleucine</entry>
+<entry>2.73</entry>
+<entry>3.30</entry>
+<entry>2.89</entry>
+<entry>2.92</entry>
+</row>
+<row>
+<entry>Lanthionine</entry>
+<entry>0.00</entry>
+<entry>0.02</entry>
+<entry>0.00</entry>
+<entry>0.00</entry>
+</row>
+<row>
+<entry>Leucine</entry>
+<entry>4.47</entry>
+<entry>5.61</entry>
+<entry>4.64</entry>
+<entry>4.87</entry>
+</row>
+<row>
+<entry>Lysine</entry>
+<entry>4.58</entry>
+<entry>4.56</entry>
+<entry>3.47</entry>
+<entry>3.41</entry>
+</row>
+<row>
+<entry>Methionine</entry>
+<entry>1.72</entry>
+<entry>1.00</entry>
+<entry>0.83</entry>
+<entry>0.90</entry>
+</row>
+<row>
+<entry>Ornithine</entry>
+<entry>0.14</entry>
+<entry>0.04</entry>
+<entry>0.14</entry>
+<entry>0.04</entry>
+</row>
+<row>
+<entry>Phenylalanine</entry>
+<entry>2.51</entry>
+<entry>3.62</entry>
+<entry>2.89</entry>
+<entry>3.08</entry>
+</row>
+<row>
+<entry>Proline</entry>
+<entry>3.31</entry>
+<entry>3.65</entry>
+<entry>3.17</entry>
+<entry>2.92</entry>
+</row>
+<row>
+<entry>Serine</entry>
+<entry>1.85</entry>
+<entry>3.07</entry>
+<entry>2.28</entry>
+<entry>2.73</entry>
+</row>
+<row>
+<entry>Taurine</entry>
+<entry>0.42</entry>
+<entry>0.08</entry>
+<entry>0.09</entry>
+<entry>0.10</entry>
+</row>
+<row>
+<entry>Threonine</entry>
+<entry>2.32</entry>
+<entry>2.80</entry>
+<entry>2.36</entry>
+<entry>2.31</entry>
+</row>
+<row>
+<entry>Tryptophan</entry>
+<entry>0.58</entry>
+<entry>1.00</entry>
+<entry>0.79</entry>
+<entry>0.82</entry>
+</row>
+<row>
+<entry>Tyrosine</entry>
+<entry>2.01</entry>
+<entry>2.57</entry>
+<entry>1.98</entry>
+<entry>2.25</entry>
+</row>
+<row>
+<entry>Valine</entry>
+<entry>3.10</entry>
+<entry>2.51</entry>
+<entry>3.13</entry>
+<entry>3.10</entry>
+</row>
+<row>
+<entry>Oligosaccharides</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Raffinose</entry>
+<entry>&#x2014;</entry>
+<entry>0.00</entry>
+<entry>0.00</entry>
+<entry>0.00</entry>
+</row>
+<row>
+<entry>Stachyose</entry>
+<entry>&#x2014;</entry>
+<entry>0.24</entry>
+<entry>0.00</entry>
+<entry>0.00</entry>
+</row>
+<row>
+<entry>Phytic Acid</entry>
+<entry>&#x2014;</entry>
+<entry>0.23</entry>
+<entry>0.39</entry>
+<entry>0.18</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00001">*A11 ingredients are expressed on a dry matter basis with the exception of moisture (as is). Analyses were for crude protein (AOAC 2006, method 990.03), crude fat (AOAC 2006, method 9903), crude fiber (AOAC 2006, method 978.10), moisture (AOAC 2006, method 934.01) Chromic oxide (AOAC 2006, method 990.08), ash (AOAC 2006, method 942.05), and amino acids (AOAC 2006, method 982.30 E(a,b,c)).</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0014" level="2">Pellet Properties</heading>
+<p id="p-0124" num="0128">Samples of each diet were analyzed in triplicate for moisture (%), water activity (a<sub>w</sub>), unit density (kg/m3), pellet durability index (%), water stability (min), and color (L, a, b); compressive strength (g), and diameter (mm) were determined with n=10 replications. Moisture (%) was obtained using standard method 2.2.2.5 (NFTA, 2001). Water activity (a<sub>w</sub>) of 2 g pellet samples was measured with a Lab Touch a<sub>w </sub>analyzer (Nocasina, Lachen SZ, Switzerland). Three color variables were analyzed with a spectrophotocolorimeter (Lab Scan XE, HunterLab, Reston, Va.) as Hunter L (brightness/darkness), Hunter a (redness greenness) and Hunter b (yellowness/blueness). Unit density (UD) was estimated by weighing 100 ml of pellets and dividing the mass (kg) by 0.0001 m<sup>3</sup>. Pellet durability index (PDI) was determined according to standard method 5269.4 (ASAE 2003). The PDI was calculated as: PDI (%)=(M<sub>a</sub>/M<sub>b</sub>)&#xd7;100, where M<sub>a </sub>was the mass (g) after tumbling and M<sub>b </sub>was the mass (g) before tumbling. Pellet stability (min) was determined by the static (W<sub>static</sub>) method (Ferouz et al., Cereal Chem (2011) 88:179-188) to mimic pellet leaching in tanks until they were consumed. Stability was calculated as loss of weight from leaching/dry weight of initial sample. Pellet diameter was measured using a conventional caliper. Pellets were tested for compressive strength using a TA.XT Plus Texture Analyzer (Scarsdale, N.Y.).</p>
+<heading id="h-0015" level="2">Feeding Trial</heading>
+<p id="p-0125" num="0129">Yellow perch (2.95 g&#xb1;0.05 SE) were randomly stocked at 21 fish/tank into 28 circular tanks (110 liters) connected in parallel to a closed-loop recirculating aquaculture system (RAS). The RAS water flow and quality was maintained with a centrifugation pump consisting of dual solids sup tanks, bioreactor, bead filter, UV filter, and heat pump. System water was municipal that is dechlorinated and stored in a 15,200 L tank. Four replications of each treatment were applied randomly in tanks. Water flow was maintained at &#x2dc;1.5 L/min/tank. Temperature was maintained at 22&#xb0; C.&#xb1;1&#xb0;. Temperature and dissolved oxygen were measured with a YSI Pro Plus (Yellow Springs Instrument Company, Yellow Springs, Ohio). Ammonia-nitrogen, nitrite-nitrogen, nitrate-nitrogen, alkalinity (as CaCO<sub>3</sub>), and free chlorine were tested using a Hach DR 3900 Spectrophotometer (Hach Company, Loveland, Colo.).</p>
+<p id="p-0126" num="0130">Fish were fed to satiation by hand twice daily, and feeding rates were modified according to tank weights, observed growth rates, and feed consumption assessments. Consumption (%) was estimated from a known number of pellets fed and by counting uneaten pellets 30 min after feeding. Collections of uneaten feed with subsequent dry weights were also used to estimate consumption. Weekly tank consumption estimates were multiplied by weekly rations to obtain weekly consumption (g). Palatability of treatments was determined by the amount of feed consumed or rejected. Tank mass (+0.01 g) was measured every other week to adjust feed rates and calculate performance indices. Individual lengths (mm) and weights (+0.01 g) were also measured every other week on four randomly sampled fish from each treatment.</p>
+<p id="p-0127" num="0131">Feed conversion ratio (FCR) was calculated as:</p>
+<p id="p-0128" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mi>F</mi>
+   <mo>&#x2062;</mo>
+   <mi>C</mi>
+   <mo>&#x2062;</mo>
+   <mi>R</mi>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+   <mrow>
+    <mi>mass</mi>
+    <mo>&#x2062;</mo>
+    <mtext>   </mtext>
+    <mi>of</mi>
+    <mo>&#x2062;</mo>
+    <mtext>   </mtext>
+    <mi>feed</mi>
+    <mo>&#x2062;</mo>
+    <mtext>   </mtext>
+    <mi>consumed</mi>
+    <mo>&#x2062;</mo>
+    <mtext>   </mtext>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>dry</mi>
+      <mo>,</mo>
+      <mi>g</mi>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+   <mrow>
+    <mi>growth</mi>
+    <mo>&#x2062;</mo>
+    <mtext>   </mtext>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>wet</mi>
+      <mo>,</mo>
+      <mi>g</mi>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </mfrac>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0129" num="0132">Protein conversion ratio was calculated as:</p>
+<p id="p-0130" num="0000">
+<maths id="MATH-US-00002" num="00002">
+<math overflow="scroll">
+ <mrow>
+  <mi>PER</mi>
+  <mo>=</mo>
+  <mfrac>
+   <mrow>
+    <mi>growth</mi>
+    <mo>&#x2062;</mo>
+    <mtext>  </mtext>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>wet</mi>
+      <mo>,</mo>
+      <mi>g</mi>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+   <mrow>
+    <mi>mass</mi>
+    <mo>&#x2062;</mo>
+    <mtext>   </mtext>
+    <mi>of</mi>
+    <mo>&#x2062;</mo>
+    <mtext>   </mtext>
+    <mi>protein</mi>
+    <mo>&#x2062;</mo>
+    <mtext>   </mtext>
+    <mi>consumed</mi>
+    <mo>&#x2062;</mo>
+    <mtext>   </mtext>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>dry</mi>
+      <mo>,</mo>
+      <mi>g</mi>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </mfrac>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0131" num="0133">Fulton-type condition factor (K) was calculated as:</p>
+<p id="p-0132" num="0000">
+<maths id="MATH-US-00003" num="00003">
+<math overflow="scroll">
+ <mrow>
+  <mi>K</mi>
+  <mo>=</mo>
+  <mrow>
+   <mfrac>
+    <mrow>
+     <mi>weight</mi>
+     <mo>&#x2062;</mo>
+     <mtext>   </mtext>
+     <mrow>
+      <mo>(</mo>
+      <mi>g</mi>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+    <msup>
+     <mrow>
+      <mo>[</mo>
+      <mrow>
+       <mi>length</mi>
+       <mo>&#x2062;</mo>
+       <mtext>   </mtext>
+       <mrow>
+        <mo>(</mo>
+        <mi>mm</mi>
+        <mo>)</mo>
+       </mrow>
+      </mrow>
+      <mo>]</mo>
+     </mrow>
+     <mn>3</mn>
+    </msup>
+   </mfrac>
+   <mo>&#xd7;</mo>
+   <mn>10</mn>
+   <semantics definitionURL="">
+    <mo>,</mo>
+    <annotation encoding="Mathematica">TagBox[",", "NumberComma", Rule[SyntaxForm, "0"]]</annotation>
+   </semantics>
+   <mn>000</mn>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0133" num="0134">Specific growth rate (SGR) was calculated as:</p>
+<p id="p-0134" num="0000">
+<maths id="MATH-US-00004" num="00004">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mi>S</mi>
+   <mo>&#x2062;</mo>
+   <mi>G</mi>
+   <mo>&#x2062;</mo>
+   <mi>R</mi>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+   <mrow>
+    <mrow>
+     <mo>[</mo>
+     <mrow>
+      <mrow>
+       <mi>ln</mi>
+       <mo>&#x2061;</mo>
+       <mo>(</mo>
+       <mrow>
+        <mi>final</mi>
+        <mo>&#x2062;</mo>
+        <mtext>   </mtext>
+        <mi>wt</mi>
+        <mo>&#x2062;</mo>
+        <mtext>   </mtext>
+        <mrow>
+         <mo>(</mo>
+         <mi>g</mi>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+      <mo>-</mo>
+      <mrow>
+       <mi>ln</mi>
+       <mo>&#x2061;</mo>
+       <mo>(</mo>
+       <mrow>
+        <mi>start</mi>
+        <mo>&#x2062;</mo>
+        <mtext>   </mtext>
+        <mi>wt</mi>
+        <mo>&#x2062;</mo>
+        <mtext>   </mtext>
+        <mrow>
+         <mo>(</mo>
+         <mi>g</mi>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+     <mo>]</mo>
+    </mrow>
+    <mo>&#xd7;</mo>
+    <mn>100</mn>
+   </mrow>
+   <mrow>
+    <mi>n</mi>
+    <mo>&#x2061;</mo>
+    <mo>(</mo>
+    <mi>days</mi>
+    <mo>)</mo>
+   </mrow>
+  </mfrac>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0135" num="0135">Statistical analyses of diets and feeding trial responses were carried out with analysis of variance (ANOVA, a priori &#x3b1;=0.05). Significant F tests were followed by a post hoc Tukey's test to separate treatment means.</p>
+<heading id="h-0016" level="2">Pellet and Feed Results</heading>
+<p id="p-0136" num="0136">Feed formulations were based on HQSPC nutrient analyses from Trail <b>3</b> (Table 1), while all soy protein concentrates were included equally at 45% (100% fish meal replacement) in trial diets. Analyses of Trials 5 and 6 were completed after scheduled feeding trial start date (Table 2), generally resulting in similar but not isonitrogenous diets. Diets were formulated to contain 42% protein and 10% lipid, with energy-to-protein (E:P) ratios of 7.91 to 7.94 (kcal/g). Recent analyses showed that crude protein (dmb) was 44.9% (Diet 1), 43.2% (Diets 2 and 3), 36.8% (Diets 4 and 5), and 37.5% (Diets 6 and 7). Crude lipid was approximately 10% for all diets. Amino acid analysis of feeds did not reveal any potential deficiencies among un-supplemented diets compared to yellow perch requirements (Table 3).</p>
+<p id="p-0137" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="322pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Experimental design, dietary formulations, and compositions for the perch feeding trials.</entry>
+</row>
+<row>
+<entry>Diet #</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="77pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Ingredients (g/100 g, dmb)</entry>
+<entry>1</entry>
+<entry>2</entry>
+<entry>3</entry>
+<entry>4</entry>
+<entry>5</entry>
+<entry>6</entry>
+<entry>7</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="77pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<colspec colname="6" colwidth="35pt" align="char" char="."/>
+<colspec colname="7" colwidth="35pt" align="char" char="."/>
+<colspec colname="8" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Menhaden Fish Meal<sup>a</sup></entry>
+<entry>50.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+</row>
+<row>
+<entry>Commercial SPC</entry>
+<entry>0.0</entry>
+<entry>45.0</entry>
+<entry>45.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+</row>
+<row>
+<entry>HQSPC Trial 5</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>45.0</entry>
+<entry>45.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+</row>
+<row>
+<entry>HQSPC Trial 6</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>45.0</entry>
+<entry>45.0</entry>
+</row>
+<row>
+<entry>Yellow Corn Gluten<sup>b</sup></entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+</row>
+<row>
+<entry>Wheat Flour<sup>c</sup></entry>
+<entry>18.0</entry>
+<entry>21.0</entry>
+<entry>21.0</entry>
+<entry>21.0</entry>
+<entry>21.0</entry>
+<entry>21.0</entry>
+<entry>21.0</entry>
+</row>
+<row>
+<entry>Wheat Gluten<sup>b</sup></entry>
+<entry>6.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+</row>
+<row>
+<entry>CMC<sup>d</sup></entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+<entry>5.0</entry>
+</row>
+<row>
+<entry>Celufil<sup>d</sup></entry>
+<entry>3.7</entry>
+<entry>3.6</entry>
+<entry>3.6</entry>
+<entry>3.5</entry>
+<entry>3.0</entry>
+<entry>3.5</entry>
+<entry>3.0</entry>
+</row>
+<row>
+<entry>Menhaden Oil<sup>e</sup></entry>
+<entry>4.59</entry>
+<entry>8.19</entry>
+<entry>8.19</entry>
+<entry>8.37</entry>
+<entry>8.37</entry>
+<entry>8.37</entry>
+<entry>8.37</entry>
+</row>
+<row>
+<entry>Flax Oil<sup>f</sup></entry>
+<entry>0.51</entry>
+<entry>0.91</entry>
+<entry>0.91</entry>
+<entry>0.93</entry>
+<entry>0.93</entry>
+<entry>0.93</entry>
+<entry>0.93</entry>
+</row>
+<row>
+<entry>Vitamin Premix<sup>g</sup></entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>Mineral Premix<sup>h</sup></entry>
+<entry>0.1</entry>
+<entry>0.1</entry>
+<entry>0.1</entry>
+<entry>0.1</entry>
+<entry>0.1</entry>
+<entry>0.1</entry>
+<entry>0.1</entry>
+</row>
+<row>
+<entry>Vitamin C<sup>i</sup></entry>
+<entry>0.05</entry>
+<entry>0.05</entry>
+<entry>0.05</entry>
+<entry>0.05</entry>
+<entry>0.05</entry>
+<entry>0.05</entry>
+<entry>0.05</entry>
+</row>
+<row>
+<entry>Choline<sup>i</sup></entry>
+<entry>0.2</entry>
+<entry>0.2</entry>
+<entry>0.2</entry>
+<entry>0.2</entry>
+<entry>0.2</entry>
+<entry>0.2</entry>
+<entry>0.2</entry>
+</row>
+<row>
+<entry>Phytase<sup>k</sup></entry>
+<entry>0.037</entry>
+<entry>0.037</entry>
+<entry>0.037</entry>
+<entry>0.037</entry>
+<entry>0.037</entry>
+<entry>0.037</entry>
+<entry>0.037</entry>
+</row>
+<row>
+<entry>Brewer's Yeast<sup>l</sup></entry>
+<entry>2.0</entry>
+<entry>2.0</entry>
+<entry>2.0</entry>
+<entry>2.0</entry>
+<entry>2.0</entry>
+<entry>2.0</entry>
+<entry>2.0</entry>
+</row>
+<row>
+<entry>L-Lysine<sup>i</sup></entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.3</entry>
+<entry>0.0</entry>
+<entry>0.3</entry>
+<entry>0.0</entry>
+<entry>0.3</entry>
+</row>
+<row>
+<entry>L-Betaine<sup>i</sup></entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>L-Methionine<sup>i</sup></entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.2</entry>
+<entry>0.0</entry>
+<entry>0.2</entry>
+<entry>0.0</entry>
+<entry>0.2</entry>
+</row>
+<row>
+<entry>Sodium Chloride<sup>m</sup></entry>
+<entry>1.0</entry>
+<entry>1.0</entry>
+<entry>1.0</entry>
+<entry>1.0</entry>
+<entry>1.0</entry>
+<entry>1.0</entry>
+<entry>1.0</entry>
+</row>
+<row>
+<entry>Potassium Chloride<sup>m</sup></entry>
+<entry>0.8</entry>
+<entry>0.8</entry>
+<entry>0.8</entry>
+<entry>0.8</entry>
+<entry>0.8</entry>
+<entry>0.8</entry>
+<entry>0.8</entry>
+</row>
+<row>
+<entry>Magnesium Oxide<sup>m</sup></entry>
+<entry>0.05</entry>
+<entry>0.05</entry>
+<entry>0.05</entry>
+<entry>0.05</entry>
+<entry>0.05</entry>
+<entry>0.05</entry>
+<entry>0.05</entry>
+</row>
+<row>
+<entry>Calcium Phosphate<sup>m</sup></entry>
+<entry>2.0</entry>
+<entry>1.0</entry>
+<entry>1.0</entry>
+<entry>1.0</entry>
+<entry>1.0</entry>
+<entry>1.0</entry>
+<entry>1.0</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="322pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Estimated Proximate Composition</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="77pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<colspec colname="6" colwidth="35pt" align="char" char="."/>
+<colspec colname="7" colwidth="35pt" align="char" char="."/>
+<colspec colname="8" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Protein (%)</entry>
+<entry>42.1</entry>
+<entry>42.2</entry>
+<entry>42.7</entry>
+<entry>42.0</entry>
+<entry>42.5</entry>
+<entry>42.0</entry>
+<entry>42.5</entry>
+</row>
+<row>
+<entry>Lipid (%)</entry>
+<entry>10.06</entry>
+<entry>10.01</entry>
+<entry>10.01</entry>
+<entry>10.03</entry>
+<entry>10.03</entry>
+<entry>10.03</entry>
+<entry>10.03</entry>
+</row>
+<row>
+<entry>Ash (%)</entry>
+<entry>4.46</entry>
+<entry>3.46</entry>
+<entry>3.46</entry>
+<entry>3.46</entry>
+<entry>3.46</entry>
+<entry>3.46</entry>
+<entry>3.46</entry>
+</row>
+<row>
+<entry>Total Energy (kcal)</entry>
+<entry>334.3</entry>
+<entry>334.3</entry>
+<entry>337.1</entry>
+<entry>333.5</entry>
+<entry>336.3</entry>
+<entry>333.5</entry>
+<entry>336.3</entry>
+</row>
+<row>
+<entry>E:P (kcal/g)</entry>
+<entry>7.94</entry>
+<entry>7.93</entry>
+<entry>7.94</entry>
+<entry>7.91</entry>
+<entry>7.94</entry>
+<entry>7.94</entry>
+<entry>7.91</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00002"><sup>a</sup>Special Select, Omega Protein, Houston, TX;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00003"><sup>b</sup>Consumers Supply Distribution, Sioux City, IA;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00004"><sup>c</sup>Bob's Red Mill Natural Foods, Milwaukie, OR;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00005"><sup>d</sup>USB Corporation, Cleveland, OH;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00006"><sup>e</sup>Virginia Prime Gold, Omega Protein, Houston TX;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00007"><sup>f</sup>Thomas Laboratories, Tolleson, AZ;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00008"><sup>g</sup>ARS 702 Premix, Nelson and Sons, Murray, UT;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00009"><sup>h</sup>SS #3 Trace Mix, Nelson and Sons, Murray, UT;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00010"><sup>i</sup>U.S. Nutrition, Bohemia, NY;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00011"><sup>j</sup>Pure Bulk, Roseburg, OR;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00012"><sup>k</sup>DSM Nutritional Products, Parsippany, NJ;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00013"><sup>l</sup>Diamond V Mills, Cedar Rapids, IA;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00014"><sup>m</sup>Fisher Scientific, Pittsburg, PA.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0138" num="0137">Pellet feeds exhibited significant differences in measurements among treatments except for diameters (Table 4).</p>
+<p id="p-0139" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="357pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Physical properties of the feed extrudates.</entry>
+</row>
+<row>
+<entry>Diet #</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="left"/>
+<colspec colname="4" colwidth="42pt" align="left"/>
+<colspec colname="5" colwidth="49pt" align="left"/>
+<colspec colname="6" colwidth="49pt" align="left"/>
+<colspec colname="7" colwidth="49pt" align="left"/>
+<colspec colname="8" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Properties</entry>
+<entry>1</entry>
+<entry>2</entry>
+<entry>3</entry>
+<entry>4</entry>
+<entry>5</entry>
+<entry>6</entry>
+<entry>7</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>MC (% db)</entry>
+<entry>&#x2003;8.5 &#xb1; 0.2 <sup>a</sup></entry>
+<entry>&#x2002;11.0 &#xb1; 0.3 <sup>b</sup></entry>
+<entry>&#x2002;11.0 &#xb1; 0.1 <sup>b</sup></entry>
+<entry>&#x2002;14.1 &#xb1; 0.1 <sup>c</sup></entry>
+<entry>&#x2003;9.9 &#xb1; 0.1 <sup>d</sup></entry>
+<entry>&#x2002;10.1 &#xb1; 0.1 <sup>d</sup></entry>
+<entry>&#x2002;12.2 &#xb1; 0.1 <sup>e</sup></entry>
+</row>
+<row>
+<entry>a<sub>w</sub>(-)</entry>
+<entry>&#x2002;0.58 &#xb1; 0.02 <sup>a</sup></entry>
+<entry>&#x2002;0.67 &#xb1; 0.00 <sup>b</sup></entry>
+<entry>&#x2002;0.69 &#xb1; 0.00 <sup>c</sup></entry>
+<entry>&#x2002;0.68 &#xb1; 0.00 <sup>bc</sup></entry>
+<entry>&#x2002;0.68 &#xb1; 0.00 <sup>bc</sup></entry>
+<entry>&#x2002;0.68 &#xb1; 0.00 <sup>bc</sup></entry>
+<entry>&#x2002;0.74 &#xb1; 0.01 <sup>d</sup></entry>
+</row>
+<row>
+<entry>BD (kg/m<sup>3</sup>)</entry>
+<entry>634.8 &#xb1; 3.0 <sup>a</sup></entry>
+<entry>648.6 &#xb1; 3.2 <sup>b</sup></entry>
+<entry>659.4 &#xb1; 2.4 <sup>bc</sup></entry>
+<entry>675.4 &#xb1; 0.5 <sup>d</sup></entry>
+<entry>688.9 &#xb1; 0.6 <sup>e</sup></entry>
+<entry>669.3 &#xb1; 2.8 <sup>cd</sup></entry>
+<entry>695.9 &#xb1; 2.2 <sup>e</sup></entry>
+</row>
+<row>
+<entry>CS (g)</entry>
+<entry>&#x2002;24.4 &#xb1; 0.7 <sup>a</sup></entry>
+<entry>&#x2002;56.1 &#xb1; 1.8 <sup>b</sup></entry>
+<entry>&#x2002;42.9 &#xb1; 2.3 <sup>c</sup></entry>
+<entry>&#x2002;44.9 &#xb1; 3.8 <sup>bc</sup></entry>
+<entry>&#x2002;54.8 &#xb1; 2.3 <sup>b</sup></entry>
+<entry>&#x2002;67.0 &#xb1; 2.2 <sup>b</sup></entry>
+<entry>&#x2002;60.1 &#xb1; 3.9 <sup>b</sup></entry>
+</row>
+<row>
+<entry>PDI (%)</entry>
+<entry>&#x2002;98.1 &#xb1; 0.4 <sup>a</sup></entry>
+<entry>&#x2002;98.1 &#xb1; 0.8 <sup>a</sup></entry>
+<entry>&#x2002;98.1 &#xb1; 0.7 <sup>a</sup></entry>
+<entry>&#x2002;98.3 &#xb1; 0.3 <sup>a</sup></entry>
+<entry>&#x2002;99.3 &#xb1; 0.3 <sup>b</sup></entry>
+<entry>&#x2002;99.5 &#xb1; 0.2 <sup>b</sup></entry>
+<entry>&#x2002;99.5 &#xb1; 0.3 <sup>b</sup></entry>
+</row>
+<row>
+<entry>WSI<sub>still </sub>(%)</entry>
+<entry>&#x2002;10.2 &#xb1; 0.0 <sup>ab</sup></entry>
+<entry>&#x2002;11.9 &#xb1; 0.0 <sup>a</sup></entry>
+<entry>&#x2003;9.1 &#xb1; 0.0 <sup>ab</sup></entry>
+<entry>&#x2003;8.9 &#xb1; 0.0 <sup>ab</sup></entry>
+<entry>&#x2003;9.1 &#xb1; 0.0 <sup>ab</sup></entry>
+<entry>&#x2003;8.2 &#xb1; 0.0 <sup>ab</sup></entry>
+<entry>&#x2003;6.7 &#xb1; 0.0 <sup>b</sup></entry>
+</row>
+<row>
+<entry>L (-)</entry>
+<entry>&#x2002;47.9 &#xb1; 0.2 <sup>a</sup></entry>
+<entry>&#x2002;58.5 &#xb1; 0.1 <sup>b</sup></entry>
+<entry>&#x2002;68.5 &#xb1; 0.5 <sup>c</sup></entry>
+<entry>&#x2002;59.9 &#xb1; 0.3 <sup>bd</sup></entry>
+<entry>&#x2002;53.7 &#xb1; 0.2 <sup>e</sup></entry>
+<entry>&#x2002;60.6 &#xb1; 0.3 <sup>d</sup></entry>
+<entry>&#x2002;63.8 &#xb1; 0.4 <sup>f</sup></entry>
+</row>
+<row>
+<entry>a (-)</entry>
+<entry>&#x2003;5.2 &#xb1; 0.0 <sup>a</sup></entry>
+<entry>&#x2003;2.8 &#xb1; 0.0 <sup>b</sup></entry>
+<entry>&#x2003;3.2 &#xb1; 0.1 <sup>c</sup></entry>
+<entry>&#x2003;4.3 &#xb1; 0.0 <sup>d</sup></entry>
+<entry>&#x2003;4.4 &#xb1; 0.0 <sup>d</sup></entry>
+<entry>&#x2003;2.9 &#xb1; 0.0 <sup>b</sup></entry>
+<entry>&#x2003;2.9 &#xb1; 0.0 <sup>b</sup></entry>
+</row>
+<row>
+<entry>b (-)</entry>
+<entry>&#x2002;22.8 &#xb1; 0.1 <sup>a</sup></entry>
+<entry>&#x2002;18.1 &#xb1; 0.1 <sup>b</sup></entry>
+<entry>&#x2002;20.2 &#xb1; 0.1 <sup>c</sup></entry>
+<entry>&#x2002;22.8 &#xb1; 0.1 <sup>a</sup></entry>
+<entry>&#x2002;21.4 &#xb1; 0.1 <sup>d</sup></entry>
+<entry>&#x2002;20.3 &#xb1; 0.0 <sup>ce</sup></entry>
+<entry>&#x2002;20.7 &#xb1; 0.1 <sup>e</sup></entry>
+</row>
+<row>
+<entry>Dia. (mm)</entry>
+<entry>&#x2003;2.2 &#xb1; 0.0<sup>a</sup></entry>
+<entry>&#x2003;2.1 &#xb1; 0.1 <sup>a</sup></entry>
+<entry>&#x2003;2.1 &#xb1; 0.0 <sup>a</sup></entry>
+<entry>&#x2003;2.0 &#xb1; 0.0 <sup>a</sup></entry>
+<entry>&#x2003;2.0 &#xb1; 0.0 <sup>a</sup></entry>
+<entry>&#x2003;2.0 &#xb1; 0.0 <sup>a</sup></entry>
+<entry>&#x2003;2.0 &#xb1; 0.0 <sup>a</sup></entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00015">Values given are means (&#xb1; SE) associated with treatment means.</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00016">Values not significantly different (P &#x3e; 0.05) have same letter within a given row.</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00017">MC (% db) = moisture content;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00018">a<sub>w </sub>(-) = water activity;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00019">BD (kg/m<sup>3</sup>) = unit density;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00020">CS (g) = compressive strength;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00021">PDI (%) = pellet durability index;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00022">WSI<sub>still </sub>(%) = water solubility index in still water;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00023">L (-) = Hunter brightness;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00024">a (-) = Hunter yellowness;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00025">b (-) = Hunter redness;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00026">Dia. (mm) = diameter.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0140" num="0138">Moisture content (MC) ranged from about 8.49% (Diet 1) to about 14.07% (Diet 4). MC contributes an effect on other characteristics, such as PDI, compressive strength, and color. No apparent correlation between MC and other variables were identified.</p>
+<p id="p-0141" num="0139">Water activity, a measure of unbound water in pellets, was high (about 0.58 to about 0.74), with Diet 1 (fish meal) significantly lower (about 0.58) and Diet 7 significantly higher (about 0.74) than all other treatments. Values over 0.6 indicate low storage stability and may allow microbial growth to proliferate. Feeds were stored in a freezer at &#x2212;20&#xb0; C.</p>
+<p id="p-0142" num="0140">Unit density (BD), a measure of feed weight per unit volume, ranged from about 634.87 to about 695.9. Diet 1 (fish meal) had a lower DB, and while not being limited by theory, this is most likely due to lower inclusion of fish oil and fish meal. Soy protein concentrate diets had higher BDs because they contained more oil to amend lipid requirements.</p>
+<p id="p-0143" num="0141">Compressive strength (CS) was calculated as peak fracture force of the stress-strain curve from a perpendicular axial direction. CS varied significantly from about 24.36 to about 67.03. Diet 1 (fish meal) exhibited the lowest compressive strength (about 24.36). While not being limited by theory, this is most likely attributable to the heterogeneity of the pellets, which results from the pelleting process (e.g., screw pressed rather than extruded). Extrusion cooks the feed with a combination of moisture, pressure, temperature, and mechanical shear. This process gelatinizes starches, which can increase CS substantially.</p>
+<p id="p-0144" num="0142">Pellet Durability Index (PDI) was very high in all diets (about 98.05% to about 99.48%), with no significant difference between treatments. These high PDI values may be the result of high MC, as well as carboxymethylcellulose (CMC) binder addition.</p>
+<p id="p-0145" num="0143">Water Solubility Index (WSI) was low in all diets (about 9.65 to about 14.43), with Diet 4 exhibiting the highest value, which was significantly different than the lowest, Diet 7, at about 9.65. Due to the nature of screw-pressed compared to extruded feeds, WSI was expected to be low. Extruded feeds are more water stable due to gelatinization of starches, reducing water penetration.</p>
+<p id="p-0146" num="0144">Hunter color parameters (L, a, b) revealed similarities with growth performance. Hunter a (redness) was highest in diet 1 (5.15) and lowest in Diet 2 (2.80), Hunter b (yellowness) was highest in Diet 4 (22.81) and Diet 1 (22.76) and lowest in Diet 2 (18.07). Hunter L (brightness) was highest in Diet 3 (68.48) and lowest in Diet 1 (47.91). Lighter color feeds have been found to contain higher concentrations and greater availability of lysine compared to darker feeds.</p>
+<heading id="h-0017" level="2">Fish Performance</heading>
+<p id="p-0147" num="0145">Diet 6 provided the most comparable results to Diet 1 (fishmeal) in growth performance. Growth performance was significantly different between treatments in all categories (Table 5).</p>
+<p id="p-0148" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="336pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 5</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Performance Aspects.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="left"/>
+<colspec colname="4" colwidth="49pt" align="left"/>
+<colspec colname="5" colwidth="49pt" align="left"/>
+<colspec colname="6" colwidth="42pt" align="left"/>
+<colspec colname="7" colwidth="42pt" align="left"/>
+<colspec colname="8" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Diet</entry>
+<entry>WG</entry>
+<entry>SGR</entry>
+<entry>s</entry>
+<entry>TC</entry>
+<entry>FCR</entry>
+<entry>PER</entry>
+<entry>K</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>1</entry>
+<entry>102.1 &#xb1; 8.0 <sup>a</sup></entry>
+<entry>1.66 &#xb1; 0.1 <sup>a</sup></entry>
+<entry>100.0 &#xb1; 0.0 <sup>a</sup></entry>
+<entry>450.2 &#xb1; 5.8 <sup>a</sup></entry>
+<entry>1.27 &#xb1; 0.05 <sup>a</sup></entry>
+<entry>1.76 &#xb1; 0.06 <sup>a</sup></entry>
+<entry>1.06 &#xb1; 0.01 <sup>ab</sup></entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>&#x2002;12.6 &#xb1; 6.4 <sup>b</sup></entry>
+<entry>0.55 &#xb1; 0.12 <sup>b</sup></entry>
+<entry>&#x2002;82.3 &#xb1; 0.6 <sup>b</sup></entry>
+<entry>140.9 &#xb1; 4.7 <sup>b</sup></entry>
+<entry>2.59 &#xb1; 0.49 <sup>b</sup></entry>
+<entry>0.98 &#xb1; 0.17 <sup>b</sup></entry>
+<entry>1.01 &#xb1; 0.02 <sup>a</sup></entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>&#x2002;23.7 &#xb1; 1.3 <sup>bc</sup></entry>
+<entry>0.59 &#xb1; 0 04 <sup>bc</sup></entry>
+<entry>&#x2002;96.4 &#xb1; 0.3 <sup>a</sup></entry>
+<entry>181.6 &#xb1; 2.5 <sup>bc</sup></entry>
+<entry>&#x2002;2.0 &#xb1; 0 09 <sup>ab</sup></entry>
+<entry>1.17 &#xb1; 0.06 <sup>b</sup></entry>
+<entry>1.02 &#xb1; 0.03 <sup>ab</sup></entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>&#x2002;46.6 &#xb1; 8.3 <sup>cd</sup></entry>
+<entry>1.06 &#xb1; 0.12 <sup>c</sup></entry>
+<entry>&#x2002;94.1 &#xb1; 0.5 <sup>abc</sup></entry>
+<entry>283.4 &#xb1; 8.9 <sup>bc</sup></entry>
+<entry>&#x2002;1.6 &#xb1; 0.04 <sup>a</sup></entry>
+<entry>&#x2002;1.7 &#xb1; 0.04 <sup>a</sup></entry>
+<entry>1.11 &#xb1; 0.04 <sup>ab</sup></entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>&#x2002;49.1 &#xb1; 11.0 <sup>cd</sup></entry>
+<entry>1.10 &#xb1; 0.14 <sup>d</sup></entry>
+<entry>&#x2002;92.9 &#xb1; 0.3 <sup>abc</sup></entry>
+<entry>306.3 &#xb1; 11.2 <sup>a</sup></entry>
+<entry>1.73 &#xb1; 0.10 <sup>ab</sup></entry>
+<entry>1.59 &#xb1; 0.10 <sup>a</sup></entry>
+<entry>1.14 &#xb1; 0.03 <sup>b</sup></entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>&#x2002;84.4 &#xb1; 2.4 <sup>ae</sup></entry>
+<entry>1.48 &#xb1; 0.05 <sup>ad</sup></entry>
+<entry>&#x2002;98.8 &#xb1; 0.3 <sup>ac</sup></entry>
+<entry>451.5 &#xb1; 13.4 <sup>a</sup></entry>
+<entry>1.43 &#xb1; 0.04 <sup>a</sup></entry>
+<entry>1.87 &#xb1; 0.05 <sup>a</sup></entry>
+<entry>1.07 &#xb1; 0.03 <sup>ab</sup></entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>&#x2002;61.8 &#xb1; 4.8 <sup>de</sup></entry>
+<entry>1.28 &#xb1; 0.12 <sup>ad</sup></entry>
+<entry>&#x2002;94.1 &#xb1; 0.6 <sup>abc</sup></entry>
+<entry>338.1 &#xb1; 10.8 <sup>ac</sup></entry>
+<entry>1.58 &#xb1; 0.03 <sup>a</sup></entry>
+<entry>1.69 &#xb1; 0.03 <sup>a</sup></entry>
+<entry>1.06 &#xb1; 0.02 <sup>ab</sup></entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00027">Mean weight gain (WG, %), specific growth rate (SGR), survival (S, %), total consumption (TC, g), food conversion ratio (FCR), protein efficiency ratio (PER), and Fulton-type condition factor (K) values for perch fed experimental diets.</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00028">Values given are means (&#xb1;SE) associated with the treatment means.</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00029">Values not significantly different (P &#x3e; 0.005) have the same letter within a given column.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0149" num="0146">Supplemented diets (Diets 3 and 5) were slightly better than their un-supplemented counterparts, except for Diets 6 and 7. Diet 6 outperformed Diet 7 in all aspects. While not being bound by theory, this could be the result of timing issues associated with the bioavailability of crystalline amino acid supplements.</p>
+<p id="p-0150" num="0147">Weight Gain (WG) was highest for Diet 1 (fishmeal at 102.1%), followed by Diets 6 and 7 (84.4% and 61.8%, respectively). Diets 2 and 3 (commercial SPC) exhibited the lowest WG (12.62% and 23.69%, respectively). Specific Growth Rate (SGR) paralleled WG results. SGR was highest in Diet 1 (1.66) and lowest in Diet 2 (0.55).</p>
+<p id="p-0151" num="0148">Protein Efficiency Ratio (PER) was highest in Diet 6 (1.87), followed by Diet 1 (1.76) and Diet 4 (1.70). Diets 2 and 3 had the lowest PERs of 0.98 and 1.17, respectively. PER was better in un-supplemented Diets 4 and 6 than in supplemented diets 5 and 7.</p>
+<p id="p-0152" num="0149">Feed conversion ratio (FCR) followed a similar pattern, with Diets 1 and Diet 6 being lowest (1.39 and 1.59, respectively). These FCR values indicate very high nutritional feed quality. Diets 2 and 3 had the highest FCR (2.91 and 2.24, respectively).</p>
+<p id="p-0153" num="0150">Total consumption (dmb) was highest with Diet 6 (451.5 g) and Diet 1 (450.20 g) and lowest with Diet 2 (140.91) and Diet 3 (181.60). All diets were fed to satiation. Diets consumption was deemed indicative of palatability, which is also the reason for significantly lower survival for fish on Diet 2 (82.29%). Survival was 100% for Diet 1 and 98.81% for Diet 6.</p>
+<p id="p-0154" num="0151">Fulton's Condition Factor (K) was highest for Diet 5 (1.14) and lowest for Diet 2 (1.01). All HQSPC diets met or exceeded the fishmeal control for this specific performance parameter. Commercial SPC diets were lower than all other diets.</p>
+<heading id="h-0018" level="2">Other Assays</heading>
+<p id="p-0155" num="0152">End of trial analyses may include final growth, FCR, PER, consumption, and examination for nutrition deficiencies via necropsy. Plasma assays may be completed for lysine and methionine using standard methods. Individual fish may be euthanized by cervical dislocation in order to quantify muscle ratio, hepatosomatic index, viscerosomatic index, fillet composition, and hind gut histology (enteritis inflammation scores). Protein and energy availability of trial diets may be estimated using chromic oxide (CrO<sub>3</sub>) marker within the feed and fecal material (Austreng E, Aquaculture (1978) 13:265-272). Fecal material may be collected via necropsy from the lower intestinal tract.</p>
+<p id="p-0156" num="0153">The apparent digestibility coefficients (ADC) for the nutrients in the test diets may be calculated using the following formula:</p>
+<p id="p-0157" num="0000">
+<maths id="MATH-US-00005" num="00005">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mi>A</mi>
+   <mo>&#x2062;</mo>
+   <mi>D</mi>
+   <mo>&#x2062;</mo>
+   <msub>
+    <mi>C</mi>
+    <mrow>
+     <mi>test</mi>
+     <mo>&#x2062;</mo>
+     <mtext>   </mtext>
+     <mi>ingredient</mi>
+    </mrow>
+   </msub>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+   <mrow>
+    <mi>A</mi>
+    <mo>&#x2062;</mo>
+    <mi>D</mi>
+    <mo>&#x2062;</mo>
+    <msub>
+     <mi>C</mi>
+     <mrow>
+      <mi>test</mi>
+      <mo>&#x2062;</mo>
+      <mtext>   </mtext>
+      <mi>diet</mi>
+     </mrow>
+    </msub>
+   </mrow>
+   <mo>+</mo>
+   <mrow>
+    <mo>[</mo>
+    <mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mrow>
+        <mi>A</mi>
+        <mo>&#x2062;</mo>
+        <mi>D</mi>
+        <mo>&#x2062;</mo>
+        <msub>
+         <mi>C</mi>
+         <mrow>
+          <mi>test</mi>
+          <mo>&#x2062;</mo>
+          <mtext>   </mtext>
+          <mi>diet</mi>
+         </mrow>
+        </msub>
+       </mrow>
+       <mo>-</mo>
+       <mrow>
+        <mi>A</mi>
+        <mo>&#x2062;</mo>
+        <mi>D</mi>
+        <mo>&#x2062;</mo>
+        <msub>
+         <mi>C</mi>
+         <mrow>
+          <mi>ref</mi>
+          <mo>&#x2062;</mo>
+          <mtext>   </mtext>
+          <mi>diet</mi>
+         </mrow>
+        </msub>
+       </mrow>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>&#xd7;</mo>
+     <mrow>
+      <mo>(</mo>
+      <mfrac>
+       <mrow>
+        <mn>0.7</mn>
+        <mo>&#xd7;</mo>
+        <msub>
+         <mi>D</mi>
+         <mi>ref</mi>
+        </msub>
+       </mrow>
+       <mrow>
+        <mn>0.3</mn>
+        <mo>&#xd7;</mo>
+        <msub>
+         <mi>D</mi>
+         <mi>ingr</mi>
+        </msub>
+       </mrow>
+      </mfrac>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+    <mo>]</mo>
+   </mrow>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0158" num="0154">where Dref=% with nutrient (kJ/g gross energy) of reference diet mash (as is) and Dingr=% nutrient (kJ/g gross energy) of test ingredient (as is).</p>
+<heading id="h-0019" level="2">Summary</heading>
+<p id="p-0159" num="0155">Screw-pressed compound feeds for yellow perch were exemplified using two HQSPC diets, a fish control meal, and a commercial soy protein concentrate (SPC). The HQSPC-based diets had comparable performance to fish meal and outperformed the commercial SPC. Growth and conversion performance exceeded expectations, given crude protein content in the HQSPC diets was approximately 7% less than the fish meal control and 6% less than the commercial SPC. Thus, the HQSPC diets may serve as a complete replacement for fish meal.</p>
+<heading id="h-0020" level="2">Performance Evaluation of HQSPC as Fish Meal Replacement in Rainbow Trout</heading>
+<p id="p-0160" num="0156">In addition to the yellow perch results above, a 90-day feeding trial was conducted using a domesticated rainbow trout strain (Shasta). Table 6 summarizes the protein targets by fish species and size. These dietary protein targets or levels (%) may be used in the formulation of experimental diets for these commercially important finfish.</p>
+<p id="p-0161" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 6</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Protein targets for various finfish by weight range.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="168pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Weight ranges (g)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Species</entry>
+<entry>&#x3c;20</entry>
+<entry>20-200</entry>
+<entry>200-600</entry>
+<entry>600-1,500</entry>
+<entry>&#x3e;1,500</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Atlantic salmon</entry>
+<entry>48</entry>
+<entry>44</entry>
+<entry>40</entry>
+<entry>38</entry>
+<entry>34</entry>
+</row>
+<row>
+<entry>Pacific salmon</entry>
+<entry>55</entry>
+<entry>45</entry>
+<entry>40</entry>
+<entry>38</entry>
+<entry>38</entry>
+</row>
+<row>
+<entry>Rainbow trout</entry>
+<entry>48</entry>
+<entry>40</entry>
+<entry>38</entry>
+<entry>38</entry>
+<entry>36</entry>
+</row>
+<row>
+<entry>Channel catfish</entry>
+<entry>44</entry>
+<entry>36</entry>
+<entry>32</entry>
+<entry>32</entry>
+<entry>28</entry>
+</row>
+<row>
+<entry>Nile tilapia</entry>
+<entry>40</entry>
+<entry>34</entry>
+<entry>30</entry>
+<entry>28</entry>
+<entry>26</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0162" num="0157">Trout were fed a control fish meal diet or a diet replacing 70% of fish meal (Diet 2-35% inclusion) with an HQSPC product (Trial 6) (see Table 7).</p>
+<p id="p-0163" num="0000">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 7</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Test Diet Formulations Used in a Rainbow Trout Feeding Trial</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="119pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="56pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Ingredient (g)</entry>
+<entry>Diet 1</entry>
+<entry>Diet 2</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="119pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="char" char="."/>
+<colspec colname="3" colwidth="56pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Omega prime special select</entry>
+<entry>40</entry>
+<entry>15</entry>
+</row>
+<row>
+<entry>HQSPC</entry>
+<entry>0</entry>
+<entry>35</entry>
+</row>
+<row>
+<entry>Yellow corn gluten</entry>
+<entry>20</entry>
+<entry>16</entry>
+</row>
+<row>
+<entry>Wheat flour</entry>
+<entry>15</entry>
+<entry>11</entry>
+</row>
+<row>
+<entry>Carboxymethylcellulose</entry>
+<entry>6.7</entry>
+<entry>3</entry>
+</row>
+<row>
+<entry>Vitamin premix</entry>
+<entry>1.5</entry>
+<entry>1.5</entry>
+</row>
+<row>
+<entry>Trace mineral premix</entry>
+<entry>1.5</entry>
+<entry>1.5</entry>
+</row>
+<row>
+<entry>Stay-C</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>DVAqua</entry>
+<entry>0.1</entry>
+<entry>0.1</entry>
+</row>
+<row>
+<entry>Methionine</entry>
+<entry>0</entry>
+<entry>0.2</entry>
+</row>
+<row>
+<entry>Sodium chloride</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>Potassium chloride</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>Magnesium oxide</entry>
+<entry>0</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry>Calcium phosphate</entry>
+<entry>0</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>Menhaden oil</entry>
+<entry>13.7</entry>
+<entry>14.7</entry>
+</row>
+<row>
+<entry>Proximates</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Protein</entry>
+<entry>42.87</entry>
+<entry>42.89</entry>
+</row>
+<row>
+<entry>Fat</entry>
+<entry>16.37</entry>
+<entry>16.38</entry>
+</row>
+<row>
+<entry>Fiber</entry>
+<entry>0.61</entry>
+<entry>2.14</entry>
+</row>
+<row>
+<entry>Ash</entry>
+<entry>12.31</entry>
+<entry>8.15</entry>
+</row>
+<row>
+<entry>Kcal</entry>
+<entry>398.54</entry>
+<entry>398.68</entry>
+</row>
+<row>
+<entry>E:P</entry>
+<entry>9.30</entry>
+<entry>9.29</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0164" num="0158">The 35% inclusion level was used to exceed the 30% inclusion recommended for other soy protein concentrates, such as Selecta SPC60. This trial using isocaloric, isonitrogenous diets demonstrated equivalent performance between the control and test diet provided.</p>
+<p id="p-0165" num="0159">Table 8 summarizes the observed rainbow trout performance characteristics during the 90-day feeding trial. Diet 2, containing HQSPC, showed no decline in weight gain or feed conversion/efficiency and there were no mortalities (100% survival). These observations replicate the results observed in the yellow perch trials.</p>
+<p id="p-0166" num="0000">
+<tables id="TABLE-US-00008" num="00008">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 8</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Performance trails for rainbow trout using HQSPC.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="70pt" align="center"/>
+<colspec colname="3" colwidth="84pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>FM:HQSPC (%)</entry>
+<entry>Diet 1 (40:0)</entry>
+<entry>Diet 2 (15:35)</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="right"/>
+<colspec colname="3" colwidth="35pt" align="left"/>
+<colspec colname="4" colwidth="42pt" align="right"/>
+<colspec colname="5" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Start weight (g)</entry>
+<entry>795 </entry>
+<entry>&#xb1; 67</entry>
+<entry>882 &#xb1; </entry>
+<entry>44</entry>
+</row>
+<row>
+<entry>End weight (g)</entry>
+<entry>3,400 </entry>
+<entry>&#xb1; 216</entry>
+<entry>3,706 &#xb1; </entry>
+<entry>172</entry>
+</row>
+<row>
+<entry>Gain (g)</entry>
+<entry>2,605 </entry>
+<entry>&#xb1; 149 ab</entry>
+<entry>2,824 &#xb1; </entry>
+<entry>133 a</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="70pt" align="center"/>
+<colspec colname="3" colwidth="84pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Gain (%)</entry>
+<entry>327.7</entry>
+<entry>320.2</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="right"/>
+<colspec colname="3" colwidth="35pt" align="left"/>
+<colspec colname="4" colwidth="42pt" align="right"/>
+<colspec colname="5" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Food fed (g)</entry>
+<entry>3,608 </entry>
+<entry>&#xb1; 189</entry>
+<entry>3,880 &#xb1; </entry>
+<entry>68</entry>
+</row>
+<row>
+<entry>FCR</entry>
+<entry>1.39 </entry>
+<entry>&#xb1; 0.06 a</entry>
+<entry>1.38 &#xb1; </entry>
+<entry>0.07 a</entry>
+</row>
+<row>
+<entry>Mortality (%)</entry>
+<entry>0.0 </entry>
+<entry>&#xb1; 0.0</entry>
+<entry>0.0 &#xb1; </entry>
+<entry>0.0</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00030">Values given are means (&#xb1;SE) associated with the treatment means</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0021" level="2">Summary</heading>
+<p id="p-0167" num="0160">Screw-pressed compound feeds for rainbow trout were exemplified using an HQSPC diet and a fish control meal. In this trial the HQSPC-based diets had comparable performance to fish meal. Again, these data show that the HQSPC diets exceeded the expected results using SPC (e.g., HQSPC may be used at concentration greater than a 30% inclusion level), and may serve as an efficacious replacement for fish meal.</p>
+<heading id="h-0022" level="1">Example 2. Production of HP-DDGS Using Microbial Conversion</heading>
+<p id="p-0168" num="0161">The effects of extrusion on improving saccharification of DDGS using a single screw extruder (BRABENDER PLASTI-CORDER EXTRUDER Model PL2000, Hackensack, N.J.) with barrel length to screw diameter of 1:20 and a compression ratio of 3:1 was investigated (<figref idref="DRAWINGS">FIGS. <b>4</b> and <b>5</b></figref>). It was determined that 25% DDGS moisture content, temperature of 100&#xb0; C. to 160&#xb0; C., and screw speed of 200 rpm resulted in a 36% sugar recovery from corn fiber (<figref idref="DRAWINGS">FIG. <b>5</b></figref>). The performance of various NOVOZYME lignocellulose deconstructing enzymes was separately evaluated and it was found that 6% CELLIC CTEK2 (per gm glucan) and 0.3% CELLIC HTEK2 (per gm total solids) resulted in sugar recoveries up to 70%. These pretreatment and saccharification conditions may be used to generate HP-DDGS. Next options such as co-culturing with cellulase-producers to reduce the need for added enzymes may be carried out, as well as using fed-batch bioreactors to reduce processing costs.</p>
+<p id="p-0169" num="0162">Evaluating growth and gum production of the microbe on the carbohydrates found in soybean meal was carried out and it was found that protein content can be increased from 42% to at least 60% by using the approach as disclosed herein. This showed that the microbe (e.g., <i>A. pullulans</i>) can efficiently convert a broad range of difficult to metabolize oligosaccharides into cell mass (i.e., protein) and a microbial gum. This effort with soybean meal was initiated based on prior studies that evaluated production of a range of microbial gums (exopolysaccharides) from corn processing byproducts such as whole stillage, thin stillage, and condensed corn solubles. Through this work, a variety of microbial strains have been accumulated that efficiently grow on various corn processing byproducts and produce high levels of cell mass and gums from the available sugars. Key operational parameters and lower-cost gum recovery methods have been identified and developed. Based on this body of work, and the knowledge that the strains of microbes produce a broad range of hydrolytic enzymes, robust processes have been identified that allow for effective conversion DDGS into HP-DDGS (e.g., <i>A. pullulans </i>strain NRRL No. 50793).</p>
+<p id="p-0170" num="0163">For pretreatment, the conventional, dryfrac, and/or low oil DDGS are extruded in a single screw extruder (BRABENDER PLASTI-CORDER EXTRUDER Model PL2000, Hackensack, N.J.) with a barrel length to screw diameter of 1:20 and a compression ratio of 3:1. DDGS samples (adjusted to 25% moisture), the temperature of feed, barrel, and outlet sections of extruder is held at 100&#xb0; C. to 160&#xb0; C., and screw speed is set at 200 rpm, providing a shearing effect against the ridged channels on both sides of the barrel. These selected levels of temperature, screw speed and moisture were based on optimized conditions defined previously that resulted in 36% sugar release from corn fiber due to disruption of the DDGS matrix.</p>
+<p id="p-0171" num="0164">Extruded conventional and dryfrac DDGS is mixed with water to achieve a solid loading rate of at least 5% in a 5 L NEW BRUNSWICK BIOFLO 3 BIOREACTOR (3-4 L working volume) at a pH of 5.8. After autoclaving and cooling, the slurry is saccharified using a cocktail of NOVOZYME enzymes for which preliminary data has previously been collected. Dosages to be used in the initial trials includes 6% CELLIC CTEK2 (per gm glucan) and 0.3% CELLIC HTEK2 (per gm total solids). Saccharification is conducted for 24 h at 50&#xb0; C. and 150 rpm to solubilize the fibers and oligosaccharides into simple sugars. The temperature is then reduced to 35&#xb0; C., the pH is adjusted to 4.0 (to optimize cell growth), and the slurry is inoculated with 2% (v/v) of a 24 h culture of the microbe. The slurry is aerated at 0.5 L/L/min and incubation is continued until sugar utilization ceases (96-120 h anticipated). The following parameters are then evaluated:</p>
+<p id="p-0172" num="0165">1) replacing the cellulase enzymes with cellulase producing microbes that would be co-cultured with the microbe;</p>
+<p id="p-0173" num="0166">2) maximizing initial solid loading rate; and</p>
+<p id="p-0174" num="0167">3) adding more extruded substrate during either saccharification and/or the microbial conversion phases (i.e., fed-batch operation) to minimize net enzyme dosage, maximize protein and gum concentrations, and minimize product recovery costs.</p>
+<p id="p-0175" num="0168">During incubation, samples are removed at 6-12 h intervals. Samples for HPLC analysis are boiled (to inactivate enzymes), centrifuged, filtered through 0.22-&#x3bc;m filters, placed into autosampler vials, and frozen until analysis. These samples are assayed for carbohydrates and organic solvents using a WATERS HPLC system. Samples are subjected to microbial counts to assess microbial populations. Samples are also assayed for levels of cellulose and hemicellulose using National Renewable Energy Laboratory procedures.</p>
+<p id="p-0176" num="0169">The converted slurry is then subjected to ethanol precipitation and centrifugation to separate the protein, microbial gum and microbial biomass (HP-DDGS) from the remaining culture fluid. While not being bound by theory, the presence of a precipitating gum improves the efficiency of centrifugation in recovering suspended solids. The composition of the HP-DDGS is then determined and used in fish feeding trials. Ethanol is recovered from the liquid stream via distillation, and the residual liquid is chemically analyzed to assess potential uses (e.g., incorporation into the HP-DDGS or biogas production).</p>
+<p id="p-0177" num="0170">The HP-DDGS so produced contains a microbial gum to serve as a binding agent and potentially as an immunostimulant. Other hydrolytic enzymes excreted by the microbe should release peptides, amino acids, and any remaining lipids, thereby increasing feed intake, growth performance, and nutrient utilization in fish feeding trials.</p>
+<heading id="h-0023" level="2">Evaluation of the Performance of HP-DDGS as a Fish Meal Replacement in Perch Feeds</heading>
+<p id="p-0178" num="0171">Conventional and dryfrac HP-DDGS from the above are analyzed for nutritional competencies in view of requirements of targeted species, especially focusing on yellow perch. Samples will be subjected to chemical analyses: proximate analysis, Van Soest fibers, insoluble carbohydrates, amino acids, fatty acids, and minerals. This ensures that nutritional benchmarks have been satisfied. Any anti-nutritional properties (e.g., phytic acid content) of HP-DDGS are compared with current DDGS and provide a basis for further process modification.</p>
+<p id="p-0179" num="0172">Complete practical diets are formulated using conventional and dryfrac HP-DDGS in accordance with known nutrient requirements for yellow perch (e.g., 32% protein, 8% lipid). Basal mineral and vitamin premixes for plant-based diets are used to ensure that micro-nutrient requirements are met. Any supplements (as deemed necessary by analysis) are evaluated by comparing to an identical formulation without supplementation; thus, the feeding trial is done in a factorial design to account for supplementation effects. All feeding trials include a fish meal-based control diet and diets containing graded levels of HP-DDGS. Pellets for feeding trials are produced using the lab-scale single screw extruder (BRABENDER PLASTI-CORDER EXTRUDER Model PL2000).</p>
+<p id="p-0180" num="0173">Replication of four experimental units per treatment are used in all feeding trials (60 to 120 days each). Trials are done in 110-L circular tanks (20 fish/tank) connected in parallel to a closed-loop recirculation system consisting of a solids sump, bioreactor, and filters (100 &#x3bc;m bag, carbon and ultra-violet) driven by a centrifugal pump. Heat pumps are used as required to maintain optimal temperatures for species-specific growth. Water quality (e.g., dissolved oxygen, pH, temperature, ammonia and nitrite) is monitored in all systems.</p>
+<p id="p-0181" num="0174">Experimental diets are delivered according to fish size, split into two-to-five daily feedings. Growth performance is determined by total mass measurements taken at one-to-four weeks (depending upon fish size and trial duration); rations are adjusted in accordance with gains to allow satiation feeding and to reduce waste streams. Consumption is assessed biweekly from collections of uneaten feed from individual tanks. Uneaten feed is dried to a constant temperature, cooled, and weighed to estimate conversion efficiency. Protein, energy, and phosphorous digestibility are determined from fecal material manually stripped during the midpoint of each experiment or via necropsy from the lower intestinal tract at the conclusion of a feeding trial. Survival, weight gain, growth rate, health indices, feed conversion, protein and energy digestibility, protein efficiency, and phosphorous utilization are compared among treatment groups. Proximate analysis of necropsied fish is done to compare composition of fillets among dietary treatments. Analysis of amino and fatty acids is done as needed for fillet constituents, according to the feeding trial objective.</p>
+<p id="p-0182" num="0175">Statistical analyses of diets and feeding trial responses are completed with an a priori &#x3b1;=0.05. Analysis of performance parameters among treatments is done with appropriate analysis of variance or covariance (Proc Mixed) and post hoc multiple comparisons, as needed. Analysis of fish performance and tissue responses are assessed by nonlinear models.</p>
+<heading id="h-0024" level="2">Determining Preliminary Mass Balance, Energy Requirements, and Costs.</heading>
+<p id="p-0183" num="0176">Inputs and outputs of the conventional and dryfrac HP-DDGS conversion process are monitored and used to establish a process mass balance. Similarly, energy requirements for the process are measured and/or estimated to calculate total energy use. Together, these inputs are used to assess preliminary costs, which are compared to conventional and dryfrac HP-DDGS value.</p>
+<p id="p-0184" num="0177">All of the references cited herein are incorporated by reference in their entireties.</p>
+<p id="p-0185" num="0178">From the above discussion, one skilled in the art can ascertain the essential characteristics of the invention, and without departing from the spirit and scope thereof, can make various changes and modifications of the embodiments to adapt to various uses and conditions. Thus, various modifications of the embodiments, in addition to those shown and described herein, will be apparent to those skilled in the art from the foregoing description. Such modifications are also intended to fall within the scope of the appended claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20230225357A1-20230720-M00001.NB">
+<img id="EMI-M00001" he="6.01mm" wi="76.20mm" file="US20230225357A1-20230720-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US20230225357A1-20230720-M00002.NB">
+<img id="EMI-M00002" he="6.01mm" wi="76.20mm" file="US20230225357A1-20230720-M00002.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00003" nb-file="US20230225357A1-20230720-M00003.NB">
+<img id="EMI-M00003" he="6.35mm" wi="76.20mm" file="US20230225357A1-20230720-M00003.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00004" nb-file="US20230225357A1-20230720-M00004.NB">
+<img id="EMI-M00004" he="6.01mm" wi="76.20mm" file="US20230225357A1-20230720-M00004.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00005" nb-file="US20230225357A1-20230720-M00005.NB">
+<img id="EMI-M00005" he="6.35mm" wi="76.20mm" file="US20230225357A1-20230720-M00005.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-claim-statement>We claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A composition containing:
+<claim-text>(a) a feedstock comprising
+<claim-text>(i) milled corn grain and</claim-text>
+<claim-text>(ii) whole soybean;</claim-text>
+</claim-text>
+<claim-text>(b) at least one microorganism;</claim-text>
+<claim-text>(c) water; and</claim-text>
+<claim-text>(d) a cellulase.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein soybean is soy flour.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the milled corn grain is dried distillers grain with solubles (DDGS).</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one microbe a microorganism selected from the group consisting of <i>Aureobasidium pullulans, Sclerotium glucanicum, Sphingomonas paucimobilis, Ralstonia eutropha, Rhodospirillum rubrum, Kluyveromyces </i>spp, <i>Pichia </i>spp, <i>Trichoderma reesei, Pleurotus ostreatus, Rhizopus </i>spp, and combinations thereof.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one microbe is a yeast.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the milled corn grain is fermented with yeast and the whole soybean is fermented with a separate microorganism.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the whole soybean is fermented with <i>Aureobasidium pullulans </i>and the milled corn grain is fermented with a separate microorganism.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. A feed or food comprising a dried composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. A composition comprising:
+<claim-text>(a) a feedstock comprising
+<claim-text>(i) milled corn grain and</claim-text>
+<claim-text>(ii) whole soybean;</claim-text>
+</claim-text>
+<claim-text>(b) at least one microorganism; and</claim-text>
+<claim-text>(c) water,</claim-text>
+</claim-text>
+<claim-text>wherein the soybean is exposed to a temperature of at least 50&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the milled corn grain is fermented with yeast and the whole soybean is fermented with <i>Aureobasidium pullulans. </i></claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. A feed or food comprising a dried composition of <claim-ref idref="CLM-00009">claim 9</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. A method increasing protein content of a fermented product comprising:
+<claim-text>(I) combining in a bioreactor:
+<claim-text>(a) a feedstock containing:
+<claim-text>(i) milled corn grain and</claim-text>
+<claim-text>(ii) whole soybean,</claim-text>
+</claim-text>
+<claim-text>(b) at least one microorganism,</claim-text>
+<claim-text>(c) water, and</claim-text>
+<claim-text>(d) a cellulase; and</claim-text>
+</claim-text>
+<claim-text>(II) incubating said combination for a sufficient time to form a fermented product, wherein the fermented product has a higher protein content than the feedstock from which it is derived.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the milled corn grain is dried distiller's grains with solubles.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein soybean is soy flour.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the milled corn grain is fermented with yeast prior to step (I) and the combination is fermented with the same or a separate microorganism.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the separate microorganism is <i>Aureobasidium pullulans. </i></claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. A method of increasing the protein content of a fermented product comprising:
+<claim-text>(I) combining in a bioreactor:
+<claim-text>(a) a feedstock containing:
+<claim-text>(i) milled corn grain and</claim-text>
+<claim-text>(ii) whole soybean,</claim-text>
+</claim-text>
+<claim-text>(b) at least one microorganism,</claim-text>
+<claim-text>(c) water, and</claim-text>
+<claim-text>(d) a cellulase; and</claim-text>
+</claim-text>
+<claim-text>(II) incubating said combination for a sufficient time to form a fermented product, wherein the soybean is exposed to a temperature of at least 50&#xb0; C., and wherein the fermented product has a higher protein content than the feedstock from which it is derived.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The method of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the milled corn grain is dried distiller's grains with solubles.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The method of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein soybean is soy flour.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the milled corn grain is fermented with yeast prior to step (I) and the combination is fermented with a microorganism selected from the group consisting of <i>Aureobasidium pullulans, Sclerotium glucanicum, Sphingomonas paucimobilis, Ralstonia eutropha, Rhodospirillum rubrum, Kluyveromyces </i>spp, <i>Pichia </i>spp, <i>Trichoderma reesei, Pleurotus ostreatus, Rhizopus </i>spp, and combinations thereof.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

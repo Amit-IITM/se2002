@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225254A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225254</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18011623</doc-number>
+<date>20210929</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>SE</country>
+<doc-number>2150494-9</doc-number>
+<date>20210421</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>75</main-group>
+<subgroup>28</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>34</main-group>
+<subgroup>64</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>75</main-group>
+<subgroup>28</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>34</main-group>
+<subgroup>64</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>2101</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">YARD MAINTENANCE VEHICLE WITH ADVANCED TILT MONITORING CAPABILITIES</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>HUSQVARNA AB</orgname>
+<address>
+<city>Huskvarna</city>
+<country>SE</country>
+</address>
+</addressbook>
+<residence>
+<country>SE</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Flygare</last-name>
+<first-name>Anders</first-name>
+<address>
+<city>J&#xf6;nk&#xf6;ping</city>
+<country>SE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Marcusson</last-name>
+<first-name>Dick</first-name>
+<address>
+<city>Taberg</city>
+<country>SE</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/IB2021/058962</doc-number>
+<date>20210929</date>
+</document-id>
+<us-371c12-date><date>20221220</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A tilt monitoring assembly (<b>200</b>) for a yard maintenance vehicle (<b>10</b>) may include processing circuitry (<b>210</b>) configured to receive speed information indicative of a current speed of the vehicle (<b>500</b>), receive orientation information indicative of a three dimensional orientation of the vehicle (<b>510</b>), receive weight information indicative of operator weight associated with a driver of the vehicle (<b>530</b>), determine a tilt status based on the speed information, the orientation information and the weight information (<b>540</b>), and provide an output associated with operation of the vehicle based on the tilt status (<b>550</b>).</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="134.28mm" wi="158.75mm" file="US20230225254A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="189.06mm" wi="160.27mm" orientation="landscape" file="US20230225254A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="221.57mm" wi="154.52mm" file="US20230225254A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="206.76mm" wi="149.27mm" file="US20230225254A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="205.23mm" wi="156.38mm" file="US20230225254A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="194.99mm" wi="164.08mm" file="US20230225254A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="213.19mm" wi="161.63mm" file="US20230225254A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="195.41mm" wi="85.60mm" file="US20230225254A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">Example embodiments generally relate to yard maintenance vehicles and, more particularly, relate to a yard maintenance vehicle that employs tilt monitoring capabilities that are sensitive to driver weight and complicated support situations.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Lawn care tasks are commonly performed using various tools and/or machines that are configured for the performance of corresponding specific tasks. Certain tasks, like grass cutting, are typically performed by lawn mowers. Lawn mowers themselves may have many different configurations to support the needs and budgets of consumers. Walk-behind lawn mowers are typically compact, have comparatively small engines, and are relatively inexpensive. Meanwhile, at the other end of the spectrum, riding lawn mowers, such as lawn tractors and articulated riders, can be much larger. Riding lawn mowers can sometimes also be configured with various functional accessories (e.g., trailers, tillers, and/or the like) in addition to grass cutting components. Riding lawn mowers provide the convenience of a riding vehicle as well as a typically larger cutting deck as compared to a walk-behind model.</p>
+<p id="p-0004" num="0003">As can be appreciated from the description above, riding yard maintenance vehicles may come in many different sizes and may have wide variances in their capabilities. However, beyond mere changes in size and function, riding yard maintenance vehicles can also be produced with a great deal of variation in relation to the configurations via which various ones of the functions they can perform are provided. For example, some riding yard maintenance vehicles may have attachments that are rear mounted, front mounted, or even mounted between the front and back wheels. Moreover, some riding yard maintenance vehicles may be configured to place the operator at different seated or standing locations on the vehicle. Still other vehicles may have split or articulated chassis structures.</p>
+<p id="p-0005" num="0004">As can be appreciated from the description above, the wide variation in design for riding yard maintenance vehicles can also complicate the design of systems that are aimed at improving handling and operation of the vehicles in various different environments. For example, articulated riders are designed such that the distance between the rear wheels and front wheels changes during the course of a turn. This alters the support situation for the vehicle in that the wheels are not at a fixed location relative to the center of gravity of the vehicle. Moreover, the center of gravity itself may change during a turn, and may move away from a line connecting a central point between the front wheels and a central point between the rear wheels. This moving center of gravity is potentially further complicated by other factors. In this regard, both the weight of the driver and the slope of the terrain on which the vehicle is operating can significantly change the center of gravity. These wide variances have, in the past, made it difficult to even consider provision of tilt monitoring and mitigation techniques for many riding lawn care vehicles beyond very rudimentary techniques that are loaded with assumptions that may ultimately be incorrect.</p>
+<p id="p-0006" num="0005">Accordingly, it may be desirable to develop a way to measure changes in the center of gravity of a riding yard maintenance vehicle to provide improved accuracy in tilt monitoring so that, for example, better mitigation strategies may also be employed to improve the driving experience.</p>
+<heading id="h-0003" level="1">BRIEF SUMMARY OF SOME EXAMPLES</heading>
+<p id="p-0007" num="0006">Some example embodiments may provide a tilt monitoring system that avoids the problems discussed above.</p>
+<p id="p-0008" num="0007">In an example embodiment, a riding yard maintenance vehicle is provided. The riding yard maintenance vehicle may include an articulated frame having a first portion to which front wheels of the vehicle are attached and a second portion to which rear wheels of the vehicle are attachable, a steering assembly operably coupled to the front wheels or the rear wheels of the vehicle to provide steering inputs by an operator of the vehicle, and a tilt monitoring assembly including processing circuitry. The processing circuitry may be configured to receive speed information indicative of a current speed of the vehicle, receive orientation information indicative of a three dimensional orientation of the vehicle, receive angle information indicative of an angular difference between the first and second portions of the vehicle, receive weight information indicative of a weight of the operator, determine a tilt status based on the speed information, the orientation information and the angle information, and provide an output associated with operation of the vehicle based on the tilt status.</p>
+<p id="p-0009" num="0008">In another example embodiment, a tilt monitoring assembly for a vehicle is provided. The tilt monitoring assembly for a yard maintenance vehicle may include processing circuitry configured to receive speed information indicative of a current speed of the vehicle, receive orientation information indicative of a three dimensional orientation of the vehicle, receive weight information indicative of operator weight associated with a driver of the vehicle, determine a tilt status based on the speed information, the orientation information and the weight information, and provide an output associated with operation of the vehicle based on the tilt status.</p>
+<p id="p-0010" num="0009">In another example embodiment, a tilt monitoring assembly for an articulated yard maintenance vehicle may be provided. The assembly may include processing circuitry configured to receive speed information indicative of a current speed of the vehicle, receive orientation information indicative of a three dimensional orientation of the vehicle, receive angle information indicative of an angular difference between headings of a first part of the vehicle at which front wheels are disposed and a second part of the vehicle at which rear wheels are disposed where the first and second parts of the vehicle are operably coupled via an articulated joint, determine a tilt status based on the speed information, the orientation information and the angle information, and provide an output associated with operation of the vehicle based on the tilt status.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE SEVERAL VIEWS OF THE DRAWING(S)</heading>
+<p id="p-0011" num="0010">Having thus described the invention in general terms, reference will now be made to the accompanying drawings, which are not necessarily drawn to scale, and wherein:</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. <b>1</b></figref> illustrates a perspective view of a riding yard maintenance vehicle according to an example embodiment;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>2</b></figref>, which is defined by <figref idref="DRAWINGS">FIGS. <b>2</b>A and <b>2</b>B</figref>, illustrates a top view of impacts on center of gravity for steering an articulated version of a riding yard maintenance vehicle of an example embodiment;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>3</b></figref>, which is defined by <figref idref="DRAWINGS">FIGS. <b>3</b>A and <b>3</b>B</figref>, illustrates a side view of impacts on center of gravity for steering the riding yard maintenance vehicle of an example embodiment;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>4</b></figref>, which is defined by <figref idref="DRAWINGS">FIGS. <b>4</b>A and <b>4</b>B</figref>, illustrates a perspective view of impacts on center of gravity for steering the riding yard maintenance vehicle of an example embodiment on a slope;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>5</b></figref> illustrates a schematic view of various components of a tilt monitoring assembly according to an example embodiment;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>6</b></figref> illustrates a perspective view of various components of the tilt monitoring assembly; and</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>7</b></figref> illustrates a block diagram of a method according to an example embodiment.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0019" num="0018">Some example embodiments now will be described more fully hereinafter with reference to the accompanying drawings, in which some, but not all example embodiments are shown. Indeed, the examples described and pictured herein should not be construed as being limiting as to the scope, applicability or configuration of the present disclosure. Rather, these example embodiments are provided so that this disclosure will satisfy applicable legal requirements. Like reference numerals refer to like elements throughout. Furthermore, as used herein, the term &#x201c;or&#x201d; is to be interpreted as a logical operator that results in true whenever one or more of its operands are true. As used herein, operable coupling should be understood to relate to direct or indirect connection that, in either case, enables functional interconnection of components that are operably coupled to each other.</p>
+<p id="p-0020" num="0019">Some example embodiments may provide an improved tilt monitoring capability that avoids the problems discussed above. In this regard, example embodiments can improve the ability to determine the center of gravity of a yard maintenance vehicle for articulated riders and/or for various changes in operator weight (or weight distribution). Example embodiments may employ weight sensors to determine (with accuracy) the weight of the operator and, in some cases, be able to detect changes in weight distribution where positioning of the operator is also variable. Example embodiments may also be enabled to incorporate knowledge of the unique geometries between front and rear portions of articulated riders during a turn in order to understand how the center of gravity moves relative to a longitudinal centerline of the vehicle, which may impact turning capabilities on slopes. Various conditional awareness notifications (e.g., status indicators, alerts or warnings) may be provided to the operator and, in some cases, automated controls may be employed to improve handling of the vehicle for the specific situation the vehicle is in (or approaching) at each instant during operation.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>1</b></figref> illustrates a riding yard maintenance vehicle <b>10</b> as one example of a host device that may employ a tilt monitoring assembly according to an example embodiment. The particular model shown, which includes front mounted equipment and is an articulated rider, is not necessarily the only model of host device or vehicle to which example embodiments may be applicable. As such, other models, including models without front mounts and without articulated steering, could also be operated with the tilt monitoring assembly (or versions thereof) as described herein.</p>
+<p id="p-0022" num="0021">In some embodiments, the riding yard maintenance vehicle <b>10</b> may include a seat <b>20</b> that may be disposed at a center, rear or front portion of the riding yard maintenance vehicle <b>10</b>. Although not required, the seat <b>20</b> may be adjustable in some cases. In this regard, for example, the operator may be enabled to move the seat <b>20</b> forward or rearward as shown by double arrow <b>22</b>. Additionally or alternatively, the seat <b>20</b> may be adjustable in height as shown by double arrow <b>24</b> so that the operator may ride higher or lower relative to the chassis of the riding yard maintenance vehicle <b>10</b> (and therefore also relative to the ground or surface on which the riding yard maintenance vehicle <b>10</b> is driving). As will be discussed in greater detail below, the movement of the seat <b>20</b> may impact the center of gravity of the riding yard maintenance vehicle <b>10</b>. Thus, sensitivity to any changes in movement of the seat <b>20</b> may also provide improved accuracy with respect to tilt monitoring.</p>
+<p id="p-0023" num="0022">The riding yard maintenance vehicle <b>10</b> may also include a steering assembly <b>30</b> (e.g., a steering wheel, handle bars, joystick(s) or the like) operably coupled to rear wheels <b>32</b> of the riding yard maintenance vehicle <b>10</b> to allow the operator to steer the riding yard maintenance vehicle <b>10</b> via steering inputs that are communicated to the rear wheels <b>32</b> (or front wheels <b>34</b>). However, other steering arrangements are possible in other embodiments and the type of steering assembly <b>30</b> employed is not limiting to example embodiments.</p>
+<p id="p-0024" num="0023">In an example embodiment, the steering assembly <b>30</b> may include a steering wheel <b>36</b> and a steering column <b>37</b>. The steering column <b>37</b> may operably connect to additional steering assembly components or, in other embodiments, to the front wheels <b>34</b>. Moreover, in some embodiments, the steering column <b>37</b> may extend into a steering console <b>38</b>, which may provide a cover to improve the aesthetic appearance of the riding yard maintenance vehicle <b>10</b> by obscuring the view of various mechanical components associated with the steering assembly <b>30</b>. In some examples, the steering assembly <b>30</b> may include other equipment (e.g., steering levers or handlebars) instead of the steering wheel <b>36</b>.</p>
+<p id="p-0025" num="0024">The operator may sit on the seat <b>20</b>, which may be disposed to the rear of the steering assembly <b>30</b> to provide input for steering of the riding yard maintenance vehicle <b>10</b> via the steering assembly <b>30</b>. The riding yard maintenance vehicle <b>10</b> may also include additional control related components that may be disposed at a control panel <b>40</b>, which may be positioned proximate to the seat <b>20</b> to enable an operator to easily access various control related components located at the control panel <b>40</b>. The control related components may include levers, switches and/or the like configured to provide control over certain functions or components such as a blade speed adjuster, a choke control, a cutting height adjuster and/or a cutting unit lifting controller. Various feedback mechanisms (e.g., lights, visual displays, status indicators, etc.) may be provided at the control panel <b>40</b> and/or at the steering wheel <b>36</b> or steering console <b>38</b> in some embodiments.</p>
+<p id="p-0026" num="0025">In some cases, one or more additional controllers, may be provided in the form of foot pedals that may sit proximate to a footrest <b>46</b> (which may include a portion on both sides of the riding yard maintenance vehicle <b>10</b> (e.g., on opposite sides of the steering console <b>38</b>)) to enable the operator to rest his or her feet thereon while seated in the seat <b>20</b>. These foot pedals may provide speed control for forward and/or backward operation, breaking, cutting deck lifting or other functions. Other levers, operators or components are possible in other examples as well.</p>
+<p id="p-0027" num="0026">In some example embodiments, the steering assembly <b>30</b> may be embodied as an assembly of metallic or other rigid components that may be welded, fitted, bolted or otherwise operably coupled to each other and coupled to the wheels (e.g., rear wheels <b>32</b> and/or front wheels <b>34</b>) of the riding yard maintenance vehicle <b>10</b> to which steering inputs are provided. For example, the steering assembly <b>30</b> may include or otherwise be coupled with a steering cable assembly or a system of mechanical linkages (e.g., pulleys, tie rods, cams, and/or other mechanical components) to translate rotational motion applied to the steering assembly <b>30</b> (and more particularly to the steering wheel <b>36</b>) into directional inputs to orient the wheels accordingly. Other steering control systems may be employed in some alternative embodiments.</p>
+<p id="p-0028" num="0027">The riding yard maintenance vehicle <b>10</b> may also include, or be configured to support attachment of, a cutting deck <b>50</b> having at least one cutting blade mounted therein. The cutting deck <b>50</b> may be a removable attachment that may be positioned in front of the front wheels <b>34</b> in a position to enable the operator to cut grass using the cutting blades when the cutting blades are rotated below the cutting deck <b>50</b> and the cutting deck <b>50</b> is in a cutting position. When operating to cut grass, some example embodiments may provide that the grass clippings may be captured by a collection system, mulched, or expelled from the cutting deck <b>50</b> (e.g., via a discharge that may be directed to a side or rear of the cutting deck and/or riding yard maintenance vehicle <b>10</b>). In some embodiments, the cutting deck <b>50</b> may be replaced by other working attachments to change the configuration of the riding yard maintenance vehicle <b>10</b> and correspondingly change the tasks that may be performed by the riding yard maintenance vehicle <b>10</b>. Thus, for example, a plow blade or snow blower attachment may be provided to convert the riding yard maintenance vehicle <b>10</b> into a snow removal device. Alternatively, a tiller attachment may be provided to convert the riding yard maintenance vehicle <b>10</b> into a ride-on or remote control operable tiller.</p>
+<p id="p-0029" num="0028">Other attachments and configurations are also possible such as a bagging attachment, sweeper, brush cutter, or the like. In each case, the different type of attachment may be considered to be a respective different type of accessory that can be powered by the riding yard maintenance vehicle <b>10</b> (as one example host device). The different attachments may also impact center of gravity calculations with respect to tilt monitoring, and thus, in some cases, the tilt monitoring assembly may be further aware of any accessories added to the riding yard maintenance vehicle <b>10</b> to consider such attachments in tilt monitoring, and more particularly in relation to determining the center of gravity of the riding yard maintenance vehicle <b>10</b>.</p>
+<p id="p-0030" num="0029">In the pictured example embodiment of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, an engine of the riding yard maintenance vehicle <b>10</b> is disposed in an engine compartment <b>60</b> that is behind a seated operator in a rear portion of the riding yard maintenance vehicle <b>10</b>. However, in other example embodiments, the engine could be in different positions such as in front of or below the operator. In some embodiments, the engine may be operably coupled to one or more of the wheels of the riding yard maintenance vehicle <b>10</b> in order to provide drive power for the riding yard maintenance vehicle <b>10</b>. In some embodiments, the engine may be capable of powering two wheels, while in others, the engine may power all four wheels of the riding yard maintenance vehicle <b>10</b>. Moreover, in some cases, the engine may manually or automatically shift between powering either some wheels or all four wheels of the riding yard maintenance vehicle <b>10</b>.</p>
+<p id="p-0031" num="0030">The engine, the steering assembly <b>30</b>, the cutting deck <b>50</b>, the seat <b>20</b> and other components of the riding yard maintenance vehicle <b>10</b> may be operably connected (directly or indirectly) to a frame <b>60</b> of the riding yard maintenance vehicle <b>10</b>. The frame <b>60</b> may be a rigid structure configured to provide support, connectivity and interoperability functions for various ones of the components of the riding yard maintenance vehicle <b>10</b>. In some embodiments, the frame <b>60</b> may be split or articulated such that, for example, the front wheels <b>34</b> are disposed on an opposite portion of the frame <b>60</b> than the portion of the frame <b>60</b> on which the back wheels <b>32</b> are disposed with respect to an articulated joint <b>70</b> in the frame.</p>
+<p id="p-0032" num="0031">Due to the inclusion of the articulated joint <b>70</b>, resultant steering geometries change during a turn of the riding yard maintenance vehicle <b>10</b>. The changes in geometry will tend to correspondingly change the center of gravity of the riding yard maintenance vehicle <b>10</b>. Moreover, in certain situations (such as on a hillside or slope), steering geometries that are quite stable when the riding yard maintenance vehicle <b>10</b> operates on flat ground may be impacted. The weight of the operator, and any other changes to the weight distribution may also impact the center of gravity. The tilt monitoring assembly of an example embodiment may account for each of these factors, as well as the speed (including acceleration or deceleration of the riding yard maintenance vehicle <b>10</b>, to determine whether changes to center of gravity and various conditions experienced in real time may lead to tilt-related issues. The tilt monitoring assembly may then either inform the operator of such issues or, in some cases, take automatic actions to mitigate tilt risk.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIGS. <b>2</b>-<b>4</b></figref> illustrate various conditions or situations and their respective impacts on the center of gravity of the riding yard maintenance vehicle <b>10</b>. In this regard, <figref idref="DRAWINGS">FIG. <b>2</b></figref>, which is defined by <figref idref="DRAWINGS">FIGS. <b>2</b>A and <b>2</b>B</figref>, illustrates a schematic top view of a vehicle <b>100</b> (e.g., of which the riding yard maintenance vehicle <b>10</b> of <figref idref="DRAWINGS">FIG. <b>1</b></figref> is an example) driving straight (<figref idref="DRAWINGS">FIG. <b>2</b>A</figref>) and therefore having a 0 degree steering or turning angle and also engaged in a turn (<figref idref="DRAWINGS">FIG. <b>2</b>B</figref>). Referring first to <figref idref="DRAWINGS">FIG. <b>2</b>A</figref>, a front vehicle portion <b>110</b> including front wheels <b>112</b> is shown from above, and is operably coupled to a rear vehicle portion <b>120</b> including rear wheels <b>122</b>. The operable coupling is provided by an articulated joint <b>130</b> (e.g., of which articulated joint <b>70</b> of <figref idref="DRAWINGS">FIG. <b>1</b></figref> is an example). A longitudinal centerline <b>140</b> of the vehicle <b>100</b> is shown extending from a midpoint between the front wheels <b>112</b> to a midpoint between the rear wheels <b>122</b>.</p>
+<p id="p-0034" num="0033">A possible location for a center of gravity <b>150</b> (at least in the X-Y dimension) is shown to be located near the articulated joint <b>130</b> in this example. One may assume that the weight and weight distributions of the front vehicle portion <b>110</b> and the rear vehicle portion <b>120</b> are relatively even in this example, but it should be appreciated that the center of gravity <b>150</b> could alternatively be moved forward or rearward if there is a weight imbalance therebetween. In any case, the center of gravity <b>150</b> generally falls along the longitudinal centerline <b>140</b>. Additionally, the front and rear wheels <b>112</b> and <b>122</b> define a base (e.g., a support base) for the vehicle <b>100</b>.</p>
+<p id="p-0035" num="0034">A tipping point for the vehicle <b>100</b> would be reached when the center of gravity <b>150</b> passes outside the base. Thus, for example, a theoretical lateral base limit <b>160</b> on the left side of the vehicle is shown in <figref idref="DRAWINGS">FIG. <b>2</b>A</figref>. If the center of gravity <b>150</b> were to move to the left past the theoretical lateral base limit <b>160</b>, the vehicle <b>100</b> could be expected to tip over.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>2</b>B</figref> shows the vehicle <b>100</b> during a turn to the right. As shown in <figref idref="DRAWINGS">FIG. <b>2</b>B</figref>, the turning of the vehicle <b>100</b> causes a change in the position of the center of gravity <b>150</b> as the weight of the vehicle <b>100</b> generally tends to continue to follow its prior path due to inertia. Meanwhile, the turning of the vehicle <b>100</b> also changes the support base. Accordingly, as shown in <figref idref="DRAWINGS">FIG. <b>2</b>B</figref> proximity between the new lateral base limit <b>160</b>&#x2032; and the center of gravity <b>150</b> is decreased, thereby meaning less margin to the tipping point. Generally speaking, faster movement of the vehicle <b>100</b> when the turn is begun, and increased severity of the turn will both cause more movement of the center of gravity <b>150</b> toward the new lateral base limit <b>160</b>&#x2032;.</p>
+<p id="p-0037" num="0036">The height of the center of gravity is also important to consider. Thus, as shown in <figref idref="DRAWINGS">FIG. <b>3</b>A</figref>, the center of gravity <b>150</b> may be relatively low (which is better for stability) when the driver is not seated on the vehicle <b>100</b>. However, when the driver <b>170</b> is seated on the vehicle <b>100</b>, as shown in <figref idref="DRAWINGS">FIG. <b>3</b>B</figref>, additional weight may be added at a higher elevation, and thereby move the center of gravity <b>150</b> toward the driver <b>170</b> (in a fore/aft direction) and also move the center of gravity <b>150</b> higher. The higher center of gravity <b>150</b> may also impact tipping, as the higher center of gravity <b>150</b> may more rapidly reach the lateral base limit <b>160</b> and cause tipping sooner (especially at high speeds or during large turns).</p>
+<p id="p-0038" num="0037">If operation on a slope is added to the situation, as shown in <figref idref="DRAWINGS">FIGS. <b>4</b>A and <b>4</b>B</figref>, the proximity to a tipping point may be decreased even further. In this regard, as shown in <figref idref="DRAWINGS">FIG. <b>4</b>A</figref>, the vehicle <b>100</b> is operating on a slope so that the right wheels are higher in elevation than the left wheels. The center of gravity <b>150</b> can be seen to have moved toward the left side of the vehicle <b>100</b>. In <figref idref="DRAWINGS">FIG. <b>4</b>B</figref>, the vehicle <b>100</b> is engaged in a left turn (i.e., a turn toward the left) while on the slope. The center of gravity <b>150</b> may move higher during the turn, but since the turn is also to the left, the center of gravity may move to the right as well, thereby offsetting (at least slightly) the movement of the center of gravity <b>150</b> toward the lateral base limit that would be caused by the turn. However, if the turn was instead to the right, then both the slope and the turn impacts would combine to move the center of gravity <b>150</b> left and reduce the margin to the tipping point. This matched directly with experiences many of us have had on numerous occasions. In this regard, when operating on a side slope, turning down slope feels much more comfortable than turning up slope.</p>
+<p id="p-0039" num="0038">All of these phenomena are well understood and involve basic physics. However, although the phenomena occur around us all the time and in all situations, calculation of exact values to evaluate vehicle operations is not common. That said, many vehicles include computers or processing circuitry of some kind onboard. Thus, the capability certainly exists to perform various calculations. However, even for vehicles that do have the capability and perform calculations relating to determining stability-related factors that affect a vehicle, such calculations generally ignore the weight of the driver <b>170</b> or other weight related structural changes (e.g., load or accessory layout). Moreover, the complications added by virtue of the fact that an articulated vehicle does not have a common base that never changes, which would simplify any stability calculations tremendously, are difficult to overcome. Nevertheless, example embodiments provide a robust capability for determining factors that may impact margin to a tipping point in a comprehensive tilt monitoring assembly that is applicable to an articulated vehicle.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. <b>4</b></figref> illustrates a block diagram of a tilt monitoring assembly <b>200</b> of an example embodiment. The tilt monitoring assembly <b>200</b> may include processing circuitry <b>210</b>, which may be part of or otherwise embodied as an electronic control unit (ECU) or other controller or processing circuitry of the riding yard maintenance vehicle <b>10</b> or vehicle <b>100</b> described above. The processing circuitry <b>210</b> may be configured to perform data processing, and control function execution and/or other processing and management services according to an example embodiment of the present invention. In some embodiments, the processing circuitry <b>210</b> may be embodied as a chip or chip set. In other words, the processing circuitry <b>210</b> may comprise one or more physical packages (e.g., chips) including materials, components and/or wires on a structural assembly (e.g., a baseboard). The structural assembly may provide physical strength, conservation of size, and/or limitation of electrical interaction for component circuitry included thereon. The processing circuitry <b>210</b> may therefore, in some cases, be configured to implement an embodiment of the present invention on a single chip or as a single &#x201c;system on a chip.&#x201d; As such, in some cases, a chip or chipset may constitute means for performing one or more operations for providing the functionalities described herein.</p>
+<p id="p-0041" num="0040">In an example embodiment, the processing circuitry <b>210</b> may include one or more instances of a processor <b>212</b> and memory <b>214</b> that may be in communication with or otherwise control a stability module <b>220</b>. As such, the processing circuitry <b>210</b> may be embodied as a circuit chip (e.g., an integrated circuit chip) configured (e.g., with hardware, software or a combination of hardware and software) to perform operations described herein. However, in some embodiments, the processing circuitry <b>210</b> may be embodied as a portion of an on-board computer. In some embodiments, the processing circuitry <b>210</b> may communicate (directly or indirectly) with electronic components and/or sensors (e.g., weight sensors of a weight sensor assembly <b>230</b>, a seat position sensor <b>232</b>, an angle sensor <b>240</b>, an orientation assembly <b>242</b>, a speed sensor <b>244</b>, and/or the like) of the vehicle <b>100</b> via a single data bus or multiple buses/electrical connections. In some cases, the data bus may connect to a plurality or all of the sensors and/or other electrically controlled components of the vehicle <b>100</b>.</p>
+<p id="p-0042" num="0041">The processor <b>212</b> may be embodied in a number of different ways. For example, the processor <b>212</b> may be embodied as various processing means such as one or more of a microprocessor or other processing element, a coprocessor, a controller or various other computing or processing devices including integrated circuits such as, for example, an ASIC (application specific integrated circuit), an FPGA (field programmable gate array), or the like. In an example embodiment, the processor <b>212</b> may be configured to execute instructions stored in the memory <b>214</b> or otherwise accessible to the processor <b>212</b>. As such, whether configured by hardware or by a combination of hardware and software, the processor <b>212</b> may represent an entity (e.g., physically embodied in circuitry&#x2014;in the form of processing circuitry <b>210</b>) capable of performing operations according to embodiments of the present invention while configured accordingly. Thus, for example, when the processor <b>212</b> is embodied as an ASIC, FPGA or the like, the processor <b>212</b> may be specifically configured hardware for conducting the operations described herein. Alternatively, as another example, when the processor <b>212</b> is embodied as an executor of software instructions, the instructions may specifically configure the processor <b>212</b> to perform the operations described herein.</p>
+<p id="p-0043" num="0042">In an example embodiment, the processor <b>212</b> (or the processing circuitry <b>210</b>) may be embodied as, include or otherwise control the stability module <b>220</b>. As such, in some embodiments, the processor <b>212</b> (or the processing circuitry <b>210</b>) may be said to cause each of the operations described in connection with the stability module <b>220</b> by directing the stability module <b>220</b> to undertake the corresponding functionalities responsive to execution of instructions or algorithms configuring the processor <b>212</b> (or processing circuitry <b>210</b>) accordingly. As an example, the stability module <b>220</b> may be configured to receive a variety of inputs from various sources and make calculations or determinations associated with tilt monitoring as described herein. The stability module <b>220</b> may then, as a result of such monitoring issue information, alerts, instructions or the like to facilitate operation of the vehicle <b>100</b> based on the data received and the calculations or determinations made.</p>
+<p id="p-0044" num="0043">In an exemplary embodiment, the memory <b>214</b> may include one or more non-transitory memory devices such as, for example, volatile and/or non-volatile memory that may be either fixed or removable. The memory <b>214</b> may be configured to store information, data, applications, instructions or the like for enabling the stability module <b>220</b> to carry out various functions in accordance with exemplary embodiments of the present invention. For example, the memory <b>214</b> could be configured to buffer input data for processing by the processor <b>212</b>. Additionally or alternatively, the memory <b>214</b> could be configured to store instructions for execution by the processor <b>212</b>. As yet another alternative, the memory <b>214</b> may include one or more databases that may store a variety of data sets responsive to input from sensors or other components. Among the contents of the memory <b>214</b>, applications may be stored for execution by the processor <b>212</b> in order to carry out the functionality associated with each respective application. In some cases, the applications may include instructions for tilt monitoring and issuing information, alerts or instructions based on the tilt monitoring.</p>
+<p id="p-0045" num="0044">In an example embodiment, the stability module <b>220</b> may be configured to receive speed information (including data showing a rate of acceleration or deceleration) from the speed sensor <b>244</b>. The speed sensor <b>244</b> may be a GPS sensor, an accelerometer, a speedometer, or any other suitable device capable of measuring speed of the vehicle <b>100</b>. The stability module <b>220</b> may also receive angular difference information indicating a difference in heading or angular orientation between the front vehicle portion <b>110</b> and the rear vehicle portion <b>120</b> of the vehicle <b>100</b> as provided by angle sensor <b>240</b>. The angle sensor <b>240</b> may include one or more Hall effect sensors, resistance measurements, capacitive measurements, or various other electrical measurements generated in or proximate to the articulated joint <b>130</b>. Alternatively, GPS sensors on each of the front vehicle portion <b>110</b> and the rear vehicle portion <b>120</b> may be capable of being used to determine a heading of each portion, respectively. The heading differences may then be used to determine the angular orientation difference.</p>
+<p id="p-0046" num="0045">The orientation assembly <b>242</b> may include one or more sensors (e.g., accelerometers, gyroscopes, etc.) that can be used to generate data corresponding to horizontal, vertical, and rotational accelerations of the vehicle <b>100</b>, and communicate such data to the processing circuitry <b>210</b> (or stability module <b>220</b>). As such, information such as pitch angle, roll angle and yaw angle may be determinable using the orientation assembly <b>242</b>. In an example embodiment, sensors may separately be provided on the front vehicle portion <b>110</b> and the rear vehicle portion <b>120</b> to obtain independent orientation information for each of the front vehicle portion <b>110</b> and the rear vehicle portion <b>120</b>, respectively. However, in some alternatives, a centrally located or single instance of the orientation assembly <b>242</b> may be used to determine the orientation of the vehicle <b>100</b> in three dimensional space. The orientation may indicate operation on a slope, and the position of the vehicle <b>100</b> on the slope, for example.</p>
+<p id="p-0047" num="0046">The stability module <b>220</b> may also receive inputs from a weight sensor assembly <b>230</b>, which is configured to determine the weight of the driver <b>170</b> disposed on the seat <b>20</b> of the vehicle <b>100</b>. The weight sensor assembly <b>230</b> may include a scale configured to directly measure the weight of the driver <b>170</b> in some cases. However, in other cases, the weight sensor assembly <b>230</b> may be implemented in other, perhaps simpler, ways. For example, a series of limit switches may be engaged based on the vertical position of the seat <b>20</b>. Each limit switch may correspond to subsequently increasing ranges of weights for the driver <b>170</b>. Thus, a light driver may trigger only a first limit switch, and increasingly heavy drivers may trigger increasingly more limit switches to define additional weight values for the driver <b>170</b>.</p>
+<p id="p-0048" num="0047">Although not required, in some cases, even the position of the seat <b>20</b> may be measured to permit more accurate calculation of the center of gravity <b>150</b>. In this regard, for example, if the seat <b>20</b> is adjustable, the seat position sensor <b>232</b> may detect at which position the seat <b>20</b> is currently located (higher/lower, forward/rearward, etc.). The seat position sensor <b>232</b> may also use limit switches or various capacitive, resistive, Hall effect or other sensors to determine the position of the seat <b>20</b>. In any case, the weight of the driver <b>170</b>, and the location of the weight if such location is adjustable, can clearly (and potentially significantly) modify the center of gravity of the vehicle <b>100</b>. Thus, even if, for example, the vehicle <b>100</b> is operable entirely remotely, the weight of the driver <b>170</b> (or lack of such weight) should be accounted for by the stability module <b>220</b> in determining the tilt status.</p>
+<p id="p-0049" num="0048">Although not required, the stability module <b>220</b> may also receive an accessory input <b>250</b>. The accessory input <b>250</b> may be automatically determined (e.g., via sensors that detect the presence of specific accessories) or may be a manual input provided by the driver <b>170</b> (e.g., at the control panel <b>40</b> or another user interface). The accessory input <b>250</b> may indicate that a particular accessory (e.g., a removable piece of equipment such as a cutting deck, bagging attachment, or various other working elements) is attached to the vehicle <b>100</b>.</p>
+<p id="p-0050" num="0049">The stability module <b>220</b> may be configured to perform tilt monitoring based on all of the inputs received. In this regard, for example, the stability module <b>220</b> may be configured to determine, based on the inputs received, a stability status indication. The stability status indication may, in some cases, include an indication of a proximity to a tipping point or a stability margin by comparing a determined center of gravity to a calculated base limit. The calculated base limit may be determined based on known information about the vehicle <b>100</b> (e.g., track width and wheelbase) as modified by the positions of the wheels for the current vehicle steering direction (and therefore the difference in heading between the front vehicle portion <b>110</b> and the rear vehicle portion <b>120</b>). The wheel positions may be determined based on the steering angle provided by the angle sensor <b>240</b>. Thus, for example, a lookup table <b>280</b> may be stored in the memory <b>214</b> to indicate a normal or default base limit for a steering angle of zero. The lookup table <b>280</b> may modify the normal base limit to determine the calculated base limit based on the steering angle for any non-zero steering angle. The calculated base limit values in the lookup table <b>280</b> may therefore be directly related to the steering angle and information specific to a model of the vehicle <b>100</b>. The calculated base limit values may be experimentally determined for each model of the vehicle <b>100</b>.</p>
+<p id="p-0051" num="0050">The determined center of gravity may also be calculated by the stability module <b>220</b> based on various inputs received thereat. In this regard, for example, the lookup table <b>280</b> may store tables for center of gravity location (on or relative to a body or chassis of the vehicle <b>100</b>). In some cases, a base table may be provided (again experimentally determined for each model) with center of gravity location for driving with a zero steering angle. The base table may then be modified (or other tables may be provided) for respective modifications that are made from the base situation in relation to vehicle speed (or acceleration/deceleration), vehicle orientation, steering angle, and weight of the driver <b>170</b>. In some cases, additional modifications may be made (or separate tables made) for the accessories attached (as determined by the accessory input <b>250</b>) and the position of the seat (as determined by input from the seat position sensor <b>232</b>). The stability module <b>220</b> may then compare the determined center of gravity to the calculated base limit to determine a tilt status (or proximity to the tipping point).</p>
+<p id="p-0052" num="0051">In an example embodiment, the stability module <b>220</b> may continuously (or periodically at relatively short intervals (e.g., every few seconds)) calculate the tilt status as described above, or using other similar methods. The stability module <b>220</b> may then generate an alert or instruction <b>260</b>, which can be provided to the driver <b>170</b> at the control panel <b>40</b> or other user interface of the vehicle <b>100</b>. If an alert is issued, the alert may indicate that the driver <b>170</b> should drive carefully or take action to improve stability. However, in some cases, the alert may actually provide information (general or specific) that will improve stability. For example, general information may include an alert to slow down, turn down-slope, or reduce the steering angle. More specific information may take the form of instructions, and may include instructions to decrease speed by braking or reducing accelerator input, or to turn in a particular direction or at a particular amount.</p>
+<p id="p-0053" num="0052">In some cases, rather than providing guidance or information, the stability module <b>220</b> may automatically initiate controls to improve stability. In this regard, for example, the stability module <b>220</b> may issue commands for any or all of steering control <b>270</b>, speed control <b>272</b> and brake control <b>274</b>. Thus, the stability module <b>220</b> may interact with the ECU or directly with components of the vehicle <b>100</b> that control braking, speed and steering inputs in order to improve the stability of the vehicle <b>100</b> if certain thresholds or tripwires related to the tilt status are reached.</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. <b>6</b></figref> illustrates a schematic view of the vehicle <b>100</b> and various sensors that may be incorporated thereon in some cases. The sensors shown may be, or be parts of, any or all of the weight sensor assembly <b>230</b>, the seat position sensor <b>232</b>, the angle sensor <b>240</b>, the orientation assembly <b>242</b>, the speed sensor <b>244</b>, or the like. However, it should be appreciated that other arrangements and sensors may be used in alternative embodiments.</p>
+<p id="p-0055" num="0054">Referring now to <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the front vehicle portion <b>110</b> may include a weight sensor <b>300</b> and the seat position sensor <b>232</b>, each of which may be disposed proximate to the driver <b>170</b> and seat <b>20</b> on which the driver <b>170</b> sits to operate the vehicle <b>100</b>. At least one accelerometer <b>310</b> may also be provided on the front vehicle portion <b>110</b>. The accelerometer <b>310</b> may be part of the orientation assembly <b>242</b>. In some cases, at least one accelerometer <b>310</b> may also be provided on the rear vehicle portion <b>120</b>. However, as another alternative, a single accelerometer <b>312</b> may be provided at a central location (e.g., proximate to the articulated joint <b>130</b>). As still another alternative, an instance of the accelerometer <b>310</b> (or another orientation sensor) may be provided at each corner of the vehicle <b>100</b> to improve accuracy regarding determinations of the orientation of the vehicle <b>100</b> in three dimensional space. The angle sensor <b>240</b> of this example is also located at the articulated joint <b>130</b>.</p>
+<p id="p-0056" num="0055">As noted above, various other sensors and components may also be integrated into the vehicle <b>100</b>. In this regard, for example, a front mount appliance detector <b>320</b> may be provided to detect the presence (and therefore also the weight) of the cutting deck or any other front mounted attachment. A bagging attachment detector <b>322</b> or weight sensor <b>324</b> may also be provided if a bagging attachment can also be added. Each of these components may provide inputs that can be used by the stability module <b>220</b> in real time to make tilt status determinations as described above.</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. <b>7</b></figref> illustrates a block diagram of a method according to an example embodiment. The method may be a control algorithm executed by the processing circuitry of or associated with the stability module <b>220</b>. The method may include receiving speed information indicative of a current speed of the vehicle at operation <b>500</b>, receiving orientation information indicative of a three dimensional orientation of the vehicle at operation <b>510</b>, receiving angle information indicative of an angular difference between first and second portions of the vehicle at operation <b>520</b> and receiving weight information indicative of a weight of the operator at operation <b>530</b>. Operations <b>500</b> to <b>530</b> may be performed in any order. The method may further include determining a tilt status based on the speed information, the orientation information and the angle information at operation <b>540</b> and providing an output associated with operation of the vehicle based on the tilt status at operation <b>550</b>.</p>
+<p id="p-0058" num="0057">Some embodiments of the invention provide a riding yard maintenance vehicle. The vehicle may include an articulated frame having a first portion to which front wheels of the vehicle are attached and a second portion to which rear wheels of the vehicle are attachable, a steering assembly operably coupled to the front wheels or the rear wheels of the vehicle to provide steering inputs by an operator of the vehicle, and a tilt monitoring assembly including processing circuitry. The processing circuitry may be configured to receive speed information indicative of a current speed of the vehicle, receive orientation information indicative of a three dimensional orientation of the vehicle, receive angle information indicative of an angular difference between the first and second portions of the vehicle, receive weight information indicative of a weight of the operator, determine a tilt status based on the speed information, the orientation information and the angle information, and provide an output associated with operation of the vehicle based on the tilt status.</p>
+<p id="p-0059" num="0058">In some embodiments, the tilt monitoring assembly of the vehicle may include additional, optional features, and/or the features described above may be modified or augmented. Some examples of modifications, optional features and augmentations are described below. It should be appreciated that the modifications, optional features and augmentations may each be added alone, or they may be added cumulatively in any desirable combination. In an example embodiment, the weight information may further include information associated with a weight of one or more accessories operably coupled to the vehicle. In an example embodiment, the weight information may further include information associated with seat position for a seat of the vehicle. In some cases, determining the tilt status may include determining a center of gravity for the vehicle based on the speed information, the orientation information (e.g., with optional input from map data that could be used, for example, for predictions) and the weight information, and determining a calculated base limit to compare to the center of gravity to determine the tilt status. In an example embodiment, the calculated base limit may be determined based on a steering angle of the vehicle, and the center of gravity may also be determined based on the steering angle and acceleration or deceleration applied at the steering angle. In some cases, the output may be an alert or instruction associated with vehicle control based on the tilt status. Alternatively or additionally, the output may be a control instruction associated with steering control, speed control or brake control based on the tilt status.</p>
+<p id="p-0060" num="0059">Many modifications and other embodiments of the inventions set forth herein will come to mind to one skilled in the art to which these inventions pertain having the benefit of the teachings presented in the foregoing descriptions and the associated drawings. Therefore, it is to be understood that the inventions are not to be limited to the specific embodiments disclosed and that modifications and other embodiments are intended to be included within the scope of the appended claims. Moreover, although the foregoing descriptions and the associated drawings describe exemplary embodiments in the context of certain exemplary combinations of elements and/or functions, it should be appreciated that different combinations of elements and/or functions may be provided by alternative embodiments without departing from the scope of the appended claims. In this regard, for example, different combinations of elements and/or functions than those explicitly described above are also contemplated as may be set forth in some of the appended claims. In cases where advantages, benefits or solutions to problems are described herein, it should be appreciated that such advantages, benefits and/or solutions may be applicable to some example embodiments, but not necessarily all example embodiments. Thus, any advantages, benefits or solutions described herein should not be thought of as being critical, required or essential to all embodiments or to that which is claimed herein. Although specific terms are employed herein, they are used in a generic and descriptive sense only and not for purposes of limitation.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A tilt monitoring assembly for a yard maintenance vehicle, the assembly comprising processing circuitry configured to:
+<claim-text>receive speed information indicative of a current speed of the vehicle;</claim-text>
+<claim-text>receive orientation information indicative of a three dimensional orientation of the vehicle;</claim-text>
+<claim-text>receive weight information indicative of operator weight associated with a driver of the vehicle;</claim-text>
+<claim-text>determine a tilt status based on the speed information, the orientation information and the weight information; and</claim-text>
+<claim-text>provide an output associated with operation of the vehicle based on the tilt status.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the weight information further includes information associated with a weight of one or more accessories operably coupled to the vehicle.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the weight information further includes information associated with seat position for a seat of the vehicle.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein determining the tilt status comprises determining a center of gravity for the vehicle based on the speed information, the orientation information and the weight information, and determining a calculated base limit to compare to the center of gravity to determine the tilt status.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The assembly of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the calculated base limit is determined based on a steering angle of the vehicle, and wherein the center of gravity is also determined based on the steering angle and acceleration or deceleration applied at the steering angle.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The assembly of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the vehicle comprises an articulated joint separating a first part of the vehicle at which front wheels of the vehicle are disposed from a second part of the vehicle at which rear wheels of the vehicle are disposed.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The assembly of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the steering angle is determined by an angle sensor disposed at the articulated joint.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the output comprises an alert or instruction associated with vehicle control based on the tilt status.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the output comprises a control instruction associated with steering control, speed control or brake control based on the tilt status.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. A tilt monitoring assembly for an articulated yard maintenance vehicle, the assembly comprising processing circuitry configured to:
+<claim-text>receive speed information indicative of a current speed of the vehicle;</claim-text>
+<claim-text>receive orientation information indicative of a three dimensional orientation of the vehicle;</claim-text>
+<claim-text>receive angle information indicative of an angular difference between headings of a first part of the vehicle at which front wheels are disposed and a second part of the vehicle at which rear wheels are disposed, the first and second parts of the vehicle being operably coupled via an articulated joint;</claim-text>
+<claim-text>determine a tilt status based on the speed information, the orientation information and the angle information; and</claim-text>
+<claim-text>provide an output associated with operation of the vehicle based on the tilt status.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The assembly of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the processing circuitry is further configured to receive weight information indicative of operator weight associated with a driver of the vehicle and determine the tilt status based on the weight information.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The assembly of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the weight information further includes information associated with a weight of one or more accessories operably coupled to the vehicle.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The assembly of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the weight information further includes information associated with seat position for a seat of the vehicles.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The assembly of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein determining the tilt status comprises determining a center of gravity for the vehicle based on the speed information, the orientation information and the angle information, and determining a calculated base limit to compare to the center of gravity to determine the tilt status.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The assembly of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the calculated base limit is determined based on the steering angle of the vehicle, and
+<claim-text>wherein the center of gravity is also determined based on the steering angle and acceleration or deceleration applied at the steering angle.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The assembly of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the output comprises an alert or instruction associated with vehicle control based on the tilt status.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The assembly of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the output comprises a control instruction associated with steering control, speed control or brake control based on the tilt status.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. A riding yard maintenance vehicle comprising:
+<claim-text>an articulated frame comprising a first portion to which front wheels of the vehicle are attached and a second portion to which rear wheels of the vehicle are attachable;</claim-text>
+<claim-text>a steering assembly operably coupled to the front wheels or the rear wheels of the vehicle to provide steering inputs by an operator of the vehicle; and</claim-text>
+<claim-text>a tilt monitoring assembly comprising processing circuitry configured to:
+<claim-text>receive speed information indicative of a current speed of the vehicle</claim-text>
+<claim-text>receive orientation information indicative of a three dimensional orientation of the vehicle;</claim-text>
+<claim-text>receive angle information indicative of an angular difference between the first and second portions of the vehicle;</claim-text>
+<claim-text>receive weight information indicative of a weight of the operator;</claim-text>
+<claim-text>determine a tilt status based on the speed information, the orientation information and the angle information; and</claim-text>
+<claim-text>provide an output associated with operation of the vehicle based on the tilt status.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The vehicle of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein determining the tilt status comprises determining a center of gravity for the vehicle based on the speed information, the orientation information and the angle information, and determining a calculated base limit to compare to the center of gravity to determine the tilt status.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The vehicle of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the output comprises an alert associated with vehicle control based on the tilt status, or
+<claim-text>a control instruction associated with steering control, speed control or brake control of the vehicle based on the tilt status.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

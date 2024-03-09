@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225295A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225295</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18124778</doc-number>
+<date>20230322</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>29</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>1</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>29</main-group>
+<subgroup>005</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>1</main-group>
+<subgroup>026</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">PEST CONTROL SYSTEM AND METHOD OF OPERATING SAME</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16757476</doc-number>
+<date>20200420</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11617362</doc-number>
+</document-id>
+</parent-grant-document>
+<parent-pct-document>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/US2018/054843</doc-number>
+<date>20181008</date>
+</document-id>
+</parent-pct-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18124778</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62575222</doc-number>
+<date>20171020</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>DOW AGROSCIENCES LLC</orgname>
+<address>
+<city>Indianapolis</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>SILER</last-name>
+<first-name>Christopher</first-name>
+<address>
+<city>Hemlock</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>LANGMAID</last-name>
+<first-name>Joseph</first-name>
+<address>
+<city>Caro</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>SONI</last-name>
+<first-name>Piyush</first-name>
+<address>
+<city>Midland</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>SPOMER</last-name>
+<first-name>Neil</first-name>
+<address>
+<city>Carmel</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>HANSON</last-name>
+<first-name>Michael K.</first-name>
+<address>
+<city>Whitestown</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present disclosure relates to devices for controlling pests, and, more specifically, to devices for monitoring and communicating the presence of pests, and eliminating pests. The pest control system comprises a frame configured to be removably positioned in a pest control station, a panel pivotally coupled to the frame, and pest control device positioned in the frame.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="124.88mm" wi="155.79mm" file="US20230225295A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="157.82mm" wi="144.95mm" orientation="landscape" file="US20230225295A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="143.34mm" wi="153.75mm" orientation="landscape" file="US20230225295A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="132.84mm" wi="149.35mm" orientation="landscape" file="US20230225295A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="187.96mm" wi="142.66mm" file="US20230225295A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="166.88mm" wi="154.52mm" orientation="landscape" file="US20230225295A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="196.26mm" wi="155.36mm" orientation="landscape" file="US20230225295A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="176.87mm" wi="128.02mm" file="US20230225295A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="203.96mm" wi="125.22mm" file="US20230225295A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="195.50mm" wi="113.45mm" file="US20230225295A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="205.06mm" wi="155.62mm" file="US20230225295A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="125.31mm" wi="149.18mm" orientation="landscape" file="US20230225295A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="199.22mm" wi="149.10mm" file="US20230225295A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is continuation application of U.S. application Ser. No. 16/757,476, entitled &#x201c;PEST CONTROL SYSTEM AND METHOD OF OPERATING SAME,&#x201d; which was filed on Apr. 20, 2020, and which issued as U.S. Pat. No. 11,617,362 on Apr. 4, 2023, which is a national stage entry under 35 U.S.C. &#xa7; 371 of PCT International Stage Patent Application No. PCT/US2018/054843, filed Oct. 8, 2018, which claims the benefit under 35 U.S.C. &#xa7; 119(e) of U.S. Provisional Patent Application No. 62/575,222, filed Oct. 20, 2017, the entire disclosures of which are incorporated herein by reference. Cross-reference is made to U.S. patent application Ser. No. 15/524,444, which was filed on May 4, 2017 and is expressly incorporated herein by reference.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present disclosure relates generally to devices for controlling pests, and, more specifically, to devices for monitoring and communicating the presence of pests, and eliminating pests.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">The detection and removal of pests from areas occupied by humans, livestock, crops, and other pest-attracting areas has long been a challenge. Pests of frequent concern include various types of insects and rodents. Subterranean termites are a particularly troublesome type of pest with the potential to cause severe damage to wooden structures. Likewise, other insects, such as bedbugs, are problematic. Additionally, rodent control is often challenging. Various schemes have been proposed to eliminate these and certain other harmful pests. Some of those schemes use one or more stations, which must be periodically checked by service personnel. Similarly, rodent traps in residential and commercial settings need to be routinely checked by service personnel.</p>
+<p id="p-0005" num="0004">Exemplary pest control systems including a sensor array operable to generate electrical output signals indicative of the presence of a pest is shown in International Publication No. WO2016/073429, which is expressly incorporated herein by reference.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0006" num="0005">According to one aspect of the disclosure, a pest control system is disclosed. The pest control system comprises a frame configured to be removably positioned in a pest control station, a panel pivotally coupled to the frame, and pest control device positioned in the frame. The panel is moveable relative to the frame between a first position and a second position.</p>
+<p id="p-0007" num="0006">The pest control device includes an outer casing, a support plate pivotally coupled to the outer casing, an orientation sensor positioned in the outer casing, and an electronic controller operable to receive the electrical output signals. The orientation sensor is operable to generate a plurality of electrical output signals indicative of the orientation of the pest control device.</p>
+<p id="p-0008" num="0007">When the panel is in the first position, the support plate is maintained in a support position such that the pest control device is in a first orientation, and when the panel is in the second position, the support plate is released from the support position and the pest control device is in a second orientation different from the first orientation.</p>
+<p id="p-0009" num="0008">The electronic controller is operable to detect movement of the pest control device from the first orientation to the second orientation based on the electrical output signals of the orientation sensor and record an event indicative of a presence of a pest when the electronic controller detects the movement of the pest control device from the first orientation to the second orientation.</p>
+<p id="p-0010" num="0009">In some embodiments, the system may further comprise a housing having a compartment sized to receive the frame, the panel, and the pest control device, and an opening sized to permit a pest to enter the compartment.</p>
+<p id="p-0011" num="0010">In some embodiments, the frame may include a side wall positioned between the opening in the housing and the pest control device, and an aperture that is defined in the side wall and is sized to permit the pest to pass through the side wall. The panel may be positioned in the aperture and extends generally parallel to the side wall when the panel is in the first position.</p>
+<p id="p-0012" num="0011">In some embodiments, the panel may be angled relative to the side wall when the panel is in the second position.</p>
+<p id="p-0013" num="0012">In some embodiments, the pest control device may be secured to the frame. Additionally, in some embodiments, the frame may include a vertically-extending post, and the pest control device may include a slot sized to receive the vertically-extending post. In some embodiments, the frame may include a bracket positioned over the pest control device.</p>
+<p id="p-0014" num="0013">In some embodiments, the support plate may include a leg that is pivotally coupled to the outer casing and a foot extending outwardly from the leg. The support plate may be moveable from the support position in which the foot is positioned in a slot at least partially defined by the panel. In some embodiments, the slot may be defined between the panel and the frame.</p>
+<p id="p-0015" num="0014">In some embodiments, the frame may further include a base wall and a side wall extending upwardly from the base wall, and the slot may be defined between the panel and the base wall.</p>
+<p id="p-0016" num="0015">In some embodiments, an aperture may be defined in the side wall of the frame and may be sized to permit the pest to pass through the side wall, and the panel may be positioned in the aperture and extends parallel to the side wall when the panel is in the first position.</p>
+<p id="p-0017" num="0016">In some embodiments, the panel may be angled relative to the side wall when the panel is in the second position.</p>
+<p id="p-0018" num="0017">In some embodiments, the panel may cover the aperture of the frame when the first position and the aperture may be at least partially uncovered when the panel is in the second position.</p>
+<p id="p-0019" num="0018">In some embodiments, the pest control device may further include a transceiver operable to transmit a signal after the controller records the event indicative of the presence of the pest.</p>
+<p id="p-0020" num="0019">According to another aspect, a method of monitoring for pests is disclosed. The method comprises engaging a support plate of a pest control device with a moveable panel positioned to place the support plate in a support position, determining an initial orientation of the pest control device with the support plate in the support position, monitoring the orientation of the pest control device, determining a pest condition of the pest control device based on the orientation of the pest control device, and transmitting the pest condition to a remote system to determine a status of the pest control device.</p>
+<p id="p-0021" num="0020">In some embodiments, the method may further comprise recording a plurality of orientation values from an orientation sensor of the pest control device. Each orientation value may comprise (x, y, z) coordinates corresponding to an orientation of the pest control device. The method may also include determining whether the pest control device is stable based on the plurality of orientation values, and determining the initial orientation of the pest control device may include determining the initial orientation of the pest control device when the pest control device is stable.</p>
+<p id="p-0022" num="0021">In some embodiments, recording the plurality of orientation values may further comprise recording each orientation value from the orientation sensor after a predetermined time interval has lapsed until a predetermined number of the orientation values are recorded.</p>
+<p id="p-0023" num="0022">In some embodiments, the predetermined number of the orientation values may be at least 8 orientation values.</p>
+<p id="p-0024" num="0023">In some embodiments, determining whether the pest control device is stable based on the plurality of orientation values may comprise determining maximum orientation values and minimum orientation values from the plurality of orientation values for each of the (x, y, z) coordinates, determining differences between the maximum orientation values and the minimum orientation values for each of the (x, y, z) coordinates of the plurality of orientation values, determining whether all of the differences are less than or equal to a first set of predetermined thresholds, determining average orientation value for each of the (x, y, z) coordinates of the plurality of orientation values when all of the differences are less than or equal to the first set of predetermined thresholds, and storing the (x, y, z) coordinates of the average orientation value with a new stable orientation value to indicate that the pest control device is stable.</p>
+<p id="p-0025" num="0024">In some embodiments, determining whether the pest control device is stable based on the plurality of orientation values may comprise determining maximum orientation values and minimum orientation values from the plurality of orientation values for each of the (x, y, z) coordinates, determining differences between the maximum orientation values and the minimum orientation values for each of the (x, y, z) coordinates, determining whether a sum of the differences is less than or equal to a first predetermined threshold, determining average orientation values for each of the (x, y, z) coordinates from the plurality of orientation values when the sum of the differences is less than or equal to the first predetermined threshold, and updating the average orientation values to a new stable orientation coordinates.</p>
+<p id="p-0026" num="0025">In some embodiments, determining an orientation of the pest control device when the pest control device is stable may comprise identifying a (x, y, z) coordinates of a previous stable orientation value, determining a deflection angle of the pest control device using the (x, y, z) coordinates of the new stable orientation value, determining the deflection angle exceeds a second predetermined threshold, updating the pest condition when the second predetermined threshold is exceeded, and updating the previous stable orientation value with the new stable orientation value.</p>
+<p id="p-0027" num="0026">In some embodiments, calculating the deflection angle of the pest control device may include using the following equation:</p>
+<p id="p-0028" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+ <mrow>
+  <mi>DeflectionAngle</mi>
+  <mo>=</mo>
+  <mrow>
+   <msup>
+    <mi>cos</mi>
+    <mrow>
+     <mo>-</mo>
+     <mn>1</mn>
+    </mrow>
+   </msup>
+   <mo>(</mo>
+   <mfrac>
+    <mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>A</mi>
+        <mi>X</mi>
+       </msub>
+       <mo>*</mo>
+       <msub>
+        <mi>B</mi>
+        <mi>X</mi>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>+</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>A</mi>
+        <mi>Y</mi>
+       </msub>
+       <mo>*</mo>
+       <msub>
+        <mi>B</mi>
+        <mi>Y</mi>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>+</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>A</mi>
+        <mi>Z</mi>
+       </msub>
+       <mo>*</mo>
+       <msub>
+        <mi>B</mi>
+        <mi>Z</mi>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+    <msqrt>
+     <mrow>
+      <mrow>
+       <mo>(</mo>
+       <mrow>
+        <msubsup>
+         <mi>A</mi>
+         <mi>X</mi>
+         <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mi>A</mi>
+         <mi>Y</mi>
+         <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mi>A</mi>
+         <mi>Z</mi>
+         <mn>2</mn>
+        </msubsup>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+      <mo>*</mo>
+      <mrow>
+       <mo>(</mo>
+       <mrow>
+        <msubsup>
+         <mi>B</mi>
+         <mi>X</mi>
+         <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mi>B</mi>
+         <mi>Y</mi>
+         <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mi>B</mi>
+         <mi>Z</mi>
+         <mn>2</mn>
+        </msubsup>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </msqrt>
+   </mfrac>
+   <mo>)</mo>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0029" num="0027">wherein &#x201c;A<sub>x</sub>&#x201d;, &#x201c;A<sub>y</sub>&#x201d;, &#x201c;A<sub>z</sub>&#x201d; are the (x, y, z) coordinates of new stable orientation value, and &#x201c;B<sub>x</sub>&#x201d;, &#x201c;B<sub>y</sub>&#x201d;, &#x201c;B<sub>z</sub>&#x201d; are the (x, y, z) coordinates of previous stable orientation value.</p>
+<p id="p-0030" num="0028">According to another aspect, a pest control system comprises a frame configured to be removably positioned in a pest control station housing, a panel pivotally coupled to the frame, the panel being moveable relative to the frame between a first position and a second position, and a pest control device positioned in the frame. The pest control device includes an outer casing, a support plate pivotally coupled to the outer casing, and an orientation sensor positioned in the outer casing. The orientation sensor is operable to generate a plurality of electrical output signals indicative of the orientation of the pest control device.</p>
+<p id="p-0031" num="0029">When the panel is in the first position, the support plate is maintained in a support position such that the pest control device is in a first orientation, and when the panel is in the second position, the support plate is released from the support position and the pest control device is in a second orientation different from the first orientation.</p>
+<p id="p-0032" num="0030">According to another aspect, a pest control system comprises a frame, a panel pivotally coupled to the frame, and a pest control device coupled to the panel. The panel is moveable relative to the frame between a first position and a second position. The pest control device includes an outer casing, an orientation sensor positioned in the outer casing, and an electronic controller operable to receive the electrical output signals. The orientation sensor is operable to generate a plurality of electrical output signals indicative of the orientation of the pest control device. When the panel is in the first position, the pest control device is in a first orientation, and when the panel is in the second position, the pest control device is in a second orientation different from the first orientation. The electronic controller is operable to detect movement of the pest control device from the first orientation to the second orientation based on the electrical output signals of the orientation sensor and record an event indicative of a presence of a pest when the electronic controller detects the movement of the pest control device from the first orientation to the second orientation.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0033" num="0031">The detailed description particularly refers to the following figures, in which:</p>
+<p id="p-0034" num="0032"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a pest control system;</p>
+<p id="p-0035" num="0033"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a perspective view of a pest control station of the system of <figref idref="DRAWINGS">FIG. <b>1</b></figref> showing a modular tray that includes a pest control device and a frame;</p>
+<p id="p-0036" num="0034"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a perspective view of the pest control device and the frame of the modular tray of <figref idref="DRAWINGS">FIG. <b>2</b></figref>;</p>
+<p id="p-0037" num="0035"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a side elevation view of the frame of <figref idref="DRAWINGS">FIGS. <b>2</b>-<b>3</b></figref> showing a moveable panel in a closed position;</p>
+<p id="p-0038" num="0036"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a plan view of the moveable panel and the frame in the position of <figref idref="DRAWINGS">FIG. <b>4</b></figref>;</p>
+<p id="p-0039" num="0037"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is an exploded perspective view of the pest control device of <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>3</b></figref>;</p>
+<p id="p-0040" num="0038"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a block diagram schematic of the pest control device of <figref idref="DRAWINGS">FIG. <b>1</b>-<b>3</b></figref>;</p>
+<p id="p-0041" num="0039"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a perspective view of the station housing of the system of <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0042" num="0040"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a perspective view showing the pest control device in an armed position;</p>
+<p id="p-0043" num="0041"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a view similar to <figref idref="DRAWINGS">FIG. <b>9</b></figref> showing the pest control device in a tripped position;</p>
+<p id="p-0044" num="0042"><figref idref="DRAWINGS">FIGS. <b>11</b>A and <b>11</b>B</figref> are simplified flow charts of a control routine of the pest control system of <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0045" num="0043"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a perspective view of another embodiment of a modular tray of the pest control system;</p>
+<p id="p-0046" num="0044"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a perspective view of another embodiment of a support plate of a pest control device; and</p>
+<p id="p-0047" num="0045"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is an elevation view showing a pest control device with the support plate of <figref idref="DRAWINGS">FIG. <b>13</b></figref> engaged with a pest trap.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0048" num="0046">While the concepts of the present disclosure are susceptible to various modifications and alternative forms, specific exemplary embodiments thereof have been shown by way of example in the drawings and will herein be described in detail. It should be understood, however, that there is no intent to limit the concepts of the present disclosure to the particular forms disclosed, but on the contrary, the intention is to cover all modifications, equivalents, and alternatives falling within the spirit and scope of the invention as defined by the appended claims.</p>
+<p id="p-0049" num="0047">Referring now to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, a pest control system including a pest control station <b>10</b> is shown. In the illustrative embodiment, the pest control station <b>10</b> is a rodent control station <b>10</b> configured to monitor a particular location. The station <b>10</b> includes a housing <b>12</b> configured to catch pests such as rodents and a pest control device <b>14</b> positioned in the housing <b>12</b>. As described in greater detail below, the pest control device <b>14</b> is configured to detect the presence of rodents in the station <b>10</b> and report that presence to a remote system <b>16</b> wirelessly via an antenna <b>18</b>. In other embodiments, the pest control device <b>14</b> may also include a pest extermination device that actively exterminates the rodent.</p>
+<p id="p-0050" num="0048">The control station may also be configured to monitor for the presence of other pests such as, for example, termites, bed bugs, other insects, or other pests of concern. In those embodiments, the control station may include a pest-specific sensor. It should be appreciated that in other embodiments the control station may include an open housing to cover the pest control device <b>14</b>. In still other embodiments, the control station may not include any housing.</p>
+<p id="p-0051" num="0049">It should be appreciated that the station <b>10</b> may include bait in the form of a pest-consumable material. In some embodiments, the pest-consumable material may include a rodenticide. In other embodiments, the bait may be a lure or other pest-attracting material. In still other embodiments, the station may not include bait.</p>
+<p id="p-0052" num="0050">Referring now to <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the control station <b>10</b> includes a modular tray <b>20</b> sized to be positioned in the housing <b>12</b>. The tray <b>20</b> includes a frame <b>22</b> that supports the pest control device <b>14</b> and a movable panel <b>24</b> that is coupled to the frame <b>22</b>. As described in greater detail below, the station housing <b>12</b> lacks any detection and remote monitoring capabilities such that a pest control operator must physically inspect the housing <b>12</b> to determine if rodents are present. The tray <b>20</b> is configured to be inserted into the housing <b>12</b> with the pest control device <b>14</b> to provide detection and remote monitoring capabilities so that the pest control operator may be informed of the presence of rodents without having to physically inspect the housing <b>12</b>. It should be appreciated that in other embodiments the pest control station may include only the modular tray <b>20</b> and the housing <b>12</b> may be omitted.</p>
+<p id="p-0053" num="0051">As shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the frame <b>22</b> of the tray <b>20</b> includes a base wall <b>30</b> and a side wall <b>32</b> extending upwardly from the base wall <b>30</b>. The frame <b>22</b> also includes a pair of end walls <b>34</b>, <b>36</b> extending upwardly from each longitudinal end of the base wall <b>30</b>. The walls <b>30</b>, <b>32</b>, <b>34</b>, <b>36</b> cooperate to define a chamber <b>38</b> in the frame <b>22</b> that is sized to receive the pest control device <b>14</b>. A plurality of vents <b>40</b> are defined in the walls <b>30</b>, <b>32</b>, <b>34</b>, <b>36</b> to facilitate the passage of air into and out of the chamber <b>38</b>. It should be appreciated that in other embodiments the frame <b>22</b> may include fewer or additional vents or the vents may be take on other sizes or shapes. In the illustrative embodiment, each vent <b>40</b> is sized permit the passage of air but prevent a rodent or other pest from exiting the chamber <b>38</b> through any of the vents <b>40</b>.</p>
+<p id="p-0054" num="0052">In the illustrative embodiment, the frame <b>22</b> is formed as a single monolithic component from a plastic material. It should be appreciated that in other embodiments the frame may be an assembly formed from multiple components made from one or more materials. In other embodiments, the frame may be formed from a metallic material such as, for example, stainless steel.</p>
+<p id="p-0055" num="0053">As shown in <figref idref="DRAWINGS">FIGS. <b>3</b>-<b>5</b></figref>, the frame <b>22</b> also includes an aperture <b>50</b> that is defined in the side wall <b>32</b>. As shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the aperture <b>50</b> is defined between a pair of end surfaces <b>52</b>, <b>54</b> of the side wall <b>32</b>. In illustrative embodiment, the aperture <b>50</b> is sized to permit the passage of rodents into the chamber <b>38</b>. The aperture <b>50</b> has a trapezoidal shape in the illustrative embodiment; it should be appreciated that in other embodiments the aperture may take other geometrical forms such as, for example, ovals, circles, squares, or rectangles that are sized to permit the passage of rodents through the aperture.</p>
+<p id="p-0056" num="0054">As described above, the tray <b>20</b> also includes a movable panel <b>24</b> that is coupled to the frame <b>22</b>. As shown in <figref idref="DRAWINGS">FIGS. <b>4</b>-<b>5</b></figref>, the frame <b>22</b> includes a pair of pins or pegs <b>56</b> that extend outwardly from the end surfaces <b>52</b>, <b>54</b>. Each peg <b>56</b> is received in a corresponding bore <b>58</b> defined in the movable panel <b>24</b> to couple the panel <b>24</b> to the frame <b>22</b>. The pegs <b>56</b> cooperate to define a pivot axis <b>60</b> about which the panel <b>24</b> may pivot. In the illustrative embodiment, the movable panel <b>24</b> may be pivoted between a number of positions, including the closed position shown in <figref idref="DRAWINGS">FIGS. <b>4</b> and <b>5</b></figref>, in which the movable panel <b>24</b> is positioned in, and substantially fills, the aperture <b>50</b>, and the open position shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, in which the panel <b>24</b> is angled out from the aperture <b>50</b> and extends into the chamber <b>38</b>. As described in greater detail below, the movable panel <b>24</b> blocks entry into the chamber <b>38</b> of the tray <b>20</b> when the panel <b>24</b> is in the closed position, and a rodent or other pest must push open the panel <b>24</b> to gain access to the chamber <b>38</b>.</p>
+<p id="p-0057" num="0055">The panel <b>24</b> has a main plate <b>62</b> that extends from an upper end <b>64</b> to a lower end <b>66</b>. A pair of cantilevered arms <b>68</b> extend outwardly from the main plate <b>62</b>. In the illustrative embodiment, one bore <b>58</b> is defined in the upper end of each cantilevered arm <b>68</b>. The panel <b>24</b> also includes a flange <b>70</b> that extends outwardly from the main plate <b>62</b> to engage the side wall <b>32</b> of the frame <b>22</b>. As described in greater detail below, the flange <b>70</b> is configured to prevent the panel <b>24</b> from pivoting outward from the frame <b>22</b> away from the chamber <b>38</b>.</p>
+<p id="p-0058" num="0056">As shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the lower end <b>66</b> of the main plate <b>62</b> is spaced apart from the base wall <b>30</b> of the frame <b>22</b> such that an elongated slot <b>72</b> is defined below the panel <b>24</b>. The elongated slot <b>72</b> extends the entire width of the panel <b>24</b>. In the illustrative embodiment, the elongated slot <b>72</b> extends into a recess <b>74</b> defined in the lower end <b>66</b> of the panel <b>24</b>. As shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the recess <b>74</b> is positioned below the flange <b>70</b> on one side of the panel <b>24</b>. The recess <b>74</b> is square shaped in the illustrative embodiment.</p>
+<p id="p-0059" num="0057">In the illustrative embodiment, the panel <b>24</b> is formed as a single monolithic component from a plastic material. It should be appreciated that in other embodiments the panel may be an assembly formed from multiple components made from one or more materials. In other embodiments, the panel may be formed from a metallic material such as, for example, stainless steel. In other embodiments, the panel may be formed integrally with the frame.</p>
+<p id="p-0060" num="0058">As described above, the station <b>10</b> also includes a pest control device <b>14</b> that is positioned in the chamber <b>38</b> of the frame <b>22</b>. In the illustrative embodiment, the pest control device <b>14</b> includes an outer casing <b>80</b> and a hinged support plate <b>82</b> attached to the casing <b>80</b>. The outer casing <b>80</b> houses and protects the electrical components <b>84</b> (see <figref idref="DRAWINGS">FIG. <b>7</b></figref>) from environmental factors, including water ingress, dust, dirt, leaves, humidity, and waste. The outer casing <b>80</b> is generally rectangular-shaped and has two short end walls <b>86</b>, <b>88</b>, respectively, and two long side walls <b>90</b>, <b>92</b>. The antenna <b>18</b> is connected at its base to a top surface <b>94</b> of the outer casing <b>80</b> via a connector <b>96</b> to permit the device <b>14</b> to communicate with the system <b>16</b>. In that way, the pest control device <b>14</b> may be disconnected from the antenna <b>18</b>. In other embodiments, the pest control device <b>14</b> and the antenna <b>18</b> may be formed as a single unit. It should also be appreciated that in other embodiments the antenna <b>18</b> may be a low-profile helical antenna, hardware circuit in the pest control device <b>14</b>, or other type of antenna capable of transmitting and receiving signals between the pest control device <b>14</b> and the system <b>16</b>.</p>
+<p id="p-0061" num="0059">The outer casing <b>80</b> includes a plurality of mounting arms <b>100</b> that are positioned along the walls <b>86</b>, <b>90</b>, <b>92</b>. Each mounting arm <b>100</b> is a possible attachment point for the support plate <b>82</b>. Each arm <b>100</b> includes a plurality of posts <b>104</b>, <b>106</b>, <b>108</b> that extend outwardly from each of the walls <b>86</b>, <b>90</b>, <b>92</b>. A rod <b>110</b> extends between the posts <b>104</b>, <b>106</b>, <b>108</b>. In the illustrative embodiment, the rod <b>110</b> has a cylindrical cross-section, but it should be appreciated that in other embodiments it may have a different cross-section.</p>
+<p id="p-0062" num="0060">As shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the support plate <b>82</b> includes a rear panel or leg <b>120</b> that is connected to a foot panel <b>122</b>. The leg <b>120</b> has a pair of clips <b>124</b> that extend outwardly from its back surface <b>126</b>. Each clip <b>124</b> includes teeth <b>128</b> that engage the rod <b>110</b> of a mounting arm <b>100</b> to secure the support plate <b>82</b> to the outer casing <b>80</b> In the illustrative embodiment, each clip <b>124</b> is configured to engage the rod <b>110</b> such that the support plate <b>82</b> is hinged to the pest control device <b>14</b> and may pivot relative to the outer casing <b>80</b>.</p>
+<p id="p-0063" num="0061">The foot panel <b>122</b> includes an engagement tab <b>130</b> that is sized to be positioned in the elongated slot <b>72</b> defined between the panel <b>24</b> and the frame <b>22</b>. An upper surface <b>132</b> of the tab <b>130</b> is configured to engage the lower end <b>66</b> of the panel <b>24</b> and a lower surface <b>134</b> positioned opposite the surface <b>132</b>. In the illustrative embodiment, the surfaces <b>132</b>, <b>134</b> are substantially smooth surfaces. In other embodiments, the surfaces may include grooves, ribs, or other features to grip the panel <b>24</b> and/or the base wall <b>30</b> of the frame <b>22</b>.</p>
+<p id="p-0064" num="0062">It should be appreciated that in other embodiments the support plate <b>82</b> may include a pin that extends outwardly from the back surface <b>126</b> of the leg <b>120</b> near the clip <b>124</b>. In such embodiments, the pin may be configured to engage the outer casing <b>80</b> to prevent the support plate <b>82</b> from rotating beyond a predetermined orientation.</p>
+<p id="p-0065" num="0063">The outer casing <b>80</b> and the support plate <b>82</b> are each formed from a hard, durable plastic. In other embodiments, the casing <b>80</b> and support plate <b>82</b> may be formed from any environmentally resistant material.</p>
+<p id="p-0066" num="0064">Returning to <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the frame <b>22</b> also includes a pair of support posts <b>140</b> that extend upwardly from the base wall <b>30</b>. The posts <b>140</b> define a space sized to receive the outer casing <b>80</b> of the pest control device <b>14</b>. Each post <b>140</b> is sized to be positioned in one of the slots <b>150</b> defined between the rods <b>110</b>, posts <b>104</b>, <b>106</b>, <b>108</b>, and walls <b>90</b>, <b>92</b> of the outer casing <b>80</b>. In that way, the posts <b>140</b> couple the pest control device <b>14</b> to the frame <b>22</b>. In other embodiments, such as, for example, the embodiment shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>, the tray <b>20</b> may include a bracket <b>142</b> sized to be positioned over the pest control device <b>14</b>. As shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>, the bracket <b>142</b> may include an upper plate <b>144</b> that is secured to the frame <b>22</b> via a number of posts <b>146</b>.</p>
+<p id="p-0067" num="0065">Referring now to <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the electrical components <b>84</b> of the pest control device <b>14</b> are shown in a simplified block diagram. In the illustrative embodiment, the electrical components <b>84</b> include circuits and circuitry as well as electronic devices such as an electronic control unit (ECU) or &#x201c;electronic controller&#x201d; <b>162</b>, which is configured to control the operation of the pest control device <b>14</b>. The ECU <b>162</b> is illustratively embodied as a lower-power microcontroller device such as a MSP430 Series microcontroller, which is commercially available from Texas Instruments of Dallas, Tex. In other embodiments, other commercially-available microcontrollers, discrete processing circuits (e.g., a collection of logic devices), general purpose integrated circuit(s), and/or application specific integrated circuit(s) (i.e., ASICs) may be used to control the operation of the pest control device <b>14</b>. In the illustrative embodiment, the other electrical components <b>84</b>, including the position sensor <b>170</b>, are electrically connected with the ECU <b>162</b> via a number of communication links <b>164</b> such as printed circuit board traces, wires, cables, and the like.</p>
+<p id="p-0068" num="0066">The electrical components <b>84</b> include a transceiver array <b>166</b> that is connected to the antenna <b>18</b> via the connector <b>96</b>. The transceiver array <b>166</b> is configured to transmit and/or receive data for the ECU <b>162</b> using a radio frequency over a local area network (LAN). In the illustrative embodiment, the transceiver array <b>166</b> is capable of communication in the unlicensed 915 MHz Industrial, Scientific, and Medical (ISM) frequency band. As such, the transceiver array <b>166</b> may include any number of circuits and electronic devices (e.g., an RF transceiver and duplexer). In the illustrative embodiment, the RF transceiver of the array <b>166</b> is a low power transceiver such as, for example, a Simplelink CC1200 RF Transceiver, which is commercially available from Texas Instruments of Dallas, Tex. It should be appreciated that in other embodiments the transceiver array may be configured to transmit and receive at other frequencies and/or by other techniques including, for example, via a cellular network. In other embodiments, the pest sensor may include a separate transmitter and receiver for transmitting and receiving data from the remote system. In still other embodiments, the pest control device may be configured to be hardwired to a communication network via a cable.</p>
+<p id="p-0069" num="0067">The electrical components <b>84</b> of the control device <b>14</b> may also include visual indicators such as, for example, light emitting diodes (LEDs) <b>168</b>, which may be activated to indicate the operational status of the device <b>14</b>. For example, the LEDs may be used to indicate whether the device <b>14</b> is communicating with the remote system <b>16</b>.</p>
+<p id="p-0070" num="0068">The electrical components <b>84</b> of the control device <b>14</b> also include a position/orientation sensor <b>170</b> configured to detect movement of the station <b>10</b>. In the illustrative embodiment, the orientation sensor <b>170</b> is a 3-axis digital accelerometer such as, for example, the MMA8652, which is commercially available from Freescale. The sensor <b>170</b> detects movement of the control device <b>14</b> and transmits a signal indicative of that movement to the ECU <b>162</b>, as described in greater detail below.</p>
+<p id="p-0071" num="0069">In other embodiments, the position sensor <b>170</b> may be a Hall-Effect sensor that detects the proximity of the sensor <b>170</b> (and hence the station <b>10</b>) to a magnetic anchor secured to the ground or otherwise separated from the station <b>10</b>. In such embodiments, movement of the station <b>10</b> relative to the magnetic anchor causes the sensor <b>170</b> to generate a signal indicative of that movement and transmit that signal to the ECU <b>162</b>. When a magnetic anchor is incorporated into the frame <b>22</b>, the Hall-Effect sensor may also be used to determine if the device <b>14</b> is properly positioned in the station <b>10</b>.</p>
+<p id="p-0072" num="0070">As shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the pest control device <b>14</b> may also include a number of environmental sensors to provide information about the monitoring location and the pest control device <b>14</b>. The environmental sensors may include a temperature sensor <b>172</b> configured to measure the temperature of the environment surrounding the station <b>10</b>. In such embodiments, the temperature sensor may be a digital sensor such as, for example, the STLM75, which is commercially available from STMicroelectronics. The temperature sensor <b>172</b> is configured to take a temperature measurement and transmit a signal indicative of that measurement to the ECU <b>162</b>.</p>
+<p id="p-0073" num="0071">It should be appreciated that in other embodiments the pest control device <b>14</b> may include other environmental sensors <b>174</b>. Such sensors <b>174</b> may measure humidity, air quality, dampness, or other factors that may affect the operation of the control device <b>14</b>, the status of the bait, and/or the state of the station <b>10</b>.</p>
+<p id="p-0074" num="0072">As shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the control device <b>14</b> is powered by a local battery <b>176</b>. In the illustrative embodiment, the battery <b>176</b> is a lithium thionyl chloride battery that is not replaceable. It should be appreciated that in other embodiments other battery types may be used. In still other embodiments, the control device <b>14</b> may utilize an external power source.</p>
+<p id="p-0075" num="0073">The control device <b>14</b> may also include a proximity sensor <b>178</b> configured to detect a magnetic source such as, for example, a magnetic wand that may be present during maintenance. In one embodiment, the proximity sensor <b>178</b> may be a Hall-Effect sensor that generates a signal to indicate the presence of the magnetic source and transmit that signal to the ECU <b>162</b>. It should be appreciated that other embodiments may implement a different detection mechanism that includes additional or fewer components to detect the presence of rodents in the station <b>10</b>.</p>
+<p id="p-0076" num="0074">As described above, the electrical components <b>84</b> are connected to, and communicate with, the ECU <b>162</b>, which is, in essence, the master computer responsible for interpreting electrical signals sent by sensors associated with the control device <b>14</b> and for activating or energizing electronically-controlled components associated with control device <b>14</b>. For example, the ECU <b>162</b> is configured to control operation of the transceiver array <b>166</b>. The ECU <b>162</b> also monitors various signals from the capacitive the sensors <b>170</b>, <b>172</b>, <b>174</b> and determines when various operations of the control device <b>14</b> should be performed. As will be described in more detail below with reference to <figref idref="DRAWINGS">FIGS. <b>11</b>A-B</figref>, the ECU <b>162</b> is operable to control the components of the control device <b>14</b> such that the pest activity and other information about the station <b>10</b> are communicated to the remote system <b>16</b>.</p>
+<p id="p-0077" num="0075">To do so, the ECU <b>162</b> includes a number of electronic components commonly associated with electronic units utilized in the control of electromechanical systems. For example, the ECU <b>162</b> includes, amongst other components customarily included in such devices, a processor such as a microprocessor <b>180</b> and a memory device <b>182</b> such as a programmable read-only memory device (&#x201c;PROM&#x201d;) including erasable PROM's (EPROM's or EEPROM's). The memory device <b>182</b> is provided to store, amongst other things, instructions in the form of, for example, a software routine (or routines) which, when executed by the microprocessor <b>180</b>, allows the ECU <b>162</b> to control operation of the control device <b>14</b>.</p>
+<p id="p-0078" num="0076">The ECU <b>162</b> also includes an analog interface circuit <b>184</b>. The analog interface circuit <b>184</b> converts the output signals from various sensors (e.g., the orientation sensor <b>170</b>) into signals which are suitable for presentation to an input of the microprocessor <b>180</b>. In particular, the analog interface circuit <b>184</b>, by use of an analog-to-digital (A/D) converter (not shown) or the like, converts the analog signals generated by the sensors into digital signals for use by the microprocessor <b>180</b>. It should be appreciated that the A/D converter may be embodied as a discrete device or number of devices, or may be integrated into the microprocessor <b>180</b>. For those sensors of the control device <b>14</b> that generate a digital output signal, the analog interface circuit <b>184</b> may be bypassed.</p>
+<p id="p-0079" num="0077">Similarly, the analog interface circuit <b>184</b> converts signals from the microprocessor <b>180</b> into output signals which are suitable for presentation to the electrically-controlled components of the control device <b>14</b>. In particular, the analog interface circuit <b>184</b>, by use of a digital-to-analog (D/A) converter (not shown) or the like, converts the digital signals generated by the microprocessor <b>180</b> into analog signals. It should be appreciated that, similar to the A/D converter described above, the D/A converter may be embodied as a discrete device or number of devices, or may be integrated into the microprocessor <b>180</b>. For those electronically-controlled components that operate on a digital input signal, the analog interface circuit <b>184</b> may be bypassed.</p>
+<p id="p-0080" num="0078">Thus, the ECU <b>162</b> may control the operation of the control device <b>14</b>. In particular, the ECU <b>162</b> executes a routine including, amongst other things, a control scheme in which the ECU <b>162</b> monitors outputs of the sensors associated with the control device <b>14</b> to control the inputs to the electronically-controlled components associated therewith. To do so, the ECU <b>162</b> communicates with the sensors associated with the control device <b>14</b> to determine, amongst numerous other things, the temperature of the environment, movement of the device <b>14</b>, and so forth. Armed with this data, the ECU <b>162</b> performs numerous calculations, either continuously or intermittently, including looking up values in preprogrammed tables, in order to execute algorithms to perform such functions as transmitting or receiving data from the remote system <b>16</b>, etcetera. It should be appreciated that in other embodiments, the ECU may be implemented as field programmable gate array (FPGA) or other programmable logic device, a digital signal processor (DSP), an application specific integrated circuit (ASIC), or any other configuration that is designed to perform the functions described herein.</p>
+<p id="p-0081" num="0079">Referring now to <figref idref="DRAWINGS">FIG. <b>8</b></figref>, the housing <b>12</b> includes a base plate <b>190</b> and a plurality of outer walls <b>192</b> define an inner compartment <b>194</b>. The pest control device <b>14</b> and the tray <b>20</b> are positioned in the compartment <b>194</b>. In the illustrative embodiment, a pest may enter the station <b>10</b> through an opening <b>196</b> defined in each opposite wall <b>192</b>. The housing <b>12</b> is illustratively formed from a hard, durable metallic material, but, in other embodiments, it may be formed from any environmentally resistant material such as, for example, plastic.</p>
+<p id="p-0082" num="0080">The housing <b>12</b> also includes a cover <b>198</b> that is hinged to the one of the outer walls <b>192</b>. The cover <b>198</b> is illustratively formed from the same material as the housing. The cover <b>198</b> is movable between the closed position shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref> and an open position shown in <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>8</b></figref> in which the compartment <b>194</b>, and hence the control device <b>14</b> and tray <b>20</b>, are accessible for maintenance or other servicing. It should be appreciated that in other embodiments the cover may be removable from the housing. In still other embodiments, the cover may be omitted from the housing <b>12</b>.</p>
+<p id="p-0083" num="0081">As shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>, the housing <b>12</b> includes a pair of entry ports <b>200</b> that extend inwardly from the openings <b>196</b>. Each entry port <b>200</b> includes a passageway <b>202</b> through which a rodent may pass to enter the compartment <b>194</b> and a moveable tongue <b>204</b> configured to prevent rodent from exiting the compartment <b>194</b> through either passageway <b>202</b>. In the illustrative embodiment, each port <b>200</b> includes side walls <b>206</b> and upper wall <b>208</b> that cooperate to define the passageway <b>202</b>. Each passageway <b>202</b> opens into a channel <b>210</b> defined between the side walls <b>206</b>.</p>
+<p id="p-0084" num="0082">In use, a pest control operator may deploy the housing <b>12</b> in, for example, a building to monitor pest activity. The pest control operator may open the cover <b>198</b> of the housing <b>12</b> to gain access to the inner compartment <b>194</b>. The pest control operator may then place the modular tray <b>20</b> including the frame <b>22</b> and the pest control device <b>14</b> in the inner compartment <b>194</b>. In embodiments with no housing, the modular tray <b>20</b> may be deployed in the building with the pest control device <b>14</b>. As shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>, the pest control device <b>14</b> is mounted in the frame <b>22</b> with the support posts <b>140</b> positioned in the slots <b>150</b> of the outer casing <b>80</b> of the control device <b>14</b>. The pest control operator may also close the panel <b>24</b> to cover the aperture <b>50</b> and position in the engagement tab <b>130</b> of the support plate <b>82</b> in the elongated slot <b>72</b> defined below the panel <b>24</b> of the tray <b>20</b>.</p>
+<p id="p-0085" num="0083">When the engagement tab <b>130</b> is positioned in the elongated slot <b>72</b> and the panel is closed, the pest control device <b>14</b> is in an armed position. As shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>, the outer casing <b>80</b> is angled relative to the base wall <b>30</b> of the frame <b>22</b> such that the end wall <b>88</b> of the casing <b>80</b> engages the base wall <b>30</b>, while the other end wall <b>86</b> is lifted off the base wall <b>30</b> by the support plate <b>82</b>. As described in greater detail below, the pest control device <b>14</b> is moved to a &#x201c;tripped&#x201d; position when a rodent attempts to gain access to the frame's chamber <b>38</b> through the aperture <b>50</b> of the frame <b>22</b>.</p>
+<p id="p-0086" num="0084">When the tray <b>20</b> is properly positioned in the compartment <b>194</b>, the aperture <b>50</b> defined in the frame <b>22</b> is aligned with the channel <b>210</b> of the housing <b>12</b>, and the outer walls <b>192</b> of the housing <b>12</b> enclose the open side of the frame's chamber <b>38</b>. Additionally, the side wall <b>32</b> cooperates with the ports <b>200</b> to divide the inner compartment <b>194</b> into two sub-compartments. The entry sub-compartment <b>212</b> illustratively includes the channel <b>210</b> and the ports <b>200</b>; the other sub-compartment <b>214</b> include the frame's chamber <b>38</b> and the pest control device <b>14</b> positioned therein. When the cover <b>198</b> is closed, a rodent or other pest may pass from the entry sub-compartment <b>212</b> to the other sub-compartment <b>214</b> only through the aperture <b>50</b> of the frame <b>22</b>. The pest control operator may therefore position any bait in the sub-compartment <b>214</b> (and hence in the chamber <b>38</b> of the frame <b>22</b>) to encourage rodents to attempt to enter the sub-compartment <b>214</b>.</p>
+<p id="p-0087" num="0085">To gain access to the sub-compartment <b>214</b> and therefore the chamber <b>38</b> of the frame <b>22</b>, a rodent or other pest may press on the outer surface of the moveable panel <b>24</b>. In the illustrative embodiment, the panel <b>24</b> includes a recess <b>74</b> into which a rodent may place its nose to push the panel <b>24</b> in the direction indicated by arrow <b>220</b> in <figref idref="DRAWINGS">FIG. <b>9</b></figref>. When sufficient force is applied, the moveable panel <b>24</b> is pivoted about the axis <b>60</b>.</p>
+<p id="p-0088" num="0086">As the panel <b>24</b> is pivoted about the axis <b>60</b>, the elongated slot <b>72</b> is widened and the engagement tab <b>130</b> of the support plate <b>82</b> is permitted to slide along the frame <b>22</b> in the direction indicated by arrow <b>222</b> in <figref idref="DRAWINGS">FIG. <b>10</b></figref>. As the support plate <b>82</b> slides, the outer casing <b>80</b> of the pest control device <b>14</b> pivots downward to position in the pest control device <b>14</b> in the &#x201c;tripped&#x201d; position&#x201d; shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>. In the illustrative embodiment, the end wall <b>86</b> of the pest control device <b>14</b> placed in contact with the base wall <b>30</b> in the tripped position. As described in greater detail below, the pest control device <b>14</b> is configured to register the movement of the pest control device <b>14</b> from the armed position to the tripped position and inform the remote system <b>16</b>.</p>
+<p id="p-0089" num="0087">To conserve battery power, the ECU <b>162</b> is configured to enter a reduced power mode between operations. In the illustrative embodiment, the ECU <b>162</b> is configured to exit the reduced power mode every 100 milliseconds and execute a control routine similar to the control routine <b>300</b> illustrated in <figref idref="DRAWINGS">FIGS. <b>11</b>A-B</figref>. It should be appreciated that while the operation blocks of the routine <b>300</b> are shown in sequence, the ECU <b>162</b> may perform one or more of the operations depicted therein simultaneously or in an order different from that shown in <figref idref="DRAWINGS">FIGS. <b>11</b>A-B</figref>. It should also be appreciated that in other embodiments one or more of the operation blocks may be omitted.</p>
+<p id="p-0090" num="0088">In the illustrative routine, the routine <b>300</b> begins with block <b>302</b> in which the ECU <b>162</b> monitors data generated by the position or orientation sensor <b>170</b> and take a reading of the (x, y, z) coordinates of the position sensor <b>170</b> (and hence outer casing) at predetermined time intervals. When the ECU <b>162</b> has taken a predetermined number of readings, the ECU <b>162</b> may process the sensor data to determine whether the pest control device is stable and determine whether the movement of the pest control device exceeds a predetermined threshold.</p>
+<p id="p-0091" num="0089">In block <b>302</b>, the ECU may utilize a sub-routine such as, for example, sub-routine <b>320</b> shown in <figref idref="DRAWINGS">FIG. <b>11</b>B</figref>, to monitor the sensor orientation/position. The sub-routine <b>320</b> begins in block <b>322</b> in which the ECU <b>162</b> determines whether a predetermined time interval has elapsed since the ECU <b>162</b> stored its last reading of the data of sensor <b>170</b>. If the ECU <b>162</b> determines that the predetermined time interval has not yet been elapsed, the sub-routine <b>320</b> ends. If the ECU <b>162</b> determines that the predetermined time interval has elapsed, the sub-routine <b>320</b> proceeds to block <b>324</b>. It should be appreciated that the predetermined time interval may be programmable and may be set based on the nature of the rodent and environment surrounding the pest control device <b>14</b>. The illustrative embodiment, the predetermined time interval is 60 seconds.</p>
+<p id="p-0092" num="0090">In block <b>324</b>, the ECU <b>162</b> monitors and records the (x, y, z) coordinates included in the position data generated by the sensor <b>170</b>. In the illustrative embodiment, the (x, y, z) coordinates form an orientation value that indicates the orientation or position of the outer casing of the pest control device. In the sub-routine <b>320</b>, the ECU <b>162</b> identifies the oldest stored orientation value (i.e., the oldest reading of (x, y, z) coordinates stored in memory) and replaces the oldest orientation value with the new (x, y, z) coordinates of the current reading. Illustratively, the ECU <b>162</b> stores only 8 sets of (x, y, z) coordinates, and the new (x, y, z) coordinates of the current reading replace one of those sets. It should be appreciated that in other embodiments the ECU may be configured to store additional or fewer sets of (x, y, z) coordinates (i.e., additional orientations values).</p>
+<p id="p-0093" num="0091">In the illustrative embodiment, a counter is used to index the stored (x, y, z) coordinates so that the ECU <b>162</b> may identify which set is the oldest set. At the conclusion of block <b>324</b>, the sub-routine <b>320</b> may advance to block <b>326</b> in which the counter is incremented to correspond to the next stored set of (x, y, z) coordinates, which is now the oldest set of (x, y, z) coordinates in memory. It should be appreciated that other software tools may be used to identify the oldest set of (x, y, z) coordinates. The sub-routine <b>320</b> may advance to block <b>330</b>.</p>
+<p id="p-0094" num="0092">When the sub-routine <b>320</b> advances to block <b>330</b>, the ECU <b>162</b> processes the 8 sets of (x, y, z) coordinates to determine the maximum (x_max, y_max, z_max) and minimum (x_min, y_min, z_min) values for each of the x, y, and z coordinates of the 8 sets of (x, y, z) coordinates stored in memory. The ECU <b>162</b> may then use the maximum and minimum values for each of the x, y, and z coordinates in block <b>332</b>.</p>
+<p id="p-0095" num="0093">In block <b>332</b>, the ECU <b>162</b> determines whether the pest control device was in a stable orientation or stable position over the predetermined number of sensor readings. To do so, the ECU <b>162</b> calculates the differences between the maximum of each axis (x_max, y_max, z_max) and minimum of each axis (x_min, y_min, z_min) values for each of the x, y, and z coordinates. The maximum of each axis is compared individually against a programmable threshold for that axis. If all of the differences between the maximum and minimum values of the x, y, and z coordinates are less than or equal to the corresponding programmable thresholds (x_threshold, y_threshold, z_threshold), the sub-routine <b>320</b> may advance to block <b>334</b>. If any one of the differences is greater than the corresponding programmable thresholds, the sub-routine <b>320</b> ends.</p>
+<p id="p-0096" num="0094">The programmable thresholds used in block <b>332</b> are set based on, among other things, the nature of the rodent and environment surrounding the pest control device <b>14</b>. Ideally, with no physical movement of the outer casing <b>80</b>, the differences between the maximum and minimum values of the x, y, and z coordinates should be at or near zero. However, disruptions from environmental factors, including wind and vibration, may cause the outer casing <b>80</b> to move. The programmable thresholds may be set higher than zero to permit movement of the casing <b>80</b> caused by wind and/or vibration. In the illustrative embodiment, each programmable threshold for the x, y, z coordinates (x_threshold, y_threshold, z_threshold) is set to 50 units, where each unit represents 1/1024th of the force of gravity.</p>
+<p id="p-0097" num="0095">In block <b>334</b>, the ECU <b>162</b> calculates average values for the x, y, and z coordinates recorded during the predetermined number of sensor readings. In other words, the ECU <b>162</b> calculates average x, y, and z coordinate values taken during the previous 8 sensor readings. The ECU <b>162</b> then stores the average x, y, and z coordinate values as new stable orientation values, the ECU <b>162</b> calculates the deflection angle between the new stable orientation values and the previous stable orientation values in block <b>336</b>. To do so, the ECU <b>162</b> recalls from memory the previous stable orientation values B<sub>x</sub>, B<sub>y</sub>, and B<sub>z</sub>. The ECU <b>162</b> may then calculate a deflection angle between the new and previous stable orientations using Equation (1) below.</p>
+<p id="p-0098" num="0000">
+<maths id="MATH-US-00002" num="00002">
+<math overflow="scroll">
+ <mtable>
+  <mtr>
+   <mtd>
+    <mrow>
+     <mi>DeflectionAngle</mi>
+     <mo>=</mo>
+     <mrow>
+      <msup>
+       <mi>cos</mi>
+       <mrow>
+        <mo>-</mo>
+        <mn>1</mn>
+       </mrow>
+      </msup>
+      <mo>(</mo>
+      <mfrac>
+       <mrow>
+        <mrow>
+         <mo>(</mo>
+         <mrow>
+          <msub>
+           <mi>A</mi>
+           <mi>X</mi>
+          </msub>
+          <mo>*</mo>
+          <msub>
+           <mi>B</mi>
+           <mi>X</mi>
+          </msub>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+         <mo>(</mo>
+         <mrow>
+          <msub>
+           <mi>A</mi>
+           <mi>Y</mi>
+          </msub>
+          <mo>*</mo>
+          <msub>
+           <mi>B</mi>
+           <mi>Y</mi>
+          </msub>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+         <mo>(</mo>
+         <mrow>
+          <msub>
+           <mi>A</mi>
+           <mi>Z</mi>
+          </msub>
+          <mo>*</mo>
+          <msub>
+           <mi>B</mi>
+           <mi>Z</mi>
+          </msub>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+       <msqrt>
+        <mrow>
+         <mrow>
+          <mo>(</mo>
+          <mrow>
+           <msubsup>
+            <mi>A</mi>
+            <mi>X</mi>
+            <mn>2</mn>
+           </msubsup>
+           <mo>+</mo>
+           <msubsup>
+            <mi>A</mi>
+            <mi>Y</mi>
+            <mn>2</mn>
+           </msubsup>
+           <mo>+</mo>
+           <msubsup>
+            <mi>A</mi>
+            <mi>Z</mi>
+            <mn>2</mn>
+           </msubsup>
+          </mrow>
+          <mo>)</mo>
+         </mrow>
+         <mo>*</mo>
+         <mrow>
+          <mo>(</mo>
+          <mrow>
+           <msubsup>
+            <mi>B</mi>
+            <mi>X</mi>
+            <mn>2</mn>
+           </msubsup>
+           <mo>+</mo>
+           <msubsup>
+            <mi>B</mi>
+            <mi>Y</mi>
+            <mn>2</mn>
+           </msubsup>
+           <mo>+</mo>
+           <msubsup>
+            <mi>B</mi>
+            <mi>Z</mi>
+            <mn>2</mn>
+           </msubsup>
+          </mrow>
+          <mo>)</mo>
+         </mrow>
+        </mrow>
+       </msqrt>
+      </mfrac>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+   </mtd>
+   <mtd>
+    <mrow>
+     <mo>(</mo>
+     <mn>1</mn>
+     <mo>)</mo>
+    </mrow>
+   </mtd>
+  </mtr>
+ </mtable>
+</math>
+</maths>
+</p>
+<p id="p-0099" num="0000">A<sub>x</sub>, A<sub>y</sub>, A<sub>z </sub>are the coordinates of new stable orientation, and B<sub>x</sub>, B<sub>y</sub>, B<sub>z </sub>are the coordinates of previous stable orientation.</p>
+<p id="p-0100" num="0096">Subsequent to calculating the deflection angle between the new and previous stable orientations, the ECU <b>162</b> proceeds to block <b>338</b> in which the ECU <b>162</b> determines whether the calculated deflection angle is greater than a predetermined angular threshold. In the illustrative embodiment, the predetermined angular threshold is equal to 2.5 degrees, which is a predetermined minimum deflection angle to prevent false positive readings by eliminating insignificant changes in orientation caused by the environment surrounding. It should be appreciated that in other embodiments the predetermined angular threshold may be different from 2.5 degrees.</p>
+<p id="p-0101" num="0097">If the ECU <b>162</b> determines that the deflection angle is less than or equal to the predetermined angular threshold, the ECU <b>162</b> concludes that the orientation change in the pest control device <b>14</b> is insignificant and may proceed to block <b>340</b>. In block <b>340</b>, the ECU <b>162</b> updates the previous stable orientation readings B<sub>x</sub>, B<sub>y</sub>, and B<sub>z </sub>with the new stable orientation readings A<sub>x</sub>, A<sub>y</sub>, and A<sub>z </sub>before the sub-routine <b>320</b> ends.</p>
+<p id="p-0102" num="0098">If the ECU <b>162</b> determines that the deflection angle is greater than the predetermined angular threshold, the sub-routine <b>320</b> advances to block <b>342</b>. In block <b>342</b>, the ECU <b>162</b> sends a message to the system <b>16</b> to inform the system <b>16</b> that the deflection angle exceeded the predetermined angular threshold. The system <b>16</b> may then use that information to determine the status of the station <b>10</b> and inform the operator, as described above in regard to <figref idref="DRAWINGS">FIG. <b>19</b></figref>. For example, during an initial set up of the pest control station when some movements of the pest control device <b>14</b> are expected due to the human activities, the system <b>16</b> sets a default status of the station <b>10</b> as &#x201c;Tripped.&#x201d;</p>
+<p id="p-0103" num="0099">When the station <b>10</b> is properly positioned with the pest control device <b>14</b> positioned in the armed position shown in, for example, <figref idref="DRAWINGS">FIG. <b>9</b></figref>, and is stable, the ECU <b>162</b> stores an initial orientation of the pest control device and sends the message to the system <b>16</b> that the deflection angle exceeded the predetermined angular threshold. The system <b>16</b> then updates the status of the station <b>10</b> to &#x201c;Armed.&#x201d; Subsequently, when the system <b>16</b> receives a message that the deflection angle exceeded the predetermined angular threshold (i.e., the panel <b>24</b> has been moved and the pest control device <b>14</b> moved to the tripped position shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>), the system <b>16</b> updates the status of the station <b>10</b> to &#x201c;Tripped&#x201d; and alerts the operator that the station <b>10</b> has been tripped. The sub-routine <b>320</b> may then advance to block <b>340</b> in which the ECU <b>162</b> updates the previous stable orientation readings B<sub>x</sub>, B<sub>y</sub>, and B<sub>z </sub>with the new stable orientation readings A<sub>x</sub>, A<sub>y</sub>, and A<sub>z </sub>before the sub-routine <b>320</b> ends.</p>
+<p id="p-0104" num="0100">At any point that the sub-routine <b>320</b> ends, the routine <b>300</b> may cause the ECU <b>162</b> to advance to block <b>304</b> in which the ECU <b>162</b> monitors any other sensors, including, for example, a temperature sensor. To do so, the ECU <b>162</b> accesses the data from the sensor and stores a value in memory. The routine <b>300</b> may then advance to block <b>306</b>.</p>
+<p id="p-0105" num="0101">In block <b>306</b>, the ECU <b>162</b> samples the voltage of the battery <b>176</b> using the analog interface circuit <b>184</b>. The measured voltage is then compared to thresholds stored in memory using an algorithm to determine the approximate state of the charge of the battery <b>176</b>. The state of the charge may then be stored in memory. The routine <b>300</b> may then advance to block <b>308</b>.</p>
+<p id="p-0106" num="0102">In block <b>308</b>, the pest control device <b>14</b> communicates with the remote system <b>16</b>. The remote system <b>16</b> includes communications middleware, database, and application software and may be located on site with the pest control device <b>14</b> or off site. A range extender may be used to extend a range of a wireless network to transmit data received from the pest control device. The remote system <b>16</b> may also include a base station, which may include a transceiver that receives data directly from the pest control device or indirectly via the range extender and transmits data to a network-based utility via a cellular wireless network. The base station may also receive data from the network-based utility and transmit that data to the pest control device directly or indirectly via the range extender. The network-based utility may be further integrated with different interfaces, such as a management portal, mobile service interfaces, or billing interface. Through these interfaces, the data may be further processed, analyzed, stored, or further transmitted to web or mobile services. One example of a network-based utility is MeshVista&#xae;, which is commercially available by Mesh Systems&#x2122;.</p>
+<p id="p-0107" num="0103">To transmit its data to the remote system <b>16</b>, the ECU <b>162</b> energizes the transceiver array <b>166</b> to establish contact with the remote system <b>16</b> via the local area network (LAN). The transmitted data may include, among other things, the recorded pest events, service events, temperature measurements, records of movement, the state of the charge of the battery <b>176</b>, and so forth. The pest control device <b>14</b> may also transmit an indication of the health of the LAN communications infrastructure.</p>
+<p id="p-0108" num="0104">The remote system <b>16</b> may then interpret the data and transmit updated parameters back to the control device <b>14</b>. The remote system <b>16</b> may update, for example, the Pest Value threshold if a number of false positives have been logged at the control device <b>14</b>. The updated parameters may include the programmable constant Kf, the Human Value threshold, the Pest Value threshold, and the software counter limit for each pad. Additionally, the remote system <b>16</b> may change the predetermined sequence of pad contacts used to indicate a service event. The ECU <b>162</b> updates the parameters stored in memory in block <b>310</b> before returning to the reduced power mode.</p>
+<p id="p-0109" num="0105">Referring now to <figref idref="DRAWINGS">FIGS. <b>13</b>-<b>14</b></figref>, a pest control station <b>410</b> is shown with another embodiment of a pest control device <b>414</b> and a pest trap device <b>416</b>. The embodiment of <figref idref="DRAWINGS">FIGS. <b>13</b>-<b>14</b></figref> includes many of the same features described above in regard to <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>12</b></figref>. The same reference numbers are used in <figref idref="DRAWINGS">FIGS. <b>13</b>-<b>14</b></figref> to identify features that are the same or similar to those described above in regard to <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>12</b></figref>. As shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>, the pest control device <b>414</b> may be coupled to a snap-type rodent trap <b>416</b> that detains and/or exterminates the rodent. In the illustrative embodiment, the snap-type rodent trap is a typical snap-type trap such as, for example, the Victor Metal Pedal Rat Traps&#x2014;M200. In operation, the pest control device <b>414</b> includes an outer casing <b>80</b> and the other components positioned within the outer casing <b>80</b> including, for example, the position or orientation sensor <b>170</b> that is operable to detect movement of the pest control device <b>414</b> and report that movement of the pest control device <b>314</b> to a remote system <b>16</b> wirelessly via an antenna <b>18</b> to provide an indication of whether the trap <b>416</b> has been activated.</p>
+<p id="p-0110" num="0106">As shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>, the pest control device <b>414</b> includes a support plate <b>482</b> that is attached to the casing <b>80</b>. The support plate <b>482</b> includes a clip <b>484</b> extending from an arm <b>486</b> that is configured to engage a rod <b>110</b> of the outer casing <b>80</b> to secure the support plate <b>82</b> to the outer casing <b>80</b>. In the illustrative embodiment, the clip <b>484</b> includes teeth <b>128</b> that engage the rod <b>110</b> such that the support plate <b>482</b> is hinged to the pest control device <b>414</b> and may pivot relative to the outer casing <b>80</b>.</p>
+<p id="p-0111" num="0107">The support plate <b>482</b> includes a v-shaped leg <b>490</b> that has a rear section <b>492</b> extending at angle relative to the arm <b>486</b>. A forward section <b>494</b> is connected to the rear section <b>492</b> at the apex <b>496</b> of the leg <b>490</b> and extends at an angle relative to the rear section <b>492</b>. The support plate <b>482</b> also includes a foot <b>498</b> that extends from the end of the leg <b>490</b>. As shown in <figref idref="DRAWINGS">FIGS. <b>13</b>-<b>14</b></figref>, the foot <b>498</b> includes a groove <b>500</b> sized to receive a portion of the jaw <b>502</b> of the rodent trap <b>416</b>.</p>
+<p id="p-0112" num="0108">As shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>, the snap-type rodent trap <b>416</b> can be placed in an &#x201c;armed&#x201d; condition. The trap <b>416</b> includes a base <b>510</b> and a generally U-shaped jaw <b>502</b> that is pivotally coupled to a spring (not shown). In the &#x201c;armed&#x201d; condition, the jaw is held in place by a trap pin <b>516</b> such that the jaw <b>502</b> is adjacent to the pest control device <b>414</b>, as shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>. In this configuration, if a rodent applies sufficient downward pressure on a bait plate (not shown), the trap pin <b>516</b> is displaced, and the jaw <b>502</b> snaps over in the direction indicated by arrow <b>524</b> to pin the rodent between the jaw <b>502</b> and the base <b>510</b>. In that position, the trap <b>416</b> is in a &#x201c;Tripped&#x201d; condition.</p>
+<p id="p-0113" num="0109">During the transition from the &#x201c;Armed&#x201d; condition to &#x201c;Tripped&#x201d; condition, the leg <b>500</b> of the support plate <b>482</b> is released from the jaw <b>502</b>. The weight of the pest control device <b>414</b> causes the support plate <b>482</b> to pivot about the apex <b>496</b> of the leg <b>490</b> in the direction indicated by arrow <b>526</b>. The outer casing <b>80</b> drops to the ground level. As described in greater detail below, the position sensor <b>170</b> monitors this orientation or position of the outer casing <b>80</b> and generates (x, y, z) orientation data that may be used to detect movement of the outer casing <b>80</b>. The signals are then analyzed by the system <b>16</b> to determine the condition of the trap <b>416</b>.</p>
+<p id="p-0114" num="0110">While the disclosure has been illustrated and described in detail in the drawings and foregoing description, such an illustration and description is to be considered as exemplary and not restrictive in character, it being understood that only illustrative embodiments have been shown and described and that all changes and modifications that come within the spirit of the disclosure are desired to be protected. For example, it should be appreciated that the modular trays such as those shown and described above may be deployed without a housing. It should also be appreciated that the pest control device may be attached directly to the moveable panel of the modular tray such that the pest control device is pivoted with the panel.</p>
+<p id="p-0115" num="0111">There is a plurality of advantages of the present disclosure arising from the various features of the method, apparatus, and system described herein. It will be noted that alternative embodiments of the method, apparatus, and system of the present disclosure may not include all of the features described yet still benefit from at least some of the advantages of such features. Those of ordinary skill in the art may readily devise their own implementations of the method, apparatus, and system that incorporate one or more of the features of the present invention and fall within the spirit and scope of the present disclosure as defined by the appended claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20230225295A1-20230720-M00001.NB">
+<img id="EMI-M00001" he="7.37mm" wi="76.20mm" file="US20230225295A1-20230720-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US20230225295A1-20230720-M00002.NB">
+<img id="EMI-M00002" he="7.37mm" wi="76.20mm" file="US20230225295A1-20230720-M00002.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00003" nb-file="US20230225295A1-20230720-M00003.NB">
+<img id="EMI-M00003" he="7.37mm" wi="76.20mm" file="US20230225295A1-20230720-M00003.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00004" nb-file="US20230225295A1-20230720-M00004.NB">
+<img id="EMI-M00004" he="7.37mm" wi="76.20mm" file="US20230225295A1-20230720-M00004.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<claims id="claims">
+<claim id="CLM-01-20" num="01-20">
+<claim-text><b>1</b>-<b>20</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. A method of monitoring for pests, the method comprising:
+<claim-text>positioning a pest control device in a frame, wherein a moveable panel is pivotally coupled to the frame;</claim-text>
+<claim-text>engaging a support plate of the pest control device with the moveable panel to place the support plate in a support position;</claim-text>
+<claim-text>determining an initial orientation of the pest control device when the support plate is in the support position;</claim-text>
+<claim-text>monitoring the orientation of the pest control device;</claim-text>
+<claim-text>determining a pest condition of the pest control device based on the orientation of the pest control device; and</claim-text>
+<claim-text>transmitting the pest condition to a remote system to determine a status of the pest control device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, further comprising:
+<claim-text>recording a plurality of orientation values from an orientation sensor of the pest control device, each orientation value comprising (x, y, z) coordinates corresponding to an orientation of the pest control device, and</claim-text>
+<claim-text>determining whether the pest control device is stable based on the plurality of orientation values,</claim-text>
+<claim-text>wherein determining the initial orientation of the pest control device includes determining the initial orientation of the pest control device when the pest control device is stable.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The method of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein recording the plurality of orientation values further comprises recording each orientation value from the orientation sensor after a predetermined time interval has lapsed until a predetermined number of the orientation values are recorded.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The method of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the predetermined number of the orientation values is at least 8 orientation values.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The method of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein determining whether the pest control device is stable based on the plurality of orientation values comprises:
+<claim-text>determining maximum orientation values and minimum orientation values from the plurality of orientation values for each of the (x, y, z) coordinates,</claim-text>
+<claim-text>determining differences between the maximum orientation values and the minimum orientation values for each of the (x, y, z) coordinates of the plurality of orientation values,</claim-text>
+<claim-text>determining whether all of the differences are less than or equal to a first set of predetermined thresholds,</claim-text>
+<claim-text>determining average orientation value for each of the (x, y, z) coordinates of the plurality of orientation values when all of the differences are less than or equal to the first set of predetermined thresholds, and</claim-text>
+<claim-text>storing the (x, y, z) coordinates of the average orientation value with a new stable orientation value to indicate that the pest control device is stable.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The method of <claim-ref idref="CLM-00025">claim 25</claim-ref>, wherein determining whether the pest control device is stable based on the plurality of orientation values comprises:
+<claim-text>determining maximum orientation values and minimum orientation values from the plurality of orientation values for each of the (x, y, z) coordinates,</claim-text>
+<claim-text>determining differences between the maximum orientation values and the minimum orientation values for each of the (x, y, z) coordinates,</claim-text>
+<claim-text>determining whether a sum of the differences is less than or equal to a first predetermined threshold,</claim-text>
+<claim-text>determining average orientation values for each of the (x, y, z) coordinates from the plurality of orientation values when the sum of the differences is less than or equal to the first predetermined threshold, and</claim-text>
+<claim-text>updating the average orientation values to a new stable orientation coordinates.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. The method of <claim-ref idref="CLM-00026">claim 26</claim-ref>, wherein determining an orientation of the pest control device when the pest control device is stable comprises
+<claim-text>identifying a (x, y, z) coordinates of a previous stable orientation value,</claim-text>
+<claim-text>determining a deflection angle of the pest control device using the (x, y, z) coordinates of the new stable orientation value,</claim-text>
+<claim-text>determining the deflection angle exceeds a second predetermined threshold,</claim-text>
+<claim-text>updating the pest condition when the second predetermined threshold is exceeded, and</claim-text>
+<claim-text>updating the previous stable orientation value with the new stable orientation value.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. The method of <claim-ref idref="CLM-00027">claim 27</claim-ref>, wherein calculating the deflection angle of the pest control device includes using the following equations:</claim-text>
+<claim-text>
+<maths id="MATH-US-00003" num="00003">
+<math overflow="scroll">
+ <mrow>
+  <mi>DeflectionAngle</mi>
+  <mo>=</mo>
+  <mrow>
+   <msup>
+    <mi>cos</mi>
+    <mrow>
+     <mo>-</mo>
+     <mn>1</mn>
+    </mrow>
+   </msup>
+   <mo>(</mo>
+   <mfrac>
+    <mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>A</mi>
+        <mi>X</mi>
+       </msub>
+       <mo>*</mo>
+       <msub>
+        <mi>B</mi>
+        <mi>X</mi>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>+</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>A</mi>
+        <mi>Y</mi>
+       </msub>
+       <mo>*</mo>
+       <msub>
+        <mi>B</mi>
+        <mi>Y</mi>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>+</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>A</mi>
+        <mi>Z</mi>
+       </msub>
+       <mo>*</mo>
+       <msub>
+        <mi>B</mi>
+        <mi>Z</mi>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+    <msqrt>
+     <mrow>
+      <mrow>
+       <mo>(</mo>
+       <mrow>
+        <msubsup>
+         <mi>A</mi>
+         <mi>X</mi>
+         <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mi>A</mi>
+         <mi>Y</mi>
+         <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mi>A</mi>
+         <mi>Z</mi>
+         <mn>2</mn>
+        </msubsup>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+      <mo>*</mo>
+      <mrow>
+       <mo>(</mo>
+       <mrow>
+        <msubsup>
+         <mi>B</mi>
+         <mi>X</mi>
+         <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mi>B</mi>
+         <mi>Y</mi>
+         <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mi>B</mi>
+         <mi>Z</mi>
+         <mn>2</mn>
+        </msubsup>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </msqrt>
+   </mfrac>
+   <mo>)</mo>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+<claim-text>wherein &#x201c;A<sub>x</sub>&#x201d;, &#x201c;A<sub>y</sub>&#x201d;, &#x201c;A<sub>z</sub>&#x201d; are the (x, y, z) coordinates of new stable orientation value, and &#x201c;B<sub>x</sub>&#x201d;, &#x201c;B<sub>y</sub>&#x201d;, &#x201c;B<sub>z</sub>&#x201d; are the (x, y, z) coordinates of previous stable orientation value.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. A method of monitoring for pests, the method comprising:
+<claim-text>determining, by a pest control device, a stable orientation of the pest control device based on a plurality of stored orientation values;</claim-text>
+<claim-text>determining, by the pest control device, a deflection angle between the stable orientation and a previous stable orientation of the pest control device;</claim-text>
+<claim-text>determining, by the pest control device, whether the deflection angle has a predetermined relationship with a predetermined threshold angle;</claim-text>
+<claim-text>setting, by the pest control device, a pest condition in response to determining that the deflection angle has the predetermined relationship to the predetermined threshold angle; and</claim-text>
+<claim-text>updating, by the pest control device, the previous stable orientation to the stable orientation in response to determining that the deflection angle does not have the predetermined relationship to the predetermined threshold angle.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. The method of <claim-ref idref="CLM-00029">claim 29</claim-ref>, further comprising:
+<claim-text>determining, by a pest control device, whether a predetermined time interval has elapsed; and</claim-text>
+<claim-text>recording, by the pest control device, an orientation value from an orientation sensor of the pest control device into the plurality of stored orientation values in response to determining that the predetermined time interval has elapsed.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text><b>31</b>. The method of <claim-ref idref="CLM-00030">claim 30</claim-ref>, wherein recording the orientation value comprises replacing an oldest orientation value of the plurality of stored orientation values.</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text><b>32</b>. The method of <claim-ref idref="CLM-00031">claim 31</claim-ref>, wherein the plurality of stored orientation values includes at least 8 orientation values.</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text><b>33</b>. The method of <claim-ref idref="CLM-00030">claim 30</claim-ref>, further comprising:
+<claim-text>waking, by the pest control device, an electronic control unit of the pest control device from a reduced power mode in response to elapsing of a second predetermined time interval, wherein the second predetermined time interval is shorter than the predetermined time interval;</claim-text>
+<claim-text>wherein determining whether the predetermined time interval has elapsed comprises determining whether the predetermined time interval has elapsed in response to waking the electronic control unit of the pest control device from the reduced power mode.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00034" num="00034">
+<claim-text><b>34</b>. The method of <claim-ref idref="CLM-00029">claim 29</claim-ref>, wherein determining the stable orientation of the pest control device based on the plurality of stored orientation values comprises:
+<claim-text>determining a difference between a maximum orientation value and a minimum orientation value of the plurality of stored orientation values;</claim-text>
+<claim-text>determining whether the difference is less than or equal to a first predetermined threshold; and</claim-text>
+<claim-text>determining an average orientation value of the plurality of stored orientation values in response to determining that the difference is less than or equal to the first predetermined threshold, wherein the stable orientation comprises the average orientation value.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00035" num="00035">
+<claim-text><b>35</b>. The method of <claim-ref idref="CLM-00029">claim 29</claim-ref>, wherein each of the plurality of stored orientation values comprises (x, y, z) coordinates corresponding to an orientation of the pest control device.</claim-text>
+</claim>
+<claim id="CLM-00036" num="00036">
+<claim-text><b>36</b>. The method of <claim-ref idref="CLM-00035">claim 35</claim-ref>, wherein determining the deflection angle includes using the following equation:</claim-text>
+<claim-text>
+<maths id="MATH-US-00004" num="00004">
+<math overflow="scroll">
+ <mrow>
+  <mi>DeflectionAngle</mi>
+  <mo>=</mo>
+  <mrow>
+   <msup>
+    <mi>cos</mi>
+    <mrow>
+     <mo>-</mo>
+     <mn>1</mn>
+    </mrow>
+   </msup>
+   <mo>(</mo>
+   <mfrac>
+    <mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>A</mi>
+        <mi>X</mi>
+       </msub>
+       <mo>*</mo>
+       <msub>
+        <mi>B</mi>
+        <mi>X</mi>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>+</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>A</mi>
+        <mi>Y</mi>
+       </msub>
+       <mo>*</mo>
+       <msub>
+        <mi>B</mi>
+        <mi>Y</mi>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>+</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>A</mi>
+        <mi>Z</mi>
+       </msub>
+       <mo>*</mo>
+       <msub>
+        <mi>B</mi>
+        <mi>Z</mi>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+    <msqrt>
+     <mrow>
+      <mrow>
+       <mo>(</mo>
+       <mrow>
+        <msubsup>
+         <mi>A</mi>
+         <mi>X</mi>
+         <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mi>A</mi>
+         <mi>Y</mi>
+         <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mi>A</mi>
+         <mi>Z</mi>
+         <mn>2</mn>
+        </msubsup>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+      <mo>*</mo>
+      <mrow>
+       <mo>(</mo>
+       <mrow>
+        <msubsup>
+         <mi>B</mi>
+         <mi>X</mi>
+         <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mi>B</mi>
+         <mi>Y</mi>
+         <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+         <mi>B</mi>
+         <mi>Z</mi>
+         <mn>2</mn>
+        </msubsup>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </msqrt>
+   </mfrac>
+   <mo>)</mo>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+<claim-text>wherein &#x201c;A<sub>x</sub>&#x201d;, &#x201c;A<sub>y</sub>&#x201d;, &#x201c;A<sub>z</sub>&#x201d; are the (x, y, z) coordinates of the stable orientation, and &#x201c;B<sub>x</sub>&#x201d;, &#x201c;B<sub>y</sub>&#x201d;, &#x201c;B<sub>z</sub>&#x201d; are the (x, y, z) coordinates of the previous stable orientation.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00037" num="00037">
+<claim-text><b>37</b>. The method of <claim-ref idref="CLM-00029">claim 29</claim-ref>, further comprising transmitting, by the pest control device, a signal indicative of the pest condition to a remote system in response to setting the pest condition.</claim-text>
+</claim>
+<claim id="CLM-00038" num="00038">
+<claim-text><b>38</b>. The method of <claim-ref idref="CLM-00029">claim 29</claim-ref>, further comprising positioning the pest control device in a frame, wherein the pest control device comprises an outer casing and a support plate pivotally coupled to the outer casing, and wherein the frame includes a panel pivotally coupled to the frame, the panel being moveable relative to the frame between a first position and a second position, wherein when the panel is in the first position the support plate is maintained in a support position such that the pest control device is in a first orientation, and when the panel is in the second position, the support plate is released from the support position and the pest control device is in a second orientation different from the first orientation.</claim-text>
+</claim>
+<claim id="CLM-00039" num="00039">
+<claim-text><b>39</b>. A method of monitoring for pests, the method comprising:
+<claim-text>engaging a pest control device with a moveable panel;</claim-text>
+<claim-text>determining an initial orientation of the pest control device;</claim-text>
+<claim-text>monitoring the orientation of the pest control device;</claim-text>
+<claim-text>determining a pest condition of the pest control device based on the orientation of the pest control device; and</claim-text>
+<claim-text>transmitting the pest condition to a remote system to determine a status of the pest control device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00040" num="00040">
+<claim-text><b>40</b>. The method of <claim-ref idref="CLM-00039">claim 39</claim-ref>, further comprising:
+<claim-text>recording a plurality of orientation values from an orientation sensor of the pest control device, each orientation value comprising (x, y, z) coordinates corresponding to an orientation of the pest control device, and</claim-text>
+<claim-text>determining whether the pest control device is stable based on the plurality of orientation values,</claim-text>
+<claim-text>wherein determining the initial orientation of the pest control device includes determining the initial orientation of the pest control device when the pest control device is stable.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

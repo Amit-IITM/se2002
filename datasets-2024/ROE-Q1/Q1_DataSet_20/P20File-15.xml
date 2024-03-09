@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225542A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225542</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18123527</doc-number>
+<date>20230320</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>J</subclass>
+<main-group>27</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>J</subclass>
+<main-group>27</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>J</subclass>
+<main-group>2027</main-group>
+<subgroup>043</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">DEVICE AND METHOD FOR PREPARING FOODS ARRANGED IN A VESSEL</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16755961</doc-number>
+<date>20200414</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11627826</doc-number>
+</document-id>
+</parent-grant-document>
+<parent-pct-document>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2017/080982</doc-number>
+<date>20171130</date>
+</document-id>
+</parent-pct-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18123527</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Carogusto AG</orgname>
+<address>
+<city>Amriswil</city>
+<country>CH</country>
+</address>
+</addressbook>
+<residence>
+<country>CH</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Grendelmeier</last-name>
+<first-name>Thomas</first-name>
+<address>
+<city>Hombrechtikon</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Schenk</last-name>
+<first-name>Philipp</first-name>
+<address>
+<city>Sch&#xf6;nenberg</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Schmutz</last-name>
+<first-name>Lukas</first-name>
+<address>
+<city>Bern</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Carogusto AG</orgname>
+<role>03</role>
+<address>
+<city>Amriswil</city>
+<country>CH</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A device (I) for preparing foods received in a vessel (<b>2</b>), in particular ready meals, the device (<b>1</b>) including a steam generator unit for generating steam, and a steam delivery unit (<b>4</b>) which is connected to the steam generator unit in a steam-conducting manner via a steam feed line (<b>23</b>) and which has a steam probe (<b>5</b>) with at least one steam discharge opening, wherein the device (<b>1</b>) has a coupling mechanism (<b>10</b>) which includes a locking mechanism and which releasably connects the steam delivery unit (<b>4</b>) to the steam feed line.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="149.52mm" wi="138.43mm" file="US20230225542A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="177.29mm" wi="140.46mm" file="US20230225542A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="184.32mm" wi="117.18mm" file="US20230225542A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="235.71mm" wi="94.74mm" file="US20230225542A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="229.02mm" wi="111.68mm" file="US20230225542A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="228.85mm" wi="104.82mm" file="US20230225542A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="226.65mm" wi="122.09mm" orientation="landscape" file="US20230225542A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="236.14mm" wi="136.40mm" orientation="landscape" file="US20230225542A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="167.81mm" wi="128.27mm" file="US20230225542A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="146.22mm" wi="136.91mm" file="US20230225542A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The invention relates to a device for preparing foods received (arranged) in a vessel, in particular ready meals, as disclosed herein, the device comprising a steam generator unit, preferably disposed in a housing, for generating steam, and a steam delivery unit which is connected to the steam generator unit in a steam-conducting manner via a steam feed line and which has a steam probe having at least one steam discharge opening.</p>
+<p id="p-0003" num="0002">Furthermore, the invention relates to a method for operating such a device as disclosed herein.</p>
+<p id="p-0004" num="0003">DE 10 2015 221 005 A1 describes a device for preparing foods arranged in a vessel, the device comprising a steam delivery unit which is firmly connected to a steam feed line, said steam delivery unit having a plurality of steam probes for introducing steam into a ready meal to be heated, the steam delivery unit being rotatable about an axis of rotation in order to allow for an improved distribution of the steam and for stirring the ready meal. The known device has proven its worth. However, there exists a demand for more convenient cleaning and for an improved steam distribution in or on the food.</p>
+<p id="p-0005" num="0004">US 2009/0252855 relates to a device for steam injection heating, comprising a steam generator unit and a steam delivery unit which is connected to said steam generator unit via a steam feed line. The steam delivery unit is releasably connected to the steam feed line via a thread.</p>
+<p id="p-0006" num="0005">DE 10 2015 221 005 A1 and U.S. Pat. No. 4,233,891 A also relate to devices for preparing foods by means of steam injection. Each of the devices comprises a steam generator unit and a steam delivery unit which is connected to said steam generator unit via a steam feed line. The steam delivery unit is connected to the steam feed line, DE 10 2015 221 005 A1 providing a swivel joint disposed between the steam delivery unit and the steam feed line and U.S. Pat. No. 4,233,891 A disclosing a screw socket for clamping them together.</p>
+<p id="p-0007" num="0006">DE 36 44 519 A1 discloses a device for preparing cappuccino having a milk froth generating function, comprising a steam generator unit and a superheated steam tube which is connected to said steam generator unit via a steam feed line. The superheated steam tube is releasably connected to the steam feed line by means of a coupling.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">Starting from the aforementioned state of the art, the object of the invention is to indicate a device for preparing foods arranged in a vessel which can be cleaned more easily and which distributes the steam in an improved manner and an improved method for operating such a device.</p>
+<p id="p-0009" num="0008">Concerning the device, said object is attained by the features disclosed herein, i.e., concerning a generic device, by the fact that the device has a coupling mechanism comprising locking means for connecting the steam delivery unit to the steam feed line in a releasable manner, in particular without using tools. For this purpose, the steam delivery unit preferably comprises a, in particular elongated, connecting section for the, in particular translational, coupling with, preferably introduction into, the coupling mechanism.</p>
+<p id="p-0010" num="0009">Concerning the method, the object is attained by the features disclosed herein, i.e. concerning a generic method, by the fact that after the, in particular manual, release (unlocking) of the locking means, the steam delivery unit is separated from the steam feed line and is preferably cleaned afterwards, in particular in a dishwasher.</p>
+<p id="p-0011" num="0010">Advantageous embodiments of the invention are disclosed herein and in the dependent claims. All combinations of at least two features disclosed in the description, the claims and/or the figures constitute part of the scope of the invention.</p>
+<p id="p-0012" num="0011">In order to avoid repetitions, disclosed features relating to the device are also seen as relating to the method and are thus also claimable therefor. In the same manner, disclosed features relating to the method are also seen as relating to the device and are thus also claimable therefor.</p>
+<p id="p-0013" num="0012">The idea of the invention is not to fix the steam delivery unit to the steam feed line in a permanent manner, but to dispose the steam delivery unit at said steam feed line in a releasable manner so that after preparing, in particular heating, a given number of foods, preferably ready meals, the steam delivery unit can be cleaned separately from the steam feed line, for example in an automated manner in a dishwasher, which is typically available in the catering sector or in the household sector, instead of having to be cleaned manually at the device or at a housing of the device, as was previously the case. A far more efficient and more convenient cleaning is thus possible.</p>
+<p id="p-0014" num="0013">In order to realize the invention, the device comprises a coupling mechanism for connecting the steam delivery unit to the steam feed line in a releasable manner, the coupling mechanism comprising locking means by means of which the steam delivery unit can be locked or secured in an installation or fixing position, in particular against removal against an installation or fixing direction. The coupling mechanism is preferably realized in such a manner that the steam delivery unit can be installed and fixed, in particular a connecting section of the steam delivery unit can be axially introduced into the coupling mechanism, by a translational installation movement, preferably along an axis of rotation to be described below, the steam delivery unit being rotatable about said axis of rotation, preferably together with the coupling mechanism, according to a preferred embodiment in order to improve the steam distribution. Alternative embodiments of the coupling mechanism and of its locking means can be realized, for example in the form of a quick lock for an installation without using tools, for example in the form of a bayonet lock.</p>
+<p id="p-0015" num="0014">According to the invention, a configuration of the device and of the method is proposed in which at least a section of the steam delivery unit comprising the steam probe, in particular the entire steam delivery unit (which is detachable or can be fixed in a releasable manner) is rotatable, in particular back and forth, about an axis of rotation in order to distribute the steam in the food in an improved manner and/or to stir the food. In particular with respect to the preparation of specific foods, such as spaghetti, said rotational movement is preferably realized as a back-and-forth movement, i.e. as an alternating movement in two opposite directions of rotation, in order to avoid a winding of the foods around the at least one, preferably several steam probes. The axis of rotation, which is preferably realized as a vertical axis, is preferably also an axis of installation in which the steam delivery unit is to be displaced in a translational manner to be connected to the coupling mechanism and to be locked and in which said steam delivery unit is to be displaced in the opposite direction in order to be released or detached. In order to be able to rotate the steam delivery unit about the axis of rotation, the coupling mechanism comprises corresponding torque transmission means for establishing a torque-transmitting operative connection to a particularly preferably electromotive drive motor which is preferably disposed in a housing of the device. The torque transmission means particularly preferably have a, in particular centric, reception which engages into corresponding radial recesses of an aforementioned, in particular elongated, connecting section of the steam delivery unit, more precisely a drive section of the connecting section, in the radial direction in relation to the axis of rotation when the steam delivery unit is installed in order to be able to drive the steam delivery unit in a rotating manner. The torque transmission means are particularly preferably also realized as a gear wheel or have a gear ring at the outer circumference, its gearing being connected to a drive motor in a corresponding torque-transmitting manner, in particular via at least one gear wheel or a drive screw. The torque transmission means preferably interact with the aforementioned connecting section of the steam delivery unit, which preferably extends along the axis of rotation.</p>
+<p id="p-0016" num="0015">In a particularly preferred embodiment of the device and of the method, a hood which is separate from the steam delivery unit is disposed on the steam delivery unit, in particular above the steam probes, said hood realizing a cooking chamber together with the vessel (preferably not part of the device), in which steam is applied to the food. Preferably, the hood has the function of a hold-down device and is pushed against the vessel in an operating state of steaming, the steam delivery unit being rotatable in relation to the hood about the axis of rotation. In an embodiment of the invention, the hood can be removed, i.e. detached or separated from the coupling mechanism, together with the steam delivery unit. The hood is preferably loosely positioned on or is fixed to the steam delivery unit so as to be removable, preferably without using tools, and said hood is trapped between a lower part of the steam delivery unit, which comprises the at least one steam probe, and a housing of the device, in particular a housing of the lifting unit, when the steam delivery unit is fixed to the coupling mechanism, and the hood can easily be removed from the steam delivery unit by a user and can be cleaned separately from said steam delivery unit, in particular in a dishwasher, after removing the steam delivery unit from the coupling mechanism. The hood is preferably penetrated by the aforementioned connecting section of the steam delivery unit along the axis of rotation.</p>
+<p id="p-0017" num="0016">In a particularly preferred embodiment, the locking means are realized for automatic locking, in particular axial securing, of the steam delivery unit to the coupling mechanism by transferring the steam delivery unit into a fixing or installation position, in particular in a translational, preferably manual, manner. For this purpose, the locking means preferably comprise spring means which allow for an automatic opening of the locking means during the installation process (in particular the insertion process of the connecting section into the coupling mechanism), the spring means ensuring that the locking means are automatically retransferred into a locking state once a target installation or fixing position of the steam delivery unit in the coupling mechanism has been reached, a steam-conducting connection to the steam feed line being established in said target position. Thus, the device can be operated in a particularly convenient manner. For the purpose of unlocking, the locking means have to be transferred into a release or unlocking position (release state), preferably manually or by means of a drive, and the connecting section can then be removed from the coupling mechanism.</p>
+<p id="p-0018" num="0017">More specifically, the locking means preferably comprise a locking element for direct interaction with the steam delivery unit, in particular with a locking section, in particular realized on an end of the aforementioned connecting section, the locking element being displaceable, preferably by rotation, between a locking position, which prevents the removal of the steam delivery unit, and a release position. The locking element thus releases an axial installation and removal path, preferably in a release position, said path being blocked in the locking position. To do so, the locking element preferably interacts with the aforementioned locking section of the connecting section of the steam delivery unit. The locking section is preferably axially separated from a torque absorption section of the connecting section, in particular via some kind of a trough or circumferential groove, the locking element engaging into said axial gap in its locking position in order to prevent a removal of the steam delivery unit against the, preferably axial, direction of installation. For displacing the locking element between its release position and its locking position, a manual or automated actuation unit, particularly preferably comprising a swing lever, is provided. A spring force is applied to the locking element, preferably in the direction of its locking position, in particular by providing a torsion spring, and said locking element has to be displaced against the spring force from the locking position into the release position by means of the actuation unit.</p>
+<p id="p-0019" num="0018">In particular to allow for a rotation of the steam delivery unit together with the coupling mechanism in the installed and secured state of the steam delivery unit, an embodiment of the invention provides a releasable, i.e. non-permanent, force-transmitting coupling of the actuation unit, in particular of a swing lever of the actuation unit, with the locking element and a decoupling, in particular spacing, of the actuation unit from the locking element in the locking position of the locking element, the locking element, in particular the entire coupling mechanism, thus being rotatable about the axis of rotation together with the steam delivery unit. In other words, the actuation unit, in particular a swing lever of the actuation unit, can be displaced between a first and a second displacement position and is not coupled with the locking element in a torque-transmitting manner in both final displacement positions&#x2014;the locking element is free in one of said positions and can rotate together with the steam delivery unit.</p>
+<p id="p-0020" num="0019">It is particularly advantageous if the actuation unit has a gearing section for meshing with a gear ring of the locking element. Said gearing section is particularly preferably realized and/or disposed in a resilient manner in the radial direction in relation to the gear ring in order to allow for a jumping of the gearing section (tooth segment) in the possible event that the gearing section and the gear ring meet tooth to tooth.</p>
+<p id="p-0021" num="0020">In order to further reduce a possible tooth-to-tooth problem between the gearing section of the actuation unit and the gear ring of the locking element, synchronization means for synchronizing a gearing of the gearing section and a gearing of the gear ring are assigned to the gearing section according to an embodiment of the invention, the synchronization means being preferably actuatable by displacing the actuation unit, in particular a swing lever of the actuation unit. The synchronization means are preferably realized in such a manner that said synchronization means rotate the locking element, preferably the entire coupling mechanism, a little about the axis of rotation before the gearing section of the actuation unit engages with the gear ring of the locking element in such a manner that the teeth of the gearing section reliably engage in the tooth spaces or gaps of the gear ring.</p>
+<p id="p-0022" num="0021">The synchronization means preferably comprise a preferably hook-shaped synchronization element, in particular realized and/or disposed in a resilient manner, said synchronization element having at least one synchronization tooth for meshing with the gear ring of the locking element or with a facultative drive gear ring of the coupling mechanism for the rotating driving of the steam delivery unit, said drive gear ring being rotatable together with the gear ring of the locking element. The drive gear ring is preferably in fixed alignment with the gear ring of the locking element, i.e. disposed in a non-rotatable manner, at least in the locking position of the locking element, in particular via the aforementioned spring means which are preferably provided and which permanently apply a spring force to the locking element in its locking position. The synchronization tooth is offset in relation to the teeth of the gearing section, preferably by a distance which is not evenly divisible by a tooth extension of a tooth of the gearing of the gearing section. In other words, said distance does not correspond to a multiple of the tooth pitch. Said synchronization means are preferably realized in such a manner that they synchronize said gearing of the gear ring with the gearing section of the actuation unit by rotating the gear ring before the gearing section of the actuation unit meshes with the gear ring, i.e. engages with the gear ring.</p>
+<p id="p-0023" num="0022">In an embodiment of the invention, the device comprises sensor means which ensure the operational reliability. Preferably, sensor means for monitoring a state (locking state and/or release state) of the locking means are provided. Said sensor means are preferably connected to a controller of the device which causes or enables a steam delivery only if a locking state is detected by the sensor means. Alternatively or preferably additionally, sensor means are provided by means of which it can be monitored if one steam delivery unit is (actually) disposed in the coupling mechanism in a releasable manner, i.e. if the steam delivery unit is in an installation position which is connected to the steam feed line. Such sensor means are preferably (also) connected to the controller of the device, an initiation or release of steam taking place only if the sensor means detect the presence or a corresponding disposition of the steam delivery unit.</p>
+<p id="p-0024" num="0023">It is particularly advantageous if a preferably guided positioning element is assigned to the sensor means, in particular to the sensor means for monitoring a state of the locking means, said positioning element being displaceable by actuating the locking means, in particular by rotating the locking element, in relation, in particular axially, to a sensor of the sensor means, in particular to a switch of the sensor means, in order to actuate said switch, if provided, and thus to sense or detect a locking and/or release state of the locking means if a switch is provided.</p>
+<p id="p-0025" num="0024">In a preferred embodiment, the device comprises a relative movement drive, in particular a lift drive, for causing a translational relative movement between the steam delivery unit and the vessel and/or a surface supporting the vessel, an active displacement of the steam delivery unit and/or the vessel being generally made possible. However, another preferred embodiment comprises a fixed vessel and a steam delivery unit which can be actively displaced in relation to the vessel. According to a particularly preferred embodiment, a placing of an aforementioned hood, which is provided in an embodiment of the invention, on the vessel and a holding-down of the vessel or an application of force to the vessel is ensured and a cooking chamber, in which the steaming takes place, is realized between the hood and the vessel via the lift drive. A lifting unit comprising the coupling mechanism is preferably displaced in the vertical direction by means of the lift drive, the coupling mechanism, as well as a preferably electromotive drive for rotating the coupling mechanism together with the steam delivery unit fixed therein, being preferably disposed in a housing of the lifting unit.</p>
+<p id="p-0026" num="0025">In a particularly preferred embodiment, the steam delivery unit is composed of several parts and has a lower part which has several steam probes, said lower part limiting a steam distribution chamber together with a lid part fixed thereto, the steam being distributable to the several steam probes in said steam distribution chamber. In the steam distribution chamber, preferably several steam distribution lines each run between one of the steam probes and a steam distribution section of a preferably central steam line in the steam delivery unit. The distribution lines and/or the steam distribution section are preferably made of metal.</p>
+<p id="p-0027" num="0026">Furthermore, the invention relates to a method for operating a device described in detail above. The disclosed features relating to the device are also seen as relating to the method. The method is characterized in that after the, in particular manual, unlocking of the locking means, i.e. after transferring the locking means into a release operating state or a release position, the steam delivery unit is separated from the steam feed line (and from the coupling mechanism), preferably together with an aforementioned, facultative hood for realizing a cooking chamber. In a particularly preferred additional method step, the steam delivery unit and, where applicable, the hood disposed on the steam delivery unit in a removable manner is or are cleaned, in particular after removing the hood, in particular in a dishwasher.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0028" num="0027">Further advantages, features and details of the invention can be derived from the following description of preferred exemplary embodiments and from the drawings.</p>
+<p id="p-0029" num="0028">In the following,</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a device according to the idea of the invention for preparing foods arranged in a vessel which is suitable and intended for implementing the method according to the invention,</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a perspective view of a unit of the device which can be displaced in the vertical direction by means of a lift drive and to which the steam delivery unit is fixed in a releasable manner,</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is an exploded view of a coupling mechanism comprising locking means for receiving the steam delivery unit,</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a sectional view of a lower part of the coupling mechanism,</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is an exterior perspective view of the coupling mechanism when installed,</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a view of a functional unit of the coupling mechanism comprising a locking element and a positioning element which can be displaced in a translational manner, in the present case in a vertical manner, by rotating the locking element and which serves to interact with sensor means,</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows the functional unit according to <figref idref="DRAWINGS">FIG. <b>6</b></figref> interacting with a sensor which is realized as a micro switch,</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. <b>8</b><i>a </i></figref>is a view of an actuation unit of the locking means comprising a swing lever and shows the locking element, which can be displaced by means of said locking means, in a release position,</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. <b>8</b><i>b </i></figref>shows the configuration according to <figref idref="DRAWINGS">FIG. <b>8</b><i>a </i></figref>in a locking position,</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. <b>9</b><i>a </i></figref>and <figref idref="DRAWINGS">FIG. <b>9</b><i>b </i></figref>show different operational states of the locking means with integrated synchronization means for synchronizing a gear ring of the locking element with a gearing section of the actuation unit,</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a perspective view of the steam delivery unit with a hood which is positioned on the steam delivery unit for realizing a cooking chamber with a vessel which contains the food to be heated, and</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a sectional view of a preferred embodiment of the steam delivery unit.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0042" num="0041">In the figures, the same elements and elements having the same function are referenced with the same reference numerals.</p>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0043" num="0042">In <figref idref="DRAWINGS">FIG. <b>1</b></figref>, a device <b>1</b> for preparing foods arranged in a vessel <b>2</b> is shown. Device <b>1</b> comprises a housing <b>3</b> having a steam generator unit (not shown) disposed therein and, where applicable, a steam overheating unit disposed downstream of the steam generator unit for providing steam. Depending on the specific embodiment of device <b>1</b>, the steam can be generated using water stored in a water tank of the device and/or using fresh water supplied by means of a fresh water connection. The steam generator unit is connected to a steam delivery unit <b>4</b> in a steam-conducting manner via a steam feed line (not shown) (cf. reference numeral <b>23</b> in <figref idref="DRAWINGS">FIG. <b>4</b></figref>), said steam delivery unit <b>4</b> comprising several elongated steam probes <b>5</b> each having at least one outlet opening or steam discharge opening. In the shown exemplary embodiment, a lifting unit referenced with reference numeral <b>6</b> can be displaced by means of a lift drive in a translational manner along the vertical between the opening position shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, in which a vessel can be disposed and removed from below steam delivery unit <b>4</b>, and a lower functional position, in which a hood <b>7</b> positioned on steam delivery unit <b>4</b> is positioned on vessel <b>2</b> for realizing a cooking chamber. As will be explained below, steam delivery unit <b>4</b> can be rotated in relation to hood <b>7</b> about an axis of rotation which coincides with the vertical axis of displacement of lifting unit <b>6</b>.</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows an enlarged view of lifting unit <b>6</b> to which steam delivery unit <b>4</b> is fixed in a releasable manner. Inside, lifting unit <b>6</b> comprises a coupling mechanism to be described below for receiving steam delivery unit <b>4</b>, steam delivery unit <b>4</b> being lockable or securable against removal via locking means comprising an&#x2014;in this case manual&#x2014;actuation unit <b>8</b> having a swing lever <b>9</b>.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows an exploded view of aforementioned coupling mechanism <b>10</b>. In the locked state of locking means <b>11</b>, more precisely of a locking element <b>12</b>, coupling mechanism <b>10</b> can be rotated about an axis of rotation R. For this purpose, coupling mechanism <b>10</b> comprises a drive gear ring <b>13</b>, in the present case as a part of a bearing sleeve. In the installed state, drive gear ring <b>13</b> is fixed or disposed in a non-rotatable manner at a reception <b>14</b> for an elongated connecting section (cf. reference numeral <b>38</b> in <figref idref="DRAWINGS">FIGS. <b>10</b> and <b>11</b></figref>) of steam delivery unit <b>4</b>. Together with drive gear ring <b>13</b>, reception <b>14</b> is a part of torque transmission means for transmitting a drive torque of an electromotive drive motor (not shown) in housing <b>3</b>, for example of lifting unit <b>6</b>, cf. <figref idref="DRAWINGS">FIG. <b>2</b></figref>, and steam delivery unit <b>4</b>. To this end, reception <b>14</b> engages in a radial manner into corresponding recesses in the drive section of the connecting section of steam delivery unit <b>4</b>, steam delivery unit <b>4</b> thus being rotated about axis of rotation R, preferably back and forth, when drive gear ring <b>13</b> is rotated in the circumferential direction.</p>
+<p id="p-0046" num="0045">Furthermore, coupling mechanism <b>10</b> comprises aforementioned locking element <b>12</b> for locking or securing steam delivery unit <b>4</b> in coupling mechanism <b>10</b>. As shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, for this purpose, locking element <b>12</b> is rotatable about axis of rotation R by a limited angle of, for example, 30&#xb0; in relation to drive gear ring <b>13</b>, namely between a locking position and a release position. In the locking position, locking element <b>12</b> can be rotated about axis of rotation R together with or in a coupled movement synchronously with drive gear ring <b>13</b>.</p>
+<p id="p-0047" num="0046">As will be explained below, a positioning element <b>15</b> is displaced in the axial direction in relation to a sensor <b>30</b> of sensor means via corresponding guide mechanisms when locking element <b>12</b> is being displaced between the release position and the locking position in order to sense the locking state.</p>
+<p id="p-0048" num="0047">As resulting from <figref idref="DRAWINGS">FIG. <b>3</b></figref>, locking element <b>12</b> is assigned a spring <b>16</b> (spring means) which is realized as a torsion spring in the present case, said spring <b>16</b> applying a spring force to locking element <b>12</b> in the direction of its locking position.</p>
+<p id="p-0049" num="0048">Furthermore, <figref idref="DRAWINGS">FIG. <b>3</b></figref> shows that locking element <b>12</b>, drive gear ring <b>13</b> and facultative positioning element <b>15</b> are axially received between two rolling bearings <b>17</b>, <b>18</b> which are realized as deep groove ball bearings in the present case. Rolling bearings <b>17</b>, <b>18</b> are used for the radial support of rotatable coupling mechanism <b>10</b> inside lifting unit <b>6</b>.</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. <b>3</b></figref> also shows that a centering piece <b>19</b> having an inner rotary seal <b>20</b> is axially received in the bearing sleeve comprising drive gear ring <b>13</b>, centering piece <b>19</b> being fixed by means of a lid <b>21</b> which is screwed to the bearing sleeve.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a sectional view of coupling mechanism <b>10</b>. In particular, reception <b>14</b> or drive webs <b>22</b> pointing radially inwards for the torque transmission to the introduced connecting or drive section (not shown) of steam delivery unit <b>4</b> is shown.</p>
+<p id="p-0052" num="0051">A steam feed line <b>23</b> ends in coupling mechanism <b>10</b>, said steam feed line <b>23</b> being connected to the steam generator unit in a steam-conducting manner. Said steam generator unit has a ring seal <b>24</b> on the circumference, said ring seal <b>24</b> being realized as an O-ring seal for the radial sealing in relation to a, in particular central, steam line section in the connecting section of steam delivery unit <b>4</b> which can be removed in the shown figure.</p>
+<p id="p-0053" num="0052">Locking element <b>12</b> is also shown, said locking element <b>12</b> limiting or locking or blocking a locking chamber <b>25</b> disposed above in the locking position and releasing said chamber in the release position, steam delivery unit <b>4</b> thus being axially removable.</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIGS. <b>6</b> and <b>7</b></figref> show further details for detecting or sensing a state of locking means <b>11</b>. Locking element <b>12</b> having gear ring <b>26</b> disposed on the outer circumference is shown. Furthermore, an axial through channel <b>27</b> which has four radial sections <b>28</b> disposed in a cruciform manner in the present case is shown, a connecting section of steam delivery unit <b>4</b> realized in a matching manner being passable through said radial sections <b>28</b> in the release position, namely by introducing a locking section of connecting section into locking chamber <b>25</b> according to <figref idref="DRAWINGS">FIG. <b>4</b></figref>. By rotating locking element <b>12</b>, radial sections <b>28</b> are then rotated or offset in relation to the matching sections of the connecting section or of the locking section, said section thus not being removable against the direction of installation.</p>
+<p id="p-0055" num="0054">By rotating locking element <b>12</b>, positioning element <b>15</b> is displaced axially along the axis of rotation, namely upwards or downwards via corresponding guide mechanisms <b>29</b>, depending on the direction of rotation. As shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, positioning element <b>15</b> starts to interact with a sensor <b>30</b>, which is realized as a micro switch, of the sensor means for detecting a state (locked and/or unlocked) of the locking means when positioning element <b>15</b> is axially displaced in a downward direction. Additional sensor means for detecting steam delivery unit <b>4</b> in its installation position are not shown. It is conceivable to use a pressure switch, but also other sensors such as a magnetic sensor, etc.</p>
+<p id="p-0056" num="0055">In order to displace locking element <b>12</b> from its release position (cf. <figref idref="DRAWINGS">FIG. <b>8</b><i>a</i></figref>) into a locking position shown in <figref idref="DRAWINGS">FIG. <b>8</b><i>b</i></figref>, an actuation unit <b>8</b> is provided which can be manually actuated in the present case. Actuation unit <b>8</b> comprises aforementioned swing lever <b>9</b> which can be swung between two positions, i.e. the first swing position shown in <figref idref="DRAWINGS">FIG. <b>8</b><i>a</i></figref>, in which a gearing section <b>32</b> does not engage with locking element <b>12</b> and coupling mechanism <b>10</b>, coupling mechanism <b>10</b> thus being freely rotatable about axis of rotation R. In the second position, which is shown in <figref idref="DRAWINGS">FIG. <b>8</b><i>b</i></figref>, gearing section <b>32</b> engages with the teeth of gear ring <b>26</b> of locking element <b>12</b>.</p>
+<p id="p-0057" num="0056">Gearing section <b>32</b> is realized in a resilient manner in the radial direction in a spring section <b>33</b> in order to allow for a jumping in relation to or on gear ring <b>26</b> or locking element <b>12</b> in the case of a possible tooth-to-tooth meeting at gearing section <b>32</b> and gear ring <b>26</b>.</p>
+<p id="p-0058" num="0057">In order to reduce the risk of the tooth-to-tooth meeting, device <b>1</b> comprises synchronization means <b>34</b> in the present case by means of which coupling mechanism <b>10</b> can be rotated a little in order to synchronize the gearing of gearing section <b>32</b> and the gearing of gear ring <b>26</b> before said gearings engage with one another in a meshing manner. For this purpose, synchronization means <b>34</b> can either directly interact with gear ring <b>26</b> of locking element <b>12</b> or with drive gear ring <b>13</b>, said embodiment being preferred and realized in the present case.</p>
+<p id="p-0059" num="0058">In the present case, synchronization means <b>34</b> comprise a hook-shaped synchronization element which acts as locking lever <b>35</b> and which blocks the bearing sleeve or drive gear ring <b>13</b> when swing lever <b>9</b> is actuated. Engagement is realized by means of a tooth <b>36</b> of the synchronization element, said tooth being an end section of a hook <b>37</b> which is realized in a resilient manner in the radial direction in relation to drive gear ring <b>13</b>.</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. <b>10</b></figref> partly shows a preferred embodiment of steam delivery unit <b>4</b> having steam probes <b>5</b> extending along axis of rotation R, said steam probes <b>5</b> having steam outlet openings at their ends. In a preferred embodiment, hood <b>7</b> is loosely positioned on steam delivery unit <b>4</b>, said hood <b>7</b> being axially penetrated by connecting section <b>38</b> of steam delivery unit <b>4</b>. Connecting section <b>38</b> comprises a (lower) drive section <b>47</b> for the torque-transmitting coupling with reception <b>14</b>, i.e. the torque transmission means of coupling mechanism <b>10</b> (cf. <figref idref="DRAWINGS">FIGS. <b>3</b> and <b>4</b></figref>) and a locking section <b>40</b> at one end, said locking section <b>40</b> being passable through through channel <b>27</b> in the release position of locking element <b>12</b> and being held or blocked by locking element <b>12</b> in the locking position. Locking section <b>40</b> and drive section <b>47</b> are axially spaced from one another, locking section <b>40</b> of connecting section <b>30</b> being the axial, free end of said connecting section <b>30</b>. The gap between drive section <b>47</b> and locking section <b>40</b> is formed as a slot or groove, locking element <b>12</b> engaging into said gap in order to secure the steam delivery unit against an axial removal in the locking position.</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows that hood <b>7</b> has a lateral outlet <b>41</b> for excess steam during the heating process.</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a sectional view of steam delivery unit <b>4</b>. Said steam delivery unit <b>4</b> is composed of several parts and comprises a plastic lid part <b>42</b> which is fixed to a lower part <b>43</b>, which is also made of plastic, for example by means of screwing. Lower part <b>43</b> comprises a plurality of probes <b>5</b> into which steam is introduced via steam distribution lines <b>44</b> which are disposed inside a steam distribution chamber <b>45</b> limited by lid part <b>42</b> and lower part <b>43</b>, and which connect steam probes <b>5</b> to a distribution section <b>39</b> of a central steam line <b>31</b> in connecting section <b>38</b>, said steam line <b>31</b> being connected to steam feed line <b>23</b> (cf. <figref idref="DRAWINGS">FIG. <b>4</b></figref>) in a steam-conducting manner when steam delivery unit <b>4</b> is installed in coupling mechanism <b>10</b>, said steam line <b>31</b> being rotatable in relation to steam feed line <b>23</b> (together with the other parts of steam delivery unit <b>4</b>). Steam distribution lines <b>44</b> and distribution section <b>39</b> are made of metal.</p>
+<heading id="h-0005" level="1">REFERENCE SIGNS</heading>
+<p id="p-0063" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0062"><b>1</b> device</li>
+    <li id="ul0001-0002" num="0063"><b>2</b> vessel</li>
+    <li id="ul0001-0003" num="0064"><b>3</b> housing</li>
+    <li id="ul0001-0004" num="0065"><b>4</b> steam delivery unit</li>
+    <li id="ul0001-0005" num="0066"><b>5</b> steam probe(s)</li>
+    <li id="ul0001-0006" num="0067"><b>6</b> lifting unit</li>
+    <li id="ul0001-0007" num="0068"><b>7</b> hood</li>
+    <li id="ul0001-0008" num="0069"><b>8</b> actuation unit</li>
+    <li id="ul0001-0009" num="0070"><b>9</b> swing lever of the actuation unit</li>
+    <li id="ul0001-0010" num="0071"><b>10</b> coupling mechanism</li>
+    <li id="ul0001-0011" num="0072"><b>11</b> locking means</li>
+    <li id="ul0001-0012" num="0073"><b>12</b> locking element</li>
+    <li id="ul0001-0013" num="0074"><b>13</b> drive gear ring</li>
+    <li id="ul0001-0014" num="0075"><b>14</b> reception</li>
+    <li id="ul0001-0015" num="0076"><b>15</b> positioning element</li>
+    <li id="ul0001-0016" num="0077"><b>16</b> spring</li>
+    <li id="ul0001-0017" num="0078"><b>17</b> rolling bearing</li>
+    <li id="ul0001-0018" num="0079"><b>18</b> rolling bearing</li>
+    <li id="ul0001-0019" num="0080"><b>19</b> centering piece</li>
+    <li id="ul0001-0020" num="0081"><b>20</b> rotary seal</li>
+    <li id="ul0001-0021" num="0082"><b>21</b> lid</li>
+    <li id="ul0001-0022" num="0083"><b>22</b> drive webs</li>
+    <li id="ul0001-0023" num="0084"><b>23</b> steam feed line</li>
+    <li id="ul0001-0024" num="0085"><b>24</b> ring seal</li>
+    <li id="ul0001-0025" num="0086"><b>25</b> locking chamber</li>
+    <li id="ul0001-0026" num="0087"><b>26</b> gear ring</li>
+    <li id="ul0001-0027" num="0088"><b>27</b> through channel</li>
+    <li id="ul0001-0028" num="0089"><b>28</b> radial sections</li>
+    <li id="ul0001-0029" num="0090"><b>29</b> guide mechanism</li>
+    <li id="ul0001-0030" num="0091"><b>30</b> sensor</li>
+    <li id="ul0001-0031" num="0092"><b>31</b> steam line</li>
+    <li id="ul0001-0032" num="0093"><b>32</b> gearing section</li>
+    <li id="ul0001-0033" num="0094"><b>33</b> spring section</li>
+    <li id="ul0001-0034" num="0095"><b>34</b> synchronization means</li>
+    <li id="ul0001-0035" num="0096"><b>35</b> locking lever</li>
+    <li id="ul0001-0036" num="0097"><b>36</b> tooth</li>
+    <li id="ul0001-0037" num="0098"><b>37</b> hook</li>
+    <li id="ul0001-0038" num="0099"><b>38</b> connecting section</li>
+    <li id="ul0001-0039" num="0100"><b>39</b> distribution section</li>
+    <li id="ul0001-0040" num="0101"><b>40</b> locking section</li>
+    <li id="ul0001-0041" num="0102"><b>41</b> outlet</li>
+    <li id="ul0001-0042" num="0103"><b>42</b> lid part</li>
+    <li id="ul0001-0043" num="0104"><b>43</b> lower part</li>
+    <li id="ul0001-0044" num="0105"><b>44</b> steam distribution lines</li>
+    <li id="ul0001-0045" num="0106"><b>45</b> steam distribution chamber</li>
+    <li id="ul0001-0046" num="0107"><b>47</b> drive section</li>
+    <li id="ul0001-0047" num="0108">R axis of rotation</li>
+</ul>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-01-15" num="01-15">
+<claim-text><b>1</b>-<b>15</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. A device for preparing foods received in a vessel (<b>2</b>), said device comprising:
+<claim-text>a steam generator unit for generating steam, and</claim-text>
+<claim-text>a steam delivery unit (<b>4</b>) which is connected to the steam generator unit in a steam-conducting manner via a steam feed line (<b>23</b>) and which has a steam probe (<b>5</b>) having at least one steam discharge opening, wherein the device (<b>1</b>) has a coupling mechanism (<b>10</b>) which comprises locking means and which connects the steam delivery unit (<b>4</b>) to the steam feed line (<b>23</b>) in a releasable manner.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The device according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein at least a section of the steam delivery unit (<b>4</b>) comprising the steam probe (<b>5</b>) is rotatable back and forth about an axis of rotation (R) and wherein the coupling mechanism (<b>10</b>) has torque transmission means for transmitting a drive torque to the steam delivery unit (<b>4</b>) when said steam delivery unit is connected to the steam feed line (<b>23</b>) in a steam-conducting manner.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The device according to <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the entire steam delivery unit (<b>4</b>) is rotatable.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The device according to <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein a hood for realizing a cooking chamber together with the vessel (<b>2</b>) is disposed on the steam delivery unit (<b>4</b>), said hood being penetrated along the axis of rotation (R) by a connecting section (<b>38</b>) of the steam delivery unit (<b>4</b>) which can be connected to the coupling mechanism (<b>10</b>) and said hood being removable together with the steam delivery unit (<b>4</b>) after unlocking the locking means (<b>11</b>).</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The device according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the locking means (<b>11</b>) are realized for automatic locking of the steam delivery unit (<b>4</b>) by transferring the steam delivery unit (<b>4</b>) into a fixing position.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The device according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the automatic locking comprises axial securing.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The device according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the locking means (<b>11</b>) comprise a locking element (<b>12</b>) which can be displaced by rotating between a locking position and a release position, and wherein the locking element (<b>12</b>) can be displaced between its locking position and its release position by manual or automatic displacement of an actuation unit (<b>8</b>).</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The device according to <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the actuation unit (<b>8</b>) comprises a swing lever (<b>9</b>).</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The device according to <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the actuation unit (<b>8</b>) can be coupled with the locking element (<b>12</b>) in a releasable and force-transmitting manner and wherein the actuation unit (<b>8</b>) is decoupled from the locking element (<b>12</b>) in the locking position, the locking element (<b>12</b>) thus being rotatable together with the steam delivery unit (<b>4</b>).</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The device according to <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein the actuation unit (<b>8</b>) has a gearing section (<b>32</b>) for meshing with a gear ring (<b>26</b>) of the locking element (<b>12</b>), said gearing section being realized and/or disposed in a resilient manner.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The device according to <claim-ref idref="CLM-00025">claim 25</claim-ref>, wherein synchronization means (<b>34</b>) for synchronizing a gearing of the gearing section (<b>32</b>) and a gearing of the gear ring (<b>26</b>) by displacing the actuation unit (<b>8</b>), are assigned to the gearing section (<b>32</b>).</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. The device according to <claim-ref idref="CLM-00025">claim 25</claim-ref>, wherein the synchronization means (<b>34</b>) have a hook-shaped synchronization element realized and/or disposed in a resilient manner, said synchronization element having at least one synchronization tooth for meshing with the gear ring (<b>26</b>) of the locking element (<b>12</b>) or with a facultative drive gear ring (<b>13</b>) for rotating driving of the steam delivery unit (<b>4</b>), said drive gear ring being disposed in a non-rotatable manner in relation to the gear ring (<b>26</b>), and wherein the synchronization tooth is offset in relation to the teeth (<b>36</b>) of the gearing section (<b>32</b>) by a distance which is not evenly divisible by a tooth extension of a tooth (<b>36</b>) of the gearing of the gearing section (<b>32</b>).</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. The device according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein sensor means for monitoring a state of the locking means (<b>11</b>) and/or the presence of the steam delivery unit (<b>4</b>) are provided in an installation position which is connected to the steam feed line (<b>23</b>).</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. The device according to <claim-ref idref="CLM-00028">claim 28</claim-ref>, wherein a slot-guided positioning element (<b>15</b>) is assigned to the sensor means, said positioning element being displaceable by actuating the locking means (<b>11</b>) by rotating the locking element (<b>12</b>), in relation, axially, to a sensor of the sensor means for actuating a switch of the sensor means.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. The device according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, further comprising a relative movement drive for causing a translational relative movement between the steam delivery unit (<b>4</b>) and the vessel (<b>2</b>) by displacing the steam delivery unit (<b>4</b>) in relation to the fixed vessel (<b>2</b>).</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text><b>31</b>. The device according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the steam delivery unit (<b>4</b>) has a lower part (<b>43</b>) having several steam probes (<b>5</b>), said lower part limiting a steam distribution chamber (<b>45</b>) together with a lid part (<b>42</b>) fixed thereto, the steam being distributable to the several steam probes (<b>5</b>) in said steam distribution chamber.</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text><b>32</b>. A method for operating a device (<b>1</b>) according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein, after the unlocking of the locking means (<b>11</b>), the steam delivery unit (<b>4</b>) is separated from the steam feed line (<b>23</b>) and is cleaned afterwards in a dishwasher.</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text><b>33</b>. The method according to <claim-ref idref="CLM-00032">claim 32</claim-ref>, wherein the steam delivery unit (<b>4</b>) is removed from the steam feed line (<b>23</b>) together with the hood (<b>7</b>), said hood sitting loosely on said steam delivery unit.</claim-text>
+</claim>
+<claim id="CLM-00034" num="00034">
+<claim-text><b>34</b>. The method according to <claim-ref idref="CLM-00032">claim 32</claim-ref>, wherein the foods are ready meals.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

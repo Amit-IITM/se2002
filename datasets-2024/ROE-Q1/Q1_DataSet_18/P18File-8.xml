@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225397A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225397</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17928790</doc-number>
+<date>20211112</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>KR</country>
+<doc-number>10-2021-0038506</doc-number>
+<date>20210325</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>40</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>57</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>40</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>57</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>002</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">AEROSOL-GENERATING ARTICLE WITH IMPROVED COOLING PERFORMANCE AND FLAVOR PERSISTENCE AND METHOD OF PRODUCING THE SAME</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>KT&#x26;G CORPORATION</orgname>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+<residence>
+<country>KR</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>HWANG</last-name>
+<first-name>Min Hee</first-name>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>AHN</last-name>
+<first-name>Ki Jin</first-name>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>KIM</last-name>
+<first-name>Ick Joong</first-name>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>LEE</last-name>
+<first-name>Geon Chang</first-name>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>JUNG</last-name>
+<first-name>Kyung Bin</first-name>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>JEOUNG</last-name>
+<first-name>Eun Mi</first-name>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>KT&#x26;G CORPORATION</orgname>
+<role>03</role>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/KR2021/016509</doc-number>
+<date>20211112</date>
+</document-id>
+<us-371c12-date><date>20221130</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An aerosol-generating article with improved cooling performance and flavor persistence and a method of producing the same are provided. The aerosol-generating article according to some embodiments of the present disclosure may include an aerosol-forming substrate part and a cooling part disposed downstream of the aerosol-forming substrate part configured to cool an aerosol formed in the aerosol-forming substrate part, and a sheet-type material may be disposed in a rolled or folded form in the cooling part. Here, the sheet-type material is a material including a flavoring and may serve as a cooling material as well as a flavor expressing material to improve flavor persistence and cooling performance of the aerosol-generating article.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="58.76mm" wi="124.46mm" file="US20230225397A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="195.16mm" wi="97.87mm" file="US20230225397A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="200.32mm" wi="138.01mm" file="US20230225397A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="177.80mm" wi="106.43mm" file="US20230225397A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="163.41mm" wi="103.46mm" file="US20230225397A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="159.17mm" wi="127.59mm" file="US20230225397A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="70.10mm" wi="139.36mm" file="US20230225397A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present disclosure relates to an aerosol-generating article with improved cooling performance and flavor persistence and a method of producing the same, and more particularly, to an aerosol-generating article which includes a cooling part and is capable of simultaneously improving aerosol cooling performance of the cooling part and improving flavor persistence of the article, thus ensuring high smoking satisfaction, and a method of producing the article.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">In recent years, demand for alternative articles that overcome the disadvantages of traditional cigarettes has increased. For example, demand for heating-type cigarettes that generate an aerosol when electrically heated by a dedicated device has increased.</p>
+<p id="p-0004" num="0003">The two factors that greatly influence the smoking satisfaction of the heating-type cigarettes are aerosol cooling performance and flavor persistence.</p>
+<p id="p-0005" num="0004">Generally, a heating-type cigarette includes a cooling part to allow a user to inhale an aerosol having an appropriate temperature, and in a case in which the performance of the cooling part is degraded, a high-temperature aerosol may be discharged as it is and smoking satisfaction of the user may be decreased.</p>
+<p id="p-0006" num="0005">Also, generally, a process of flavoring a heating-type cigarette is performed by directly adding (e.g., spraying) a flavoring liquid to a tobacco material or filter plug. However, such a flavoring method has a problem in that, since most of the flavor is expressed at an early stage of smoking, the flavor rapidly weakens toward the end of smoking, and thus the smoking satisfaction of the user may be decreased. Further, if a flavoring liquid is added in an excessive amount, a wrapper wrapping around the tobacco material or filter plug may become wet and contaminated.</p>
+<heading id="h-0003" level="1">DISCLOSURE</heading>
+<heading id="h-0004" level="1">Technical Problem</heading>
+<p id="p-0007" num="0006">Some embodiments of the present disclosure are directed to providing an aerosol-generating article with improved cooling performance and flavor persistence and a method of producing the same.</p>
+<p id="p-0008" num="0007">Objectives of the present disclosure are not limited to the above-mentioned objectives, and other unmentioned objectives should be clearly understood by those of ordinary skill in the art to which the present disclosure pertains from the description below.</p>
+<heading id="h-0005" level="1">Technical Solution</heading>
+<p id="p-0009" num="0008">Some embodiments of the present disclosure provide an aerosol-generating article including an aerosol-forming substrate part and a cooling part disposed downstream of the aerosol-forming substrate part to cool an aerosol formed in the aerosol-forming substrate part, wherein a sheet-type material may be disposed in a rolled or folded form in the cooling part. Here, the sheet-type material may include a polysaccharide material and a flavoring.</p>
+<p id="p-0010" num="0009">In some embodiments, the sheet-type material may be pleated or folded in a longitudinal direction.</p>
+<p id="p-0011" num="0010">In some embodiments, a plurality of holes may be formed in the sheet-type material.</p>
+<p id="p-0012" num="0011">In some embodiments, resistance to draw of the cooling part may be in a range of 0.1 mmH<sub>2</sub>O/mm to 3.5 mmH<sub>2</sub>O/mm.</p>
+<p id="p-0013" num="0012">In some embodiments, the sheet-type material may include, with respect to a total of 100 parts by weight, 20 to 60 parts by weight of the polysaccharide material and 20 to 50 parts by weight of the flavoring.</p>
+<p id="p-0014" num="0013">In some embodiments, the sheet-type material may further include 1 to 10 parts by weight of a plasticizer.</p>
+<p id="p-0015" num="0014">In some embodiments, a thickness of the sheet-type material may be 150 &#x3bc;m or less.</p>
+<p id="p-0016" num="0015">In some embodiments, a melting point of the flavoring may be 80&#xb0; C. or lower.</p>
+<heading id="h-0006" level="1">Advantageous Effects</heading>
+<p id="p-0017" num="0016">According to some embodiments of the present disclosure, a sheet-type material including a polysaccharide material and a flavoring can be disposed in (applied to) a cooling part of an aerosol-generating article. When the sheet-type material comes into contact with a high-temperature air flow, the polysaccharide material may undergo a phase change and absorb a large amount of heat, and simultaneously, the flavoring covered by the polysaccharide material may be slowly discharged. Accordingly, cooling performance and flavor persistence of the aerosol-generating article can be improved, and smoking satisfaction of a user can be significantly improved.</p>
+<p id="p-0018" num="0017">Also, the sheet-type material may be disposed in a rolled or folded form in the cooling part. In this case, a smooth airflow can be ensured in a longitudinal direction, and an area coming into contact with the airflow is increased, thus further improving performance of the cooling part.</p>
+<p id="p-0019" num="0018">Also, pleats may be formed in the longitudinal direction in the sheet-type material. In this case, a smooth airflow can be ensured in the longitudinal direction, and an area coming into contact with the airflow is increased, thus further improving the performance of the cooling part. Further, due to the pleats formed, processes such as rolling and folding can be easily performed.</p>
+<p id="p-0020" num="0019">Also, a plurality of holes may be formed in the sheet-type material. In this case, a smooth airflow can be ensured through the holes formed, and an area coming into contact with the airflow is increased, thus further improving the performance of the cooling part.</p>
+<p id="p-0021" num="0020">Also, a flavoring whose melting point is 80&#xb0; C. or lower may be included in the sheet-type material. In this case, when the sheet-type material comes into contact with an airflow having a temperature of 80&#xb0; C. or higher, the flavoring may undergo a phase change and further absorb the heat. Thus, the performance of the cooling part can be further improved. Considering the fact that an aerosol heating temperature of typical heating-type cigarette products is 80&#xb0; C. or higher, the use of the flavoring described above can effectively improve aerosol cooling performance of most aerosol-generating articles. Further, since the phase-changed flavoring is easily volatilized, the flavor expressing property of the aerosol-generating article can also be improved.</p>
+<p id="p-0022" num="0021">In addition, as the performance of the cooling part is improved, the cooling part may be designed to have a shorter length as compared to conventional cooling parts, and accordingly, the degree of design freedom of the aerosol-generating article can be improved.</p>
+<p id="p-0023" num="0022">The advantageous effects according to the technical spirit of the present disclosure are not limited to those mentioned above, and other unmentioned advantageous effects should be clearly understood by those of ordinary skill in the art from the description below.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0007" level="1">DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is an exemplary view schematically illustrating an aerosol-generating article according to some embodiments of the present disclosure.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref> are exemplary views for describing processed forms of a sheet-type material according to some embodiments of the present disclosure.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is an exemplary view for describing methods of applying the sheet-type material according to some embodiments of the present disclosure.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is an exemplary view illustrating an aerosol-generating article according to a first modification of the present disclosure.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is an exemplary view illustrating an aerosol-generating article according to a second modification of the present disclosure.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is an exemplary view illustrating an aerosol-generating article according to a third modification of the present disclosure.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is an exemplary view illustrating an aerosol-generating article according to a fourth modification of the present disclosure.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIGS. <b>9</b> to <b>11</b></figref> illustrate various types of aerosol generation devices to which an aerosol-generating article according to some embodiments of the present disclosure is applicable.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0008" level="1">MODES OF THE INVENTION</heading>
+<p id="p-0032" num="0031">Hereinafter, exemplary embodiments of the present disclosure will be described in detail with reference to the accompanying drawings. Advantages and features of the present disclosure and methods of achieving the same should become clear from embodiments described in detail below with reference to the accompanying drawings. However, the technical spirit of the present disclosure is not limited to the following embodiments and may be implemented in various different forms. The following embodiments only make the technical spirit of the present disclosure complete and are provided to completely inform those of ordinary skill in the art to which the present disclosure pertains of the scope of the disclosure. The technical spirit of the present disclosure is defined only by the scope of the claims.</p>
+<p id="p-0033" num="0032">In assigning reference numerals to components of each drawing, it should be noted that the same reference numerals are assigned to the same components where possible even when the components are illustrated in different drawings. Also, in describing the present disclosure, when detailed description of a known related configuration or function is deemed as having the possibility of obscuring the gist of the present disclosure, the detailed description thereof will be omitted.</p>
+<p id="p-0034" num="0033">Unless otherwise defined, all terms including technical or scientific terms used in this specification have the same meaning as commonly understood by those of ordinary skill in the art to which the present disclosure pertains. Terms defined in commonly used dictionaries should not be construed in an idealized or overly formal sense unless expressly so defined herein. Terms used in this specification are for describing the embodiments and are not intended to limit the present disclosure. In this specification, a singular expression includes a plural expression unless the context clearly indicates otherwise.</p>
+<p id="p-0035" num="0034">Also, in describing components of the present disclosure, terms such as first, second, A, B, (a), and (b) may be used. Such terms are only used for distinguishing one component from another component, and the essence, order, sequence, or the like of the corresponding component is not limited by the terms. In a case in which a certain component is described as being &#x201c;connected,&#x201d; &#x201c;coupled,&#x201d; or &#x201c;linked&#x201d; to another component, it should be understood that, although the component may be directly connected or linked to the other component, still another component may also be &#x201c;connected,&#x201d; &#x201c;coupled,&#x201d; or &#x201c;linked&#x201d; between the two components.</p>
+<p id="p-0036" num="0035">The terms &#x201c;comprises&#x201d; and/or &#x201c;comprising&#x201d; used herein do not preclude the possibility of presence or addition of one or more components, steps, operations, and/or devices other than those mentioned.</p>
+<p id="p-0037" num="0036">Prior to the description of various embodiments of the present disclosure, some terms used in the following embodiments will be clarified.</p>
+<p id="p-0038" num="0037">In the following embodiments, &#x201c;aerosol-forming substrate&#x201d; may refer to a material that is able to form an aerosol. The aerosol may include a volatile compound. The aerosol-forming substrate may be a solid or liquid.</p>
+<p id="p-0039" num="0038">For example, solid aerosol-forming substrates may include solid materials based on tobacco raw materials such as reconstituted tobacco leaves, shredded tobacco, and reconstituted tobacco, and liquid aerosol-forming substrates may include liquid compositions based on nicotine, tobacco extracts, and/or various flavoring agents. However, the scope of the present disclosure is not limited to the above-listed examples.</p>
+<p id="p-0040" num="0039">In the following embodiments, the term &#x201c;aerosol generation device&#x201d; may refer to a device that generates an aerosol using an aerosol-forming substrate in order to generate an aerosol that can be inhaled directly into the user's lungs through the user's mouth. Some examples of the aerosol generation device will be described below with reference to <figref idref="DRAWINGS">FIGS. <b>9</b> to <b>11</b></figref>.</p>
+<p id="p-0041" num="0040">In the following embodiments, the term &#x201c;aerosol-generating article&#x201d; may refer to an article that is able to generate an aerosol. The aerosol-generating article may include an aerosol-forming substrate. A typical example of the aerosol-generating article may include a cigarette, but the scope of the present disclosure is not limited thereto.</p>
+<p id="p-0042" num="0041">In the following embodiments, the term &#x201c;puff&#x201d; refers to inhalation by a user, and the inhalation may be a situation in which a user draws smoke into his or her oral cavity, nasal cavity, or lungs through the mouth or nose.</p>
+<p id="p-0043" num="0042">In the following embodiments, the term &#x201c;longitudinal direction&#x201d; may refer to a direction corresponding to a longitudinal axis of an aerosol-generating article.</p>
+<p id="p-0044" num="0043">In the following embodiments, the term &#x201c;sheet&#x201d; may refer to a thin layer component whose width and length are substantially larger than a thickness thereof. The term &#x201c;sheet&#x201d; may be interchangeably used with the term &#x201c;web&#x201d; or &#x201c;film&#x201d; in the art.</p>
+<p id="p-0045" num="0044">Hereinafter, various embodiments of the present disclosure will be described.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is an exemplary view schematically illustrating an aerosol-generating article <b>100</b> according to some embodiments of the present disclosure.</p>
+<p id="p-0047" num="0046">As illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the aerosol-generating article <b>100</b> may include an aerosol-forming substrate part <b>110</b>, a cooling part <b>120</b>, a filter part <b>130</b>, and a wrapper <b>140</b>. However, only the components relating to the embodiment of the present disclosure are illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>. Therefore, those of ordinary skill in the art to which the present disclosure pertains should understand that the aerosol-generating article <b>100</b> may further include general-purpose components other than the components illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>. Also, <figref idref="DRAWINGS">FIG. <b>1</b></figref> only schematically illustrates some examples of aerosol-generating articles according to various embodiments of the present disclosure, and a specific structure of the aerosol-generating article may be changed from that illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>. <figref idref="DRAWINGS">FIGS. <b>5</b> to <b>8</b></figref> may be referenced for examples of aerosol-generating articles having different structures. Hereinafter, each component of the aerosol-generating article <b>100</b> will be described.</p>
+<p id="p-0048" num="0047">The aerosol-forming substrate part <b>110</b> may serve to form an aerosol. Specifically, the aerosol-forming substrate part <b>110</b> may include an aerosol-forming substrate and may form an aerosol using the aerosol-forming substrate. For example, the aerosol-forming substrate part <b>110</b> may form an aerosol when heated by an aerosol generation device (e.g., <b>1000</b> of <figref idref="DRAWINGS">FIG. <b>9</b></figref>). The formed aerosol may be delivered to the oral region of a user via the cooling part <b>120</b> and the filter part <b>130</b> by a puff.</p>
+<p id="p-0049" num="0048">As illustrated, the aerosol-forming substrate part <b>110</b> may be disposed upstream of the cooling part <b>120</b> and abut an upstream end of the cooling part <b>120</b>. The aerosol-forming substrate part <b>110</b> may further include the wrapper <b>140</b> that wraps around the aerosol-forming substrate.</p>
+<p id="p-0050" num="0049">The aerosol-forming substrate part <b>110</b> is produced in the form of a rod and thus may also be referred to as &#x201c;aerosol-forming rod <b>110</b>&#x201d; or &#x201c;tobacco rod <b>110</b>&#x201d; in some cases. Alternatively, the aerosol-forming substrate part <b>110</b> may also be referred to as &#x201c;medium portion <b>110</b>&#x201d; in some cases.</p>
+<p id="p-0051" num="0050">Next, the cooling part <b>120</b> may serve to cool the aerosol formed in the aerosol-forming substrate part <b>110</b>. The cooling part <b>120</b> may allow an aerosol having an appropriate temperature to be delivered to the user, thus improving smoking satisfaction of the user. The cooling part <b>120</b> may further include the wrapper <b>140</b> that wraps around a cooling structure.</p>
+<p id="p-0052" num="0051">According to various embodiments of the present disclosure, as illustrated, a sheet-type material <b>10</b> may be disposed in (applied to) the cooling part <b>120</b>. Here, the sheet-type material <b>10</b> is a material in the form of a sheet that contains a polysaccharide material and a flavoring. By using the property of the polysaccharide material absorbing a large amount of heat during the phase change, the sheet-type material <b>10</b> may improve performance of the cooling part <b>120</b>. Further, since the flavoring covered by the polysaccharide material is slowly expressed according to the phase change of the polysaccharide material, flavor persistence of the aerosol-generating article <b>100</b> may also be improved. That is, the sheet-type material <b>10</b> may serve as a cooling material as well as a flavor expressing material in the cooling part <b>120</b>. Materials constituting the sheet-type material <b>10</b> and a method of producing the same will be described in detail below. Hereinafter, for convenience of description, the sheet-type material <b>10</b> will be referred to as &#x201c;flavoring sheet <b>10</b>.&#x201d; However, in some cases, the sheet-type material <b>10</b> may also be referred to as &#x201c;cooling sheet <b>10</b>.&#x201d;</p>
+<p id="p-0053" num="0052">Specific processed forms of the flavoring sheet <b>10</b> may vary according to embodiments.</p>
+<p id="p-0054" num="0053">In some embodiments, as illustrated in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the flavoring sheet <b>10</b> may be processed to be pleated or folded in a longitudinal direction (that is, the MD direction) of the aerosol-generating article <b>100</b>. For example, the flavoring sheet <b>10</b> may be pleated or folded according to at least one of a crimping process, a pleating process, a folding process, and a gathering process. Specifically, the crimping process is a process in which crepe is formed on a sheet surface through a difference between pressure and speed of a roller of a crimping device, and the crimping process may be divided into a wet process and a dry process. The wet process refers to a process in which base paper is soaked in water and then softened and crimped and undergoes a re-drying process. The dry process refers to a drying process using two dryers with different temperatures. Since the pleating process, folding process, and gathering process should already be familiar to those of ordinary skill in the art, further descriptions thereof will be omitted. According to the present embodiment, a plurality of channels may be formed in the flavoring sheet <b>10</b> in a longitudinal direction thereof by at least one of the processes described above, and a smooth airflow and appropriate resistance to draw may be ensured by the formed channels. Further, an area of contact between the flavoring sheet <b>10</b> and a high-temperature air flow is increased, and thus cooling performance may be improved.</p>
+<p id="p-0055" num="0054">In some embodiments, as illustrated in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the flavoring sheet <b>10</b> may be processed so that a plurality of holes <b>101</b> are formed therein. For example, the plurality of holes <b>101</b> may be formed in the flavoring sheet <b>10</b> by a punching process. Here, a diameter of the hole <b>101</b> may be in a range of about 0.05 mm to 5 mm, preferably, about 0.1 mm to 3 mm, about 0.2 mm to 2.5 mm, about 0.3 mm to 2.1 mm, or about 0.4 mm toe 1.8 mm. Within such numerical ranges, a smooth airflow and appropriate resistance to draw may be ensured. Further, an area of contact between the flavoring sheet <b>10</b> and a high-temperature air flow is increased, and thus cooling performance may be improved.</p>
+<p id="p-0056" num="0055">In some embodiments, the flavoring sheet <b>10</b> may be processed on the basis of a combination of the previous embodiments.</p>
+<p id="p-0057" num="0056">Meanwhile, a specific method of applying the flavoring sheet <b>10</b> may also vary according to embodiments, and some examples of the applying method are illustrated in <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0058" num="0057">For example, as illustrated in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the flavoring sheet <b>10</b> may be rolled or folded in irregular patterns and applied to the cooling part <b>120</b> (see &#x201c;10-1&#x201d;). As another example, the flavoring sheet <b>10</b> may be rolled in a vortex form (see &#x201c;10-2&#x201d;) or a concentric form (see &#x201c;10-3&#x201d;) and applied to the cooling part <b>120</b>. As still another example, the flavoring sheet <b>10</b> may have a form of being folded several times (e.g., a form of being folded to secure an airflow path in the longitudinal direction) and be applied to the cooling part <b>120</b> (see &#x201c;10-4&#x201d;). When the flavoring sheet <b>10</b> having the above-listed forms is applied to the cooling part <b>120</b>, an airflow path may be secured in the longitudinal direction, and thus a smooth airflow and appropriate resistance to draw may be ensured. Also, an area of contact between the flavoring sheet <b>10</b> and a high-temperature air flow is increased, and thus cooling performance may be improved.</p>
+<p id="p-0059" num="0058">For reference, the flavoring sheet <b>10</b> illustrated in <figref idref="DRAWINGS">FIG. <b>4</b></figref> may be a sheet processed according to the previous embodiments (see <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref>). In a case in which the flavoring sheet <b>10</b> of <figref idref="DRAWINGS">FIG. <b>4</b></figref> is a sheet that is pleated or folded as illustrated in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the rolling or folding process may be easily performed, and thus workability may be improved. Also, in a case in which the flavoring sheet <b>10</b> of <figref idref="DRAWINGS">FIG. <b>4</b></figref> is a sheet in which the plurality of holes <b>101</b> are formed as illustrated in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, an area of contact with an airflow may be maximized, and thus cooling performance may be further improved.</p>
+<p id="p-0060" num="0059">The resistance to draw of the cooling part <b>120</b> may vary according to embodiments. The cooling part <b>120</b> may be implemented in various forms such as a form in which the flavoring sheet <b>10</b> is filled (disposed) in a cavity or a form in which the flavoring sheet <b>10</b> is filled (disposed) inside a hollow (that is, tubular) structure (e.g., a paper tube, a tubular cellulose acetate filter).</p>
+<p id="p-0061" num="0060">In some embodiments, the resistance to draw of the cooling part <b>120</b> may be in a range of about 0.05 mmH<sub>2</sub>O/mm to 7.0 mmH<sub>2</sub>O/mm, preferably, about 0.1 mmH<sub>2</sub>O/mm to 5.0 mmH<sub>2</sub>O/mm, about 0.1 mmH<sub>2</sub>O/mm to 3.5 mmH<sub>2</sub>O/mm, about 0.5 mmH<sub>2</sub>O/mm to 3.0 mmH<sub>2</sub>O/mm, or about 1.0 mmH<sub>2</sub>O/mm to 2.0 mmH<sub>2</sub>O/mm.</p>
+<p id="p-0062" num="0061">The length, thickness, and/or circumference of the cooling part <b>120</b> may vary according to embodiments. For example, the length of the cooling part <b>120</b> may be about 5 mm or larger, and the circumference of the cooling part <b>120</b> may be in a range of about 14 mm to 25 mm. However, the length and circumference of the cooling part <b>120</b> are not limited thereto.</p>
+<p id="p-0063" num="0062">Next, the filter part <b>130</b> may perform a function of filtering an aerosol. To this end, the filter part <b>130</b> may include a filter material. Examples of the filter material may include a cellulose acetate fiber, paper, etc., but the scope of the present disclosure is not limited thereto.</p>
+<p id="p-0064" num="0063">The filter part <b>130</b> may be disposed downstream of the cooling part <b>120</b> and abut a downstream end of the cooling part <b>120</b>. Also, the filter part <b>130</b> may be disposed at a downstream end portion of the aerosol-generating article <b>100</b> and serve as a mouthpiece that comes into contact with the oral region of the user. The filter part <b>130</b> may further include the wrapper <b>140</b> that wraps around a filter material (plug).</p>
+<p id="p-0065" num="0064">Since the filter part <b>130</b> is also provided in the form of a rod, the filter part <b>130</b> may be referred to as &#x201c;filter rod <b>130</b>&#x201d; in some cases and may be produced in various shapes such as a cylindrical shape, a tubular shape including a hollow therein (e.g., a tubular cellulose acetate filter), and a recessed shape. Alternatively, since the filter part <b>130</b> serves as a mouthpiece, the filter part <b>130</b> may also be referred to as &#x201c;mouthpiece part <b>130</b>.&#x201d;</p>
+<p id="p-0066" num="0065">Next, the wrapper <b>140</b> may refer to a wrapper that wraps around at least a portion of the aerosol-forming substrate part <b>110</b>, the cooling part <b>120</b>, and/or the filter part <b>130</b>. The wrapper <b>140</b> may refer to a separate wrapper of the aerosol-forming substrate part <b>110</b>, the cooling part <b>120</b>, or the filter part <b>130</b> or may refer to a wrapper, such as a tipping wrapper, that wraps around at least a portion of the aerosol-forming substrate part <b>110</b> and at least a portion of the filter part <b>130</b> together. The wrapper <b>140</b> may also collectively refer to all wrappers used in the aerosol-generating article <b>100</b>. The wrapper <b>140</b> may be made of porous or nonporous paper, but the scope of the present disclosure is not limited thereto. For example, the wrapper <b>140</b> may be made of a metal foil or have a form in which paper and a metal foil are laminated with each other.</p>
+<p id="p-0067" num="0066">Meanwhile, although not illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the aerosol-generating article <b>100</b> may further include a plug (not illustrated) disposed at an end. For example, the plug may be disposed at an upstream end of the aerosol-generating article <b>100</b> and serve to suitably control the overall length of the aerosol-generating article <b>100</b>. Also, in a case in which the aerosol-generating article <b>100</b> is inserted into an aerosol generation device (e.g., <b>1000</b> of <figref idref="DRAWINGS">FIG. <b>9</b></figref>), the plug may also serve to perform control so that the aerosol-forming substrate part <b>110</b> is disposed at a suitable position inside the aerosol generation device (e.g., <b>1000</b> of <figref idref="DRAWINGS">FIG. <b>9</b></figref>).</p>
+<p id="p-0068" num="0067">Overall description of the aerosol-generating article <b>100</b> according to some embodiments of the present disclosure has been given above with reference to <figref idref="DRAWINGS">FIGS. <b>1</b> to <b>4</b></figref>. According to the above description, the flavoring sheet <b>10</b> including a polysaccharide material and a flavoring may be disposed in (applied to) the cooling part <b>120</b> of the aerosol-generating article <b>100</b>. When the flavoring sheet <b>10</b> comes into contact with a high-temperature airflow, the polysaccharide material may undergo a phase change and absorb a large amount of heat, and simultaneously, the flavoring covered by the polysaccharide material may be slowly discharged. Accordingly, the cooling performance and flavor persistence of the aerosol-generating article <b>100</b> may be improved, and smoking satisfaction of the user may be significantly improved.</p>
+<p id="p-0069" num="0068">Hereinafter, various modifications of the above-described aerosol-generating article <b>100</b> will be introduced with reference to <figref idref="DRAWINGS">FIGS. <b>5</b> to <b>9</b></figref>. However, for clarity of the present disclosure, description of contents overlapping with the previous embodiments will be omitted.</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is an exemplary view illustrating an aerosol-generating article <b>200</b> according to a first modification of the present disclosure. In particular, <figref idref="DRAWINGS">FIGS. <b>5</b> to <b>7</b></figref> illustrate an example in which the flavoring sheet <b>10</b> is disposed in a rolled form in a cooling part (e.g., <b>220</b>). Also, in <figref idref="DRAWINGS">FIG. <b>5</b></figref> and so on, illustration of a wrapper (e.g., <b>140</b>) has been omitted for convenience.</p>
+<p id="p-0071" num="0070">As illustrated in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, the aerosol-generating article <b>200</b> may include an aerosol-forming substrate part <b>210</b>, the cooling part <b>220</b>, a first filter part <b>230</b>, and a second filter part <b>240</b>.</p>
+<p id="p-0072" num="0071">The aerosol-forming substrate part <b>210</b> and the cooling part <b>220</b> may correspond to the aerosol-forming substrate part <b>110</b> and the cooling part <b>120</b>, respectively, of <figref idref="DRAWINGS">FIG. <b>1</b></figref>. Thus, descriptions thereof will be omitted.</p>
+<p id="p-0073" num="0072">The first filter part <b>230</b> may be disposed downstream of the cooling part <b>220</b> and abut a downstream end of the cooling part <b>220</b>. As illustrated, the first filter part <b>230</b> may be a filter segment having a hollow formed therein. For example, the first filter part <b>230</b> may be a tubular cellulose acetate filter or a paper tube, but the scope of the present disclosure is not limited thereto. The first filter part <b>230</b> may perform a filtering function for an aerosol that passes through the cooling part <b>220</b> and may also perform an additional cooling function through the hollow formed therein.</p>
+<p id="p-0074" num="0073">In some embodiments, the flavoring sheet <b>10</b> may also be disposed inside the first filter part <b>230</b>. In this case, the cooling performance, flavor persistence, and flavor expressing property of the aerosol-generating article <b>200</b> may be further improved.</p>
+<p id="p-0075" num="0074">The second filter part <b>240</b> may be disposed downstream of the first filter part <b>230</b> and abut a downstream end of the first filter part <b>230</b>. As illustrated, the second filter part <b>230</b> may be a filter segment in which a hollow is not formed. The second filter part <b>230</b> may correspond to the filter part <b>130</b> of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, and thus further description thereof will be omitted.</p>
+<p id="p-0076" num="0075">Hereinafter, for convenience of understanding, a filter part (e.g., <b>230</b>) having a hollow formed therein will be referred to as &#x201c;first filter part,&#x201d; and a filter part (e.g., <b>240</b>) in which a hollow is not formed will be referred to as &#x201c;second filter part,&#x201d; regardless of the arrangement order of the filter parts.</p>
+<p id="p-0077" num="0076"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is an exemplary view illustrating an aerosol-generating article <b>300</b> according to a second modification of the present disclosure.</p>
+<p id="p-0078" num="0077">As illustrated in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, similar to the first modification described above, the aerosol-generating article <b>300</b> may include an aerosol-forming substrate part <b>310</b>, a cooling part <b>320</b>, a first filter part <b>340</b>, and a second filter part <b>330</b>. However, different from the first modification described above, the second filter part <b>330</b> abuts a downstream end of the cooling part <b>320</b>, and the first filter part <b>340</b> is disposed downstream of the second filter part <b>330</b> and serves as a mouthpiece.</p>
+<p id="p-0079" num="0078"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is an exemplary view illustrating an aerosol-generating article <b>400</b> according to a third modification of the present disclosure.</p>
+<p id="p-0080" num="0079">As illustrated in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, similar to the first modification described above, the aerosol-generating article <b>400</b> may include an aerosol-forming substrate part <b>410</b>, a first filter part <b>420</b>, a cooling part <b>430</b>, and a second filter part <b>440</b>. However, different from the first modification described above, the first filter part <b>420</b> is disposed between the aerosol-forming substrate part <b>410</b> and the cooling part <b>430</b>, and the second filter part <b>440</b> is disposed downstream of the cooling part <b>430</b> and serves as a mouthpiece.</p>
+<p id="p-0081" num="0080">In a case in which the cooling part <b>430</b> is disposed downstream of the first filter part <b>420</b> having a hollow formed therein, a high-temperature aerosol formed in the aerosol-forming substrate part <b>410</b> may be primarily cooled while passing through the hollow of the first filter part <b>420</b>. Also, the primarily-cooled aerosol may enter the cooling part <b>430</b>, and accordingly, performance of the cooling part <b>430</b> due to the flavoring sheet <b>10</b> may be well preserved until the end of smoking, and the flavor expressing property may also be maintained well. On the other hand, in a case in which a high-temperature aerosol immediately enters the cooling part <b>430</b>, a substance (e.g., polysaccharide material) forming the flavoring sheet <b>10</b> may rapidly undergo a phase change and cause the cooling performance to be gradually degraded, and a relatively large amount of flavoring may be delivered at an early stage of smoking. However, such phenomena may be significantly mitigated in the structure illustrated in <figref idref="DRAWINGS">FIG. <b>7</b></figref>.</p>
+<p id="p-0082" num="0081"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is an exemplary view illustrating an aerosol-generating article <b>500</b> according to a fourth modification of the present disclosure.</p>
+<p id="p-0083" num="0082">As illustrated in <figref idref="DRAWINGS">FIG. <b>8</b></figref>, similar to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the aerosol-generating article <b>500</b> may include an aerosol-forming substrate part <b>510</b>, a cooling part <b>520</b>, and a filter part <b>530</b>.</p>
+<p id="p-0084" num="0083">The aerosol-forming substrate part <b>510</b> and the filter part <b>530</b> may correspond to the aerosol-forming substrate part <b>110</b> and the filter part <b>130</b>, respectively, of <figref idref="DRAWINGS">FIG. <b>1</b></figref>. Thus, descriptions thereof will be omitted.</p>
+<p id="p-0085" num="0084">As illustrated, the cooling part <b>520</b> may be formed of a structure including a hollow or cavity. For example, the cooling part <b>520</b> may be a paper tube or a tubular cellulose acetate filer. However, the cooling part <b>520</b> is not limited thereto.</p>
+<p id="p-0086" num="0085">Also, the flavoring sheet <b>10</b> may be disposed on an inner wall of the cooling part <b>520</b>. For example, the flavoring sheet <b>10</b> may be attached to an inner wall of the hollow formed in the cooling part <b>520</b>. As such, since there is no interference with an airflow inside the cooling part <b>520</b>, a smooth airflow may be reliably ensured, and the flavoring sheet <b>10</b> may be prevented from affecting the resistance to draw of the aerosol-generating article <b>500</b>.</p>
+<p id="p-0087" num="0086">The aerosol-generating articles <b>200</b> to <b>500</b> according to some modifications of the present disclosure have been described above with reference to <figref idref="DRAWINGS">FIGS. <b>5</b> to <b>8</b></figref>. Hereinafter, the flavoring sheet <b>10</b> and a method of producing the same according to some embodiments of the present disclosure will be described.</p>
+<p id="p-0088" num="0087">The flavoring sheet <b>10</b> may be produced by producing a sheet composition in a liquid phase (e.g., slurry state) and drying the produced sheet composition. Here, the liquid phase is not limited to a liquid state but may also include a state in which a liquid and solid are mixed (e.g., slurry state). For example, the flavoring sheet <b>10</b> may be produced by stretching (casting) the sheet composition on a predetermined substrate and drying the sheet composition. However, a method of producing the flavoring sheet <b>10</b> is not limited thereto, and a specific method of producing the flavoring sheet <b>10</b> may vary.</p>
+<p id="p-0089" num="0088">Meanwhile, a specific composition of the sheet composition may vary according to embodiments.</p>
+<p id="p-0090" num="0089">In some embodiments, the sheet composition may include distilled water, a solvent such as ethanol, a polysaccharide material, and a flavoring. The flavoring sheet <b>10</b> produced from such a sheet composition may hold a large amount of flavor and have excellent flavor retention, and thus flavor persistence of an aerosol-generating article (e.g., <b>100</b>) may be significantly improved. Hereinafter, each material constituting the sheet composition will be described.</p>
+<p id="p-0091" num="0090">The distilled water may be a factor for controlling the viscosity of the slurry-type sheet composition.</p>
+<p id="p-0092" num="0091">Next, the polysaccharide material may be a material for covering and fixing the flavoring and may be a sheet-forming substance for forming a sheet. Examples of the polysaccharide material may include cellulose-based materials such as hydroxypropyl methylcellulose (HPMC), methyl cellulose (MC), carboxymethyl cellulose (CMC), and agar. Such cellulose-based materials have a property of easily absorbing heat through a phase change upon contact with a high-temperature airflow, and thus the flavoring sheet <b>10</b> may be utilized as a cooling material as well as a flavor expressing material.</p>
+<p id="p-0093" num="0092">In some embodiments, the sheet composition may include modified cellulose among various polysaccharide materials. Here, the term &#x201c;modified cellulose&#x201d; may refer to cellulose in which a specific functional group is substituted in a molecular structure. Examples of modified cellulose may include HPMC, MC, CMC, and ethyl cellulose (EC), but modified cellulose is not limited thereto. For example, HPMC may have a grade in a range of about 4 to 40000 according to a proportion and molecular weight in which a hydroxypropyl group and a methyl group (or methoxy group) are substituted. The viscosity of modified cellulose may be determined according to the grade. More specifically, physicochemical characteristics of HPMC relate to a proportion of the methoxy group and a proportion and molecular weight of the hydroxypropyl group, and according to the United States Pharmacopeial Convention (USP), types of HPMC may be classified into HPMC1828, HPMC2208, HPMC2906, HPMC2910, and the like according to proportions of the methoxy group and hydroxypropyl group. Here, the first two numbers may be a proportion of the methoxy group, and the last two numbers may be a proportion of the hydroxypropyl group. As a result of continuous experiments by the inventors of the present disclosure, the flavoring sheet <b>10</b> produced from a sheet composition including modified cellulose was confirmed as having excellent physical properties and holding a large amount of flavor.</p>
+<p id="p-0094" num="0093">Next, examples of the flavoring may include menthol, nicotine, nicotine salt, a leaf tobacco extract, a leaf tobacco extract containing nicotine, a natural vegetable flavoring (e.g., cinnamon, sage, herb, chamomile, kudzu, amacha, clove, lavender, cardamom, clove, nutmeg, bergamot, geranium, honey essence, rose oil, lemon, orgae, cinnamon, caraway, jasmine, ginger, coriander, vanilla extract, spearmint, peppermint, cassia, coffee, celery, cascarilla, sandalwood, cocoa, ylang-ylang, fennel, anise, licorice, St. John's bread, plum extract, peach extract, etc.), sugars (e.g., glucose, fructose, isomerized sugar, caramel, etc.), cocoa (e.g., powder, extract, etc.), esters (e.g., isoamyl acetate, linalyl acetate, isoamyl propionate, linalyl butyrate, etc.) ketones (e.g., menthone, ionone, damascenone, ethyl maltol, etc.), alcohols (e.g., geraniol, linalool, anetol, eugenol, etc.), aldehydes (e.g., vanillin, benzaldehyde, anisaldehyde, etc.), lactones, (e.g., &#x3b3;-undecalactone, &#x3b3;-nonalactone, etc.), an animal flavoring (e.g., musk, ambergris, civet, castoreum, etc.), and hydrocarbons (e.g., limonene, pinene, etc.). The flavoring may be used in a solid state or may be used by being dissolved or dispersed in an appropriate solvent, e.g., propylene glycol, ethyl alcohol, benzyl alcohol, or triethyl citrate. Also, a flavoring that is easily dispersed in a solvent by addition of an emulsifier, e.g., a hydrophobic flavoring or an oil-soluble flavoring, may be used. These flavorings may be used alone or used as a mixture. However, the scope of the present disclosure is not limited by the examples described above.</p>
+<p id="p-0095" num="0094">In some embodiments, a flavoring whose melting point is 80&#xb0; C. or lower may be used. In this case, when the flavoring sheet <b>10</b> comes into contact with an airflow having a temperature of 80&#xb0; C. or higher, the flavoring may undergo a phase change and further absorb the heat. Thus, performance of a cooling part (e.g., <b>120</b>) may be further improved. Considering the fact that a heated aerosol generally has a temperature of 80&#xb0; C. or higher, the use of the above flavorings may effectively improve cooling performance of most aerosol-generating articles (e.g., <b>100</b>). Further, since the phase-changed flavoring is easily volatilized, the flavor expressing property of the aerosol-generating article (e.g., <b>100</b>) may also be improved. An example of the flavoring whose melting point is 80&#xb0; C. or lower may include menthol, but the flavoring is not limited thereto.</p>
+<p id="p-0096" num="0095">Meanwhile, in some embodiments, the sheet composition may further include low methoxyl pectin (LM-pectin). LM-pectin is a low ester-pectin or low methoxyl pectin in which relatively little esterification is performed. Specifically, LM pectin may be pectin that contains a carboxyl group by less than about 50% in a molecular structure. Due to having a characteristic of not gelating when cooled unlike carrageenan, LM-pectin may lower the viscosity of the slurry-type sheet composition (e.g., to about 600 cp to 800 cp). Further, since the slurry-type sheet composition can be produced without an emulsifier, a safety problem due to emulsifiers may not occur.</p>
+<p id="p-0097" num="0096">LM-pectin may contain a carboxyl group by less than about 50%, less than about 40%, less than about 30%, less than about 20%, or less than about 10% in a molecular structure. The lower the content of carboxyl group in the molecular structure of LM-pectin, the lower the viscosity of a slurry including LM-pectin.</p>
+<p id="p-0098" num="0097">Also, in some embodiments, the sheet composition may further include a bulking agent. The bulking agent may be a material that increases the total mass of components other than distilled water (that is, dry mass) to increase the volume of the flavoring sheet <b>10</b> being produced but does not affect the original function of the flavoring sheet <b>10</b>. Specifically, the bulking agent may have characteristics of increasing the volume of the flavoring sheet <b>10</b> without adversely affecting the flavor retaining function of the flavoring sheet <b>10</b> while not substantially increasing the viscosity of the slurry. Preferably, the bulking agent may be starch, modified starch, or starch hydrolyzate but is not limited thereto.</p>
+<p id="p-0099" num="0098">Modified starch refers to starch acetate, oxidized starch, hydroxypropyl distarch phosphate, hydroxypropyl starch, distarch phosphate, monostarch phosphate, phosphorylated distarch phosphate, or the like.</p>
+<p id="p-0100" num="0099">Starch hydrolyzate refers to a material obtained by a process that includes a process of hydrolyzing starch. For example, starch hydrolyzate may include a material obtained by directly hydrolyzing starch (that is, dextrin) or a material obtained by heating and hydrolyzing starch (that is, indigestible dextrin). For example, the bulking agent may be dextrin, more specifically, cyclodextrin.</p>
+<p id="p-0101" num="0100">Generally, starch hydrolyzate may be starch hydrolyzate having a dextrose equivalent (DE) value in a range of about 2 to about 40, preferably, starch hydrolyzate having a DE value in a range of about 2 to about 20. For example, as the starch hydrolyzate having a DE value in a range of about 2 to about 20, Pinedex #100 (Matsutani Chemical Industry Co. Ltd), Pinefiber (Matsutani Chemical Industry Co. Ltd), TK-16 (Matsutani Chemical Industry Co. Ltd), or the like may be utilized.</p>
+<p id="p-0102" num="0101">Here, &#x201c;DE&#x201d; is an abbreviation of &#x201c;dextrose equivalent,&#x201d; and the DE value indicates a degree of hydrolysis of starch, that is, a saccharification rate of starch. In the present disclosure, the DE value may be a value measured by the Willstatter-Schudel method. Characteristics of hydrolyzed starch (starch hydrolyzate), for example, characteristics such as a molecular weight of starch hydrolyzate and arrangement of sugar molecules constituting starch hydrolyzate, may not be constant for each molecule of starch hydrolyzate and may be present with a certain distribution or variation. Due to the distribution or variation of the characteristics of starch hydrolyzate or a difference in cut sections, each molecule of starch hydrolyzate may exhibit different physical properties (e.g., DE value). In this way, starch hydrolyzate is a set of molecules exhibiting different physical properties, but a measurement result (that is, DE value) by the Willstatter-Schudel method is considered a representative value indicating the degree of hydrolysis of starch.</p>
+<p id="p-0103" num="0102">Preferably, starch hydrolyzate may be selected from the group consisting of dextrin having a DE value in a range of about 2 to about 5, indigestible dextrin having a DE value in a range of about 10 to about 15, and a mixture thereof. For example, as the dextrin having a DE value in a range of about 2 to about 5, Pinedex #100 (Matsutani Chemical Industry Co. Ltd) may be utilized. As the indigestible dextrin having a DE value in a range of about 10 to about 15, Pinefiber (Matsutani Chemical Industry Co. Ltd) may be utilized.</p>
+<p id="p-0104" num="0103">Also, in some embodiments, the sheet composition may further include a plasticizer. The plasticizer may add appropriate flexibility to the flavoring sheet <b>10</b> and thus improve the physical property of the sheet. For example, the plasticizer may include at least one of glycerin and propylene glycol but is not limited thereto.</p>
+<p id="p-0105" num="0104">Also, in some embodiments, the sheet composition may further include an emulsifier. The emulsifier may allow a highly fat-soluble flavoring and a water-soluble polysaccharide material to be mixed well and increase the amount of flavor held in the flavoring sheet <b>10</b>. An example of the emulsifier may include lecithin, but the emulsifier is not limited thereto.</p>
+<p id="p-0106" num="0105">Meanwhile, the flavoring sheet <b>10</b> produced from the above-described sheet composition may have various content ratios (composition ratios).</p>
+<p id="p-0107" num="0106">In some embodiments, the flavoring sheet <b>10</b> may include, with respect to a total of 100 parts by weight, about 20 to 60 parts by weight of the polysaccharide material and about 20 to 50 parts by weight of the flavoring. Of course, the flavoring sheet <b>10</b> may further include an appropriate amount of moisture. The flavoring sheet <b>10</b> configured in this way confirmed as significantly improving the flavor persistence and cooling performance of an aerosol-generating article (e.g., <b>100</b>).</p>
+<p id="p-0108" num="0107">In some embodiments, the flavoring sheet <b>10</b> may include, with respect to a total of 100 parts by weight, about 2 to about 15 parts by weight of moisture, about 25 to about 90 parts by weight of modified cellulose, and about 0.1 to about 60 parts by weight of flavoring.</p>
+<p id="p-0109" num="0108">Also, in some embodiments, the flavoring sheet <b>10</b> may include, with respect to a total of 100 parts by weight, about 2 to about 15 parts by weight of moisture, about 1 to about 60 parts by weight of polysaccharide material, about 1 to about 60 parts by weight of LM-pectin, and about 0.1 to about 60 parts by weight of flavoring.</p>
+<p id="p-0110" num="0109">In some embodiments, with respect to a total of 100 parts by weight of the flavoring sheet <b>10</b>, the plasticizer may be included by about 0.1 to about 15 parts by weight, preferably, about 1 to 10 parts by weight. For example, the flavoring sheet <b>10</b> may include, with respect to a total of 100 parts by weight, about 20 to 60 parts by weight of polysaccharide material, about 10 to 50 parts by weight of flavoring, and about 1 to 10 parts by weight of plasticizer. Within such numerical ranges, a sheet having appropriate flexibility (physical property) may be formed, and since processing (e.g., crimping, rolling, folding, etc.) of the flavoring sheet <b>10</b> is easy, workability may be improved. For example, in a case in which the amount of added plasticizer is too small, flexibility of the sheet may be decreased and thus the sheet may be easily damaged during processes, and in a case in which the amount of added plasticizer is too large, the sheet may not be formed well.</p>
+<p id="p-0111" num="0110">The flavoring sheet <b>10</b> and a method of producing the same according to some embodiments of the present disclosure have been described above. Hereinafter, various types of aerosol generation devices <b>1000</b> to which the above-described aerosol-generating article (e.g., <b>100</b>) is applicable will be described with reference to <figref idref="DRAWINGS">FIGS. <b>9</b> to <b>11</b></figref>.</p>
+<p id="p-0112" num="0111"><figref idref="DRAWINGS">FIGS. <b>9</b> to <b>11</b></figref> are exemplary block diagrams illustrating aerosol generation devices <b>1000</b>. Specifically, <figref idref="DRAWINGS">FIG. <b>9</b></figref> illustrates a cigarette-type aerosol generation device <b>1000</b>, and <figref idref="DRAWINGS">FIGS. <b>10</b> and <b>11</b></figref> illustrate hybrid-type aerosol generation devices <b>1000</b> that use a liquid and a cigarette together. Hereinafter, each aerosol generation device <b>1000</b> will be described.</p>
+<p id="p-0113" num="0112">As illustrated in <figref idref="DRAWINGS">FIG. <b>9</b></figref>, the aerosol generation device <b>1000</b> may include a heater <b>1300</b>, a battery <b>1100</b>, and a controller <b>1200</b>. However, this is only a preferred embodiment for achieving the objectives of the present disclosure, and, of course, some components may be added or omitted as necessary. Also, the components of the aerosol generation device <b>1000</b> illustrated in <figref idref="DRAWINGS">FIG. <b>9</b></figref> represent functional components that are functionally distinct, and the plurality of components may be implemented in a form of being integrated with each other in an actual physical environment, or a single component may be implemented in a form of being divided into a plurality of specific functional components. Hereinafter, each component of the aerosol generation device <b>1000</b> will be described.</p>
+<p id="p-0114" num="0113">The heater <b>1300</b> may be disposed to heat a cigarette <b>2000</b> inserted thereinto. The cigarette <b>2000</b> may include a solid aerosol-forming substrate and generate an aerosol when heated. The generated aerosol may be inhaled by a user through the oral region of the user. The operation, heating temperature, etc. of the heater <b>1300</b> may be controlled by the controller <b>1200</b>.</p>
+<p id="p-0115" num="0114">Next, the battery <b>1100</b> may supply power used to operate the aerosol generation device <b>1000</b>. For example, the battery <b>1100</b> may supply power to allow the heater <b>1300</b> to heat the aerosol-forming substrate included in the cigarette <b>2000</b> and may supply power required for the operation of the controller <b>1200</b>.</p>
+<p id="p-0116" num="0115">Also, the battery <b>1100</b> may supply power required to operate electrical components such as a display (not illustrated), a sensor (not illustrated), and a motor (not illustrated) which are installed in the aerosol generation device <b>1000</b>.</p>
+<p id="p-0117" num="0116">Next, the controller <b>1200</b> may control the overall operation of the aerosol generation device <b>1000</b>. For example, the controller <b>1200</b> may control the operation of the heater <b>1300</b> and the battery <b>1100</b> and may also control the operation of other components included in the aerosol generation device <b>1000</b>. The controller <b>1200</b> may control the power supplied by the battery <b>1100</b>, the heating temperature of the heater <b>1300</b>, and the like. Also, the controller <b>1200</b> may check a state of each of the components of the aerosol generation device <b>1000</b> and determine whether the aerosol generation device <b>1000</b> is in an operable state.</p>
+<p id="p-0118" num="0117">The controller <b>1200</b> may be implemented with at least one processor. The processor may also be implemented with an array of a plurality of logic gates or implemented with a combination of a general-purpose microprocessor and a memory which stores a program that may be executed by the microprocessor. Also, those of ordinary skill in the art to which the present disclosure pertains should clearly understand that the controller <b>1200</b> may also be implemented with other forms of hardware.</p>
+<p id="p-0119" num="0118">Hereinafter, the hybrid-type aerosol generation devices <b>1000</b> will be briefly described with reference to <figref idref="DRAWINGS">FIGS. <b>10</b> and <b>11</b></figref>.</p>
+<p id="p-0120" num="0119"><figref idref="DRAWINGS">FIG. <b>10</b></figref> illustrates the aerosol generation device <b>1000</b> in which a vaporizer <b>1400</b> and the cigarette <b>2000</b> are disposed in parallel, and <figref idref="DRAWINGS">FIG. <b>11</b></figref> illustrates the aerosol generation device <b>1000</b> in which the vaporizer <b>1400</b> and the cigarette <b>2000</b> are disposed in series. However, an internal structure of the aerosol generation device <b>1000</b> is not limited to those illustrated in <figref idref="DRAWINGS">FIGS. <b>10</b> and <b>11</b></figref>, and the arrangement of components may be changed according to a design method.</p>
+<p id="p-0121" num="0120">In <figref idref="DRAWINGS">FIGS. <b>10</b> and <b>11</b></figref>, the vaporizer <b>1400</b> may include a liquid reservoir configured to store a liquid aerosol-forming substrate, a wick configured to absorb the aerosol-forming substrate, and a vaporizing element configured to vaporize the absorbed aerosol-forming substrate to generate an aerosol. The vaporizing element may be implemented in various forms such as a heating element or a vibration element. Also, in some embodiments, the vaporizer <b>1400</b> may be designed to have a structure that does not include the wick.</p>
+<p id="p-0122" num="0121">The aerosol generated in the vaporizer <b>1400</b> may pass through the cigarette <b>2000</b> and be inhaled through the oral region of the user. The vaporizing element of the vaporizer <b>1400</b> may also be controlled by the controller <b>1200</b>.</p>
+<p id="p-0123" num="0122">The exemplary aerosol generation devices <b>1000</b>, to which the aerosol-generating article (e.g., <b>100</b>) according to some embodiments of the present disclosure may be applied have been described above with reference to <figref idref="DRAWINGS">FIGS. <b>9</b> to <b>11</b></figref>.</p>
+<p id="p-0124" num="0123">Hereinafter, configurations and effects of the above-described flavoring sheet <b>10</b> and aerosol-generating article (e.g., <b>100</b>) will be described in more detail using a comparative example and examples. However, the scope of the present disclosure is not limited by the examples below.</p>
+<heading id="h-0009" level="1">Example 1</heading>
+<p id="p-0125" num="0124">A flavoring sheet including about 12 parts by weight of moisture, about 48 parts by weight of HPMC, about 23 parts by weight of flavoring, about 7 parts by weight of plasticizer, and about 10 parts by weight of other materials was produced. Also, the produced flavoring sheet was added in a rolled form to a cooling part (e.g., <b>430</b>) to produce a cigarette having the same structure as the aerosol-generating article <b>400</b> illustrated in 7. A tubular cellulose acetate filter was used as a first filter part (e.g., <b>420</b>), and a cellulose acetate filter without a hollow was used as a second filter part (e.g., <b>440</b>).</p>
+<heading id="h-0010" level="1">Example 2</heading>
+<p id="p-0126" num="0125">A cigarette was produced in the same manner as in Example 1 except for adding a flavoring sheet in which a plurality of holes (each having a diameter of about 1 mm) were formed by a punching process.</p>
+<heading id="h-0011" level="1">Comparative Example 1</heading>
+<p id="p-0127" num="0126">A cigarette was produced in the same manner as in Example 1 except for filling the cooling part with a polylactic acid (PLA) woven material instead of a flavoring sheet.</p>
+<heading id="h-0012" level="1">Experimental Example 1: Comparison of Cooling Performance</heading>
+<p id="p-0128" num="0127">An experiment was conducted to compare the cooling performance of the cigarettes according to Examples 1 and 2 and Comparative Example 1. Specifically, an experiment was conducted to measure a mainstream smoke temperature at a downstream end of each segment of the cigarette upon a puff. The experiment was repeatedly conducted ten times, based on eight puffs per time, and an average value of measured values excluding the maximum value and minimum value was calculated as the final mainstream smoke temperature. The mainstream smoke temperature inside each segment was measured using a thermocouple, and the experimental results are shown in Table 1 below (for convenience, the final mainstream smoke temperatures are rounded off).</p>
+<p id="p-0129" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="5" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Aerosol-</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>forming</entry>
+<entry>First</entry>
+<entry/>
+<entry>Second</entry>
+</row>
+<row>
+<entry/>
+<entry>substrate</entry>
+<entry>filter </entry>
+<entry>Cooling </entry>
+<entry>filter</entry>
+</row>
+<row>
+<entry/>
+<entry>part</entry>
+<entry>part</entry>
+<entry>part</entry>
+<entry>part</entry>
+</row>
+<row>
+<entry>Classification</entry>
+<entry>(&#xb0; C.)</entry>
+<entry>(&#xb0; C.)</entry>
+<entry>(&#xb0; C.)</entry>
+<entry>(&#xb0; C.)</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Example 1</entry>
+<entry>215</entry>
+<entry>107</entry>
+<entry>60</entry>
+<entry>43</entry>
+</row>
+<row>
+<entry>Example 2</entry>
+<entry>216</entry>
+<entry>108</entry>
+<entry>57</entry>
+<entry>42</entry>
+</row>
+<row>
+<entry>Comparative</entry>
+<entry>220</entry>
+<entry>105</entry>
+<entry>80</entry>
+<entry>55</entry>
+</row>
+<row>
+<entry>Example 1</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0130" num="0128">Referring to Table 1 above, it can be seen that the cooling performance of the cigarettes according to the Examples is significantly better as compared to Comparative Example 1. That is, it can be seen that the cooling performance of the flavoring sheet is better than that of the PLA woven material. This is determined to be a result caused by a cellulose-based material such as HPMC undergoing a phase change and absorbing a large amount of high-temperature heat and an area of contact with the mainstream smoke increasing due to the flavoring sheet being disposed in a rolled form.</p>
+<p id="p-0131" num="0129">Further, it can be seen that the cooling performance of the cigarette according to Example 2 is better as compared to Example 1. This is determined to be a result of the area coming into contact with the mainstream smoke further increasing due to the plurality of holes formed in the flavoring sheet.</p>
+<p id="p-0132" num="0130">The embodiments of the present disclosure have been described above with reference to the accompanying drawings, but those of ordinary skill in the art to which the present disclosure pertains should understand that the present disclosure may be embodied in other specific forms without changing the technical spirit or essential features thereof. Therefore, the embodiments described above should be understood as being illustrative, instead of limiting, in all aspects. The scope of the present disclosure should be interpreted according to the claims below, and any technical spirit within the scope equivalent to the claims should be interpreted as falling within the scope of the technical spirit defined by the present disclosure.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An aerosol-generating article comprising:
+<claim-text>an aerosol-forming substrate part; and</claim-text>
+<claim-text>a cooling part disposed downstream of the aerosol-forming substrate part and configured to cool an aerosol formed in the aerosol-forming substrate part,</claim-text>
+<claim-text>wherein a sheet-type material is disposed in a rolled or folded form in the cooling part, and includes a polysaccharide material and a flavoring.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The aerosol-generating article of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the sheet-type material is pleated or folded in a longitudinal direction.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The aerosol-generating article of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a plurality of holes are formed in the sheet-type material.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The aerosol-generating article of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein a diameter of the hole is in a range of 0.1 mm to 3 mm.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The aerosol-generating article of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein resistance to draw of the cooling part is in a range of 0.1 mmH<sub>2</sub>O/mm to 3.5 mmH<sub>2</sub>O/mm.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The aerosol-generating article of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a first filter part which is disposed downstream of the cooling part and has a hollow formed therein; and</claim-text>
+<claim-text>a second filter part which is disposed downstream of the first filter part and in which a hollow is not formed.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The aerosol-generating article of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising;
+<claim-text>a first filter part which is disposed downstream of the cooling part and has a hollow formed therein; and</claim-text>
+<claim-text>a second filter part which is disposed between the cooling part and the first filter part and in which a hollow is not formed.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The aerosol-generating article of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a first filter part which is disposed upstream of the cooling part and has a hollow formed therein; and</claim-text>
+<claim-text>a second filter part which is disposed upstream of the cooling part and in which a hollow is not formed.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The aerosol-generating article of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the sheet-type material includes:
+<claim-text>20 to 60 parts by weight of the polysaccharide material; and</claim-text>
+<claim-text>20 to 50 parts by weight of the flavoring.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The aerosol-generating article of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the sheet-type material further includes 1 to 10 parts by weight of a plasticizer.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The aerosol-generating article of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a thickness of the sheet-type material is 150 &#x3bc;m or less.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The aerosol-generating article of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a melting point of the flavoring is 80&#xb0; C. or lower.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

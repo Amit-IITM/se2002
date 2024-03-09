@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225417A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225417</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18152999</doc-number>
+<date>20230111</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>CN</country>
+<doc-number>202210051525.2</doc-number>
+<date>20220117</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>485</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>42</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>485</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>42</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">ELECTRONIC VAPORIZATION DEVICE AND VAPORIZER THEREOF</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>SHENZHEN SMOORE TECHNOLOGY LIMITED</orgname>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>LEI</last-name>
+<first-name>Guilin</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>LUO</last-name>
+<first-name>Zhi</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>SUN</last-name>
+<first-name>Hongtao</first-name>
+<address>
+<city>Shenzhen,</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>WANG</last-name>
+<first-name>Hongzhao</first-name>
+<address>
+<city>Shenzhen,</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>REN</last-name>
+<first-name>Sanbing</first-name>
+<address>
+<city>Shenzhen,</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>ZHU</last-name>
+<first-name>Binbin</first-name>
+<address>
+<city>Shenzhen,</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="06" designation="us-only">
+<addressbook>
+<last-name>ZENG</last-name>
+<first-name>Xianglong</first-name>
+<address>
+<city>Shenzhen,</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A vaporizer is disclosed. The vaporizer includes a liquid storage housing having a liquid storage cavity formed therein and a base arranged at one end of the liquid storage housing. The base includes an air inlet protruding stage that has an upper surface facing the liquid storage cavity. The upper surface is in a shape of a protrusion. The air inlet protruding stage is provided with a plurality of air inlet holes extending from the upper surface away from the liquid storage cavity.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="175.26mm" wi="56.90mm" file="US20230225417A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="185.59mm" wi="58.93mm" file="US20230225417A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="184.49mm" wi="111.34mm" file="US20230225417A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="211.24mm" wi="115.40mm" file="US20230225417A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="184.83mm" wi="115.40mm" file="US20230225417A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="210.48mm" wi="102.45mm" file="US20230225417A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="245.03mm" wi="133.77mm" file="US20230225417A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="104.06mm" wi="137.67mm" file="US20230225417A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="135.81mm" wi="96.35mm" file="US20230225417A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="247.23mm" wi="126.15mm" file="US20230225417A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="226.91mm" wi="159.43mm" file="US20230225417A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="210.99mm" wi="109.05mm" file="US20230225417A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="154.77mm" wi="120.57mm" file="US20230225417A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="212.09mm" wi="127.51mm" file="US20230225417A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="168.66mm" wi="136.91mm" file="US20230225417A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application claims the benefit of priority to Chinese Patent Application No. 202210051525.2, filed on Jan. 17, 2022, the entire disclosure of which is incorporated by reference herein.</p>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present disclosure relates to the field of vaporization, and more specifically, to an electronic vaporization device and a vaporizer thereof.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">An electronic vaporization device mainly includes a vaporizer and a power supply device. Existing vaporizers usually open an air inlet hole on a base to introduce external air. As an inhaling process continues, a large amount of condensate is accumulated at the air inlet hole, and the air inlet hole is easily blocked, which increases the inhalation resistance during inhalation and raises noise, and also has a risk of liquid leakage.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0005" num="0004">The technical problem to be resolved by the present disclosure is to provide an improved vaporizer and an electronic vaporization device having the vaporizer for the foregoing defects in the related art.</p>
+<p id="p-0006" num="0005">A technical solution adopted by the present disclosure to resolve the technical problem thereof is as follows. A vaporizer is provided, including a liquid storage housing with a liquid storage cavity formed inside and a base arranged at one end of the liquid storage housing, where the base includes an air inlet protruding stage, the air inlet protruding stage has an upper surface facing the liquid storage cavity, and the upper surface is in a shape of a protrusion; and the air inlet protruding stage is provided with a plurality of small air inlet holes extending from the upper surface away from the liquid storage cavity.</p>
+<p id="p-0007" num="0006">In some embodiments, the upper surface is a spherical surface.</p>
+<p id="p-0008" num="0007">In some embodiments, the plurality of small air inlet holes includes several first small air inlet holes and several second small air inlet holes surrounding the several first small air inlet holes, and the first small air inlet hole and the second small air inlet hole have different air intake cross-sectional areas.</p>
+<p id="p-0009" num="0008">In some embodiments, the air intake cross-sectional area of the first small air inlet hole is less than or is greater than the air intake cross-sectional area of the second small air inlet hole.</p>
+<p id="p-0010" num="0009">In some embodiments, the several first small air inlet holes and the several second small air inlet holes are respectively distributed in annular arrays at equal intervals, and the number of the first small air inlet holes is less than the number of the second small air inlet holes.</p>
+<p id="p-0011" num="0010">In some embodiments, there are four first small air inlet holes, and the four first small air inlet holes are evenly and symmetrically distributed along a center of the air inlet protruding stage; and there are ten second small air inlet holes, and the ten second small air inlet holes are evenly and symmetrically distributed along the center of the air inlet protruding stage.</p>
+<p id="p-0012" num="0011">In some embodiments, the air intake cross-sectional area of the first small air inlet hole is less than the air intake cross-sectional area of the second small air inlet hole, so that pneumatic noise of the vaporizer during operation is less than 61.4 dB.</p>
+<p id="p-0013" num="0012">In some embodiments, the base includes a main body portion, and the air inlet protruding stage is formed by upward extension of an upper end surface of the main body portion.</p>
+<p id="p-0014" num="0013">In some embodiments, the main body portion is provided with an air inlet hole in communication with the plurality of small air inlet holes.</p>
+<p id="p-0015" num="0014">In some embodiments, an air intake cross-sectional area of the air inlet hole is greater than a sum of air intake cross-sectional areas of the plurality of small air inlet holes.</p>
+<p id="p-0016" num="0015">In some embodiments, the vaporizer further includes a liquid absorbing body arranged in the liquid storage housing and in communication with the liquid storage cavity in a liquid guiding manner.</p>
+<p id="p-0017" num="0016">In some embodiments, the vaporizer further includes a seal member arranged in the liquid storage housing and sleeved on the base.</p>
+<p id="p-0018" num="0017">In some embodiments, the seal member includes a protruding stage portion, the protruding stage portion is arranged between the liquid absorbing body and the air inlet protruding stage, and the protruding stage portion is provided with an air inlet through hole in communication with the plurality of small air inlet holes.</p>
+<p id="p-0019" num="0018">In some embodiments, an end surface of an upper end of the air inlet through hole is higher than an end surface of an upper end of the protruding stage portion. In some embodiments, the air inlet through hole includes an air inlet section facing the base and an air outlet section away from the base, and a cross-sectional area of the air inlet section is greater than a cross-sectional area of the air outlet section.</p>
+<p id="p-0020" num="0019">In some embodiments, the air inlet section and the air outlet section are in a smooth transition connection.</p>
+<p id="p-0021" num="0020">In some embodiments, a cross-sectional area of an air outlet at an end of the air inlet through hole away from the air inlet protruding stage is less than a cross-sectional area of the air inlet protruding stage.</p>
+<p id="p-0022" num="0021">In some embodiments, the seal member includes a body portion which is annular and hermetically sleeved between the base and the liquid storage housing, and two opposite sides of the protruding stage portion are respectively connected with two opposite sides of the body portion.</p>
+<p id="p-0023" num="0022">In some embodiments, the vaporizer further includes a heating base arranged in the liquid storage housing and mated with the base, and the liquid absorbing body is accommodated between the heating base and the base.</p>
+<p id="p-0024" num="0023">The present disclosure further provides a vaporizer, including a liquid storage housing with a liquid storage cavity formed inside and a base arranged at one end of the liquid storage housing, where the base includes an air inlet protruding stage, the air inlet protruding stage is provided with at least one first small air inlet hole and at least one second small air inlet hole, and the first small air inlet hole and the second small air inlet hole have different air intake cross-sectional areas.</p>
+<p id="p-0025" num="0024">In some embodiments, the at least one first small air inlet hole includes a plurality of first small air inlet holes, the at least one second small air inlet hole includes a plurality of second small air inlet holes, and the plurality of second small air inlet holes surrounds the outside of the plurality of first small air inlet holes.</p>
+<p id="p-0026" num="0025">In some embodiments, the plurality of first small air inlet holes and the plurality of second small air inlet holes are respectively distributed in annular arrays at equal intervals.</p>
+<p id="p-0027" num="0026">In some embodiments, the vaporizer further includes a protruding stage portion arranged in the liquid storage housing, the protruding stage portion is provided with an air inlet through hole in communication with the at least one first small air inlet hole and the at least one second small air inlet hole.</p>
+<p id="p-0028" num="0027">The present disclosure further provides an electronic vaporization device, including the vaporizer according to any one of the foregoing and a power supply device that is electrically connected to the vaporizer.</p>
+<p id="p-0029" num="0028">Implementation of the present disclosure at least has the following beneficial effects: By designing the upper surface of the air inlet protruding stage into a shape of a protrusion, condensate in a center area of the air inlet protruding stage may tend to flow to an outer side, so that the condensate at the plurality of small air inlet holes may be guided in time to avoid massive accumulation, and reduce a probability that the condensate leaks from the plurality of small air inlet holes.</p>
+<p id="p-0030" num="0029">On the other hand, the plurality of small air inlet holes on the air inlet protruding stage are set with different air intake cross-sectional areas, so that pneumatic noise during inhalation may be reduced.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0031" num="0030">The present disclosure is further described below with reference to the accompanying drawings and embodiments. In the accompanying drawings:</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a three-dimensional schematic structural diagram of an electronic vaporization device according to some embodiments of the present disclosure;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a schematic longitudinal cross-sectional structural view of a vaporizer according to a first embodiment of the present disclosure;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a three-dimensional schematic structural diagram of a heating component in <figref idref="DRAWINGS">FIG. <b>2</b></figref>;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a schematic cross-sectional structural view of the heating component along A-A shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a schematic cross-sectional structural view of the heating component along B-B shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a schematic exploded structural view of the heating component shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a three-dimensional schematic structural diagram of a base in <figref idref="DRAWINGS">FIG. <b>6</b></figref>;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a simulated noise distribution cloud diagram of the base shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a three-dimensional schematic structural diagram of a seal member in <figref idref="DRAWINGS">FIG. <b>6</b></figref>;</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a three-dimensional schematic structural diagram of a heating base in <figref idref="DRAWINGS">FIG. <b>6</b></figref>;</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a side view of the heating base shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>;</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a gas-liquid two-phase distribution diagram of a liquid storage and vent structure when the heating component shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref> stops inhalation in a simulation analysis;</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. <b>13</b></figref> shows a vent pressure curve of the heating component shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>;</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a three-dimensional schematic structural diagram of a heating component in some embodiments in the related art;</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. <b>15</b></figref> shows a vent pressure curve of the heating component shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>;</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is a top view of a base in a first alternative solution of the present disclosure;</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is a simulated noise distribution cloud diagram of the base shown in <figref idref="DRAWINGS">FIG. <b>16</b></figref>;</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is a top view of a base in some embodiments in the related art;</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. <b>19</b></figref> is a simulated noise distribution cloud diagram of the base shown in <figref idref="DRAWINGS">FIG. <b>18</b></figref>;</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. <b>20</b></figref> is a three-dimensional schematic structural diagram of a base in a second alternative solution of the present disclosure;</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. <b>21</b></figref> is a schematic longitudinal structural diagram of the base shown in <figref idref="DRAWINGS">FIG. <b>20</b></figref>;</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. <b>22</b></figref> is a schematic diagram of flowing of condensate of the base shown in <figref idref="DRAWINGS">FIG. <b>21</b></figref>;</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. <b>23</b></figref> is a three-dimensional schematic structural diagram of a seal member in a third alternative solution of the present disclosure; and</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. <b>24</b></figref> is a three-dimensional schematic structural diagram of a seal member in a fourth alternative solution of the present disclosure.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0056" num="0055">To provide a clearer understanding of the technical features, objectives, and effects of the present disclosure, specific implementations of the present disclosure are described in detail with reference to the accompanying drawings. In the following description, many specific details are described for thorough understanding of the present disclosure. However, the present disclosure may be implemented in many other manners different from those described herein. A person skilled in the art may make similar improvements without departing from the connotation of the present disclosure. Therefore, the present disclosure is not limited to the specific embodiments disclosed below.</p>
+<p id="p-0057" num="0056">In the description of the present disclosure, it should be understood that, orientation or position relationships indicated by terms such as &#x201c;center&#x201d;, &#x201c;longitudinal&#x201d;, &#x201c;transverse&#x201d;, &#x201c;length&#x201d;, &#x201c;width&#x201d;, &#x201c;thickness&#x201d;, &#x201c;upper&#x201d;, &#x201c;lower&#x201d;, &#x201c;front&#x201d;, &#x201c;rear&#x201d;, &#x201c;left&#x201d;, &#x201c;right&#x201d;, &#x201c;vertical&#x201d;, &#x201c;horizontal&#x201d;, &#x201c;top&#x201d;, &#x201c;bottom&#x201d;, &#x201c;inner&#x201d;, &#x201c;outer&#x201d;, &#x201c;axial&#x201d;, &#x201c;radial&#x201d;, and &#x201c;circumferential&#x201d; are orientation or position relationship shown based on the accompanying drawings or orientation or position relationship that the product of the present disclosure is usually placed in use, and are merely used for describing the present disclosure and simplifying the description, rather than indicating or implying that the mentioned apparatus or element should have a particular orientation or be constructed and operated in a particular orientation, and therefore, should not be construed as a limitation to the present disclosure.</p>
+<p id="p-0058" num="0057">In addition, the terms &#x201c;first&#x201d; and &#x201c;second&#x201d; are used for descriptive purposes only and should not be construed as indicating or implying relative importance or implicitly indicating the number of technical features indicated. Therefore, features defined by &#x201c;first&#x201d; or &#x201c;second&#x201d; may explicitly indicate or implicitly include at least one of the features. In the description of the present disclosure, unless otherwise explicitly defined, &#x201c;a plurality of&#x201d; means at least two, for example, two, three, and the like.</p>
+<p id="p-0059" num="0058">In the present disclosure, unless otherwise explicitly specified and defined, terms such as &#x201c;mounted&#x201d;, &#x201c;connected&#x201d;, &#x201c;connection&#x201d;, and &#x201c;fixed&#x201d; should be understood in a broad sense. For example, the connection may be a fixed connection, a detachable connection, or an integral connection; or the connection may be a mechanical connection or an electrical connection; or the connection may be a direct connection, an indirect connection through an intermediate medium, or internal communication between two elements or a mutual action relationship between two elements, unless otherwise explicitly specified. A person of ordinary skill in the art may understand the specific meanings of the foregoing terms in the present disclosure according to specific situations.</p>
+<p id="p-0060" num="0059">In the present disclosure, unless otherwise explicitly specified and defined, a first feature &#x201c;on&#x201d; or &#x201c;below&#x201d; a second feature may mean that the first feature and the second feature are in direct contact, or the first feature and the second feature are in indirect contact through an intermediary. In addition, that the first feature is &#x201c;above&#x201d;, &#x201c;over&#x201d;, or &#x201c;on&#x201d; the second feature may indicate that the first feature is directly above or obliquely above the second feature, or may merely indicate that a horizontal height of the first feature is higher than that of the second feature. That the first feature is &#x201c;below&#x201d;, &#x201c;under&#x201d;, and &#x201c;beneath&#x201d; the second feature may indicate that the first feature is directly below or obliquely below the second feature, or may merely indicate that the horizontal height of the first feature is lower than that of the second feature.</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows an electronic vaporization device <b>1</b> according to some embodiments of the present disclosure. The electronic vaporization device <b>1</b> may be used for aerosol inhalation, and may include a vaporizer <b>100</b> and a power supply device <b>200</b> electrically connected to the vaporizer <b>100</b>. The power supply device <b>200</b> is configured to supply power to the vaporizer <b>100</b>, and the vaporizer <b>100</b> is configured to accommodate a liquid substrate and heat and vaporize the liquid substrate after power-on to generate aerosols. The vaporizer <b>100</b> is arranged above the power supply device <b>200</b> in a longitudinal direction, and may be connected with the power supply device <b>200</b> in a detachable or non-detachable manner.</p>
+<p id="p-0062" num="0061">As shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the vaporizer <b>100</b> in a first embodiment of the present disclosure may include a liquid storage housing <b>10</b> and a heating component <b>20</b> accommodated in the liquid storage housing <b>10</b>. A liquid storage cavity <b>110</b> for storing the liquid substrate and an air outlet channel <b>120</b> for outputting the aerosols are formed in the liquid storage housing <b>10</b>. The heating component <b>20</b> includes a base component <b>30</b>, a vaporization core <b>40</b>, and a heating base component <b>50</b>, where the vaporization core <b>40</b> is accommodated in a space formed between the base component <b>30</b> and the heating base component <b>50</b>. The vaporization core <b>40</b> is in communication with the liquid storage cavity <b>110</b> in a liquid guiding manner and is in communication with the air outlet channel <b>120</b> in an air guiding manner, and is configured to heat and vaporize the liquid substrate absorbed from the liquid storage cavity <b>110</b> to generate aerosols. A vaporization cavity <b>420</b> is formed between the base component <b>30</b> and the vaporization core <b>40</b> to mix the aerosols and air. Specifically, the liquid storage housing <b>10</b> may include a housing <b>11</b> opening at a lower end and an air outlet tube <b>12</b> arranged in the housing <b>11</b> in a longitudinal direction. The housing <b>11</b> is cylindrical, and a cross section thereof may be roughly in a shape of a narrow and long ellipse, a racetrack, or the like. An annular liquid storage cavity <b>110</b> is defined between an inner wall surface of the housing <b>11</b> and an outer wall surface of the air outlet tube <b>12</b>.</p>
+<p id="p-0063" num="0062">The air outlet tube <b>12</b> is connected to an inner side of a top wall of the housing <b>11</b> and may be coaxially arranged with the housing <b>11</b>, and an inner wall surface of the air outlet tube <b>12</b> defines the air outlet channel <b>120</b>. In this embodiment, the air outlet tube <b>12</b> is integrally formed with the housing <b>11</b>, for example, which be integrally formed through injection molding. In other embodiments, the air outlet tube <b>12</b> and the housing <b>11</b> may also be formed separately and then assembled together.</p>
+<p id="p-0064" num="0063">As shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref> to <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the vaporization core <b>40</b> includes a liquid absorbing body <b>41</b> and a heating body <b>42</b> arranged in the liquid absorbing body <b>41</b>. The liquid absorbing body <b>41</b> is in communication with the liquid storage cavity <b>110</b> in a liquid guiding manner, and is configured to absorb the liquid substrate from the liquid storage cavity <b>110</b> and transmit the liquid substrate to the heating body <b>42</b>. The heating body <b>42</b> is electrically connected to the power supply device <b>200</b>, and is configured to heat and vaporize the liquid substrate absorbed in the liquid absorbing body <b>41</b> to generate aerosols after being powered to generate heat.</p>
+<p id="p-0065" num="0064">The liquid absorbing body <b>41</b> may be made of materials with a porous capillary structure such as a porous liquid-absorbing ceramic or a liquid-absorbing cotton.</p>
+<p id="p-0066" num="0065">The liquid absorbing body <b>41</b> has a liquid absorbing surface <b>411</b> and a heating surface <b>412</b>. The heating surface <b>412</b> is configured to arrange the heating body <b>42</b>, and the liquid absorbing surface <b>411</b> is configured to absorb the liquid substrate from the liquid storage cavity <b>110</b> and transmit the liquid substrate to the heating surface <b>412</b> through the porous capillary structure inside the liquid absorbing body <b>41</b>. Specifically, in this embodiment, the liquid absorbing body <b>41</b> is a bowl-shaped porous liquid absorbing ceramic. The liquid absorbing surface <b>411</b> is arranged on one side of the liquid absorbing body <b>41</b> facing the liquid storage cavity <b>110</b>, and the heating surface <b>412</b> is arranged on one side of the liquid absorbing body <b>41</b> facing away from the liquid storage cavity <b>110</b>. The heating body <b>42</b> is arranged on the heating surface <b>412</b>, that is, the heating body <b>42</b> is arranged on one side of the liquid absorbing body <b>41</b> facing the base component <b>30</b>.</p>
+<p id="p-0067" num="0066">The base component <b>30</b> may include a base <b>31</b> and an electrode column <b>33</b> which is arranged in the base <b>31</b> in a longitudinal direction. The base <b>31</b> is embedded at the lower end opening of the housing <b>11</b> to seal the lower end opening of the housing <b>11</b>. The base <b>31</b> may include a plate-shaped main body portion <b>311</b>, a cylindrical side wall <b>312</b> extending upward from an outer periphery of the main body portion <b>311</b>, and two supporting arms <b>314</b> arranged at intervals and extending upward from an upper end surface of the main body portion <b>311</b>. The two supporting arms <b>314</b> may be respectively arranged on two opposite sides of the main body portion <b>311</b> in a length direction, and may be configured to engage with the heating base <b>52</b>. The upper end surface of the main body portion <b>311</b> and an inner wall surface of the cylindrical side wall <b>312</b> define a liquid storage space <b>3120</b>, and the liquid storage space <b>3120</b> may store a certain amount of condensate, thereby further reducing liquid leakage.</p>
+<p id="p-0068" num="0067">Further, the base <b>31</b> further includes an air inlet protruding stage <b>313</b> formed by upward extension of the upper end surface of the main body portion <b>311</b>. The air inlet protruding stage <b>313</b> is arranged in the cylindrical side wall <b>312</b>, and outer wall surfaces on two sides of the air inlet protruding stage in a width direction may be respectively integrated with inner wall surfaces on two sides of the cylindrical side wall <b>312</b> in a width direction. A top surface of the air inlet protruding stage <b>313</b> recesses downward to form a plurality of small air inlet holes <b>3130</b>, so that external air can enter the vaporization cavity <b>420</b>. The plurality of small air inlet holes <b>3130</b> may be distributed in an array, and in addition to ensuring sufficient air intake, a surface tension film formed on the plurality of small air inlet holes <b>3130</b> can also play a role of reducing liquid leakage. In addition, the small air inlet holes <b>3130</b> are formed on the air inlet protruding stage <b>313</b>, so that an end surface of an upper end of each of the small air inlet holes <b>3130</b> is higher than a bottom surface of the liquid storage space <b>3120</b>, thereby further reducing a risk of liquid leaking from the small air inlet holes <b>3130</b>.</p>
+<p id="p-0069" num="0068">Further, the plurality of small air inlet holes <b>3130</b> may include several first small air inlet holes <b>3131</b> and several second small air inlet holes <b>3132</b> surrounding the several first small air inlet holes <b>3131</b>. The several first small air inlet holes <b>3131</b> and the several second small air inlet holes <b>3132</b> may be respectively distributed in annular (for example, circular annular, elliptical annular, square annular, or polygonal annular) arrays at equal intervals. The number of the first small air inlet holes <b>3131</b> may be less than the number of the second small air inlet holes <b>3132</b>. In some embodiments, the number of the first small air inlet holes <b>3131</b> may range from 3 to 6, and the number of the second small air inlet holes <b>3132</b> may range from 6 to 15. In this embodiment, there are four first small air inlet holes <b>3131</b>, and the four first small air inlet holes <b>3131</b> are evenly and symmetrically distributed along a center of the air inlet protruding stage <b>313</b>; and there are ten second small air inlet holes <b>3132</b>, and the ten second small air inlet holes <b>3132</b> are evenly and symmetrically distributed along the center of the air inlet protruding stage <b>313</b>.</p>
+<p id="p-0070" num="0069">The first small air inlet holes <b>3131</b> and the second small air inlet holes <b>3132</b> have different air intake cross-sectional areas. Pneumatic noise may be reduced by setting the plurality of small air inlet holes <b>3130</b> to have different cross-sectional areas. Further, in this embodiment, the air intake cross-sectional area of the first small air inlet hole <b>3131</b> is less than the air intake cross-sectional area of the second small air inlet hole <b>3132</b>, and both the several first small air inlet holes <b>3131</b> and the several second small air inlet holes <b>3132</b> are distributed in an annular array. That is, a structural form of the small air inlet holes <b>3130</b> in this embodiment is a form of &#x201c;large holes on the periphery with small holes in the middle&#x201d;. The air intake cross-sectional areas of the several first small air inlet holes <b>3131</b> provided in an inner circle is smaller, so that condensate leakage can be effectively reduced; and the air intake cross-sectional areas of the several second small air inlet holes <b>3132</b> provided in an outer circle is larger, so that the inhalation resistance and noise may be balanced to ensure a sufficient air intake area and suitable inhalation resistance.</p>
+<p id="p-0071" num="0070">A lower end surface of the main body portion <b>311</b> may also recess upward to form an air inlet hole <b>3110</b>. The air inlet hole <b>3110</b> extends in a longitudinal direction, and an upper end of the air inlet hole <b>3110</b> is in communication with lower ends of the plurality of small air inlet holes <b>3130</b>, thereby forming an air inlet channel <b>315</b> that causes external air to enter the vaporization cavity <b>420</b>. Further, an air intake cross-sectional area of the air inlet hole <b>3110</b> is greater than a sum of air intake cross-sectional areas of the plurality of small air inlet holes <b>3130</b>.</p>
+<p id="p-0072" num="0071">The main body portion <b>311</b> is further provided with an electrode via <b>3111</b> for the electrode column <b>33</b> to pass through. There are usually two electrode columns <b>33</b>, and the two electrode columns <b>33</b> are electrically connected with two poles of the heating body <b>42</b> respectively. An end surface of an upper end of the electrode column <b>33</b> is in contact with the heating body <b>42</b> for conduction. In addition, the electrode column <b>33</b> also plays a role of supporting the vaporization core <b>40</b>.</p>
+<p id="p-0073" num="0072">Correspondingly, there are two electrode vias <b>3111</b>, and the two electrode columns <b>33</b> are respectively arranged in the two electrode vias <b>3111</b> in a run-through manner in a longitudinal direction. In this embodiment, the two electrode vias <b>3111</b> are provided in the cylindrical side wall <b>312</b> and may be separately located on the two sides of the air inlet protruding stage <b>313</b> in the length direction. Further, an end surface of an upper end of each electrode via <b>3111</b> may be higher than the bottom surface of the liquid storage space <b>3120</b>, thereby reducing a risk of liquid leaking from the electrode via <b>3111</b>.</p>
+<p id="p-0074" num="0073">The vaporizer <b>100</b> may also include a fixing cover <b>60</b> in some embodiments, and the fixing cover <b>60</b> is sleeved outside the base <b>31</b> and sleeved on the lower end of the housing <b>11</b> to fix the base <b>31</b>. Further, the fixing cover <b>60</b> may be in a buckle connection with the housing <b>11</b>, so as to realize fixing between the fixing cover <b>60</b> and the housing <b>11</b>. The fixing cover <b>60</b> may be made of a metal material, and the metal material has smaller deformation of thermal expansion and cold contraction as temperature changes, so that fixing between various parts of the vaporizer <b>100</b> is more stable and reliable, and the seal performance is better. In addition, the metal fixing cover <b>60</b> may further be configured to be magnetically connected to the power supply device <b>200</b>. It may be understood that in other embodiments, the fixing cover <b>60</b> may not be arranged, and the base <b>31</b> and the housing <b>11</b> may also be fixed to each other in a buckle connection, screw connection, or interference fit connection manner.</p>
+<p id="p-0075" num="0074">Further, as shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref> to <figref idref="DRAWINGS">FIG. <b>6</b></figref> and <figref idref="DRAWINGS">FIG. <b>9</b></figref>, the base component <b>30</b> further includes a seal member <b>32</b> sleeved outside the base <b>31</b>. The seal member <b>32</b> is hermetically arranged between the inner wall surface of the housing <b>11</b> and an outer wall surface of the base <b>31</b>, and may be integrally formed by an elastic material such as silica gel. The seal member <b>32</b> may include a body portion <b>321</b>, two sleeve portions <b>322</b> formed by upward extension of two opposite sides the body portion <b>321</b> respectively, and a protruding stage portion <b>323</b> arranged between the other two opposite sides of the body portion <b>321</b>. The body portion <b>321</b> is annular and is hermetically sleeved between an outer wall surface of the cylindrical side wall <b>312</b> and the inner wall surface of the housing <b>11</b>. An outer circumferential surface of the body portion <b>321</b> may be in interference fit with an inner circumferential surface of a bottom end of the housing <b>11</b> to further improve the seal performance.</p>
+<p id="p-0076" num="0075">The two sleeve portions <b>322</b> are respectively formed by upward extension of two outer edges of the body portion <b>321</b> in a long-side direction (length direction). The two sleeve portions <b>322</b> are respectively sleeved outside two sides of the heating base <b>52</b>, and can limit a long-side direction of the seal member <b>32</b> and prevent the long-side direction of the seal member <b>32</b> from being assembled obliquely. The two sleeve portions <b>322</b> only occupy a space in the housing <b>11</b> in a long-side direction, but do not occupy a space in the housing <b>11</b> in a short-side direction, therefore, this structure is conducive to realize a thin and light design of the vaporizer <b>100</b>.</p>
+<p id="p-0077" num="0076">Outer wall surfaces on two sides of the protruding stage portion <b>323</b> are integrated with inner wall surfaces on two sides of the body portion <b>321</b> in a short-side direction (width direction) respectively. The protruding stage portion <b>323</b> can be embedded in a bottom of the heating base <b>52</b>, so as to limit a short-side direction of the seal member <b>32</b> and prevent the short-side direction of the seal member <b>32</b> from being assembled obliquely.</p>
+<p id="p-0078" num="0077">At least one air inlet through hole <b>3230</b> in communication with the plurality of small air inlet holes <b>3130</b> and the vaporization cavity <b>420</b> respectively is formed on the protruding stage portion in a longitudinal direction. In this embodiment, there is one air inlet through hole <b>3230</b>, and the one air inlet through hole <b>3230</b> is provided coaxially with the protruding stage portion <b>323</b> and the body portion <b>321</b>. It may be understood that in other embodiments, the number of the air inlet through holes <b>3230</b> is not limited to one, and the air inlet through holes may not be provided coaxially with the protruding stage portion <b>323</b> and/or the body portion <b>321</b>. The protruding stage portion <b>323</b> is arranged above the plurality of small air inlet holes <b>3130</b>. In a case that liquid explosion occurs on the heating surface <b>412</b> of the liquid absorbing body <b>41</b>, the protruding stage portion <b>323</b> can block some droplets of the liquid explosion from directly exploding into surfaces of the plurality of small air inlet holes <b>3130</b>, thereby reducing liquid leakage. In addition, when inhalation is stopped, vapor refluxes under the action of negative pressure. Affected by the protruding stage portion <b>323</b>, most of the refluxed vapor is not in direct contact with the small air inlet holes <b>3130</b>, thereby reducing formation of condensate at the small air inlet holes <b>3130</b> and reducing a risk of liquid leakage.</p>
+<p id="p-0079" num="0078">The air inlet through hole <b>3230</b> may include an air inlet section <b>3231</b> in communication with the plurality of small air inlet holes <b>3130</b> and an air outlet section <b>3232</b> in communication with the vaporization cavity <b>420</b>. In this embodiment, the air inlet through hole <b>3230</b> is in a shrunken shape, that is, a cross-sectional area of the air inlet section <b>3231</b> is greater than a cross-sectional area of the air outlet section <b>3232</b>. The air inlet through hole <b>3230</b> in a shrunken shape can gather airflows during air intake to increase a flow rate, so that the aerosols in the vaporization cavity <b>420</b> are quickly taken out by the airflows. When inhalation is stopped, the vapor refluxes under the action of negative pressure, and a flow rate of the vapor decreases from the air outlet section <b>3232</b> to the air inlet section <b>3231</b>, thereby reducing vapor reflux. In addition, the cross-sectional area of the air outlet section <b>3232</b> arranged on an upper part is relatively small, and the condensate can hardly leak out, thereby reducing liquid leakage. Further, a cross-sectional area at an air outlet on an upper end of the air outlet section <b>3232</b> (an end away from the air inlet section <b>3231</b>) may be less than the cross-sectional area of the air inlet protruding stage <b>313</b>.</p>
+<p id="p-0080" num="0079">To further reduce liquid leakage, an end surface of the upper end of the air outlet section <b>3232</b> (an end surface of an end facing the vaporization cavity <b>420</b>) may be higher than an end surface of an upper end of the surrounding protruding stage portion <b>323</b>. Further, a smooth curved surface transition connection may be used between the air inlet section <b>3231</b> and the air outlet section <b>3232</b>, so as to reduce airflow resistance at a junction between the air inlet section <b>3231</b> and the air outlet section <b>3232</b>, thereby avoiding generation of a vortex flow at the junction, and further effectively reducing airflow noise.</p>
+<p id="p-0081" num="0080">Cross-sectional shapes of the air inlet section <b>3231</b> and the air outlet section <b>3232</b> may be the same or may be different. In this embodiment, the cross-sectional shape of the air inlet section <b>3231</b> is a circle, and a pore size of the air inlet section <b>3231</b> gradually decreases from bottom to top (from an end away from the air outlet section <b>3232</b> to an end close to the air outlet section <b>3232</b>). The air outlet section <b>3232</b> is a straight through hole whose cross-sectional shape is a racetrack-shaped circle, that is, a length of a long axis and a length of a short axis of the air outlet section <b>3232</b> remain unchanged in a longitudinal direction. The air inlet section <b>3231</b> and the air outlet section <b>3232</b> are in a smooth transition connection through a connecting section <b>3233</b>. The connecting section <b>3233</b> has a first end in communication with the air inlet section <b>3231</b> and a second end in communication with the air outlet section <b>3232</b>. A cross-sectional shape and size of the first end are consistent with a cross-sectional shape and size of an upper end of the air inlet section <b>3231</b>. A cross-sectional shape and size of the second end are consistent with the cross-sectional shape and size of the lower end of the air outlet section <b>3232</b>. A cross-sectional shape of the connecting section <b>3233</b> gradually changes from a circle at the first end to a racetrack-shaped circle at the second end. It may be understood that in other embodiments, the cross-sectional shapes of the air inlet section <b>3231</b> and the air outlet section <b>3232</b> may also be a circle, an elliptical circle, a square, or other shapes.</p>
+<p id="p-0082" num="0081">The protruding stage portion <b>323</b> is further provided with two electrode holes <b>3233</b> for the two electrode columns <b>33</b> to pass through respectively. The two electrode holes <b>3233</b> may be respectively provided on two sides of the air inlet through hole <b>3230</b> in a length direction. Two avoidance holes <b>3210</b> are further formed on the seal member <b>32</b> corresponding to the two supporting arms <b>314</b> respectively, and the two supporting arms <b>314</b> may pass through the two avoidance holes <b>3210</b> respectively so as to be engaged with the heating base <b>52</b>. Specifically, an extending length of the protruding stage portion <b>323</b> in a length direction is less than an extending length of the body portion <b>321</b> in a length direction. The two avoidance holes <b>3210</b> are respectively formed between the outer wall surfaces on the two sides of the protruding stage portion <b>323</b> in the length direction and inner wall surfaces on the two sides of the body portion <b>321</b> in the length direction.</p>
+<p id="p-0083" num="0082">Further, a top surface of the protruding stage portion <b>323</b> recesses downward and/or a bottom surface of the protruding stage portion <b>323</b> recesses downward to form several airflow guide grooves <b>3234</b>. The several airflow guide grooves <b>3234</b> communicate the air inlet through hole <b>3230</b> and the two electrode holes <b>3233</b> with the avoidance holes <b>3210</b>. The airflow guide groove <b>3234</b> is a tiny fine groove structure, which may apply a strong capillary force on the liquid substrate, and may absorb leaked liquid at the air inlet through hole <b>3230</b> and the two electrode holes <b>3233</b> under the action of the capillary force and guide the leaked liquid to the avoidance holes <b>3210</b>. Therefore, the leaked liquid falls into the liquid storage space <b>3120</b> through the avoidance holes <b>3210</b>, so as to further reduce liquid leakage.</p>
+<p id="p-0084" num="0083">As shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref> to <figref idref="DRAWINGS">FIG. <b>6</b></figref> and <figref idref="DRAWINGS">FIG. <b>10</b></figref> to <figref idref="DRAWINGS">FIG. <b>11</b></figref>, the heating base component <b>50</b> includes a heating base <b>52</b>, where the heating base <b>52</b> is mated with the base <b>31</b> to fix the vaporization core <b>40</b>. In this embodiment, both the heating base <b>52</b> and the base <b>31</b> are made of a plastic material, and the heating base <b>52</b> and the base <b>31</b> are buckled to each other.</p>
+<p id="p-0085" num="0084">At least one liquid inlet hole <b>520</b> which communicates the liquid absorbing body <b>41</b> with the liquid storage cavity <b>110</b> is formed on the heating base <b>52</b>, and the liquid substrate in the liquid storage cavity <b>110</b> can supply liquid to the liquid absorbing surface <b>411</b> of the liquid absorbing body <b>41</b> through the at least one liquid inlet hole <b>520</b>. The vaporization core <b>40</b> may be accommodated in the heating base <b>52</b>, and at least one opening <b>527</b> is further formed on a side wall of the heating base <b>52</b>, so that at least a part of a side surface of the liquid absorbing body <b>41</b> is exposed to the outside. In this embodiment, there are two liquid inlet holes <b>520</b>, and the two liquid inlet holes <b>520</b> are respectively provided on two sides of the heating base <b>52</b> in a length direction.</p>
+<p id="p-0086" num="0085">There are two openings <b>527</b>, and the two openings <b>527</b> are respectively provided on two sides of the heating base <b>52</b> in a width direction.</p>
+<p id="p-0087" num="0086">Further, at least one liquid storage and vent structure <b>521</b> in communication with the liquid storage cavity <b>110</b> is further formed on an outer surface of the heating base <b>52</b>, where the at least one liquid storage and vent structure <b>521</b> may be configured to balance air pressure in the liquid storage cavity <b>110</b>. In a case that the air pressure in the liquid storage cavity <b>110</b> is excessively low, external air may enter the liquid storage cavity <b>110</b> through the liquid storage and vent structure <b>521</b>, so as to avoid occurrence of non-smooth liquid supplying caused by excessively low air pressure in the liquid storage cavity <b>110</b> and prevent dry burning.</p>
+<p id="p-0088" num="0087">Specifically, in this embodiment, there are two liquid storage and vent structures <b>521</b>. The two liquid storage and vent structures <b>521</b> are respectively formed on the two sides of the heating base <b>52</b> in the length direction, and the two liquid storage and vent structures <b>521</b> may be arranged rotationally and symmetrical relative to a central axis of the heating base <b>52</b>.</p>
+<p id="p-0089" num="0088">Each liquid storage and vent structure <b>521</b> includes a vent channel <b>522</b> formed on an end of the heating base <b>52</b> close to the liquid storage cavity <b>110</b>, a liquid storage groove <b>524</b> and a tension isolation groove <b>526</b> formed on an end of the heating base <b>52</b> away from the liquid storage cavity <b>110</b>, a liquid absorbing groove opening <b>523</b> communicating the vent channel <b>522</b> with the liquid storage groove <b>524</b>, and a vent entrance <b>525</b> communicating the vent channel <b>522</b> with the tension isolation groove <b>526</b>. One end of the vent channel <b>522</b> is in communication with the liquid storage cavity <b>110</b>, and the other end is in communication with the liquid storage groove <b>524</b> and the tension isolation groove <b>526</b> respectively through the liquid absorbing groove opening <b>523</b> and the vent entrance <b>525</b>. The vent entrance <b>525</b> is configured to introduce the external air into the vent channel <b>522</b>, and the liquid absorbing groove opening <b>523</b> is configured to absorb the liquid substrate by capillary force (such as condensate or leaked liquid in the vent channel <b>522</b>, condensate or leaked liquid formed on the vaporization core <b>40</b>, or condensate or leaked liquid formed on other parts) to the liquid storage groove <b>524</b>, thereby isolating ventilation from liquid storage and preventing the liquid substrate from blocking the vent channel <b>522</b>. In addition, a width of the vent entrance <b>525</b> is greater than a width of the liquid absorbing groove opening <b>523</b>, so that the liquid absorbing groove opening <b>523</b> forms a stronger capillary force, thereby absorbing the liquid substrate in the vent channel <b>522</b> to the liquid storage groove <b>524</b> through the liquid absorbing groove opening <b>523</b> to achieve gas-liquid separation.</p>
+<p id="p-0090" num="0089">Specifically, the vent channel <b>522</b> includes several vent grooves <b>5221</b> extending in a circumferential direction of the heating base <b>52</b>, an air guide groove <b>5222</b> in communication with the several vent grooves <b>5221</b> and extending in a longitudinal direction, and an air reflux groove <b>5223</b> in communication with the air guide groove <b>5222</b> and extending in a horizontal direction. The plurality of vent grooves <b>5221</b> may be formed through inward recessing of an outer peripheral surface of an end of the heating base <b>52</b> close to the liquid storage cavity <b>110</b>, and the several vent grooves <b>5221</b> may be arranged at intervals in parallel. The air guide groove <b>5222</b> is formed through inward recessing of a side surface of the heating base <b>52</b>, one end of the air guide groove <b>5222</b> is in communication with the uppermost vent groove <b>5221</b>, and the other end extends upward to a top surface of the heating base <b>52</b>. The air reflux groove <b>5223</b> is formed through inward recessing of the top surface of the heating base <b>52</b>, one end of the air reflux groove <b>5223</b> is in communication with the air guide groove <b>5222</b>, and the other end is in communication with a liquid inlet hole <b>520</b> on a corresponding side.</p>
+<p id="p-0091" num="0090">The vent groove <b>5221</b>, the air guide groove <b>5222</b>, and the air reflux groove <b>5223</b> are all tiny fine groove structures, which cannot block flowing of air but can block flowing of the liquid substrate, thereby ensuring that the vent channel <b>521</b> has a function of ventilation and liquid blocking, and reducing a possibility of leakage of the liquid substrate in the liquid storage cavity <b>110</b> through the vent channel <b>521</b>. In some embodiments, widths of the vent groove <b>5221</b>, the air guide groove <b>5222</b>, and the air reflux groove <b>5223</b> may range from 0.3 mm to 0.6 mm, and depths thereof may range from 0.3 mm to 0.6 mm.</p>
+<p id="p-0092" num="0091">The liquid storage groove <b>524</b> includes a plurality of liquid storage sub-grooves <b>5241</b> extending in the circumferential direction of the heating base <b>52</b>.</p>
+<p id="p-0093" num="0092">The plurality of liquid storage sub-grooves <b>5241</b> may be formed through inward recessing of an outer peripheral surface of an end of the heating base <b>52</b> away from the liquid storage cavity <b>110</b>, and the plurality of liquid storage sub-grooves <b>5241</b> may be provided at intervals in parallel. Further, two circumferential ends of each liquid storage sub-groove <b>5241</b> may extend to two openings <b>527</b> and to be in communication with the two openings <b>527</b> respectively, so that the liquid storage sub-groove <b>5241</b> is in communication with the liquid absorbing body <b>41</b>. After the liquid storage groove <b>524</b> stores condensate (or the liquid substrate leaks from the vent channel <b>522</b> to the liquid storage groove <b>524</b>), the capillary force of a gap between the liquid absorbing body <b>41</b> and the liquid storage groove <b>524</b> absorbs the condensate (or the liquid substrate) to the liquid absorbing body <b>41</b>, thereby reducing a risk of the condensate being absorbed back from the vent channel <b>522</b> to the liquid storage cavity <b>110</b> and leaking into the power supply device <b>200</b>.</p>
+<p id="p-0094" num="0093">The liquid storage sub-groove <b>5241</b> is a tiny fine groove structure, which applies a strong capillary force to the liquid substrate, and may absorb the condensate in the vent groove <b>5221</b> under the action of the capillary force. In some embodiments, a width of the liquid storage sub-groove <b>5241</b> may range from 0.3 mm to 0.6 mm, and a depth thereof may range from 0.3 mm to 0.6 mm.</p>
+<p id="p-0095" num="0094">The tension isolation groove <b>526</b> has a larger width than the vent channel <b>522</b> and the liquid storage groove <b>524</b>, and is configured to prevent condensate in the liquid storage groove <b>524</b> from being absorbing back to the liquid storage cavity <b>110</b> to cause pressure fluctuation in the liquid storage cavity <b>110</b> and affect liquid supplying, so that ventilation pressure is more stable. The tension isolation groove <b>526</b> may extend in a longitudinal direction, a lower end thereof may be in communication with a lowermost liquid storage sub-groove <b>5241</b>, and an upper end may be in communication with an uppermost liquid storage sub-groove <b>5241</b>, so that the plurality of liquid storage sub-grooves <b>5241</b> are in communication with each other through the tension isolation groove <b>526</b>.</p>
+<p id="p-0096" num="0095">A width of the tension isolation groove <b>526</b> may be greater than a width of the vent entrance <b>525</b>. In some embodiments, the width of the tension break groove <b>526</b> may range from 1 mm to 3 mm, and a depth thereof may range from 0.5 mm to 1.2 mm.</p>
+<p id="p-0097" num="0096">The liquid absorbing groove opening <b>523</b> and the vent entrance <b>525</b> may be in communication with two circumferential sides on one end of the vent channel <b>522</b> away from the liquid storage cavity <b>110</b> respectively. In some embodiments, the vent entrance <b>525</b> may be in communication with one of the several vent grooves <b>5221</b>, and the liquid absorbing groove opening <b>523</b> may be in communication with another of the several vent grooves <b>5221</b>.</p>
+<p id="p-0098" num="0097">Specifically, in this embodiment, the several vent grooves <b>5221</b> may include a lowermost first vent groove <b>5224</b> and a second vent groove <b>5225</b> provided above the first vent groove <b>5224</b> and neighboring to the first vent groove <b>5224</b>. An upper end of the liquid absorbing groove opening <b>523</b> may be in communication with one side in a circumferential direction of the first vent groove <b>5224</b>, and a lower end thereof may extend downward in a longitudinal direction to an uppermost liquid storage sub-groove <b>5241</b> and be in communication with the liquid storage sub-groove <b>5241</b>. An upper end of the vent entrance <b>525</b> may be in communication with another side in a circumferential direction of the second vent groove <b>5225</b>, and a lower end thereof may extend downward in a longitudinal direction to be in communication with an upper end of the tension isolation groove <b>526</b>. As shown by arrows in <figref idref="DRAWINGS">FIG. <b>11</b></figref>, the air enters the second vent groove <b>5225</b> from the vent entrance <b>525</b>, then flows to the air guide groove <b>5222</b> through the several vent grooves <b>5221</b> provided above the second vent groove <b>5225</b> sequentially, and finally enters the liquid storage cavity <b>110</b> through the air reflux groove <b>5223</b>, thereby balancing the air pressure in the liquid storage cavity <b>110</b>. In some embodiments, a width of the liquid absorbing groove opening <b>523</b> may range from 0.3 mm to 0.6 mm, and a depth thereof may range from 0.3 mm to 0.6 mm. A width of the vent entrance <b>525</b> may range from 0.6 mm to 1.5 mm, and a depth thereof may range from 0.3 mm to 0.6 mm.</p>
+<p id="p-0099" num="0098">It may be understood that in other embodiments, the vent inlet <b>525</b> and the liquid absorbing groove opening <b>523</b> may also be in communication with a same vent groove <b>5221</b>, and the vent entrance <b>525</b> and the liquid absorbing groove opening <b>523</b> may be in communication with two ends in a circumferential direction of the same vent groove <b>5221</b> (for example, the first vent groove <b>5224</b>) respectively.</p>
+<p id="p-0100" num="0099">During the inhalation, the liquid substrate is absorbed from the liquid storage cavity <b>110</b> to the vent channel <b>522</b>, and the surface tension needs to be overcome when the liquid substrate is absorbed to the vent entrance <b>525</b>. In this case, the vent entrance <b>525</b> plays a role of preventing the liquid substrate from being absorbed out of the vent channel <b>522</b>, and at the same time, the first vent groove <b>5224</b> at the bottom circle may absorb a part of the liquid substrate. <figref idref="DRAWINGS">FIG. <b>12</b></figref> is a gas-liquid two-phase distribution diagram in a liquid storage and vent structure <b>521</b> at a moment at which inhalation is stopped. A test condition is inhaling for 3 s and stopping for 27 s, and a liquid phase volume fraction in the liquid storage and vent structure <b>521</b> at a moment after inhalation is performed for 3 s is tested. It can be seen from the gas-liquid two-phase distribution diagram that at the moment at which inhalation is stopped, the liquid phase (mainly leaked from the liquid storage cavity <b>110</b> during inhalation) is mainly distributed in the vent channel <b>522</b>, and there is little or no liquid phase distributed in the liquid storage groove <b>524</b>, so that the liquid substrate can be well prevented from flowing out of the vent channel <b>522</b>.</p>
+<p id="p-0101" num="0100">Further, as shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref> to <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the heating base component <b>50</b> further includes a seal sleeve <b>53</b> sleeved above the heating base <b>52</b> and a seal gasket <b>51</b> accommodated in the heating base <b>52</b> and arranged between the heating base <b>52</b> and the liquid absorbing body <b>41</b>. Both the seal sleeve <b>53</b> and the seal gasket <b>51</b> may be made of an elastic material such as silica gel. The seal gasket <b>51</b> may be in a shape of an annular sheet, and the seal gasket <b>51</b> is hermetically pressed between the heating base <b>52</b> and the liquid absorbing body <b>41</b>, so as to play a role of buffering, ensuring sealing performance, and preventing liquid leakage. The seal sleeve <b>53</b> is sleeved on an upper part of the heating base <b>52</b>, and is configured to seal a lower end of the liquid storage cavity <b>110</b> and seal and isolate the vaporization cavity <b>420</b> from the liquid storage cavity <b>110</b>. An outer peripheral surface of the seal sleeve <b>53</b> may be in interference fit with an inner peripheral surface of the housing <b>11</b> to further improve the sealing performance. A top surface of the seal sleeve <b>53</b> may further recess downward to form a vent hole <b>530</b>, a lower end of the air outlet tube <b>12</b> may be embedded in the vent hole <b>530</b>, and an outer peripheral surface of the lower end of the air outlet tube <b>12</b> is in sealing fit with a hole wall of the vent hole <b>530</b>, thereby sealing and isolating the air outlet channel <b>120</b> from the liquid storage cavity <b>110</b>.</p>
+<p id="p-0102" num="0101"><figref idref="DRAWINGS">FIG. <b>14</b></figref> shows a heating component in some embodiments in the related art. The heating component includes a vaporization top base <b>115</b>, a vaporization core <b>12</b>, and a vaporization bottom base <b>116</b>. An outer surface of the vaporization top portion <b>115</b> is provided with a vent groove <b>112</b>, and the vent groove <b>112</b> includes a first vent sub-groove <b>1121</b> and a second vent sub-groove <b>1122</b>. An outer surface of the vaporization base <b>116</b> is provided with an airflow guiding groove <b>114</b> and a liquid storage groove <b>113</b>. One end of the airflow guiding groove <b>114</b> is in communication with the vent groove <b>112</b>, and the other end of the airflow guiding groove <b>114</b> is in communication with the liquid storage groove <b>113</b>. The liquid storage groove <b>113</b> includes a plurality of liquid storage sub-grooves <b>1131</b>.</p>
+<p id="p-0103" num="0102"><figref idref="DRAWINGS">FIG. <b>13</b></figref> and <figref idref="DRAWINGS">FIG. <b>15</b></figref> show vent pressure curves of the heating components shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref> and <figref idref="DRAWINGS">FIG. <b>14</b></figref>, where a horizontal axis is an inhalation time, and a vertical axis is pressure of the liquid storage cavity. In this test, a test condition is inhaling for 3 s and stopping for 27 s at a power of 6 W. In the heating component shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, there are four vent grooves <b>5221</b>, each vent groove <b>5221</b> has a width of 0.35 mm and a depth of 0.4 mm, the vent entrance <b>525</b> has a width of 1 mm and a depth of 0.4 mm, and the tension isolation groove <b>526</b> has a width of 2 mm and a depth of 0.8 mm; and in the heating component shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>, there are four first vent sub-grooves <b>1121</b>, each first vent sub-groove <b>1121</b> has a width of 0.35 mm and a depth of 0.4 mm, and an entrance of an end of the airflow guiding groove <b>114</b> in communication with the first vent sub-groove <b>1121</b> has a width of 0.6 mm and a depth of 0.4 mm. It can be seen from <figref idref="DRAWINGS">FIG. <b>13</b></figref> and <figref idref="DRAWINGS">FIG. <b>15</b></figref> that a fluctuation range of the ventilation pressure of the heating component shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref> is smaller, and most cases are one ventilation for one inhalation (that is, a ventilation time is shorter and a ventilation rate is faster); and a fluctuation range of the ventilation pressure of the heating component shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref> is larger, and most cases are one ventilation for two inhalations (that is, the ventilation time is longer, and the ventilation rate is slower). In comparison, the heating component shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref> has higher ventilation stability. In addition, because the heating component has a shorter ventilation path without passing through the first vent groove <b>5224</b> at the bottom circle during ventilation, the ventilation pressure is smaller and the ventilation rate is faster, which can effectively avoid a case of a burnt flavor and a reduced amount of vapor due to poor ventilation.</p>
+<p id="p-0104" num="0103"><figref idref="DRAWINGS">FIG. <b>16</b></figref> shows a base <b>31</b> in a first alternative solution of the present disclosure, and a main difference from the foregoing first embodiment lies in that, in this embodiment, the air intake cross-sectional area of the first small air inlet hole <b>3131</b> is greater than the air intake cross-sectional area of the second small air inlet hole <b>3132</b>, that is, the structure form of the small air inlet hole <b>3130</b> is a form of &#x201c;small holes on the periphery with large holes in the middle&#x201d;.</p>
+<p id="p-0105" num="0104"><figref idref="DRAWINGS">FIG. <b>18</b></figref> shows a base <b>31</b> in some embodiments of the related art. In the base <b>31</b>, the air intake cross-sectional area of the first small air inlet hole <b>3131</b> is equal to the air intake cross-sectional area of the second small air inlet hole <b>3132</b>.</p>
+<p id="p-0106" num="0105"><figref idref="DRAWINGS">FIG. <b>8</b></figref>, <figref idref="DRAWINGS">FIG. <b>17</b></figref>, and <figref idref="DRAWINGS">FIG. <b>19</b></figref> are simulated noise distribution cloud diagrams of the bases shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, <figref idref="DRAWINGS">FIG. <b>16</b></figref>, and <figref idref="DRAWINGS">FIG. <b>18</b></figref>. In tests, the bases shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, <figref idref="DRAWINGS">FIG. <b>16</b></figref>, and <figref idref="DRAWINGS">FIG. <b>18</b></figref> all include four first small air inlet holes <b>3131</b> and ten second small air inlet holes <b>3132</b>; in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, a pore size of the first small air inlet hole <b>3131</b> is 3.5 mm, a pore size of the second small air inlet hole <b>3132</b> is 4.5 mm, and maximum pneumatic noise is 61.37 dB; in <figref idref="DRAWINGS">FIG. <b>16</b></figref>, the pore size of the first small air inlet hole <b>3131</b> is 4.5 mm, the pore size of the second small air inlet hole <b>3132</b> is 3.5 mm, and the maximum pneumatic noise is 66.52 dB; and in <figref idref="DRAWINGS">FIG. <b>18</b></figref>, the pore sizes of both the first small air inlet hole <b>3131</b> and the second small air inlet hole <b>3132</b> are 3.5 mm, and the maximum pneumatic noise is 70.83 dB. It can be seen from <figref idref="DRAWINGS">FIG. <b>8</b></figref>, <figref idref="DRAWINGS">FIG. <b>17</b></figref>, and <figref idref="DRAWINGS">FIG. <b>19</b></figref> that the small air inlet hole structures shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref> and <figref idref="DRAWINGS">FIG. <b>16</b></figref> with staggered large and small holes can significantly reduce the pneumatic noise during inhalation, and the small air inlet hole structure shown in <figref idref="DRAWINGS">FIG. <b>18</b></figref> has larger pneumatic noise.</p>
+<p id="p-0107" num="0106">In addition, the small air inlet hole structure shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref> with the form of &#x201c;large holes on the periphery with small holes in the middle&#x201d; has minimum pneumatic noise during inhalation and a best uniform airflow guiding effect on airflows. Therefore, during designing, the air intake cross-sectional area of the first small air inlet hole <b>3131</b> may be caused to be less than the air intake cross-sectional area of the second small air inlet hole <b>3132</b> by selecting the first small air inlet holes <b>3131</b> and the second small air inlet holes <b>3132</b> with appropriate numbers and sizes (for example, the pore sizes or the air intake cross-sectional areas), so that the pneumatic noise of the vaporizer <b>100</b> during operation is less than 61.4 dB.</p>
+<p id="p-0108" num="0107"><figref idref="DRAWINGS">FIG. <b>20</b></figref> to <figref idref="DRAWINGS">FIG. <b>21</b></figref> show a base <b>31</b> in a second alternative solution of the present disclosure, and a main difference from the foregoing first embodiment lies in that, in this embodiment, an upper surface <b>3133</b> of an air inlet protruding stage <b>313</b> is in a convex shape, Specifically, the upper surface <b>3133</b> may be a spherical surface. The plurality of small air inlet holes <b>3130</b> on the air inlet protruding stage <b>313</b> are formed through downward extension of the upper surface <b>3133</b>. In other embodiments, the upper surface <b>3133</b> may also be in another shape such as a truncated cone. The second small air inlet holes <b>3132</b> provided on the periphery may be provided close to an outer edge of the upper surface <b>3133</b>.</p>
+<p id="p-0109" num="0108">With reference to <figref idref="DRAWINGS">FIG. <b>22</b></figref>, by designing the air inlet protruding stage <b>313</b> into a convex shape with small holes on an inner side and large holes on an outer side, a condensate film boundary <b>35</b> formed at the second small air inlet holes <b>3132</b> on the periphery has a substantially spherical shape and is in communication with the condensate stored in the liquid storage space <b>3120</b>, so that the condensate has a tendency to flow to an outer side of the small air inlet holes <b>3130</b>, and a flow direction of the condensate is shown by arrows in <figref idref="DRAWINGS">FIG. <b>22</b></figref>. When the small air inlet holes <b>3130</b> are covered by the condensate, because the first small air inlet holes <b>3131</b> in the middle have small pore sizes, it is difficult for the condensate to flow out; and the condensate of the second small air inlet holes <b>3132</b> on the periphery is in communication with the condensate stored in the base <b>31</b>, and is easily taken away by the condensate stored in the base <b>31</b>, so that the condensate may be spread in the liquid storage space <b>3120</b> of the base <b>31</b> in time, and the small air inlet holes <b>3130</b> can be hardly blocked.</p>
+<p id="p-0110" num="0109"><figref idref="DRAWINGS">FIG. <b>23</b></figref> shows a seal member <b>32</b> in a third alternative solution of the present disclosure, and a main difference from the foregoing first embodiment lies in that, in this embodiment, the protruding stage portion <b>323</b> is not provided with the electrode hole <b>3233</b>. In addition, two side surfaces on two sides of the protruding stage portion <b>323</b> in a length direction recess inward respectively to form avoidance grooves <b>3235</b> in communication with the avoidance holes <b>3210</b>. This structure may reduce impact on a shape and a size of the air inlet through hole during designing.</p>
+<p id="p-0111" num="0110"><figref idref="DRAWINGS">FIG. <b>24</b></figref> shows a seal member <b>32</b> in a fourth alternative solution of the present disclosure, and a main difference from the foregoing first embodiment lies in that, in this embodiment, the protruding stage portion <b>323</b> is not provided with the electrode hole <b>3233</b>, and this structure may reduce impact on the shape and the size of the air inlet through hole <b>3230</b> during designing.</p>
+<p id="p-0112" num="0111">It may be understood that, the above technical features may be used in any combination without limitation.</p>
+<p id="p-0113" num="0112">The foregoing embodiments only describe preferred implementations of the present disclosure, and the description is specific and detailed, but cannot therefore be understood as a limitation to the patent scope of the present disclosure. It should be noted that, for a person of ordinary skill in the art, the foregoing technical features may be combined freely, and several transformations and improvements may be further made without departing from the idea of the present disclosure. These transformations and improvements all fall within the protection scope of the present disclosure. Therefore, any equivalent change or modification made according to the scope of the claims of the present disclosure shall fall within the scope of the claims of the present disclosure.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A vaporizer, comprising:
+<claim-text>a liquid storage housing having a liquid storage cavity formed therein; and</claim-text>
+<claim-text>a base arranged at one end of the liquid storage housing, wherein:
+<claim-text>the base comprises an air inlet protruding stage,</claim-text>
+<claim-text>the air inlet protruding stage has an upper surface facing the liquid storage cavity,</claim-text>
+<claim-text>the upper surface is in a shape of a protrusion; and</claim-text>
+<claim-text>the air inlet protruding stage is provided with a plurality of air inlet holes extending from the upper surface away from the liquid storage cavity.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The vaporizer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the upper surface is a spherical surface.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The vaporizer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the plurality of air inlet holes comprises one or more first air inlet holes having a first cross-sectional area and one or more second air inlet holes having a second cross-sectional area, the second air inlet holes surrounding the first air inlet holes.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The vaporizer according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the first cross-sectional area of the first air inlet holes is less than or is greater than the second cross-sectional area of the second air inlet holes.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The vaporizer according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the one or more first air inlet holes and the one or more second air inlet holes are respectively distributed in annular arrays at equal intervals, and the number of the first air inlet holes is less than the number of the second air inlet holes.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The vaporizer according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein:
+<claim-text>the one or more first air inlet holes include four first air inlet holes evenly and symmetrically distributed around a center of the air inlet protruding stage; and</claim-text>
+<claim-text>the one or more second air inlet holes include ten second air inlet holes evenly and symmetrically distributed around the center of the air inlet protruding stage.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The vaporizer according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein a pneumatic noise of the vaporizer during operation is less than 61.4 dB.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The vaporizer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base comprises a main body portion, and the air inlet protruding stage is formed by an upward extension of an upper end surface of the main body portion.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The vaporizer according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the main body portion is provided with a third air inlet hole in communication with the plurality of air inlet holes.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The vaporizer according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein a cross-sectional area of the third air inlet hole is greater than a sum of the cross-sectional areas of the plurality of air inlet holes.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The vaporizer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a liquid absorbing body arranged in the liquid storage housing and in communication with the liquid storage cavity in a liquid guiding manner.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The vaporizer according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising a seal member arranged in the liquid storage housing and sleeved on the base.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The vaporizer according to <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the seal member comprises a protruding stage portion arranged between the liquid absorbing body and the air inlet protruding stage, and the protruding stage portion is provided with an air inlet through hole in communication with the plurality of air inlet holes.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The vaporizer according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein an end surface of an upper end of the air inlet through hole is higher than an end surface of an upper end of the protruding stage portion.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The vaporizer according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the air inlet through hole comprises an air inlet section facing the base and an air outlet section away from the base, and a cross-sectional area of the air inlet section is greater than a cross-sectional area of the air outlet section.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The vaporizer according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the air inlet through hole includes an air outlet arranged at an end of the air inlet through hole away from the air inlet protruding stage, a cross-sectional area of the air outlet is less than a cross-sectional area of the air inlet protruding stage.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The vaporizer according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the seal member comprises a body portion which is annular and hermetically sleeved between the base and the liquid storage housing, and two opposite sides of the protruding stage portion are respectively connected with two opposite sides of the body portion.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The vaporizer according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising a heating base formed in the liquid storage housing and mated with the base, wherein the liquid absorbing body is arranged between the heating base and the base.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. An electronic vaporization device, comprising a vaporizer, the vaporizer including:
+<claim-text>a liquid storage housing having a liquid storage cavity formed therein; and</claim-text>
+<claim-text>a base arranged at one end of the liquid storage housing, wherein:
+<claim-text>the base comprises an air inlet protruding stage,</claim-text>
+<claim-text>the air inlet protruding stage has an upper surface facing the liquid storage cavity,</claim-text>
+<claim-text>the upper surface is in a shape of a protrusion; and</claim-text>
+<claim-text>the air inlet protruding stage is provided with a plurality of air inlet holes extending from the upper surface away from the liquid storage cavity.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. A vaporizer, comprising:
+<claim-text>a liquid storage housing having a liquid storage cavity; and</claim-text>
+<claim-text>a base arranged at one end of the liquid storage housing, wherein:
+<claim-text>the base comprises an air inlet protruding stage,</claim-text>
+<claim-text>the air inlet protruding stage is provided with at least one first air inlet hole and at least one second air inlet hole, and</claim-text>
+<claim-text>the first air inlet hole and the second air inlet hole have different cross-sectional areas.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The vaporizer according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein:
+<claim-text>the at least one first air inlet hole comprises a plurality of first air inlet holes,</claim-text>
+<claim-text>the at least one second air inlet hole comprises a plurality of second air inlet holes, and</claim-text>
+<claim-text>the plurality of second air inlet holes are arranged around the plurality of first air inlet holes.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The vaporizer according to <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the plurality of first air inlet holes and the plurality of second air inlet holes are respectively distributed in annular arrays at equal intervals.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The vaporizer according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, further comprising a protruding stage portion arranged in the liquid storage housing, wherein the protruding stage portion is provided with an air inlet through hole in communication with the at least one first air inlet hole and the at least one second air inlet hole.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. An electronic vaporization device, comprising a vaporizer, the vaporizer including:
+<claim-text>a liquid storage housing having a liquid storage cavity; and</claim-text>
+<claim-text>a base arranged at one end of the liquid storage housing, wherein:
+<claim-text>the base comprises an air inlet protruding stage,</claim-text>
+<claim-text>the air inlet protruding stage is provided with at least one first air inlet hole and at least one second air inlet hole, and</claim-text>
+<claim-text>the first air inlet hole and the second air inlet hole have different cross-sectional areas.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>
