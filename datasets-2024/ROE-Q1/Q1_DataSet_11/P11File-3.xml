@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225286A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225286</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18011364</doc-number>
+<date>20210625</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>NL</country>
+<doc-number>2025953</doc-number>
+<date>20200630</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>1</main-group>
+<subgroup>01</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>C</subclass>
+<main-group>3</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>53</main-group>
+<subgroup>86</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>1</main-group>
+<subgroup>015</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>53</main-group>
+<subgroup>14</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>1</main-group>
+<subgroup>0103</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>C</subclass>
+<main-group>3</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>1</main-group>
+<subgroup>0052</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>53</main-group>
+<subgroup>8634</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>1</main-group>
+<subgroup>0151</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>53</main-group>
+<subgroup>14</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>2221</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>2258</main-group>
+<subgroup>0266</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">ANIMAL SHED SYSTEM WITH AN AIR TRAP AND A SCRUBBER</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>LELY PATENT N.V.</orgname>
+<address>
+<city>Maassluis</city>
+<country>NL</country>
+</address>
+</addressbook>
+<residence>
+<country>NL</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>FEITSMA</last-name>
+<first-name>Peter</first-name>
+<address>
+<city>Maassluis</city>
+<country>NL</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>STOEL</last-name>
+<first-name>Fokke</first-name>
+<address>
+<city>Maassluis</city>
+<country>NL</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>VAN DEN BERG</last-name>
+<first-name>Karel</first-name>
+<address>
+<city>Maassluis</city>
+<country>NL</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>REGELINK</last-name>
+<first-name>Frank Gerard</first-name>
+<address>
+<city>Maassluis</city>
+<country>NL</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>LELY PATENT N.V.</orgname>
+<role>03</role>
+<address>
+<city>Maassluis</city>
+<country>NL</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2021/067458</doc-number>
+<date>20210625</date>
+</document-id>
+<us-371c12-date><date>20221219</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An animal shed system includes an animal shed having an animal shed floor with a first and a second surface spaced apart, such that the floor has a thickness different from zero, and multiple flow holes extending from the first to the second surface; a reservoir situated under the animal shed floor, wherein the flow holes open up to the reservoir, and the flow holes allow a fluid flow from the animal shed to the reservoir; a floor opening in the animal shed floor to allow manure to be dumped in the reservoir; an air extraction device for extracting air underneath the floor, out of the reservoir; and a device extending from the floor opening into the reservoir, wherein the device is configured to prevent an airflow from the animal shed to the reservoir through the floor opening when in use.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="43.77mm" wi="158.75mm" file="US20230225286A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="229.70mm" wi="126.75mm" orientation="landscape" file="US20230225286A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="229.95mm" wi="128.44mm" orientation="landscape" file="US20230225286A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="236.39mm" wi="146.81mm" file="US20230225286A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="243.25mm" wi="143.59mm" file="US20230225286A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="219.12mm" wi="139.45mm" file="US20230225286A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="202.61mm" wi="144.53mm" file="US20230225286A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="147.66mm" wi="146.73mm" file="US20230225286A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<heading id="h-0002" level="1">Field of the invention</heading>
+<p id="p-0002" num="0001">The invention relates to an animal shed system with a device extending from the floor opening into the reservoir, wherein the device is configured to prevent an airflow from the animal shed to a reservoir through a manure dump opening when in use.</p>
+<heading id="h-0003" level="1">Description of the related art</heading>
+<p id="p-0003" num="0002">The input of nitrogen containing compounds, in particular nitrogen oxides and ammonia, into the environment are mostly because of the industry, traffic and agriculture. This human factor has severely altered the global nitrogen cycle since the beginning of the Industrialization. The nitrogen compounds spread in the environment and in too high concentrations contribute to the domination of fast-growing plant species, with associated declines in species richness. Fast growing species have a greater affinity for nitrogen uptake, and will crowd out slower growing plant species by blocking access to sunlight with their higher above ground biomass. Other studies have found that secondary responses of the system to nitrogen enrichment, including soil acidification have allowed stress-tolerant species to out-compete sensitive species.</p>
+<p id="p-0004" num="0003">The input of ammonia is mostly attributed to agriculture, especially animal husbandry, including dairy farming. Alone in the Netherlands, a relatively small country, there are four million cows, twelve million pigs and 98 million chicken in the animal husbandry sector. Farmers use the manure of these animals to fertilize their crops. Part of the manure (in the meaning of dung, being the excrements of animals&#x2014;feces and urine together) is emitted as ammonia into the air. Although an ingredient for fertilizers, ammonia is a toxic and flammable gas.</p>
+<p id="p-0005" num="0004">The total amount of human nitrogen input should be reduced in order to stabilize the nitrogen cycle. The amount of nitrogen oxide input is already reduced, but the input of ammonia remains at an undesirable high level. Most of the ammonia input comes from cattle, as ammonia is formed from urea, which is a relatively unstable compound. When urine and feces of cattle (but also other livestock) come in contact, the urease enzyme of the feces will accelerate that transformation into ammonia and carbon dioxide.</p>
+<p id="p-0006" num="0005">International patent publication WO2014051421 discloses a self-navigating vehicle for removing manure from a stall floor. The floor is permeable to urine. Urine passing through the floor is drained, and all fertilizers originally present in the urine remain present in the effluent and are not separated into individual streams.</p>
+<p id="p-0007" num="0006">Dutch patent publication NL2018338 describes a shed system having a floor with flow holes through which the urine flows, and a manure removal means to remove the solid feces from the floor. The ammonia from the urine is then processed in an air washer into fertilizer. The urine and feces are collected and stored in separate spaces, which has the disadvantage that another storage space next to the feces storage space is needed.</p>
+<p id="p-0008" num="0007">It is known that a perforated shed floor will let urine through to an underlying space. The shed floor is covered with fibrous material, e.g. from the feces, and/or other fiber material suitable for animal sheds. Air with ammonia above the urine is filtered off and passed through an air washer. The aim is to evaporate and remove all ammonia from the urine in this way. Feces stays on top of the floor. A perforated floor has the disadvantage that the holes will be blocked by dirt and the like quite easy.</p>
+<p id="p-0009" num="0008">It would therefore be desirable to provide an animal shed system that alleviates at least some of the perceived inconveniences of the prior art.</p>
+<heading id="h-0004" level="1">BRIEF SUMMARY OF THE INVENTION According to the invention, there is provided an animal shed system comprising</heading>
+<p id="p-0010" num="0009">an animal shed having an animal shed floor with a first and a second surface spaced apart, such that the floor has a thickness different from zero, and multiple flow holes extending from the first to the second surface;</p>
+<p id="p-0011" num="0010">a reservoir situated under the animal shed floor, wherein the flow holes open up to the reservoir, and the flow holes allow a fluid flow from the animal shed to the reservoir;</p>
+<p id="p-0012" num="0011">a floor opening in the animal shed floor to allow manure to be dumped in the reservoir;</p>
+<p id="p-0013" num="0012">an air extraction device for extracting air underneath the floor, out of the reservoir; and</p>
+<p id="p-0014" num="0013">a device extending from the floor opening into the reservoir, wherein the device is configured to prevent an airflow from the animal shed to the reservoir through the floor opening when in use.</p>
+<p id="p-0015" num="0014">Traditionally, cattle is kept in an animal space on a slatted floor with slotted openings that open out to an underlying reservoir, i.e. a manure storage space or manure cellar. Feces and urine fall through the slotted openings and end up in the manure cellar that serves as storage for the mixture of urine and feces, the so-called dung or manure. In the manure, all fertilizer components such as phosphates, fibers and nitrogen are present. The reaction of urine with feces produces ammonia that exits through the slotted openings into the shed and eventually to the environment where it has a harmful effect.</p>
+<p id="p-0016" num="0015">Due to regulations and environmental protection, it is desirable to fertilize with individual fertilizer components. To separate manure into individual manure components is tricky and expensive.</p>
+<p id="p-0017" num="0016">It is known that a perforated shed floor, i.e. an animal shed floor with multiple flow holes, will let urine through to an underlying space, which can be (a portion of) the reservoir. Air with ammonia above the urine is filtered off and passed through an air washer, also called a gas washer or a scrubber. The aim is to evaporate and remove all or at least part of the ammonia in this way. The feces stay on top of the floor, i.e. the first surface or living or walking surface, and can be removed by a manure removal vehicle, such as a manure suction robot, or manure slide. Preferably, the system may further comprise a wheeled manure-removal vehicle for removing manure from the animal-shed floor, i.e. from the first surface, and dumping the manure into the reservoir through the floor opening. The floor opening for dumping manure or feces in the reservoir may be located at a distance from the shed floor having through holes, for instance at a location where the animal shed floor comprises a closed floor, i.e. without through holes opening towards the reservoir, except for the floor opening for dumping feces or manure.</p>
+<p id="p-0018" num="0017">The air extraction device reduces the air pressure, such that air, with the ammonia present, is sucked out of the animal space or shed above the floor. This results in an additional reduction of emissions to the environment. Additionally, an airflow between the animal shed and the reservoir is established via the flow holes. This additional airflow above the shed floor increases the flow of urine through the holes.</p>
+<p id="p-0019" num="0018">In particular, the animal shed system may comprise an air washer coupled to the air extraction device to capture ammonia present in the extracted air. The air washer or scrubber may contain an acid solution, such as sulfuric acid or nitric acid. The air above the liquid layer, which will generally mainly consist of urine, has a high ammonia content. By forcing the air from the reservoir through an air washer, known per se, the ammonia is bound in the scrubber's acid solution. The ammonia may react with sulfuric acid to form a liquid fertilizer. This fertilizer can be used to fertilize the fields, wherein the nitrogen compound will be rapidly absorbed by the soil (quicker than when using manure).</p>
+<p id="p-0020" num="0019">It has been found experimentally that a particularly advantageous effect is obtained if the air extraction device creates a lower pressure under the floor relative to the pressure above the floor. Preferably, the pressure difference is between 0.3 mbar and 1.0 mbar. The air extraction device thus creates a low vacuum under the floor, with a lower pressure than atmospheric pressure. The pressure under the floor is preferably 0.3 to 1.0 mbar lower than atmospheric pressure that is active above the floor. The reservoir can be split in a feces storage space and a urine storage space, separated either with a wall to avoid (further) contact, or by distance to reduce contact. Separation by distance can be achieved with locating the floor opening at a relatively remote location in the animal shed relative to the shed floor having through holes, for instance at a location where the animal shed comprises a closed shed floor, i.e. without through holes or slotted openings. Traditionally, feces and urine excreted by an animal, in particular a cow, are dumped and stored in a mixed fashion, i.e. as manure or dung. The system disclosed herein can be used as well for manure, i.e. the mixture of feces and urine, or even for liquid manure or slurry, i.e. the mixture of manure with another liquid such as water. In these situations, ammonia will be formed from the urine in the mixture.</p>
+<p id="p-0021" num="0020">The ammonia is sucked towards the air washer from the reservoir, possibly specifically from the urine storage space, wherein the air washer is located at an external location from the animal shed. The air washer can be in connection with the manure or urine storage space via a slurry pit or liquid manure pit, or a conduit, or a combination thereof, wherein the air washer is located at a distance from the slurry pit and/or the animal shed.</p>
+<p id="p-0022" num="0021">In use, the device is configured to prevent an airflow from the animal shed to the reservoir through the floor opening. This is to be able to establish the lower than atmospheric pressure in the reservoir. In use, stationary manure in the device will close a passage from the animal shed to the reservoir and thus prevent an airflow from the animal shed to the reservoir. However, an alternative airflow is established via the flow holes in the shed floor, with the advantage that urine and/or ammonia formed on the shed floor are sucked into the reservoir.</p>
+<p id="p-0023" num="0022">The device may further comprise a grating or grid provided over at least part of a cross sectional area of the device. The grating may be provided such that strange objects, like a cattle collar or a stone, that end up in the collected or dumped manure will not enter the device and/or the reservoir, but will be retained at the grating and can be removed without much ado. Furthermore, the grating may act as a safety element, such that a person, like a child, and/or a small and/or young animal (a calf, a dog or a cat) are hindered to accidentally fall in the device and/or reservoir. In order to further enhance the safety near the floor opening, the system may further comprise a safety cage that at least envelopes the area of the floor opening, and is attached to the animal shed floor. It is preferred that when a wheeled manure-removal vehicle is used to remove manure from the floor, that the safety cage will allow access to the floor opening.</p>
+<p id="p-0024" num="0023">The device may comprise a tube extending from the floor at the floor opening, and towards a bottom of the reservoir, forming a passageway from the animal shed floor to the reservoir, wherein the tube has a free end ending at a distance different from zero from a bottom of the reservoir, wherein the free end opens out into the reservoir (i.e. the free end is at least partially open), wherein in use an airflow from the animal shed to the reservoir is prevented when a manure or feces level in the reservoir extends up to or into the tube through the free end.</p>
+<p id="p-0025" num="0024">The tube may have a cylindrical, rectangular, or any other shaped cross section. Since the tube is configured to prevent an airflow from the animal shed to the reservoir through the floor opening when in use, the cross section of the tube is preferably commensurate with the peripheral shape of the floor opening, i.e. the cross-sectional shape and dimensions of the tube coincide with a shape and dimensions of the floor opening. Alternatively, the cross section of the tube may have an area larger than that of the floor opening, thereby covering the area of the floor opening fully, and may even extend beyond the area of the floor opening. In this latter case, the shape of the cross section of the tube can deviate from that of the peripheral shape of the floor opening, e.g. combining a rectangular floor opening with a cylindrical tube having a circular cross section that is larger than the floor opening in all dimensions, or vice versa.</p>
+<p id="p-0026" num="0025">The tube may be made of plastic, metal (e.g. stainless steel) or any other suitable material that can withstand the harsh environment of a manure pit. The tube may be a rigid or a flexible tube. In case of a flexible tube, a foil material may be used. A flexible tube is preferably provided with a tensioning means, such as a load or weighting or tension threads that connect the free end of the tube with the base of the reservoir or with the shed floor at one or multiple locations along the periphery of the tube at the free end. Such tensioning means can be used to stretch the tube over its full length, and/or to overcome at least any upward force or lift from the manure, and have the flexible tube extend into the manure when in use. The tensioning means may be provided at the free end of the tube, or may stretch over at least part of an exterior of the tube.</p>
+<p id="p-0027" num="0026">When the manure in the reservoir reaches at least the same height as the free end of the tube, the air cannot flow from the reservoir to the animal shed. When the manure level is even higher, the free end will be overlapped with manure, thus blocking the airflow as well.</p>
+<p id="p-0028" num="0027">In an embodiment, the device comprises a tube extending from the floor at the floor opening, and towards a bottom of the reservoir, wherein the tube has a free end ending at a distance different from zero from a bottom of the reservoir, the tube having a base that closes off its free end, and forms a container with the peripheral sidewall that encloses an interior of the device, wherein the sidewall comprises an outlet opening towards the reservoir, the outlet opening being located at a distance from zero from the base; and the device further comprises a cover extending into the tube and covering the outlet opening and part of the base, wherein an end edge of the cover is at least at a same height as a lower edge of the outlet opening, which lower edge is at a distance different from zero from the base, thereby creating a passage from the floor opening to the outlet opening, wherein in use the airflow from the animal shed to the reservoir is prevented when a manure or feces level in the tube is at least at at a similar height as the end edge of the cover or higher, thereby blocking the passageway.</p>
+<p id="p-0029" num="0028">In this embodiment, the tube extends into the reservoir and is closed at the end. The closed end of the tube may be regarded as a base. Adding the base to the tube transforms the tube into a container, like a box or a bag, having a base and an upstanding sidewall. The outlet opening in the sidewall now forms the passage to the reservoir or manure pit. The outward opening ensures a passage for the manure from the floor opening to the reservoir. The tube may end above a manure level in the reservoir, or in the manure, such that the base and part of the tube are in contact with the manure in the reservoir. In this embodiment, the tube has at least one outlet opening. In the case of multiple outlet openings, it is preferred that they are located at separate locations at a similar height along the sidewall. Preferably, the lower edges of the multiple outlet openings are at the same height.</p>
+<p id="p-0030" num="0029">In another embodiment, the device comprises a tube extending from the floor at the floor opening, and towards a bottom of the reservoir, wherein the tube has a free end ending at a distance different from zero from a bottom of the reservoir, the tube having a base that closes off its free end, and forms a container with the peripheral sidewall that encloses an interior of the device, wherein the sidewall comprises an outlet opening towards the reservoir, wherein the outlet opening extends from the base towards the floor opening; and the device further comprises a cover extending into the tube and covering the outlet opening and part of the base, thereby creating a passage from the floor opening to the outlet opening, wherein the cover further comprises a flap that is hingeably attached to a second edge of the cover, wherein the flap rests against the first edge of the base to close the passage such that the airflow from the animal shed to the reservoir is prevented, and wherein flap is hingeably pushed open by a manure or feces level in the container that is sufficient to overcome gravitational forces exerted on the flap, such that the passage is opened.</p>
+<p id="p-0031" num="0030">In an embodiment, the cover extends from the floor at the floor opening or from the sidewall of the tube at a location near the floor opening. &#x2018;Near the floor opening&#x2019; would mean a location at the sidewall situated at least above the outlet opening.</p>
+<p id="p-0032" num="0031">The cover may be formed as a funnel that narrows towards the base of the tube. The cover and tube may be formed integrally, or can be formed as separate parts that are assembled later to form the device. Preferably, the cover is removably assembled with the tube, such that the cover can be removed for maintenance and/or replacement. The cover may be attached to the tube or to the floor, for instance at an edge of the floor opening.</p>
+<p id="p-0033" num="0032">A funnel shaped cover may be particularly advantageous when the tube has more than one outlet opening. Preferably, the sidewall has at least two outlet openings at separate locations of the sidewall at the same height, and the cover is funnel shaped, and extends into the tube covering all outlet openings in the sidewall.</p>
+<p id="p-0034" num="0033">Furthermore, the cover may extend at a first end from the floor opening into the container. A second end of the cover, opposite of the first end, is at least level with the lower edge of the outlet opening, i.e. the cover extends over the full outlet opening. The cover extends over the outlet opening at a distance different from zero from the sidewalls and the bottom of the container, i.e. space is kept between the container and the cover, such that a passage is created between the container and the insert from the floor opening to the reservoir via the outlet opening. Preferably, the passage is releasing towards the reservoir for any larger object that enters the device, either purposely or accidentally. The releasing passage may start with a smallest opening between the sidewall and the cover, and extends via openings with increasing area to a largest opening, which is the outlet opening towards the reservoir. As such, any object that passes the smallest opening will thus also be able to pass any further openings along the passage to finally end up in the reservoir.</p>
+<p id="p-0035" num="0034">The cover is used to create an airlock or air trap in this passage. In use, the manure will stop pouring into the reservoir when the level of manure has reached the lower edge of the outlet opening. The outlet opening is covered by the cover that extends into the container to at least the lower edge of the outlet opening. In other words, the end edge of the cover is at least at the same height as the lower edge of the outlet opening. Preferably, the end edge of the cover extends beyond the lower edge of the outlet opening. When the cover extends beyond the lower edge of the outlet opening, in use, a larger part of the cover may come into contact with the manure. The cover may have a first side facing the floor opening, and an opposite second side facing the outlet opening. The cover may be in contact with the manure at at least a part of the first side, or at at least a part of the first and the opposite second side.</p>
+<p id="p-0036" num="0035">The cover may stretch from the floor opening into the container, for instance at an inclination between 0 and 90 degrees with respect from the floor, for instance at an angle between 30 to 60 degrees, i.e. in a slanted downward fashion toward the base of the container. Alternatively, or in addition, the cover may comprise two portions, of which a first portion may stretch at a first angle with respect to the floor and a second portion lo may stretch at a second angle with respect to the first portion. The angles may be different or similar, wherein the first and second angles are different, i.e. not the same. Preferably, the cover covers the base fully along one of a longitudinal direction and a width direction, and partly along another of the longitudinal direction and the width direction. Whereas the cover covers at least the outlet opening of the container, the cover may extend over the full length or the full width of the floor opening, and over part of the other of the width or the length of the floor opening. The full extent of the cover may depend on the location and/or the dimensions of the outlet opening, either on a longitudinal side (length) or on a transverse side (width). Preferably, the outlet opening extends over the full width or length of the container, and from the floor towards the base. The outlet opening is limited by the lower edge of the outlet opening that is at a distance different from zero from the base. The outlet opening may extend from the floor towards the base.</p>
+<p id="p-0037" num="0036">Preferably, the sidewall converges towards the base to form a trough-shaped lower part of the container. The sidewall may converge at the longitudinal and/or transverse sides to form the trough-shaped lower part. As such, the base may cover a smaller area than the cross-sectional area at the non-converged sidewalls. A trough-shaped lower part of the container may enhance the flow of the manure to the outlet opening when dumped in the container through the floor opening. Preferably, the lower edge of the outlet opening coincides with an upper edge of the trough-shaped lower part of the container.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIGS. <b>1</b>A and <b>1</b>B</figref> each show a schematic view of an animal shed system with an embodiment of the device.</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIGS. <b>2</b>A</figref> to C show a schematic view of another embodiment of the device.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIGS. <b>3</b>A</figref> and B show a schematic view of a third embodiment of the device.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows a schematic view of a fourth embodiment of the device.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows a cross-section in perspective view of a fifth embodiment of the device.</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows a perspective view of part of an embodiment of the animal shed system.</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows a schematic view of a further embodiment of the device.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DESCRIPTION OF ILLUSTRATIVE EMBODIMENTS</heading>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIGS. <b>1</b>A</figref> and B (together as <figref idref="DRAWINGS">FIG. <b>1</b></figref>) show a schematic drawing of an embodiment of an animal shed system <b>100</b> according to the invention. The animal shed system <b>100</b> comprises an animal shed <b>10</b>. The animal shed <b>10</b> is used for animal husbandry, in particular for cattle, shown as a cow <b>101</b> in <figref idref="DRAWINGS">FIG. <b>1</b></figref>. The animal shed <b>10</b> has an animal shed floor <b>11</b> having a first and a second surface <b>12</b>, <b>13</b> spaced apart, i.e. the floor <b>11</b> has a thickness D that is different from zero, i.e. not zero. The first surface <b>12</b> is a living or walking surface of the floor <b>11</b> for the animals and other users. The floor <b>11</b> has multiple flow holes <b>15</b> extending from the first to the second surface <b>12</b>, <b>13</b>, i.e. they are through holes. The system further comprises a reservoir <b>20</b>, i.e. a manure storage space or manure cellar, situated under the animal shed floor <b>11</b>. A floor opening <b>14</b> in the animal shed floor <b>11</b> allows manure <b>21</b> to be dumped in the manure-storage space <b>20</b>. The system further comprises an air extraction device <b>30</b> for extracting air underneath the floor, out of the reservoir, and a device <b>40</b> extending into the reservoir <b>20</b>.</p>
+<p id="p-0046" num="0045">The device <b>40</b> comprises a tube <b>41</b> that extends from the floor <b>11</b>, in the floor opening <b>14</b>, and into the manure <b>21</b> in the reservoir <b>20</b>. The tube comprises a peripheral sidewall <b>45</b> that encloses an interior of the device. The tube ends in the manure with a free end <b>42</b> at a distance different from zero from a bottom or base <b>22</b> of the reservoir <b>20</b>. The free end <b>42</b> opens out to the reservoir <b>20</b>. As shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the free end <b>42</b> sticks into the manure <b>21</b> (i.e. the level of the manure <b>21</b> is higher than the distance or spacing between the free end <b>42</b> and the base <b>22</b>), and thus closes the flow path of air from the animal shed <b>10</b> to the reservoir <b>20</b>. The device <b>40</b> thus prevents an airflow from the animal shed <b>10</b> to the reservoir <b>20</b> through the floor opening <b>14</b> when in use.</p>
+<p id="p-0047" num="0046">In use, at least the feces <b>16</b> are dumped through the floor opening <b>14</b> into the manure cellar <b>20</b> via the device <b>40</b>. When the level of the manure or feces <b>16</b> has reached either a level of the free end <b>42</b> of the tube <b>41</b> or a height beyond the free end <b>42</b> of the tube <b>41</b>, the airflow passage through the floor opening <b>14</b> to the reservoir <b>20</b> is blocked with manure.</p>
+<p id="p-0048" num="0047">The free end <b>42</b> of the tube <b>41</b> may be tensioned with a weight or any other suitable tensioning means <b>46</b>, in particular when the tube <b>41</b> is a flexible tube or made of a flexible material, see <figref idref="DRAWINGS">FIG. <b>2</b></figref>. Tensioning the tube <b>41</b> may assist with retaining the tube and the free end <b>42</b> with respect to the floor opening and preventing floating of the tube <b>41</b> under the influence of any upward force or lift from the feces or manure.</p>
+<p id="p-0049" num="0048">The air extraction device <b>30</b> can be a fan, in particular a blower <b>31</b>, for extracting air under the assembly. The system <b>100</b> further comprises an air washer <b>50</b> coupled to the air extraction device <b>30</b> to capture ammonia present in the extracted air.</p>
+<p id="p-0050" num="0049">The blower <b>31</b> provides a low vacuum of approximately 0.7 mbar below atmospheric pressure, which is the difference between the prevailing air pressure in the animal shed <b>10</b> and the lower pressure in the manure cellar <b>20</b> located under the shed floor <b>11</b>. Because the holes <b>15</b> are relatively small and the free space under the shed floor <b>1</b> is relatively large, the prevailing pressure in this free space will be relatively constant seen over the entire space. In other words, the pressure gradient in the direction of the blower <b>31</b> is small.</p>
+<p id="p-0051" num="0050">The device <b>40</b> is used to only allow an airflow <b>9</b> through the holes <b>15</b> in the floor by preventing an airflow through the relatively large floor opening <b>14</b>. Thus, the blower <b>31</b> can work more energy efficient, i.e. does not need a very high power rate to establish and maintain the low vacuum in the reservoir <b>20</b>.</p>
+<p id="p-0052" num="0051">The air washer <b>50</b> shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref> is designed as a packed bed-washing column. Acid absorbent liquid in the form of diluted sulfuric acid or diluted nitric acid is pumped by a pump <b>52</b> from underneath a packed bed <b>51</b> to a sprayer <b>53</b> above the packed bed <b>51</b>. The ammonia-rich air extracted by the blower <b>31</b> is introduced in countercurrent under the packed bed <b>51</b> and flows upwards in countercurrent with the absorbent liquid. The absorbent liquid absorbs, among other things, the ammonia and makes it soluble as ammonium. In purified form, the air is conducted via an outlet <b>54</b> to the outside environment. The packed bed <b>51</b> can be made from different types of fillers and serves to increase the contact surface of the absorbent fluid with the air to be purified. The air washer <b>50</b> can also be carried out in transverse flow, wherein the airflow is being lead through the packed bed <b>51</b> in a horizontal direction. The packed bed <b>51</b> can also be in the form of a cloth over which the absorption liquid runs and the air to be washed is passed through in transverse flow.</p>
+<p id="p-0053" num="0052">After some time, the amount of dissolved ammonia in the absorbent causes a pH increase, such that the absorbent has to be replaced. The resulting saturated and still slightly acidic absorption liquid <b>55</b> is a nitrogen-containing fertilizer as so-called flushing water. In order to be able to postpone replacement, in an embodiment not shown, the air washer comprises an acid dosing system to be able to keep the pH of the absorption liquid constant.</p>
+<p id="p-0054" num="0053">In addition to ammonia, water vapor from the manure cellar <b>20</b> will also pass through the air washer <b>50</b> and be removed. This will lead to a thickening of the liquid in the manure cellar <b>20</b>. This liquid is rich in salts; in particular, potassium salts, and is therefore a good potassium fertilizer.</p>
+<p id="p-0055" num="0054">The cow <b>101</b> excretes feces <b>16</b> and urine <b>17</b> that will land on the living surface <b>12</b> of the floor <b>11</b>. Due to the flow holes <b>15</b> in the floor <b>11</b>, urine flows into the reservoir or manure cellar <b>20</b>. The reservoir <b>20</b> can be a single storage space where both urine and feces are stored, although having a separate route to the reservoir <b>20</b>, as shown in <figref idref="DRAWINGS">FIG. <b>1</b>A</figref>. Due to these separate routes, the feces <b>16</b> may be concentrated at a certain part of the manure cellar <b>20</b>, but will still be in contact with the urine <b>17</b> in the remaining part of the reservoir <b>20</b>.</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. <b>1</b>B</figref> shows a reservoir where the feces <b>16</b> and the urine <b>17</b> are also (mostly) separately stored in either partitioned or enclosed areas, defined by a wall or the like. The urine <b>17</b> is stored in a urine storage space <b>20</b>&#x2033; and the feces <b>16</b> are stored in a feces storage space <b>20</b>&#x2032;, which are separated by a separation wall <b>23</b>. The wall <b>23</b> extends from the base <b>22</b> towards the floor <b>11</b> of the animal shed. The wall <b>23</b> ends at a distance different from zero from the floor <b>11</b>, leaving a gap between the floor <b>11</b> and the wall <b>23</b>, as shown in <figref idref="DRAWINGS">FIG. <b>1</b>B</figref>.</p>
+<p id="p-0057" num="0056">In use, manure <b>21</b> or feces <b>16</b> will be dumped through the floor opening <b>14</b> into the manure cellar <b>20</b>. With the device <b>40</b> provided in the floor opening <b>14</b>, the feces <b>16</b> or the manure <b>21</b> is dumped in the cellar via the device <b>40</b>.</p>
+<p id="p-0058" num="0057">An autonomous manure suction robot <b>60</b> runs between the animals over the floor <b>11</b>. This robot <b>60</b> removes solid feces <b>16</b> that largely remain on the surface of the floor <b>11</b>, and then dumps the feces <b>16</b> in the manure storage space <b>20</b>, or in case of <figref idref="DRAWINGS">FIG. <b>1</b>B</figref>, in the feces storage space <b>20</b>&#x2032;, through the device <b>40</b>. In an embodiment not shown, the feces <b>16</b> are removed by a pulled manure slide. Additionally, or alternatively, the collected feces <b>16</b> can be further processed by, for example, drying or pressing whereby manure fibers are removed from the feces <b>16</b>.</p>
+<p id="p-0059" num="0058">Contact between feces <b>16</b> and urine <b>17</b> provides an enzymatic conversion reaction of urea in the urine <b>17</b> to ammonia. When ammonia forms on the floor <b>11</b>, it can easily escape to the environment, even in case of a flow to the reservoir induced by the blower <b>31</b>. By using a suction robot <b>60</b> for this purpose, the feces <b>16</b> are removed from the floor <b>11</b> on site and the feces <b>16</b> are not spread over the floor <b>11</b>. This has the advantages of preventing the spread feces from blocking the holes <b>15</b>, and the spread feces and freshly excreted urine having a relatively short period of contact, thereby reducing the amount of ammonia formed on the first floor surface <b>12</b>.</p>
+<p id="p-0060" num="0059">In the embodiment of <figref idref="DRAWINGS">FIG. <b>1</b>B</figref>, the feces <b>16</b> are not mixed with the urine <b>17</b> and almost all phosphate remains in the feces, and the solids percentage is relatively high. Eventually, the excretion products (feces <b>16</b> and urine <b>17</b>) of the farm animal <b>101</b> in the animal space <b>10</b> can be separated into three parts in a relatively simple manner: phosphate-rich solid feces <b>16</b> with a high organic content, a potassium-rich liquid and a nitrogen-rich liquid. These parts can be used for specific fertilization processes and have a value that is higher than that of the manure that generally results when feces <b>16</b> and urine <b>17</b> are dumped in the manure cellar together.</p>
+<p id="p-0061" num="0060">The tube <b>41</b> forming the device <b>40</b> in <figref idref="DRAWINGS">FIGS. <b>1</b>A and <b>1</b>B</figref> has dimensions that coincide with those of the floor opening <b>14</b>. In addition, a first periphery <b>18</b> of the floor opening coincides with a second periphery <b>43</b> of the tube <b>41</b>.</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIGS. <b>2</b>A</figref> to C (together <figref idref="DRAWINGS">FIG. <b>2</b></figref>) show embodiments of the device <b>40</b> comprising the tube <b>41</b>, now having a width dimension that is larger than that of the floor opening <b>14</b>, such that the first and second peripheries <b>18</b>, <b>43</b> do not coincide, either in shape, dimensions and/or size. The tube <b>41</b> extends beyond the first periphery <b>18</b> of the floor opening <b>14</b>. <figref idref="DRAWINGS">FIG. <b>2</b>A</figref> shows a device <b>40</b> comprising a tube <b>41</b> having a weighting <b>46</b> at its free and open end <b>42</b> to prevent lifting of the tube end by the manure <b>21</b> in the reservoir <b>20</b>. In order to successfully prevent an airflow from the animal shed <b>10</b> to the reservoir <b>20</b>, the free end <b>42</b> of the tube <b>41</b> extends into the manure, i.e. an end edge <b>42</b>&#x2032; of the tube <b>41</b> is inserted in the manure <b>21</b> in the reservoir <b>20</b>.</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. <b>2</b>B</figref> shows the device <b>40</b> comprising a tube <b>41</b> that has a free end <b>42</b> that is closed with base <b>44</b>. The sidewall <b>45</b> of the tube <b>41</b> is provided with two outlet openings <b>48</b> that open out to the reservoir <b>20</b>. The cover <b>47</b> extends into the tube <b>41</b>, and is funnel shaped. The end edges <b>47</b>&#x2032; of the cover <b>47</b> are level with a lower edge <b>48</b>&#x2032; of the outlet opening <b>48</b>. Alternatively, the end edges <b>47</b>&#x2032; of the cover <b>47</b> extend beyond the lower edge <b>48</b>&#x2032; of the outlet opening <b>48</b>, i.e. the end edges <b>47</b>&#x2032; are closer to the base <b>44</b> of the tube <b>41</b> than the lower edge <b>48</b>&#x2032;, see <figref idref="DRAWINGS">FIG. <b>2</b>C</figref>. In use, manure <b>21</b>&#x2032; will enter the tube <b>41</b>. First, the tube <b>41</b> will fill up from the base <b>44</b>, until the manure level is higher than the lower edge <b>48</b>&#x2032; of the outlet opening <b>48</b>. As more manure <b>21</b>&#x2032; will enter the tube <b>41</b>, the manure <b>21</b>&#x2032; will flow into the reservoir <b>20</b>, until the manure level is at the same height as the lower edge <b>48</b>&#x2032; of the outlet opening <b>48</b>. The remaining manure <b>21</b>&#x2032; will block the passageway <b>49</b> from the floor opening <b>14</b> to the reservoir <b>20</b> that is created in the device</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. <b>2</b>B</figref> further shows a grating or grid <b>4</b> in the floor opening <b>14</b>, extending over the full area of the floor opening <b>14</b>. The grating <b>4</b> is provided such that strange objects, like a cattle collar or a stone, that end up in the collected or dumped manure will not enter the device <b>40</b> and/or the reservoir <b>20</b>, but will be retained at the grating and can be removed without much ado. Furthermore, the grating <b>4</b> acts as a safety element, such that a person, like a child, and/or a small and/or young animal (a calf, a dog or a cat) are hindered to accidentally fall in the device <b>40</b> and/or reservoir <b>20</b>.</p>
+<p id="p-0065" num="0064">The tube <b>41</b> can either extend into the manure <b>21</b> in the reservoir <b>20</b>, as shown in <figref idref="DRAWINGS">FIG. <b>2</b>B</figref>, such that the remaining manure <b>21</b>&#x2032; in the tube <b>41</b> acts as a weighting against floating of the device <b>40</b> (in case of a flexible tube or device). <figref idref="DRAWINGS">FIG. <b>2</b>C</figref> shows that the tube <b>41</b> can also end above the manure <b>21</b> in the reservoir <b>20</b>. The remaining manure <b>21</b>&#x2032; can then be used as a tensioning means, in particular when a flexible tube or device is used.</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIGS. <b>3</b> and <b>4</b></figref> show a device <b>40</b> that comprises the tube <b>41</b> again having the peripheral sidewall <b>45</b> that encloses an interior of the device, and the base <b>44</b> that closes off its free end <b>42</b>, in this case forming a container. In this embodiment, the free end <b>42</b> does not open out into the manure cellar <b>20</b> as in <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b>A</figref>. The sidewall <b>45</b> extends from the base <b>44</b> towards the floor <b>11</b>. The device <b>40</b> is connected to the floor <b>11</b> at the opening <b>14</b>. The sidewall <b>45</b> is provided with an outlet opening <b>48</b> that opens towards the reservoir <b>20</b>. The outlet opening <b>48</b> extends from an upper edge <b>48</b>&#x2033; that is at a distance different from zero from the floor <b>11</b>, i.e. from the second surface <b>13</b>, to a lower edge <b>48</b>&#x2032; that is at a distance different from zero from the base <b>44</b> of the tube <b>41</b>.</p>
+<p id="p-0067" num="0066">A lower part <b>45</b>&#x2032; of the sidewall <b>45</b> converges towards the base <b>44</b>. The converging of the lower part <b>45</b>&#x2032; can be partially or fully along a third periphery of the lower part <b>45</b>&#x2032;. The device <b>40</b> further comprises a cover <b>47</b> that extends from an edge <b>19</b> of the floor opening <b>14</b> towards the base <b>44</b> of the tube <b>41</b>. The cover <b>47</b> extends over the outlet opening <b>48</b> in the sidewall <b>45</b>. The cover <b>47</b> also extends over part of the base <b>44</b>, creating the passage or passageway <b>49</b>, shown as an arrow in <figref idref="DRAWINGS">FIGS. <b>2</b>B, <b>2</b>C, <b>3</b> and <b>4</b></figref>, between the sidewall <b>45</b>, the base <b>44</b> and the cover <b>47</b>. The remaining manure <b>21</b>&#x2032; in the tube <b>41</b> closes the passageway <b>49</b> when a manure level <b>21</b><i>a </i>is at a similar or higher height as an end edge <b>47</b><i>a </i>of the cover <b>47</b>, as shown in <figref idref="DRAWINGS">FIGS. <b>3</b> and <b>4</b></figref>.</p>
+<p id="p-0068" num="0067">In <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the cover <b>47</b> comprises a first portion <b>47</b>&#x2032; that extends from the edge <b>19</b> of the floor opening <b>14</b> into the tube <b>41</b>, and a second portion <b>47</b>&#x2033; that extends from the first portion <b>47</b>&#x2032; into the tube <b>41</b>. The first portion <b>47</b>&#x2032; is at an angle &#x3b1; (alpha) with the floor <b>11</b>, and the second portion <b>47</b>&#x2033; is at an angle &#x3b2; (beta) with respect to the first portion <b>47</b>&#x2032;.</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows that the angle &#x3b1; (alpha) is an acute or sharp angle may be, i.e., and the angle &#x3b2; (beta) is a blunt or obtuse angle. The angle &#x3b1; (alpha) can be between 0 and 90 degrees with respect from the floor, for instance at an angle between 30 to 60 degrees, or about 50-55 degrees. The angle &#x3b2; (beta) can range from less than 180 degrees to about 120 degrees, or about 150-160 degrees. Both angles can be freely chosen within the given ranges, but with the additional requirement that a free end <b>47</b><i>a </i>of the cover <b>47</b> (at the second portion <b>47</b>&#x2033; of the cover) is either at the same height of a lower edge <b>48</b>&#x2032; of the outlet opening <b>48</b>, or extends beyond the lower edge <b>48</b>&#x2032;, while maintaining the passageway <b>49</b> between the tube <b>41</b> and the cover <b>47</b>. A further requirement may be that the passageway <b>49</b> is releasing towards the outlet opening, i.e. the opening between the sidewall and the free end <b>47</b><i>a </i>of the cover (d<b>1</b>) is the smallest opening of the passageway <b>49</b>, and the outlet opening <b>48</b> (d<b>4</b>) would be the largest opening of the passageway <b>49</b>, wherein the opening between the free end <b>47</b><i>a </i>and the base <b>44</b> (d<b>2</b>) and the opening between the free end <b>47</b><i>a </i>and the lower edge <b>48</b>&#x2032; of the outlet opening <b>48</b> (d<b>3</b>) would have respective increasing dimensions, see also <figref idref="DRAWINGS">FIG. <b>3</b>B</figref>. In other words, d<b>1</b> is smaller than d<b>2</b>, d<b>2</b> is smaller than d<b>3</b>, d<b>3</b> is smaller than d<b>4</b>, such that d<b>1</b> is the smallest opening in the passageway, and d<b>4</b> is the largest opening in the passageway (d<b>1</b> &#x3c;d<b>2</b> &#x3c;d<b>3</b> &#x3c;d<b>4</b>).</p>
+<p id="p-0070" num="0069">In <figref idref="DRAWINGS">FIG. <b>4</b></figref>, a projected second periphery of the tube <b>41</b>, indicated by the dotted line <b>43</b><i>a</i>, extends beyond the first periphery <b>18</b> of the floor opening <b>14</b>. <figref idref="DRAWINGS">FIG. <b>4</b></figref> further shows an end flange <b>7</b> at the end edge of cover <b>47</b>. The end flange <b>7</b> extends into the manure <b>21</b>&#x2032; that remains in the tube <b>41</b>.</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows a grating <b>4</b> that is provided between the sidewall <b>45</b> and the cover <b>47</b>. The grating extends over a part of the area of the floor opening <b>14</b>, as the cover <b>47</b> decreases this area with its slanted direction. The grating <b>4</b> is provided such that strange objects, like a cattle collar or a stone, that end up in the collected or dumped manure will not enter the device <b>40</b> and/or the reservoir <b>20</b>, but will be retained at the grating and can be removed without much ado. Furthermore, the grating <b>4</b> acts as a safety element, such that a person, like a child, and/or a small and/or young animal (a calf, a dog or a cat) are hindered to accidentally fall in the device <b>40</b> and/or reservoir <b>20</b>. Moreover, the device <b>40</b> as shown in <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>5</b></figref> is also a safety means for the floor opening, as the cover <b>47</b> already reduces the area of the floor opening <b>14</b>, and the base <b>44</b> of the tube <b>41</b> closes off the full access to the reservoir. It is preferred that the embodiments shown in <figref idref="DRAWINGS">FIGS. <b>3</b>-<b>5</b></figref> are made of a rigid material, preferably a metal, such as stainless steel, or a plastic material.</p>
+<p id="p-0072" num="0071">The cover <b>47</b> and lower edge <b>48</b>&#x2032; of the outlet opening <b>48</b> are shown to have both an end flange <b>7</b>, <b>8</b>, respectively, see <figref idref="DRAWINGS">FIG. <b>5</b></figref>. The end flanges <b>7</b>, <b>8</b> are shown rounded or curved, to enhance the flow of manure through the passageway <b>49</b>.</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows part of the animal shed system, now including a safety cage <b>6</b> that is provided to surround or envelope the floor opening <b>14</b>. The safety cage <b>6</b> is a three-dimensional frame made of two side frames <b>6</b>&#x2032; that are interconnected with bars <b>6</b>&#x2033; extending between the two side frames <b>6</b>&#x2032;. The safety cage <b>6</b> is open to accommodate the manure suction robot <b>60</b> and allows access to the floor opening <b>14</b>, as shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>. The manure suction robot <b>60</b> is guided towards the floor opening <b>14</b> with guide rails <b>5</b> on both sides of the floor opening <b>14</b>. The guide rails <b>5</b> are here used as an integral part of the safety cage <b>6</b>, but can be used as a separate part of the animal shed system <b>100</b>, too. The safety cage <b>6</b> is used to further enhance the safety near the floor opening <b>14</b>. As shown, the safety cage at least envelopes the area of the floor opening, and is attached to the animal shed floor.</p>
+<p id="p-0074" num="0073"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows another embodiment of the device <b>40</b> that is a variation to the embodiments shown in <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref>. The first portion <b>47</b>&#x2032; and the second portion <b>47</b>&#x2033; of the cover <b>47</b> are now at an angle y (gamma) such that the free end <b>47</b><i>a </i>of the cover at the second portion <b>47</b>&#x2033; now extends into the reservoir <b>20</b>. The second portion <b>47</b>&#x2033; is hingeably connected to the first portion <b>47</b>&#x2032; through a hinge <b>47</b><i>b. </i></p>
+<p id="p-0075" num="0074">When the level <b>21</b><i>a </i>of the manure <b>21</b>&#x2032; in the device <b>40</b> rises during use, the pressure on the second portion <b>47</b>&#x2033; increases. When the level <b>21</b><i>a </i>of manure <b>21</b>&#x2032; in the device <b>40</b> is at a sufficient height, the pressure is high enough to overcome the gravitation acting on the second portion <b>47</b>&#x2033;. The manure <b>21</b>&#x2032; then pushes the second portion <b>47</b>&#x2033; into a rotational movement along the hinge <b>56</b>. The outlet opening <b>48</b> is thus (further) opened and the manure <b>21</b>&#x2032; flows into the reservoir <b>20</b>. As the level <b>21</b><i>a </i>of the manure <b>21</b>&#x2032; in the device <b>40</b> is lowered, the pressure against the second portion <b>47</b>&#x2033; is reduced, the second portion <b>47</b>&#x2033; moves in a downward rotation along the hinge <b>47</b><i>b </i>to close or at least decrease the outlet opening <b>48</b>. A certain level <b>21</b><i>a </i>of manure <b>21</b>&#x2032; will remain in the device <b>40</b> to close off the remaining outlet opening <b>48</b> and as such prevent an airflow from the animal shed <b>10</b> to the reservoir <b>20</b> through the floor opening <b>14</b> by blocking the passageway <b>49</b> when in use.</p>
+<p id="p-0076" num="0075">Initially, the second portion <b>47</b>&#x2033; will rest on the lower edge <b>48</b>&#x2032; of the outlet opening <b>48</b>, such that the outlet opening <b>48</b> is closed. In use, it is likely that some manure <b>21</b>&#x2032; will stick to the lower edge <b>48</b>&#x2032; and/or the second portion <b>47</b>&#x2033; such that the outlet opening <b>48</b> cannot be fully closed by the second portion <b>47</b>&#x2033;, but will be closed by the remaining level <b>21</b><i>a </i>of manure <b>21</b>&#x2032; in the device <b>40</b>.</p>
+<p id="p-0077" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>LIST OF ITEMS</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="133pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>&#x2003;4.</entry>
+<entry>Grating or grid</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2003;5.</entry>
+<entry>Guiding rails</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2003;6.</entry>
+<entry>Safety cage</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2003;7.</entry>
+<entry>End flange of cover</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2003;8.</entry>
+<entry>End flange of lower edge</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2003;9.</entry>
+<entry>Airflow</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;10.</entry>
+<entry>Animal shed or space</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;11.</entry>
+<entry>Floor</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;12.</entry>
+<entry>First or living surface</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;13.</entry>
+<entry>Second surface</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;14.</entry>
+<entry>Floor opening</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;15.</entry>
+<entry>Flow hole</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;16.</entry>
+<entry>Feces</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;17.</entry>
+<entry>Urine</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;18.</entry>
+<entry>Periphery of the floor opening</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;19.</entry>
+<entry>Edge of the floor opening</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;20.</entry>
+<entry>Reservoir or manure cellar</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;20&#x2032;.</entry>
+<entry>Urine storage space</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;20&#x2033;.</entry>
+<entry>Feces storage space</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;21.</entry>
+<entry>Manure in reservoir</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;21&#x2032;.</entry>
+<entry>Manure in device</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;22</entry>
+<entry>Bottom of reservoir</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;23.</entry>
+<entry>Separation wall</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;30.</entry>
+<entry>Extraction device</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;31.</entry>
+<entry>Blower</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;40.</entry>
+<entry>Device</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;41.</entry>
+<entry>Tube</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;42.</entry>
+<entry>Free end of the tube</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;43.</entry>
+<entry>Periphery of the tube</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;44.</entry>
+<entry>Base</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;45.</entry>
+<entry>Sidewall of the tube</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;45&#x2032;.</entry>
+<entry>Converging portion of sidewall</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;46.</entry>
+<entry>Tensioning means or weight</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;47.</entry>
+<entry>Cover</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;47a.</entry>
+<entry>Free end</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;47b.</entry>
+<entry>Cover hinge</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;47&#x2032;.</entry>
+<entry>First portion of cover</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;47&#x2033;.</entry>
+<entry>Second portion of cover</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;48.</entry>
+<entry>Outlet opening</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;48&#x2032;.</entry>
+<entry>Lower edge of outlet opening</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;49.</entry>
+<entry>Passageway</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;50.</entry>
+<entry>Airwasher</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;51.</entry>
+<entry>Packed bed</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;52.</entry>
+<entry>Pump</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;53.</entry>
+<entry>Sprayer</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;54.</entry>
+<entry>Outlet</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;55.</entry>
+<entry>Absorption liquid</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;60.</entry>
+<entry>Manure suction robot</entry>
+</row>
+<row>
+<entry/>
+<entry>100.</entry>
+<entry>Animal shed system</entry>
+</row>
+<row>
+<entry/>
+<entry>101.</entry>
+<entry>Animal (cow)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An animal shed system comprising:
+<claim-text>an animal shed having an animal shed floor with a first and a second surface spaced apart, such that the floor has a thickness different from zero, and multiple flow holes extending from the first to the second surface;</claim-text>
+<claim-text>a reservoir situated under the animal shed floor, wherein the flow holes open up to the reservoir, and the flow holes allow a fluid flow from the animal shed to the reservoir;</claim-text>
+<claim-text>a floor opening in the animal shed floor to allow manure to be dumped in the reservoir;</claim-text>
+<claim-text>an air extraction device for extracting air underneath the floor, out of the reservoir; and</claim-text>
+<claim-text>a device extending from the floor opening into the reservoir, wherein the device is configured to prevent an airflow from the animal shed to the reservoir through the floor opening when in use.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising an air washer coupled to the air extraction device to capture ammonia present in the extracted air.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the air extraction device creates a lower pressure under the floor relative to the pressure above the floor.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the device further comprises a grating provided over at least part of a cross sectional area of the device.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a wheeled manure-removal vehicle for removing manure from the animal-shed floor and dumping the manure into the reservoir at the floor opening.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a safety cage that at least envelopes the floor opening, and is attached to the animal shed floor.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the device comprises a tube extending from the floor at the floor opening, and towards a bottom of the reservoir, wherein the tube has a free end ending at a distance different from zero from a bottom of the reservoir,
+<claim-text>wherein the free end opens out into the reservoir, thereby forming a passageway from the animal shed floor to the reservoir, and</claim-text>
+<claim-text>wherein in use an airflow from the animal shed to the reservoir is prevented when a manure or feces level in the reservoir extends up to or into the tube through the free end.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the device comprises a tube extending from the floor at the floor opening, and towards a bottom of the reservoir,
+<claim-text>wherein the tube has a free end ending at a distance different from zero from a bottom of the reservoir, the tube having a base that closes off the free end, and forms a container with the peripheral sidewall that encloses an interior of the device,</claim-text>
+<claim-text>wherein the sidewall comprises an outlet opening towards the reservoir, the outlet opening being located at a distance from zero from the base,</claim-text>
+<claim-text>wherein the device further comprises a cover extending into the tube and covering the outlet opening and part of the base,</claim-text>
+<claim-text>wherein an end edge of the cover is at least at a same height as a lower edge of the outlet opening, the lower edge being at a distance different from zero from the base, thereby creating a passage from the floor opening to the outlet opening, and</claim-text>
+<claim-text>wherein in use the airflow from the animal shed to the reservoir is prevented when a manure or feces level in the tube is at least at a similar height as the end edge of the cover or higher, thereby blocking the passageway for the airflow.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the device comprises a tube extending from the floor at the floor opening, and towards a bottom of the reservoir,
+<claim-text>wherein the tube has a free end ending at a distance different from zero from the bottom of the reservoir, the tube having a base that closes off the free end, and forms a container with a peripheral sidewall that encloses an interior of the device,</claim-text>
+<claim-text>wherein the sidewall comprises an outlet opening towards the reservoir, wherein the outlet opening extends from the base towards the floor opening,</claim-text>
+<claim-text>wherein the device further comprises a cover extending into the tube and covering the outlet opening and part of the base, thereby creating a passage from the floor opening to the outlet opening,</claim-text>
+<claim-text>wherein the cover comprises a first portion and a second portion, wherein the second portion is hingeably attached to the first portion,</claim-text>
+<claim-text>wherein in use the second portion rests against the lower edge of the outlet opening and/or an amount of manure in the passageway, thereby blocking the passageway from the animal shed to the reservoir and preventing an airflow from the animal shed to the reservoir through the floor opening.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The system according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the cover extends from the floor at the floor opening or from the sidewall of the tube at a location near the floor opening.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The system according to <claim-ref idref="CLM-00008">claims 8</claim-ref>, wherein the cover covers the base fully along of one of a longitudinal direction and a transverse direction, and partly along another of the longitudinal direction and the transverse direction.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The system according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the sidewall has at least two outlet openings at separate locations of the sidewall at the same height, and the cover is funnel shaped, and extends into the tube covering all outlet openings in the sidewall.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The system according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the end edge of the cover extends beyond the lower edge of the outlet opening.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The system according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the outlet opening extends from the floor towards the base.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The system according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the tube comprises an upper part and a lower part, and wherein at the lower part the sidewall converges towards the base.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The system according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the lower edge of the outlet opening coincides with an upper edge of the lower part of the container.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The system according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the tube has a peripheral shape of the floor opening or any other shaped cross-section.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The system according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein a cross-sectional shape and dimensions of the tube coincide with a shape and dimensions of the floor opening.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The system according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the air extraction device creates a lower pressure under the floor relative to the pressure above the floor.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The system according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the device further comprises a grating provided over at least part of a cross sectional area of the device.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

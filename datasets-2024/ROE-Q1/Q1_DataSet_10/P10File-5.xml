@@ -1,0 +1,1149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225326A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225326</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18115700</doc-number>
+<date>20230228</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>57</main-group>
+<subgroup>12</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>59</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>57</main-group>
+<subgroup>12</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>59</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">COMPOUNDS AND METHODS FOR IMPROVING PLANT GROWTH AND CROP YIELD</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>PCT/US2021/048288</doc-number>
+<date>20210830</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18115700</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63073338</doc-number>
+<date>20200901</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>UNIVERSITY OF IOWA RESEARCH FOUNDATION</orgname>
+<address>
+<city>Iowa City</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Bowden</last-name>
+<first-name>Ned B.</first-name>
+<address>
+<city>Iowa City</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>CARTER</last-name>
+<first-name>Justin M.</first-name>
+<address>
+<city>Iowa City</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>BROWN</last-name>
+<first-name>Eric M.</first-name>
+<address>
+<city>Iowa City</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>RANASINGHE</last-name>
+<first-name>Nimesh</first-name>
+<address>
+<city>Iowa City</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>PAUDEL</last-name>
+<first-name>Arjun</first-name>
+<address>
+<city>Iowa City</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>IRISH</last-name>
+<first-name>Erin E.</first-name>
+<address>
+<city>Iowa City</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>UNIVERSITY OF IOWA RESEARCH FOUNDATION</orgname>
+<role>02</role>
+<address>
+<city>Iowa City</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The invention provides a compound of formula I:</p>
+<p id="p-0002" num="0000"><chemistry id="CHEM-US-00001" num="00001">
+<img id="EMI-C00001" he="18.20mm" wi="50.63mm" file="US20230225326A1-20230720-C00001.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0003" num="0000">wherein X, Y, Z, R&#x2032;, R<sup>2</sup>, and X<sup>+</sup> have any of the values described in the specification. The compounds are useful to increase plant growth and/or to increase harvest yield.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="85.51mm" wi="114.81mm" file="US20230225326A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="231.14mm" wi="101.26mm" orientation="landscape" file="US20230225326A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="216.66mm" wi="156.46mm" file="US20230225326A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="39.37mm" wi="154.69mm" file="US20230225326A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="209.97mm" wi="155.62mm" file="US20230225326A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="104.06mm" wi="145.71mm" file="US20230225326A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="124.21mm" wi="143.34mm" file="US20230225326A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0004" num="0001">This application is a continuation of International Patent Application Number PCT/US2021/048288 that was filed on Aug. 30, 2021, and claims priority to U.S. Provisional Application No. 63/073,338 that was filed on Sep. 1, 2020. The entire content of the applications referenced above is hereby incorporated by reference herein.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?federal-research-statement description="Federal Research Statement" end="lead"?>
+<heading id="h-0002" level="1">GOVERNMENT FUNDING</heading>
+<p id="p-0005" num="0002">This invention was made with government support under 2018-67030-27352 awarded by the United States Department of Agriculture and under PFI1827336 awarded by the National Science Foundation. The government has certain rights in this invention.</p>
+<?federal-research-statement description="Federal Research Statement" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0006" num="0003">The worldwide population is expected to grow from its current level of 7.2B to 9.6B people by 2050 (United Nations, Department of Economic and Social Affairs, Population Division (2013). World Population Prospects: The 2012 Revision, Highlights and Advance Tables. Working Paper No. ESA/P/WP.228; Foley JA, et al., Nature 2011;478:337-42; and Godfray HCJB, et al., Science. 2010;327:812-8). To meet the needs of the world's growing human population, it is projected that global food production must increase 70% by 2050 (www.fao.org/fileadmin/templates/wsfs/docs/expertpaper/How_to_Feed_the_World_in_2050.pdf). Aside from sheer population numbers, there are additional factors that will increase market demand for food production. Trends indicate that as developing countries urbanize and their economies grow, their consumption of meat and dairy products will also increase. Because the conversion of feed to livestock is inefficient (for instance, each pound of hamburger requires 52 pounds of feed grain over a cow's lifetime; Capper J L., Animals. 2012;2:127-43) growth in this sector creates an increasing demand for cereal crops. Biofuel production may drive cereal demands even higher. Yet the amount of land dedicated to farming has remained at 1992 levels both in the United States and worldwide, which has led to a decrease in agricultural area per capita from 0.44 hectares per capita in 1960 to 0.17 hectares per capita in 2025. Current advances in technology cannot increase the yield per acre of crops enough to feed the growing population; new innovations are needed. Solutions must be environmentally safe, nonpolluting, and should help crops survive droughts and other environmental stressors that affect their growth.</p>
+<p id="p-0007" num="0004">One partial solution to this problem is the application of hydrogen sulfide (H<sub>2</sub>S) to increase the growth, survival, and yields of crops. H<sub>2</sub>S is a gasotransmitter that is synthesized enzymatically in plants and used as a signaling molecule. Research in the last dozen years has repeatedly demonstrated that therapeutic amounts of H<sub>2</sub>S have dramatic effects, including increased growth of roots, protection against heat stress and drought conditions, increased overall size and mass, alleviation from freezing stress on leaves, protection from high water salinity, and prolonged fruit shelf life (Guo H, et al., Acta Physiol Plant. 2016;38(1):1-13; Shi H, et al., Plant Phys Biochem. 2013;71:226-34; Hu L-Y, et al., J Agric Food Sci. 2012;60:8684-93; Li Z-R, et al., HortScience. 2015;50(3):416-20; Li Y-J, et al., J Agric Food Chem. 2014;62:1119-29; and Christou A, et al., J Exper Botany. 2013;64(7):1953-66). Two of the challenges of working with H<sub>2</sub>S is that it is a low boiling point gas (boiling point=&#x2212;60&#xb0; C.), and it is highly toxic. Exposure to levels of 2 ppm of H<sub>2</sub>S in the air can lead to negative health effects such as headaches or breathing problems for people who suffer from asthma, and exposure to 100 ppm is &#x201c;immediately dangerous to life and health&#x201d; (www.osha.gov/SLTC/ hydrogensulfide/hazards.html).</p>
+<p id="p-0008" num="0005">The investigation of H<sub>2</sub>S in plants is a new field &#x2014; much of the key work has been completed since 2007 &#x2014; yet it has already been shown to have positive effects on corn, soybeans, wheat, sweet potatoes, cucumbers, strawberries, rice, spinach, tomatoes, broccoli, and kiwi (Duan B, et al., Plant Growth Regul. 2015;75:33-44; Li Z-G, et al., J Plant Phys. 2013;170:741-7; Li ZG. Russian J Plant Phys. 2013;60:733-40; Alvarez C, et al., Arabidopsis. Plant Physiol. 2010;152(2):656-69; Bloem E, et al., J Agron Crop Sci. 2011;197(4):311-21; Chen J, et al., J Exp Bot. 2011;62(13):4481-93; Christou A, et al., J Exp Bot. 2013;64(7):1953-66; Fang T, et al., Plant Physiol Biochem. 2014;76:44-51; Fu P, et al., L. Acta Soc Bot Pol. 2013;82(4):295-302; Gao S-P, et al., HortScience. 2013;48(11):1385-92; Garcia-Mata C, et al., New Phytol. 2010;188(4):977-84; Hou Z, et al., J Integr Plant Biol. 2013;55(3):277-89; Hu L-Y, et al., J Agric Food Chem. 2012;60(35):8684-93; Krasensky J, et al., J Exp Bot. 2012;63(4):1593-608; Li S-P, et al., J Agric Food Chem. 2014;62(5):1119-29; Li Z-G, et al., Acta Physiol Plant. 2012;34(6):2207-13; Lin Y-T, et al., J Plant Growth Regul. 2012;31(4):519-28; Liu J, et al., Chin Sci Bull. 2011;56(33):3547-53; Papenbrock J, et al., Plant Biol. 2007;9(5):582-8; Shi H, et al., Plant Physiol Biochem. 2014;74:99-107; Sun Y, et al., J Food, Agric Environ. 2013;11(3 &#x26; 4, Pt. 2):1097-100; Wang B-L, et al., Planta. 2010;231(6):1301-9; Yadav SK. S Afr J Bot. 2010;76(2):167-79; Zhang H, et al., Postharvest Biol Technol. 2011;60(3):251-7; Zhang H, et al., J Integr Plant Biol. 2009;51(12):1086-94; and Zhang H, et al., Plant Growth Regul. 2009;58(3):243-50).</p>
+<p id="p-0009" num="0006">Carter et al. have shown that the compound GYY-4137, which slowly releases H<sub>2</sub>S by hydrolysis, increased the growth of radish, peas, and lettuce plants and that the harvest yield of radishes doubled when milligram loadings of GYY-4137 were applied (Carter JM, et al., PLoS ONE 13(12): e0208732; doi.org/10.1371/journal.pone.0208732).</p>
+<p id="p-0010" num="0007">Most chemicals used to deliver H<sub>2</sub>S also release chemicals with H<sub>2</sub>S that are not naturally found in the environment. These other chemicals may be toxic, or their safety to animals, bacteria, fungus, or people is not known. This is a critical problem because it limits the application of H<sub>2</sub>S in agriculture because these other chemicals will pollute the environment and may present health hazards.</p>
+<p id="p-0011" num="0008">It is strongly desired to have chemicals that will degrade to release H<sub>2</sub>S and safe, nontoxic chemicals. Furthermore, it is critical that the rate of release of H<sub>2</sub>S be controlled. Different plants may need H<sub>2</sub>S delivered to them at different points in their growing cycles which requires the ability to optimize the rate of release of H<sub>2</sub>S. In addition, it may be beneficial to ensure that all H<sub>2</sub>S is released within a particular time period to optimize the growth and harvest yields of plants or to ensure that these chemicals are not present in subsequent growing seasons.</p>
+<p id="p-0012" num="0009">There is currently a need for compounds and methods that are useful to increase the growth and harvest yields of crops. In particular, there is a need for compounds that have controllable release rates of H<sub>2</sub>S, and for H<sub>2</sub>S releasing compounds that degrade to release safe, biocompatible chemicals.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0013" num="0010">The invention provides dithiophosphates that increase the growth and harvest yields of crops. The compounds of the invention were found to increase the harvest yields of peas by over 30%, the harvest weight of lettuce by 20%, the harvest yield of soybeans by 4.4%, and the harvest yield of corn by 6.4%. The H<sub>2</sub>S release rate of the dithiophosphates can be tailored to target each type of plant separately if needed. Additionally, the dithiophosphates degrade to release safe, biocompatible chemicals.</p>
+<p id="p-0014" num="0011">In one aspect the present invention provides a compound of the invention, which is a compound of formula I:</p>
+<p id="p-0015" num="0000"><chemistry id="CHEM-US-00002" num="00002">
+<img id="EMI-C00002" he="18.20mm" wi="50.63mm" file="US20230225326A1-20230720-C00002.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0016" num="0000">wherein:</p>
+<p id="p-0017" num="0012">Y is O or S;</p>
+<p id="p-0018" num="0013">Z is O or S;</p>
+<p id="p-0019" num="0014">R<sup>1 </sup>is (C<sub>1</sub>-C<sub>20</sub>)alkyl, phenyl, or (C<sub>3</sub>-C<sub>20</sub>)cycloalkyl; and R<sup>2 </sup>is (C<sub>1</sub>-C<sub>20</sub>)alkyl, phenyl, or (C<sub>3</sub>-C<sub>20</sub>)cycloalkyl; or le and R<sup>2 </sup>taken together with the atoms to which they are attached form a 5-15 membered heterocyclic ring that is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl, (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl, and phenyl, wherein any phenyl or cycloalkyl of le and R<sup>2 </sup>is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl, (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl, and phenyl; and</p>
+<p id="p-0020" num="0015">X<sup>+</sup> is a suitable cation.</p>
+<p id="p-0021" num="0016">The invention also provides a composition comprising a compound of of formula I and a suitable agricultural carrier.</p>
+<p id="p-0022" num="0017">The invention also provides a method for increasing growth or harvest yield of a plant comprising, providing H<sub>2</sub>S to the plant through degradation of a compound of formula I. The</p>
+<p id="p-0023" num="0018">H<sub>2</sub>S can be provided to the plant by contacting a seed of the plant with the compound of of formula I, contacting the plant with the compound of of formula I, contacting soil on or around the seed or plant with the compound of of formula I, or by placing a container comprising the compound of of formula I proximal to the plant or the seed, so that H<sub>2</sub>S is provided to the plant or the seed. In one embodiment, the invention provides a method comprising, degrading a compound of formula Ito provide H<sub>2</sub>S. In one embodiment, the invention provides a method comprising, providing H<sub>2</sub>S to a plant or a seed by degrading a compound of formula I. In one embodiment, the invention provides a method comprising, increasing growth or harvest yield by providing H<sub>2</sub>S to a plant or a sead through degradation of a compound of formula I.</p>
+<p id="p-0024" num="0019">The invention also provides a method for increasing growth of a plant comprising contacting the plant with a compound of of formula I.</p>
+<p id="p-0025" num="0020">The invention also provides a method for increasing growth of a plant that grows from a seed comprising contacting the seed with a compound of of formula I prior to planting.</p>
+<p id="p-0026" num="0021">The invention also provides a method for increasing growth of a seedling comprising contacting the seedling with a compound of of formula I.</p>
+<p id="p-0027" num="0022">The invention also provides a method for increasing growth of plants when the compound of formula I is not in contact with the seeds or plants but release low levels of hydrogen sulfide.</p>
+<p id="p-0028" num="0023">The invention also provides a method for increasing growth of a plant in soil comprising applying a compound of of formula Ito the soil.</p>
+<p id="p-0029" num="0024">The invention also provides a method for increasing harvest yield of a plant comprising contacting the plant with a compound of of formula I.</p>
+<p id="p-0030" num="0025">The invention also provides a method for increasing harvest yield of a plant that grows from a seed comprising contacting the seed with a compound of of formula I prior to planting.</p>
+<p id="p-0031" num="0026">The invention also provides a method for increasing harvest yield of a seedling comprising contacting the seedling with a compound of of formula I.</p>
+<p id="p-0032" num="0027">The invention also provides a method for increasing harvest yield of a plant in soil comprising applying a compound of of formula I.</p>
+<p id="p-0033" num="0028">The invention also provides a method for increasing harvest yield of plants when the compound of of formula I is not in contact with the seeds or plants but release low levels of hydrogen sulfide.</p>
+<p id="p-0034" num="0029">The invention also provides a composition for releasing H<sub>2</sub>S following application to a seed, plant, or soil, comprising a compound of formula I.</p>
+<p id="p-0035" num="0030">The invention also provides a kit comprising a compound of formula I, packaging material, and instructions for applying the compound of formula Ito release H<sub>2</sub>S to soil, a seed, or a plant for increasing the growth or harvest yield of a plant.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE FIGURES</heading>
+<p id="p-0036" num="0031"><figref idref="DRAWINGS">FIGS. <b>1</b>A-<b>1</b>B</figref> show the average A) heights and B) mass of corn plants grown with different loadings of dibutyldithiophosphate ammonium salt added near the seeds and then watered with tap water for 4 weeks (see Example 20). Error bars=+/&#x2212;1 SE. Groups labeled with a unique number are statistically significant via the Tukey HSD test with a&#x3c;0.05.</p>
+<p id="p-0037" num="0032"><figref idref="DRAWINGS">FIGS. <b>2</b>A-<b>2</b>C</figref> show pea harvest measuring A) fresh weight of plant without roots, B) the number of pods, and C) the total fresh weight of pods (see Example 21).</p>
+<p id="p-0038" num="0033"><figref idref="DRAWINGS">FIG. <b>3</b></figref>. illustrates the mechanism of hydrolysis of dibutyldithiophosphate.</p>
+<p id="p-0039" num="0034"><figref idref="DRAWINGS">FIGS. <b>4</b>A-<b>4</b>B</figref> show concentration of sulfide from A) dialkoxydithiophosphates and B) disulfidedithiophosphates. The concentrations of sulfide were found using H<sub>2</sub>S and pH electrodes (Example 25).</p>
+<p id="p-0040" num="0035"><figref idref="DRAWINGS">FIG. <b>5</b></figref>. The harvest yields of corn grown with different amounts of dibutyldithiophosphate added per acre are shown. The groups that labeled with different numbers were found to be statistically significant using the Tukey-Kramer test (Example 26).</p>
+<p id="p-0041" num="0036"><figref idref="DRAWINGS">FIG. <b>6</b></figref>. The harvest yields of soybeans grown with different amounts of dibutyldithiophosphate added per acre are shown.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0042" num="0037">The following definitions are used, unless otherwise described: halo or halogen is fluoro, chloro, bromo, or iodo. Alkyl, alkoxy, etc. denote both straight and branched groups; but reference to an individual radical such as propyl embraces only the straight chain radical, a branched chain isomer such as isopropyl being specifically referred to.</p>
+<p id="p-0043" num="0038">The term &#x201c;alkyl&#x201d;, by itself or as part of another substituent, means, unless otherwise stated, a straight or branched chain hydrocarbon radical, having the number of carbon atoms designated (i.e., C<sub>1-8 </sub>means one to eight carbons). Examples include (C<sub>1</sub>-C<sub>8</sub>)alkyl, (C<sub>2</sub>-C<sub>8</sub>)alkyl, C<sub>1</sub>-C<sub>6</sub>)alkyl, (C<sub>2</sub>-C<sub>6</sub>)alkyl and (C<sub>3</sub>-C<sub>6</sub>)alkyl. Examples of alkyl groups include methyl, ethyl, n-propyl, iso-propyl, n-butyl, t-butyl, iso-butyl, sec-butyl, n-pentyl, n-hexyl, n-heptyl, n-octyl, and and higher homologs and isomers.</p>
+<p id="p-0044" num="0039">The term &#x201c;cycloalkyl&#x201d; refers to a saturated or partially unsaturated (non-aromatic) all carbon ring having 3 to 8 carbon atoms (i.e., (C<sub>3</sub>-C<sub>8</sub>)carbocycle). The term also includes multiple condensed, saturated all carbon ring systems (e.g., ring systems comprising 2, 3 or 4 carbocyclic rings). Accordingly, carbocycle includes multicyclic carbocyles such as a bicyclic carbocycles (e.g., bicyclic carbocycles having about 3 to 15 carbon atoms , about 6 to 15 carbon atoms, or 6 to 12 carbon atoms such as bicyclo[3.1.0]hexane and bicyclo[2.1.1]hexane), and polycyclic carbocycles (e.g tricyclic and tetracyclic carbocycles with up to about 20 carbon atoms). The rings of the multiple condensed ring system can be connected to each other via fused, spiro and bridged bonds when allowed by valency requirements. For example, multicyclic carbocyles can be connected to each other via a single carbon atom to form a spiro connection (e.g., spiropentane, spiro[4,5]decane, etc), via two adjacent carbon atoms to form a fused connection (e.g., carbocycles such as decahydronaphthalene, norsabinane, norcarane) or via two non-adjacent carbon atoms to form a bridged connection (e.g., norbornane, bicyclo[2.2.2]octane, etc). Non-limiting examples of cycloalkyls include cyclopropyl, cyclobutyl, cyclopentyl, cyclohexyl, bicyclo[2.2.1]heptane, pinane, and adamantane.</p>
+<p id="p-0045" num="0040">The term &#x201c;heterocyclic ring&#x201d; refers to a single saturated or partially unsaturated ring that has at least one atom other than carbon in the ring, wherein the atom is selected from the group consisting of oxygen, nitrogen and sulfur; the term also includes multiple condensed ring systems that have at least one such saturated or partially unsaturated ring, which multiple condensed ring systems are further described below. Thus, the term includes single saturated or partially unsaturated rings (e.g., 3, 4, 5, 6 or 7-membered rings) from about 1 to 6 carbon atoms and from about 1 to 3 heteroatoms selected from the group consisting of oxygen, nitrogen and sulfur in the ring. The sulfur and nitrogen atoms may also be present in their oxidized forms.</p>
+<p id="p-0046" num="0041">As used herein, the term &#x201c;heteroatom&#x201d; is meant to include oxygen (0), nitrogen (N), sulfur (S) and silicon (Si).</p>
+<p id="p-0047" num="0042">As used herein a wavy line &#x201c;<img id="CUSTOM-CHARACTER-00001" he="2.12mm" wi="4.23mm" file="US20230225326A1-20230720-P00001.TIF" alt="custom-character" img-content="character" img-format="tif"/>&#x201d; that intersects a bond in a chemical structure indicates the point of attachment of the bond that the wavy bond intersects in the chemical structure to the remainder of a molecule.</p>
+<p id="p-0048" num="0043">The phrase &#x201c;increase the growth of a plant&#x201d; includes increasing the mass of the plant or the height of the plant. In one embodiment, the mass of the plant is increased by at least about 5%. In another embodiment, the mass of the plant is increased by at least about 10%. In another embodiment, the mass of the plant is increased by at least about 20%. In one embodiment, the height of the plant is increased by at least about 5%. In another embodiment, the height of the plant is increased by at least about 10%. In another embodiment, the height of the plant is increased by at least about 20%.</p>
+<p id="p-0049" num="0044">The phrase &#x201c;increase the harvest yield of a plant&#x201d; includes increasing the yield (e.g. volume or mass) of the harvested material from a plant. In one embodiment, the harvest yield of the plant is increased by at least about 1%. In another embodiment, the harvest yield of the plant is increased by at least about 3%.In another embodiment, the harvest yield of the plant is increased by at least about 10%. In another embodiment, the harvest yield of the plant is increased by at least about 20%.</p>
+<p id="p-0050" num="0045">The phrase &#x201c;providing H<sub>2</sub>S to a plant&#x201d; includes providing H<sub>2</sub>S so that it contacts the plant as well as providing H<sub>2</sub>S so that it contacts a seed of the plant.</p>
+<p id="p-0051" num="0046">The compounds disclosed herein can exist as tautomeric isomers in certain cases. Although only one delocalized resonance structure may be depicted, all such forms are contemplated within the scope of the invention.</p>
+<p id="p-0052" num="0047">Stereochemical definitions and conventions used herein generally follow S. P. Parker, Ed., McGraw-Hill Dictionary of Chemical Terms (1984) McGraw-Hill Book Company, New York; and Eliel, E. and Wilen, S., &#x201c;Stereochemistry of Organic Compounds&#x201d;, John Wiley &#x26; Sons, Inc., New York, 1994. The compounds of the invention can contain asymmetric or chiral centers, and therefore exist in different stereoisomeric forms. It is intended that all stereoisomeric forms of the compounds of the invention, including but not limited to, diastereomers, enantiomers and atropisomers, as well as mixtures thereof such as racemic mixtures, form part of the present invention. Many organic compounds exist in optically active forms, i.e., they have the ability to rotate the plane of plane-polarized light. In describing an optically active compound, the prefixes D and L, or R and S, are used to denote the absolute configuration of the molecule about its chiral center(s). The prefixes d and 1 or (+) and (-) are employed to designate the sign of rotation of plane-polarized light by the compound, with (-) or 1 meaning that the compound is levorotatory. A compound prefixed with (+) or d is dextrorotatory. For a given chemical structure, these stereoisomers are identical except that they are mirror images of one another. A specific stereoisomer can also be referred to as an enantiomer, and a mixture of such isomers is often called an enantiomeric mixture. A 50:50 mixture of enantiomers is referred to as a racemic mixture or a racemate, which can occur where there has been no stereoselection or stereospecificity in a chemical reaction or process. The terms &#x201c;racemic mixture&#x201d; and &#x201c;racemate&#x201d; refer to an equimolar mixture of two enantiomeric species, devoid of optical activity.</p>
+<p id="p-0053" num="0048">It will be appreciated by those skilled in the art that compounds of the invention having a chiral center may exist in and be isolated in optically active and racemic forms. Some compounds may exhibit polymorphism. It is to be understood that the present invention encompasses any racemic, optically-active, polymorphic, or stereoisomeric form, or mixtures thereof, of a compound of the invention, which possess the useful properties described herein, it being well known in the art how to prepare optically active forms (for example, by resolution of the racemic form by recrystallization techniques, by synthesis from optically-active starting materials, by chiral synthesis, or by chromatographic separation using a chiral stationary phase.</p>
+<p id="p-0054" num="0049">When a bond in a compound formula herein is drawn in a non-stereochemical manner (e.g. flat), the atom to which the bond is attached includes all stereochemical possibilities. When a bond in a compound formula herein is drawn in a defined stereochemical manner (e.g. bold, bold-wedge, dashed or dashed-wedge), it is to be understood that the atom to which the stereochemical bond is attached is enriched in the absolute stereoisomer depicted unless otherwise noted. In one embodiment, the compound may be at least 51% the absolute stereoisomer depicted. In another embodiment, the compound may be at least 60% the absolute stereoisomer depicted. In another embodiment, the compound may be at least 80% the absolute stereoisomer depicted. In another embodiment, the compound may be at least 90% the absolute stereoisomer depicted. In another embodiment, the compound may be at least 95 the absolute stereoisomer depicted. In another embodiment, the compound may be at least 99% the absolute stereoisomer depicted.</p>
+<p id="p-0055" num="0050">The compounds may optionally be delivered with other fertilizers, pesticides, and/or herbicides. Alternatively, they may be delivered with water or as a neat solid or solution. The compounds may be sprayed into soil at time of planting, sprayed into soil at intervals post emergence, or sprayed on the foiliage of a plant. The compounds may be dripped into soil at time of planting, dripped into soil at intervals post emergence, or dripped on the foiliage of a plant. The compounds may be delivered with drip flow or other irrigation methods. In addition the compounds may be applied to seeds prior to planting using established methods. For example, they may be coated on seads with an inert vehicle, tumbled, and dried.</p>
+<p id="p-0056" num="0051">The compounds can be formulated in a variety of ways. For example, they can be formulated as a dustable powder, gel, a wettable powder, a water dispersible granule, a water-dispersable or water-foaming tablet, a briquette, an emulsifiable concentrate, a microemulsifiable concentrate, an oil-in-water emulsion, a water-in-oil emulsion, a dispersion in water, a dispersion in oil, a suspoemulsion, a soluble liquid (with either water or an organic solvent as the carrier), an impregnated polymer film, or other forms known in the art. These formulations may be suitable for direct application or may be suitable for dilution prior to application, said dilution being made either with water, liquid fertilizer, micronutrients, biological organisms, oil or solvent. The compositions are prepared by admixing the active ingredient with adjuvants including diluents, extenders, carriers, and conditioning agents to provide compositions in the form of finely-divided particulate solids, granules, pellets, solutions, dispersions or emulsions. Thus, it is believed that the active ingredient could be used with an adjuvant such as a finely-divided solid, a mineral oil, a liquid of organic origin, water, various surface active agents or any suitable combination of these.</p>
+<p id="p-0057" num="0052">The active ingredient may also be contained in very fine microcapsules in polymeric substances. Microcapsules typically contain the active material enclosed in an inert porous shell which allows escape of the enclosed material to the surrounds at controlled rates. Encapsulated droplets are typically about 0.1 to 500 microns in diameter. The enclosed material typically constitutes about 25 to 95% of the weight of the capsule. The active ingredient may be present as a monolithic solid, as finely dispersed solid particles in either a solid or a liquid, or it may be present as a solution in a suitable solvent. Shell membrane materials include natural and synthetic rubbers, cellulosic materials, styrene-butadiene copolymers, polyacrylonitriles, polyacrylates, polyesters, polyamides, polyureas, polyurethanes, natural polymers, other polymers familiar to one skilled in the art, chemically-modified polymers and starch xanthates. Alternative very fine microcapsules may be formed wherein the active ingredient is dispersed as finely divided particles within a matrix of solid material, but no shell wall surrounds the microcapsule.</p>
+<p id="p-0058" num="0053">Suitable agricultural adjuvants and carriers that are useful in preparing the compositions of the invention are well known to those skilled in the art.</p>
+<p id="p-0059" num="0054">Liquid carriers that can be employed include water, toluene, xylene, petroleum naphtha, crop oil, acetone, methyl ethyl ketone, cyclohexanone, acetic anhydride, acetonitrile, acetophenone, amyl acetate, 2-butanone, chlorobenzene, cyclohexane, cyclohexanol, alkyl acetates, diacetonalcohol, 1,2-dichloropropane, diethanolamine, p-diethylbenzene, diethylene glycol, diethylene glycol abietate, diethylene glycol butyl ether, diethylene glycol ethyl ether, diethylene glycol methyl ether, N,N-dimethyl formamide, dimethyl sulfoxide, 1,4-dioxane, dipropylene glycol, dipropylene glycol methyl ether, dipropyleneglycol dibenzoate, diproxitol, alkyl pyrrolidinone, ethyl acetate, 2-ethyl hexanol, ethylene carbonate, 1,1,1-trichloroethane, 2-heptanone, alpha pinene, d-limonene, ethylene glycol, ethylene glycol butyl ether, ethylene glycol methyl ether, gamma-butyrolactone, glycerol, glycerol diacetate, glycerol monoacetate, glycerol triacetate, glycerol triacetate, hexadecane, hexylene glycol, isoamyl acetate, isobornyl acetate, isooctane, isophorone, isopropyl benzene, isopropyl myristate, lactic acid, laurylamine, mesityl oxide, methoxy-propanol, methyl isoamyl ketone, methyl isobutyl ketone, methyl laurate, methyl octanoate, methyl oleate, methylene chloride, m-xylene, n-hexane, n-octylamine, octyl amine acetate, oleylamine, o-xylene, phenol, polyethylene glycol (PEG400), propionic acid, propylene glycol, propylene glycol monomethyl ether, propylene glycol mono-methyl ether, p-xylene, toluene, triethyl phosphate, triethylene glycol, xylene sulfonic acid, trichloroethylene, perchloroethylene, ethyl acetate, amyl acetate, butyl acetate, propylene glycol monomethyl ether and diethylene glycol monomethyl ether, methanol, ethanol, isopropanol, and higher molecular weight alcohols such as amyl alcohol, tetrahydrofurfuryl alcohol, hexanol, octanol, etc., ethylene glycol, propylene glycol, glycerine, N-methyl-2-pyrrolidinone, and the like. Water is generally the carrier of choice for the dilution of concentrates.</p>
+<p id="p-0060" num="0055">Suitable solid carriers include talc, titanium dioxide, pyrophyllite clay, silica, attapulgite clay, kieselguhr, chalk, diatomaceous earth, lime, calcium carbonate, bentonite clay, Fuller's earth, cotton seed hulls, wheat flour, soybean flour, pumice, wood flour, walnut shell flour, lignin, and the like such as described in the CFR 180.1001. (c) &#x26; (d).</p>
+<p id="p-0061" num="0056">A broad range of surface-active agents can be employed in both solid and liquid compositions, especially those designed to be diluted with carrier before application. Suitable surface-active compounds are nonionic, cationic and/or anionic surfactants and surfactant mixtures having good emulsifying, dispersing and wetting properties. Examples of suitable surfactants and surfactant mixtures are given in U.S. Pat. Nos. 5,958,835; 6,063,732 and 6,165,939. Also the surfactants customarily used for the art of formulation and described, inter alia, in &#x201c;McCutcheon's Detergents and Emulsifiers Annual&#x201d; MC Publishing Corp., Ridgewood N.J., 1981, Stache, H., &#x201c;Tensid-Taschenbuch&#x201d; (Handbook of Surfactants), Carl Hanser Verlag, Munich/Vienna, 1981, and M. and J. Ash, &#x201c;Encyclopedia of Surfactants&#x201d;, Vol I-III, Chemical Publishing Co., New York, 1980-81 are suitable for manufacture of the herbicides according to the invention.</p>
+<p id="p-0062" num="0057">The formulations of the invention can comprise the compounds in any suitable concentration. In one embodiment, for example, the formulation may include the compound in about 95, 90, 80, 60, 50, 40, 30, 20, 10, 5, 2, 1, 0.5 or 0.01 weight percent of the formulation. The formulations may also include other fertilizers or pesticides, which may also be present in any suitable concentration.</p>
+<p id="p-0063" num="0058">The compounds can be applied to soil or plants at any acceptable rate. For example, the compounds can be applied at a rate of at least about 1 kg per acre, at least about 2 kg per acre, at least about 5 kg per acre, at least about 10 kg per acre, or at least about 20 kg per acre, although higher application rates are not excluded.</p>
+<p id="p-0064" num="0059">In one embodiment, the compound can be dissolved in water, organic solvents, or a mixture thereof, without other fertlizers, pesticides, herbicides, or other chemicals in a concentration of from about 2% weight percent of the formulation to about 90% weight percent of the formulation. In another embodiment, the compound can be dissolved in water, organic solvents, or a mixture thereof, without other fertlizers, pesticides, herbicides, or other chemicals in a concentration of from about 20% weight percent of the formulation to about 80% weight percent of the formulation.</p>
+<p id="p-0065" num="0060">In another embodiment, the formulation comprises the compound dissolved in water, organic solvents, or a mixture thereof, with other fertlizers, pesticides, herbicides, or other chemicals present, wherein the compound is present in less than 5% weight percent of the formulation. In another embodiment, the formulation comprises the compound dissolved in water, organic solvents, or a mixture thereof, with other fertlizers, pesticides, herbicides, or other chemicals present, wherein the compound is present in less than 1% weight percent of the formulation.</p>
+<p id="p-0066" num="0061">Specific values listed below for radicals, substituents, and ranges, are for illustration only; they do not exclude other defined values or other values within defined ranges for the radicals and substituents. It is to be understood that two or more values may be combined. It is also to be understood that the values listed herein below (or subsets thereof) can be excluded.</p>
+<p id="p-0067" num="0062">Specifically, (C<sub>1</sub>-C<sub>20</sub>)alkyl can be methyl, ethyl, propyl, isopropyl, butyl, iso-butyl, sec-butyl, pentyl, 3-pentyl, hexyl, heptyl, octyl, nonyl, decyl, undecyl, dodecyl, tridecyl, tetradecyl, pentadecyl, hexadecyl, heptadecyl, octadecyl, nonadecyl, icosanyl,; and (C<sub>3</sub>-C<sub>20</sub>)cycloalkyl can be cyclopropyl, cyclobutyl, cyclopentyl, or cyclohexyl.</p>
+<p id="p-0068" num="0063">A specific value for Y is O.</p>
+<p id="p-0069" num="0064">A specific value for Y is S.</p>
+<p id="p-0070" num="0065">A specific value for Z is O.</p>
+<p id="p-0071" num="0066">A specific value for Z is S.</p>
+<p id="p-0072" num="0067">A specific value for R<sup>I- </sup>is (C<sub>1</sub>-C<sub>20</sub>)alkyl.</p>
+<p id="p-0073" num="0068">A specific value for R<sup>1 </sup>is (C<sub>1</sub>-C<sub>15</sub>)alkyl.</p>
+<p id="p-0074" num="0069">A specific value for R<sup>1 </sup>is (C<sub>1</sub>-C<sub>10</sub>)alkyl.</p>
+<p id="p-0075" num="0070">A specific value for R<sup>1 </sup>is (C<sub>5</sub>-C<sub>20</sub>)alkyl.</p>
+<p id="p-0076" num="0071">A specific value for R<sup>1 </sup>is (C<sub>5</sub>-C<sub>15</sub>)alkyl.</p>
+<p id="p-0077" num="0072">A specific value for R<sup>1 </sup>is (C<sub>5</sub>-C<sub>10</sub>)alkyl.</p>
+<p id="p-0078" num="0073">A specific value for R<sup>1 </sup>is C<sub>2</sub>-alkyl, C<sub>3</sub>-alkyl, C<sub>4</sub>-alkyl, C<sub>5</sub>-alkyl, C<sub>6</sub>-alkyl, C<sub>7</sub>-alkyl, C<sub>8</sub>-alkyl, C<sub>9</sub>-alkyl, C<sub>10</sub>-alkyl, C<sub>11</sub>-alkyl, C<sub>12</sub>-alkyl, C<sub>13</sub>-alkyl, C<sub>14</sub>-alkyl, C<sub>15</sub>-alkyl, C<sub>16</sub>-alkyl, C<sub>17</sub>-alkyl, C<sub>18</sub>-alkyl, C<sub>19</sub>-alkyl, or C<sub>20</sub>-alkyl.</p>
+<p id="p-0079" num="0074">A specific value for R<sup>1 </sup>is phenyl that is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl, (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl, and phenyl.</p>
+<p id="p-0080" num="0075">A specific value for R<sup>1 </sup>is (C<sub>3</sub>-C<sub>20</sub>)cycloalkyl that is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl, (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl, and phenyl.</p>
+<p id="p-0081" num="0076">A specific value for R<sup>1 </sup>is (C<sub>3</sub>-C<sub>15</sub>)cycloalkyl.</p>
+<p id="p-0082" num="0077">A specific value for R<sup>1 </sup>is (C<sub>3</sub>-C<sub>10</sub>)cycloalkyl.</p>
+<p id="p-0083" num="0078">A specific value for R<sup>1 </sup>is (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl.</p>
+<p id="p-0084" num="0079">A specific value for R<sup>1 </sup>is (C<sub>6</sub>-C<sub>10</sub>)cycloalkyl.</p>
+<p id="p-0085" num="0080">A specific value for R<sup>2 </sup>is (C<sub>1</sub>-C<sub>20</sub>)alkyl.</p>
+<p id="p-0086" num="0081">A specific value for R<sup>2 </sup>is (C<sub>1</sub>-C<sub>15</sub>)alkyl.</p>
+<p id="p-0087" num="0082">A specific value for R<sup>2 </sup>is (C<sub>1</sub>-C<sub>10</sub>)alkyl.</p>
+<p id="p-0088" num="0083">A specific value for R<sup>2 </sup>is (C<sub>5</sub>-C<sub>20</sub>)alkyl.</p>
+<p id="p-0089" num="0084">A specific value for R<sup>2 </sup>is (C<sub>5</sub>-C<sub>15</sub>)alkyl.</p>
+<p id="p-0090" num="0085">A specific value for R<sup>2 </sup>is (C<sub>5</sub>-C<sub>10</sub>)alkyl.</p>
+<p id="p-0091" num="0086">A specific value for R<sup>2 </sup>is C<sub>2</sub>-alkyl, C<sub>3</sub>-alkyl, C<sub>4</sub>-alkyl, C<sub>5</sub>-alkyl, C<sub>6</sub>-alkyl, C<sub>7</sub>-alkyl, C<sub>8</sub>-alkyl, C<sub>9</sub>-alkyl, C<sub>10</sub>-alkyl, C<sub>11</sub>-alkyl, C<sub>12</sub>-alkyl, C<sub>13</sub>-alkyl, C<sub>14</sub>-alkyl, C<sub>15</sub>-alkyl, C<sub>16</sub>-alkyl, C<sub>17</sub>-alkyl, C<sub>18</sub>-alkyl, C<sub>19</sub>-alkyl, or C<sub>20</sub>-alkyl.</p>
+<p id="p-0092" num="0087">A specific value for R<sup>2 </sup>is phenyl that is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl, (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl, and phenyl.</p>
+<p id="p-0093" num="0088">A specific value for R<sup>2 </sup>is (C<sub>3</sub>-C<sub>20</sub>)cycloalkyl that is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl, (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl, and phenyl.</p>
+<p id="p-0094" num="0089">A specific value for R<sup>2 </sup>is (C<sub>3</sub>-C15)cycloalkyl.</p>
+<p id="p-0095" num="0090">A specific value for R<sup>2 </sup>is (C<sub>3</sub>-C<sub>10</sub>)cycloalkyl.</p>
+<p id="p-0096" num="0091">A specific value for R<sup>2 </sup>is (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl.</p>
+<p id="p-0097" num="0092">A specific value for R<sup>2 </sup>is (C<sub>6</sub>-C<sub>10</sub>)cycloalkyl.</p>
+<p id="p-0098" num="0093">A specific value for R<sup>1 </sup>and R<sup>2 </sup>taken together with the atoms to which they are attached is a 5-15 membered heterocyclic ring that is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl, (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl, and phenyl, wherein any phenyl of R<sup>1 </sup>and R<sup>2 </sup>is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl, (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl, and phenyl.</p>
+<p id="p-0099" num="0094">A specific value for R<sup>1 </sup>and R<sup>2 </sup>taken together with the atoms to which they are attached is a 5-10 membered heterocyclic ring that is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl, (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl, and phenyl, wherein any phenyl of R<sup>1 </sup>and R<sup>2 </sup>is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl, (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl, and phenyl.</p>
+<p id="p-0100" num="0095">A specific value for R<sup>1 </sup>and R<sup>2 </sup>taken together with the atoms to which they are attached is a 5-8 membered heterocyclic ring that is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl, (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl, and phenyl, wherein any phenyl of R<sup>1 </sup>and R<sup>2 </sup>is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl, (C<sub>3</sub>-C<sub>6</sub>)cycloalkyl, and phenyl.</p>
+<p id="p-0101" num="0096">A specific value for R<sup>1 </sup>and R<sup>2 </sup>taken together with the atoms to which they are attached is a 5-15 membered heterocyclic ring that is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl.</p>
+<p id="p-0102" num="0097">A specific value for R<sup>1 </sup>and R<sup>2 </sup>taken together with the atoms to which they are attached is a 5-10 membered heterocyclic ring that is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl.</p>
+<p id="p-0103" num="0098">A specific value for R<sup>1 </sup>and R<sup>2 </sup>taken together with the atoms to which they are attached is a 5-8 membered heterocyclic ring that is optionally substituted with one or more groups independently selected from the group consisting of (C<sub>1</sub>-C<sub>6</sub>)alkyl. A specific value for R<sup>1 </sup>is: methyl, ethyl, propyl, isopropyl, butyl, iso-butyl, sec-butyl, pentyl, iso-pentyl, hexyl, heptyl, octyl, nonyl, decyl, undecyl, dodecyl, tridecyl, tetradecyl, pentadecyl, hexadecyl, heptadecyl, octadecyl, nonadecyl, icosanyl, phenyl, 4-ethylphenyl,</p>
+<p id="p-0104" num="0000"><chemistry id="CHEM-US-00003" num="00003">
+<img id="EMI-C00003" he="28.11mm" wi="44.70mm" file="US20230225326A1-20230720-C00003.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0105" num="0099">A specific value for R<sup>2 </sup>is: methyl, ethyl, propyl, isopropyl, butyl, iso-butyl, sec-butyl, pentyl, iso-pentyl, hexyl, heptyl, octyl, nonyl, decyl, undecyl, dodecyl, tridecyl, tetradecyl, pentadecyl, hexadecyl, heptadecyl, octadecyl, nonadecyl, icosanyl, phenyl, 4-ethylphenyl,</p>
+<p id="p-0106" num="0000"><chemistry id="CHEM-US-00004" num="00004">
+<img id="EMI-C00004" he="28.11mm" wi="44.70mm" file="US20230225326A1-20230720-C00004.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0107" num="0100">A specific compound is selected from the group consisting of:</p>
+<p id="p-0108" num="0000"><chemistry id="CHEM-US-00005" num="00005">
+<img id="EMI-C00005" he="247.65mm" wi="75.86mm" file="US20230225326A1-20230720-C00005.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+<chemistry id="CHEM-US-00006" num="00006">
+<img id="EMI-C00006" he="93.13mm" wi="74.17mm" file="US20230225326A1-20230720-C00006.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0109" num="0101">A specific compound is selected from the group consisting of:</p>
+<p id="p-0110" num="0000"><chemistry id="CHEM-US-00007" num="00007">
+<img id="EMI-C00007" he="247.65mm" wi="75.86mm" file="US20230225326A1-20230720-C00007.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+<chemistry id="CHEM-US-00008" num="00008">
+<img id="EMI-C00008" he="93.13mm" wi="74.17mm" file="US20230225326A1-20230720-C00008.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0111" num="0000">wherein X<sup>+</sup> is a suitable cation.</p>
+<p id="p-0112" num="0102">A specific compound is selected from the group consisting of:</p>
+<p id="p-0113" num="0000"><chemistry id="CHEM-US-00009" num="00009">
+<img id="EMI-C00009" he="224.11mm" wi="75.69mm" file="US20230225326A1-20230720-C00009.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+<chemistry id="CHEM-US-00010" num="00010">
+<img id="EMI-C00010" he="114.47mm" wi="74.00mm" file="US20230225326A1-20230720-C00010.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0114" num="0103">A specific value for X<sup>+</sup> is a monovalent cation.</p>
+<p id="p-0115" num="0104">A specific value for X<sup>+</sup> is a metal cation.</p>
+<p id="p-0116" num="0105">A specific value for X<sup>+</sup> is an ammonium cation (e.g. R<sub>4</sub>N<sup>+</sup>, wherein each R is independently selected from (C<sub>1</sub>-C<sub>6</sub>)alkyl)</p>
+<p id="p-0117" num="0106">A specific value for X<sup>+</sup> is potassium, sodium, or triethyl ammonium.</p>
+<p id="p-0118" num="0107">Processes for preparing compounds of formula I are provided as further embodiments of the invention and are illustrated by the following procedures in which the meanings of the generic radicals are as given above unless otherwise qualified.</p>
+<p id="p-0119" num="0108">The invention will now be illustrated by the following non-limiting Examples.</p>
+<heading id="h-0007" level="1">EXAMPLES</heading>
+<heading id="h-0008" level="1">Example 1</heading>
+<heading id="h-0009" level="1">Synthesis of Dibutyldithiophosphate Ammonium Salt</heading>
+<p id="p-0120" num="0109"><chemistry id="CHEM-US-00011" num="00011">
+<img id="EMI-C00011" he="30.99mm" wi="38.10mm" file="US20230225326A1-20230720-C00011.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0121" num="0110">n-Butanol (30.9 mL, 338 mmol) was added slowly over 2 minutes to a mixture of P<sub>4</sub>S<sub>10 </sub>(18.66 g, 42.0 mmol) and toluene (75 mL). The contents were stirred at 85&#xb0; C. for 16 hours. Toluene was removed under reduced pressure and the crude dibutyldithiophosphate was cooled in an ice bath and a 28% ammonium hydroxide solution in water (23.0 mL, 161.7 mmol) was added slowly over 2 minutes. Water was removed under reduced pressure yielding the dibutyldithiophosphate ammonium salt which was recrystallized twice from hot toluene to give a white solid (79% yield). <sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 6.97 (b, 4H), 4.00 (q, 4H), 1.67 (p, 4H), 1.38 (m, 4H), 0.94 (t, 6H); <sup>13</sup>C NMR (75 MHz, CDCl<sub>3</sub>) &#x3b4; 66.92, 32.60, 19.23, 13.97; <sup>31</sup>P NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 109.89.</p>
+<heading id="h-0010" level="1">Example 2</heading>
+<heading id="h-0011" level="1">Synthesis of</heading>
+<p id="p-0122" num="0111"><chemistry id="CHEM-US-00012" num="00012">
+<img id="EMI-C00012" he="15.92mm" wi="22.27mm" file="US20230225326A1-20230720-C00012.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0123" num="0112">A mixture of 1,2-ethanediol (0.34 g, 5.36 mmol) and triethyl amine (0.58 g, 5.73 mmol) was added slowly over 2 minutes to a mixture of P<sub>2</sub>S<sub>5 </sub>(0.67 g, 2.98 mmol) and toluene (15 mL). The contents were stirred at 45&#xb0; C. for 4 h. The pure chemical was obtained when the solution dried under reduced pressure and further purified by washing with DCM followed by hexane to give a white solid (77% yield). <sup>1</sup>H NMR (300 MHz, D<sub>2</sub>O) &#x3b4; 4.31 (d, 4H), 3.13-3.21 (q, 6H), 1.24 (t, 9H). <sup>13</sup>C NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 68.14, 48.99, 11.36. <sup>31</sup>P NMR (300 MHz, D2O) &#x3b4; 129.86.</p>
+<heading id="h-0012" level="1">Example 3</heading>
+<heading id="h-0013" level="1">Synthesis of</heading>
+<p id="p-0124" num="0113"><chemistry id="CHEM-US-00013" num="00013">
+<img id="EMI-C00013" he="18.63mm" wi="19.56mm" file="US20230225326A1-20230720-C00013.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0125" num="0000">1,2-Propanediol (0.45g, 6 mmol was added slowly over 2 minutes to a mixture of P<sub>2</sub>S<sub>5 </sub>(0.65g, 3 mmol) and toluene (20 mL). The contents were stirred at 90&#xb0; C. for 12 hours. To obtain crude compound, the contents were cooled in an ice bath, and 8 mL of a 0.75 M potassium hydroxide was added slowly over 2 min. The crude product was dried under reduced pressure and purified by flash chromatography using solvent system of 20% methanol in ethyl acetate as an eluent to yield a white solid (65% yield). <sup>1</sup>H NMR (300 MHz, CD<sub>3</sub>OD) &#x3b4;=4.80-4.85 (m, 1H), 4.54-4.59 (m, 1H), 3.75-3.82 (q, 1H), 1.35-1.37 (d, 3H), <sup>31</sup>P NMR (300 MHz, CD<sub>3</sub>OD) &#x3b4;=129.33. ESI-MS m/z [M+] calculated: 168.9552, found: 168.9541.</p>
+<heading id="h-0014" level="1">Example 4</heading>
+<heading id="h-0015" level="1">Synthesis of</heading>
+<p id="p-0126" num="0114"><chemistry id="CHEM-US-00014" num="00014">
+<img id="EMI-C00014" he="16.59mm" wi="18.80mm" file="US20230225326A1-20230720-C00014.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0127" num="0115">1,3-Propanediol (0.45 g, 4.15 mmol) was added slowly over 2 minutes to a mixture of P<sub>2</sub>S<sub>5 </sub>(0.56g, 2.47 mmol) and toluene (15 mL). The contents were stirred at 90&#xb0; C. for 16 h. Toluene was removed under reduced pressure, crude compound was cooled in an ice bath, and 8 mL of a 2 M potassium hydroxide was added slowly over 2 minutes. The pure compound was obtained when the solution dried under reduced pressure and further purified by flash chromatography using a 10% MeOH in DCM solvent system to give a white solid (75% yield). <sup>1</sup>H NMR (300 MHz, CD<sub>3</sub>OD) &#x3b4; 4.28-4.37 (dt, 4H), 1.82-1.88 (m, 2H). <sup>13</sup>C NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 62.28, 34.17. <sup>31</sup>P NMR (300 MHz, CD<sub>3</sub>OD) &#x3b4; 111.60.</p>
+<heading id="h-0016" level="1">Example 5</heading>
+<heading id="h-0017" level="1">Synthesis of</heading>
+<p id="p-0128" num="0116"><chemistry id="CHEM-US-00015" num="00015">
+<img id="EMI-C00015" he="31.16mm" wi="33.87mm" file="US20230225326A1-20230720-C00015.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0129" num="0117">(+)-Menthol (1.25 g, 8 mmol) was added slowly over 2 minutes to a mixture of P<sub>2</sub>S<sub>5 </sub>(0.45 g, 2 mmol) and toluene (20 mL). The contents were stirred at 85&#xb0; C. for 12 h. Toluene was removed under reduced pressure, crude compound was cooled in an ice bath, and 8 mL of a 0.78 M potassium hydroxide was added slowly over 2 minutes. The pure compound was obtained when the solution dried under reduced pressure and further purified by recrystallization from acetone to give a white solid (67% yield). <sup>1</sup>H NMR (300 MHz, CD<sub>3</sub>OD,) &#x3b4;=4.23-4.46 (m, 2H), 2.54-2.61(m, 2H), 2.31-2.41(m, 2H), 1.62-1.66 (m, 4H), 1.33-1.45 (m, 2), 1.21-1.29 (m, 2H), 0.95-1.12 (m, 4H), 0.83- 0.91 (m, 22H). <sup>13</sup>C NMR (300 MHz, CD<sub>3</sub>OD) &#x3b4; 78.61, 50.45, 44.44, 35.72, 32.87, 26.07, 24.15, 22.69, 21.85, 17.11. <sup>31</sup>P NMR (300 MHz, CD<sub>3</sub>OD) &#x3b4;=112.04.</p>
+<heading id="h-0018" level="1">Example 6</heading>
+<heading id="h-0019" level="1">Synthesis of</heading>
+<p id="p-0130" num="0118"><chemistry id="CHEM-US-00016" num="00016">
+<img id="EMI-C00016" he="38.18mm" wi="39.45mm" file="US20230225326A1-20230720-C00016.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0131" num="0119">4-Ethylphenol (0.98 g, 8 mmol) was added slowly over 2 minutes to a mixture of P<sub>2</sub>S<sub>5 </sub>(0.45 g, 2 mmol) and toluene (20 mL). The contents were stirred at 90&#xb0; C. for 24 hours. Toluene was removed under reduced pressure, crude compound was cooled in an ice bath, and 8 mL of a 0.78 M potassium hydroxide was added slowly over 2 minutes. The pure compound was obtained when the solution dried under reduced pressure and further purified by flash chromatography with ethyl acetate as an eluent to give a white solid (82% yield. <sup>1</sup>H NMR (300MHz, DMSO-d<sub>6</sub>) &#x3b4;=7.08-7.12 (m, 4H), 2.46-2.54 (q, 2H), 1.14-1.18 (t, 3H). <sup>13</sup>C NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 140.85, 128.90, 122.00, 115.29, 28.25, 15.72. <sup>31</sup>P NMR (DMSO-d<sub>6</sub>) &#x3b4;=108.28. ESI-MS m/z [M+] calculated: 337.0491, found: 337.0494.</p>
+<heading id="h-0020" level="1">Example 7</heading>
+<heading id="h-0021" level="1">Synthesis of</heading>
+<p id="p-0132" num="0120"><chemistry id="CHEM-US-00017" num="00017">
+<img id="EMI-C00017" he="47.75mm" wi="34.63mm" file="US20230225326A1-20230720-C00017.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0133" num="0121">(&#x2212;) Borneol (3.08 g, 20 mmol) was added slowly over 2 minutes to a mixture of P<sub>2</sub>S<sub>5 </sub>(1.10 g, 4.94 mmol) and toluene (20 mL). The contents were stirred at reflux for 2h. The solution was cooled in an ice bath, and triethylamine (1.01 g, 20 mmol) was added slowly over 2 minutes. The pure compound was obtained when the solution dried under reduced pressure and further purified by recrystallization from acetone to give a white solid (58% yield). <sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4;=4.70-4.71 (t, 2H), 3.26-3.33(q, 6H), 2.20-2.24 (m, 2H), 2.09-2.17(m, 2H), 1.59-1.61 (m, 5H), 1.36-1.40 (t, 11H), 1.27-1.35 (m, 4 H), 0.85-0.96(t, 18H). <sup>13</sup>C NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 81.63, 49.53, 47.32, 45.92, 45.20, 37.47, 28.19, 27.23, 20.12, 19.13, 13.72, 8.68. <sup>31</sup>P NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4;=112.31(t).</p>
+<heading id="h-0022" level="1">Example 8</heading>
+<heading id="h-0023" level="1">Synthesis of Di(Tert-Butanol)Dithiophosphate Sodium Salt</heading>
+<p id="p-0134" num="0122"><chemistry id="CHEM-US-00018" num="00018">
+<img id="EMI-C00018" he="22.94mm" wi="27.43mm" file="US20230225326A1-20230720-C00018.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0135" num="0123">Tert-butanol (0.71g, 9.54 mmol) was added slowly over 2 minutes to a mixture of P<sub>2</sub>S<sub>5 </sub>(0.52g, 2.34 mmol) and THF (15 mL) under nitrogen. The contents were stirred at 45&#xb0; C. for 5 hours. THF was removed under reduced pressure, crude compound was cooled in an ice bath, and 10 mL of a saturated NaHCO<sub>3 </sub>was added slowly over 2 minutes. The crude product was dried under reduced pressure to give a white solid (74% yield). <sup>1</sup>EI NMR (300 MHz, D<sub>2</sub>O) &#x3b4; 1.56 (b). <sup>31</sup>P NMR (300 MHz, D<sub>2</sub>O) &#x3b4; 91.36.</p>
+<heading id="h-0024" level="1">Example 9</heading>
+<heading id="h-0025" level="1">Synthesis of</heading>
+<p id="p-0136" num="0124"><chemistry id="CHEM-US-00019" num="00019">
+<img id="EMI-C00019" he="21.51mm" wi="26.92mm" file="US20230225326A1-20230720-C00019.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0137" num="0125">Iso-propanol (1.5 mL, 20 mmol) was added slowly over 2 minutes to a mixture of P<sub>2</sub>S<sub>5 </sub>(0.56 g, 2.5 mmol) and toluene (12 mL). The contents were stirred at 85&#xb0; C. for 16 h. Toluene was removed under reduced pressure, crude compound was cooled in an ice bath, and 1.2 mL of a 5 M potassium hydroxide was added slowly over 2 minutes. The pure compound was obtained when the solution dried under reduced pressure and further purified by washing with hot toluene to give a white solid (81% yield). <sup>1</sup>H NMR (300 MHz, D<sub>2</sub>O) &#x3b4;=4.69-4.77 (m, 1H), 1.30-1.31 (d, 6H). <sup>13</sup>C NMR (300 MHz, D<sub>2</sub>O) &#x3b4; 72.19, 23.09. <sup>31-</sup>1<sup>3 </sup>NMR (300 MHz, D<sub>2</sub>O) &#x3b4;=107.49.</p>
+<heading id="h-0026" level="1">Example 10</heading>
+<heading id="h-0027" level="1">Synthesis of</heading>
+<p id="p-0138" num="0126"><chemistry id="CHEM-US-00020" num="00020">
+<img id="EMI-C00020" he="26.92mm" wi="36.15mm" file="US20230225326A1-20230720-C00020.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0139" num="0127">1-Propanethiol (0.59 g. 7.73 mmol) was added slowly over 2 minutes to a mixture of P<sub>2</sub>S<sub>5 </sub>(0.51 g, 2.24 mmol) and DCM (20 mL). The contents were stirred at reflux for 4 h. DCM was removed under reduced pressure, crude compound was cooled in an ice bath, and triethylamine (0.59 g, 5.73 mmol) was added slowly over 2 minutes The pure compound was obtained when the solution dried under reduced pressure and further purified by flash chromatography using a 10% MeOH in DCM solvent system to give a colorless oily liquid (66% yield. <sup>1</sup>H NMR (300 MHz, CD<sub>3</sub>OD) &#x3b4; 3.18-3.25 (q, 6H), 2.79-2.88 (dt, 4H), 1.65-1.78 (m, 4H), 1.31 (t, 9H), 0.99 (t, 6H). <sup>13</sup>C NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 48.96, 37.11, 29.37, 11.44. <sup>31</sup>P NMR (300 MHz, CD<sub>3</sub>OD) &#x3b4; 99.87.</p>
+<heading id="h-0028" level="1">Example 11</heading>
+<heading id="h-0029" level="1">Synthesis of</heading>
+<p id="p-0140" num="0128"><chemistry id="CHEM-US-00021" num="00021">
+<img id="EMI-C00021" he="15.66mm" wi="20.57mm" file="US20230225326A1-20230720-C00021.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0141" num="0129">1,2-Ethanedithiol (0.45 g, 4.79 mmol) was added slowly over 2 minutes to a mixture of P<sub>2</sub>S<sub>5 </sub>(0.51 g, 2.25 mmol) and DCM (15 mL). The contents were stirred at reflux for 3 h. DCM was removed under reduced pressure, crude compound was cooled in an ice bath, and triethylamine (0.59 g, 5.74 mmol) was added slowly over 2 minutes. The pure compound was obtained when the solution dried under reduced pressure and further purified by flash chromatography using a 20% MeOH in DCM solvent system to give a white solid (92% yield). <sup>1</sup>H NMR (300 MHz, DMSO-d<sub>6</sub>) &#x3b4; 3.54 (d, 4H), 3.01-3.13 (q, 6H), 1.17 (t, 9H). <sup>13</sup>C NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 48.94, 31.39, 14.31. <sup>31</sup>P NMR (300 MHz, DMSO-d<sub>6</sub>) &#x3b4; 111.73. ESI-MS m/z [M+] calculated: 186.8938, found: 186.8936.</p>
+<heading id="h-0030" level="1">Example 12</heading>
+<heading id="h-0031" level="1">Synthesis of</heading>
+<p id="p-0142" num="0130"><chemistry id="CHEM-US-00022" num="00022">
+<img id="EMI-C00022" he="15.32mm" wi="24.98mm" file="US20230225326A1-20230720-C00022.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0143" num="0131">1,3-Propanedithiol (0.43 g, 4.52 mmol) was added slowly over 2 minutes to a mixture of P<sub>2</sub>S<sub>5 </sub>(0.51 g, 2.25 mmol) and DCM (15 mL). The contents were stirred at reflux for 3 h. DCM was removed under reduced pressure, crude compound was cooled in an ice bath, and triethylamine (0.59 g, 5.74 mmol) was added slowly over 2 minutes. The pure compound was obtained when the solution dried under reduced pressure and further purified by flash chromatography using a 30% MeOH in DCM solvent system to give a white solid (93% yield). <sup>1</sup>H NMR (400 MHz, DMSO-d<sub>6</sub>) &#x3b4; 3.07-3.15 (m, 10H), 1.83-1.91 (p, 2H), 1.17 (t, 9H). <sup>13</sup>C NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 48.96, 37.06, 29.37, 11.44. <sup>31</sup>P NMR (300 MHz, DMSO-d<sub>6</sub>) &#x3b4; 78.62. ESI-MS m/z [M+] calculated: 200.9095, found: 200.9090.</p>
+<heading id="h-0032" level="1">Example 13</heading>
+<heading id="h-0033" level="1">Synthesis of</heading>
+<p id="p-0144" num="0132"><chemistry id="CHEM-US-00023" num="00023">
+<img id="EMI-C00023" he="29.21mm" wi="38.02mm" file="US20230225326A1-20230720-C00023.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0145" num="0133">Thiophenol (1.08 g, 9.98 mmol) was added slowly over 2 minutes to a mixture of P<sub>2</sub>S<sub>5 </sub>(0.51 g, 2.26 mmol) and DCM (10 mL). The contents were stirred at reflux for 5 h. DCM was removed under reduced pressure, crude compound was cooled in an ice bath, and triethylamine (0.58 g, 5.73 mmol) was added slowly over 2 minutes. The pure compound was obtained when the solution dried under reduced pressure and further purified by flash chromatography using a 20% MeOH in DCM solvent system to give a white solid (82% yield). <sup>1</sup>H NMR (300 MHz, CD<sub>3</sub>OD) &#x3b4; 7.63-7.67 (m, 4H), 7.29-7.34 (m, 6H), 3.16-3.23 (q, 6H), 1.29 (t, 9H), <sup>13</sup>C NMR (300 MHz, CD<sub>3</sub>OD) &#x3b4; 131.81, 129.28, 124.14, 47.60, 9.41. <sup>31</sup>P NMR (300 MHz, CD<sub>3</sub>OD) &#x3b4; 100.70. ESI-MS m/z [M+] calculated: 312.9408, found: 312.9412.</p>
+<heading id="h-0034" level="1">Example 14</heading>
+<heading id="h-0035" level="1">Synthesis of</heading>
+<p id="p-0146" num="0134"><chemistry id="CHEM-US-00024" num="00024">
+<img id="EMI-C00024" he="15.66mm" wi="20.57mm" file="US20230225326A1-20230720-C00024.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0147" num="0135">2-Mercaptoethanol (0.45 g, 5.83 mmol) was added slowly over 2 minutes to a mixture of P<sub>2</sub>S<sub>5 </sub>(0.54 g, 2.47 mmol) and DCM (15 mL). The contents were stirred at reflux for 3 h. DCM was removed under reduced pressure, crude compound was cooled in an ice bath, and triethylamine (0.28 g, 2.86 mmol) was added slowly over 2 minutes. The pure compound was obtained when the solution dried under reduced pressure to give a colorless oily liquid (86% yield). <sup>1</sup>H NMR (300 MHz, CD<sub>3</sub>OD) &#x3b4; 4.01-4.09 (dt, 2H), 3.21-3.28 (q, 6H), 2.74 (t, 2H), 1.33 (t, 9H). <sup>13</sup>C NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 70.18, 48.88, 27.70, 11.46. <sup>31</sup>P NMR (300 MHz, CD30D) &#x3b4; 112.39.</p>
+<heading id="h-0036" level="1">Example 15</heading>
+<heading id="h-0037" level="1">Synthesis of</heading>
+<p id="p-0148" num="0136"><chemistry id="CHEM-US-00025" num="00025">
+<img id="EMI-C00025" he="21.51mm" wi="28.53mm" file="US20230225326A1-20230720-C00025.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0149" num="0137">The title compound was prepared using procedures similar to those described in Examples 1 and 2 and using the following reagents: ethanol (4.7 mL, 81.0 mmol), P<sub>4</sub>S<sub>10 </sub>(4.38 g, 9.85 mmol), toluene (40 mL), 28% ammonium hydroxide in water (4.4 mL, 30.1 mmol). The product was recrystallized twice from hot ethanol to give a pink solid (31% yield). <sup>1</sup>H NMR (300 MHz, D<sub>2</sub>O) &#x3b4; 4.06 (q, 4H), 1.30 (t, 6H); <sup>13</sup>C NMR (75 MHz, D<sub>2</sub>O) &#x3b4; 65.58, 18.07; <sup>31</sup>P NMR (300 MHz, D<sub>2</sub>O) &#x3b4; 111.60.</p>
+<heading id="h-0038" level="1">Example 16</heading>
+<heading id="h-0039" level="1">Synthesis of Dihexyldithiophosphate Ammonium Salt</heading>
+<p id="p-0150" num="0138"><chemistry id="CHEM-US-00026" num="00026">
+<img id="EMI-C00026" he="18.37mm" wi="35.22mm" file="US20230225326A1-20230720-C00026.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0151" num="0139">The title compound was prepared using procedures similar to those described in Examples 1 and 2 and using the following reagents: n-hexanol (2.5 mL, 19.5 mmol), P<sub>4</sub>S<sub>10 </sub>(1.08 g, 2.43 mmol), toluene (20 mL), 28% ammonium hydroxide in water (0.7 mL, 5.2 mmol). The product was isolated as a white solid (75% yield). <sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 7.09 (b, 4H), 3.96 (q, 4H), 1.69 (p, 4H), 1.32 (m, 12H), 0.89 (t, 6H); <sup>13</sup>C NMR (75 MHz, CDCl<sub>3</sub>) &#x3b4; 67.34, 31.70, 30.49, 25.69, 22.78, 14.19; <sup>31</sup>P NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 109.69.</p>
+<heading id="h-0040" level="1">Example 17</heading>
+<heading id="h-0041" level="1">Synthesis of Dioctyldithiophosphate Ammonium Salt</heading>
+<p id="p-0152" num="0140"><chemistry id="CHEM-US-00027" num="00027">
+<img id="EMI-C00027" he="18.37mm" wi="35.22mm" file="US20230225326A1-20230720-C00027.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0153" num="0141">The title compound was prepared using procedures similar to those described in Examples 1 and 2 and using the following reagents: n-octanol (15.0 mL 94.4 mmol), P<sub>4</sub>S<sub>10 </sub>(5.07 g, 11.4 mmol), toluene (60 mL), 28% ammonium hydroxide in water (5.9 mL, 40.1 mmol). The product was isolated as a white solid (73% yield). <sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 6.96 (b, 4H), 3.95 (q, 4H), 1.68 (p, 4H), 1.27 (m, 20H), 0.88 (t, 6H); <sup>13</sup>C NMR (75 MHz, CDCl<sub>3</sub>) &#x3b4; 67.24, 32.03, 30.57, 29.50, 29.36, 26.07, 22.83, 14.25; <sup>3</sup>&#x2032;P NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 109.67.</p>
+<heading id="h-0042" level="1">Example 18</heading>
+<heading id="h-0043" level="1">Synthesis of Didecyldithiophosphate Ammonium Salt</heading>
+<p id="p-0154" num="0142"><chemistry id="CHEM-US-00028" num="00028">
+<img id="EMI-C00028" he="18.37mm" wi="35.22mm" file="US20230225326A1-20230720-C00028.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0155" num="0143">The title compound was prepared using procedures similar to those described in Examples 1 and 2 and using the following reagents: n-decanol (5.80 mL, 30.4 mmol), P<sub>4</sub>S<sub>10 </sub>(1.69 g, 3.80 mmol), toluene (25 mL), 28% ammonium hydroxide in water. The product was isolated as a white solid (74% yield). <sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 6.65 (b, 4H), 3.97 (q, 4H), 1.68 (p, 4H), 1.26 (m, 28H), 0.88 (t, 6H); <sup>13</sup>C NMR (75 MHz, CDCl<sub>3</sub>) &#x3b4; 67.34, 32.10, 30.59, 29.89, 29.83, 29.64, 29.55, 26.09, 22.85, 14.26; <sup>3</sup>&#x2032;P NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 109.57.</p>
+<heading id="h-0044" level="1">Example 19</heading>
+<heading id="h-0045" level="1">Synthesis of Didodecyldithiophosphate Ammonium Salt</heading>
+<p id="p-0156" num="0144"><chemistry id="CHEM-US-00029" num="00029">
+<img id="EMI-C00029" he="18.37mm" wi="35.22mm" file="US20230225326A1-20230720-C00029.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0157" num="0145">The title compound was prepared using procedures similar to those described in Examples 1 and 2 and using the following reagents: n-dodecanol (16.7 mL, 73.5 mmol), P<sub>4</sub>S<sub>10 </sub>(4.10 g, 9.22 mmol), toluene (30 mL), 28% ammonium hydroxide in water (4.20 mL, 29.5 mmol). The product was isolated as a white solid (82% yield). <sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 7.13 (b, 4H), 3.95 (q, 4H), 1.68 (p, 4H), 1.26 (m, 28H), 0.88 (t, 6H); <sup>13</sup>C NMR (75 MHz, CDCl<sub>3</sub>) 6 67.24, 32.10, 30.59, 29.92, 29.67, 29.56, 29.64, 26.10, 22.85, 14.25; <sup>31</sup>1<sup>3</sup>NMR (300 MHz, CDCl<sub>3</sub>) &#x3b4; 109.58.</p>
+<heading id="h-0046" level="1">Example 20</heading>
+<heading id="h-0047" level="1">Growth of Corn Exposed to Dibutyldithiophosphate</heading>
+<p id="p-0158" num="0146">Corn was planted in 6&#x2033; TEKU pots. The pots were packed finger tight with potting mix #4 from Beautiful Land Products. The corn seeds were planted approximately 1.5 inches deep. Fifty seeds of corn were planted for every loading of dibutyldithiophosphate ammonium salt. After the seeds were added to the soil the dibutyldithiophosphate ammonium salt was added as a fully dissolved aqueous solution. Tap water (500 mL) was added to a measured amount of the salt to yield desired amount in 10 mL After mixing well for 10 minutes, the aqueous solution was added to each plant via syringe (10 mL) immediately around and on the seed. After adding the salt, the plants were moved outside in full sunlight until harvest. The corn plants were watered daily.</p>
+<p id="p-0159" num="0147">The corn was harvested after 4 weeks. Plant height was taken by straightening the corn plant out by the leaves and measuring from the base of the shoot to the longest point on the leaf. After removing the roots, the weight of the shoot and leaves was measured using a balance.</p>
+<p id="p-0160" num="0148">Statistical analysis was performed using IBM SPSS Statistics 25. Non-parametric Kruskal-Wallis test was performed to determine significance. Data represented are mean&#xb1;standard error with ** indicating a&#x3c;0.05 and * indicating a&#x3c;0.1. Results for plant hight are shown in Figure la. Results for plant mass are shown in Figure lb.</p>
+<p id="p-0161" num="0149">The results in <figref idref="DRAWINGS">FIG. <b>1</b></figref> show that dibutyldithiophosphate has a strong effect on the growth of corn plants. The weight of the plants showed statistically significant improvements at 1, 10, 50, and 75 mg loadings of dibutyldithiophosphate and improvements in weights for all loadings except 100 and 200 mg. The weight of the corn plants increased by 39% when only 1 mg of the dibutyldithiophosphate salt was added to the soil adjacent to the seed compared to plants grown in the absence of the dibutyldithiophosphate salt. Importantly, one milligram of this salt will release only 0.28 mg of H<sub>2</sub>S. These results demonstrated that milligram amounts of H<sub>2</sub>S delivered over 4 weeks could have a strongly positive effect on the weight of corn plants. Little statistically significant difference was seen for the heights of the plants. The heights of the plants report one dimension of the overall size of plants, but small differences in heights can lead to larger differences in weight.</p>
+<heading id="h-0048" level="1">Example 21</heading>
+<heading id="h-0049" level="1">Growth of Peas Exposed to Dibutyldithiophosphate.</heading>
+<p id="p-0162" num="0150">Peas were planted and grown in 8.25 inch TEKU pots. The pots were packed finger tight with potting mix #4 from Beautiful Land Products. The pea seeds were planted approximately 1.5 inches deep. 25 seeds were planted per dosing of dibutyldithiophosphate potassium salt. After the seeds were planted into the soil the desired amount of dibutyldithiophosphate for 32 doses was added to 160 mL of tap water. After mixing well for 10 minutes, 5 mL of the dibutyldithiophosphate solution was then added to the top of each seed after it was planted in the soil. Soil was then used to cover the seed. After adding the salt, the plants were moved outside in full sunlight until harvest. The pea plants were watered daily. Peter's Professional B 20-20-20 water soluble fertilizer was used at 1 tablespoon per 3 gallons of tap water and 350 mL of this solution was added to each plant. Plants were fertilized on day 44, 51, 66, 73, and 81.</p>
+<p id="p-0163" num="0151">The pea plants were harvested after 88 days. The plant was harvested by cutting the above soil portion of the plant at the root-stem boundary. The above ground portion of the plant was weighed in its entirety. Next the pods were removed, counted and weighed separately from the rest of the plant. Statistical analysis was performed using IBM SPSS Statistics 25. Dunnett's 2-sided t-test was performed to determine significance. Data represented are mean&#xb1;standard error with ** indicating &#x3b1;&#x3c;0.05 and * indicating &#x3b1;&#x3c;0.1. Results for plant hight are shown in <figref idref="DRAWINGS">FIG. <b>2</b><i>a</i></figref>. Results for plant mass are shown in <figref idref="DRAWINGS">FIG. <b>2</b><i>b</i></figref>.</p>
+<p id="p-0164" num="0152">There is a strong effect between adding the dibutyldithiophosphate potassium salt and an increase in plant weight, number of pea pods and pod weight. 20 mg of dibutyldithiophosphate per plant lead to 55% increase in number of pods, a 46% increase in plant weight and a increase 45% in total pod weight. 10 mg per plant also saw statistically significant increase in all of the same metrics. 150 mg and 500 mg saw reduction in germination compared to the control plants with 6 plants dosed with 150 mg of dibutyldithiophosphate germinating. None of the seeds dosed with 500 mg dibutyldithiophosphate germinated. For 20 mg of dibutyldithiophosphate potassium salt, only 2.28 mg of H<sub>2</sub>S is being released. This demonstrates the large effect that H<sub>2</sub>S can have over 88 days for the harvest of pea plants.</p>
+<heading id="h-0050" level="1">Example 22</heading>
+<heading id="h-0051" level="1">Hydrolysis of Dithiophosphates in D<sub>2</sub>O/H<sub>2</sub>O</heading>
+<p id="p-0165" num="0153">The hydrolysis of dithiophosphates was tracked by <sup>31</sup>P NMR spectroscopy to investigate stabilities at room temperature when dissolved in 90% H<sub>2</sub>O/D<sub>2</sub>O for 30 days (Table 1). The chemicals were added to NMR tubes, dissolved in 90% H<sub>2</sub>O/D<sub>2</sub>O, and the <sup>31</sup>P NMR spectra were measured on days 0 and 30. In prior work, less than 3% of dithiophosphates synthesized from fatty alcohols hydrolyzed after 35 days, and the results shown in Table 1 were consistent with that observation. Of the thirteen chemicals investigated, eight of the dithiophosphates showed less than 3% hydrolysis and three others were not soluble in water and not investigated. The potassium and triethylamine salts of 5, 7, and 13 were synthesized in attempts to improve solubility, but these salts were insoluble in water.</p>
+<p id="p-0166" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>The degradation of dithiophosphates were followed by <sup>31</sup>P NMR </entry>
+</row>
+<row>
+<entry>spectroscopy for 30 days at room temperature in 90% H<sub>2</sub>O/D<sub>2</sub>O.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="63pt" align="center"/>
+<colspec colname="2" colwidth="140pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Example</entry>
+<entry>Percent Degradation</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="63pt" align="char" char="."/>
+<colspec colname="2" colwidth="140pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>1</entry>
+<entry>&#x3c;3</entry>
+</row>
+<row>
+<entry/>
+<entry>2</entry>
+<entry>&#x3c;3</entry>
+</row>
+<row>
+<entry/>
+<entry>3</entry>
+<entry>&#x3c;3</entry>
+</row>
+<row>
+<entry/>
+<entry>4</entry>
+<entry>&#x3c;3</entry>
+</row>
+<row>
+<entry/>
+<entry>5</entry>
+<entry>IS<sup>a</sup></entry>
+</row>
+<row>
+<entry/>
+<entry>6</entry>
+<entry>&#x3c;3</entry>
+</row>
+<row>
+<entry/>
+<entry>7</entry>
+<entry>IS</entry>
+</row>
+<row>
+<entry/>
+<entry>8</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry/>
+<entry>9</entry>
+<entry>&#x3c;3</entry>
+</row>
+<row>
+<entry/>
+<entry>10</entry>
+<entry>&#x3c;3</entry>
+</row>
+<row>
+<entry/>
+<entry>11</entry>
+<entry>&#x3c;3</entry>
+</row>
+<row>
+<entry/>
+<entry>12</entry>
+<entry>&#x3c;3</entry>
+</row>
+<row>
+<entry/>
+<entry>13</entry>
+<entry>&#x3c;3</entry>
+</row>
+<row>
+<entry/>
+<entry>14</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="left" id="FOO-00001"><sup>a</sup>IS = insoluble.</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="left" id="FOO-00002"><sup>c</sup>A 3:1 DMSO:water mixture was used due to the chemical being insoluble in water.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0167" num="0154">Surprisingly, the compounds of Examples 8 and 14 were completely hydrolyzed in 90% H<sub>2</sub>O/D<sub>2</sub>O after 30 days. The compound of Example 14 was 60% hydrolyzed after 4 days and completely hydrolyzed on day 13. This result was in contrast to the compounds of Examples 2, 3, and 11 that also had five-membered rings with either oxygen or sulfur. The dithiophosphate of Example 8 hydrolyzed slower than the compound of Example 14, and at days 12 and 20 it was 62% and 88% degraded. The hydrolysis of the compound of Example 8 was much faster than the dithiophosphates synthesized from primary or secondary alcohols.</p>
+<heading id="h-0052" level="1">Example 23</heading>
+<heading id="h-0053" level="1">Kinetics of Hydrolysis of Dithiophosphates.</heading>
+<p id="p-0168" num="0155">The hydrolysis of dithiophosphates were investigated in 90% H<sub>2</sub>O/D<sub>2</sub>O at 85&#xb0; C. by <sup>31</sup>P NMR spectroscopy. This temperature was chosen to accelerate the hydrolysis that was very slow at room temperature. The dithiophosphates were dissolved at known concentrations and the NMR tubes were placed in an oil bath at 85&#xb0; C. The NMR tubes were periodically removed from the oil bath, the <sup>31</sup>P NMR spectra were collected, and the NMR tubes were placed back in the 85&#xb0; C. oil bath.</p>
+<p id="p-0169" num="0156">The hydrolysis of dithiophosphates followed pseudo first-order reaction rates. In prior work the hydrolysis of dibutyldithiophosphate was found to follow the mechanism shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>. The first step of the hydrolysis was release of H<sub>2</sub>S and the oxo intermediate was observed in the <sup>31</sup>P NMR spectra. No other intermediates were observed during this reaction for dibutyldithiophosphate. In the hydrolysis at 85&#xb0; C., low concentrations of multiple intermediates were only observed for the compounds of Examples 14 and 4. The remainder of the compounds displayed one or no intermediates. All of the compounds degraded to release phosphoric acid. The rate constant of the first step in the reaction, half lives (t1/2) of the first step, and time for the dithiophosphates to completely hydrolyze to yield phosphoric acid are shown in Table 2.</p>
+<p id="p-0170" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>The rate constant and half-life for the first step in the </entry>
+</row>
+<row>
+<entry>hydrolysis are shown. </entry>
+</row>
+<row>
+<entry>In addition, the time to complete hydrolysis of </entry>
+</row>
+<row>
+<entry>the dithiophosphates to phosphoric acid are shown.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="left"/>
+<colspec colname="3" colwidth="56pt" align="left"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Rate of first-step of </entry>
+<entry/>
+<entry>Time to </entry>
+</row>
+<row>
+<entry/>
+<entry>hydrolysis </entry>
+<entry/>
+<entry>complete</entry>
+</row>
+<row>
+<entry>Example</entry>
+<entry>(85&#xb0; C.)</entry>
+<entry>t<sub>1/2 </sub>(days)</entry>
+<entry>hydrolysis<sup>a</sup></entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="left"/>
+<colspec colname="3" colwidth="56pt" align="char" char="."/>
+<colspec colname="4" colwidth="21pt" align="right"/>
+<colspec colname="5" colwidth="28pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>&#x2002;1</entry>
+<entry>9.6 * 10<sup>&#x2212;4 </sup>h<sup>&#x2212;1</sup></entry>
+<entry>30</entry>
+<entry>180 </entry>
+<entry>days</entry>
+</row>
+<row>
+<entry>&#x2002;2</entry>
+<entry>3.4 * 10<sup>&#x2212;3 </sup>h<sup>&#x2212;1</sup></entry>
+<entry>8.5</entry>
+<entry>49 </entry>
+<entry>days</entry>
+</row>
+<row>
+<entry>&#x2002;3</entry>
+<entry>7.1 * 10<sup>&#x2212;3 </sup>h<sup>&#x2212;1</sup></entry>
+<entry>4.1</entry>
+<entry>23 </entry>
+<entry>days</entry>
+</row>
+<row>
+<entry>&#x2002;4</entry>
+<entry>6.9 * 10<sup>&#x2212;4 </sup>h<sup>&#x2212;1</sup></entry>
+<entry>42</entry>
+<entry>200 </entry>
+<entry>days</entry>
+</row>
+<row>
+<entry>&#x2002;6</entry>
+<entry>7.4 * 10<sup>&#x2212;3 </sup>h<sup>&#x2212;1</sup></entry>
+<entry>3.9</entry>
+<entry>10 </entry>
+<entry>days</entry>
+</row>
+<row>
+<entry>&#x2002;8</entry>
+<entry>13.2 h<sup>&#x2212;1</sup></entry>
+<entry>0.0021</entry>
+<entry>71 </entry>
+<entry>minutes</entry>
+</row>
+<row>
+<entry>&#x2002;9</entry>
+<entry>1.7 * 10<sup>&#x2212;3 </sup>h<sup>&#x2212;1</sup></entry>
+<entry>17</entry>
+<entry>85 </entry>
+<entry>days</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>2.2 * 10<sup>&#x2212;1 </sup>h<sup>&#x2212;1</sup></entry>
+<entry>0.13</entry>
+<entry>0.65 </entry>
+<entry>days</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>3.4 * 10<sup>&#x2212;1 </sup>h<sup>&#x2212;1</sup></entry>
+<entry>0.085</entry>
+<entry>0.44 </entry>
+<entry>days</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>1.9 * 10<sup>&#x2212;2 </sup>h<sup>&#x2212;1</sup></entry>
+<entry>1.5</entry>
+<entry>9 </entry>
+<entry>days</entry>
+</row>
+<row>
+<entry>13<sup>b</sup></entry>
+<entry>2.2 * 10<sup>&#x2212;2 </sup>h<sup>&#x2212;1</sup></entry>
+<entry>1.3</entry>
+<entry>7 </entry>
+<entry>days</entry>
+</row>
+<row>
+<entry>14</entry>
+<entry>14.1 h<sup>&#x2212;1</sup></entry>
+<entry>0.0020</entry>
+<entry>81 </entry>
+<entry>minutes</entry>
+</row>
+<row>
+<entry>&#x2002;8 (room </entry>
+<entry>5.1 * 10<sup>&#x2212;3 </sup>h<sup>&#x2212;1</sup></entry>
+<entry>5.7</entry>
+<entry>30 </entry>
+<entry>days</entry>
+</row>
+<row>
+<entry>temperature)</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>14 (room </entry>
+<entry>1.1 * 10<sup>&#x2212;2 </sup>h<sup>&#x2212;1</sup></entry>
+<entry>2.9</entry>
+<entry>12 </entry>
+<entry>days</entry>
+</row>
+<row>
+<entry>temperature)</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00003"><sup>a</sup>The hydrolysis was complete when the corresponding dithiophosphate was no longer observed and only phosphoric acid was observed by <sup>31</sup>P NMR spectroscopy.</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00004"><sup>b</sup>A 3:l DMSO:water mixture was used.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0171" num="0157">The hydrolysis of the compounds of Examples 8 and 14 was rapid and completed within 90 minutes at 85&#xb0; C., so their rates of hydrolysis were measured at room temperature and shown in Table 2. Their rates of hydrolysis were 2,600x for the compound of Example 8 and 1,300x for the compound of Example 14 slower at room temperature than at 85&#xb0; C., but both chemicals were completely hydrolyzed within 30 days at room temperature.</p>
+<p id="p-0172" num="0158">The results in Table 2 show several important findings about how the structure of the dithiophosphates affects their rates of hydrolysis. Dialkoxydithiophosphates synthesized with primary, secondary, and tertiary alcohols have relative rates of 1.00: 1.78: 13,800. The large difference in rates of hydrolysis for dithiophosphates synthesized from tertiary to secondary and primary alcohols was unexpected.</p>
+<p id="p-0173" num="0159">Comparing the rates of hydrolysis of dialkoxydithiophosphates to disulfidedithiophosphates shows the disulfidedithiophosphates hydrolyze much faster. The dithiophosphate of Example 10, synthesized from a primary thiol, had a rate of hydrolysis 230x faster than the compound of Example 1 which was synthesized from a primary alcohol. The difference between the rates of hydrolysis were much smaller when the dithiophosphate synthesized using ethylphenol (the compound of Example 6) was compared to the dithiophosphate synthesized from thiophenol (the compound of Example 13). The hydrolysis of the compound of Example 13 was only 3.0x faster than the compound of Example 6. The hydrolysis of the compound of Example 6 was 8.0x faster than the hydrolysis of the compound of Example 1, but when the oxygen was replaced with sulfur the hydrolysis of the thiophenol dithiophosphate (the compound of Example 13) was 10x faster than the hydrolysis of the primary thiol dithiophosphate (the compound of Example 10).</p>
+<p id="p-0174" num="0160">Prior work showed that the hydrolysis of phosphates that possess oxygens rather than sulfurs and synthesized from diols such as ethylene glycol hydrolyze up to 10<sup>5 </sup>faster than similar phosphates synthesized from primary alcohols. Although the heterosubstituted five-membered ring in phosphate synthesized from ethylene glycol was strained, it was shown that the difference for rates of hydrolysis were related to differences in solvation. This trend was not observed with dithiophosphates synthesized from diols or disulfides. The dithiophosphate synthesized from n-butanol (the compound of Example 1) hydrolyzed only 3.5x slower than dithiophosphate the compound of Example 2 synthesized from ethylene glycol, 7.4x slower than the five membered ring dithiophosphate of Example 3, and 1.4x slower than the six membered ring dithiophosphate of Example 4. Interestingly, the rates of hydrolysis of similarly structured disulfidedithiophosphates with five (the compound of Example 1) and six (the compound of Example 12) membered rings containing sulfur atoms were within 2x of the rate of hydrolysis of the compound of Example 10.</p>
+<heading id="h-0054" level="1">Example 24</heading>
+<heading id="h-0055" level="1">Free Energy Values of the Transition State of Select Dithiophosphates</heading>
+<p id="p-0175" num="0161">To better understand why the rates of hydrolysis were rapid for the compounds of Examples 8 and 14 at room temperature and 85&#xb0; C., the rate constants were measured for the compounds of Examples 8, 10, 11, and 14 at a variety of temperatures to extract the values for AW and A.S. The hydrolysis of phosphates has been well studied in the literature due to their importance in RNA, DNA, and more. Most mechanisms of hydrolysis proceed by a two-step SN2P mechanism with the incoming nucleophile attacking the phosphorous followed by an elimination step. Computational studies of the mechanism of hydrolysis mostly confirm a two-step mechanism, but in some studies only one transition state was observed when a sulfur replaced one of the oxygens in the chemical being investigated. Furthermore, some hydrolysis mechanisms follow a SNIP mechanism where the phosphate loses an alcohol before the nucleophile attacks the phosphorous.</p>
+<p id="p-0176" num="0162">The rate constants for the hydrolysis of the compounds of Examples 8, 10, 11, and 14 were measured at temperatures from 25 to 85&#xb0; C. These Examples were selected based on their relatively rapid rates of hydrolysis that would allow these rates to be measured at a wide range of temperatures, and to provide structurally similar compounds to 8 and 14 to compare their rates of hydrolysis. The values for &#x394;H&#x2021; and &#x394;S&#x2021; were calculated and reported in Table 3.</p>
+<p id="p-0177" num="0163">Although the values for &#x394;H&#x2021; ranged from a low of 77.6 to a high of 137.1 kJ mol<sup>&#x2212;1</sup>, the most interesting values are those for &#x394;S&#x2021;. The &#x394;S&#x2021; of the compound of Example 10 was strongly negative which is consistent with a S<sub>N</sub>2P mechanism and similar to numerous other values for &#x394;S&#x2021; found for the hydrolysis of dithiophosphates. In contrast, the values for &#x394;S&#x2021; were positive for the compounds of Examples 8, 11, and 14 although the value for the compound of Example 14 was close to zero. The interpretation for the positive values of &#x394;S&#x2021; was unclear due to the several mechanisms of hydrolysis of phosphates that have been reported. The positive &#x394;S&#x2021; values may be due to the hydrolysis following a S<sub>N</sub>1P mechanism, following a S<sub>N</sub>2P mechanism and possessing the elimination of a group from the phosphate as the rate determining step, or by following a mechanism other than either of these mechanisms.</p>
+<p id="p-0178" num="0164">The data in Table 3 allows the rate of hydrolysis of four dithiophosphates to be calculated at any reasonable temperature encountered in an agricultural setting. This result is important because it allows the release of H<sub>2</sub>S to be correlated to their effect on plants.</p>
+<p id="p-0179" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="266pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Enthalpy, entropy, and free energy values of the transition state </entry>
+</row>
+<row>
+<entry>of examples 8, 10, 11, and 14.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>&#x394;H<sup>&#x2021;</sup></entry>
+<entry>&#x394;S<sup>&#x2021;</sup></entry>
+<entry>-T&#x394;S<sup>&#x2021;</sup> (25&#xb0; C.)</entry>
+<entry>&#x394;G<sup>&#x2021;</sup> (25&#xb0; C.)</entry>
+<entry>&#x394;G<sup>&#x2021;</sup> (85&#xb0; C.)</entry>
+<entry>&#x394;&#x394;G<sup>&#x2021;</sup></entry>
+</row>
+<row>
+<entry>Example</entry>
+<entry>(kJ/mol)</entry>
+<entry>(J/mol &#xb7; K)</entry>
+<entry>(kJ/mol)</entry>
+<entry>(kJ/mol)</entry>
+<entry>(kJ/mol)</entry>
+<entry>(kJ/mol)</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="28pt" align="char" char="."/>
+<colspec colname="2" colwidth="28pt" align="char" char="."/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<colspec colname="5" colwidth="42pt" align="char" char="."/>
+<colspec colname="6" colwidth="42pt" align="char" char="."/>
+<colspec colname="7" colwidth="42pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>8</entry>
+<entry>116.5</entry>
+<entry>36.3</entry>
+<entry>&#x2212;10.8</entry>
+<entry>105.7</entry>
+<entry>103.5</entry>
+<entry>2.2</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>77.6</entry>
+<entry>&#x2212;109.6</entry>
+<entry>32.7</entry>
+<entry>110.2</entry>
+<entry>116.8</entry>
+<entry>&#x2212;6.6</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>137.1</entry>
+<entry>58.4</entry>
+<entry>&#x2212;17.4</entry>
+<entry>119.7</entry>
+<entry>116.2</entry>
+<entry>3.5</entry>
+</row>
+<row>
+<entry>14</entry>
+<entry>104.3</entry>
+<entry>2.46</entry>
+<entry>&#x2212;0.733</entry>
+<entry>103.5</entry>
+<entry>103.4</entry>
+<entry>0.1</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0056" level="1">Example 25</heading>
+<heading id="h-0057" level="1">H<sub>2</sub>S Release from Dithiophosphates Measured using an H<sub>2</sub>S Electrode</heading>
+<p id="p-0180" num="0165">H<sub>2</sub>S release from the dithiophosphates were measured using H<sub>2</sub>S and pH electrodes (<figref idref="DRAWINGS">FIG. <b>4</b></figref>). An advantage of this method over the use of dyes or the methylene blue method is that it can be used to acquire data every few seconds for hours. The electrode measured the concentration of H<sub>2</sub>S, but this can underestimate the release of H<sub>2</sub>S because it has a pKa of 7.0 so a fraction of the H<sub>2</sub>S will be in the form of HS<sup>&#x2212;</sup>. The fraction of S<sup>2&#x2212;</sup> is negligible due to the high pKa of HS<sup>&#x2212;</sup> which is reported to be in excess of 10. The simultaneous measurement of the concentration of H<sub>2</sub>S and the pH allows the total concentration of sulfide to be calculated. In each of these experiments the electrodes were immersed in water buffered at a pH of 6.7 to provide a baseline of no H<sub>2</sub>S release. Next, the dithiophosphates were dissolved in buffered water and added to the buffer with the electrodes. The system was sealed with a rubber stopper while the measurements were taken. H<sub>2</sub>S was detected shortly after the addition of each dithiophosphate and remained fairly constant throughout the measurements.</p>
+<p id="p-0181" num="0166">The data in <figref idref="DRAWINGS">FIG. <b>4</b></figref> shows that the release of H<sub>2</sub>S from the dithiophosphates mostly followed the trend of the rate constants in Table 2. The highest release of H<sub>2</sub>S was from the compound of Example 8 and the compound of Example 14 that had the fastest rate constants, and the lowest release of H<sub>2</sub>S were from the compound of Example 1 and the compound of Example 4 that had the slow rate constants. Dithiophosphate (the compound of Example 5), although mostly insoluble in water at a concentration of 5 mM, released H<sub>2</sub>S at this concentration. Dithiophosphates (Examples 7 and 13) were also insoluble in water, and when solutions of these chemicals were made at 50 mM they did not show any release of H<sub>2</sub>S (<figref idref="DRAWINGS">FIG. S<b>61</b></figref>-S<b>62</b>).</p>
+<heading id="h-0058" level="1">Example 26</heading>
+<heading id="h-0059" level="1">Increased Harvest Yield of Corn using a Dithiophosphate</heading>
+<p id="p-0182" num="0167">The effect of the slow release of H<sub>2</sub>S on the harvest yield of crops grown outside in fields for months has not been investigated. This represents a large challenge in this area since the amount of rain cannot be controlled, the chemicals that release H<sub>2</sub>S may diffuse away from the seeds, and the chemicals and H<sub>2</sub>S may interact in unknown ways with components of the soil. Despite these challenges, the use of dithiophosphates or other slow-releasing H<sub>2</sub>S chemicals represent a new method to potentially increase the harvest weight of crops. Field trials were completed to investigate how dibutyldithiophosphate affects the harvest yield of corn. In these trials dibutyldithiophosphate was added with nitrogen-phosphorous-potassium (NPK) starter fertilizer when the seeds were planted. A starter fertilizer of 2-40-28 was applied at a rate of 5 gallons per acre, and dibutyldithiophosphate was added to it to yield an application of 0, 0.5, 1.0, or 2.0 kg per acre of dibutyldithiophosphate. The starter fertilizer with dibutyldithiophosphate was added to the soil in a furrow that connected the seeds that were planted. The planting and harvesting of the corn were performed using state-of-the-art field equipment designed for field trials. Six different plots were fertilized with each loading of dibutyldithiophosphate. Prior to planting the seeds, the soil was fertilized with NPK fertilizer at loadings for optimal growth of the corn. The corn was harvested and weighed; the results of the harvest yield are shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>.</p>
+<p id="p-0183" num="0168">The results shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref> demonstrate that dibutyldithiophosphate can increase the harvest weight of corn even when the dibutyldithiophosphate was only applied once. The biggest effect was observed with a loading of 2 kg/acre of dibutyldithiophosphate and resulted in a 6.4% increase (13.2 bushels per acre) for corn. The harvest yield at 2 kg per acre was higher than the harvest yield of corn grown without dibutyldithiophosphate at a 76% confidence level and at an 80% confidence level compared to the harvest yield at a loading of 0.5 kg of dibutyldithiophosphate per acre. Approximately 35,000 corn seeds were planted per acre, and a loading of 2.0 kg of dibutyldithiophosphate per acre equates to a dosing of 57 mg of dibutyldithiophosphate per seed. Since the dibutyldithiophosphate was continuously added to the soil in a line connecting the seeds, it is unlikely that each seed adsorbed the full 57 mg of dibutyldithiophosphate. These results demonstrate that the dithiophosphates at very low loadings can have large effects on the harvest yields of corn.</p>
+<heading id="h-0060" level="1">Example 27</heading>
+<heading id="h-0061" level="1">Increased Harvest Yield of Soybeans using a Dithiophosphate</heading>
+<p id="p-0184" num="0169">All essential plant nurtients (N, P, K, and S) were applied in non-limiting amounts. Prior to planting soybeans, the fields were fertilized with 60 lb acre of P<sub>2</sub>O<sub>5</sub>, 80 lb per acre of K20, and 20 lb per acre of sulfur. The soybean seeds were a 2.8-3.2 relative maturity planted at 120,000 to 140,000 seeds per acre. All field management were designed to effectively control weed and insect pests to optimize soybean growth and yield. The soybeans were planted and either 0, 0.5, 1.0, or 2.0 kg per acre of dibutyldithiophosphate was applied as a side dressing to the soybean plants. The dibutyldithiophosphate was dissolved in water and applied. The harvest weight was determined for each plot and corrected for slight differences in moisture content. The protein level, oil level, starch level, and density of the soybeans grown with 0 and 2 kg per acre of dibutyldithiophosphate were measured and found to be the same for both sets.</p>
+<p id="p-0185" num="0170">The results shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref> demonstrate that dithiophosphates can have a large, positive effect on the harvest yields of soybeans. Soybean plants exposed to 2 kg of dibutyldithiophosphate had an increase in harvest yield of 4.4% compared to soybean plants not exposed to dithiophosphates.</p>
+<p id="p-0186" num="0171">All publications, patents, and patent documents are incorporated by reference herein, as though individually incorporated by reference. The invention has been described with reference to various specific and preferred embodiments and techniques. However, it should be understood that many variations and modifications may be made while remaining within the spirit and scope of the invention.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-chemistry idref="CHEM-US-00001" cdx-file="US20230225326A1-20230720-C00001.CDX" mol-file="US20230225326A1-20230720-C00001.MOL"/>
+<us-chemistry idref="CHEM-US-00002" cdx-file="US20230225326A1-20230720-C00002.CDX" mol-file="US20230225326A1-20230720-C00002.MOL"/>
+<us-chemistry idref="CHEM-US-00003" cdx-file="US20230225326A1-20230720-C00003.CDX" mol-file="US20230225326A1-20230720-C00003.MOL"/>
+<us-chemistry idref="CHEM-US-00004" cdx-file="US20230225326A1-20230720-C00004.CDX" mol-file="US20230225326A1-20230720-C00004.MOL"/>
+<us-chemistry idref="CHEM-US-00005" cdx-file="US20230225326A1-20230720-C00005.CDX" mol-file="US20230225326A1-20230720-C00005.MOL"/>
+<us-chemistry idref="CHEM-US-00006" cdx-file="US20230225326A1-20230720-C00006.CDX" mol-file="US20230225326A1-20230720-C00006.MOL"/>
+<us-chemistry idref="CHEM-US-00007" cdx-file="US20230225326A1-20230720-C00007.CDX" mol-file="US20230225326A1-20230720-C00007.MOL"/>
+<us-chemistry idref="CHEM-US-00008" cdx-file="US20230225326A1-20230720-C00008.CDX" mol-file="US20230225326A1-20230720-C00008.MOL"/>
+<us-chemistry idref="CHEM-US-00009" cdx-file="US20230225326A1-20230720-C00009.CDX" mol-file="US20230225326A1-20230720-C00009.MOL"/>
+<us-chemistry idref="CHEM-US-00010" cdx-file="US20230225326A1-20230720-C00010.CDX" mol-file="US20230225326A1-20230720-C00010.MOL"/>
+<us-chemistry idref="CHEM-US-00011" cdx-file="US20230225326A1-20230720-C00011.CDX" mol-file="US20230225326A1-20230720-C00011.MOL"/>
+<us-chemistry idref="CHEM-US-00012" cdx-file="US20230225326A1-20230720-C00012.CDX" mol-file="US20230225326A1-20230720-C00012.MOL"/>
+<us-chemistry idref="CHEM-US-00013" cdx-file="US20230225326A1-20230720-C00013.CDX" mol-file="US20230225326A1-20230720-C00013.MOL"/>
+<us-chemistry idref="CHEM-US-00014" cdx-file="US20230225326A1-20230720-C00014.CDX" mol-file="US20230225326A1-20230720-C00014.MOL"/>
+<us-chemistry idref="CHEM-US-00015" cdx-file="US20230225326A1-20230720-C00015.CDX" mol-file="US20230225326A1-20230720-C00015.MOL"/>
+<us-chemistry idref="CHEM-US-00016" cdx-file="US20230225326A1-20230720-C00016.CDX" mol-file="US20230225326A1-20230720-C00016.MOL"/>
+<us-chemistry idref="CHEM-US-00017" cdx-file="US20230225326A1-20230720-C00017.CDX" mol-file="US20230225326A1-20230720-C00017.MOL"/>
+<us-chemistry idref="CHEM-US-00018" cdx-file="US20230225326A1-20230720-C00018.CDX" mol-file="US20230225326A1-20230720-C00018.MOL"/>
+<us-chemistry idref="CHEM-US-00019" cdx-file="US20230225326A1-20230720-C00019.CDX" mol-file="US20230225326A1-20230720-C00019.MOL"/>
+<us-chemistry idref="CHEM-US-00020" cdx-file="US20230225326A1-20230720-C00020.CDX" mol-file="US20230225326A1-20230720-C00020.MOL"/>
+<us-chemistry idref="CHEM-US-00021" cdx-file="US20230225326A1-20230720-C00021.CDX" mol-file="US20230225326A1-20230720-C00021.MOL"/>
+<us-chemistry idref="CHEM-US-00022" cdx-file="US20230225326A1-20230720-C00022.CDX" mol-file="US20230225326A1-20230720-C00022.MOL"/>
+<us-chemistry idref="CHEM-US-00023" cdx-file="US20230225326A1-20230720-C00023.CDX" mol-file="US20230225326A1-20230720-C00023.MOL"/>
+<us-chemistry idref="CHEM-US-00024" cdx-file="US20230225326A1-20230720-C00024.CDX" mol-file="US20230225326A1-20230720-C00024.MOL"/>
+<us-chemistry idref="CHEM-US-00025" cdx-file="US20230225326A1-20230720-C00025.CDX" mol-file="US20230225326A1-20230720-C00025.MOL"/>
+<us-chemistry idref="CHEM-US-00026" cdx-file="US20230225326A1-20230720-C00026.CDX" mol-file="US20230225326A1-20230720-C00026.MOL"/>
+<us-chemistry idref="CHEM-US-00027" cdx-file="US20230225326A1-20230720-C00027.CDX" mol-file="US20230225326A1-20230720-C00027.MOL"/>
+<us-chemistry idref="CHEM-US-00028" cdx-file="US20230225326A1-20230720-C00028.CDX" mol-file="US20230225326A1-20230720-C00028.MOL"/>
+<us-chemistry idref="CHEM-US-00029" cdx-file="US20230225326A1-20230720-C00029.CDX" mol-file="US20230225326A1-20230720-C00029.MOL"/>
+<us-chemistry idref="CHEM-US-00030" cdx-file="US20230225326A1-20230720-C00030.CDX" mol-file="US20230225326A1-20230720-C00030.MOL"/>
+<us-chemistry idref="CHEM-US-00031" cdx-file="US20230225326A1-20230720-C00031.CDX" mol-file="US20230225326A1-20230720-C00031.MOL"/>
+<us-chemistry idref="CHEM-US-00032" cdx-file="US20230225326A1-20230720-C00032.CDX" mol-file="US20230225326A1-20230720-C00032.MOL"/>
+<us-chemistry idref="CHEM-US-00033" cdx-file="US20230225326A1-20230720-C00033.CDX" mol-file="US20230225326A1-20230720-C00033.MOL"/>
+<us-chemistry idref="CHEM-US-00034" cdx-file="US20230225326A1-20230720-C00034.CDX" mol-file="US20230225326A1-20230720-C00034.MOL"/>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method comprising, increasing growth or harvest yield by providing H<sub>2</sub>S to a plant or a seed through degradation of a compound of formula I;</claim-text>
+<claim-text><chemistry id="CHEM-US-00030" num="00030">
+<img id="EMI-C00030" he="15.16mm" wi="22.10mm" file="US20230225326A1-20230720-C00030.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</claim-text>
+<claim-text>wherein:
+<claim-text>Y is O;</claim-text>
+<claim-text>Z is O;</claim-text>
+<claim-text>R<sup>1 </sup>is (C<sub>1</sub>-C<sub>10</sub>)alkyl; and R<sup>2 </sup>is (C<sub>1</sub>-C<sub>10</sub>)alkyl; and</claim-text>
+<claim-text>X<sup>+</sup> is a suitable cation.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the growth or the harvest yield is increased by, contacting the plant with the compound of formula I.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the growth or the harvest yield for a plant that grows from a seed is increased by contacting the seed with a compound as described in <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the seed is contacted with the compound prior to planting.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the growth or the harvest yield of the plant is increased by allowing the compound of formula Ito degrade on or near the plant, or on or near a seed of the plant, so that H<sub>2</sub>S is provided to the plant or to the seed.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the compound is applied to soil wherein the plant or a seed of the plant has been planted or will be planted.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the plant is a root vegetable, a seed vegetable, or a leaf vegetable.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the plant is a fruit, vegetable, hay, alfalfa, an oil seed plant, or miscanthus.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the plant is a pea, lettuce, tomato, cucumber, green bean, broccoli, squash, beat, onion, sugar, sweet corn, sugar beet, barley, oats, wheet, potato, or radish.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the plant is a corn or soybean.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the compound releases H<sub>2</sub>S over a period of at least about 7 days after contacting or applying.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the compound releases H<sub>2</sub>S over a period of at least about 1 year after contacting or applying.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the compound is selected from the group consisting of:</claim-text>
+<claim-text><chemistry id="CHEM-US-00031" num="00031">
+<img id="EMI-C00031" he="120.48mm" wi="63.58mm" file="US20230225326A1-20230720-C00031.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</claim-text>
+<claim-text>wherein X<sup>+</sup> is a suitable cation.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the compound is:</claim-text>
+<claim-text><chemistry id="CHEM-US-00032" num="00032">
+<img id="EMI-C00032" he="30.90mm" wi="35.39mm" file="US20230225326A1-20230720-C00032.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</claim-text>
+<claim-text>wherein X<sup>+</sup> is a suitable cation.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein X<sup>+</sup> is potassium, sodium, or triethyl ammonium.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. A composition comprising a comoound of formula I:</claim-text>
+<claim-text><chemistry id="CHEM-US-00033" num="00033">
+<img id="EMI-C00033" he="15.16mm" wi="22.10mm" file="US20230225326A1-20230720-C00033.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</claim-text>
+<claim-text>wherein:
+<claim-text>Y is O;</claim-text>
+<claim-text>Z is O;</claim-text>
+<claim-text>R<sup>1 </sup>is (C<sub>1</sub>-C<sub>10</sub>)alkyl;</claim-text>
+<claim-text>R<sup>2 </sup>is (C<sub>1</sub>-C<sub>10</sub>)alkyl; and</claim-text>
+<claim-text>X<sup>+</sup> is a suitable cation;</claim-text>
+</claim-text>
+<claim-text>and a suitable agricultural carrier.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The composition of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the agricultural carrier comprises water, aqueous fertilizer, herbicide, pesticide, DMSO, a poly(ethylene glycol), glycerine, oliogoethylene glycol, an alcohol, a heterocyclic alcohol, or NMP.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. A compound of a compound of formula I;</claim-text>
+<claim-text><chemistry id="CHEM-US-00034" num="00034">
+<img id="EMI-C00034" he="15.16mm" wi="22.10mm" file="US20230225326A1-20230720-C00034.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</claim-text>
+<claim-text>wherein:
+<claim-text>Y is O;</claim-text>
+<claim-text>Z is O;</claim-text>
+<claim-text>R<sup>1 </sup>is (C<sub>1</sub>-C<sub>10</sub>)alkyl;</claim-text>
+<claim-text>R<sup>2 </sup>is (C<sub>1</sub>-C<sub>10</sub>)alkyl; and</claim-text>
+<claim-text>X<sup>+</sup> is a suitable cation.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein X<sup>+</sup> is potassium or sodium.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein X<sup>+</sup> is triethyl ammonium.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

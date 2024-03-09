@@ -1,0 +1,2937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225531A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225531</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18125319</doc-number>
+<date>20230323</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>G</subclass>
+<main-group>19</main-group>
+<subgroup>22</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>26</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>46</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>21</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>G</subclass>
+<main-group>19</main-group>
+<subgroup>2205</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>265</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>46</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>21</main-group>
+<subgroup>0212</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">DRINK CUP</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>17504804</doc-number>
+<date>20211019</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11647857</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18125319</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16593350</doc-number>
+<date>20191004</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11213147</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17504804</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>15444944</doc-number>
+<date>20170228</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>10477998</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>16593350</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62301859</doc-number>
+<date>20160301</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Berry Plastics Corporation</orgname>
+<address>
+<city>Evansville</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>O'NAN</last-name>
+<first-name>David Y.</first-name>
+<address>
+<city>Henderson</city>
+<state>KY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>RUMINER</last-name>
+<first-name>Brad A.</first-name>
+<address>
+<city>Evansville</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>MANN</last-name>
+<first-name>Jeffrey A.</first-name>
+<address>
+<city>Evansville</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A drink cup includes a body formed to include an interior region providing a fluid-holding reservoir and a brim. The brim is coupled to the body to form an opening into the interior region. The body includes a floor and a sidewall that extends away from the floor. The drink cup further includes a body-strengthening system coupled to the body.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="148.42mm" wi="151.89mm" file="US20230225531A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="239.35mm" wi="175.43mm" file="US20230225531A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="204.22mm" wi="152.32mm" file="US20230225531A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="219.88mm" wi="128.95mm" file="US20230225531A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="226.48mm" wi="132.76mm" file="US20230225531A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="166.88mm" wi="152.74mm" file="US20230225531A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="212.85mm" wi="165.44mm" file="US20230225531A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="209.13mm" wi="170.77mm" file="US20230225531A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="207.77mm" wi="174.92mm" file="US20230225531A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="222.76mm" wi="164.76mm" file="US20230225531A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="206.50mm" wi="160.19mm" file="US20230225531A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="167.56mm" wi="160.61mm" file="US20230225531A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="188.13mm" wi="164.51mm" file="US20230225531A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="215.90mm" wi="163.41mm" file="US20230225531A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="209.97mm" wi="168.66mm" file="US20230225531A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="213.36mm" wi="167.56mm" file="US20230225531A1-20230720-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="228.85mm" wi="168.83mm" file="US20230225531A1-20230720-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="225.38mm" wi="168.40mm" file="US20230225531A1-20230720-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="153.08mm" wi="165.52mm" file="US20230225531A1-20230720-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="189.65mm" wi="153.50mm" file="US20230225531A1-20230720-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="213.19mm" wi="150.96mm" file="US20230225531A1-20230720-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="192.45mm" wi="157.40mm" file="US20230225531A1-20230720-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="192.96mm" wi="155.79mm" file="US20230225531A1-20230720-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="220.56mm" wi="159.34mm" file="US20230225531A1-20230720-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="224.20mm" wi="162.64mm" file="US20230225531A1-20230720-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="212.26mm" wi="162.05mm" file="US20230225531A1-20230720-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">PRIORITY CLAIM</heading>
+<p id="p-0002" num="0001">This application is a continuation of U.S. patent application Ser. No. 17/504,804, filed Oct. 19, 2021, which is a continuation of U.S. patent application Ser. No. 16/593,350, filed Oct. 4, 2019, now U.S. Pat. No. 11,213,147, which is a continuation of U.S. patent application Ser. No. 15/444,944, filed Feb. 28, 2017, now U.S. Pat. No. 10,477,998, which claims priority under 35 U.S.C. &#xa7; 119(e) to US Provisional Application No. 62/301,859, filed Mar. 1, 2016, each of which is expressly incorporated by reference herein.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">The present disclosure relates to containers, and particularly to cups. More particularly, the present disclosure relates to drink cups.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0004" num="0003">A drink cup in accordance with the present disclosure includes a body and a brim. The body is formed to include an interior region providing a fluid-holding reservoir and the brim is coupled to the body to frame an opening into the interior region.</p>
+<p id="p-0005" num="0004">In illustrative embodiments, the drink cup includes a body-strengthening system configured to provide means for minimizing a weight of a drink cup while maximizing rigidity of a selected portion of the drink cup so that unintended deformation of the drink cup is minimized.</p>
+<p id="p-0006" num="0005">In illustrative embodiments, the body-strengthening system includes a first strengthening unit located between a lower portion of the side wall and a middle portion of the side wall. In illustrative embodiments, the first strengthening unit includes an upper-strengthening segment and a C-shaped lower-strengthening segment. The upper-strengthening segment is located between the C-shaped lower-strengthening segment and the middle portion of the side wall. The C-shaped lower-strengthening segment is located between the upper-strengthening segment and the lower portion of the side wall.</p>
+<p id="p-0007" num="0006">In illustrative embodiments, the body-strengthening system further includes a second strengthening unit located between the first strengthening unit and the brim. The second strengthening unit includes a C-shaped annular ring and an annular strip. Illustratively, the C-shaped annular ring is located between the annular strip and the middle portion of the side wall.</p>
+<p id="p-0008" num="0007">Additional features of the present disclosure will become apparent to those skilled in the art upon consideration of illustrative embodiments exemplifying the best mode of carrying out the disclosure as presently perceived.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTIONS OF THE DRAWINGS</heading>
+<p id="p-0009" num="0008">The detailed description particularly refers to the accompanying figures in which:</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a first embodiment of a drink cup in accordance with the present disclosure showing the drink cup includes a body formed to include an interior region, a brim coupled to an upper portion of a side wall included in the body, and a body-strengthening system coupled to the body and including a first strengthening unit and a second strengthening unit;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is an enlarged perspective view taken from <figref idref="DRAWINGS">FIG. <b>1</b></figref> showing from top-to-bottom a middle portion of the side wall, the first strengthening unit, and a bottom portion of the side wall, the first strengthening unit including an upper-strengthening segment and a C-shaped strengthening segment, the upper-strengthening segment is located between the C-shaped strengthening segment and the middle portion of the side wall and the C-shaped strengthening segment is located between the upper-strengthening segment and the lower portion of the side wall;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is an enlarged perspective view taken from <figref idref="DRAWINGS">FIG. <b>2</b></figref> showing from top to bottom the brim, a stack shoulder, an upper portion of the side wall, the second strengthening unit, and the middle portion of the side wall, the second strengthening unit including a C-shaped annular ring coupled to the upper portion of the side wall and an annular strip extending between and interconnecting the C-shaped annular ring and the middle portion of the side wall;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a sectional view taken along line 4-4 of <figref idref="DRAWINGS">FIG. <b>1</b></figref> showing the drink cup includes from top-to-bottom along the central axis the brim, the stack shoulder, the upper-portion of the side wall, the second strengthening unit, the middle portion of the side wall, the first strengthening unit, the lower portion of the side wall, and the floor;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is an enlarged dead section of the sectional view of <figref idref="DRAWINGS">FIG. <b>4</b></figref> showing the first strengthening unit relative to the central axis and extending between and interconnecting the middle portion of the side wall with the lower portion of the side wall, and further showing the first strengthening unit includes the upper-strengthening segment including an annular strip coupled to the middle portion of the side wall and an annular band located a first distance from the central axis and extending between and interconnecting the annular strip and the C-shaped strengthening segment, the C-shaped strengthening segment extending between and interconnecting the annular band and the lower portion of the side wall and including a first annular strip, a second annular strip, and an annular band located between the first annular strip and the second annular strip, the annular band located a second distance from the central axis which is generally greater than the first distance of the annular band of the upper-strengthening segment to the central axis;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is an enlarged dead section of the sectional view of <figref idref="DRAWINGS">FIG. <b>4</b></figref> showing the second strengthening unit relative to the central axis and extending between and interconnecting the middle portion of the side wall and the upper portion of the side wall and further showing the second strengthening unit including from top to bottom a C-shaped annular ring and an annular bottom strip extending between and interconnecting the C-shaped annular ring and the middle portion of the side wall, the C-shaped annular ring including a first annular strip coupled to the upper portion of the side wall, a second annular strip coupled to the bottom strip, and an annular band extending between and interconnecting the first annular strip and the second annular strip and located a third distance from the central axis which is generally less than a fourth distance located between the middle portion of the side wall and a fifth distance located between the central axis and the upper portion of the side wall;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is a side-elevation view of another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>19</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>20</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>21</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>22</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>23</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>24</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>25</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>26</b></figref> is a side-elevation view another embodiment of a drink cup in accordance with the present disclosure; and</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>27</b></figref> is a perspective view of a Rigidity Tester used in accordance with the present disclosure.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0037" num="0036">A drink cup <b>10</b> includes a body <b>12</b>, a brim <b>14</b>, and a body-strengthening system <b>16</b> as shown in <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>4</b></figref>. Body <b>12</b> includes a floor <b>18</b> and a side wall <b>20</b> that cooperate to form an interior region <b>22</b>. Brim <b>14</b> is coupled to body <b>12</b> to frame an opening into interior region <b>22</b>. Body-strengthening system <b>16</b> is coupled to body <b>12</b> between floor <b>18</b> and brim <b>14</b> and is configured to provide means for minimizing a weight of drink cup <b>10</b> while maximizing the rigidity of a selected portion of drink cup <b>10</b> so that unintended deformation of drink cup <b>10</b> is minimized. Additional embodiments of drink cups <b>110</b>, <b>210</b>, <b>310</b>, <b>410</b>, <b>510</b>, <b>610</b>, <b>710</b>, <b>810</b>, <b>910</b>, <b>1010</b>, <b>1110</b>, <b>1210</b>, <b>1310</b>, <b>1410</b>, <b>1510</b>, <b>1610</b>, <b>1710</b>, <b>1810</b>, <b>1910</b>, and <b>2010</b> are shown in <figref idref="DRAWINGS">FIGS. <b>7</b>-<b>26</b></figref>. A rigidity tester used to measure side wall rigidity is shown in <figref idref="DRAWINGS">FIG. <b>27</b></figref>.</p>
+<p id="p-0038" num="0037">Body <b>12</b> includes floor <b>18</b>, side wall <b>20</b>, and stack shoulder <b>24</b>. Floor <b>18</b> cooperates with side wall <b>20</b> to define interior region <b>22</b> to hold fluid therein. Side wall <b>20</b> extends away from floor <b>18</b> towards brim <b>14</b> along a central axis A<b>1</b> as shown in FIGS. <b>1</b> and <b>4</b>. Stack shoulder <b>24</b> extends between and interconnects side wall <b>20</b> and brim <b>14</b>, as shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>.</p>
+<p id="p-0039" num="0038">Brim <b>14</b> is coupled to stack shoulder <b>24</b> and is configured to frame an opening into interior region <b>22</b>, as shown in <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>3</b></figref>. Brim <b>14</b> is adapted to couple to a lid to establish a package. The package includes drink cup <b>10</b> and the lid coupled to the brim <b>14</b>. The lid is arranged to block selectively access to interior region <b>22</b> of drink cup <b>10</b>. Illustratively, brim <b>14</b> provides a continuous smooth surface as shown in <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>3</b></figref>.</p>
+<p id="p-0040" num="0039">Body-strengthening system <b>16</b> includes a first strengthening unit <b>26</b> and a second strengthening unit <b>28</b>, as shown in <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>6</b></figref>. First strengthening unit <b>26</b> extends between and interconnects a middle portion <b>20</b>B of side wall <b>20</b> and a lower portion <b>20</b>C of side wall <b>20</b>, as shown in <figref idref="DRAWINGS">FIGS. <b>2</b>, <b>4</b>, and <b>5</b></figref>. Second strengthening unit <b>28</b> extends between and interconnects an upper portion <b>20</b>A of side wall <b>20</b> and middle portion <b>20</b>B as shown in <figref idref="DRAWINGS">FIGS. <b>3</b>, <b>4</b>, and <b>6</b></figref>. First strengthening unit <b>26</b> and second strengthening unit <b>28</b> cooperate to increase rigidity for a portion of side wall <b>20</b>.</p>
+<p id="p-0041" num="0040">First strengthening unit <b>26</b> includes an upper-strengthening segment <b>30</b> and a C-shaped strengthening segment <b>32</b>, as shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. Upper-strengthening segment <b>30</b> extends between and interconnects middle portion <b>20</b>B of side wall <b>20</b> and C-shaped strengthening segment <b>32</b>. C-shaped strengthening segment <b>32</b> extends between and interconnects upper-strengthening segment <b>30</b> and lower portion <b>20</b>C of side wall <b>20</b>.</p>
+<p id="p-0042" num="0041">Upper-strengthening segment <b>30</b> includes an annular strip <b>30</b>A and an annular band <b>30</b>B, as shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. Annular strip <b>30</b>A extends between and interconnects middle portion <b>20</b>B of side wall <b>20</b> and annular band <b>30</b>B. Annular band <b>30</b>B is located a first distance D<b>1</b> from central axis Al. Annular band <b>30</b>B extends between and interconnects annular strip <b>30</b>A with C-shaped strengthening segment <b>32</b>.</p>
+<p id="p-0043" num="0042">C-shaped strengthening segment <b>32</b> includes a first annular strip <b>32</b>A, a second annular strip <b>32</b>C, and an annular band <b>32</b>B, as shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. First annular strip <b>32</b>A extends between and interconnects upper-strengthening segment and annular band <b>32</b>B. Second annular strip <b>32</b>C extends between and interconnects lower portion <b>20</b>C of side wall <b>20</b> and annular band <b>32</b>B. Annular band <b>32</b>B is located between first annular strip <b>32</b>A and second annular strip <b>32</b>C. Annular band <b>32</b>B is located a second distance D<b>2</b> from central axis Al. Second distance D<b>2</b> is generally greater than the first distance D<b>1</b> from annular band <b>30</b>B of upper-strengthening segment <b>39</b> to central axis A<b>1</b>.</p>
+<p id="p-0044" num="0043">Second strengthening unit <b>28</b> includes a C-shaped annular ring <b>34</b> and an annular bottom strip <b>36</b>, as shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>. C-shaped annular ring <b>34</b> extends between and interconnects annular bottom strip <b>36</b> and upper portion <b>20</b>A of side wall <b>20</b>. Annular bottom strip <b>36</b> extends between and interconnects C-shaped annular ring <b>34</b> and middle portion <b>20</b>B of side wall <b>20</b>.</p>
+<p id="p-0045" num="0044">C-shaped annular ring <b>34</b> includes a first annular strip <b>34</b>A, a second annular strip <b>34</b>C, and an annular band <b>34</b>B, as shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>. First annular strip <b>34</b>A extends between and interconnects upper portion <b>20</b>A of side wall <b>20</b> and annular band <b>34</b>B. Second annular strip <b>34</b>C extends between and interconnects annular bottom strip <b>36</b> and annular band <b>34</b>B. Annular band <b>34</b>B extends between and interconnects first annular strip <b>34</b>A and second annular strip <b>34</b>C. Annular band <b>34</b>B is located a third distance D<b>3</b> from central axis Al. Third distance D<b>3</b> is generally less than a fourth distance D<b>4</b> located between middle portion <b>20</b>B of side wall <b>20</b> and a fifth distance D<b>5</b> located between central axis A<b>1</b> and upper portion <b>20</b>A of side wall <b>20</b>.</p>
+<p id="p-0046" num="0045">In one example, the side wall of the drink cup has a frustoconical shape. Each of the first and second strengthening units is coupled to the side wall and are arranged to deviate from the frustoconical shape of the side wall. In one example, the first and second strengthening units extend away from the side wall toward, away from, or combinations thereof the central axis. Each of the first and second strengthening units can be seen a deviation or interruption of the frustoconical shape of the side wall.</p>
+<p id="p-0047" num="0046">In another embodiment, body-strengthening system <b>16</b> is configured to rigidify side wall <b>20</b> of drink cup <b>10</b>. Body-strengthening system <b>16</b> is coupled to body <b>12</b> to minimize unintended deformation of side wall <b>20</b>. In an example, body-strengthening system <b>16</b> in accordance with the present disclosure is configured to rigidify a cup <b>10</b>, a container <b>10</b>, or any other suitable alternative.</p>
+<p id="p-0048" num="0047">In one example, a drink cup in accordance with the present disclosure made from a formulation which is blended together and extruded into a sheet. The sheet is then formed into drink cups, for example, by a thermoforming process. In one example, the formulation comprises polypropylene. In another example, the formulation comprises polystyrene, polyethylene terephthalate, expanded polystyrene, polypropylene, polyethylene, suitable alternatives, and combinations thereof. In another example, the formulation further comprises an additive. Exemplary additives include, clarifiers, process aids, slip agents, mineral fillers, combinations thereof, or any suitable material for improving the drink cup. In some embodiments, the additive is a clarifier. In some embodiments, the additive is a copolymer. In some embodiments, the copolymer is an ethylene-polypropylene copolymer. In some embodiments, non-perforated cover <b>68</b> comprises Braskem RP650.</p>
+<p id="p-0049" num="0048">In one example, the formulation comprises a first polypropylene resin which is a homopolymer polypropylene resin. In another example, the formulation includes a first polypropylene resin and a second polypropylene resin. The first polypropylene resin may be an impact polypropylene copolymer and the second polypropylene resin may be an impact polypropylene copolymer including a mineral. The first polypropylene resin may be an impact polypropylene copolymer and the second polypropylene resin may be an impact polypropylene copolymer including calcium carbonate. The first polypropylene resin may be a polypropylene homopolymer and the second polypropylene resin may be an impact polypropylene copolymer.</p>
+<p id="p-0050" num="0049">Another embodiment of a drink cup <b>110</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>. Drink cup <b>110</b> includes a body <b>112</b>, a brim <b>114</b>, and a body-strengthening system <b>116</b>. Body-strengthening system <b>116</b> is coupled to body <b>112</b> between floor <b>118</b> and brim <b>114</b> and is configured to provide means for minimizing a weight of drink cup <b>110</b> while maximizing the rigidity of a selected portion of drink cup <b>110</b> so that unintended deformation of drink cup <b>110</b> is minimized.</p>
+<p id="p-0051" num="0050">Body <b>112</b> includes floor <b>118</b>, side wall <b>120</b>, and stack shoulder <b>124</b> as shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>. Floor <b>118</b> cooperates with side wall <b>120</b> to define interior region <b>122</b> to hold fluid therein. Side wall <b>120</b> extends away from floor <b>118</b> towards brim <b>114</b> along a central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>. Stack shoulder <b>124</b> extends between and interconnects side wall <b>120</b> and brim <b>114</b>, as shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>.</p>
+<p id="p-0052" num="0051">Body-strengthening system <b>116</b> includes a first strengthening unit <b>126</b> and a second strengthening unit <b>128</b>, as shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>. First strengthening unit <b>126</b> extends between and interconnects a middle portion <b>120</b>B of side wall <b>120</b> and a lower portion <b>120</b>C of side wall <b>120</b>, as shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>. Second strengthening unit <b>126</b> extends between and interconnects an upper portion <b>120</b>A of side wall <b>120</b> and middle portion <b>120</b>B as shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>. First strengthening unit <b>126</b> and second strengthening unit <b>128</b> cooperate to increase rigidity for a portion of side wall <b>120</b>.</p>
+<p id="p-0053" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 110.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="133pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>151</entry>
+<entry>4.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>152</entry>
+<entry>4.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>153</entry>
+<entry>3.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>154</entry>
+<entry>1.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>155</entry>
+<entry>3.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>156</entry>
+<entry>1.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>157</entry>
+<entry>3.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>158</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>159</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>160</entry>
+<entry>1.5&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>161</entry>
+<entry>8&#xb0;&#x2002;&#x2009;</entry>
+</row>
+<row>
+<entry/>
+<entry>162</entry>
+<entry>6&#xb0;&#x2002;&#x2009;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00001">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0054" num="0052">Another embodiment of a drink cup <b>210</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. Drink cup <b>210</b> includes a body <b>212</b>, a brim <b>214</b>, and a body-strengthening system <b>216</b>. Body-strengthening system <b>216</b> is coupled to body <b>212</b> between floor <b>218</b> and brim <b>214</b> and is configured to provide means for minimizing a weight of drink cup <b>210</b> while maximizing the rigidity of a selected portion of drink cup <b>210</b> so that unintended deformation of drink cup <b>210</b> is minimized.</p>
+<p id="p-0055" num="0053">Body <b>212</b> includes floor <b>218</b>, side wall <b>220</b>, and stack shoulder <b>224</b> as shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. Floor <b>218</b> cooperates with side wall <b>220</b> to define interior region <b>222</b> to hold fluid therein. Side wall <b>220</b> extends away from floor <b>218</b> towards brim <b>214</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. Stack shoulder <b>224</b> extends between and interconnects side wall <b>220</b> and brim <b>214</b>, as shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>.</p>
+<p id="p-0056" num="0054">Body-strengthening system <b>216</b> includes a first strengthening unit <b>226</b> and a second strengthening unit <b>228</b>, as shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. First strengthening unit <b>226</b> extends between and interconnects a middle portion <b>220</b>B of side wall <b>220</b> and a lower portion <b>220</b>C of side wall <b>220</b>, as shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. Second strengthening unit <b>228</b> extends between and interconnects an upper portion <b>220</b>A of side wall <b>220</b> and middle portion <b>220</b>B as shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. First strengthening unit <b>226</b> and second strengthening unit <b>228</b> cooperate to increase rigidity for a portion of side wall <b>220</b>.</p>
+<p id="p-0057" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 210.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="133pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>251</entry>
+<entry>4.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>252</entry>
+<entry>6.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>253</entry>
+<entry>3.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>254</entry>
+<entry>3.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>255</entry>
+<entry>3.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>256</entry>
+<entry>1.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>257</entry>
+<entry>2.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>258</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>259</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>260</entry>
+<entry>2.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>261</entry>
+<entry>4.5&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>262</entry>
+<entry>4.5&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00002">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0058" num="0055">Another embodiment of a drink cup <b>310</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>. Drink cup <b>310</b> includes a body <b>312</b>, a brim <b>314</b>, and a body-strengthening system <b>316</b>. Body-strengthening system <b>316</b> is coupled to body <b>312</b> between floor <b>318</b> and brim <b>314</b> and is configured to provide means for minimizing a weight of drink cup <b>310</b> while maximizing the rigidity of a selected portion of drink cup <b>310</b> so that unintended deformation of drink cup <b>310</b> is minimized.</p>
+<p id="p-0059" num="0056">Body <b>312</b> includes floor <b>318</b>, side wall <b>320</b>, and stack shoulder <b>324</b> as shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>. Floor <b>318</b> cooperates with side wall <b>320</b> to define interior region <b>322</b> to hold fluid therein. Side wall <b>320</b> extends away from floor <b>318</b> towards brim <b>314</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>. Stack shoulder <b>324</b> extends between and interconnects side wall <b>320</b> and brim <b>314</b>, as shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>.</p>
+<p id="p-0060" num="0057">Body-strengthening system <b>316</b> includes a first strengthening unit <b>326</b> and a second strengthening unit <b>328</b>, as shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>. First strengthening unit <b>326</b> extends between and interconnects a middle portion <b>320</b>B of side wall <b>320</b> and a lower portion <b>320</b>C of side wall <b>320</b>, as shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>. Second strengthening unit <b>328</b> extends between and interconnects an upper portion <b>320</b>A of side wall <b>320</b> and middle portion <b>320</b>B as shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>. First strengthening unit <b>326</b> and second strengthening unit <b>328</b> cooperate to increase rigidity for a portion of side wall <b>320</b>.</p>
+<p id="p-0061" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 310.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="133pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>351</entry>
+<entry>4.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>352</entry>
+<entry>7.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>353</entry>
+<entry>4.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>354</entry>
+<entry>4.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>355</entry>
+<entry>3.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>356</entry>
+<entry>1.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>357</entry>
+<entry>2.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>358</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>359</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>360</entry>
+<entry>2.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>361</entry>
+<entry>4.5&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>362</entry>
+<entry>6.1&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00003">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0062" num="0058">Another embodiment of a drink cup <b>410</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>. Drink cup <b>410</b> includes a body <b>412</b>, a brim <b>414</b>, and a body-strengthening system <b>416</b>. Body-strengthening system <b>416</b> is coupled to body <b>412</b> between floor <b>418</b> and brim <b>414</b> and is configured to provide means for minimizing a weight of drink cup <b>410</b> while maximizing the rigidity of a selected portion of drink cup <b>410</b> so that unintended deformation of drink cup <b>410</b> is minimized.</p>
+<p id="p-0063" num="0059">Body <b>412</b> includes floor <b>418</b>, side wall <b>420</b>, and stack shoulder <b>424</b> as shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>. Floor <b>418</b> cooperates with side wall <b>420</b> to define interior region <b>422</b> to hold fluid therein. Side wall <b>420</b> extends away from floor <b>418</b> towards brim <b>414</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>. Stack shoulder <b>424</b> extends between and interconnects side wall <b>420</b> and brim <b>414</b>, as shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>.</p>
+<p id="p-0064" num="0060">Body-strengthening system <b>416</b> includes a first strengthening unit <b>426</b> and a second strengthening unit <b>428</b>, as shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>. First strengthening unit <b>426</b> extends between and interconnects a middle portion <b>420</b>B of side wall <b>420</b> and a lower portion <b>420</b>C of side wall <b>420</b>, as shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>. Second strengthening unit <b>428</b> extends between and interconnects an upper portion <b>420</b>A of side wall <b>420</b> and middle portion <b>420</b>B as shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>. First strengthening unit <b>426</b> and second strengthening unit <b>428</b> cooperate to increase rigidity for a portion of side wall <b>420</b>.</p>
+<p id="p-0065" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 410.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="147pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>451</entry>
+<entry>4.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>452</entry>
+<entry>7.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>453</entry>
+<entry>4.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>454</entry>
+<entry>4.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>455</entry>
+<entry>3.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>456</entry>
+<entry>2.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>457</entry>
+<entry>3.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>458</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>459</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>460</entry>
+<entry>2.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>461</entry>
+<entry>4.5&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>462</entry>
+<entry>5.7&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00004">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0066" num="0061">Another embodiment of a drink cup <b>510</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>. Drink cup <b>510</b> includes a body <b>512</b>, a brim <b>514</b>, and a body-strengthening system <b>516</b>. Body-strengthening system <b>516</b> is coupled to body <b>512</b> between floor <b>518</b> and brim <b>514</b> and is configured to provide means for minimizing a weight of drink cup <b>510</b> while maximizing the rigidity of a selected portion of drink cup <b>510</b> so that unintended deformation of drink cup <b>510</b> is minimized.</p>
+<p id="p-0067" num="0062">Body <b>512</b> includes floor <b>518</b>, side wall <b>520</b>, and stack shoulder <b>524</b> as shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>. Floor <b>518</b> cooperates with side wall <b>520</b> to define interior region <b>522</b> to hold fluid therein. Side wall <b>520</b> extends away from floor <b>518</b> towards brim <b>514</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>. Stack shoulder <b>524</b> extends between and interconnects side wall <b>520</b> and brim <b>514</b>, as shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>.</p>
+<p id="p-0068" num="0063">Body-strengthening system <b>516</b> includes a first strengthening unit <b>526</b> and a second strengthening unit <b>528</b>, as shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>. First strengthening unit <b>526</b> extends between and interconnects a middle portion <b>520</b>B of side wall <b>520</b> and a lower portion <b>520</b>C of side wall <b>520</b>, as shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>. Second strengthening unit <b>528</b> extends between and interconnects an upper portion <b>520</b>A of side wall <b>520</b> and middle portion <b>520</b>B as shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>. First strengthening unit <b>526</b> and second strengthening unit <b>528</b> cooperate to increase rigidity for a portion of side wall <b>520</b>.</p>
+<p id="p-0069" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 5</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 510.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="133pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>551</entry>
+<entry>4.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>552</entry>
+<entry>8.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>553</entry>
+<entry>4.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>554</entry>
+<entry>4.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>555</entry>
+<entry>3.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>556</entry>
+<entry>2.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>557</entry>
+<entry>3.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>558</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>559</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>560</entry>
+<entry>2.5&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>561</entry>
+<entry>4.5&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>562</entry>
+<entry>5.0&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00005">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0070" num="0064">Another embodiment of a drink cup <b>610</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>. Drink cup <b>610</b> includes a body <b>612</b>, a brim <b>614</b>, and a body-strengthening system <b>616</b>. Body-strengthening system <b>616</b> is coupled to body <b>612</b> between floor <b>618</b> and brim <b>614</b> and is configured to provide means for minimizing a weight of drink cup <b>610</b> while maximizing the rigidity of a selected portion of drink cup <b>610</b> so that unintended deformation of drink cup <b>610</b> is minimized.</p>
+<p id="p-0071" num="0065">Body <b>612</b> includes floor <b>618</b>, side wall <b>620</b>, and stack shoulder <b>624</b> as shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>. Floor <b>618</b> cooperates with side wall <b>620</b> to define interior region <b>622</b> to hold fluid therein. Side wall <b>620</b> extends away from floor <b>618</b> towards brim <b>614</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>. Stack shoulder <b>624</b> extends between and interconnects side wall <b>620</b> and brim <b>614</b>, as shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>.</p>
+<p id="p-0072" num="0066">Body-strengthening system <b>616</b> includes a first strengthening unit <b>626</b> and a second strengthening unit <b>628</b>, as shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>. First strengthening unit <b>626</b> extends between and interconnects a middle portion <b>620</b>B of side wall <b>620</b> and a lower portion <b>620</b>C of side wall <b>620</b>, as shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>. Second strengthening unit <b>628</b> extends between and interconnects an upper portion <b>620</b>A of side wall <b>620</b> and middle portion <b>620</b>B as shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>. First strengthening unit <b>626</b> and second strengthening unit <b>628</b> cooperate to increase rigidity for a portion of side wall <b>620</b>.</p>
+<p id="p-0073" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 6</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 610.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>651</entry>
+<entry>4.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>652</entry>
+<entry>8.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>653</entry>
+<entry>4.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>654</entry>
+<entry>3.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>655</entry>
+<entry>3.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>656</entry>
+<entry>2.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>657</entry>
+<entry>3.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>658</entry>
+<entry>2.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>659</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>660</entry>
+<entry>3.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>661</entry>
+<entry>8.0&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>662</entry>
+<entry>2.4&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00006">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0074" num="0067">Another embodiment of a drink cup <b>710</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>. Drink cup <b>710</b> includes a body <b>712</b>, a brim <b>714</b>, and a body-strengthening system <b>716</b>. Body-strengthening system <b>716</b> is coupled to body <b>712</b> between floor <b>718</b> and brim <b>714</b> and is configured to provide means for minimizing a weight of drink cup <b>710</b> while maximizing the rigidity of a selected portion of drink cup <b>710</b> so that unintended deformation of drink cup <b>710</b> is minimized.</p>
+<p id="p-0075" num="0068">Body <b>712</b> includes floor <b>718</b>, side wall <b>720</b>, and stack shoulder <b>724</b> as shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>. Floor <b>718</b> cooperates with side wall <b>720</b> to define interior region <b>722</b> to hold fluid therein. Side wall <b>720</b> extends away from floor <b>718</b> towards brim <b>714</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>. Stack shoulder <b>724</b> extends between and interconnects side wall <b>720</b> and brim <b>714</b>, as shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>.</p>
+<p id="p-0076" num="0069">Body-strengthening system <b>716</b> includes a first strengthening unit <b>726</b> and a second strengthening unit <b>728</b>, as shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>. First strengthening unit <b>726</b> extends between and interconnects an upper portion <b>720</b>A of side wall <b>720</b> and a lower portion <b>720</b>C of side wall <b>720</b>, as shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>. Second strengthening unit <b>728</b> extends between and interconnects an upper portion <b>720</b>A of side wall <b>720</b> and stack shoulder <b>724</b> as shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>. First strengthening unit <b>726</b> and second strengthening unit <b>728</b> cooperate to increase rigidity for a portion of side wall <b>720</b>.</p>
+<p id="p-0077" num="0000">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 7</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 710.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>751</entry>
+<entry>4.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>752</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry/>
+<entry>753</entry>
+<entry>3.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>754</entry>
+<entry>2.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>755</entry>
+<entry>3.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>756</entry>
+<entry>1.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>757</entry>
+<entry>3.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>758</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>759</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>760</entry>
+<entry>1.5&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>761</entry>
+<entry>9.3&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>762</entry>
+<entry>6.0&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00007">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0078" num="0070">Another embodiment of a drink cup <b>810</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>. Drink cup <b>810</b> includes a body <b>812</b>, a brim <b>814</b>, and a body-strengthening system <b>816</b>. Body-strengthening system <b>816</b> is coupled to body <b>812</b> between floor <b>818</b> and brim <b>814</b> and is configured to provide means for minimizing a weight of drink cup <b>810</b> while maximizing the rigidity of a selected portion of drink cup <b>810</b> so that unintended deformation of drink cup <b>810</b> is minimized.</p>
+<p id="p-0079" num="0071">Body <b>812</b> includes floor <b>818</b>, side wall <b>820</b>, and stack shoulder <b>824</b> as shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>. Floor <b>818</b> cooperates with side wall <b>820</b> to define interior region <b>822</b> to hold fluid therein. Side wall <b>820</b> extends away from floor <b>818</b> towards brim <b>814</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>. Stack shoulder <b>824</b> extends between and interconnects side wall <b>820</b> and brim <b>814</b>, as shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>.</p>
+<p id="p-0080" num="0072">Body-strengthening system <b>816</b> includes a first strengthening unit <b>826</b> and a second strengthening unit <b>828</b>, as shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>. First strengthening unit <b>826</b> extends between and interconnects an upper portion <b>820</b>A of side wall <b>820</b> and a lower portion <b>820</b>C of side wall <b>820</b>, as shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>. Second strengthening unit <b>828</b> extends between and interconnects an upper portion <b>820</b>A of side wall <b>820</b> and stack shoulder <b>824</b> as shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>. First strengthening unit <b>826</b> and second strengthening unit <b>828</b> cooperate to increase rigidity for a portion of side wall <b>820</b>.</p>
+<p id="p-0081" num="0000">
+<tables id="TABLE-US-00008" num="00008">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 8</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 810.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>851</entry>
+<entry>4.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>852</entry>
+<entry>6.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>853</entry>
+<entry>3.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>854</entry>
+<entry>3.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>855</entry>
+<entry>3.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>856</entry>
+<entry>1.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>857</entry>
+<entry>3.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>858</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>859</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>860</entry>
+<entry>2.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>861</entry>
+<entry>7.4&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>862</entry>
+<entry>4.0&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00008">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0082" num="0073">Another embodiment of a drink cup <b>910</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>. Drink cup <b>910</b> includes a body <b>912</b>, a brim <b>914</b>, and a body-strengthening system <b>916</b>. Body-strengthening system <b>916</b> is coupled to body <b>912</b> between floor <b>918</b> and brim <b>914</b> and is configured to provide means for minimizing a weight of drink cup <b>910</b> while maximizing the rigidity of a selected portion of drink cup <b>910</b> so that unintended deformation of drink cup <b>910</b> is minimized.</p>
+<p id="p-0083" num="0074">Body <b>912</b> includes floor <b>918</b>, side wall <b>920</b>, and stack shoulder <b>924</b> as shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>. Floor <b>918</b> cooperates with side wall <b>920</b> to define interior region <b>922</b> to hold fluid therein. Side wall <b>920</b> extends away from floor <b>918</b> towards brim <b>914</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>. Stack shoulder <b>924</b> extends between and interconnects side wall <b>920</b> and brim <b>914</b>, as shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>.</p>
+<p id="p-0084" num="0075">Body-strengthening system <b>916</b> includes a first strengthening unit <b>926</b> and a second strengthening unit <b>928</b>, as shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>. First strengthening unit <b>926</b> extends between and interconnects an upper portion <b>920</b>A of side wall <b>920</b> and a lower portion <b>920</b>C of side wall <b>920</b>, as shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>. Second strengthening unit <b>928</b> extends between and interconnects an upper portion <b>920</b>A of side wall <b>920</b> and stack shoulder <b>924</b> as shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>. First strengthening unit <b>926</b> and second strengthening unit <b>928</b> cooperate to increase rigidity for a portion of side wall <b>920</b>.</p>
+<p id="p-0085" num="0000">
+<tables id="TABLE-US-00009" num="00009">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 9</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 910.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>951</entry>
+<entry>4.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>952</entry>
+<entry>7.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>953</entry>
+<entry>3.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>954</entry>
+<entry>4.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>955</entry>
+<entry>3.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>956</entry>
+<entry>1.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>957</entry>
+<entry>3.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>958</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>959</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>960</entry>
+<entry>2.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>961</entry>
+<entry>7.0&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>962</entry>
+<entry>3.0&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00009">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0086" num="0076">Another embodiment of a drink cup <b>1010</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>16</b></figref>. Drink cup <b>1010</b> includes a body <b>1012</b>, a brim <b>1014</b>, and a body-strengthening system <b>1016</b>. Body-strengthening system <b>1016</b> is coupled to body <b>1012</b> between floor <b>1018</b> and brim <b>1014</b> and is configured to provide means for minimizing a weight of drink cup <b>1010</b> while maximizing the rigidity of a selected portion of drink cup <b>1010</b> so that unintended deformation of drink cup <b>1010</b> is minimized.</p>
+<p id="p-0087" num="0077">Body <b>1012</b> includes floor <b>1018</b>, side wall <b>1020</b>, and stack shoulder <b>1024</b> as shown in <figref idref="DRAWINGS">FIG. <b>16</b></figref>. Floor <b>1018</b> cooperates with side wall <b>1020</b> to define interior region <b>1022</b> to hold fluid therein. Side wall <b>1020</b> extends away from floor <b>1018</b> towards brim <b>1014</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>16</b></figref>. Stack shoulder <b>1024</b> extends between and interconnects side wall <b>1020</b> and brim <b>1014</b>, as shown in <figref idref="DRAWINGS">FIG. <b>16</b></figref>.</p>
+<p id="p-0088" num="0078">Body-strengthening system <b>1016</b> includes a first strengthening unit <b>1026</b> and a second strengthening unit <b>1028</b>, as shown in <figref idref="DRAWINGS">FIG. <b>16</b></figref>. First strengthening unit <b>1026</b> extends between and interconnects an upper portion <b>1020</b>A of side wall <b>1020</b> and a lower portion <b>1020</b>C of side wall <b>1020</b>, as shown in <figref idref="DRAWINGS">FIG. <b>16</b></figref>. Second strengthening unit <b>1028</b> extends between and interconnects an upper portion <b>1020</b>A of side wall <b>1020</b> and stack shoulder <b>1024</b> as shown in <figref idref="DRAWINGS">FIG. <b>16</b></figref>. First strengthening unit <b>1026</b> and second strengthening unit <b>1028</b> cooperate to increase rigidity for a portion of side wall <b>1020</b>.</p>
+<p id="p-0089" num="0000">
+<tables id="TABLE-US-00010" num="00010">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 10</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 1010.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>1051</entry>
+<entry>4.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1052</entry>
+<entry>7.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1053</entry>
+<entry>4.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1054</entry>
+<entry>4.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1055</entry>
+<entry>3.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1056</entry>
+<entry>1.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1057</entry>
+<entry>3.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1058</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1059</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1060</entry>
+<entry>2.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1061</entry>
+<entry>8.0&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>1062</entry>
+<entry>5.5&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00010">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0090" num="0079">Another embodiment of a drink cup <b>1110</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>17</b></figref>. Drink cup <b>1110</b> includes a body <b>1112</b>, a brim <b>1114</b>, and a body-strengthening system <b>1116</b>. Body-strengthening system <b>1116</b> is coupled to body <b>1112</b> between floor <b>1018</b> and brim <b>1114</b> and is configured to provide means for minimizing a weight of drink cup <b>1110</b> while maximizing the rigidity of a selected portion of drink cup <b>1110</b> so that unintended deformation of drink cup <b>1110</b> is minimized.</p>
+<p id="p-0091" num="0080">Body <b>1112</b> includes floor <b>1118</b>, side wall <b>1120</b>, and stack shoulder <b>1124</b> as shown in <figref idref="DRAWINGS">FIG. <b>17</b></figref>. Floor <b>1118</b> cooperates with side wall <b>1120</b> to define interior region <b>1122</b> to hold fluid therein. Side wall <b>1120</b> extends away from floor <b>11118</b> towards brim <b>1114</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>17</b></figref>. Stack shoulder <b>1124</b> extends between and interconnects side wall <b>1120</b> and brim <b>1114</b>, as shown in <figref idref="DRAWINGS">FIG. <b>17</b></figref>.</p>
+<p id="p-0092" num="0081">Body-strengthening system <b>1116</b> includes a first strengthening unit <b>1126</b> and a second strengthening unit <b>1128</b>, as shown in <figref idref="DRAWINGS">FIG. <b>17</b></figref>. First strengthening unit <b>1126</b> extends between and interconnects an upper portion <b>1120</b>A of side wall <b>1120</b> and a lower portion <b>1120</b>C of side wall <b>1120</b>, as shown in <figref idref="DRAWINGS">FIG. <b>17</b></figref>. Second strengthening unit <b>1128</b> extends between and interconnects an upper portion <b>1120</b>A of side wall <b>1120</b> and stack shoulder <b>1124</b> as shown in <figref idref="DRAWINGS">FIG. <b>17</b></figref>. First strengthening unit <b>1126</b> and second strengthening unit <b>1128</b> cooperate to increase rigidity for a portion of side wall <b>1120</b>.</p>
+<p id="p-0093" num="0000">
+<tables id="TABLE-US-00011" num="00011">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 11</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 1110.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>1151</entry>
+<entry>4.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1152</entry>
+<entry>7.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1153</entry>
+<entry>4.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1154</entry>
+<entry>4.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1155</entry>
+<entry>3.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1156</entry>
+<entry>1.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1157</entry>
+<entry>3.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1158</entry>
+<entry>3.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1159</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1160</entry>
+<entry>2.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1161</entry>
+<entry>8.8&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>1162</entry>
+<entry>5.0&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00011">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0094" num="0082">Another embodiment of a drink cup <b>1210</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>18</b></figref>. Drink cup <b>1210</b> includes a body <b>1212</b>, a brim <b>1214</b>, and a body-strengthening system <b>1216</b>. Body-strengthening system <b>1216</b> is coupled to body <b>1212</b> between floor <b>1218</b> and brim <b>1214</b> and is configured to provide means for minimizing a weight of drink cup <b>1210</b> while maximizing the rigidity of a selected portion of drink cup <b>1210</b> so that unintended deformation of drink cup <b>1210</b> is minimized.</p>
+<p id="p-0095" num="0083">Body <b>1212</b> includes floor <b>1218</b>, side wall <b>1220</b>, and stack shoulder <b>1224</b> as shown in <figref idref="DRAWINGS">FIG. <b>18</b></figref>. Floor <b>1218</b> cooperates with side wall <b>1220</b> to define interior region <b>1222</b> to hold fluid therein. Side wall <b>1220</b> extends away from floor <b>1218</b> towards brim <b>1214</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>18</b></figref>. Stack shoulder <b>1224</b> extends between and interconnects side wall <b>1220</b> and brim <b>1214</b>, as shown in <figref idref="DRAWINGS">FIG. <b>18</b></figref>.</p>
+<p id="p-0096" num="0084">Body-strengthening system <b>1216</b> includes a first strengthening unit <b>1226</b> and a second strengthening unit <b>1228</b>, as shown in <figref idref="DRAWINGS">FIG. <b>18</b></figref>. First strengthening unit <b>1226</b> extends between and interconnects an upper portion <b>1220</b>A of side wall <b>1220</b> and a lower portion <b>1220</b>C of side wall <b>1220</b>, as shown in <figref idref="DRAWINGS">FIG. <b>18</b></figref>. Second strengthening unit <b>1228</b> extends between and interconnects an upper portion <b>1220</b>A of side wall <b>1220</b> and stack shoulder <b>1224</b> as shown in <figref idref="DRAWINGS">FIG. <b>18</b></figref>. First strengthening unit <b>1226</b> and second strengthening unit <b>1228</b> cooperate to increase rigidity for a portion of side wall <b>1220</b>.</p>
+<p id="p-0097" num="0000">
+<tables id="TABLE-US-00012" num="00012">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 12</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 1210.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>1251</entry>
+<entry>4.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1252</entry>
+<entry>7.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1253</entry>
+<entry>4.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1254</entry>
+<entry>4.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1255</entry>
+<entry>3.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1256</entry>
+<entry>1.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1257</entry>
+<entry>3.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1258</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1259</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1260</entry>
+<entry>2.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1261</entry>
+<entry>8.8&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>1262</entry>
+<entry>4.5&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00012">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0098" num="0085">Another embodiment of a drink cup <b>1310</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>19</b></figref>. Drink cup <b>1310</b> includes a body <b>1312</b>, a brim <b>1314</b>, and a body-strengthening system <b>1316</b>. Body-strengthening system <b>1316</b> is coupled to body <b>1312</b> between floor <b>1318</b> and brim <b>1314</b> and is configured to provide means for minimizing a weight of drink cup <b>1310</b> while maximizing the rigidity of a selected portion of drink cup <b>1310</b> so that unintended deformation of drink cup <b>1310</b> is minimized.</p>
+<p id="p-0099" num="0086">Body <b>1312</b> includes floor <b>1318</b>, side wall <b>1320</b>, and stack shoulder <b>1324</b> as shown in <figref idref="DRAWINGS">FIG. <b>19</b></figref>. Floor <b>1318</b> cooperates with side wall <b>1320</b> to define interior region <b>1322</b> to hold fluid therein. Side wall <b>1320</b> extends away from floor <b>1318</b> towards brim <b>1314</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>19</b></figref>. Stack shoulder <b>1324</b> extends between and interconnects side wall <b>1320</b> and brim <b>1314</b>, as shown in <figref idref="DRAWINGS">FIG. <b>19</b></figref>.</p>
+<p id="p-0100" num="0087">Body-strengthening system <b>1316</b> includes a first strengthening unit <b>1326</b> and a second strengthening unit <b>1328</b>, as shown in <figref idref="DRAWINGS">FIG. <b>19</b></figref>. First strengthening unit <b>1326</b> extends between and interconnects an upper portion <b>1320</b>A of side wall <b>1320</b> and a lower portion <b>1320</b>C of side wall <b>1320</b>, as shown in <figref idref="DRAWINGS">FIG. <b>19</b></figref>. Second strengthening unit <b>1328</b> extends between and interconnects an upper portion <b>1320</b>A of side wall <b>1320</b> and stack shoulder <b>1324</b> as shown in <figref idref="DRAWINGS">FIG. <b>19</b></figref>. First strengthening unit <b>1326</b> and second strengthening unit <b>1328</b> cooperate to increase rigidity for a portion of side wall <b>1320</b>.</p>
+<p id="p-0101" num="0000">
+<tables id="TABLE-US-00013" num="00013">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 13</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 1310.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>1351</entry>
+<entry>4.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1352</entry>
+<entry>8.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1353</entry>
+<entry>4.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1354</entry>
+<entry>4.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1355</entry>
+<entry>3.7&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1356</entry>
+<entry>1.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1357</entry>
+<entry>3.5&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1358</entry>
+<entry>3.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1359</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1360</entry>
+<entry>3.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1361</entry>
+<entry>6.0&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>1362</entry>
+<entry>3.0&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00013">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0102" num="0088">Another embodiment of a drink cup <b>1410</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>20</b></figref>. Drink cup <b>1410</b> includes a body <b>1412</b>, a brim <b>1414</b>, and a body-strengthening system <b>1416</b>. Body-strengthening system <b>1416</b> is coupled to body <b>1412</b> between floor <b>1418</b> and brim <b>1414</b> and is configured to provide means for minimizing a weight of drink cup <b>1410</b> while maximizing the rigidity of a selected portion of drink cup <b>1410</b> so that unintended deformation of drink cup <b>1410</b> is minimized.</p>
+<p id="p-0103" num="0089">Body <b>1412</b> includes floor <b>1418</b>, side wall <b>1420</b>, and stack shoulder <b>1424</b> as shown in <figref idref="DRAWINGS">FIG. <b>20</b></figref>. Floor <b>1418</b> cooperates with side wall <b>1420</b> to define interior region <b>1422</b> to hold fluid therein. Side wall <b>1420</b> extends away from floor <b>1418</b> towards brim <b>1414</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>20</b></figref>. Stack shoulder <b>1424</b> extends between and interconnects side wall <b>1420</b> and brim <b>1414</b>, as shown in <figref idref="DRAWINGS">FIG. <b>20</b></figref>.</p>
+<p id="p-0104" num="0090">Body-strengthening system <b>1416</b> is located between an upper portion <b>1420</b>A of side wall <b>1420</b> and a lower portion <b>1420</b>C of side wall <b>1420</b>, as shown in <figref idref="DRAWINGS">FIG. <b>20</b></figref>. Body-strengthening system <b>1416</b> is configured to increase rigidity for a portion of side wall <b>1420</b>.</p>
+<p id="p-0105" num="0000">
+<tables id="TABLE-US-00014" num="00014">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 14</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 1410.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>1451</entry>
+<entry>4.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1452</entry>
+<entry>4.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1453</entry>
+<entry>3.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1454</entry>
+<entry>2.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1455</entry>
+<entry>3.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1456</entry>
+<entry>1.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1457</entry>
+<entry>3.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1458</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1459</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1460</entry>
+<entry>1.5&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1461</entry>
+<entry>9.2&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>1462</entry>
+<entry>6.0&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00014">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0106" num="0091">Another embodiment of a drink cup <b>1510</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>21</b></figref>. Drink cup <b>1510</b> includes a body <b>1512</b>, a brim <b>1514</b>, and a body-strengthening system <b>1516</b>. Body-strengthening system <b>1516</b> is coupled to body <b>1512</b> between floor <b>1518</b> and brim <b>1514</b> and is configured to provide means for minimizing a weight of drink cup <b>1510</b> while maximizing the rigidity of a selected portion of drink cup <b>1510</b> so that unintended deformation of drink cup <b>1510</b> is minimized.</p>
+<p id="p-0107" num="0092">Body <b>1512</b> includes floor <b>1518</b>, side wall <b>1520</b>, and stack shoulder <b>1524</b> as shown in <figref idref="DRAWINGS">FIG. <b>21</b></figref>. Floor <b>1518</b> cooperates with side wall <b>1520</b> to define interior region <b>1522</b> to hold fluid therein. Side wall <b>1520</b> extends away from floor <b>1518</b> towards brim <b>1514</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>21</b></figref>. Stack shoulder <b>1524</b> extends between and interconnects side wall <b>1520</b> and brim <b>1514</b>, as shown in <figref idref="DRAWINGS">FIG. <b>21</b></figref>.</p>
+<p id="p-0108" num="0093">Body-strengthening system <b>1516</b> is located between an upper portion <b>1520</b>A of side wall <b>1520</b> and a lower portion <b>1520</b>C of side wall <b>1520</b>, as shown in <figref idref="DRAWINGS">FIG. <b>21</b></figref>. Body-strengthening system <b>1516</b> is configured to increase rigidity for a portion of side wall <b>1520</b>.</p>
+<p id="p-0109" num="0000">
+<tables id="TABLE-US-00015" num="00015">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 15</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 1510.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>1551</entry>
+<entry>4.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1552</entry>
+<entry>6.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1553</entry>
+<entry>3.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1554</entry>
+<entry>3.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1555</entry>
+<entry>3.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1556</entry>
+<entry>1.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1557</entry>
+<entry>3.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1558</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1559</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1560</entry>
+<entry>2.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1561</entry>
+<entry>7.2&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>1562</entry>
+<entry>4.0&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00015">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0110" num="0094">Another embodiment of a drink cup <b>1610</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>22</b></figref>. Drink cup <b>1610</b> includes a body <b>1612</b>, a brim <b>1614</b>, and a body-strengthening system <b>1616</b>. Body-strengthening system <b>1616</b> is coupled to body <b>1612</b> between floor <b>1618</b> and brim <b>1614</b> and is configured to provide means for minimizing a weight of drink cup <b>1610</b> while maximizing the rigidity of a selected portion of drink cup <b>1610</b> so that unintended deformation of drink cup <b>1610</b> is minimized.</p>
+<p id="p-0111" num="0095">Body <b>1612</b> includes floor <b>1618</b>, side wall <b>1620</b>, and stack shoulder <b>1624</b> as shown in <figref idref="DRAWINGS">FIG. <b>22</b></figref>. Floor <b>1618</b> cooperates with side wall <b>1620</b> to define interior region <b>1622</b> to hold fluid therein. Side wall <b>1620</b> extends away from floor <b>1618</b> towards brim <b>1614</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>22</b></figref>. Stack shoulder <b>1624</b> extends between and interconnects side wall <b>1620</b> and brim <b>1614</b>, as shown in <figref idref="DRAWINGS">FIG. <b>22</b></figref>.</p>
+<p id="p-0112" num="0096">Body-strengthening system <b>1616</b> is located between an upper portion <b>1620</b>A of side wall <b>1620</b> and a lower portion <b>1620</b>C of side wall <b>1620</b>, as shown in <figref idref="DRAWINGS">FIG. <b>22</b></figref>. Body-strengthening system <b>1616</b> is configured to increase rigidity for a portion of side wall <b>1620</b>.</p>
+<p id="p-0113" num="0000">
+<tables id="TABLE-US-00016" num="00016">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 16</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 1610.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>1651</entry>
+<entry>4.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1652</entry>
+<entry>8.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1653</entry>
+<entry>3.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1654</entry>
+<entry>4.5&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1655</entry>
+<entry>3.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1656</entry>
+<entry>2.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1657</entry>
+<entry>3.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1658</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1659</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1660</entry>
+<entry>2.5&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1661</entry>
+<entry>6.0&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>1662</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00016">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0114" num="0097">Another embodiment of a drink cup <b>1710</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>23</b></figref>. Drink cup <b>1710</b> includes a body <b>1712</b>, a brim <b>1714</b>, and a body-strengthening system <b>1716</b>. Body-strengthening system <b>1716</b> is coupled to body <b>1712</b> between floor <b>1718</b> and brim <b>1714</b> and is configured to provide means for minimizing a weight of drink cup <b>1710</b> while maximizing the rigidity of a selected portion of drink cup <b>1710</b> so that unintended deformation of drink cup <b>1710</b> is minimized.</p>
+<p id="p-0115" num="0098">Body <b>1712</b> includes floor <b>1718</b>, side wall <b>1720</b>, and stack shoulder <b>1724</b> as shown in <figref idref="DRAWINGS">FIG. <b>23</b></figref>. Floor <b>1718</b> cooperates with side wall <b>1720</b> to define interior region <b>1722</b> to hold fluid therein. Side wall <b>1720</b> extends away from floor <b>1718</b> towards brim <b>1714</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>23</b></figref>. Stack shoulder <b>1724</b> extends between and interconnects side wall <b>1720</b> and brim <b>1714</b>, as shown in <figref idref="DRAWINGS">FIG. <b>23</b></figref>.</p>
+<p id="p-0116" num="0099">Body-strengthening system <b>1716</b> is located between an upper portion <b>1720</b>A of side wall <b>1620</b> and a lower portion <b>1720</b>C of side wall <b>1720</b>, as shown in <figref idref="DRAWINGS">FIG. <b>23</b></figref>. Body-strengthening system <b>1716</b> is configured to increase rigidity for a portion of side wall <b>1720</b>.</p>
+<p id="p-0117" num="0000">
+<tables id="TABLE-US-00017" num="00017">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 17</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 1710.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="left"/>
+<colspec colname="3" colwidth="133pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="left"/>
+<colspec colname="3" colwidth="133pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>1751</entry>
+<entry>4.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1752</entry>
+<entry>6.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1753</entry>
+<entry>4.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1754</entry>
+<entry>3.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1755</entry>
+<entry>3.7&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1756</entry>
+<entry>2.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1757</entry>
+<entry>3.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1758</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1759</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1760</entry>
+<entry>2.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1761</entry>
+<entry>10.0&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>1762</entry>
+<entry>4.8&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00017">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0118" num="0100">Another embodiment of a drink cup <b>1810</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>24</b></figref>. Drink cup <b>1810</b> includes a body <b>1812</b>, a brim <b>1814</b>, and a body-strengthening system <b>1816</b>. Body-strengthening system <b>1816</b> is coupled to body <b>1812</b> between floor <b>1818</b> and brim <b>1814</b> and is configured to provide means for minimizing a weight of drink cup <b>1810</b> while maximizing the rigidity of a selected portion of drink cup <b>1810</b> so that unintended deformation of drink cup <b>1810</b> is minimized.</p>
+<p id="p-0119" num="0101">Body <b>1812</b> includes floor <b>1818</b>, side wall <b>1820</b>, and stack shoulder <b>1824</b> as shown in <figref idref="DRAWINGS">FIG. <b>24</b></figref>. Floor <b>1818</b> cooperates with side wall <b>1820</b> to define interior region <b>1822</b> to hold fluid therein. Side wall <b>1820</b> extends away from floor <b>1818</b> towards brim <b>1814</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>24</b></figref>. Stack shoulder <b>1824</b> extends between and interconnects side wall <b>1820</b> and brim <b>1814</b>, as shown in <figref idref="DRAWINGS">FIG. <b>24</b></figref>.</p>
+<p id="p-0120" num="0102">Body-strengthening system <b>1816</b> is located between an upper portion <b>1820</b>A of side wall <b>1820</b> and a lower portion <b>1820</b>C of side wall <b>1820</b>, as shown in <figref idref="DRAWINGS">FIG. <b>24</b></figref>. Body-strengthening system <b>1816</b> is configured to increase rigidity for a portion of side wall <b>1820</b>.</p>
+<p id="p-0121" num="0000">
+<tables id="TABLE-US-00018" num="00018">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 18</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 1810.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>1851</entry>
+<entry>4.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1852</entry>
+<entry>7.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1853</entry>
+<entry>4.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1854</entry>
+<entry>3.5&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1855</entry>
+<entry>3.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1856</entry>
+<entry>2.3&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1857</entry>
+<entry>3.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1858</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1859</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1860</entry>
+<entry>2.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1861</entry>
+<entry>9.4&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>1862</entry>
+<entry>4.8&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00018">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0122" num="0103">Another embodiment of a drink cup <b>1910</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>25</b></figref>. Drink cup <b>1910</b> includes a body <b>1912</b>, a brim <b>1914</b>, and a body-strengthening system <b>1916</b>. Body-strengthening system <b>1916</b> is coupled to body <b>1912</b> between floor <b>1918</b> and brim <b>1914</b> and is configured to provide means for minimizing a weight of drink cup <b>1910</b> while maximizing the rigidity of a selected portion of drink cup <b>1910</b> so that unintended deformation of drink cup <b>1910</b> is minimized.</p>
+<p id="p-0123" num="0104">Body <b>1912</b> includes floor <b>1918</b>, side wall <b>1920</b>, and stack shoulder <b>1924</b> as shown in <figref idref="DRAWINGS">FIG. <b>25</b></figref>. Floor <b>1918</b> cooperates with side wall <b>1920</b> to define interior region <b>1922</b> to hold fluid therein. Side wall <b>1920</b> extends away from floor <b>1918</b> towards brim <b>1914</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>25</b></figref>. Stack shoulder <b>1924</b> extends between and interconnects side wall <b>1920</b> and brim <b>1914</b>, as shown in <figref idref="DRAWINGS">FIG. <b>25</b></figref>.</p>
+<p id="p-0124" num="0105">Body-strengthening system <b>1916</b> is located between an upper portion <b>1920</b>A of side wall <b>1920</b> and a lower portion <b>1920</b>C of side wall <b>1920</b>, as shown in <figref idref="DRAWINGS">FIG. <b>25</b></figref>. Body-strengthening system <b>1916</b> is configured to increase rigidity for a portion of side wall <b>1920</b>.</p>
+<p id="p-0125" num="0000">
+<tables id="TABLE-US-00019" num="00019">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 19</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 1910.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>1951</entry>
+<entry>4.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1952</entry>
+<entry>7.7&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1953</entry>
+<entry>4.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1954</entry>
+<entry>3.7&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1955</entry>
+<entry>3.7&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1956</entry>
+<entry>2.7&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1957</entry>
+<entry>3.4&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1958</entry>
+<entry>2.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1959</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1960</entry>
+<entry>2.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>1961</entry>
+<entry>8.8&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>1962</entry>
+<entry>4.0&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00019">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0126" num="0106">Another embodiment of a drink cup <b>2010</b> in accordance with the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>26</b></figref>. Drink cup <b>2010</b> includes a body <b>2012</b>, a brim <b>2014</b>, and a body-strengthening system <b>2016</b>. Body-strengthening system <b>2016</b> is coupled to body <b>2012</b> between floor <b>2018</b> and brim <b>2014</b> and is configured to provide means for minimizing a weight of drink cup <b>2010</b> while maximizing the rigidity of a selected portion of drink cup <b>2010</b> so that unintended deformation of drink cup <b>2010</b> is minimized.</p>
+<p id="p-0127" num="0107">Body <b>2012</b> includes floor <b>2018</b>, side wall <b>2020</b>, and stack shoulder <b>2024</b> as shown in <figref idref="DRAWINGS">FIG. <b>26</b></figref>. Floor <b>2018</b> cooperates with side wall <b>2020</b> to define interior region <b>2022</b> to hold fluid therein. Side wall <b>2020</b> extends away from floor <b>2018</b> towards brim <b>2014</b> along central axis A<b>1</b> as shown in <figref idref="DRAWINGS">FIG. <b>26</b></figref>. Stack shoulder <b>2024</b> extends between and interconnects side wall <b>2020</b> and brim <b>2014</b>, as shown in <figref idref="DRAWINGS">FIG. <b>26</b></figref>.</p>
+<p id="p-0128" num="0108">Body-strengthening system <b>2016</b> is located between an upper portion <b>2020</b>A of side wall <b>2020</b> and a lower portion <b>2020</b>C of side wall <b>2020</b>, as shown in <figref idref="DRAWINGS">FIG. <b>26</b></figref>. Body-strengthening system <b>2016</b> is configured to increase rigidity for a portion of side wall <b>2020</b>.</p>
+<p id="p-0129" num="0000">
+<tables id="TABLE-US-00020" num="00020">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 20</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Dimensions of drink cup 2010.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dimension</entry>
+<entry>Measurement</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>2051</entry>
+<entry>4.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>2052</entry>
+<entry>8.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>2053</entry>
+<entry>4.2&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>2054</entry>
+<entry>4.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>2055</entry>
+<entry>3.8&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>2056</entry>
+<entry>2.9&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>2057</entry>
+<entry>3.6&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>2058</entry>
+<entry>3.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>2059</entry>
+<entry>0.1&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>2060</entry>
+<entry>3.0&#x2033;</entry>
+</row>
+<row>
+<entry/>
+<entry>2061</entry>
+<entry>4.5&#xb0;</entry>
+</row>
+<row>
+<entry/>
+<entry>2062</entry>
+<entry>3.0&#xb0;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00020">*all dimensions are approximate</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0130" num="0109">In one example, a drink cup in accordance with the present disclosure includes, from top bottom, a brim, a stack shoulder, an upper portion of a side wall, a second strengthening unit, a middle portion of the side wall, a first strengthening unit, a lower portion of the side wall, and a floor. The drink cup may have several different rigidities as measured by Example 2 below. The drink cup may have several different masses.</p>
+<p id="p-0131" num="0110">In one example, a drink cup in accordance with the present disclosure may have a mass less than about 17 grams, 16.5 grams, 16. 1 grams, and 16 grams. The drink cup may have a stack-shoulder rigidity measured at the stack shoulder of greater than about 700 grams, 750 grams, 800 grams, 850 grams, and 875 grams. In another example, the drink cup may have a middle-portion rigidity measured at the middle portion greater than about 350 grams, greater than 400 grams, 410 grams, 420 grams, 430 grams, 440 grams, and 450 grams. In another example, the drink cup may have a strengthening-unit rigidity measured at the first strengthening unit of greater than about 600 grams, 700 grams, 800 grams, 900 grams, 1,000 grams, 1,025 grams, and 1,050 grams. In another example, the drink cup has a mass of about 16.5 grams, a stack-shoulder rigidity of about 875 grams, a middle-portion rigidity of about 450 grams, and a strengthening-unit rigidity of about 1045 grams.</p>
+<p id="p-0132" num="0111">A drink cup in accordance with the present disclosure may have a ratio of mass to stack-shoulder rigidity of less than about 0.019. The drink cup may have a ratio of mass to middle-portion rigidity of less than about 0.368. The drink cup may have a ratio of mass to strengthening-unit rigidity of less than about 0.016.</p>
+<heading id="h-0006" level="1">EXAMPLES</heading>
+<heading id="h-0007" level="1">Example 1</heading>
+<p id="p-0133" num="0112">Formulations</p>
+<p id="p-0134" num="0113">Drink Cup formulation <b>1</b> comprises</p>
+<p id="p-0135" num="0114">100% INSPIRE 6025N polypropylene resin available from Braskem</p>
+<p id="p-0136" num="0115">Drink cup formulation <b>2</b> comprises</p>
+<p id="p-0137" num="0116">Pro-fax SC204 polypropylene resin available from LyondellBasell</p>
+<p id="p-0138" num="0117">HiCal&#x2122;LC CaCO<sub>3 </sub>available from Heritage Plastic</p>
+<p id="p-0139" num="0118">Drink Cup formulation <b>3</b> comprises</p>
+<p id="p-0140" num="0119">20% INSPIRE 6025N available from Braskem</p>
+<p id="p-0141" num="0120">80% Pro-fax SC204 available from LyondellBasell</p>
+<p id="p-0142" num="0121">Each Drink Cup formulation is combined via blending and formed into a sheet. The formed sheet is then introduced to a thermoforming process to form drink cups <b>10</b>.</p>
+<heading id="h-0008" level="1">Example 2</heading>
+<p id="p-0143" num="0122">Rigidity Test</p>
+<p id="p-0144" num="0123">General Procedure</p>
+<p id="p-0145" num="0124">Rigidity testing determines how resistant drink cups are to deformation. Various drink cups <b>10</b> in accordance with the present disclosure were subjected to rigidity testing. Each drink cup was placed in a rigidity tester as shown in <figref idref="DRAWINGS">FIG. <b>27</b></figref> and tested to determine rigidity as shown below in Tables 21 and 22. Each drink cup was unlidded and unfilled during testing. Testing involved placing a drink cup <b>10</b> in a rigidity tester <b>99</b> as shown in <figref idref="DRAWINGS">FIG. <b>27</b></figref>. The rigidity tester <b>99</b> included a stationary stop <b>99</b><i>a </i>on a left side, and a movable anvil <b>99</b><i>b </i>and a force gauge <b>99</b><i>c </i>on a right side. The movable anvil was generally T-shaped as shown in <figref idref="DRAWINGS">FIG. <b>27</b></figref>. Rigidity was measured at locations corresponding to the stack shoulder, the middle portion of the side wall, and the first strengthening unit of drink cup <b>10</b>. Reference cups not containing the body-strengthening system were measured in the same locations as drink cup <b>10</b>.</p>
+<heading id="h-0009" level="1">Example 3</heading>
+<p id="p-0146" num="0125">Rigidity Results</p>
+<p id="p-0147" num="0126">Drink cups and reference cups formed from a thermoforming process using material corresponding to the formulations of Example 1 were analyzed according to Example 2. Approximately 6 cups were sampled from each run. Results from the rigidity testing are shown below in Table 21.</p>
+<p id="p-0148" num="0000">
+<tables id="TABLE-US-00021" num="00021">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="287pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 21</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Rigidity results from drink cups and reference cups formed on tool lines.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="63pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Stack Shoulder</entry>
+<entry>Middle</entry>
+<entry>First strengthening</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Rigidity</entry>
+<entry>Rigidity</entry>
+<entry>unit rigidity</entry>
+</row>
+<row>
+<entry>Line</entry>
+<entry>Description</entry>
+<entry>Formulation</entry>
+<entry>Weight (g)</entry>
+<entry>(g)</entry>
+<entry>(g)</entry>
+<entry>(g)</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="21pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="char" char="."/>
+<colspec colname="4" colwidth="42pt" align="char" char="."/>
+<colspec colname="5" colwidth="49pt" align="char" char="."/>
+<colspec colname="6" colwidth="28pt" align="char" char="."/>
+<colspec colname="7" colwidth="63pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>A</entry>
+<entry>Drink Cup</entry>
+<entry>1</entry>
+<entry>16.1</entry>
+<entry>1862</entry>
+<entry>1093</entry>
+<entry>2029</entry>
+</row>
+<row>
+<entry>B</entry>
+<entry>Drink Cup</entry>
+<entry>2</entry>
+<entry>16.0</entry>
+<entry>1820</entry>
+<entry>1016</entry>
+<entry>1630</entry>
+</row>
+<row>
+<entry>C</entry>
+<entry>Reference </entry>
+<entry>1</entry>
+<entry>16.1</entry>
+<entry>814</entry>
+<entry>883</entry>
+<entry>1569</entry>
+</row>
+<row>
+<entry/>
+<entry>Cup</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>D</entry>
+<entry>Reference </entry>
+<entry>2</entry>
+<entry>20.3</entry>
+<entry>417</entry>
+<entry>354</entry>
+<entry>410</entry>
+</row>
+<row>
+<entry/>
+<entry>Cup</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0010" level="1">Example 4</heading>
+<p id="p-0149" num="0127">Rigidity Results from production lines</p>
+<p id="p-0150" num="0128">Drink cups and reference cups formed from a thermoforming process using material corresponding to the formulations of Example 1 were analyzed according to Example 2. Approximately 6 cups were sampled from each run. Results from the rigidity testing are shown below in Table 22.</p>
+<p id="p-0151" num="0000">
+<tables id="TABLE-US-00022" num="00022">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="259pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 22</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Rigidity results from drink cups and</entry>
+</row>
+<row>
+<entry>reference cups formed on production lines.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="56pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Stack</entry>
+<entry/>
+<entry>First</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Shoulder</entry>
+<entry>Middle</entry>
+<entry>strengthening</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Weight</entry>
+<entry>Rigidity</entry>
+<entry>Rigidity</entry>
+<entry>unit rigidity</entry>
+</row>
+<row>
+<entry>Line</entry>
+<entry>Description</entry>
+<entry>Formulation</entry>
+<entry>(g)</entry>
+<entry>(g)</entry>
+<entry>(g)</entry>
+<entry>(g)</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="21pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="right"/>
+<colspec colname="5" colwidth="14pt" align="left"/>
+<colspec colname="6" colwidth="35pt" align="char" char="."/>
+<colspec colname="7" colwidth="28pt" align="char" char="."/>
+<colspec colname="8" colwidth="56pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>P1</entry>
+<entry>Drink Cup</entry>
+<entry>3</entry>
+<entry>16.5</entry>
+<entry>g</entry>
+<entry>876</entry>
+<entry>448</entry>
+<entry>1044</entry>
+</row>
+<row>
+<entry>P1</entry>
+<entry>Reference </entry>
+<entry>3</entry>
+<entry>16.2</entry>
+<entry>g</entry>
+<entry>697</entry>
+<entry>354</entry>
+<entry>561</entry>
+</row>
+<row>
+<entry/>
+<entry>Cup</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>P2</entry>
+<entry>Reference </entry>
+<entry>3 plus</entry>
+<entry>20.7</entry>
+<entry>g</entry>
+<entry/>
+<entry>395</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Cup</entry>
+<entry>regrind</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>P1</entry>
+<entry>Reference </entry>
+<entry>3</entry>
+<entry>18.5</entry>
+<entry>g</entry>
+<entry>722</entry>
+<entry>485</entry>
+<entry>856</entry>
+</row>
+<row>
+<entry/>
+<entry>Cup</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. A drink cup comprising
+<claim-text>a body including a floor and a side wall coupled to the floor to extend upwardly away from the floor and spaced from a central axis to define an interior region configured to provide a fluid-holding reservoir, the side wall including a lower portion and an upper portion each spaced apart from one another vertically along the central axis,</claim-text>
+<claim-text>a brim coupled to the body to locate the side wall between the brim and the floor and formed to include an opening into the interior region,</claim-text>
+<claim-text>a stack shoulder located between the upper portion of the side wall and the brim, and</claim-text>
+<claim-text>a strengthening unit located between the lower portion of the side wall and the upper portion of the side wall and including a first annular strip that extends radially away from the central axis, a second annular strip spaced apart from the first annular strip and that extends radially outward away from the central axis, and an annular band that extends between and interconnects radially outer ends of the first annular strip and the second annular strip,</claim-text>
+<claim-text>wherein the strengthening unit is located below a point located halfway between the floor and the brim along the central axis and the stack shoulder is located closer to the brim than the point located halfway between the floor and the brim along the central axis.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The drink cup of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the strengthening unit includes a lower strengthening segment and an upper strengthening segment, the lower strengthening segment having the first annular strip, the second annular strip, and the annular band, the upper strengthening segment located vertically between the lower strengthening segment and the stack shoulder.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The drink cup of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein a radially inner end of the first annular strip of the strengthening unit is spaced a first distance from the central axis and a radially inner end of the second annular strip of the strengthening unit is spaced a second distance from the central axis less than the first distance.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The drink cup of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the lower-strengthening segment includes an annular band that has a distance from the central axis that is greater than a distance from the central axis to the lower portion of the side wall and a distance from the central axis to the middle portion of the side wall.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The drink cup of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the upper-strengthening unit includes a first annular strip coupled directly to the upper portion of the side wall and that extends radially outward away from the central axis and an annular band that extends downwardly away from the first annular strip of the upper-strengthening unit and that is coupled directly to the first annular strip of the lower-strengthening unit.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The drink cup of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the annular band of the upper-strengthening unit is spaced apart from the central axis by a first distance and the annular band of the lower-strengthening unit is spaced apart from the central axis by a second distance greater than the first distance.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The drink cup of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the upper-strengthening unit has a first height measured from an upper end of the first annular strip of the upper-strengthening unit to a lower end of the annular band of the upper-strengthening unit and the lower-strengthening unit has a second height measured from an upper end of the first annular strip of the lower-strengthening unit to a lower end of the second annular strip of the lower-strengthening unit, the first height being less than the second height.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The drink cup of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein an upper end of the strengthening unit is spaced a first distance from the stack shoulder and a lower end of the strengthening unit is spaced a second distance from the floor, the first distance being greater than the second distance.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The drink cup of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the upper portion of the side wall increases in diameter constantly from strengthening unit to the stack shoulder.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The drink cup of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the lower portion of the side wall increases in diameter constantly from the floor to the strengthening unit.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The drink cup of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the lower portion of the side wall is arranged at a first angle relative to the central axis and the upper portion of the side wall is arranged at a second angle relative to the central axis, the second angle being less than the first angle.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The drink cup of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the drink cup has a mass, a stack-shoulder rigidity measured at the stack shoulder, and a strengthening-unit rigidity measured at the strengthening unit and a ratio of the mass to the stack-shoulder rigidity is less than 0.019.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The drink cup of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein a ratio of the mass to the strengthening-unit rigidity is less than 0.016.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The drink cup of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein a rigidity measured at the stack shoulder is greater than about 700 grams.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. A drink cup comprising
+<claim-text>a body including a floor and a side wall coupled to the floor to extend upwardly away from the floor and spaced from a central axis to define an interior region configured to provide a fluid-holding reservoir, the side wall including a lower portion and an upper portion each spaced apart from one another vertically along the central axis,</claim-text>
+<claim-text>a brim coupled to the body to locate the side wall between the brim and the floor and formed to include an opening into the interior region, and</claim-text>
+<claim-text>a body-strengthening system including a first strengthening unit coupled to the body between the floor and the brim and located between the lower portion of the side wall and the upper portion of the side wall, and a second strengthening unit located between the upper portion of the side wall and the brim,</claim-text>
+<claim-text>wherein the first strengthening unit is located below a point located halfway between the floor and the brim along the central axis and the second strengthening unit is located closer to the brim than the point located halfway between the floor and the brim along the central axis.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The drink cup of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein an upper end of the first strengthening unit is spaced a first distance from the second strengthening unit and a lower end of the first strengthening unit is spaced a second distance from the floor, the first distance being greater than the second distance.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The drink cup of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the upper portion of the side wall increases in diameter constantly from the first strengthening unit to the second strengthening unit.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The drink cup of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the lower portion of the side wall increases in diameter constantly from the floor to the first strengthening unit.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The drink cup of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the lower portion of the side wall is arranged at a first angle relative to the central axis and the upper portion of the side wall is arranged at a second angle relative to the central axis, the second angle being less than the first angle.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The drink cup of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the first strengthening unit includes a lower strengthening segment and an upper strengthening segment, the lower strengthening segment having the first annular strip, the second annular strip, and the annular band, and the upper strengthening segment is located vertically between the lower strengthening segment and the second strengthening unit and includes a first annular strip coupled directly to the upper portion of the side wall and that extends radially outward away from the central axis and an annular band that extends downwardly away from the first annular strip of the upper-strengthening unit and that is coupled directly to the first annular strip of the lower-strengthening unit.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

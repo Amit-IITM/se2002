@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225630A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225630</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18185053</doc-number>
+<date>20230316</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>FR</country>
+<doc-number>2107003</doc-number>
+<date>20210629</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>055</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>T</subclass>
+<main-group>7</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>055</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>06</class>
+<subclass>T</subclass>
+<main-group>7</main-group>
+<subgroup>0012</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>0042</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">Method for attenuating the noise in images resulting from multiple acquisitions by magnetic resonance imaging</invention-title>
+<us-related-documents>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>PCT/FR2022/051278</doc-number>
+<date>20220628</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18185053</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>OLEA MEDICAL</orgname>
+<address>
+<city>LA CIOTAT</city>
+<country>FR</country>
+</address>
+</addressbook>
+<residence>
+<country>FR</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>CASAGRANDA</last-name>
+<first-name>Stefano</first-name>
+<address>
+<city>Bussero (Milano)</city>
+<country>IT</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>PAPAGEORGAKIS</last-name>
+<first-name>Christos</first-name>
+<address>
+<city>La Ciotat</city>
+<country>FR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>ZUCCHELLI</last-name>
+<first-name>Mauro</first-name>
+<address>
+<city>ANTIBES</city>
+<country>FR</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>OLEA MEDICAL</orgname>
+<role>03</role>
+<address>
+<city>LA CIOTAT</city>
+<country>FR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A system and method for denoising experimental data originating from multiple acquisitions by a magnetic resonance imaging device, by analysis of selected principal components, to obtain a better compromise between the efficiency of the denoising and retention of the relevant information in the experimental data under consideration during their reconstruction to produce denoised experimental data. A selection criterion is based on the informative indicators quantifying the spatial information contained in images of scores associated with said principal components. The invention also provides for the capability to apply an adaptive filtering excluding the persistent spatial noise associated with each component selected.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="150.11mm" wi="149.78mm" file="US20230225630A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="213.70mm" wi="150.37mm" file="US20230225630A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="225.38mm" wi="154.94mm" file="US20230225630A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="220.39mm" wi="154.60mm" file="US20230225630A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="231.73mm" wi="156.63mm" file="US20230225630A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="227.41mm" wi="158.50mm" file="US20230225630A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="191.26mm" wi="155.96mm" file="US20230225630A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="231.14mm" wi="151.05mm" file="US20230225630A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="225.04mm" wi="154.35mm" file="US20230225630A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<p id="p-0002" num="0001">The invention relates to a method for attenuating the noise in (or &#x201c;denoising&#x201d;) images obtained by multiple acquisitions by means of an imaging device, for example a medical magnetic resonance imaging device.</p>
+<p id="p-0003" num="0002">Magnetic resonance imaging, also known by the abbreviation MRI, is based on an analysis of the response of a proton of a water molecule when it is excited in a magnetic field. This response depends on the environment of such a proton and makes it possible to differentiate between several types of tissues. A nuclear magnetic resonance imaging device <b>1</b> of an imaging analysis system S, as shown by way of non-limitative example in <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref>, is generally used. This delivers a plurality of sequences of digital images <b>12</b> of one or more parts of the body of a patient, by way of non-limitative examples the brain, the heart, the lungs. For this purpose, said device <b>1</b> applies a combination of high-frequency electromagnetic waves to the part of the body under consideration and measures the signal retransmitted by certain atoms, such as, by way of non-limitative example, hydrogen for nuclear magnetic resonance imaging. The device thus makes it possible to determine the magnetic properties and, consequently, the chemical composition of the biological tissues and therefore their natures, in each elementary volume, which is commonly named voxel, of the imaged volume. The magnetic resonance imaging device <b>1</b> is controlled with the aid of a console <b>2</b>. A user <b>6</b>, for example an operator, practitioner or researcher, can thus choose commands <b>11</b> for controlling the device <b>1</b>, on the basis of parameters or setpoints <b>16</b> entered by means of an input human-machine interface <b>8</b> of the analysis system. Such a human-machine interface <b>8</b> can consist for example of a computer keyboard, a pointing device, a touchscreen, a microphone or, more generally, any interface arranged to translate a gesture or an instruction given by a human <b>6</b> into control or configuration data. On the basis of information <b>10</b> produced by said device <b>1</b>, a plurality of sequences of digital images <b>12</b> of a part of a human or animal body is obtained. Such information <b>10</b> or images <b>12</b> will be named &#x201c;experimental data&#x201d; without distinction.</p>
+<p id="p-0004" num="0003">The sequences of images <b>12</b> can optionally be stored within a server <b>3</b>, i.e. a computer equipped with its own storage means, and constitute a medical file <b>13</b> of a patient. Such a file <b>13</b> can comprise images of different types, such as functional images highlighting the activity of the tissues or anatomical images reflecting the properties of the tissues. The sequences of images <b>12</b> or, more generally, the experimental data are analysed by a processing unit <b>4</b> arranged for this purpose. Such a processing unit <b>4</b> can, for example, consist of one or more microprocessors or microcontrollers implementing appropriate application program instructions loaded in storage means of the imaging analysis system S.</p>
+<p id="p-0005" num="0004">By &#x201c;storage means&#x201d; is meant any volatile, or advantageously non-volatile, computerized memory. Non-volatile storage is computerized memory the technology of which makes it possible to retain its data in the absence of an electrical power supply. It can contain data resulting from input entries, calculations, measurements and/or program instructions. The main non-volatile storage currently available is of the type capable of being written to electrically, such as EPROM (erasable programmable read-only memory) or also written to and erased electrically, such as EEPROM (electrically erasable programmable read-only memory), flash, SSD (solid-state drive), etc. Non-volatile storage is distinguished from the storage known as &#x201c;volatile&#x201d;, from which the data are lost in the absence of an electrical supply. The main types of volatile storage currently available are RAM (random access memory, also named &#x201c;read-write memory&#x201d;), DRAM (dynamic random-access memory, needing to be regularly refreshed), SRAM (static random-access memory, needing to be refreshed in this way when there is a loss of electrical power), DPRAM or VRAM (particularly suitable for video), etc. Hereinafter, &#x201c;data memory&#x201d; can be volatile or non-volatile according to the targeted application.</p>
+<p id="p-0006" num="0005">The processing unit <b>4</b> includes means for communicating with the outside world in order to collect the images. Said communication means make it possible moreover for the processing unit <b>4</b> to ultimately deliver a depiction, for example graphic and/or audible, of an estimation or quantification of a biomarker worked out by said processing unit <b>4</b> on the basis of the experimental data <b>10</b> and/or <b>12</b> obtained by magnetic resonance imaging, to a user <b>6</b> of the imaging analysis system S by means of an output human-machine interface <b>5</b>. Throughout the document, by &#x201c;output human-machine interface&#x201d; is meant any device, used on its own or in combination, making it possible to output or deliver a graphic, haptic or sound representation, or one which is more generally perceptible to humans, of a reconstructed physiological signal, in this particular case a biomarker, to a user <b>6</b> of a magnetic resonance imaging analysis system S. Such an output human-machine interface <b>5</b> can consist, non-exhaustively, of one or more screens, loudspeakers or other suitable alternative means. Said user <b>6</b> of the imaging analysis system S can thus confirm or invalidate a diagnosis, decide on a therapeutic action judged to be appropriate, go into more depth for research work, refine parameters for adjusting an item of measurement equipment, etc. Optionally, this user <b>6</b> can also configure the operation of the processing unit <b>4</b> or of the output human-machine interface <b>5</b>, by means of operating and/or acquisition parameters <b>16</b>. For example, it is thus possible to define display thresholds or to choose the estimated or quantified biomarkers, indicators or parameters for which it is desired to have a representation. For this purpose, the user makes use of the aforementioned input human-machine interface <b>8</b> or a second input interface provided therefor. Advantageously, the input <b>8</b> and output <b>5</b> human-machine interfaces can constitute only one and the same physical entity. Said input <b>8</b> and output <b>5</b> human-machine interfaces of the imaging analysis system can also be integrated in the acquisition console <b>2</b>. There is a variant, described with reference to <figref idref="DRAWINGS">FIG. <b>2</b></figref>, for which an imaging system, such as described previously, moreover includes a pre-processing unit <b>7</b> for analysing the sequences of images <b>12</b>, deducing therefrom experimental signals <b>15</b>, and delivering these latter to the processing unit <b>4</b> which is thus relieved of this task.</p>
+<p id="p-0007" num="0006">Several two-dimensional images or three-dimensional volumes can be acquired with or without modification of the adjustments and the parameters of the medical imaging system S. For example, in order to study the reaction timing on the arrival of a contrast agent, it is possible simply to repeat the acquisition without modifying the adjustments and the parameters of said system. On the other hand, other imaging techniques need to modify said adjustments and/or parameters in order to sample the desired parameter space.</p>
+<p id="p-0008" num="0007">Among the techniques or procedures based on magnetic resonance imaging, chemical exchange saturation transfer (CEST) imaging is distinguished. Such a technique consists of applying a radiofrequency pulse according to different determined resonant frequencies &#x3c9;, such that chemical species of interest reach a saturation state. Said determined resonant frequencies &#x3c9; are in fact respectively associated with different chemical species of interest, such as, non-limitatively, the amide group (&#x2014;NH), the amine group (&#x2014;NH2) or the hydroxyl group (&#x2014;OH). The labile hydrogen protons thereof, thus excited, are exchanged with non-excited hydrogen protons of water. Such an application of a radiofrequency pulse, at a determined resonant frequency &#x3c9; other than the one, &#x3c9;0, associated with water, repeated continually for a determined duration, for example a few seconds, leads to an accumulation of water saturation of a chemical species of interest. A concentration thereof can be measured indirectly by the decrease in the signal of water, the phenomenon called the &#x201c;CEST effect&#x201d;, which is analysed in the form of a Z-spectrum. Such a decrease can be easily detected by rapid magnetic resonance imaging acquisition sequences such as, non-exhaustively, single shot echo-planar imaging. <figref idref="DRAWINGS">FIG. <b>3</b></figref> shows, for a voxel V of interest, an example of a Z-spectrum in the form of a set of samples Zi(&#x394;&#x3c9;) (or data set) according to relative frequency shifts &#x394;&#x3c9; with respect to the frequency of water, such shifts &#x394;&#x3c9; being expressed in ppm. More specifically, said <figref idref="DRAWINGS">FIG. <b>3</b></figref> shows different images M(&#x2212;6 ppm), M(&#x2212;3.5 ppm), M(0 ppm), M(3.5 ppm), M(6 ppm) corresponding to frequency shifts &#x394;&#x3c9; respectively equal to &#x2212;6 ppm, 3.5 ppm, 0 ppm, 3.5 ppm and 6 ppm. It also shows an image M0 acquired for frequencies remote from the frequency of water. The Z(&#x394;&#x3c9;)-spectrum, which can be described as &#x201c;standardized&#x201d;, corresponds for a given voxel to the ratio M(&#x394;&#x3c9;) to M0, for frequency shifts comprised between &#x2212;6 ppm and 6 ppm. When the samples Zi(&#x394;&#x3c9;) are ordered according to increasing &#x394;&#x3c9;, as indicated in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, said Z-spectrum can be described in the form of a discrete signal describing m measurements, advantageously standardized by a signal measured without radiofrequency saturation and expressed as percentages, of the magnitude of an experimental signal delivered by a measurement device <b>1</b> for an elementary volume of an organ. According to <figref idref="DRAWINGS">FIG. <b>3</b></figref>, this set of m samples, when these latter are ordered according to increasing frequency shifts &#x394;&#x3c9;, constitutes a discrete Z signal substantially describing a &#x2018;V&#x2019; the minimum Zi(&#x394;&#x3c9;)m of which is associated with the frequency shift &#x394;&#x3c9;=0 ppm, when the device is perfectly adjusted and/or when the static magnetic field is homogenous.</p>
+<p id="p-0009" num="0008">The CEST technique improves the detection of certain metabolites of the human body, the concentration of which is insufficient to be detected by traditional magnetic resonance imaging sequences. This CEST technique thus makes it possible to obtain invaluable information for a practitioner seeking to establish a diagnosis and to make a therapeutic decision in the treatment of pathologies.</p>
+<p id="p-0010" num="0009">Diffusion tensor imaging (DTI) may also be mentioned, for which data are acquired for different intensities (b values) and directions of the magnetic diffusion gradient. This category includes perfusion weighted imaging (PWI) and two of its main techniques: dynamic susceptibility contrast (DSC) and dynamic contrast enhanced (DCE). There is also the high angular resolution diffusion imaging (HARDI) technique.</p>
+<p id="p-0011" num="0010">In magnetic resonance imaging, the signal induced in a receiving coil is a continuous complex signal, i.e. it includes a real part and an imaginary part, acquired within a frequency domain commonly called &#x201c;k-space&#x201d;. The noise on such a signal can be described as a complex contribution, additional to and not correlated with said pure signal. Such a noise thus includes a real component and an imaginary component, independent of one another and distributed identically according to a Gaussian distribution with a zero mean and a standard deviation (cf. C&#xe1;rdenas-Blanco et al. 2008; Aja-Fern&#xe1;ndez and Vegas-S&#xe1;nchez-Ferrero 2016&#x2014;technical teaching accessible for example via the hyperlink &#x201c;https://doi.org/10.1007/978-3-319-39934-8&#x201d;). However, in this field it is usual to consider magnitude images rather than said complex signal. Given that the transformation of the complex signal into a magnitude signal recorded in the magnitude images is non-linear, the distribution of the intensities of the pixels in the resulting images is generally not Gaussian and, under certain conditions, it can be modelled by a Rice distribution, as detailed in the document C&#xe1;rdenas-Blanco, Arturo, Cristian Tejos, Pablo Irarrazaval, and Ian Cameron&#x2014;2008, &#x201c;Noise in Magnitude Magnetic Resonance Images&#x201d; <i>Concepts in Magnetic Resonance Part A </i>32A (6): 409-16, a document which can be consulted via the link &#x201c;https://doi.org/10.1002/cmr.a.20124&#x201d;.</p>
+<p id="p-0012" num="0011">In the field of magnetic resonance imaging, it is known to reduce or eliminate noise in or from the experimental data (i.e. the measured data). The terms &#x201c;to denoise&#x201d; or &#x201c;denoising&#x201d; are used to describe this operation which consists of excluding or filtering noise in order to consider only the important items of information within said experimental data. To this end, there are numerous methods making use of principal component analysis (PCA).</p>
+<p id="p-0013" num="0012">Principal component analysis is a non-parametric technique (i.e. without reference to any model) originally designed to reduce the dimensions of a data set, while retaining the fundamentals of said data. Such an approach is disclosed for example in the document Jolliffe, I. 2002. &#x201c;Principal Component Analysis&#x201d; Second Edition, Springer-Verlag, accessible via the link &#x201c;https://doi.org/10.1007/b98835&#x201d;. Such a method identifies and makes use of the linear correlations in the data under consideration and extracts therefrom a new non-correlated data set of smaller size, called &#x201c;principal components&#x201d;. These principal components thus extracted are ordered as a function of the variability (or variances) that they express. Thus, the first principal components describe the most informative part of the data, concentrating most of the data variance.</p>
+<p id="p-0014" num="0013">In simple terms, applied to imaging, the aim of principal component analysis is to identify the most significant basis in order to &#x201c;re-express&#x201d; noisy experimental data and constitute a denoised experimental data set, i.e. for which the noise has been filtered so as to reveal one or more structures of interest that may have been masked by said noise.</p>
+<p id="p-0015" num="0014">From a geometric point of view, the problem of PCA can be simplified as follows: for a given collection of (real) points in a space having m dimensions, finding q vectors for which:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0015">a j<sup>th </sup>vector represents a line of best fit through the points;</li>
+        <li id="ul0002-0002" num="0016">said j<sup>th </sup>vector being orthogonal to the j&#x2212;1 vectors calculated beforehand.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0016" num="0017">By &#x201c;best fit&#x201d; is meant finding a line or axis that minimizes the average quadratic distance from the points to the line. Such a fit is shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>. In the left-hand part of this figure, a scatter plot can be seen, inscribed within a two-dimensional frame of reference or basis, shown by the axes x1 and x2. In the right-hand part, it can be seen that the axis z1 is the line of best fit through said points, the data or points being capable of being projected into a new frame of reference or basis described by the axis z1 and the axis z2 normal to z1. The principal component z1 is characterized by the greater variance &#x3bb;1 that is also named &#x201c;eigenvalue&#x201d; or &#x201c;proper value&#x201d;. Thus, the set A of the respective eigenvalues A1 and A2 of the principal components z1 and z2 represents the quantities of items of information collected by said principal components or their respective informative capacities. The principal components z1 and z2 in <figref idref="DRAWINGS">FIG. <b>4</b></figref> are named &#x201c;eigenvectors&#x201d; &#x3d5;={&#x3c6;1, &#x3c6;2} or &#x201c;proper vectors&#x201d;.</p>
+<p id="p-0017" num="0018">Thus, a principal component analysis implies that:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0019">the experimental data of dimension m can be expressed in the form of linear combinations of vectors;</li>
+        <li id="ul0004-0002" num="0020">the variance &#x3bb; of each principal component indicates significant items of information;</li>
+        <li id="ul0004-0003" num="0021">the q principal components, forming the new basis or the new frame of reference, are orthogonal.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0018" num="0022"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows a known method for attenuating the noise in or &#x201c;denoising&#x201d; the experimental data in the form of standardized Z-spectra (each having m phases or frequencies) for a collection of n spatial sites (also called &#x201c;voxels&#x201d;) of a human brain. Thus, for a given voxel, the experimental data are a vector having m acquisitions or samples. Such a method <b>100</b> includes:
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0000">
+    <ul id="ul0006" list-style="none">
+        <li id="ul0006-0001" num="0023">a first step <b>110</b> of acquisition or collection of experimental data Z1 to Zn for a set of n voxels V1 to Vn having m different phases (or samples) from said voxel data in the form of a Casorati matrix C (matrix of n rows by m columns, for which each of the n rows contains m acquired values for a given voxel). The n rows are dedicated respectively to the different voxels of a segment or volume under consideration;</li>
+        <li id="ul0006-0002" num="0024">a step <b>120</b> for extracting or calculating the q=m principal components best describing this noisy experimental data set, in this case for a given voxel, the Zi-spectrum, such that:</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0019" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+ <mrow>
+  <mi>Zi</mi>
+  <mo>=</mo>
+  <mrow>
+   <mi>Za</mi>
+   <mo>+</mo>
+   <mrow>
+    <munderover>
+     <mo>&#x2211;</mo>
+     <mrow>
+      <mi>j</mi>
+      <mo>=</mo>
+      <mn>1</mn>
+     </mrow>
+     <mi>q</mi>
+    </munderover>
+    <mtext> </mtext>
+    <mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi>Zi</mi>
+       <mo>-</mo>
+       <mi>Za</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>&#x2062;</mo>
+     <msubsup>
+      <mi>&#x3c6;</mi>
+      <mi>j</mi>
+      <mi>T</mi>
+     </msubsup>
+     <mo>&#x2062;</mo>
+     <msub>
+      <mi>&#x3c6;</mi>
+      <mi>j</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0020" num="0025">Za being the mean of the Zi-spectrum; to this end the following calculation is performed:</p>
+<p id="p-0021" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>cov(<i>C</i>)=&#x3a6;<sup>T</sup>&#x39b;&#x3a6;<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0022" num="0000">&#x3d5; describing the eigenvectors (or proper vectors) of the principal components and &#x39b; their eigenvalues (or proper values); the q components, therefore their eigenvectors &#x3c6;1 to &#x3c6;q, extracted or calculated, are classified or ordered generally according to their respective variances or eigenvalues. The variance of a principal component of eigenvector &#x3c6;j is described by a scalar value &#x3bb;j, which is named &#x201c;eigenvalue&#x201d;;
+<ul id="ul0007" list-style="none">
+    <li id="ul0007-0001" num="0000">
+    <ul id="ul0008" list-style="none">
+        <li id="ul0008-0001" num="0026">a step <b>130</b> of determining the optimal number k&#x3c;q of principal components or, more specifically, of selecting the most significant or informative k components among the q components extracted, i.e. the k components describing items of spatial information of interest, as opposed to the q-k other components mainly describing noise, which should be discarded;</li>
+        <li id="ul0008-0002" num="0027">a step <b>140</b> of projecting the noisy experimental data onto the remaining k components to constitute a new denoised experimental data set, in this case in the example in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, a Zi&#x2032;-spectrum for a voxel of interest, such that:</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0023" num="0000">
+<maths id="MATH-US-00002" num="00002">
+<math overflow="scroll">
+ <mrow>
+  <msup>
+   <mi>Zi</mi>
+   <mo>&#x2032;</mo>
+  </msup>
+  <mo>=</mo>
+  <mrow>
+   <mi>Za</mi>
+   <mo>+</mo>
+   <mrow>
+    <munderover>
+     <mo>&#x2211;</mo>
+     <mrow>
+      <mi>j</mi>
+      <mo>=</mo>
+      <mn>1</mn>
+     </mrow>
+     <mi>k</mi>
+    </munderover>
+    <mtext> </mtext>
+    <mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi>Zi</mi>
+       <mo>-</mo>
+       <mi>Za</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>&#x2062;</mo>
+     <msubsup>
+      <mi>&#x3c6;</mi>
+      <mi>j</mi>
+      <mi>T</mi>
+     </msubsup>
+     <mo>&#x2062;</mo>
+     <msub>
+      <mi>&#x3c6;</mi>
+      <mi>j</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+<ul id="ul0009" list-style="none">
+    <li id="ul0009-0001" num="0000">
+    <ul id="ul0010" list-style="none">
+        <li id="ul0010-0001" num="0028">a step <b>150</b> of reorganizing the denoised experimental data Z1&#x2032; to Zn&#x2032; in the origin space of the voxels V1 to Vn and making use of all or part of said denoised experimental data Z1&#x2032;, Zi&#x2032;, . . . , to Zn&#x2032; according to the chosen application.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0024" num="0029">By way of example, as indicated in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, the noisy Zi-spectrum of a voxel under consideration appears, after such a method <b>100</b> has been implemented, in the form of a curve Zi&#x2032; that is &#x201c;smoother&#x201d; than that described by the &#x201c;raw&#x201d; experimental data Zi.</p>
+<p id="p-0025" num="0030">The step <b>120</b> has been described according to a first embodiment on the basis of the covariance matrix. In a variant, such a production of q principal components can consist, according to a second embodiment, of singular value decomposition (SVD) of a Casorati matrix C as mentioned above. According to this second embodiment, an item of experimental data, for example in the form of a Zi-spectrum, for a given voxel can be expressed in the form:</p>
+<p id="p-0026" num="0000">
+<maths id="MATH-US-00003" num="00003">
+<math overflow="scroll">
+ <mrow>
+  <mi>Zi</mi>
+  <mo>=</mo>
+  <mrow>
+   <mrow>
+    <mi>Za</mi>
+    <mo>+</mo>
+    <mrow>
+     <munderover>
+      <mo>&#x2211;</mo>
+      <mrow>
+       <mi>j</mi>
+       <mo>=</mo>
+       <mn>1</mn>
+      </mrow>
+      <mi>q</mi>
+     </munderover>
+     <mtext> </mtext>
+     <mrow>
+      <msub>
+       <mi>t</mi>
+       <mi>ij</mi>
+      </msub>
+      <mo>&#x2062;</mo>
+      <msub>
+       <mi>v</mi>
+       <mi>j</mi>
+      </msub>
+     </mrow>
+    </mrow>
+   </mrow>
+   <mo>=</mo>
+   <mrow>
+    <mi>Za</mi>
+    <mo>+</mo>
+    <mrow>
+     <msub>
+      <mi>t</mi>
+      <mi>i</mi>
+     </msub>
+     <mo>&#x2062;</mo>
+     <msup>
+      <mi>V</mi>
+      <mi>t</mi>
+     </msup>
+    </mrow>
+   </mrow>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0027" num="0031">where Za is the mean spectrum, i.e. the mean of the values in the i<sup>th </sup>row of the Casorati matrix C, t<sub>i </sub>is a vector of q coefficients, hereinafter named &#x201c;scores&#x201d;, to describe the respective contributions of the principal components and V<sup>t </sup>is a matrix of q rows and q columns of said principal components. Thus, it is possible to rewrite the matrix C such that C=TV<sup>t</sup>+Za, which is calculated on the basis of a singular value decomposition of the matrix C such that C&#x2212;Za=USV<sup>t </sup>where U is a matrix of n rows and n columns describing the scores (or coefficients or also weights) of the principal components (u<sub>j </sub>describes the principal component scores of rank j), S is a matrix of n rows and q columns describing q non-zero values S<sub>1 </sub>to S<sub>q </sub>called &#x201c;singular values&#x201d; and V<sup>t </sup>is a matrix of m rows and m columns describing the new basis of the principal components.</p>
+<p id="p-0028" num="0032">The singular values of the matrix S are classified in decreasing order. It is noted that if the matrix C is transposed, its rows describing m variables and its columns n samples, then the respective interpretations of the matrices U and V are interchanged.</p>
+<p id="p-0029" num="0033">By identifying the terms in the preceding equations, it is possible to deduce that T=US is a matrix of the scores of the principal components multiplied by singular values, V<sup>t </sup>being the matrix of the principal components. Such a second embodiment of step <b>120</b> is mainly focused on analysis of the spatial information contained in each column of the matrix U or, similarly, of the matrix T. As mentioned above, such a step <b>120</b> can be based on the covariance matrix cov(C)=&#x3a6;<sup>T</sup>A&#x3a6; for which &#x3a6; describes the eigenvectors of the principal components and A their eigenvalues; the q components, therefore their eigenvectors &#x3c6;1 to &#x3c6;q, extracted or calculated, are generally classified or ordered according to their respective variances or eigenvalues &#x3bb;j. There is a direct relationship between the singular values according to the second embodiment and the eigenvalues according to the first embodiment obtained (i.e. on the basis of the covariance matrix) such that</p>
+<p id="p-0030" num="0000">
+<maths id="MATH-US-00004" num="00004">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mi>&#x3bb;</mi>
+   <mo>&#x2062;</mo>
+   <mi>j</mi>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+   <mfrac>
+    <msubsup>
+     <mi>s</mi>
+     <mi>j</mi>
+     <mn>2</mn>
+    </msubsup>
+    <mrow>
+     <mi>n</mi>
+     <mo>-</mo>
+     <mn>1</mn>
+    </mrow>
+   </mfrac>
+   <mo>.</mo>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0031" num="0034">In order to attenuate the noise in experimental data, in this case a noisy Zi-spectrum, said &#x201c;denoised&#x201d; item of experimental data is obtained by implementing the step <b>140</b> of projecting the noisy experimental data onto the k remaining components to constitute a new denoised experimental data set, in this case in the example in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, a Zi&#x2032;-spectrum for a voxel of interest, such that:</p>
+<p id="p-0032" num="0000">
+<maths id="MATH-US-00005" num="00005">
+<math overflow="scroll">
+ <mrow>
+  <msup>
+   <mi>Zi</mi>
+   <mo>&#x2032;</mo>
+  </msup>
+  <mo>=</mo>
+  <mrow>
+   <mrow>
+    <mi>Za</mi>
+    <mo>+</mo>
+    <mrow>
+     <munderover>
+      <mo>&#x2211;</mo>
+      <mrow>
+       <mi>j</mi>
+       <mo>=</mo>
+       <mn>1</mn>
+      </mrow>
+      <mi>k</mi>
+     </munderover>
+     <mtext> </mtext>
+     <mrow>
+      <msub>
+       <mi>t</mi>
+       <mi>ij</mi>
+      </msub>
+      <mo>&#x2062;</mo>
+      <msub>
+       <mi>v</mi>
+       <mi>j</mi>
+      </msub>
+     </mrow>
+    </mrow>
+   </mrow>
+   <mo>=</mo>
+   <mrow>
+    <mi>Za</mi>
+    <mo>+</mo>
+    <mrow>
+     <msubsup>
+      <mi>t</mi>
+      <mi>i</mi>
+      <mo>&#x2032;</mo>
+     </msubsup>
+     <mo>&#x2062;</mo>
+     <msup>
+      <mi>V</mi>
+      <mrow>
+       <mi>t</mi>
+       <mo>&#x2062;</mo>
+       <mo>&#x2032;</mo>
+      </mrow>
+     </msup>
+    </mrow>
+   </mrow>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0033" num="0000">for which ti&#x2032; is a vector of k scores and V<sup>t</sup>&#x2032; is a matrix of k rows and q columns of the principal components.</p>
+<p id="p-0034" num="0035">Among the steps of denoising by principal component analysis, step <b>130</b> of selecting the components is the most tricky. In order to obtain the items of spatial information hidden in the principal components, it is possible to remodel each principal component (i.e. the real values of the voxels projected onto an eigenvector) in its dimension of origin (i.e. in a volume or a slice) as shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>. Images PC1 to PC29 respectively associated with said principal components of ranks 1 to 29 describe the scores associated with the eigenvectors &#x3c6;1 to &#x3c6;29 for the set of voxels V1 to Vn under consideration according to the method used for production <b>120</b> of the principal components. Such scores correspond to the projection of the experimental data onto said twenty-nine principal components. For the sake of simplicity, the term &#x201c;score&#x201d; will be used to describe a contribution of a principal component, regardless of the method of production or extraction <b>120</b> of such a principal component. The principle of a principal component analysis, according to the state of the art, in a way amounts to seeking to best express the experimental signals or data of a set of voxels resulting from a multiple acquisition, in the form of linear combinations of principal components according to respective scores, said principal components being classified according to an order of predominance resulting directly from eigenvalues of said principal components or from singular values associated therewith. Thus, the image PC1 in <figref idref="DRAWINGS">FIG. <b>6</b></figref> depicts, like an image of a slice of a human brain, the scores of the first principal component, in order to reconstitute the experimental curves (Zi-spectra for i comprised between 1 and n) for n voxels under consideration. Similarly, the image PC2 in <figref idref="DRAWINGS">FIG. <b>6</b></figref> depicts, like an image of a slice of a human brain, the scores of the second principal component, in order to reconstitute the experimental curves of the voxels under consideration. In other words, the image PC2 in <figref idref="DRAWINGS">FIG. <b>6</b></figref> depicts said experimental data Z1 to Zn projected onto the second principal component. The same applies to images PC3 to PC29 describing respectively the scores of the third up to the twenty-ninth principal component for the voxels under consideration. This <figref idref="DRAWINGS">FIG. <b>6</b></figref> makes it possible to show the result of implementing step <b>120</b> described above. As can be seen with the naked eye, the first nine images PC1 to PC9 respectively associated with the principal components of ranks 1 to 9 appear to express, to a decreasing degree, a relevant item of spatial information, as opposed to the other images PC10 to PC29 respectively associated with the principal components of higher ranks, which no longer appear to indicate anything. Of course, the selection <b>130</b> of k significant principal components is not carried out with the naked eye but following an automated method.</p>
+<p id="p-0035" num="0036">The state of the art abounds with processes or methods using different models and mathematical hypotheses or statistics, combinations with other techniques and various criteria for determining an &#x201c;optimal&#x201d; sub-set of k components in numerous fields and applications. Among these, some have been used with success for the purposes of denoising or filtering in magnetic resonance imaging, by generally reconstructing the experimental data set using the informative components and excluding the components mainly associated with the noise. To this end, numerous approaches focused on the data have been proposed to determine the k principal components among q extracted principal components that it is appropriate to retain and q-k principal components to be excluded during the reconstruction of the experimental data to obtain denoised experimental data.</p>
+<p id="p-0036" num="0037">However, most of the selection criteria are based on the set A of the eigenvalues associated with the q principal components extracted, i.e. based on measurements of variances expressed by the original data set, component by component, or on the residuals, i.e. on the respective mathematical differences between the original data and the reconstructed data. In this respect, there may be mentioned non-exhaustively the document by Breitling, Johannes, Anagha Deshmane, Steffen Goerke, Andreas Korzowski, Kai Herz, Mark E. Ladd, Klaus Scheffler, Peter Bachert, and Moritz Zaiss&#x2014;2019&#x2014;&#x201c;Adaptive Denoising for Chemical Exchange Saturation Transfer MR Imaging&#x201d; NMR in Biomedicine, no. March 2019: 1-14, accessible through the link &#x201c;https://doi.org/10.1002/nbm.4133&#x201d;, the document by Kaiser, Henry F. 1958 &#x201c;The Varimax Criterion for Analytic Rotation in Factor Analysis.&#x201d; Psychometrika 23 (3): 187-200, accessible via the link https://doi.org/10.1007/BF02289233 or also the document by Valle, Sergio, Weihua Li, and S. Joe Qin. 1999 &#x201c;Selection of the Number of Principal Components: The Variance of the Reconstruction Error Criterion with a Comparison to Other Methods.&#x201d; Industrial and Engineering Chemistry Research 38 (11): 4389-4401, accessible through the link https://doi.org/10.1021/ie990110i). These publications present methods based on the eigenvalues of the principal components relying on the criteria of Malinowsky, Nelson and Median, applied to the denoising of in vivo CEST magnetic resonance imaging data.</p>
+<p id="p-0037" num="0038">Other methods have been proposed for denoising experimental diffusion MRI data. Some of these methods are based on random matrix theory, as disclosed for example in the document by Veraart, Jelle, Dmitry S. Novikov, Daan Christiaens, Benjamin Ades-aron, Jan Sijbers, and Els Fieremans&#x2014;2016&#x2014;&#x201c;Denoising of Diffusion MRI Using Random Matrix Theory.&#x201d; NeuroImage 142: 394-406, accessible via the link &#x201c;https://doi.org/10.1016/j.neuroimage.2016.08.016&#x201d;. Other methods are based on shrinkage of the singular value as described in the document by Ma, Xiaodong, Kamil Ugurbil, and Xiaoping Wu&#x2014;2020&#x2014;&#x201c;Denoise Magnitude Diffusion Magnetic Resonance Images via Variance-Stabilizing Transformation and Optimal Singular-Value Manipulation.&#x201d; NeuroImage 215 (July): 116852, accessible via the link &#x201c;https://doi.org/10.1016/j.neuroimage.2020.116852&#x201d; the mathematical principles of which are explained in the document by Gavish, Matan, and David L. Donoho&#x2014;2017&#x2014;&#x201c;Optimal Shrinkage of Singular Values.&#x201d; IEEE Transactions on Information Theory 63 (4): 2137-52, accessible via the link &#x201c;https://doi.org/10.1109/TIT.2017.2653801&#x201d;).</p>
+<p id="p-0038" num="0039">Like the known method shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, most of the methods proposed in the literature are based on the eigenvalues A in order to determine the k components to be retained and those to be excluded during the reconstruction of the data. Thus, as suggested in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, a step <b>130</b> consists of comparing, in this case by means of a logarithmic scale, the eigenvalues &#x3bb;j of the q principal components, j being comprised between 1 and q. Below a certain predetermined variance threshold, the principal components are considered as expressing little or no relevant items of information and are excluded. Only the first k principal components, i.e. those of which the variances or eigenvalues are greater than said threshold, are retained for use in step <b>140</b>. These methods have a major drawback, since they generally lead to disregarding hidden anatomical structures and items of pathological information in some discarded principal components. This drawback results directly from the use, as main selector, of the eigenvalues that are measurements of variance of the different principal components, blindly measuring the noise and the relevant items of information. The principal component analysis generally starts from the principle according to which the variance indicates the presence or absence of important items of information, which assumes that the experimental data analysed have a high signal-to-noise ratio, i.e. that the power of the signal of interest is greater than the power of the noise. This is a powerful and sometimes incorrect hypothesis, in particular for particularly noisy experimental magnetic resonance imaging data. Such a situation arises, for example, when the noise level in the experimental data delivered by a magnetic resonance imaging device is high, or when the signals of interest concern an anatomical or pathological area that is small with respect to the size of the images under consideration. Most of the methods proposed in the literature, based on the eigenvalues, thus discard principal components containing hidden anatomical structures or items of pathological information of interest, since the contributions of these areas to the eigenvalues of the associated components are small. Thus, a non-negligible quantity of relevant items of information is lost, since it is amalgamated with the noise according to the state of the art. Selecting the principal components cannot be carried out according to such criteria, which could be described as simplistic or trivial, in order to guarantee relevant use of the experimental data and deliver reliable indicators or biomarkers on the basis of denoised experimental data, as can be seen with reference to <figref idref="DRAWINGS">FIG. <b>12</b></figref> by way of example.</p>
+<p id="p-0039" num="0040">The invention responds to the drawbacks raised by the state of the art. Among the numerous advantages achieved by the invention, there may be mentioned more particularly that a denoising method according to the invention includes a step of selecting the principal components making it possible to obtain a better compromise between efficiency of denoising and retention of the relevant items of spatial information of the experimental data under consideration during their reconstruction in order to produce denoised experimental data. By way of example, a proposed selection criterion is based on the decrease of the variance of an image having a score associated with a principal component after application of a smoothing filter thereto. This technique makes it possible to make use of the hidden spatial information, in particular the anatomical structures and the items of pathological information, in all the principal components extracted or calculated, and makes it possible to select those making it possible to express important items of information, independently of one another and of their ordering resulting from their extraction or production, thus minimizing the risk of excluding relevant principal components. The invention also makes it possible to have available a filtering step that can be described as adaptive, i.e. making it possible to further denoise the experimental data under consideration, while excluding the persistent spatial noise associated with each principal component extracted, while also adapting the level of filtering of the principal components to the quantity of relevant items of information that each one of them makes it possible to express.</p>
+<p id="p-0040" num="0041">To this end, the invention provides a method for attenuating the noise in experimental data originating from multiple acquisitions by an imaging device pertaining to an elementary volume of interest, hereinafter named &#x201c;voxel&#x201d; of interest, among a plurality of voxels, said method being implemented by a processing unit of a medical imaging analysis system. Such a method includes:
+<ul id="ul0011" list-style="none">
+    <li id="ul0011-0001" num="0000">
+    <ul id="ul0012" list-style="none">
+        <li id="ul0012-0001" num="0042">a step of collecting said experimental data pertaining to the plurality of voxels;</li>
+        <li id="ul0012-0002" num="0043">a step of projecting the experimental data into a base of functions or vectors producing a set of q components as well as their respective scores for the plurality of voxels, said scores corresponding to the projection of said experimental data onto said q components;</li>
+        <li id="ul0012-0003" num="0044">a step of selecting first k components among the q components produced;</li>
+        <li id="ul0012-0004" num="0045">a step of projecting said experimental data onto the k components selected and of producing noise-attenuated experimental data pertaining to the elementary volume of interest.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0041" num="0046">In order to optimize the denoising of the experimental data without loss of the spatial information, the step of selecting k components of such a method includes:
+<ul id="ul0013" list-style="none">
+    <li id="ul0013-0001" num="0000">
+    <ul id="ul0014" list-style="none">
+        <li id="ul0014-0001" num="0047">a sub-step of producing score images of the components for the plurality of voxels and informative indicators quantifying the spatial information contained in said images of the scores associated with said components in the form of a rate of decrease of the values of a determined characteristic of said scores before and after application of a smoothing filter to said scores, said determined characteristic of the scores for a plurality of voxels belonging to a set of characteristics, alone or in combination, including variance, standard deviation, median and mean;</li>
+        <li id="ul0014-0002" num="0048">a sub-step of determining the k components on the basis of said informative indicators produced.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0042" num="0049">According to an advantageous embodiment, the step of producing q components as well as their respective scores for the plurality of voxels can produce an ordered set of q principal components according to a determined order relation. The sub-step of determining the k components then consists of determining the rank k in order to select the first k principal components on the basis of said informative indicators produced.</p>
+<p id="p-0043" num="0050">According to this embodiment, the step of producing q components as well as their respective scores for the plurality of voxels can consist of implementing a principal component analysis to produce an ordered set of q principal components according to their respective eigenvalues.</p>
+<p id="p-0044" num="0051">In a variant, when the experimental data pertaining to the plurality of voxels result from a multiphase diffusion imaging acquisition by a magnetic resonance imaging device, said step of producing q components as well as their respective scores for the plurality of voxels can consist of implementing a spherical harmonic decomposition.</p>
+<p id="p-0045" num="0052">In a variant, when said experimental data pertaining to the plurality of voxels result from a multiphase acquisition by a functional magnetic resonance imaging device, said step of producing q components as well as their respective scores for the plurality of voxels can consist of implementing a Fourier transform decomposition.</p>
+<p id="p-0046" num="0053">When the set of the q components produced is ordered according to a determined order relation, the sub-step of determining the rank k can consist of calculating the mathematical difference between values of said informative indicators when these latter are ordered in accordance with the q components produced, the rank k being that of the principal component for which said mathematical difference falls below, or becomes equal to, a determined threshold.</p>
+<p id="p-0047" num="0054">In a variant, such a sub-step of determining said rank k can consist of detecting a plateau described by the values of the informative indicators when these latter are ordered in accordance with the q components produced, from the informative indicator of the component of rank q to the informative indicator of the component of rank 1, the rank k being that of the first component the value of the informative indicator of which deviates from said plateau.</p>
+<p id="p-0048" num="0055">When the indicators are ordered according to a determined order relation specific to them, said sub-step of determining the k components can consist of calculating the mathematical difference between successive values of said informative indicators, the k components selected being those for which said mathematical difference between the values of their informative indicators remains above a determined threshold. Such a sub-step of determining the k components could consist of detecting a plateau described by the values of said informative indicators, the k components selected being those for which their respective informative indicators deviate from said plateau.</p>
+<p id="p-0049" num="0056">In order to reinforce the weight of the predominant components during the reconstruction of the experimental data thus denoised, the step of selecting k components of a method according to the invention can include a sub-step of applying a filtering operation of the k components selected, the filtering intensity of which is specific to each of the k components selected and proportional to the informative indicator thereof.</p>
+<p id="p-0050" num="0057">In this case, the filtering operation can consist of the use, alone or in combination, of a Gaussian filter, a mean filter, a median filter, an anisotropic diffusion filter.</p>
+<p id="p-0051" num="0058">According to a second aspect, the invention relates to a computer program product including one or more program instructions that can be interpreted by the processing unit of a medical imaging analysis system, said program instructions being capable of being loaded in non-volatile storage of said medical imaging analysis system, the execution of said instructions of which by said processing unit causes the implementation of a method for attenuating the noise in experimental data according to the invention.</p>
+<p id="p-0052" num="0059">According to a third aspect, the invention relates to a computer-readable storage medium including the instructions of such a computer program product according to said invention.</p>
+<p id="p-0053" num="0060">According to a fourth aspect, the invention relates to an imaging analysis system including a processing unit arranged to attenuate the noise in experimental data originating from multiple acquisitions by an imaging device pertaining to an elementary volume of interest, hereinafter named &#x201c;voxel&#x201d; of interest, among a plurality of voxels, said processing unit being configured for:
+<ul id="ul0015" list-style="none">
+    <li id="ul0015-0001" num="0000">
+    <ul id="ul0016" list-style="none">
+        <li id="ul0016-0001" num="0061">collecting said experimental data pertaining to the plurality of voxels;</li>
+        <li id="ul0016-0002" num="0062">projecting the experimental data into a base of functions or vectors and producing a set of q components as well as their respective scores for the plurality of voxels, said scores corresponding to the projection of said experimental data onto said q components;</li>
+        <li id="ul0016-0003" num="0063">selecting k components among the q components produced;</li>
+        <li id="ul0016-0004" num="0064">projecting said experimental data onto the k components selected and producing noise-attenuated experimental data pertaining to the elementary volume of interest.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0054" num="0065">In order to optimize the denoising of the experimental data without loss of spatial information, the processing unit of such a system is configured for:
+<ul id="ul0017" list-style="none">
+    <li id="ul0017-0001" num="0000">
+    <ul id="ul0018" list-style="none">
+        <li id="ul0018-0001" num="0066">producing score images of the components for the plurality of voxels and informative indicators quantifying the spatial information contained in said images of the scores associated with said components in the form of a rate of decrease of the values of a determined characteristic of said scores before and after application of a smoothing filter to said scores, said determined characteristic of the scores for a plurality of voxels belonging to a set of characteristics, alone or in combination, including variance, standard deviation, median and mean;</li>
+        <li id="ul0018-0002" num="0067">selecting the k components on the basis of said informative indicators produced.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0055" num="0068">According to an advantageous embodiment, such an imaging analysis system can include a program memory including the program instructions of a computer program product according to the invention.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0056" num="0069">Other characteristics and advantages will become more clearly apparent on reading the following description and on examining the figures which accompany it, in which:</p>
+<p id="p-0057" num="0070"><figref idref="DRAWINGS">FIG. <b>1</b></figref>, already described, shows a simplified depiction of a system for analysing images obtained by magnetic resonance;</p>
+<p id="p-0058" num="0071"><figref idref="DRAWINGS">FIG. <b>2</b></figref>, already described, shows a simplified depiction of a variant of a system for analysing images obtained by magnetic resonance;</p>
+<p id="p-0059" num="0072"><figref idref="DRAWINGS">FIG. <b>3</b></figref>, already described, shows an example of a Z-spectrum in the form of a set of samples Zi(&#x394;&#x3c9;) according to relative frequency shifts &#x394;&#x3c9; with respect to the frequency of water, such shifts &#x394;&#x3c9; being expressed in ppm;</p>
+<p id="p-0060" num="0073"><figref idref="DRAWINGS">FIG. <b>4</b></figref>, already described, shows the principle of principal component analysis consisting of transforming variables or data associated with one another (also described as &#x201c;correlated&#x201d; in statistics) into new variables or data that are decorrelated from one another;</p>
+<p id="p-0061" num="0074"><figref idref="DRAWINGS">FIG. <b>5</b></figref>, already described, shows a known method for denoising a noisy Zi-spectrum resulting from a CEST acquisition according to the state of the art;</p>
+<p id="p-0062" num="0075"><figref idref="DRAWINGS">FIG. <b>6</b></figref>, already described, shows the experimental data projected onto different principal components extracted from a CEST data set after remodelling in their origin space;</p>
+<p id="p-0063" num="0076"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows an example functional algorithm of a denoising method according to the invention;</p>
+<p id="p-0064" num="0077"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows an example calculation of a principal component informative indicator specific to the invention;</p>
+<p id="p-0065" num="0078"><figref idref="DRAWINGS">FIG. <b>9</b></figref> shows an example selection of principal components according to the invention;</p>
+<p id="p-0066" num="0079"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows an example attenuation of the noise in HARDI diffusion experimental data for different phases;</p>
+<p id="p-0067" num="0080"><figref idref="DRAWINGS">FIG. <b>11</b></figref> shows an example of noise removed by implementation of the invention from such HARDI data for different phases;</p>
+<p id="p-0068" num="0081"><figref idref="DRAWINGS">FIG. <b>12</b></figref> shows an example of use and the benefit resulting from such a use of data denoised by virtue of the invention in the field of tractography;</p>
+<p id="p-0069" num="0082"><figref idref="DRAWINGS">FIG. <b>13</b></figref> shows an example attenuation of the noise in experimental perfusion data for different phases;</p>
+<p id="p-0070" num="0083"><figref idref="DRAWINGS">FIG. <b>14</b></figref> shows an example of noise removed by implementation of the invention from such perfusion data for different phases;</p>
+<p id="p-0071" num="0084"><figref idref="DRAWINGS">FIG. <b>15</b></figref> shows an advantageous embodiment of a method according to the invention making it possible to adjust the weights specific to the different principal components selected prior to the projection of the noisy experimental data onto them.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0072" num="0085">A method <b>100</b> for attenuation of the noise in medical images, according to the invention and shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, is advantageously expressed in the form of a computer program product the program instructions of which are intended to be installed in the program memory of an element of a medical imaging system, such as the system S in <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref>, for example a computer or a computer system server or, more generally, any electronic object having a sufficient computation power available.</p>
+<p id="p-0073" num="0086"><figref idref="DRAWINGS">FIG. <b>7</b></figref> thus shows a method <b>100</b>, according to the invention, for attenuation of the noise in experimental data originating from multiple acquisitions by an imaging device, for example a magnetic resonance imaging device, such as the device <b>1</b> of the medical analysis system S shown in <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref>, pertaining to a plurality of n voxels. Such a method includes some common steps with the method <b>100</b> according to <figref idref="DRAWINGS">FIG. <b>5</b></figref>. Thus, a &#x201c;denoising&#x201d; method <b>100</b> according to the invention can include, if necessary, a step <b>110</b> of collection or acquisition of noisy experimental data pertaining to or concerning said plurality of voxels V1 to Vn. Such experimental data can consist of curves such as Z1- to Zn-spectra following an acquisition of the CEST type, like the example referenced in <figref idref="DRAWINGS">FIGS. <b>3</b> and <b>5</b></figref> or, more generally, any experimental data for a set of voxels or pixels pertaining to a volume or a slice of an organ concerned by a plurality of m acquisitions according to different instants or different phases for example. Such experimental data could thus, non-exhaustively, result from a multiphase high angular resolution diffusion imaging (HARDI) acquisition, concern the field of perfusion imaging by scanning or magnetic resonance imaging.</p>
+<p id="p-0074" num="0087">By way of preferred but non-limitative example, like <figref idref="DRAWINGS">FIG. <b>5</b></figref>, <figref idref="DRAWINGS">FIG. <b>7</b></figref> depicts experimental data Zi pertaining to a voxel of interest among the n voxels acquired. <figref idref="DRAWINGS">FIG. <b>7</b></figref> shows experimental data Zi, in the form of a noisy spectrum identical to that shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. Such a noise is expressed by more or less pronounced discontinuities or oscillations according to the frequency shifts concerned, as evidenced by the partial enlargement of said Zi-spectrum. In order to attenuate this phenomenon, like the known method <b>100</b> and shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, a method <b>100</b> according to the invention includes a step <b>120</b> of implementing a principal component analysis to produce or calculate q principal components, said step being similar to step <b>120</b> of the known method <b>100</b> according to <figref idref="DRAWINGS">FIG. <b>5</b></figref>. Such a step <b>120</b> consists of determining q principal components respectively symbolized by or associated with eigenvalues &#x3bb;1, . . . , &#x3bb;q or with singular values s<sub>1 </sub>to s<sub>q </sub>forming an ordered set of principal components the rank of which is determined according to a set of decreasing scalar values, such as the eigenvalues &#x39b;={&#x3bb;1, . . . , &#x3bb;q} or the singular values S. In a variant, such principal components could be ordered according to any other order relation or even not be ordered. Such a method <b>100</b> according to the invention also includes a step <b>130</b> of determining or selecting k principal components among the q produced, i.e. the principal components of ranks 1 to k when these latter are ordered according to a determined order relation, to determine a smaller set of principal components. The selection <b>130</b>, according to the invention and shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, is clearly differentiated from the approach described in the great majority in the state of the art based on eigenvalues A. Such a step <b>130</b> specific to the invention will be detailed hereinafter. A method <b>100</b> according to the invention also includes, like the known methods <b>100</b> as shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, a step <b>140</b> of projecting the noisy experimental data Zi onto the k principal components selected in step <b>130</b> and producing noise-attenuated, or &#x201c;denoised&#x201d;, experimental data Zi&#x2032; pertaining to an elementary volume of interest. It is possible to observe the increased efficiency of a method <b>100</b> according to the invention, by virtue of an improved selection, or a modification of the k principal components, prior to said projection <b>140</b>, by examining the denoised Zi&#x2032;-spectrum describing a particularly smooth curve with respect to the one described by the Zi-spectrum of origin. Like the one shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, step <b>140</b> of the method <b>100</b> according to the figure consists of projecting the noisy experimental data set Z1, . . . , Zi, . . . , Zn onto the k principal components selected, and producing noise-attenuated experimental data Z1&#x2032;, . . . , Zi&#x2032;, . . . , Zn&#x2032; for the voxels of interest V1 to Vn. Thus, optionally and advantageously, such a method <b>100</b> according to the invention can include a step <b>150</b> of joint use of the denoised experimental data Z1&#x2032;, . . . , Zi&#x2032;, . . . , Zn&#x2032; for all or part of a plurality of said voxels of interest V1 to Vn. Such a use can for example consist of counting fibres in tractography on the basis of HARDI diffusion experimental data, as will be discussed with reference to <figref idref="DRAWINGS">FIGS. <b>10</b> to <b>12</b></figref>.</p>
+<p id="p-0075" num="0088">In a variant, step <b>120</b> for producing a set of q components can result from the implementation of techniques other than principal component analysis. Such a step <b>120</b> consists more generally of a decomposition or projection of the signal or of the experimental data into a base of functions or vectors. Thus, such a step <b>120</b> can consist for example, when the experimental data result from a multiphase diffusion imaging acquisition by a magnetic resonance imaging device, of implementing a spherical harmonic decomposition. Similarly, such a step <b>120</b> could, instead of principal component analysis, consist of implementing a Fourier transform decomposition, for example by Fast Fourier Transformation, of experimental data resulting from a multiphase acquisition by a functional magnetic resonance imaging device, a technique also known as fMRI.</p>
+<p id="p-0076" num="0089">The invention is thus differentiated mainly by the implementation of step <b>130</b> making it possible to select the relevant components, i.e., making it possible to optimize the attenuation of the noise without losing relevant items of spatial information. Thus, as shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, such a step <b>130</b> includes a sub-step <b>131</b> of producing informative indicators, referenced &#x3c3;1<sup>r</sup>, . . . , &#x3c3;q<sup>r </sup>in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, calculated respectively for the q principal components produced of ranks 1 to q in step <b>120</b> when the latter consists of a decomposition by principal component analysis. Such a set &#x3a3;<sup>r </sup>of informative indicators &#x3c3;1<sup>r </sup>to &#x3c3;q<sup>r </sup>is an alternative to the set &#x39b; of the eigenvalues &#x3bb;1 to &#x3bb;q used directly by the known methods for selecting k principal components among the q extracted. Such an informative indicator &#x3c3;j<sup>r </sup>characterizes the capacity of a principal component of rank j to express relevant spatial information. It can advantageously consist of a rate of decrease of the values of a determined characteristic of the scores of said principal component pertaining to the plurality of voxels V1 to Vn under consideration or of interest, before and after application of a smoothing filter to said scores. Such an operation <b>131</b><i>a </i>is shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. This depicts, for the principal component of rank 3, two images PC3a and PC3b showing the scores of said principal component of rank 3 for the set of voxels under consideration. The image PC3a depicts said scores before application <b>131</b><i>a </i>of a smoothing filter and the image PC3b depicts these same scores after said application <b>131</b><i>a </i>of the smoothing filter. This latter thus appears more blurred with respect to the image PC3a in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. Such an operation <b>131</b><i>a </i>can advantageously consist of applying a Gaussian filter of Factor F having a predetermined value, optionally configurable.</p>
+<p id="p-0077" num="0090">By way of preferred but non-limitative example, said determined characteristic can consist of the standard deviation of said scores. The informative indicator &#x3c3;j<sup>r </sup>of a principal component of rank j can then be calculated in an operation <b>131</b><i>b </i>such that:</p>
+<p id="p-0078" num="0000">
+<maths id="MATH-US-00006" num="00006">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mi>&#x3c3;</mi>
+   <mo>&#x2062;</mo>
+   <msup>
+    <mi>j</mi>
+    <mi>r</mi>
+   </msup>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+   <mrow>
+    <mrow>
+     <mi>&#x3c3;</mi>
+     <mo>&#x2062;</mo>
+     <msup>
+      <mi>j</mi>
+      <mi>a</mi>
+     </msup>
+    </mrow>
+    <mo>-</mo>
+    <mrow>
+     <mi>&#x3c3;</mi>
+     <mo>&#x2062;</mo>
+     <msup>
+      <mi>j</mi>
+      <mi>b</mi>
+     </msup>
+    </mrow>
+   </mrow>
+   <mrow>
+    <mi>&#x3c3;</mi>
+    <mo>&#x2062;</mo>
+    <msup>
+     <mi>j</mi>
+     <mi>a</mi>
+    </msup>
+   </mrow>
+  </mfrac>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0079" num="0091">where &#x3c3;j<sup>a </sup>is the standard deviation of the scores of the principal component of rank j before application <b>131</b><i>a </i>of the smoothing filter and &#x3c3;j<sup>b </sup>is the standard deviation of said scores after application <b>131</b><i>a </i>of said smoothing filter.</p>
+<p id="p-0080" num="0092">In this case, in <figref idref="DRAWINGS">FIG. <b>8</b></figref>, the informative indicator &#x3c3;3<sup>r </sup>of the principal component of rank 3 is such that:</p>
+<p id="p-0081" num="0000">
+<maths id="MATH-US-00007" num="00007">
+<math overflow="scroll">
+ <mrow>
+  <msup>
+   <mi>&#x3c3;3</mi>
+   <mi>r</mi>
+  </msup>
+  <mo>=</mo>
+  <mfrac>
+   <mrow>
+    <msup>
+     <mi>&#x3c3;3</mi>
+     <mi>a</mi>
+    </msup>
+    <mo>-</mo>
+    <msup>
+     <mi>&#x3c3;3</mi>
+     <mi>b</mi>
+    </msup>
+   </mrow>
+   <msup>
+    <mi>&#x3c3;3</mi>
+    <mi>a</mi>
+   </msup>
+  </mfrac>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0082" num="0093">Similarly, <figref idref="DRAWINGS">FIG. <b>8</b></figref> shows the calculation of the informative indicator &#x3c3;9<sup>r </sup>of the principal component of rank 9 is such that:</p>
+<p id="p-0083" num="0000">
+<maths id="MATH-US-00008" num="00008">
+<math overflow="scroll">
+ <mrow>
+  <msup>
+   <mi>&#x3c3;9</mi>
+   <mi>r</mi>
+  </msup>
+  <mo>=</mo>
+  <mfrac>
+   <mrow>
+    <msup>
+     <mi>&#x3c3;9</mi>
+     <mi>a</mi>
+    </msup>
+    <mo>-</mo>
+    <msup>
+     <mi>&#x3c3;9</mi>
+     <mi>b</mi>
+    </msup>
+   </mrow>
+   <msup>
+    <mi>&#x3c3;9</mi>
+    <mi>a</mi>
+   </msup>
+  </mfrac>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0084" num="0094">or also of the informative indicator &#x3c3;29<sup>r </sup>of the principal component of rank 29 is such that:</p>
+<p id="p-0085" num="0000">
+<maths id="MATH-US-00009" num="00009">
+<math overflow="scroll">
+ <mrow>
+  <msup>
+   <mi>&#x3c3;29</mi>
+   <mi>r</mi>
+  </msup>
+  <mo>=</mo>
+  <mfrac>
+   <mrow>
+    <msup>
+     <mi>&#x3c3;29</mi>
+     <mi>a</mi>
+    </msup>
+    <mo>-</mo>
+    <msup>
+     <mi>&#x3c3;29</mi>
+     <mi>b</mi>
+    </msup>
+   </mrow>
+   <msup>
+    <mi>&#x3c3;29</mi>
+    <mi>a</mi>
+   </msup>
+  </mfrac>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0086" num="0095">In this way, the set &#x3a3;r of the informative indicators of the q principal components of ranks 1 to q produced in step <b>120</b> and ordered according to their respective eigenvalues A or singular values S can be constituted at the end of implementation of the sub-step <b>131</b>. In a variant, this set &#x3a3;r of the informative indicators of the q principal components can be ordered according to the numerical values of said informative indicators or according to any other order relation.</p>
+<p id="p-0087" num="0096">In a variant or in addition, such a determined characteristic &#x3c3;jr could, instead of standard deviation, make use of the variance, entropy, median or also the mean of said scores of the principal component of rank j, or also result from a combination of all or some of these.</p>
+<p id="p-0088" num="0097">Once the set &#x3a3;<sup>r </sup>of the informative indicators has been calculated, step <b>130</b> of a method <b>100</b> according to the invention includes a sub-step <b>132</b> of determining the rank k in order to select the first k principal components (symbolized by the set of eigenvectors &#x3d5;&#x2032;={&#x3c6;1, . . . , &#x3c6;k} or the matrix U&#x2032;={u<sub>1</sub>, . . . , u<sub>k</sub>} in <figref idref="DRAWINGS">FIG. <b>7</b></figref>) on the basis of said set &#x3a3;<sup>r </sup>of said informative indicators. The implementation of such a sub-step <b>132</b> is shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>. The latter shows, with reference to the q=29 principal components of ranks 1 to 29, the scores PC1 to PC29 of which for a plurality of voxels of interest are shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the set &#x3a3;<sup>r </sup>of the informative indicators calculated in <b>131</b><i>b </i>and ordered according to the respective ranks of the q=29 principal components produced in step <b>120</b>. The values of said informative indicators describe a curve &#x201c;&#x3c3;j<sup>r</sup>&#x201d; substantially increasing when the rank of the principal components increases, to reach a plateau &#x3c3;p<sup>r </sup>of the order of ninety percent in the example shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref> starting from rank 12. The value of convergence or of a plateau &#x3c3;p<sup>r </sup>depends on the power of the smoothing that was applied to the score images in <figref idref="DRAWINGS">FIG. <b>8</b></figref> and on the characteristic used to produce the informative indicators. As previously noted with reference to <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the component of rank j=1 seems to express more items of spatial information than the components of ranks j greater than 10. Step <b>132</b> thus makes it possible, according to different embodiments, to objectivize the selection of the first k principal components in order to obtain the compromise sought. Thus, according to a first embodiment, such a sub-step <b>132</b> can consist of calculating the mathematical difference between values of said informative indicators &#x3a3;<sup>r</sup>={&#x3c3;1<sup>r</sup>, . . . , &#x3c3;q<sup>r</sup>} when these latter are ordered in accordance with the ranks j of the q principal components produced. The rank k can be determined based on such a difference between two informative indicators of consecutive ranks. Thus, as soon as said difference falls below, or becomes equal to, (in absolute value) a determined threshold, for example a threshold of a value below three hundredths, the rank k sought is that of the principal component of the rank immediately below that of the principal component for which the informative indicator is substantially equal (difference substantially zero or below said threshold) to that of the principal component of the rank which is immediately above it. Such an approach is relevant when the informative indicators, ordered according to the ranks of the principal components that are respectively associated therewith, describe a curve &#x201c;&#x3c3;j<sup>r</sup>&#x201d; that is substantially increasing until reaching a plateau &#x3c3;p<sup>r</sup>. In a variant or in addition to the calculation of a mathematical difference between two informative indicators of consecutive ranks, the invention provides for the possibility of calculating a mean mathematical difference between an enhanced collection of consecutive indicators, a difference between the informative indicators of rank(s) lower and/or higher than a given informative indicator or any other equivalent technique. However, as indicated by the curve &#x201c;&#x3c3;j<sup>r</sup>&#x201d; shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>, the latter can have one or more level sections. In this case, a first level section is depicted by the values of the informative indicators &#x3c3;7<sup>r </sup>and &#x3c3;8<sup>r </sup>of the principal components of ranks 7 and 8. A second level section is depicted by the values of the informative indicators &#x3c3;12<sup>r </sup>to &#x3c3;29<sup>r </sup>of the principal components of ranks greater than or equal to 12. So as not to determine a rank k that is too low pertaining to the existence of an intermediate level section for which the derivative of the curve &#x201c;&#x3c3;j<sup>r</sup>&#x201d; is substantially zero, such a calculation of the derivative can be accompanied by or combined with the calculation of a deviation (depicted by the curve &#x201c;&#x3c3;p<sup>r</sup>-&#x3c3;j<sup>r</sup>&#x201d; in <figref idref="DRAWINGS">FIG. <b>9</b></figref>) with the informative indicator associated with the principal component of the highest rank, in this case the rank q=29, or the informative indicator of maximum value. If said deviation &#x201c;&#x3c3;p<sup>r</sup>-&#x3c3;j<sup>r</sup>&#x201d; is very low (for example less than three hundredths), then step <b>132</b> considers that the curve has reached the asymptote or the plateau &#x3c3;p<sup>r</sup>. The rank k is thus determined as being that of the principal component of the rank immediately below. This is for example the case of the component of rank k=11, which is the last having an informative indicator &#x3c3;11<sup>r </sup>&#x201c;escaping&#x201d; the plateau &#x3c3;p<sup>r </sup>or, more specifically, the value of which deviates substantially from the value &#x3c3;p<sup>r </sup>of said plateau. On the other hand, if said deviation &#x201c;&#x3c3;p<sup>r</sup>-&#x3c3;j<sup>r</sup>&#x201d; is significant, for example greater than ten percent of the value &#x3c3;p<sup>r</sup>, (the case of the principal component of rank 7 the informative indicator &#x3c3;7<sup>r </sup>of which is substantially equal to that, &#x3c3;8<sup>r</sup>, of the principal component of the rank immediately above in the example shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>), then such a level section of the curve &#x201c;&#x3c3;j<sup>r</sup>&#x201d; is disregarded.</p>
+<p id="p-0089" num="0098">In a variant, such a sub-step <b>132</b> can consist of the detection of a plateau &#x3c3;p<sup>r</sup>, as mentioned above, described by the values of the informative indicators &#x3c3;j<sup>r </sup>(j being comprised between 1 and q), passing through these latter from the highest rank of the principal components, in this case the rank q=29, to the rank 1. By assumption, such a plateau &#x3c3;p<sup>r </sup>exists for the principal components of the highest ranks, in this case in <figref idref="DRAWINGS">FIG. <b>9</b></figref>, the plateau &#x3c3;p<sup>r </sup>is of the order of ninety percent. The rank k sought is determined as being that of the first principal component the value of the informative indicator &#x3c3;k<sup>r </sup>of which deviates significantly from said plateau &#x3c3;p<sup>r </sup>(i.e. beyond a predetermined threshold, for example five percent of the value of said plateau). In this case, the informative indicator &#x3c3;11<sup>r </sup>is the first to describe such a value sufficiently distinct from the value of said plateau &#x3c3;p<sup>r</sup>. The rank k sought is thus that of said principal component of rank k equal to eleven.</p>
+<p id="p-0090" num="0099">The invention is not to be considered limited by such operations implemented within the context of the sub-step <b>132</b> for detecting the value of the rank k on the basis of the ordered set of the informative indicators &#x3a3;<sup>r</sup>.</p>
+<p id="p-0091" num="0100">As mentioned above, the informative indicators of the components can be ordered according to an order relation independent of the ranks or an ordering according to an order relation specific to the components produced. In this case, the sub-step <b>132</b> of determining k components can consist of calculating the mathematical difference between successive values of said informative indicators of the components and selecting only the k components the mathematical difference of which between the values of their respective informative indicators remains above a determined threshold. Similarly, according to this variant according to which the informative indicators of the components are ordered according to an order relation specific to them, the sub-step <b>132</b> can consist of selecting the k components for which their respective informative indicators deviate from a plateau such as the aforementioned plateau &#x3c3;p<sup>r</sup>.</p>
+<p id="p-0092" num="0101">The invention also provides for the capability to modify the k components thus selected in step <b>130</b> (symbolized by the vector &#x3d5;&#x2032; in <figref idref="DRAWINGS">FIG. <b>7</b></figref>), prior to the implementation of step <b>140</b>, whether said components were produced in step <b>120</b> by a principal component analysis or by an alternative technique (spherical harmonics, Fourier transform, etc.). In the case of an implementation of a principal component analysis, the q components produced are known hereinafter as &#x201c;principal components&#x201d;. The objective is to increase the contributions of the most &#x201c;informative&#x201d; principal components (the ranks of which are the lowest) with respect to those the respective capacities of which to express items of spatial information are lower, those of higher ranks. To this end, such a step <b>130</b> can also include a sub-step <b>133</b> of applying an operation of filtering the k principal components selected, the filtering intensity of which is specific to each of the k principal components of ranks 1 to k (less than or equal to q) selected and proportional to the informative indicator &#x3c3;1<sup>r </sup>to &#x3c3;k<sup>r </sup>thereof. Such a filtering operation <b>133</b> can consist of the use, alone or in combination, of a Gaussian filter, a mean filter, a median filter, an anisotropic diffusion filter, a wavelet filter, or any filter, spatial or other, capable of being used in this context. By way of preferred but non-limitative example, such a sub-step <b>133</b> can consist of the adjustment of weights wj<sup>r </sup>specific to the principal components of ranks j carried out on the basis of the values &#x3c3;j<sup>r</sup>. In this example, the weights can be multiplied linearly by the power A of a Gaussian filter. Each component selected, i.e. of rank j, j being less than or equal to k, is filtered by a factor of wj<sup>r</sup>&#xd7;A. In a variant, or in addition to the linear multiplication, the weights can be expressed beforehand in the form of inputs of a logarithmic, exponential or polynomial function f. In this way, each selected score image of PCj, i.e. of rank j, j being less than or equal to k, can be filtered by a factor defined by f(wj<sup>r</sup>)&#xd7;A. Finally, the &#x201c;filtered&#x201d; score images are used to reproduce the matrix of scores U. As shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>, such a weight wj<sup>r </sup>can be calculated on the basis of the curve &#x201c;&#x3c3;j<sup>r</sup>&#x201d; or shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>, as follows:</p>
+<p id="p-0093" num="0000">
+<maths id="MATH-US-00010" num="00010">
+<math overflow="scroll">
+ <mrow>
+  <msup>
+   <mi>wj</mi>
+   <mi>r</mi>
+  </msup>
+  <mo>=</mo>
+  <mfrac>
+   <mrow>
+    <mrow>
+     <mi>&#x3c3;</mi>
+     <mo>&#x2062;</mo>
+     <msup>
+      <mi>j</mi>
+      <mi>r</mi>
+     </msup>
+    </mrow>
+    <mo>-</mo>
+    <msup>
+     <mi>&#x3c3;1</mi>
+     <mi>r</mi>
+    </msup>
+   </mrow>
+   <mrow>
+    <mrow>
+     <mi>&#x3c3;</mi>
+     <mo>&#x2062;</mo>
+     <msup>
+      <mi>p</mi>
+      <mi>r</mi>
+     </msup>
+    </mrow>
+    <mo>-</mo>
+    <msup>
+     <mi>&#x3c3;1</mi>
+     <mi>r</mi>
+    </msup>
+   </mrow>
+  </mfrac>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0094" num="0000">where &#x3c3;j<sup>r </sup>is the value of the informative indicator of the principal component of rank j, &#x3c3;1<sup>r </sup>is the value of the informative indicator of the principal component of rank 1 and &#x3c3;p<sup>r </sup>the value of the plateau of the curve &#x201c;&#x3c3;j<sup>r</sup>&#x201d; described by said informative indicators &#x3a3;<sup>r</sup>. Thus, such a weight wj<sup>r </sup>is comprised between w1<sup>r</sup>=0 and wp<sup>r</sup>=1 (i.e. when the curve &#x201c;&#x3c3;j<sup>r</sup>&#x201d; has reached a plateau &#x3c3;p<sup>r</sup>).</p>
+<p id="p-0095" num="0102">The invention is not to be considered limited to only these examples of calculations of the weights wj<sup>r </sup>of the sub-step <b>133</b>.</p>
+<p id="p-0096" num="0103"><figref idref="DRAWINGS">FIGS. <b>10</b> to <b>12</b></figref> make it possible to show the benefit resulting from the implementation of a method for attenuating the noise in experimental data originating from multiple acquisitions by a magnetic resonance imaging device in the HARDI diffusion imaging field. Such an acquisition of experimental data can thus bear on a plurality of slices, in this case a human brain, for a plurality of phases. <figref idref="DRAWINGS">FIG. <b>10</b></figref> thus shows the raw data, for a given slice, of phases two, twelve, twenty-two, thirty-two, forty-two, fifty-two and sixty-two, respectively referenced P2, P12, P22, P32, P42, P52 and P62 in <figref idref="DRAWINGS">FIG. <b>10</b></figref>. The first series of images referenced L1 show the raw, therefore noisy, experimental data for a plurality of voxels and respectively for the different phases P2 to P62 mentioned above. The second and third series of images L2 and L3 show said experimental data denoised by the implementation of the invention, according to which the k principal components selected were subjected to a filtering (step <b>133</b> of a method according to <figref idref="DRAWINGS">FIG. <b>7</b></figref>) prior to (L3) or not prior to (L2) the projection of the experimental data onto said k principal components. The increasing enhancement contributed by the invention can be noted visually from series L1 to series L3.</p>
+<p id="p-0097" num="0104">In addition, the performances of a method <b>100</b> according to the invention can be shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>, which depicts the noise removed in step <b>140</b> of a method according to the invention, for the different phases referenced P2, P12, P22, P32, P42, P52 and P62 in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, pertaining to the denoised experimental data of series L2 and L3 in <figref idref="DRAWINGS">FIG. <b>10</b></figref>. It is clear that such noise does not reveal any spatial information of interest.</p>
+<p id="p-0098" num="0105"><figref idref="DRAWINGS">FIG. <b>12</b></figref> depicts the use of HARDI diffusion data described with reference to <figref idref="DRAWINGS">FIG. <b>10</b></figref> in the context of tractography. <figref idref="DRAWINGS">FIG. <b>12</b></figref> shows three colour images <b>11</b>, <b>12</b>, <b>13</b>, expressed in grayscale, for a given slice, as well as a partial enlargement P11, P12 and P13 of each image I1, I2, I3. These latter were produced in a step <b>150</b> on the basis of respectively raw experimental data (series L1 in <figref idref="DRAWINGS">FIG. <b>10</b></figref>), data denoised by implementation of the invention and as shown by the series L2 in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, and by the series L3 in said <figref idref="DRAWINGS">FIG. <b>10</b></figref>. Said enlargements P11, P12 and P13 make it possible to see with the naked eye an increasing highlighting of fibres. In the enlargement P11, an area (circled in white) of the organ could be considered to be dead, which is not the case in the enlargements P12 and P13. Moreover, such a use makes it possible to count such fibres. On the basis of the raw data of series L1 in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, it is possible to count of the order of twenty-seven thousand fibres. These are of the order of thirty-four thousand if denoised data forming the series L2 in <figref idref="DRAWINGS">FIG. <b>10</b></figref> are used, and over thirty-seven thousand if the denoised data forming the series L3 in <figref idref="DRAWINGS">FIG. <b>10</b></figref> are used. A denoising of experimental data according to the invention thus contributes a particularly significant enhancement.</p>
+<p id="p-0099" num="0106"><figref idref="DRAWINGS">FIGS. <b>13</b> and <b>14</b></figref>, like <figref idref="DRAWINGS">FIGS. <b>10</b> and <b>11</b></figref>, show the enhancement contributed by the invention on the basis of perfusion data. Thus, the acquisition of experimental data bears on a plurality of slices, in this case a human brain, for a plurality of phases. <figref idref="DRAWINGS">FIG. <b>13</b></figref> thus shows the raw data, for a given slice, of phases one, five, ten, fifteen, twenty, twenty-five, thirty, thirty-five and forty, respectively referenced P1, P5, P10, P15, P20, P25, P30, P35 and P40 in <figref idref="DRAWINGS">FIG. <b>13</b></figref>. The first series of images referenced L1 show the raw, therefore noisy, experimental data for a plurality of voxels and respectively for the different phases P1 to P40 mentioned above. The second and third series of images L2 and L3 show said experimental data denoised by the implementation of the invention, according to which the k principal components selected were subjected to a filtering (step <b>133</b> of a method according to <figref idref="DRAWINGS">FIG. <b>7</b></figref>) prior to (L3) or not prior to (L2) the projection of the experimental data onto said k principal components. The increasing enhancement contributed by the invention can be noted visually from series L1 to series L3. This enhancement is even more noteworthy when, in said <figref idref="DRAWINGS">FIG. <b>13</b></figref>, the spectrum of the experimental data is examined, for a voxel V of interest, respectively raw (A), denoised by the implementation of the invention when the k principal components selected were not subjected to a filtering (B) and when said filtering has been carried out (C). It is notable that the curves respectively described by said spectra are increasingly smooth.</p>
+<p id="p-0100" num="0107">In addition, the performances of a method <b>100</b> according to the invention can be shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>, which depicts the noise removed pertaining to the series L2 and L3 in <figref idref="DRAWINGS">FIG. <b>13</b></figref>. It is clear that such a noise does not reveal any spatial information of interest.</p>
+<p id="p-0101" num="0108">In the foregoing description, the concepts that underlie the invention have been described through an exemplary implementation applied to data obtained by magnetic resonance imaging. It will be appreciated, however, that these concepts can be equally applied to other types of medical imaging, such as CT scans and sonograms. Moreover, they are not limited to medical imaging data. They could be utilized in other fields of application from the point at which noisy images or volumes of noisy images are acquired repetitively or sequentially, such as for example the cinema, identity control, etc.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20230225630A1-20230720-M00001.NB">
+<img id="EMI-M00001" he="8.13mm" wi="76.20mm" file="US20230225630A1-20230720-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US20230225630A1-20230720-M00002.NB">
+<img id="EMI-M00002" he="8.47mm" wi="76.20mm" file="US20230225630A1-20230720-M00002.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00003" nb-file="US20230225630A1-20230720-M00003.NB">
+<img id="EMI-M00003" he="8.13mm" wi="76.20mm" file="US20230225630A1-20230720-M00003.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00004" nb-file="US20230225630A1-20230720-M00004.NB">
+<img id="EMI-M00004" he="6.35mm" wi="76.20mm" file="US20230225630A1-20230720-M00004.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00005" nb-file="US20230225630A1-20230720-M00005.NB">
+<img id="EMI-M00005" he="8.47mm" wi="76.20mm" file="US20230225630A1-20230720-M00005.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00006" nb-file="US20230225630A1-20230720-M00006.NB">
+<img id="EMI-M00006" he="6.69mm" wi="76.20mm" file="US20230225630A1-20230720-M00006.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00007" nb-file="US20230225630A1-20230720-M00007.NB">
+<img id="EMI-M00007" he="6.01mm" wi="76.20mm" file="US20230225630A1-20230720-M00007.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00008" nb-file="US20230225630A1-20230720-M00008.NB">
+<img id="EMI-M00008" he="6.01mm" wi="76.20mm" file="US20230225630A1-20230720-M00008.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00009" nb-file="US20230225630A1-20230720-M00009.NB">
+<img id="EMI-M00009" he="6.01mm" wi="76.20mm" file="US20230225630A1-20230720-M00009.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00010" nb-file="US20230225630A1-20230720-M00010.NB">
+<img id="EMI-M00010" he="6.01mm" wi="76.20mm" file="US20230225630A1-20230720-M00010.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A system for attenuating the noise in experimental data originating from multiple acquisitions by a nuclear magnetic resonance imaging device pertaining to an elementary volume of interest, hereinafter named &#x201c;voxel&#x201d; of interest, among a plurality of voxels, said system comprising a processor configured to implement the following operations:
+<claim-text>acquiring said experimental data pertaining to the plurality of voxels;</claim-text>
+<claim-text>projecting the experimental data into a base of functions or vectors to produce a set of q components as well as their respective scores for the plurality of voxels, said scores corresponding to the projection of said experimental data onto said q components;</claim-text>
+<claim-text>selecting k components among the q components produced,</claim-text>
+<claim-text>wherein the selection of the k components includes:
+<claim-text>producing score images of the components for the plurality of voxels and informative indicators quantifying the spatial information contained in said images of the scores associated with said components in the form of a rate of decrease of the values of a determined characteristic of said scores before and after application of a smoothing filter to said scores, said determined characteristic of the scores for a plurality of voxels belonging to a set of characteristics, alone or in combination, including variance, standard deviation, median and mean, and</claim-text>
+<claim-text>determining the k components on the basis of said informative indicators;</claim-text>
+</claim-text>
+<claim-text>projecting said experimental data onto the selected k components and producing noise-attenuated experimental data pertaining to the elementary volume; and</claim-text>
+<claim-text>generating a human-perceptible representation of a physiological signal based upon the noise-attenuated experimental data</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the production of q components as well as their respective scores for the plurality of voxels produces an ordered set of q components according to a determined order relation; and</claim-text>
+<claim-text>the determination of the k components comprises determining the rank k in order to select the first k components on the basis of said informative indicators.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The system of <claim-ref idref="CLM-00002">claim 2</claim-ref>, where the production of q components as well as their respective scores for the plurality of voxels comprises implementing a principal component analysis to produce an ordered set of q principal components according to their respective eigenvalues.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the experimental data pertaining to the plurality of voxels result from a multiphase diffusion imaging acquisition by the magnetic resonance imaging device; and</claim-text>
+<claim-text>the production of q components as well as their respective scores for the plurality of voxels comprises implementing a spherical harmonic decomposition.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the experimental data pertaining to the plurality of voxels result from a multiphase acquisition by a functional magnetic resonance imaging device; and</claim-text>
+<claim-text>the production of q components as well as their respective scores for the plurality of voxels comprises implementing a Fourier transform decomposition.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The system of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the determination of the rank k comprises calculating the mathematical difference between values of said informative indicators which are ordered in accordance with the q components, the rank k being that of the component for which said mathematical difference falls below, or becomes equal to, a determined threshold.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The system of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the determination of the rank k comprises detecting a plateau described by the values of the informative indicators which are ordered according to the q components, from the informative indicator of the component of rank q to the informative indicator of the component of rank 1, the rank k being that of the first component the value of the informative indicator which deviates from said plateau.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the determination of the k components comprises calculating the mathematical difference between successive values of said informative indicators which are ordered according to a determined order relation, the k components selected being those for which said mathematical difference between the values of their informative indicators remains above a determined threshold.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The system of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the determination of the k components comprises detecting a plateau described by the values of the informative indicators which are ordered according to an order relation, the k components selected being those for which their respective informative indicators deviate from said plateau.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the processor is further configured to apply a filtering operation of the selected k components, the filtering intensity of which is specific to each of the selected k components and proportional to the informative indicator thereof.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The system according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the filtering operation comprises the use, alone or in combination, of a Gaussian filter, a mean filter, a median filter, an anisotropic diffusion filter.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. A non-transitory computer-readable storage medium including one or more program instructions that can be interpreted by the processor of said system, said program instructions being capable of being loaded in non-volatile storage of said system, wherein the execution of said instructions by said processor causes the implementation of the operations set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. A method for attenuating the noise in experimental data originating from multiple acquisitions by a nuclear magnetic resonance imaging device pertaining to an elementary volume of interest, hereinafter named &#x201c;voxel&#x201d; of interest, comprising:
+<claim-text>acquiring said experimental data pertaining to the plurality of voxels;</claim-text>
+<claim-text>projecting the experimental data into a base of functions or vectors to produce a set of q components as well as their respective scores for the plurality of voxels, said scores corresponding to the projection of said experimental data onto said q components;</claim-text>
+<claim-text>selecting k components among the q components produced,</claim-text>
+<claim-text>wherein the selection of the k components includes:</claim-text>
+<claim-text>producing score images of the components for the plurality of voxels and informative indicators quantifying the spatial information contained in said images of the scores associated with said components in the form of a rate of decrease of the values of a determined characteristic of said scores before and after application of a smoothing filter to said scores, said determined characteristic of the scores for a plurality of voxels belonging to a set of characteristics, alone or in combination, including variance, standard deviation, median and mean, and</claim-text>
+<claim-text>determining the k components on the basis of said informative indicators;</claim-text>
+<claim-text>projecting said experimental data onto the selected k components and producing noise-attenuated experimental data pertaining to the elementary volume; and</claim-text>
+<claim-text>generating a human-perceptible representation of a physiological signal based upon the noise-attenuated experimental data.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. A system for attenuating the noise in experimental data originating from multiple acquisitions by a medical imaging device pertaining to an elementary volume of interest, hereinafter named &#x201c;voxel&#x201d; of interest, among a plurality of voxels, said system comprising a processor configured to implement the following operations:
+<claim-text>acquiring said experimental data pertaining to the plurality of voxels;</claim-text>
+<claim-text>projecting the experimental data into a base of functions or vectors to produce a set of q components as well as their respective scores for the plurality of voxels, said scores corresponding to the projection of said experimental data onto said q components;</claim-text>
+<claim-text>selecting k components among the q components produced,</claim-text>
+<claim-text>wherein the selection of the k components includes:</claim-text>
+<claim-text>producing score images of the components for the plurality of voxels and informative indicators quantifying the spatial information contained in said images of the scores associated with said components in the form of a rate of decrease of the values of a determined characteristic of said scores before and after application of a smoothing filter to said scores, said determined characteristic of the scores for a plurality of voxels belonging to a set of characteristics, alone or in combination, including variance, standard deviation, median and mean, and</claim-text>
+<claim-text>determining the k components on the basis of said informative indicators;</claim-text>
+<claim-text>projecting said experimental data onto the selected k components and producing noise-attenuated experimental data pertaining to the elementary volume; and</claim-text>
+<claim-text>generating a human-perceptible representation of a physiological signal based upon the noise-attenuated experimental data.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. A method for attenuating the noise in experimental data originating from multiple acquisitions by a medical imaging device pertaining to an elementary volume of interest, hereinafter named &#x201c;voxel&#x201d; of interest, comprising:
+<claim-text>acquiring said experimental data pertaining to the plurality of voxels;</claim-text>
+<claim-text>projecting the experimental data into a base of functions or vectors to produce a set of q components as well as their respective scores for the plurality of voxels, said scores corresponding to the projection of said experimental data onto said q components;</claim-text>
+<claim-text>selecting k components among the q components produced,</claim-text>
+<claim-text>wherein the selection of the k components includes:</claim-text>
+<claim-text>producing score images of the components for the plurality of voxels and informative indicators quantifying the spatial information contained in said images of the scores associated with said components in the form of a rate of decrease of the values of a determined characteristic of said scores before and after application of a smoothing filter to said scores, said determined characteristic of the scores for a plurality of voxels belonging to a set of characteristics, alone or in combination, including variance, standard deviation, median and mean, and</claim-text>
+<claim-text>determining the k components on the basis of said informative indicators;</claim-text>
+<claim-text>projecting said experimental data onto the selected k components and producing noise-attenuated experimental data pertaining to the elementary volume; and</claim-text>
+<claim-text>generating a human-perceptible representation of a physiological signal based upon the noise-attenuated experimental data.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

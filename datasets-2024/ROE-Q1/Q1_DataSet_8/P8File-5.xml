@@ -1,0 +1,3449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225324A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225324</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18008424</doc-number>
+<date>20210612</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>IN</country>
+<doc-number>202011023685</doc-number>
+<date>20200605</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>47</main-group>
+<subgroup>30</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>43</main-group>
+<subgroup>40</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>43</main-group>
+<subgroup>88</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>43</main-group>
+<subgroup>08</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>P</subclass>
+<main-group>7</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>30</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>47</main-group>
+<subgroup>30</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>43</main-group>
+<subgroup>40</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>43</main-group>
+<subgroup>88</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>43</main-group>
+<subgroup>08</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20210801</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>P</subclass>
+<main-group>7</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>30</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">Synergistic Pesticidal Composition Against Sucking Pests Complex</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Best Agrolife Limited</orgname>
+<address>
+<city>New Dehli, Dehi</city>
+<country>IN</country>
+</address>
+</addressbook>
+<residence>
+<country>IN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Kumar</last-name>
+<first-name>Vimal</first-name>
+<address>
+<city>New Dehli, Dehli</city>
+<country>IN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Ailawadhi</last-name>
+<first-name>Raajan Kumar</first-name>
+<address>
+<city>New Dehli, Dehli</city>
+<country>IN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Gujral</last-name>
+<first-name>Ajit S.</first-name>
+<address>
+<city>New Dehli, Dehli</city>
+<country>IN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/IB2021/055191</doc-number>
+<date>20210612</date>
+</document-id>
+<us-371c12-date><date>20221205</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A Synergistic pesticidal composition against sucking pests complex. More particularly the present invention relates to a synergistic pesticidal composition comprising of bioactive amount of Diafenthiuron and Pyriproxyfen with at least one agro-chemically active insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, and Pymetrozine. The present invention further relates to process for preparing the said compositions in specific ratio. The present invention further relates to the process for preparing the said composition along with at least one inactive excipient; and formulations thereof. The present invention further relates to the synergistic insecticidal compositions, wherein active ingredient present infixed ratio shows synergy in insecticidal activity and formulation thereof are stable in nature.</p>
+</abstract>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates to synergistic pesticidal compositions against sucking pests complex. More particularly, the present invention relates to a synergistic pesticidal composition comprising of bioactive amounts of Diafenthiuron; Pyriproxyfen; and at least one agro-chemically active insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, and Pymetrozine. The present invention also relates to process for preparing such compositions.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Pesticides including insecticides are used widely and very frequently in commercial agriculture and have enabled an enormous increase in crop yields and product quality which ultimately increased the ease to farmers in term of economic advantage as well as ease of farming activities.</p>
+<p id="p-0004" num="0003">Insecticides are a type of pesticide that is used to specifically target and kill insects. Some insecticides include snail bait, ant killer, and wasp killer. An insecticide is a substance used to kill insects. They include ovicides and larvicides used against insect eggs and larvae, respectively. Insecticides are used in agriculture, medicine, industry and by consumers.</p>
+<p id="p-0005" num="0004">In general use, the pesticide actives are used in the form of a dilute aqueous composition because it can attain a good interaction with the target organism, such as plants, fungi and insects. However, most active pesticide compounds that are used as pesticides are only sparingly or even insoluble in water. The low solubility of such compounds present the challenges and difficulties to formulator in formulating pesticide compounds in stable formulations that can be easily stored for a long time and which still have a high stability and effective activity until end use. This problem especially occurs and may get worsen if more than one active compound is present in the composition.</p>
+<p id="p-0006" num="0005">Various compositions have been developed to control insect-pests and in practice have been used as a single or mixed agent. Practical agricultural experience has shown that the repeated and exclusive application of an individual active compound for the control of harmful insect-pests leads in many cases to a rapid selection of those strains which have developed natural or adapted resistance against the active compound in question. Effective control of such insect-pests with the active compound in question is very difficult in such cases.</p>
+<p id="p-0007" num="0006">To reduce the risk of the selection strains, mixtures of different active compounds are employed for controlling insect-pests. It is possible to ensure successful control over a relatively long period of time by combining active compounds having different mechanisms of action.</p>
+<p id="p-0008" num="0007">Certain mixtures of active compounds are proposed for pest control in the earlier literature. U.S. Pat. No. 4,104,376 discloses a synergistic formulation for insect control comprised of a combination of phosphorodithioate and formamidine at a ratio of 1 to 0.1-1.0, preferably 1 to about 0.2-0.5.</p>
+<p id="p-0009" num="0008">U.S. Pat. No. 4,613,617 discloses synergistic compositions for insect control comprising dione esters and other insecticides, such as pyrethroids, carba-mates and organophosphates. U.S. Pat. No. 4,767,773 discloses synergistic compositions for insect control comprising benzoyl ureas and pyrethroids, carbamates, and organophosphates.</p>
+<p id="p-0010" num="0009">U.S. Pat. No. 5,187,184 discloses that synergistic compositions for insect control comprising adding aryl nitro pyrrole or arylpyrrole-carbonitrile to a compositions of aryl pyrazole carboximide provides superior pest control at lower levels of the combined active ingredients than may be achieved with the aryl nitro pyrrole or aryl pyrrole carbo nitrile or aryl pyrazole carboximide applied alone at equal or higher levels than the total amount of active agent used in the combination treatment.</p>
+<p id="p-0011" num="0010">U.S. Pat. No. 5,491,168 discloses synergistic compositions for insect control comprising propargite (tert. butyl phenoxy cyclohexyl propynyl sulfite) and a pyrethroid. Finally, JP Kokai (A) H8-198719 published Aug. 6, 1996 discloses agricultural and horticultural fungicides comprised of a synergistic combination of a substance which inhibits the complex I enzyme reaction of the mitochondria electron transfer system (e.g., Pyridaben) and a substance which inhibits the complex III enzyme reaction of the mitochondria electron transfer system (e.g., kresoxim-methyl). (Entire content of all these prior arts are expressly incorporated hereinto by reference).</p>
+<p id="p-0012" num="0011">753/MUM/2012 relates to a composition comprising an effective amount of lambda Cyhalothrin in the range of 0.5% to 12%; an effective amount of Diafenthiuron in the range of 15% to 70% wherein the ratio of Lambda Cyhalothr into Diafenthiuron is in the range of 1:4 to 1:35; and at least one agrochemical excipient.</p>
+<p id="p-0013" num="0012">However, the biological properties of these mixtures of known compounds mentioned above are not completely satisfactory in the field of pest control.</p>
+<p id="p-0014" num="0013">Thus, there still exists a need to develop novel pesticidal compositions showing a broader scope of activity and a synergistic effect in order to avoid or to control the development of resistant strains to the active ingredients/compounds or to the mixtures of known active ingredients used by farmer while minimizing the doses of chemical products spread in the environment and reducing the cost of the treatment. A need also exists for synergistic pesticidal compositions which shall be physio-chemically compatible formulations in the form of storage stable, safely packed and ready to use formulation.</p>
+<p id="p-0015" num="0014">In particular, there exists a need for a synergistic composition of Diafenthiuron; Pyriproxyfen in combination with Neonicotinoid insecticides.</p>
+<p id="p-0016" num="0015">Diafenthiuron was first disclosed in GB2060626. Diafenthiuron is chemically known as 1-tert-butyl-3-(2,6-di-isopropyl-4-phenoxyphenyl)thiourea or N-[2,6-bis(1-methylethyl)-4-phenoxyphenyl]-N&#x2032;-(1,1dimethyl-ethyl)thiourea and having chemical structure as below:</p>
+<p id="p-0017" num="0000"><chemistry id="CHEM-US-00001" num="00001">
+<img id="EMI-C00001" he="32.94mm" wi="61.13mm" file="US20230225324A1-20230720-C00001.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0018" num="0016">Diafenthiuron is a broad spectrum insecticide having contact and stomach action. Diafenthiuron acts after conversion by either light, or in vivo, to the corresponding carbodiimide, which is an inhibitor of mitochondrial respiration. Mode of action as insecticide and acaricide which kills larvae, nymphs and adults is by contact and/or stomach action; also shows some ovicidal action. It is commonly used as insecticide and acaricide effective against phytophagous mites (tetranychidae, tarsonemidae), aleyrodidae, aphididae and jassidae on cotton, various field and fruit crops, ornamentals and vegetables. The effect of Diafenthiuron is based on the inhibition of ATP synthesis. Diafenthiuron also controls some leaf-feeding pests in cole crops (Plutellaxylostella), soya beans (Anticarsiagemmatalis) and cotton (<i>Alabama argillacea</i>).</p>
+<p id="p-0019" num="0017">Pyriproxyfen, is chemically known as 4-phenoxyphenyl (RS)-2-(2-pyridyloxy)propyl ether 2-[1-(4-phenoxyphenoxy)propan-2-yloxy]pyridine and having chemical structure as below:</p>
+<p id="p-0020" num="0000"><chemistry id="CHEM-US-00002" num="00002">
+<img id="EMI-C00002" he="20.83mm" wi="63.84mm" file="US20230225324A1-20230720-C00002.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0021" num="0018">Pyriproxyfen is a pyridine-based pesticide which is found to be effective against a variety of arthropoda. Pyriproxyfen is a solid (melting range 48-50&#xb0; C.) of low volatility and only slightly soluble in water. It was introduced to the US in 1996, to protect cotton crops against whitefly. It has also been found useful for protecting other crops. It is also used as prevention for fleas on household pets. Pyriproxyfen is a juvenile hormone analog and an insect growth regulator, preventing larvae from developing into adulthood and thus rendering them unable to reproduce.</p>
+<p id="p-0022" num="0019">Neonicotinoids being broad spectrum insecticides are a class of neuro-active insecticides chemically similar to nicotine. Neonicotinoids are neurotoxins that target the nicotinic acetylcholine receptor acting as agonists. Neonicotinoids also affects the CNS (central nervous system) of the insects as it binds agonistically to the post-synaptic nicotinic acetylcholine receptors that results in the spontaneous discharge of nerve impulses and eventual failure of the neuron to propagate any signal. Although they are effective as contact insecticides, it is the ability of these chemicals to translocate from the soil into leaves as systemic insecticides that has been one of the primary reasons for their popularity. Neonicotinoids are used to protect a variety of vegetables, fruits, and major crops like corn, cotton, potato, rice, etc. against sucking insects like aphids, whiteflies, thrips, leaf- and plant hoppers. These insecticides are recommended for the control of sucking pests of cotton, as they are most effective against thrips, jassid, and whitefly.</p>
+<p id="p-0023" num="0020">Amongst the chemical classification of Neonicotinoids, three categories have been identified, which are listed as under:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0021">A. Chloropyridylmethyl/First-generation neonicotinoids
+        <ul id="ul0003" list-style="none">
+            <li id="ul0003-0001" num="0022">i. Imidacloprid</li>
+            <li id="ul0003-0002" num="0023">ii. Thiacloprid</li>
+            <li id="ul0003-0003" num="0024">iii. Acetamiprid</li>
+            <li id="ul0003-0004" num="0025">iv. Nitenpyram</li>
+        </ul>
+        </li>
+        <li id="ul0002-0002" num="0026">B. ChloroThiozolylmethyl/Second-generation neonicotinoids
+        <ul id="ul0004" list-style="none">
+            <li id="ul0004-0001" num="0027">i. Thiamethoxam</li>
+            <li id="ul0004-0002" num="0028">ii. Clothianidin</li>
+        </ul>
+        </li>
+        <li id="ul0002-0003" num="0029">C. Tetrahydrofuranylmethyl/Third-generation neonicotinoids
+        <ul id="ul0005" list-style="none">
+            <li id="ul0005-0001" num="0030">i. Dinotefuran</li>
+            <li id="ul0005-0002" num="0031">ii. Cycloxaprid</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0024" num="0032">Under the natural law of selection, in order to control one particular species of pest attacking the crop at a particular stage of the crop, combination of pesticides have been applied. Thus, by such application of combination of pesticides, natural balance is maintained and nature pushes another species of pests to flourish and attack the crops thereby rendering the crops still vulnerable to the pest attack and hence farmer loses substantial part of its produce. To address this, it has been found by the inventors of the present application that to the composition of Diafenthiuron; Pyriproxyfen, a third category of insecticides (selective neonicotinoids) have been combined which provide a broad spectrum control over all the sucking pests attacking the crops (including cotton) under the theory of natural selection mentioned herein.</p>
+<p id="p-0025" num="0033">Thus, there exists a need for a synergistic composition of Diafenthiuron; Pyriproxyfen in combination with at least one agro-chemically active insecticide. In particular, there exists a need for a synergistic composition of Diafenthiuron; Pyriproxyfen in combination with at least one agro-chemically active insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, and Pymetrozine, which overcomes some of the existing problems mentioned above and can be prepared easily without much complex manufacturing process.</p>
+<p id="p-0026" num="0034">Inventors of the present invention have surprisingly found that the novel synergistic composition of Diafenthiuron; Pyriproxyfen; and an insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, and Pymetrozine provide solution to the above mentioned problems. Thus, the object is achieved according to the invention by providing the present composition.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0027" num="0035">Accordingly, in a first aspect, the present invention provides a synergistic pesticidal composition comprising (A) Diafenthiuron (B) Pyriproxyfen (C) at least one insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, and Pymetrozine and one or more inactive excipients.</p>
+<p id="p-0028" num="0036">Accordingly, in a further aspect, the present invention provides a synergistic pesticidal composition comprising A) Diafenthiuron is present in an amount in the range from 5.0 to 60% w/w; B) Pyriproxyfen is present in an amount in the range from 1.0 to 25% w/w; C) at least one more insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, Pymetrozine, is present in an amount in the range from 0.5 to 50% w/w.</p>
+<p id="p-0029" num="0037">Accordingly, in a further aspect, the present invention provides a synergistic pesticidal composition comprising:
+<ul id="ul0006" list-style="none">
+    <li id="ul0006-0001" num="0000">
+    <ul id="ul0007" list-style="none">
+        <li id="ul0007-0001" num="0038">a) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Thiamethoxam in an amount in the range from 2.5-15% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0002" num="0039">b) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4% w/w, Thiamethoxam in an amount in the range from 15.1-35% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0003" num="0040">c) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Thiamethoxam in an amount in the range from 35.1-50% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0004" num="0041">d) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Imidacloprid in an amount in the range from 5-15% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0005" num="0042">e) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Imidacloprid in an amount in the range from 15.1-35% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0006" num="0043">f) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Imidacloprid in an amount in the range from 35.1-50% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0007" num="0044">g) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Thiacloprid in an amount in the range from 2.5-10% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0008" num="0045">h) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Thiacloprid in an amount in the range from 10-20% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0009" num="0046">i) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Thiacloprid in an amount in the range from 20.1-50% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0010" num="0047">j) Diafenthiuron in an amount in the range from 15.0-35.0% w/w, Pyriproxyfen in an amount in the range from 5.0-25% w/w, Dinotefuran in an amount in the range from 0.5-15% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0011" num="0048">k) Diafenthiuron in an amount in the range from 5.0-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Dinotefuran in an amount in the range from 15.1-35% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0012" num="0049">l) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1.0-2.7% w/w, Dinotefuran in an amount in the range from 35.1-50% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0013" num="0050">m) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Clothianidin in an amount in the range from 2.5-15% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0014" num="0051">n) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Clothianidin in an amount in the range from 15.1-25% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0015" num="0052">o) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Clothianidin in an amount in the range from 25.1-40% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0016" num="0053">p) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Pymetrozine in an amount in the range from 0.5-15% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0017" num="0054">q) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Pymetrozine in an amount in the range from 15.1-35% w/w and one or more inactive excipients, or</li>
+        <li id="ul0007-0018" num="0055">r) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Pymetrozine in an amount in the range from 35.1-50% w/w and one or more inactive excipients</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0030" num="0056">Accordingly, in a second aspect, the present invention provides a method of preparing the synergistic pesticidal composition of Diafenthiuron, Pyriproxyfen along with at least one insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, and Pymetrozine and one or more inactive excipients.</p>
+<p id="p-0031" num="0057">Accordingly, in a further aspect, the present invention provides a method of protecting a plant propagation material, a plant, parts of a plant and/or plant organs that grow at a later point in time against pathogenic damage or pest damage (including sucking pests complex) by applying to the plant propagation material a composition comprising a pesticidal composition defined in the first and further aspects.</p>
+<p id="p-0032" num="0058">Accordingly, in a yet another aspect, the said pesticidal composition is formulation selected from Emulsifiable concentrate (EC), Emulsifiable granule (EG), Emulsion water-in-oil (EO), Emulsifiable powder (EP), Emulsion for seed treatment (ES), Emulsion oil-in-water (EW), Flowable Slurry (FS), Flowable Suspension (FS), Suspension Concentrate (SC), Suspension concentrate for direct application (SD), Suspo-emulsion (SE), Water soluble granule (SG), Soluble concentrate (SL), Water soluble powder (SP), Water dispersible powder for slurry seed treatment (WS), Water dispersible granules (WDG), Wettable powders (WP), Water dispersible powder for slurry seed treatment (WS), Water dispersible tablet (WT), a mixed formulation of CS and SC (ZC) or A mixed formulation of CS and SE (ZE), a mixed formulation of CS and EW (ZW) comprising (A) Diafenthiuron (B) Pyriproxyfen (C) at least one insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, and Pymetrozine and one or more inactive excipients such as a) dispersant b) wetting agent c) anti-foaming agent d) biocides/anti-bacterial e) anti-freezing agent f) suspending agent g)thickener h) coating agent and i) buffering agent and binders.</p>
+<p id="p-0033" num="0059">As per one embodiment, formulation for the pesticidal composition is selected from Flowable Slurry (FS), Flowable Suspension (FS), Suspension Concentrate (SC), Suspo-emulsion (SE), Water dispersible powder for slurry seed treatment (WS), Water dispersible granules (WDG) and Wettable powders (WP).</p>
+<p id="p-0034" num="0060">The remainder of the aqueous formulation is preferably wholly water but may comprise other materials, such as inorganic salts. The formulation is preferably, completely free from organic solvents.</p>
+<p id="p-0035" num="0061">Accordingly, in another aspect, the present invention provides a pesticidal composition comprising (A) Diafenthiuron in an amount in the range from 5.0 to 60% w/w (B) Pyriproxyfen in an amount in the range from 1.0 to 25% w/w (C) at least one insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, Pymetrozine, in an amount in the range from 0.5 to 50% w/w shows synergistic activity; and formulation thereof is stable in nature.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0036" num="0062">Discussed below are some representative embodiments of the present invention. The invention in its broader aspects is not limited to the specific details and representative methods. The illustrative examples are described in this section in connection with the embodiments and methods provided. The invention according to its various aspects is particularly pointed out and distinctly claimed in the appended claims read in view of this specification and appropriate equivalents.</p>
+<p id="p-0037" num="0063">It is to be noted that, as used in the specification and the appended claims, the singular forms &#x201c;a&#x201d;, &#x201c;an&#x201d; and &#x201c;the&#x201d; include plural referents unless the context clearly dictates otherwise. Thus, for example, reference to a composition containing &#x201c;a compound&#x201d; includes a mixture of two or more compounds. It should also be noted that the term &#x201c;or&#x201d; is generally employed in its sense including &#x201c;and/or&#x201d; unless the content clearly dictates otherwise.</p>
+<p id="p-0038" num="0064">The expression of various quantities in terms of &#x201c;% w/w&#x201d; or &#x201c;%&#x201d; means the percentage by weight, relative to the weight of the total solution or composition unless otherwise specified.</p>
+<p id="p-0039" num="0065">The term &#x201c;active ingredient&#x201d; (a.i.) or &#x201c;active agent&#x201d; used herein refers to that component of the composition responsible for control of insects-pests or disease.</p>
+<p id="p-0040" num="0066">&#x201c;Bioactive amounts&#x201d; as mentioned herein means that amount which, when applied treatment of crops, is sufficient to effect such treatment. The bioactive amount of the compositions will also vary according to the prevailing conditions such as desired pesticidal effect and duration, weather, target species, locus, mode of application, and the like.</p>
+<p id="p-0041" num="0067">As used herein, the term &#x201c;effective amount&#x201d; means the amount of the active substances in the compositions to achieve an observable effect on growth, including the effects of necrosis, death, retardation, prevention, and removal, destruction, or otherwise diminishing the occurrence and activity of the target organism.</p>
+<p id="p-0042" num="0068">As used herein, the term &#x201c;Diafenthiuron&#x201d; encompasses Diafenthiuron or its agrochemically acceptable salt(s), derivative(s) or any other modified form of Diafenthiuron.</p>
+<p id="p-0043" num="0069">As used herein, the term &#x201c;Pyriproxyfen&#x201d; encompasses Pyriproxyfen or its agrochemically acceptable salt(s), derivative(s) or any other modified form of Pyriproxyfen.</p>
+<p id="p-0044" num="0070">The present invention provides a novel synergistic pesticidal composition comprising bioactive amounts of Diafenthiuron; Pyriproxyfen; and an at least one insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, Pymetrozine; along with one or more inactive excipients.</p>
+<p id="p-0045" num="0071">The present invention provides formulation for the aforesaid composition and method of preparation thereof.</p>
+<p id="p-0046" num="0072">The term &#x201c;synergistic&#x201d;, as used herein, refers the combined action of two or more active agents blended together and administered conjointly that is greater than the sum of their individual effects.</p>
+<p id="p-0047" num="0073">The present invention relates to synergistic insecticidal compositions of comprising of bioactive amounts of Diafenthiuron; Pyriproxyfen; and at least one active ingredients selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, Pymetrozine.</p>
+<p id="p-0048" num="0074">Pymetrozine was first disclosed in U.S. Pat. Nos. 4,931,439 and 4,996,325. Pymetrozinee is chemically known as (E)-4,5-dihydro-6-methyl-4-(3-pyridylmethyleneamino)-1,2,4-triazin-3(2H)-one and having chemical structure as below:</p>
+<p id="p-0049" num="0000"><chemistry id="CHEM-US-00003" num="00003">
+<img id="EMI-C00003" he="27.01mm" wi="37.85mm" file="US20230225324A1-20230720-C00003.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0050" num="0075">The mode of action of Pymetrozine in insects has not been precisely determined biochemically, but it may involve effects on neuroregulation or nerve-muscle interaction. Physiologically, it appears to act by preventing these insects from inserting their stylus in to the plant tissue.</p>
+<p id="p-0051" num="0076">As used herein, the term &#x201c;Pymetrozine&#x201d; encompasses Pymetrozine or its agrochemically acceptable salt(s), derivative(s) or any other modified form of Pymetrozine.</p>
+<p id="p-0052" num="0077">Imidacloprid is a neonicotinoid, which is a class of neuro-active insecticides modeled after nicotine. Imidacloprid is chemically known as a (NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide and having chemical structure as below:</p>
+<p id="p-0053" num="0000"><chemistry id="CHEM-US-00004" num="00004">
+<img id="EMI-C00004" he="19.90mm" wi="41.83mm" file="US20230225324A1-20230720-C00004.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0054" num="0078">Imidacloprid is a systemic insecticide that acts as an insect neurotoxin and belongs to a class of chemicals called the neonicotinoids which act on the central nervous system of insects. The chemical works by interfering with the transmission of stimuli in the insect nervous system.</p>
+<p id="p-0055" num="0079">As used herein, the term &#x201c;Imidacloprid&#x201d; encompasses Imidacloprid or its agrochemically acceptable salt(s), derivative(s) or any other modified form of Imidacloprid.</p>
+<p id="p-0056" num="0080">Thiacloprid is a nitrile that is cyanamide in which the hydrogens are replaced by a 1,3-thiazolidin-2-ylidene group which in turn is substituted by a (6-chloropyridin-3-yl)methyl group at the ring nitrogen. It has a role as a xenobiotic, an environmental contaminant and a neonicotinoid insectide. It is a member of thiazolidines, a nitrile and a monochloropyridine. It is derived from 2-chloropyridine and a cyanamide. Thiacloprid is chemically known as a [3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide and having chemical structure as below:</p>
+<p id="p-0057" num="0000"><chemistry id="CHEM-US-00005" num="00005">
+<img id="EMI-C00005" he="21.59mm" wi="44.53mm" file="US20230225324A1-20230720-C00005.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0058" num="0081">Thiacloprid is an insecticide of the neonicotinoid class. Its mechanism of action is similar to other neonicotinoids and involves disruption of the insect's nervous system by stimulating nicotinic acetylcholine receptors.</p>
+<p id="p-0059" num="0082">As used herein, the term &#x201c;Thiacloprid&#x201d; encompasses Thiacloprid or its agrochemically acceptable salt(s), derivative(s) or any other modified form of Thiacloprid.</p>
+<p id="p-0060" num="0083">Dinotefuran is an insecticide of the neonicotinoid class for control of insect pests such as aphids, whiteflies, thrips, leafhoppers, leafminers, sawflies, mole cricket, white grubs, lacebugs, billbugs, beetles, mealybugs, and cockroaches on leafy vegetables, in residential and commercial buildings, and for professional turf management. Dinotefuran is chemically known as 2-methyl-1-nitro-3-[(tetrahydro-3-furanyl)methyl]guanidine and having chemical structure as below:</p>
+<p id="p-0061" num="0000"><chemistry id="CHEM-US-00006" num="00006">
+<img id="EMI-C00006" he="19.13mm" wi="34.37mm" file="US20230225324A1-20230720-C00006.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0062" num="0084">Its mechanism of action involves disruption of the insect's nervous system by inhibiting nicotinic acetylcholine receptors.</p>
+<p id="p-0063" num="0085">As used herein, the term &#x201c;Dinotefuran&#x201d; encompasses Dinotefuran or its agrochemically acceptable salt(s), derivative(s) or any other modified form of Dinotefuran.</p>
+<p id="p-0064" num="0086">Thiamethoxam is a neonicotinoid insecticide. It is an oxadiazane, a member of 1,3-thiazoles, an organochlorine compound and a 2-nitroguanidine derivative. Thiamethoxam chemically known as N-[3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-1,3,5-oxadiazinan-4-ylidene]nitramid and having chemical structure as below:</p>
+<p id="p-0065" num="0000"><chemistry id="CHEM-US-00007" num="00007">
+<img id="EMI-C00007" he="21.42mm" wi="36.58mm" file="US20230225324A1-20230720-C00007.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0066" num="0087">Thiamethoxam is a broad-spectrum, systemic insecticide, which means it is absorbed quickly by plants and transported to all of its parts, including pollen, where it acts to deter insect feeding. An insect can absorb it in its stomach after feeding, or through direct contact, including through its tracheal system. The compound gets in the way of information transfer between nerve cells by interfering with nicotinic acetylcholine receptors in the central nervous system, and eventually paralyzes the muscles of the insects.</p>
+<p id="p-0067" num="0088">As used herein, the term &#x201c;Thiamethoxam&#x201d; encompasses Thiamethoxam or its agrochemically acceptable salt(s), derivative(s) or any other modified form of Thiamethoxam.</p>
+<p id="p-0068" num="0089">Clothianidin is an insecticide belonging to neonicotinoid class of compounds. Neonicotinoids are a class of insecticides that are chemically similar to nicotine. Clothianidin is chemically known as 1-(2-Chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine and having chemical structure as below:</p>
+<p id="p-0069" num="0000"><chemistry id="CHEM-US-00008" num="00008">
+<img id="EMI-C00008" he="20.40mm" wi="44.53mm" file="US20230225324A1-20230720-C00008.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0070" num="0090">Clothianidin and other neonicotinoids act on the central nervous system of insects as an agonist of acetylcholine, the neurotransmitter that stimulates nAChR, targeting the same receptor site (AChR) and activating post-synaptic acetylcholine receptors but not inhibiting AChE.</p>
+<p id="p-0071" num="0091">As used herein, the term &#x201c;Clothianidin&#x201d; encompasses Clothianidin or its agrochemically acceptable salt(s), derivative(s) or any other modified form of Clothianidin.</p>
+<p id="p-0072" num="0092">The present invention also provides a process for preparing a synergistic pesticide composition of (A) Diafenthiuron (B) Pyriproxyfen (C) at least one insecticide wherein insecticide(s) is selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, Pymetrozine. A synergistically effective amount of Diafenthiuron is an amount preferably ranging from 5% to 60% by weight of the composition and Pyriproxyfen is an amount preferably ranging from 1 to 25% by weight of the composition. The Diafenthiuron Technical grade provided in a purity of 97% minimum and Pyriproxyfen, Technical grade provided in a purity of 98% minimum. The insecticide(s) selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, Pymetrozine compounds present in an amount preferably ranging from 0.5 to 50% by weight of the composition Technical grade having a purity of 95% minimum.</p>
+<p id="p-0073" num="0093">In an embodiment of the invention, the present invention provides a synergistic pesticidal composition comprising A) Diafenthiuron is present in an amount in the range from 5.0 to 60% w/w; B) Pyriproxyfen is present in an amount in the range from 1.0 to 25% w/w; C) at least one more insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, Pymetrozine, is present in an amount in the range from 0.5 to 50% w/w.</p>
+<p id="p-0074" num="0094">In another embodiment, the present invention provides a synergistic pesticidal composition comprising:
+<ul id="ul0008" list-style="none">
+    <li id="ul0008-0001" num="0000">
+    <ul id="ul0009" list-style="none">
+        <li id="ul0009-0001" num="0095">a) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Thiamethoxam in an amount in the range from 2.5-15% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0002" num="0096">b) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4% w/w, Thiamethoxam in an amount in the range from 15.1-35% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0003" num="0097">c) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Thiamethoxam in an amount in the range from 35.1-50% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0004" num="0098">d) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Imidacloprid in an amount in the range from 5-15% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0005" num="0099">e) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Imidacloprid in an amount in the range from 15.1-35% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0006" num="0100">f) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Imidacloprid in an amount in the range from 35.1-50% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0007" num="0101">g) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Thiacloprid in an amount in the range from 2.5-10% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0008" num="0102">h) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Thiacloprid in an amount in the range from 10-20% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0009" num="0103">i) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Thiacloprid in an amount in the range from 20.1-50% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0010" num="0104">j) Diafenthiuron in an amount in the range from 15.0-35.0% w/w, Pyriproxyfen in an amount in the range from 5.0-25% w/w, Dinotefuran in an amount in the range from 0.5-15% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0011" num="0105">k) Diafenthiuron in an amount in the range from 5.0-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Dinotefuran in an amount in the range from 15.1-35% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0012" num="0106">l) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1.0-2.7% w/w, Dinotefuran in an amount in the range from 35.1-50% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0013" num="0107">m) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Clothianidin in an amount in the range from 2.5-15% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0014" num="0108">n) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Clothianidin in an amount in the range from 15.1-25% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0015" num="0109">o) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Clothianidin in an amount in the range from 25.1-40% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0016" num="0110">p) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Pymetrozine in an amount in the range from 0.5-15% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0017" num="0111">q) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Pymetrozine in an amount in the range from 15.1-35% w/w and one or more inactive excipients, or</li>
+        <li id="ul0009-0018" num="0112">r) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Pymetrozine in an amount in the range from 35.1-50% w/w and one or more inactive excipients</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0075" num="0113">In a preferred embodiment, the synergistic pesticidal composition comprises of:
+<ul id="ul0010" list-style="none">
+    <li id="ul0010-0001" num="0000">
+    <ul id="ul0011" list-style="none">
+        <li id="ul0011-0001" num="0114">a) Diafenthiuron in an amount in the range from 15.0-35.0% w/w, Pyriproxyfen in an amount in the range from 5.0-25% w/w, Dinotefuran in an amount in the range from 0.5-15% w/w and one or more inactive excipients, or</li>
+        <li id="ul0011-0002" num="0115">b) Diafenthiuron in an amount in the range from 5.0-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Dinotefuran in an amount in the range from 15.1-35% w/w and one or more inactive excipients, or</li>
+        <li id="ul0011-0003" num="0116">c) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1.0-2.7% w/w, Dinotefuran in an amount in the range from 35.1-50% w/w and one or more inactive excipients</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0076" num="0117">In a more preferred embodiment, the synergistic pesticidal composition is a suspoemulsion (SE), formulation comprising of:
+<ul id="ul0012" list-style="none">
+    <li id="ul0012-0001" num="0000">
+    <ul id="ul0013" list-style="none">
+        <li id="ul0013-0001" num="0118">a) Pyriproxyfen in an amount of 8% w/w by weight of the composition;</li>
+        <li id="ul0013-0002" num="0119">b) Dinotefuran in an amount of 5% w/w by weight of the composition;</li>
+        <li id="ul0013-0003" num="0120">c) Diafenthiuron in an amount of 18% w/w by weight of the composition;</li>
+        <li id="ul0013-0004" num="0121">d) Emulsifier selected form Blend of anionic &#x26; Non-ionic;</li>
+        <li id="ul0013-0005" num="0122">e) Dispersing Agent selected form Tristyrylphenol Ethoxylate &#x26; craft polymer;</li>
+        <li id="ul0013-0006" num="0123">f) Propylene Glycol as Anti-freezing Agent</li>
+        <li id="ul0013-0007" num="0124">g) Sodium lauryl sulphate as Wetting Agent;</li>
+        <li id="ul0013-0008" num="0125">h) Siloxane polyalkyleneoxide as Antifoaming Agent;</li>
+        <li id="ul0013-0009" num="0126">i) Silicon Dioxide as thickener;</li>
+        <li id="ul0013-0010" num="0127">j) Benzisothiazolin-3-one as Anti-bacterial;</li>
+        <li id="ul0013-0011" num="0128">k) Xanthan Gum.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0077" num="0129">In a more preferred embodiment, the synergistic pesticidal composition is a wettable powder (WP) formulation comprising of:
+<ul id="ul0014" list-style="none">
+    <li id="ul0014-0001" num="0000">
+    <ul id="ul0015" list-style="none">
+        <li id="ul0015-0001" num="0130">a) Pyriproxyfen in an amount of 8% w/w by weight of the composition;</li>
+        <li id="ul0015-0002" num="0131">b) Dinotefuran in an amount of 5% w/w by weight of the composition;</li>
+        <li id="ul0015-0003" num="0132">c) Diafenthiuron in an amount of 18% w/w by weight of the composition;</li>
+        <li id="ul0015-0004" num="0133">d) Dispersing Agent selected from Napthalene sulfonic acid branched and linear sodium salt;</li>
+        <li id="ul0015-0005" num="0134">e) Sodium disopropyl naphthalene sulfonate as Wetting Agent;</li>
+        <li id="ul0015-0006" num="0135">f) Siloxane polyalkyleneoxide as Antifoaming Agent;</li>
+        <li id="ul0015-0007" num="0136">g) Fillers.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0078" num="0137">In a more preferred embodiment, the synergistic pesticidal composition is a Water Dispersible Granules (WDG) formulation comprising of:
+<ul id="ul0016" list-style="none">
+    <li id="ul0016-0001" num="0000">
+    <ul id="ul0017" list-style="none">
+        <li id="ul0017-0001" num="0138">a) Pyriproxyfen in an amount of 8% w/w by weight of the composition;</li>
+        <li id="ul0017-0002" num="0139">b) Dinotefuran in an amount of 5% w/w by weight of the composition;</li>
+        <li id="ul0017-0003" num="0140">c) Diafenthiuron in an amount of 18% w/w by weight of the composition;</li>
+        <li id="ul0017-0004" num="0141">d) Dispersing Agent is selected from Methyl Napthalene sulfonic acid polymer with formaldehyde sodium salt;</li>
+        <li id="ul0017-0005" num="0142">e) Sodium lauryl sulphate as Wetting Agent;</li>
+        <li id="ul0017-0006" num="0143">f) Siloxane polyalkyleneoxide as Antifoaming Agent;</li>
+        <li id="ul0017-0007" num="0144">g) Citric acid/Sod. Bicarbonate as Disintegration Agent;</li>
+        <li id="ul0017-0008" num="0145">h) Fillers.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0079" num="0146">The composition according to the invention can be applied to any and all developmental stages of pests, in particular sucking pests, such as egg, nymph, larva, pupa, and adult. The pests may be controlled by contacting the target pest, its food supply, habitat, breeding ground or its locus with a pesticidally effective amount of the inventive composition.</p>
+<p id="p-0080" num="0147">The inventors of the present invention have surprisingly found that the composition of the present invention is synergetic in nature. The synergetic composition of the present invention is more effective than their individual counterparts or when two actives are taken together. The synergetic composition of the present invention also makes it possible to use markedly smaller quantities of the active ingredients as compared to their individual counterparts. This allows a substantial reduction in the application rates of each of these active ingredients, while maintaining good efficacy. The decrease in application rates reduces treatment cost to the farmer and also eases the burden on the environment both from manufacturing waste and crop protection chemical residues.</p>
+<p id="p-0081" num="0148">The synergistic pesticidal composition of present invention provides a wide spectrum control of insect-pests, delays the emergence of the resistant strains, minimizing the risk of development of resistance, and achieves effective and economical control of undesired insect-pest.</p>
+<p id="p-0082" num="0149">The synergistic composition of the present invention provides a number of other advantages:
+<ul id="ul0018" list-style="none">
+    <li id="ul0018-0001" num="0000">
+    <ul id="ul0019" list-style="none">
+        <li id="ul0019-0001" num="0150">Increased efficacy in comparison to the other formulations tested during the trial.</li>
+        <li id="ul0019-0002" num="0151">Economically beneficial to the farmers as it provides better yield of the crop with reduction in the number of sprays.</li>
+        <li id="ul0019-0003" num="0152">Reduced possibility of hazards to the farmers due to occupational exposure because of reduction in the number of sprays.</li>
+        <li id="ul0019-0004" num="0153">Is storage stable.</li>
+        <li id="ul0019-0005" num="0154">Is non-phytotoxic.</li>
+        <li id="ul0019-0006" num="0155">Environmental friendly</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0083" num="0156">The novel active ingredient composition has very advantageous curative, preventive and systemic pesticidal properties for protecting cultivated plants. As has been mentioned, said active ingredient composition can be used to inhibit or destroy the pathogens that occur on plants or parts of plants (fruit, blossoms, leaves, stems, tubers, roots) of different crops or useful plants, while at the same time those parts of plants which grow later are also protected from attack by such pathogens. Active ingredient composition has the special advantage of being highly active against diseases in the soil that mostly occur in the early stages of plant development.</p>
+<p id="p-0084" num="0157">The compositions of Diafenthiuron; Pyriproxyfen and at least agrochemically active ingredients selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, and Pymetrozine are also suitable for controlling against many phytophagous insects pests likes; Aphid, Jassid, Thrips, Mealybugs, Scales, Leaf miner, Gall midges, shootfly, stemfly, stemborer, root borer, fruitborer. It controls insects pests from the following orders: Lepidoptera, for example <i>Agrotis ipsilon, Anticarsia gemmatalis, Chilo partellus, Cnaphalocrosis medinalis, Cydia pomonella, Diaphania nitidalis, Earias insulana, Elasmopalpus lignosellus, Heliothis armigera, Heliothis virescens, Heliothis zea, Hellula undalis, Hyphantria cunea, Hyponomeuta malinellus, Leucoptera coffeella, Leucoptera scitella, Ostrinia nubilalis, Panolis flammea, Pectinophora gossypiella, Peridroma saucia, Phalera bucephala, Phthorimaea operculella, Phyllocnistis citrella, Pieris bras</i>-<i>sicae, Plutella xylostella, Sitotroga cerealella, Sesamia inferans, Sparganothis pilleriana, Spodoptera frugiperda, Spodoptera littoralis, Spodoptera litura, Thaumatopoea pityocampa, Tortrix viridana, Trichoplusia ni</i>, beetles (Coleoptera), for example <i>Agrilus sinuatus, Agriotes lineatus, Agriotes obscu</i>-<i>rus, Amphimallus solstitialis, Anisandrus dispar, Anthonomus grandis, Anthonomus pomorum, Aphthona euphoridae, Apogonia aerea, Athous haemorrhoidalis, Atomaria linearis, Blasto</i>-<i>phagus piniperda, Blitophaga undata, Brahmina coriacea, Bruchus rufimanus, Bruchus pisorum, Bruchus lentis, Byctiscus betulae, Cassida nebulosa, Cerotoma trifurcata, Cetonia aurata, Ceuthorrhynchus assimilis, Ceuthorrhynchus napi, Chaetocnema tibialis, Conoderus vespertinus, Crioceris asparagi, Ctenicera </i>ssp., <i>Diabrotica longicornis, Diabrotica semipunctata, Diabrotica </i>12-<i>punctata Diabrotica speciosa, Diabrotica virgifera, Epila</i>-<i>chna varivestis, Epitrix hirtipennis, Eutinobothrus brasiliensis</i>, White grub species, <i>Holotrichia consanguinea, Holotrichia serrata, Holotrichia longipennis, Hylobius abietis, Hypera brunneipennis, Hypera postica, Ips typographus, Lema bilineata, Lema melanopus, Lepidiota stigma, Leptinotarsa decemlineata, Limonius califomicus, Lissorhoptrus oryzophilus, Melanotus communis, Meligethes aeneus, Melolontha hippocastani, Melolontha melolontha, Oberea </i>(<i>Obereopsis</i>) <i>brevis, Oulema oryzae, Ortiorrhynchus sulcatus, Otiorrhynchus ovatus, Phaedon cochleariae, Phyllobius pyri, Phyllotreta chrysocephala, Phyllophaga </i>sp., <i>Phyllopertha horticola, Phyllotreta nemorum, Phyllotreta striolata, Popillia japonica, Sitona lineatus </i>and <i>Sito</i>-<i>philus gran aria</i>, flies, (Diptera), e.g. <i>Atherigona orientalis, Atherigona soccata, Athalia lugen proxima, Dacus cucurbi</i>-<i>tae, Dacus oleae, Glossina palpalis, Haematobia irritans, Haplodiplosis equestris, Hippelates </i>spp., <i>Hylemyia platura, Hypoderma lineata, Leptoconops torrens, Leaf miner, Liriomyza sativae, Liriomyza trifolii, Lucilia caprina, Lucilia cuprina, Lucilia sericata, Lycoria pectoralis, Mansonia titillanus, Mayetiola destructor, Oscinella frit, Phorbia brassicae, Prosimulium mixtum, Rhagoletis cerasi, Sarcophaga </i>sp., <i>Simulium vittatum, Stomoxys calcitrans, Tabanus bovinus, Tabanus atratus, Tabanus lineola</i>, and <i>Tabanus similis, Tipula oleracea</i>, and <i>Tipula paludosa, thrips </i>(Thysanoptera), e.g. <i>Dichromothrips corbetti, Dichromothrips </i>ssp, <i>Frankliniella fusca, Frankliniella occidentalis, Frankliniella tritici, Scirtothrips citri, Scirtothrips dorsalis, Thrips oryzae, Thrips palmi </i>and <i>Thrips tabaci</i>, termites (Isoptera), e.g. <i>Calotermes flavicollis, Coptotermes formosanus, Heterotermes aureus, Leucotermes flavipes, Microtermes </i>spp., <i>Odontotermes, Reticulitermes flavipes, Reticulitermes virginicus, Reticulitermes lucifugus </i>and <i>Termes natalensis</i>; true bugs (Hemiptera), e.g. <i>Acrosternum hilare, Amrasca biguttula biguttula, Amrasca devastans, Blissus leucopterus, Dysdercus cingulatus, Eurygaster integriceps, Euschistus impictiventris, Leptoglossus phyllopus, Lygus lineolaris, Lygus pratensis, Nezara viridu</i>-<i>la, Piesma quadrata, Solubea insularis, Thyanta perditor, Acyrthosiphon onobrychis, Adelges laricis, Aphidula nasturtii, Aphis fabae, Aphis forbesi, Aphis pomi, Aphis gossypii, Aphis crassivora, Aphis grossulariae, Aphis schneideri, Aphis spiraecola, Aphis sambuci, Acyrtho</i>-<i>siphon pisum, Aulacorthum solani, Bemisia argentifolii, Bemisia tabaci, Brachycaudus cardui, Brachy</i>-<i>caudus helichrysi, Brachycaudus persicae, Brachycaudus prunicola, Brevicoryne brassicae, Capitophorus horni, Cerosipha gossypii, Chaetosiphon fragaefolii, Cryptomyzus ribis, Dreyfusia nordmannianae, Dreyfusia piceae, Dysaphis radicola, Dysaulacorthum pseudosolani, Dysaphis plantaginea, Dysaphis pyri, Empoasca fabae, Hyalopterus pruni, Hyperomyzus lactucae, Macrosiphum avenae, Macrosiphum euphorbiae, Ma</i>-<i>crosiphon rosae, Megoura viciae, Melanaphis pyrarius, Metopolophium dirhodum, My</i>-<i>zus persicae, Myzus ascalonicus, Myzus cerasi, Myzus varians, Nasonovia ribis</i>-<i>nigri, Nilaparvata lugens, Pemphigus bursarius, Perkinsiella saccharicida, Phorodon humuli, Psylla mail, Psylla piri, Rhopalomyzus ascalonicus, Rhopalosiphum maidis, Rhopalosi</i>-<i>phum padi, Rhopalosiphum insertum, Sappaphis mala, Sappaphis mail, Schizaphis graminum, Schizoneura lanuginosa, Sitobion avenae, Trialeurodes vaporariorum, Toxoptera aurantiia d, Viteus vitifolii, Cimex lectularius, Cimex hemipterus, Reduvius senilis, Triatoma </i>spp., and <i>Arilus critatus, Trialeurodes vaporariorum, Amrasca biguttula, Empoasca </i>spp., <i>Myzus </i>spp., <i>Nephotettix </i>spp., <i>Nilaparvata </i>spp., <i>Planococcus </i>spp., <i>Pseudococcus </i>spp., <i>Psylla </i>spp., <i>Rhopalosiphum </i>spp., <i>Sitobion </i>spp., <i>Amritodus atkinsoni, Idioscopus </i>spp., ants, bees, wasps, sawflies (Hymenoptera), e.g. <i>Athalia rosae, Atta cephalotes, Atta capiguara, Atta cephalotes, Atta laevigata, Atta robusta, Atta sexdens, Atta texana, Crematogaster </i>spp., <i>Hoplocampa minuta, Hoplocampa testudinea, Monomorium pha</i>-<i>raonis, Solenopsis geminata, Solenopsis invicta, Solenopsis richteri, Solenopsis xyloni, Pogonomyrmex barbatus, Pogonomyrmex californicus, Pheidole megacephala, Dasy</i>-<i>mutilla occidentalis, Bombus </i>spp. <i>Vespula squamosa, Paravespula vulgaris, Paraves</i>-<i>pula pennsylvanica, Paravespula germanica, Dolichovespula maculata, Vespa crabro, Polistes rubiginosa, Camponotus floridanus</i>, and <i>Linepithema humile</i>, crickets, grasshoppers, locusts (Orthoptera), e.g. <i>Acheta domestica, Gryllotalpa gryllo</i>-<i>talpa, Locusta migratoria, Melanoplus bivittatus, Melanoplus femurrubrum, Melanoplus mexicanus, Melanoplus sanguinipes, Melanoplus spretus, Nomadacris septemfasciata, Schistocerca americana, Schistocerca gregaria, Dociostaurus maroccanus, Tachycines asynamorus, Oedaleus senegalensis, Zonozerus variegatus, Hieroglyphus daganensis, Kraussaria angulifera, Calliptamus italicus, Chortoicetes terminifera</i>, and <i>Locustana pardalina</i>, plant parasitic nematodes such as root-knot nematodes, <i>Meloidogyne arenaria, Meloidogyne incognita, Meloidogyne javanica</i>; cyst nematodes, <i>Globodera rostochiensis, Heterodera avenae</i>; seed gall nematodes, <i>Anguina funesta, Anguina tritici </i>and other <i>Anguina </i>species; stem and foliar nematodes, <i>Aphelenchoides besseyi</i>, sting nematodes, <i>Belonolaimus longicaudatus </i>and other plant parasitic nematode species.</p>
+<p id="p-0085" num="0158">Suitable targets for seed treatment are various crop seeds, fruit species, vegetables, spices and ornamental seed, for example corn/maize (sweet and field), durum wheat, soybean, Groundnut, wheat, barley, oats, rye, triticale, bananas, rice, cotton, sunflower, potatoes, pasture, alfalfa, grasses, turf, sorghum, rapeseed, <i>Brassica </i>spp., sugar beet, egg-plants, tomato, lettuce, iceberg lettuce, pepper, cucumber, squash, melon, bean, dry-beans, peas, leek, garlic, onion, cabbage, carrot, tuber such as sugar cane, tobacco, coffee, turf and forage, cruciferous, cucurbits, grapevines, pepper, fodder beet, oil seed rape, pansy, impatiens, petunia and geranium.</p>
+<p id="p-0086" num="0159">The composition of the present invention is effective for management of insect or pests in of Cotton (<i>Gossypium </i>spp.), Paddy (<i>Oryza sativa</i>), Wheat (<i>Triticumaestavum</i>), Barley (<i>Hordeumvulgare</i>), Maize (<i>Zea mays</i>), Sorghum (<i>Sorghum bicolor</i>), Sugarcane (<i>Saccharumofficinarum</i>), Sugarbeet (<i>Beta vulgaris</i>), Soybean (<i>Glycin max</i>), Peanut (<i>Arachishypogaea</i>), Sunflower (<i>Helianthus annuus</i>), Mustard (<i>Brassica juncea</i>), Rape seed (<i>Brassica napus</i>), Linseed (<i>Linumusitatissimum</i>), Sesame (<i>Sesamumindicum</i>), Castor (<i>Ricinuscommunis</i>), Green gram (<i>Vigna </i>radiate), Black gram (<i>Vignamungo</i>), Chickpea (<i>Ciceraritinum</i>), Cowpea (<i>Vignaunguiculata</i>), Redgram (<i>Cajanuscajan</i>), Frenchbean (<i>Phaseolus vulgaris</i>), Indian bean (<i>Lablab purpureus</i>), Horse gram (<i>Macrotylomauniflorum</i>), Field pea (<i>Pisumsativum</i>), Cluster bean (<i>Cyamopsistetragonoloba</i>), Lentils (<i>Lens culinaris</i>), Brinjal (<i>Solanum melongena</i>), Cabbage (<i>Brassica oleracea </i>var. <i>capitata</i>), Cauliflower (<i>Brassica oleracea </i>var. <i>botrytis</i>), Okra (<i>Abelmoschus esculentus</i>), Onion (<i>Allium cepa </i>L.), Tomato (<i>Solanumlycopersicun</i>), Potato (<i>Solanumtuberosum</i>), Sweet potato (<i>Ipomoea batatas</i>), Chilly (<i>Capsicum </i>annum), Garlic (<i>Allium sativum</i>), Cucumber (<i>Cucumissativus</i>), Muskmelons (<i>Cucumismelo</i>), Watermelon (<i>Citrulluslanatus</i>), Bottle gourd (<i>Lagenariasiceraria</i>), Bitter gourd (<i>Momordicacharantia</i>), Radish (<i>Raphanussativus</i>), Carrot (<i>Dacuscarota </i>sub sp. <i>sativus</i>), Turnip (<i>Brassica rapasubsprapa</i>), Apple (<i>Melusdomestica</i>), Banana (<i>Musa </i>spp.), Citrus groups (<i>Citrus </i>spp.), Grape (<i>Vitisvinifera</i>), Guava (<i>Psidiumguajava</i>), Litchi (<i>Litchi chinensis</i>), Mango (<i>Mangiferaindica</i>), Papaya (<i>Carica papaya</i>), Pineapple (<i>Ananascomosus</i>), Pomegranate (<i>Punicagranatum</i>), Sapota (<i>Manilkarazapota</i>), Tea (<i>Camellia sinensis</i>), Coffea (<i>Coffea Arabica</i>), Turmeric (<i>Curcuma longa</i>), Ginger (<i>Zingiberofficinale</i>), Cumin (<i>Cuminumcyminum</i>), Fenugreek (<i>Trigonellafoenum</i>-<i>graecum</i>), Fennel (<i>Foeniculumvulgare</i>), Coriander (<i>Coriandrumsativum</i>), Ajwain (<i>Trachyspermumammi</i>), Psyllium (<i>Plantago ovate</i>), Black Pepper (<i>Piper nigrum</i>), Stevia (<i>Stevia rebaudiana</i>), Safedmusli (<i>Chlorophytumtuberosum</i>), Drum stick (<i>Moringaoleifera</i>), Coconut (<i>Coco nucifera</i>), Mentha (<i>Mentha </i>spp.), Rose (<i>Rosa </i>spp.), Jasmine (<i>Jasminum </i>spp.), Marigold (<i>Tagetes </i>spp.), Common daisy (<i>Bellisperennis</i>), Dahlia (<i>Dahlia hortnesis</i>), Gerbera (<i>Gerbera jamesonii</i>), Carnation (<i>Dianthus caryophyllus</i>) or GMO form thereof.</p>
+<p id="p-0087" num="0160">The composition of the present invention can be used to control the insects-pests belongs to Lepidopteran insects, Chilopartellus, Chilosuppressalis, Cydiapomonella, Plutellaxylostella, Peirisrapae, beetles (coleopteran), e.g. <i>Dicladispaarmigera, Phyllotretanemorum, Phyllotretastriolata</i>, flies (Diptera), e.g. <i>Atherigonaorientalis, Dacuscucurbi</i>-<i>tae, Dacusoleae, Liriomyzasativae, Liriomyzatrifolii, Melanagromyza obtuse, Ophiomyiaphaseli, thrips </i>(Thysanoptera), e.g. <i>Frankliniellaoccidentalis, Scirtothripscitri, Scirtothrips dorsalis, Thrips oryzae, Thrips palmi </i>and <i>Thrips tabaci</i>, true bugs (Hemiptera), e.g. <i>Amrascabiguttulabiguttula, Amrascadevastans, Amritodusatkinsoni, Aphis fabae, Aphis pomi, Aphis gossypii, Aphis crassivora, Bemisiaargentifolii, Bemisiatabaci, Brevicorynebrassicae, Clavigrallagibbosa, Dysdercuscingulatus, Idioscopus </i>spp., <i>Leptocorisaacuta, Lyguslineolaris, Myzuspersicae, Nilaparvatalugens, Nephotettixvirescens, Nephotettixnigropictus, Planococcus </i>spp., <i>Pseudococcus </i>spp., <i>Pyrillaperpusilla, Psylla mail, Psyllapiri, Rhopalomyzusascalonicus, Rhopalosiphummaidis, Rhopalosi</i>-<i>phumpadi, Rhopalosiphuminsertum, Sappaphis mala, Sappaphis mail, Schizaphisgraminum, Schizoneuralanuginosa, Sitobionavenae, Sogatellafurcifera, Trialeurodesvaporariorum, Toxopteraaurantiia, Psylla </i>spp., <i>Rhopalosiphum </i>spp., <i>Sitobion </i>spp., crickets, grasshoppers, locusts (Orthoptera), e.g. <i>Gryllotalpagryllo</i>-<i>talpa, Locustamigratoria, Melanoplusbivittatus, Locustanapardalina</i>, from the order Acarina, for example, <i>Brevipalpus </i>spp., <i>Eriophyes </i>spp., <i>Olygonychuscoffeae, Panonychus </i>spp., <i>Polyphagotarsonemuslatus, Tarsonemus </i>spp. and <i>Tetranychus </i>spp. (<i>Tetranychusurticae, Tetranychuscinnabarinus, Tetranychustelarius</i>).</p>
+<p id="p-0088" num="0161">The term seed treatment comprises all suitable seed treatment techniques known in the art, such as, but not limited to, seed dressing, seed coating, seed dusting, seed soaking, seed film coating, seed multilayer coating, seed encrusting, seed dripping, and seed pelleting.</p>
+<p id="p-0089" num="0162">The active ingredient composition according to the invention are especially advantageous for seed treatment of oil seed rape, wheat, corn, rye, barley, oats, sorghum, sunflowers, rice, maize, turf and forage, sugar beet, beans, peas, soybeans, ornamentals, and vegetables such as cucurbits, tomatoes, eggplant, potatoes, pepper, lettuce, cabbage, carrots, cruciferous.</p>
+<p id="p-0090" num="0163">The term &#x201c;health of a plant&#x201d; or &#x201c;plant health&#x201d; is defined as a condition of the plant and/or its products. As a result of the improved health, yield, plant vigor, quality and tolerance to abiotic or biotic stress are increased. Noteworthy, the health of a plant when applying the method according to the invention, is increased independently of the pesticidal properties of the active ingredients used because the increase in health is not based upon the reduced pest pressure but instead on complex physiological and metabolic reactions which result for example in an activation of the plant's own natural defense system. As a result, the health of a plant is increased even in the absence of pest pressure. Accordingly, in an especially preferred embodiment of the method according to the invention, the health of a plant is increased both in the presence and absence of biotic or abiotic stress factors. The above identified indicators for the health condition of a plant may be interdependent or they may result from each other. An increase in plant vigor may for example result in an increased yield and/or tolerance to abiotic or biotic stress. One indicator for the condition of the plant is the yield. &#x201c;Yield&#x201d; is to be understood as any plant product of economic value that is produced by the plant such as grains, fruits in the proper sense, vegetables, nuts, grains, seeds, wood (e.g. in the case of silviculture plants) or even flowers (e.g. in the case of gardening plants, ornamentals). The plant products may in addition be further utilized and/or processed after harvesting.</p>
+<p id="p-0091" num="0164">In an especially preferred embodiment of the invention, the yield of the treated plant is increased.</p>
+<p id="p-0092" num="0165">In another preferred embodiment of the invention, the yield of the plants treated according to the method of the invention, is increased synergistically.</p>
+<p id="p-0093" num="0166">According to the present invention, &#x201c;increased yield&#x201d; of a plant, in particular of an agricultural, silvicultural and/or horticultural plant means that the yield of a product of the respective plant is increased by a measurable amount over the yield of the same product of the plant produced under the same conditions, but without the application of the mixture according to the invention.</p>
+<p id="p-0094" num="0167">Increased yield can be characterized, among others, by the following improved proper-ties of the plant: increased plant, weight, increased plant height, increased biomass such as higher overall fresh weight (FW), increased number of flowers per plant, higher grain yield, more tillers or side shoots (branches), larger leaves, increased shoot growth, increased protein content, increased oil content, increased starch content, increased pigment content, increased leaf are index. According to the present invention, the yield is increased by at least 4%, preferable by 5 to 10%, more preferable by 10 to 20%, or even 20 to 30% compared to the untreated control plants or plants treated with pesticides in a way different from the method according to the present invention. In general, the yield increase may even be higher.</p>
+<p id="p-0095" num="0168">A further indicator for the condition of the plant is the plant vigor. The plant vigor becomes manifest in several aspects such as the general visual appearance. In another especially preferred embodiment of the invention, the plant vigor of the treated plant is increased. In another preferred embodiment of the invention, the plant vigor of the plants treated according to the method of the invention is increased synergistically. Improved plant vigor can be characterized, among others, by the following improved properties of the plant: improved vitality of the plant, improved plant growth, improved plant development, improved visual appearance, improved plant stand (less plant verse/lodging), improved emergence, enhanced root growth and/or more developed root system, enhanced nodulation, in particular rhizobial nodulation, bigger leaf blade, bigger size, increased plant weight, increased plant height, increased tiller number, increased number of side shoots, increased number of flowers per plant, increased shoot growth, increased root growth (extensive root system), increased yield when grown on poor soils or unfavorable climate, enhanced photosynthetic activity (e.g. based on increased stomatal conductance and/or increased C02 assimilation rate), increased stomatal conductance, increased C02 assimilation rate, enhanced pigment content (e.g. chlorophyll content), earlier flowering, earlier fruiting, earlier and improved germination, earlier grain maturity, improved self-defense mechanisms, improved stress tolerance and resistance of the plants against biotic and abiotic stress factors such as fungi, bacteria, viruses, insects, heat stress, cold stress, drought stress, UV stress and/or salt stress, less non-productive tillers, less dead basal leaves, less input needed (such as fertilizers or water), greener leaves, complete maturation under shortened vegetation periods, less fertilizers needed, less seeds needed, easier harvesting, faster and more uniform ripening, longer shelf-life, longer panicles, delay of senescence, stronger and/or more productive tillers, better extractability of ingredients, improved quality of seeds (for being seeded in the following seasons for seed production), better nitrogen uptake, improved reproduction, reduced production of ethylene and/or the inhibition of its reception by the plant.</p>
+<p id="p-0096" num="0169">The improvement of the plant vigor according to the present invention particularly means that the improvement of any one or several or all of the above mentioned plant characteristics are improved independently of the pesticidal action of the mixture or active ingredients (components).</p>
+<p id="p-0097" num="0170">Another indicator for the condition of the plant is the &#x201c;quality&#x201d; of a plant and/or its products.</p>
+<p id="p-0098" num="0171">In an especially preferred embodiment of the invention, the quality of the treated plant is increased.</p>
+<p id="p-0099" num="0172">In another preferred embodiment of the invention, the quality of the plants treated according to the method of the invention, is increased synergistically.</p>
+<p id="p-0100" num="0173">According to the present invention, enhanced quality means that certain plant characteristics such as the content or composition of certain ingredients are increased or improved by a measurable or noticeable amount over the same factor of the plant produced under the same conditions, but without the application of the mixtures of the present invention. Enhanced quality can be characterized, among others, by following improved properties of the plant or its product: increased nutrient content, increased protein content, increased content of fatty acids, increased metabolite content, increased carotenoid content, increased sugar content, increased amount of essential amino acids, improved nutrient composition, improved protein composition, improved composition of fatty acids, improved metabolite composition, improved carotenoid composition, improved sugar composition, improved amino acids composition, improved or optimal fruit color, improved leaf color, higher storage capacity, higher processability of the harvested products.</p>
+<p id="p-0101" num="0174">Another indicator for the condition of the plant is the plant's tolerance or resistance to biotic and/or abiotic stress factors. Biotic and abiotic stress, especially over longer terms, can have harmful effects on plants. Biotic stress is caused by living organisms while abiotic stress is caused for example by environmental extremes. According to the present invention, &#x201c;enhanced tolerance or resistance to biotic and/or abiotic stress factors&#x201d; means (1.) that certain negative factors caused by biotic and/or abiotic stress are diminished in a measurable or noticeable amount as compared to plants exposed to the same conditions, but without being treated with a mixture according to the invention and (2.) that the negative effects are not diminished by a direct action of the mixture according to the invention on the stress factors, e.g. by its fungicidal or 10 insecticidal action which directly destroys the microorganisms or pests, but rather by a stimulation of the plants' own defensive reactions against said stress factors.</p>
+<p id="p-0102" num="0175">Formulation of the present invention can be in any of the formulations selected from Emulsifiable concentrate (EC), Emulsifiable granule (EG), Emulsion water-in-oil (EO), Emulsifiable powder (EP), Emulsion for seed treatment (ES), Emulsion oil-in-water (EW), Flowable Slurry (FS), Flowable Suspension (FS), Suspension Concentrate (SC), Suspension concentrate for direct application (SD), Suspo-emulsion (SE), Water soluble granule (SG), Soluble concentrate (SL), Water soluble powder (SP), Water dispersible powder for slurry seed treatment (WS), Water dispersible granules (WDG), Wettable powders (WP), Water dispersible powder for slurry seed treatment (WS), Water dispersible tablet (WT), a mixed formulation of CS and SC (ZC) or A mixed formulation of CS and SE (ZE), a mixed formulation of CS and EW (ZW) comprising (A) Diafenthiuron (B) Pyriproxyfen (C) at least one insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, and Pymetrozine and one or more inactive excipients such as a) dispersant b) wetting agent c) anti-foaming agent d) biocides/anti-bacterial e) anti-freezing agent f) suspending agent g)thickener h) coating agent and i) buffering agent and binders.</p>
+<p id="p-0103" num="0176">One or more of the active ingredients is encapsulated for various purposes, such as to increase the residual biological activity, or to reduce the acute toxicity, or to obtain a physical or chemically stable water-based formulation. The purpose determines whether the &#x201c;free&#x201d; active ingredient and the &#x201c;release rate&#x201d; are relevant properties of a specific product.</p>
+<p id="p-0104" num="0177">Diafenthiuron; Pyriproxyfen; and at least one insecticides selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, Pymetrozine; which are bio active ingredient for the present composition are present in specific fixed ratio.</p>
+<p id="p-0105" num="0178">The composition of the present invention in addition to bioactive amounts of Diafenthiuron; Pyriproxyfen; and one more agrochemically active ingredients selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, Pymetrozine; further comprises inactive excipients including but not limited to dispersant, anti-freezing agent, anti-foam agent, wetting agent, suspension aid, antimicrobial agent, thickener, quick coating agent or sticking agents (also referred to as &#x201c;stickers&#x201d; or &#x201c;binders&#x201d;) and buffering agent.</p>
+<p id="p-0106" num="0179">An agriculturally acceptable carrier may be solid, liquid or both. Solid carries are essentially: mineral earth such as silicas, silica gels, silicates, talc, kaolin, montmorillonite, attapulgite, pumice, sepiolite, bentonite, limestone, lime, chalk, bole, loes, clay, dolomite, diatomaceous earth, calcite, calcium sulfate, magnesium sulfate, magnesium sulfate, magnesium oxide, sand, ground plastics, ferilizers such as ammonium sulfate, ammonium phosphate, ammonium nitrate, ureas, and crushed products of vegetable origin such as cereal meal, tree bark meal, wood meal and nutshell meal, cellulose powders, or other solid carriers.</p>
+<p id="p-0107" num="0180">The synergistic composition of Diafenthiuron; Pyriproxyfen; and at least one agrochemically active ingredients selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, Pymetrozine may optionally include surfactant(s) which are non-ionic, cationic and/or anionic in nature and surfactant mixtures which have good emulsifying, dispersing and wetting properties, depending on the nature of the active ingredient to be formulated. Suitable anionic surfactants can be both so-called water-soluble soaps and water-soluble synthetic surface-active compounds. Soaps which may be included as a surfactant are the alkali metal, alkaline earth metal or substituted or unsubstituted ammonium salts of higher fatty acids (C<sub>10</sub>-C<sub>22</sub>), for example the sodium or potassium salt of oleic or stearic acid, or of natural fatty acid mixtures.</p>
+<p id="p-0108" num="0181">A dispersant is a substance which adsorbs onto the surface of particles and helps to preserve the state of dispersion of the particles and prevents them from re-aggregating. Dispersants are added to agrochemical formulations to facilitate dispersion and suspension during manufacture, and to ensure the particles re-disperse into water in a spray tank. They are widely used in wettable powders, suspension concentrates and water-dispersible granules. Surfactants that are used as dispersants have the ability to adsorb strongly onto a particle surface and provide a charged or steric barrier to reaggregation of particles. The most commonly used surfactants are anionic, non-ionic, or mixtures of the two types. For wettable powder formulations, the most common dispersants are sodium lingo sulphonates. For suspension concentrates, very good adsorption and stabilization are obtained using polyelectrolytes, such as sodium naphthalene sulphonate formaldehyde condensates. Tristyryl phenol ethoxylate phosphate esters are also used. Nonionics such as alkyl aryl ethylene oxide condensates and EO-PO block copolymers are sometimes combined with anionics as dispersants for suspension concentrates. In recent years, new types of very high molecular weight polymeric surfactants have been developed as dispersants. These have very long hydrophobic &#x2018;backbones&#x2019; and a large number of ethylene oxide chains forming the &#x2018;teeth&#x2019; of a &#x2018;comb&#x2019; surfactant. These high molecular weight polymers can give very good long-term stability to suspension concentrates because the hydrophobic backbones have many anchoring points onto the particle surfaces. Examples of dispersants used herein include but not limited to sodium lingo sulphonates; sodium naphthalene sulphonate formaldehyde condensates; tristyryl phenol ethoxylate phosphate esters; aliphatic alcohol ethoxylates; alky ethoxylates; EO-PO block copolymers; and graft copolymers or mixtures thereof.</p>
+<p id="p-0109" num="0182">Anti-freezing agent as used herein can be selected from the group consisting of polyethylene glycols, methoxy polyethylene glycols, polypropylene glycols, polybutylene glycols, glycerine and ethylene glycol. Water-based formulations often cause foam during mixing operations in production. In order to reduce the tendency to foam, anti-foam agents are often added either during the production stage or before filling into bottles. Generally, there are two types of antifoam agents, namely silicones and non-silicones. Silicones are usually aqueous emulsions of dimethyl poly siloxane while the non-silicone anti-foam agents are water-insoluble oils, such as octanol and nonanol, or silica. In both cases, the function of the anti-foam agent is to displace the surfactant from the air-water interface.</p>
+<p id="p-0110" num="0183">A wetting agent is a substance that when added to a liquid increases the spreading or penetration power of the liquid by reducing the interfacial tension between the liquid and the surface on which it is spreading. Wetting agents are used for two main functions in agrochemical formulations: during processing and manufacture to increase the rate of wetting of powders in water to make concentrates for soluble liquids or suspension concentrates; and during mixing of a product with water in a spray tank or other vessel to reduce the wetting time of wettable powders and to improve the penetration of water into water-dispersible granules. Examples of wetting agents used in wettable powder, suspension concentrate, and water-dispersible granule formulations include but not limited to sodium lauryl sulphate; sodium dioctyl sulpho succinate; alkyl phenol ethoxylates; and aliphatic alcohol ethoxylates or mixtures thereof.</p>
+<p id="p-0111" num="0184">Suspension aid in the present description denotes a natural or synthetic, organic or inorganic material with which the active substance is combined in order to facilitate its application to the plant, to the seeds or to the soil. This carrier is hence generally inert, and it must be agriculturally acceptable, in particular to the plant being treated. The carrier may be solid (clays, natural or synthetic silicates, silica, resins, waxes, solid fertilizers, and the like or mixtures thereof) or liquid (water, alcohols, ketones, petroleum fractions, aromatic or paraffinic hydrocarbons, chlorinated hydrocarbons, liquefied gases, and the like or mixtures thereof).</p>
+<p id="p-0112" num="0185">An emulsifier is a kind of surfactant. It helps to prevent the droplets of the dispersed phase of an emulsion from flocculating or coalescing in the emulsion. It can be or include a cationic, zwitterionic or a non-ionic emulsifier.</p>
+<p id="p-0113" num="0186">Biocides/Ant-bacterials: Microorganisms cause spoilage of formulated products. Therefore antimicrobial agents are used to eliminate or reduce their effect. Examples of such agents include, but are not limited to: propionic acid and its sodium salt; sorbic acid and its sodium or potassium salts; benzoic acid and its sodium salt; p-hydroxy benzoic acid sodium salt; methyl p-hydroxy benzoate; and biocide such as sodium benzoate, 1,2-benzisothiazoline-3-one, 2-methyl-4-isothiazolin-3-one, 5-chloro-2-methyl-4-isothiazolin-3-one, potassium sorbate, para hydroxy benzoates or mixtures thereof.</p>
+<p id="p-0114" num="0187">Thickeners or gelling agents are used mainly in the formulation of suspension concentrates, emulsions and suspoemulsions to modify the rheology or flow properties of the liquid and to prevent separation and settling of the dispersed particles or droplets. Thickening, gelling, and anti-settling agents generally fall into two categories, namely water-insoluble particulates and water-soluble polymers. It is possible to produce suspension concentrate formulations using clays and silicas. Examples of these types of materials, include, but are limited to, montmorillonite, e.g. bentonite; magnesium aluminum silicate; and attapulgite. Water-soluble polysaccharides have been used as thickening-gelling agents for many years. The types of polysaccharides most commonly used are natural extracts of seeds and seaweeds are synthetic derivatives of cellulose or mixtures thereof. Examples of these types of materials include, but are not limited to, guar gum; locust bean gum; carrageenam; xanthan gum; alginates; methyl cellulose; sodium carboxymethyl cellulose (SCMC); hydroxyethyl cellulose (HEC) or mixtures thereof. Other types of anti-settling agents are based on modified starches, polyacrylates, polyvinyl alcohol and polyethylene oxide or mixtures.</p>
+<p id="p-0115" num="0188">The quick coating agent can be a conventionally available sticker, for example polyesters, polyamides, poly-carbonates, polyurea and polyurethanes, acrylate polymers and copolymers, styrene copolymers, butadiene copolymers, polysaccharides such as starch and cellulose derivatives, vinyl alcohol, vinyl acetate and vinyl pyrrolidone polymers and copolymers, polyethers, epoxy, phenolic and melamine resins, polyolefins and define copolymers and mixtures thereof. Examples of preferred polymers are acrylate polymers such as poly(methacrylate), poly(ethyl methacrylate), poly(methyl methacrylate), acrylate copoylmers and styrene-acrylic copolymers as defined herein below, poly(styrene-co maleic anhydride), cellulosic polymers such as ethyl cellulose, cellulose acetate, cellulose acetatebutyrate, acetylated mono, di, and triglycerides, poly(vinyl pyrrolidone), vinyl acetate polymers and copolymers, poly(alkylene glycol), styrene butadiene copolymers, poly(ortho esters), alkyd resins, and mixtures of two or more of these.</p>
+<p id="p-0116" num="0189">Polymers that are biodegradable are also useful in the present invention. As used herein, a polymer is biodegradable if is not water soluble, but is degraded over a period of several weeks when placed in an application environment. Examples of biodegradable polymers that are useful in the present invention include biodegradable polyesters, starch, polylactic acid starch blends, polylactic acid, poly(lactic acid-glycolic acid) copolymers, polydioxanone, cellulose esters, ethyl cellulose, cellulose acetate butyrate, starch esters, starch ester aliphatic polyester blends, modified corn starch, poly capro lactone, poly(namylmethacrylate), wood rosin, poly anhydrides, poly vinyl alcohol, poly hydroxyl butyrate valerate, biodegradable aliphatic polyesters, and poly hydroxyl butyrate or mixtures thereof.</p>
+<p id="p-0117" num="0190">A defoamer, also called as anti-foaming agent, is generally added to the composition as foam formation prevents the efficient filling of a container. Suitable defoamer used herein, but not limited to, Siloxane polyalkylene oxide.</p>
+<p id="p-0118" num="0191">Buffering agent as used herein is selected from group consisting of calcium hydroxyapatite, Potassium Dihydrogen Phosphate, Sodium Hydroxide, carbonated apatite, calcium carbonate, sodium bicarbonate, tricalcium phosphate, calcium phosphates, carbonated calcium phosphates, amine monomers, lactate dehydrogenase and magnesium hydroxide.</p>
+<p id="p-0119" num="0192">The solvent for the formulation of the present invention may include water, water soluble alcohols and dihydroxy alcohol ethers. The water-soluble alcohol which can be used in the present invention may be lower alcohols or water-soluble macromolecular alcohols. The term &#x201c;lower alcohol&#x201d;, as used herein, represents an alcohol having 1-4 carbon atoms, such as methanol, ethanol, n-propanol, isopropanol, n-butanol, tertbutanol, etc. Macromolecular alcohol is not limited, as long as it may be dissolved in water in a suitable amount range, e.g., polyethylene glycol, sorbitol, glucitol, etc. The examples of suitable dihydroxy alcohol ethers used in the present invention may be dihydroxy alcohol alkyl ethers or dihydroxy alcohol aryl ethers. The examples of dihydroxy alcohol alkyl ether include ethylene glycol methyl ether, diethylene glycol methyl ether, propylene glycol methyl ether, dipropylene glycol methyl ether, ethylene glycol ethyl ether, diethylene glycol ethyl ether, propylene glycol ethyl ether, dipropylene glycol ethyl ether, etc. The examples of dihydroxy alcohol aryl ethers include ethylene glycol phenyl ether, diethylene glycol phenyl ether, propylene glycol phenyl ether, dipropylene glycol phenyl ether, and the like. Any of the above mentioned solvent can be used either alone or in combination thereof.</p>
+<p id="p-0120" num="0193">The composition according to the present invention may further comprises of additional components such as a surfactant, an agriculturally acceptable support, carrier or filler, protective colloids, adhesives, thixotropic agents, penetration agents, stabilisers, or sequestering agents.</p>
+<p id="p-0121" num="0194">In an embodiment, the present invention provides a process for preparing the present novel synergistic composition which may be modified accordingly by any person skilled in the art based on the knowledge of the manufacturing the formulation. However, all such variations and modifications are still covered by the scope of present invention.</p>
+<p id="p-0122" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="154pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Sr.</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>No.</entry>
+<entry>Raw Materials Details</entry>
+<entry>% w/w</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>01</entry>
+<entry>Pyriproxyfen Technical (97% basis)</entry>
+<entry>08.25</entry>
+</row>
+<row>
+<entry>02</entry>
+<entry>Dinotefuran Technical (98% basis)</entry>
+<entry>05.11</entry>
+</row>
+<row>
+<entry>03</entry>
+<entry>Diafenthiuron Technical (97.5% basis)</entry>
+<entry>18.47</entry>
+</row>
+<row>
+<entry>04</entry>
+<entry>Surfactant/Emulsifier - Blend of anionic &#x26;</entry>
+<entry>10.50</entry>
+</row>
+<row>
+<entry/>
+<entry>Non-ionic</entry>
+</row>
+<row>
+<entry>05</entry>
+<entry>Dispersing Agent- Ethoxylated Tristryl phenol</entry>
+<entry>01.10</entry>
+</row>
+<row>
+<entry/>
+<entry>Sulphate</entry>
+</row>
+<row>
+<entry>06</entry>
+<entry>Dispersing Agent- Tristyrylphenol Ethoxylate</entry>
+<entry>01.50</entry>
+</row>
+<row>
+<entry>07</entry>
+<entry>Co-dispersing Agent-Acrylic polymer amine salt</entry>
+<entry>00.50</entry>
+</row>
+<row>
+<entry>08</entry>
+<entry>Anti-freezing Agent -Mono Ethylene Glycol</entry>
+<entry>02.50</entry>
+</row>
+<row>
+<entry>09</entry>
+<entry>Wetting Agent- Tristyrylphenol ethoxylate nonionic</entry>
+<entry>02.50</entry>
+</row>
+<row>
+<entry/>
+<entry>emulsifier</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>Antifoaming Agent-Siloxane polyalkyleneoxide</entry>
+<entry>00.10</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>Thickener- Silicon Dioxide</entry>
+<entry>00.40</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>Thickener- Clay</entry>
+<entry>00.40</entry>
+</row>
+<row>
+<entry>13</entry>
+<entry>Anti-bacterial - Benzisothiazolin-3-one</entry>
+<entry>00.10</entry>
+</row>
+<row>
+<entry>14</entry>
+<entry>Binder-Xanthan Gum</entry>
+<entry>00.17</entry>
+</row>
+<row>
+<entry>15</entry>
+<entry>Demineralised(DM)Water</entry>
+<entry>Q.S. to</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>make 100%</entry>
+</row>
+<row>
+<entry/>
+<entry>Total</entry>
+<entry>100.00&#x2002;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0123" num="0195">These and other advantages of the invention may become more apparent from the examples set forth herein below. These examples are provided merely as illustrations of the invention and are not intended to be construed as a limitation thereof.</p>
+<heading id="h-0005" level="1">Example-1</heading>
+<heading id="h-0006" level="2">Preparation of a Synergistic Pesticidal Composition Comprising Pyriproxyfen 8%+Dinotefuran 5%+Diafenthiuron 18% SC</heading>
+<heading id="h-0007" level="2">Chemical Composition: 100% Basis</heading>
+<p id="p-0124" num="0196"></p>
+<p id="p-0125" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="154pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Sr.</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>No.</entry>
+<entry>Raw Materials Details</entry>
+<entry>% w/w</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>01</entry>
+<entry>Pyriproxyfen Technical (98% basis)</entry>
+<entry>08.20</entry>
+</row>
+<row>
+<entry>02</entry>
+<entry>Dinotefuran Technical (99% basis)</entry>
+<entry>05.05</entry>
+</row>
+<row>
+<entry>03</entry>
+<entry>Diafenthiuron Technical (97% basis)</entry>
+<entry>18.56</entry>
+</row>
+<row>
+<entry>04</entry>
+<entry>Surfactant/Emulsifier - Blend of anionic &#x26;</entry>
+<entry>10.50</entry>
+</row>
+<row>
+<entry/>
+<entry>Non-ionic</entry>
+</row>
+<row>
+<entry>05</entry>
+<entry>Dispersing Agent- Ethoxylated Tristryl phenol</entry>
+<entry>01.10</entry>
+</row>
+<row>
+<entry/>
+<entry>Sulphate</entry>
+</row>
+<row>
+<entry>06</entry>
+<entry>Dispersing Agent- Tristyrylphenol Ethoxylate</entry>
+<entry>01.50</entry>
+</row>
+<row>
+<entry>07</entry>
+<entry>Co-dispersing Agent-Acrylic polymer amine salt</entry>
+<entry>00.50</entry>
+</row>
+<row>
+<entry>08</entry>
+<entry>Anti-freezing Agent -Mono Ethylene Glycol</entry>
+<entry>02.50</entry>
+</row>
+<row>
+<entry>09</entry>
+<entry>Wetting Agent- Tristyrylphenol ethoxylate nonionic</entry>
+<entry>02.50</entry>
+</row>
+<row>
+<entry/>
+<entry>emulsifier</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>Antifoaming Agent-Siloxane polyalkyleneoxide</entry>
+<entry>00.10</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>Thickener- Silicon Dioxide</entry>
+<entry>00.40</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>Thickener- Clay</entry>
+<entry>00.40</entry>
+</row>
+<row>
+<entry>13</entry>
+<entry>Anti-bacterial - Benzisothiazolin-3-one</entry>
+<entry>00.10</entry>
+</row>
+<row>
+<entry>14</entry>
+<entry>Xanthan Gum</entry>
+<entry>00.17</entry>
+</row>
+<row>
+<entry>15</entry>
+<entry>DM Water</entry>
+<entry>Q.S. to</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>make 100%</entry>
+</row>
+<row>
+<entry/>
+<entry>Total</entry>
+<entry>100.00&#x2002;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0008" level="1">Example-2</heading>
+<heading id="h-0009" level="2">Preparation of a Synergistic Pesticidal Composition Comprising Pyriproxyfen+Dinotefuran+Diafenthiuron SC</heading>
+<p id="p-0126" num="0197">Chemical Composition: with Range of RM</p>
+<p id="p-0127" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="154pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Sr.</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>No.</entry>
+<entry>Raw Materials Details</entry>
+<entry>% w/w</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>01</entry>
+<entry>Pyriproxyfen Technical</entry>
+<entry>&#x2002;01.0-25.00</entry>
+</row>
+<row>
+<entry>02</entry>
+<entry>Dinotefuran Technical</entry>
+<entry>00.50-50.00</entry>
+</row>
+<row>
+<entry>03</entry>
+<entry>Diafenthiuron Technical</entry>
+<entry>01.00-85.00</entry>
+</row>
+<row>
+<entry>04</entry>
+<entry>Surfactant/Emulsifier - Blend of anionic &#x26;</entry>
+<entry>01.00-10.00</entry>
+</row>
+<row>
+<entry/>
+<entry>Non-ionic/Catanionic</entry>
+</row>
+<row>
+<entry>05</entry>
+<entry>Dispersing Agent- Tristyrylphenol Ethoxylate</entry>
+<entry>00.50-10.00</entry>
+</row>
+<row>
+<entry/>
+<entry>Amine salt of phosphate tristyryl phenol</entry>
+</row>
+<row>
+<entry/>
+<entry>ethylated/Acrylic Copolymer/Ethoxylated</entry>
+</row>
+<row>
+<entry/>
+<entry>Tristryl phenol Sulphate</entry>
+</row>
+<row>
+<entry>06</entry>
+<entry>Anti-freezing Agent -Mono Ethylene</entry>
+<entry>01.00-10.00</entry>
+</row>
+<row>
+<entry/>
+<entry>Glycol/Propylene glycol/Diethylene glycol</entry>
+</row>
+<row>
+<entry>07</entry>
+<entry>Wetting Agent- Tristyrylphenol ethoxylate nonionic</entry>
+<entry>01.00-10.00</entry>
+</row>
+<row>
+<entry/>
+<entry>emulsifier/Mixture of non-ionic surfactants</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x26; Alkoxileted Alcohol</entry>
+</row>
+<row>
+<entry>08</entry>
+<entry>Antifoaming Agent-Siloxane polyalkyleneoxide</entry>
+<entry>00.01-1.00&#x2002;</entry>
+</row>
+<row>
+<entry>09</entry>
+<entry>Thickener- Silicon Dioxide/China -</entry>
+<entry>00.50-5.00&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry>Clay/Kaolin/Talc/starch</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>Anti-bacterial - Benzisothiazolin-3-one/</entry>
+<entry>00.01-1.00&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry>Formaldehyde</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>Xanthan Gum</entry>
+<entry>00.01-1.00&#x2002;</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>DM Water</entry>
+<entry>Q.S. to</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>make 100%</entry>
+</row>
+<row>
+<entry/>
+<entry>Total</entry>
+<entry>100.00</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0010" level="2">Manufacturing Method:</heading>
+<p id="p-0128" num="0198">Take required quantity of Pyriproxyfen technical and melt it at 48&#xb0; C. and add emulsifier blend of anionic &#x26; Non-ionic mix homogeneous, then add Ethoxylated Tristryl phenol Sulphate, Tristyrylphenol Ethoxylate and Acrylic polymer amine salt and mix homogeneous.</p>
+<p id="p-0129" num="0199">Take 75% of DM water of recipe in premix vessel and add require quantity of Dinotefuran technical under stirring, material should be in suspension form then add mono ethylene glycol, china clay, ppt silica and Tristyrylphenol ethoxylate nonionic emulsifier mix homogeneous and added Diafenthiuron technical, antifoam and premix of Pyriproxyfen solution, mix homogeneous suspension.</p>
+<p id="p-0130" num="0200">The above mixed mass is grinding in Bead Mill. Grinding is carried out until a mean particle size of 3-5(D-90) microns is obtained.</p>
+<p id="p-0131" num="0201">After the grinding, add 2% water solution of xanthan gum under low stirring. After homogeneous mixed, check for quality parameter.</p>
+<heading id="h-0011" level="1">Example-3</heading>
+<heading id="h-0012" level="2">Preparation of a Synergistic Pesticidal Composition Comprising Pyriproxyfen 8%+Dinotefuran 5%+Diafenthiuron 18% SE</heading>
+<p id="p-0132" num="0202"></p>
+<p id="p-0133" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="140pt" align="left"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Sr.</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>No.</entry>
+<entry>Raw Materials Details</entry>
+<entry>% w/w</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>01</entry>
+<entry>Pyriproxyfen Technical (98% basis)</entry>
+<entry>08.20</entry>
+</row>
+<row>
+<entry>02</entry>
+<entry>Dinotefuran Technical (99% basis)</entry>
+<entry>05.05</entry>
+</row>
+<row>
+<entry>03</entry>
+<entry>Diafenthiuron Technical (97% basis)</entry>
+<entry>18.56</entry>
+</row>
+<row>
+<entry>04</entry>
+<entry>Emulsifier - Blend of anionic &#x26;</entry>
+<entry>05.00</entry>
+</row>
+<row>
+<entry/>
+<entry>Non-ionic</entry>
+</row>
+<row>
+<entry>05</entry>
+<entry>Dispersing Agent- Tristyrylphenol Ethoxylate</entry>
+<entry>03.00</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x26; craft polymer</entry>
+</row>
+<row>
+<entry>06</entry>
+<entry>Anti-freezing Agent - Propylene Glycol</entry>
+<entry>05.00</entry>
+</row>
+<row>
+<entry>07</entry>
+<entry>Wetting Agent- Sodium lauryl sulphate</entry>
+<entry>02.00</entry>
+</row>
+<row>
+<entry>08</entry>
+<entry>Antifoaming Agent-Siloxane polyalkyleneoxide</entry>
+<entry>00.10</entry>
+</row>
+<row>
+<entry>09</entry>
+<entry>Thickener- Silicon Dioxide</entry>
+<entry>00.40</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>Anti-bacterial - Benzisothiazolin-3-one</entry>
+<entry>00.10</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>Xanthan Gum</entry>
+<entry>00.20</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>DM Water</entry>
+<entry>Q.S. to</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>make 100%</entry>
+</row>
+<row>
+<entry/>
+<entry>Total</entry>
+<entry>100.00&#x2002;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0134" num="0203">Process for preparation of above said composition wherein the dispersing cum wetting agent/surfactant, emulsifier is first diluted in D. M. Water, and solubilized by high shear mixing then add anti freezing agent, Dinotefuran technical, deformer and mix to make homogeneous then add Pyriproxyfen, Diafenthiuron technical and mix to make homogeneous mass.</p>
+<p id="p-0135" num="0204">The above mixed mass is grinded in Bead Mill. Grinding is carried out until a mean particle size of 3-5(D-90) microns is obtained. After the grinding, add 2% water solution of xanthan gum under low stirring.</p>
+<heading id="h-0013" level="1">Example-4</heading>
+<heading id="h-0014" level="2">Preparation of a Synergistic Pesticidal Composition Comprising Pyriproxyfen 8%+Dinotefuran 5%+Diafenthiuron 18% WP</heading>
+<p id="p-0136" num="0205"></p>
+<p id="p-0137" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="140pt" align="left"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Sr.</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>No.</entry>
+<entry>Raw Materials Details</entry>
+<entry>% w/w</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>01</entry>
+<entry>Pyriproxyfen Technical (98% basis)</entry>
+<entry>08.20</entry>
+</row>
+<row>
+<entry>02</entry>
+<entry>Dinotefuran Technical (99% basis)</entry>
+<entry>05.05</entry>
+</row>
+<row>
+<entry>03</entry>
+<entry>Diafenthiuron Technical (97% basis)</entry>
+<entry>18.56</entry>
+</row>
+<row>
+<entry>04</entry>
+<entry>Dispersing Agent- Napthalene sulfonic</entry>
+<entry>10.00</entry>
+</row>
+<row>
+<entry/>
+<entry>acid branched and linear sodium salt</entry>
+</row>
+<row>
+<entry>05</entry>
+<entry>Wetting Agent- Sodium disopropyl naphthalene</entry>
+<entry>03.00</entry>
+</row>
+<row>
+<entry/>
+<entry>sulfonate</entry>
+</row>
+<row>
+<entry>06</entry>
+<entry>Antifoaming Agent-Siloxane polyalkyleneoxide</entry>
+<entry>00.05</entry>
+</row>
+<row>
+<entry>07</entry>
+<entry>Fillers (Silica/clay)</entry>
+<entry>Q.S. to</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>make 100%</entry>
+</row>
+<row>
+<entry/>
+<entry>Total</entry>
+<entry>100.00&#x2002;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0138" num="0206">Process for preparation of above said composition: weigh all the ingredients as per table and mix well using proper ribbon blender type mixer.</p>
+<p id="p-0139" num="0207">Thereafter, mill this premixing with suitable air jet mill/Air classifier mill. Keep the milling chamber 6 kg per cm2-8 kg per cm2 and feeding pressure 2 kg per cm2. Mill the material to achieving desired particle size.</p>
+<p id="p-0140" num="0208">Withdraw milled material in ribbon blender type mixer for post mixing. Mix well proper homogeneous.</p>
+<heading id="h-0015" level="1">Example-5</heading>
+<heading id="h-0016" level="2">Preparation of a Synergistic Pesticidal Comprising Pyriproxyfen 8%+Dinotefuran 5%+Diafenthiuron 18% WDG</heading>
+<p id="p-0141" num="0209"></p>
+<p id="p-0142" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="154pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Sr.</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>No.</entry>
+<entry>Raw Materials Details</entry>
+<entry>% w/w</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>01</entry>
+<entry>Pyriproxyfen Technical (98% basis)</entry>
+<entry>08.20</entry>
+</row>
+<row>
+<entry>02</entry>
+<entry>Dinotefuran Technical (99% basis)</entry>
+<entry>05.05</entry>
+</row>
+<row>
+<entry>03</entry>
+<entry>Diafenthiuron Technical (97% basis)</entry>
+<entry>18.56</entry>
+</row>
+<row>
+<entry>04</entry>
+<entry>Dispersing Agent- Methyl Napthalene sulfonic acid</entry>
+<entry>12.00</entry>
+</row>
+<row>
+<entry/>
+<entry>polymer with formaldehyde sodium salt</entry>
+</row>
+<row>
+<entry>05</entry>
+<entry>Wetting Agent- Sodium lauryl sulphate</entry>
+<entry>05.00</entry>
+</row>
+<row>
+<entry>06</entry>
+<entry>Antifoaming Agent-Siloxane polyalkyleneoxide</entry>
+<entry>00.10</entry>
+</row>
+<row>
+<entry>07</entry>
+<entry>Disintegration Agent - Citric acid/Sod. bicarbonate</entry>
+<entry>02.00</entry>
+</row>
+<row>
+<entry>08</entry>
+<entry>Fillers (Silica/clay)</entry>
+<entry>Q.S. to</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>make 100%</entry>
+</row>
+<row>
+<entry/>
+<entry>Total</entry>
+<entry>100.00&#x2002;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0143" num="0210">Process for preparation: The above said composition is produced by mixing all the raw materials such as wetting agent, dispersing agent, Fillers and technical's in the given proportion.</p>
+<p id="p-0144" num="0211">The above mass mix in blender properly and grinding by jet mill/ACM. Grinding is carried out until a desired particle size is obtained. After grinding mix homogeneous by blender then prepared dough by dough mixer and carried out granules by extruder. After making granules, granules dry by hot air (FBD) or oven.</p>
+<heading id="h-0017" level="1">Example-6</heading>
+<heading id="h-0018" level="2">Evaluation of Synergistic Effect of the Pesticidal Composition of the Present Invention:</heading>
+<p id="p-0145" num="0212">Evaluation of the synergistic insecticidal effect of the composition comprising Diafenthiuron, Pyriproxyfen and an insecticide Dinotefuran can be established by using any synergistic insecticidal composition prepared by the process described in the above examples. For these evaluations one or more of the synergistic insecticidal compositions prepared in the examples are used here.</p>
+<p id="p-0146" num="0000">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="105pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="left"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Dose</entry>
+<entry>Active compound -</entry>
+<entry/>
+<entry>Dose</entry>
+</row>
+<row>
+<entry>Active</entry>
+<entry>Rate</entry>
+<entry>Dinotefuran</entry>
+<entry>Active</entry>
+<entry>Rate</entry>
+</row>
+<row>
+<entry>Compound</entry>
+<entry>(ppm)</entry>
+<entry>Dose Rate (ppm)</entry>
+<entry>Compound</entry>
+<entry>(ppm)</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="char" char="."/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="14pt" align="center"/>
+<colspec colname="5" colwidth="14pt" align="center"/>
+<colspec colname="6" colwidth="14pt" align="center"/>
+<colspec colname="7" colwidth="14pt" align="center"/>
+<colspec colname="8" colwidth="14pt" align="center"/>
+<colspec colname="9" colwidth="14pt" align="center"/>
+<colspec colname="10" colwidth="42pt" align="left"/>
+<colspec colname="11" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Diafenthiuron</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>15</entry>
+<entry>30</entry>
+<entry>45</entry>
+<entry>60</entry>
+<entry>75</entry>
+<entry>90</entry>
+<entry>Pyriproxyfen</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry/>
+<entry>60</entry>
+<entry>0</entry>
+<entry>15</entry>
+<entry>30</entry>
+<entry>45</entry>
+<entry>60</entry>
+<entry>75</entry>
+<entry>90</entry>
+<entry/>
+<entry>24</entry>
+</row>
+<row>
+<entry/>
+<entry>120</entry>
+<entry>0</entry>
+<entry>15</entry>
+<entry>30</entry>
+<entry>45</entry>
+<entry>60</entry>
+<entry>75</entry>
+<entry>90</entry>
+<entry/>
+<entry>48</entry>
+</row>
+<row>
+<entry/>
+<entry>180</entry>
+<entry>0</entry>
+<entry>15</entry>
+<entry>30</entry>
+<entry>45</entry>
+<entry>60</entry>
+<entry>75</entry>
+<entry>90</entry>
+<entry/>
+<entry>72</entry>
+</row>
+<row>
+<entry/>
+<entry>240</entry>
+<entry>0</entry>
+<entry>15</entry>
+<entry>30</entry>
+<entry>45</entry>
+<entry>60</entry>
+<entry>75</entry>
+<entry>90</entry>
+<entry/>
+<entry>96</entry>
+</row>
+<row>
+<entry/>
+<entry>360</entry>
+<entry>0</entry>
+<entry>15</entry>
+<entry>30</entry>
+<entry>45</entry>
+<entry>60</entry>
+<entry>75</entry>
+<entry>90</entry>
+<entry/>
+<entry>120</entry>
+</row>
+<row>
+<entry/>
+<entry>480</entry>
+<entry>0</entry>
+<entry>15</entry>
+<entry>30</entry>
+<entry>45</entry>
+<entry>60</entry>
+<entry>75</entry>
+<entry>90</entry>
+<entry/>
+<entry>144</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0147" num="0213">Treatments of White fly which are used are shown in Table 2.</p>
+<p id="p-0148" num="0000">
+<tables id="TABLE-US-00008" num="00008">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="266pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Synergistic insecticidal effect of a combination of Dinotefuran</entry>
+</row>
+<row>
+<entry>+ Diafenthiuron + Pyriproxyfen</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Observed</entry>
+<entry>Expected</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Mortality</entry>
+<entry>Mortality</entry>
+</row>
+<row>
+<entry>Sr. No.</entry>
+<entry>Dinotefuran</entry>
+<entry>Diafenthiuron</entry>
+<entry>Pyriproxyfen</entry>
+<entry>%</entry>
+<entry>%</entry>
+<entry>Difference</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="28pt" align="char" char="."/>
+<colspec colname="2" colwidth="42pt" align="char" char="."/>
+<colspec colname="3" colwidth="49pt" align="char" char="."/>
+<colspec colname="4" colwidth="42pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>45</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>35.10</entry>
+<entry>&#x2014;</entry>
+<entry/>
+</row>
+<row>
+<entry>2</entry>
+<entry>60</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>45.50</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>75</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>52.00</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>90</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>61.40</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>0</entry>
+<entry>120</entry>
+<entry>0</entry>
+<entry>38.40</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>0</entry>
+<entry>240</entry>
+<entry>0</entry>
+<entry>48.50</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>0</entry>
+<entry>360</entry>
+<entry>0</entry>
+<entry>57.30</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>8</entry>
+<entry>0</entry>
+<entry>480</entry>
+<entry>0</entry>
+<entry>61.80</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>9</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>72</entry>
+<entry>30.70</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>96</entry>
+<entry>38.10</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>120</entry>
+<entry>43.70</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>144</entry>
+<entry>46.60</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>13</entry>
+<entry>45</entry>
+<entry>120</entry>
+<entry>72</entry>
+<entry>60.00</entry>
+<entry>72.29</entry>
+<entry>&#x2212;12.29</entry>
+</row>
+<row>
+<entry>14</entry>
+<entry>45</entry>
+<entry>240</entry>
+<entry>96</entry>
+<entry>83.10</entry>
+<entry>79.31</entry>
+<entry>3.79</entry>
+</row>
+<row>
+<entry>15</entry>
+<entry>45</entry>
+<entry>360</entry>
+<entry>120</entry>
+<entry>87.10</entry>
+<entry>84.40</entry>
+<entry>2.70</entry>
+</row>
+<row>
+<entry>16</entry>
+<entry>45</entry>
+<entry>480</entry>
+<entry>144</entry>
+<entry>90.90</entry>
+<entry>86.76</entry>
+<entry>4.14</entry>
+</row>
+<row>
+<entry>17</entry>
+<entry>60</entry>
+<entry>120</entry>
+<entry>72</entry>
+<entry>67.30</entry>
+<entry>76.73</entry>
+<entry>&#x2212;9.43</entry>
+</row>
+<row>
+<entry>18</entry>
+<entry>60</entry>
+<entry>240</entry>
+<entry>96</entry>
+<entry>94.10</entry>
+<entry>82.63</entry>
+<entry>11.47</entry>
+</row>
+<row>
+<entry>19</entry>
+<entry>60</entry>
+<entry>360</entry>
+<entry>120</entry>
+<entry>94.30</entry>
+<entry>86.90</entry>
+<entry>7.40</entry>
+</row>
+<row>
+<entry>20</entry>
+<entry>60</entry>
+<entry>480</entry>
+<entry>144</entry>
+<entry>95.10</entry>
+<entry>88.88</entry>
+<entry>6.22</entry>
+</row>
+<row>
+<entry>21</entry>
+<entry>75</entry>
+<entry>120</entry>
+<entry>72</entry>
+<entry>69.90</entry>
+<entry>79.51</entry>
+<entry>&#x2212;9.61</entry>
+</row>
+<row>
+<entry>22</entry>
+<entry>75</entry>
+<entry>240</entry>
+<entry>96</entry>
+<entry>94.00</entry>
+<entry>84.70</entry>
+<entry>9.30</entry>
+</row>
+<row>
+<entry>23</entry>
+<entry>75</entry>
+<entry>360</entry>
+<entry>120</entry>
+<entry>95.80</entry>
+<entry>88.46</entry>
+<entry>7.34</entry>
+</row>
+<row>
+<entry>24</entry>
+<entry>75</entry>
+<entry>480</entry>
+<entry>144</entry>
+<entry>96.70</entry>
+<entry>90.21</entry>
+<entry>6.49</entry>
+</row>
+<row>
+<entry>25</entry>
+<entry>90</entry>
+<entry>120</entry>
+<entry>72</entry>
+<entry>69.00</entry>
+<entry>83.52</entry>
+<entry>&#x2212;14.52</entry>
+</row>
+<row>
+<entry>26</entry>
+<entry>90</entry>
+<entry>240</entry>
+<entry>96</entry>
+<entry>96.50</entry>
+<entry>87.69</entry>
+<entry>8.81</entry>
+</row>
+<row>
+<entry>27</entry>
+<entry>90</entry>
+<entry>360</entry>
+<entry>120</entry>
+<entry>97.10</entry>
+<entry>90.72</entry>
+<entry>6.38</entry>
+</row>
+<row>
+<entry>28</entry>
+<entry>90</entry>
+<entry>480</entry>
+<entry>144</entry>
+<entry>98.40</entry>
+<entry>92.13</entry>
+<entry>6.27</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0149" num="0214">Treatments of Jassids which are used are shown in Table 3.</p>
+<p id="p-0150" num="0000">
+<tables id="TABLE-US-00009" num="00009">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="266pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Synergistic insecticidal effect of a combination of Dinotefuran</entry>
+</row>
+<row>
+<entry>+ Diafenthiuron + Pyriproxyfen</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Observed</entry>
+<entry>Expected</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Mortality</entry>
+<entry>Mortality</entry>
+</row>
+<row>
+<entry>Sr. No.</entry>
+<entry>Dinotefuran</entry>
+<entry>Diafenthiuron</entry>
+<entry>Pyriproxyfen</entry>
+<entry>%</entry>
+<entry>%</entry>
+<entry>Difference</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="28pt" align="char" char="."/>
+<colspec colname="2" colwidth="42pt" align="char" char="."/>
+<colspec colname="3" colwidth="49pt" align="char" char="."/>
+<colspec colname="4" colwidth="42pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>45</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>65.60</entry>
+<entry>&#x2014;</entry>
+<entry/>
+</row>
+<row>
+<entry>2</entry>
+<entry>60</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>73.40</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>75</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>79.00</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>90</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>83.80</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>0</entry>
+<entry>120</entry>
+<entry>0</entry>
+<entry>28.90</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>0</entry>
+<entry>240</entry>
+<entry>0</entry>
+<entry>42.00</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>0</entry>
+<entry>360</entry>
+<entry>0</entry>
+<entry>48.50</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>8</entry>
+<entry>0</entry>
+<entry>480</entry>
+<entry>0</entry>
+<entry>57.40</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>9</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>72</entry>
+<entry>21.70</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>96</entry>
+<entry>29.20</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>120</entry>
+<entry>35.50</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>144</entry>
+<entry>37.90</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>13</entry>
+<entry>45</entry>
+<entry>120</entry>
+<entry>72</entry>
+<entry>77.70</entry>
+<entry>80.85</entry>
+<entry>&#x2212;3.15</entry>
+</row>
+<row>
+<entry>14</entry>
+<entry>45</entry>
+<entry>240</entry>
+<entry>96</entry>
+<entry>81.60</entry>
+<entry>85.87</entry>
+<entry>&#x2212;4.27</entry>
+</row>
+<row>
+<entry>15</entry>
+<entry>45</entry>
+<entry>360</entry>
+<entry>120</entry>
+<entry>85.50</entry>
+<entry>88.57</entry>
+<entry>&#x2212;3.07</entry>
+</row>
+<row>
+<entry>16</entry>
+<entry>45</entry>
+<entry>480</entry>
+<entry>144</entry>
+<entry>90.90</entry>
+<entry>90.90</entry>
+<entry>0.00</entry>
+</row>
+<row>
+<entry>17</entry>
+<entry>60</entry>
+<entry>120</entry>
+<entry>72</entry>
+<entry>85.50</entry>
+<entry>85.19</entry>
+<entry>0.31</entry>
+</row>
+<row>
+<entry>18</entry>
+<entry>60</entry>
+<entry>240</entry>
+<entry>96</entry>
+<entry>93.90</entry>
+<entry>89.08</entry>
+<entry>4.82</entry>
+</row>
+<row>
+<entry>19</entry>
+<entry>60</entry>
+<entry>360</entry>
+<entry>120</entry>
+<entry>95.00</entry>
+<entry>91.16</entry>
+<entry>3.84</entry>
+</row>
+<row>
+<entry>20</entry>
+<entry>60</entry>
+<entry>480</entry>
+<entry>144</entry>
+<entry>96.60</entry>
+<entry>92.96</entry>
+<entry>3.64</entry>
+</row>
+<row>
+<entry>21</entry>
+<entry>75</entry>
+<entry>120</entry>
+<entry>72</entry>
+<entry>90.40</entry>
+<entry>88.31</entry>
+<entry>2.09</entry>
+</row>
+<row>
+<entry>22</entry>
+<entry>75</entry>
+<entry>240</entry>
+<entry>96</entry>
+<entry>95.00</entry>
+<entry>91.38</entry>
+<entry>3.62</entry>
+</row>
+<row>
+<entry>23</entry>
+<entry>75</entry>
+<entry>360</entry>
+<entry>120</entry>
+<entry>95.00</entry>
+<entry>93.02</entry>
+<entry>1.98</entry>
+</row>
+<row>
+<entry>24</entry>
+<entry>75</entry>
+<entry>480</entry>
+<entry>144</entry>
+<entry>96.70</entry>
+<entry>94.44</entry>
+<entry>2.26</entry>
+</row>
+<row>
+<entry>25</entry>
+<entry>90</entry>
+<entry>120</entry>
+<entry>72</entry>
+<entry>94.40</entry>
+<entry>90.98</entry>
+<entry>3.42</entry>
+</row>
+<row>
+<entry>26</entry>
+<entry>90</entry>
+<entry>240</entry>
+<entry>96</entry>
+<entry>97.50</entry>
+<entry>93.35</entry>
+<entry>4.15</entry>
+</row>
+<row>
+<entry>27</entry>
+<entry>90</entry>
+<entry>360</entry>
+<entry>120</entry>
+<entry>98.20</entry>
+<entry>94.62</entry>
+<entry>3.58</entry>
+</row>
+<row>
+<entry>28</entry>
+<entry>90</entry>
+<entry>480</entry>
+<entry>144</entry>
+<entry>98.40</entry>
+<entry>95.71</entry>
+<entry>2.69</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0019" level="1">Example-7</heading>
+<p id="p-0151" num="0215">Synergism can be calculated by using the Colby's method i.e. the expected (or predicted) response of the combination is calculated by taking the product of the observed response for each individual component of the combination when applied alone divided by 100 and subtracting this value from the sum of observed response for each component when applied alone. Synergism of the combination is then determined by comparing the observed response of the combination to the expected (or predicted) response as calculated from the observed response of each individual component alone. If the observed response of the combination is greater than the expected (or predicted) response then the combination is said to be synergistic and falls within the definition of synergistic effect. (Colby, S. R., Weeds, 1967(15), p. 20-22).</p>
+<p id="p-0152" num="0000">
+<tables id="TABLE-US-00010" num="00010">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="385pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Synergistic insecticidal effect of a combination of Diafenthiuron 18% + Dinotefuran5% + Pyriproxyfen</entry>
+</row>
+<row>
+<entry>8% -SC spray application Observed Expected No. Mortality (%) White fly on days after spray. Mortality</entry>
+</row>
+<row>
+<entry>(%) White fly on days after -Diafenthiuron 18% + Dinotefuran5% + Pyriproxyfen 8% -SC spray application</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="offset" colwidth="175pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Mortality</entry>
+<entry/>
+<entry>Mortality</entry>
+<entry/>
+<entry>Mortality</entry>
+<entry>Mean</entry>
+</row>
+<row>
+<entry/>
+<entry>7DAT</entry>
+<entry/>
+<entry>7DAT</entry>
+<entry/>
+<entry>7DAT</entry>
+<entry>mortality</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="70pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<colspec colname="10" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Active</entry>
+<entry>Formulation</entry>
+<entry/>
+<entry>after</entry>
+<entry/>
+<entry>after</entry>
+<entry/>
+<entry>after</entry>
+<entry>due</entry>
+</row>
+<row>
+<entry/>
+<entry>Ingredient</entry>
+<entry>Quantity</entry>
+<entry/>
+<entry>1st</entry>
+<entry/>
+<entry>2nd</entry>
+<entry/>
+<entry>3rd</entry>
+<entry>to 3</entry>
+</row>
+<row>
+<entry>S. No.</entry>
+<entry>g a.i./ha dose</entry>
+<entry>(g/ha)</entry>
+<entry>Pre-count</entry>
+<entry>Spray</entry>
+<entry>Pre-count</entry>
+<entry>Spray</entry>
+<entry>Pre-count</entry>
+<entry>Spray</entry>
+<entry>sprays</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="21pt" align="char" char="."/>
+<colspec colname="4" colwidth="42pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<colspec colname="6" colwidth="35pt" align="char" char="."/>
+<colspec colname="7" colwidth="35pt" align="char" char="."/>
+<colspec colname="8" colwidth="35pt" align="char" char="."/>
+<colspec colname="9" colwidth="35pt" align="char" char="."/>
+<colspec colname="10" colwidth="35pt" align="char" char="."/>
+<colspec colname="11" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>Diafenthiuron</entry>
+<entry>99</entry>
+<entry>300</entry>
+<entry>45.0</entry>
+<entry>65.5</entry>
+<entry>23.3</entry>
+<entry>63.5</entry>
+<entry>18.4</entry>
+<entry>66.6</entry>
+<entry>65.2</entry>
+</row>
+<row>
+<entry/>
+<entry>18% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran</entry>
+</row>
+<row>
+<entry/>
+<entry>5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen</entry>
+</row>
+<row>
+<entry/>
+<entry>8% -SC</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>Diafenthiuron</entry>
+<entry>198</entry>
+<entry>600</entry>
+<entry>33.3</entry>
+<entry>86.5</entry>
+<entry>11.2</entry>
+<entry>88.8</entry>
+<entry>13.5</entry>
+<entry>90.7</entry>
+<entry>88.7</entry>
+</row>
+<row>
+<entry/>
+<entry>18% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran</entry>
+</row>
+<row>
+<entry/>
+<entry>5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen</entry>
+</row>
+<row>
+<entry/>
+<entry>8% -SC</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>Diafenthiuron</entry>
+<entry>396</entry>
+<entry>1200</entry>
+<entry>42.3</entry>
+<entry>89.0</entry>
+<entry>10.1</entry>
+<entry>88.5</entry>
+<entry>12.1</entry>
+<entry>92.3</entry>
+<entry>89.9</entry>
+</row>
+<row>
+<entry/>
+<entry>18% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran</entry>
+</row>
+<row>
+<entry/>
+<entry>5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen</entry>
+</row>
+<row>
+<entry/>
+<entry>8% -SC</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>Dinotefuran</entry>
+<entry>30</entry>
+<entry>150</entry>
+<entry>36.3</entry>
+<entry>62.0</entry>
+<entry>25.6</entry>
+<entry>67.7</entry>
+<entry>24.3</entry>
+<entry>72.0</entry>
+<entry>67.2</entry>
+</row>
+<row>
+<entry/>
+<entry>20% SG</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>Pyriproxyfen</entry>
+<entry>50</entry>
+<entry>500</entry>
+<entry>51.0</entry>
+<entry>64.5</entry>
+<entry>30.0</entry>
+<entry>60.3</entry>
+<entry>26.6</entry>
+<entry>65.7</entry>
+<entry>63.5</entry>
+</row>
+<row>
+<entry/>
+<entry>10% EC</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>Diafenthiuron</entry>
+<entry>239</entry>
+<entry>500</entry>
+<entry>45.5</entry>
+<entry>69.0</entry>
+<entry>18.8</entry>
+<entry>71.1</entry>
+<entry>16.8</entry>
+<entry>74.3</entry>
+<entry>71.5</entry>
+</row>
+<row>
+<entry/>
+<entry>47.8% SC</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>Untreated</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>48.6</entry>
+<entry>&#x2212;24.0</entry>
+<entry>56.6</entry>
+<entry>&#x2212;30.2</entry>
+<entry>51.7</entry>
+<entry>&#x2212;28.5</entry>
+<entry>&#x2212;27.6</entry>
+</row>
+<row>
+<entry/>
+<entry>control</entry>
+</row>
+<row>
+<entry/>
+<entry>(water</entry>
+</row>
+<row>
+<entry/>
+<entry>spray)</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0153" num="0216">As can be seen from the data shown in Table 4, combinations of Diafenthiuron+Dinotefuran+Pyriproxyfen demonstrate synergistic insect control of White fly.</p>
+<p id="p-0154" num="0000">
+<tables id="TABLE-US-00011" num="00011">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="385pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 5</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Synergistic insecticidal effect of a combination of Diafenthiuron 18% + Dinotefuran5% + Pyriproxyfen</entry>
+</row>
+<row>
+<entry>8% -SC spray application Observed Expected No. Mortality (%) Jassids on days after spray. Mortality</entry>
+</row>
+<row>
+<entry>(%) Jassids on days after -Diafenthiuron 18% + Dinotefuran5% + Pyriproxyfen 8% -SC spray application</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="offset" colwidth="175pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Mortality</entry>
+<entry/>
+<entry>Mortality</entry>
+<entry/>
+<entry>Mortality</entry>
+<entry>Mean</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="offset" colwidth="140pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Pre-count</entry>
+<entry>7DAT</entry>
+<entry>Pre-count</entry>
+<entry>7DAT</entry>
+<entry>Pre-count</entry>
+<entry>7DAT</entry>
+<entry>mortality</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="77pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<colspec colname="10" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Active</entry>
+<entry>Formulation</entry>
+<entry>before</entry>
+<entry>after</entry>
+<entry>before</entry>
+<entry>after</entry>
+<entry>before</entry>
+<entry>after</entry>
+<entry>due</entry>
+</row>
+<row>
+<entry>Sr.</entry>
+<entry>Ingredient</entry>
+<entry>Quantity</entry>
+<entry>1st</entry>
+<entry>1st</entry>
+<entry>2nd</entry>
+<entry>2nd</entry>
+<entry>3rd</entry>
+<entry>3rd</entry>
+<entry>to 3</entry>
+</row>
+<row>
+<entry>No.</entry>
+<entry>g a.i./ha dose</entry>
+<entry>(g/ha)</entry>
+<entry>Spray</entry>
+<entry>Spray</entry>
+<entry>spray</entry>
+<entry>Spray</entry>
+<entry>Spray</entry>
+<entry>Spray</entry>
+<entry>sprays</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="left"/>
+<colspec colname="3" colwidth="21pt" align="char" char="."/>
+<colspec colname="4" colwidth="42pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<colspec colname="6" colwidth="35pt" align="char" char="."/>
+<colspec colname="7" colwidth="35pt" align="char" char="."/>
+<colspec colname="8" colwidth="35pt" align="char" char="."/>
+<colspec colname="9" colwidth="35pt" align="char" char="."/>
+<colspec colname="10" colwidth="35pt" align="char" char="."/>
+<colspec colname="11" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>Diafenthiuron</entry>
+<entry>99</entry>
+<entry>300</entry>
+<entry>12.2</entry>
+<entry>63.4</entry>
+<entry>14.5</entry>
+<entry>63.5</entry>
+<entry>9.6</entry>
+<entry>72.1</entry>
+<entry>66.3</entry>
+</row>
+<row>
+<entry/>
+<entry>18% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen</entry>
+</row>
+<row>
+<entry/>
+<entry>8% -SC</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>Diafenthiuron</entry>
+<entry>198</entry>
+<entry>600</entry>
+<entry>9.3</entry>
+<entry>86.5</entry>
+<entry>8.5</entry>
+<entry>93.4</entry>
+<entry>5.5</entry>
+<entry>95.5</entry>
+<entry>91.8</entry>
+</row>
+<row>
+<entry/>
+<entry>18% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen</entry>
+</row>
+<row>
+<entry/>
+<entry>8% -SC</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>Diafenthiuron</entry>
+<entry>396</entry>
+<entry>1200</entry>
+<entry>15.0</entry>
+<entry>90.7</entry>
+<entry>9.1</entry>
+<entry>94.1</entry>
+<entry>5.1</entry>
+<entry>93.9</entry>
+<entry>92.9</entry>
+</row>
+<row>
+<entry/>
+<entry>18% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen</entry>
+</row>
+<row>
+<entry/>
+<entry>8% -SC</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>Dinotefuran</entry>
+<entry>30</entry>
+<entry>150</entry>
+<entry>18.1</entry>
+<entry>88.7</entry>
+<entry>7.6</entry>
+<entry>87.9</entry>
+<entry>6.1</entry>
+<entry>90.3</entry>
+<entry>89.0</entry>
+</row>
+<row>
+<entry/>
+<entry>20% SG</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>Pyriproxyfen</entry>
+<entry>50</entry>
+<entry>500</entry>
+<entry>16.5</entry>
+<entry>45.5</entry>
+<entry>13.2</entry>
+<entry>40.4</entry>
+<entry>11.1</entry>
+<entry>48.4</entry>
+<entry>44.8</entry>
+</row>
+<row>
+<entry/>
+<entry>10% EC</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>Diafenthiuron</entry>
+<entry>239</entry>
+<entry>500</entry>
+<entry>8.7</entry>
+<entry>56.7</entry>
+<entry>10.1</entry>
+<entry>63.2</entry>
+<entry>8.3</entry>
+<entry>68.9</entry>
+<entry>62.9</entry>
+</row>
+<row>
+<entry/>
+<entry>47.8% SC</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>Untreated</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>10.2</entry>
+<entry>&#x2212;17.7</entry>
+<entry>18.9</entry>
+<entry>&#x2212;28.9</entry>
+<entry>15.9</entry>
+<entry>&#x2212;23.9</entry>
+<entry>&#x2212;23.5</entry>
+</row>
+<row>
+<entry/>
+<entry>control (water</entry>
+</row>
+<row>
+<entry/>
+<entry>spray)</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0155" num="0217">As can be seen from the data shown in Table 5, combinations of Diafenthiuron+Dinotefuran+Pyriproxyfen demonstrate synergistic insect control of Jassids.</p>
+<p id="p-0156" num="0218">From Table-4 and 5, Diafenthiuron 18%+Dinotefuran 5%+Pyriproxyfen 8%&#x2212;SC at concentrations of 600, 1200, g/ha are effective and superior at first and second sprays respectively which are superior and or on par with standard checks tested against as compared Dinotefuran 20% SG 300 g/ha, Pyriproxyfen 10% EC 300 g/ha and Diafenthiuron 47.8% SC 300 g/ha and untreated is as effective as standard checks after the first spray.</p>
+<heading id="h-0020" level="1">Example 8</heading>
+<heading id="h-0021" level="2">Bio-Efficacy of the Pesticidal Composition of the Present Invention:</heading>
+<p id="p-0157" num="0219">The following provides the evaluation of the synergistic insecticidal effect of a combination of Diafenthiuron+Dinotefuran+Pyriproxyfen against White fly and Jassids on cotton.</p>
+<p id="p-0158" num="0220">In this example most of the synergistic insecticidal compositions prepared by the process described in this invention are used to evaluate their activities.</p>
+<p id="p-0159" num="0221">In this evaluation, percent mortality of hoppers is worked out based on the number of White fly and Jassids counted before and after sprays and based on dead heart counts before and after sprays. The data is averaged and analyzed for the test of significance.</p>
+<heading id="h-0022" level="2">Details of the Experiment:</heading>
+<p id="p-0160" num="0000">
+<ul id="ul0020" list-style="none">
+    <li id="ul0020-0001" num="0000">
+    <ul id="ul0021" list-style="none">
+        <li id="ul0021-0001" num="0222">a. Design: Randomised block design</li>
+        <li id="ul0021-0002" num="0223">b. Replication: Three</li>
+        <li id="ul0021-0003" num="0224">c. Product: Diafenthiuron 18%+Dinotefuran 5%+Pyriproxyfen 8%</li>
+        <li id="ul0021-0004" num="0225">d. Treatment: Seven (as shown in details in the Table-6)</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0161" num="0000">
+<tables id="TABLE-US-00012" num="00012">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 6</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Details of the treatments of combination of</entry>
+</row>
+<row>
+<entry>Dinotefuran + Diafenthiuron + Pyriproxyfen</entry>
+</row>
+<row>
+<entry>Details of the treatments done</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="112pt" align="center"/>
+<colspec colname="3" colwidth="77pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>S.</entry>
+<entry/>
+<entry>Formulation Quantity</entry>
+</row>
+<row>
+<entry>No.</entry>
+<entry>Active Ingredient g a.i./ha dose</entry>
+<entry>(g/ha)</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="77pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>Diafenthiuron 18% +</entry>
+<entry>99</entry>
+<entry>300</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen 8% -SC</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>Diafenthiuron 18% +</entry>
+<entry>198</entry>
+<entry>600</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen 8% -SC</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>Diafenthiuron 18% +</entry>
+<entry>396</entry>
+<entry>1200</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen 8% -SC</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>Dinotefuran 20% SG</entry>
+<entry>99</entry>
+<entry>300</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>Pyriproxyfen 10% EC</entry>
+<entry>99</entry>
+<entry>300</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>Diafenthiuron 47.8% SC</entry>
+<entry>99</entry>
+<entry>300</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>Untreated control</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0162" num="0226">In this evaluation, White fly and Jassids are studied for effect of Pesticidal Composition of Pyriproxyfen, Dinotefuran and Diafenthiuron. On the Cotton crop, 1st Spray was done at the emergence of the pest at ETL level. 2nd Spray was done 15 days after the First Spray and 3rd Spray 15 days after the Second Spray.</p>
+<p id="p-0163" num="0000">
+<tables id="TABLE-US-00013" num="00013">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="77pt" align="left"/>
+<colspec colname="2" colwidth="112pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Plot Size</entry>
+<entry>5 &#xd7; 4 m = 20 Sq. m.</entry>
+</row>
+<row>
+<entry/>
+<entry>Cotton Variety</entry>
+<entry>RCH-773</entry>
+</row>
+<row>
+<entry/>
+<entry>Spacing</entry>
+<entry>90 &#xd7; 60 cm</entry>
+</row>
+<row>
+<entry/>
+<entry>Fertilizer</entry>
+<entry>N:P:K 50:25:25 kg/ha</entry>
+</row>
+<row>
+<entry/>
+<entry>Sprayer used</entry>
+<entry>Knapsack sprayer</entry>
+</row>
+<row>
+<entry/>
+<entry>Spray volume</entry>
+<entry>1.25 litre per 20 sq. m. plot</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0164" num="0227">Method: Required quantity of spray fluid is prepared before spray application and for phytotoxicity studies concentration of Dinotefuran+Diafenthiuron+Pyriproxyfen at 300, 600, 1200 g/ha is laid out separately by the side of the bio-efficacy trial plot to avoid drift of the chemical.</p>
+<p id="p-0165" num="0000">
+<tables id="TABLE-US-00014" num="00014">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="140pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>1st Spray</entry>
+<entry>&#x2014;</entry>
+<entry>At the emergence of the pest at ETL level</entry>
+</row>
+<row>
+<entry/>
+<entry>2nd Spray</entry>
+<entry>&#x2014;</entry>
+<entry>15 days after the First Spray</entry>
+</row>
+<row>
+<entry/>
+<entry>3rd Spray</entry>
+<entry>&#x2014;</entry>
+<entry>15 days after the Second Spray</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0166" num="0228">Observations recorded: i. Pre and post treatment data of green leaf hopper in three leaves from the base, middle and top position of the plants, brown plant hoppers on the stem portions.
+<ul id="ul0022" list-style="none">
+    <li id="ul0022-0001" num="0000">
+    <ul id="ul0023" list-style="none">
+        <li id="ul0023-0001" num="0229">Phytotoxicity of higher concentrations.</li>
+        <li id="ul0023-0002" num="0230">yield.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0167" num="0231">Method of Observation: Phytotoxicity in terms of yellowing, Stunting, Chlorosis, Leaf tip injury, Wilting, Hyponasty/Epinasty for all treatments of leaves is recorded. When the crop attained maturity the 1st., 2nd picking, subsequent the final picking. The total yield was computed to Mt/ha. The data is analyzed statistically to discriminate the treatment superiority for control leaf eating pests and variation in the yield.</p>
+<p id="p-0168" num="0000">
+<tables id="TABLE-US-00015" num="00015">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 7</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Observation</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="175pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>Bio- efficacy: On 0 Day (pre count), 7th and</entry>
+</row>
+<row>
+<entry/>
+<entry>14th Day after each spray test count for</entry>
+</row>
+<row>
+<entry/>
+<entry>whitefly and Jassids (Adults + nymphs)</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>Phytotoxicity: Recorded plant phtotoxicity</entry>
+</row>
+<row>
+<entry/>
+<entry>after sprays based on 0-10 scale of assessment</entry>
+</row>
+<row>
+<entry/>
+<entry>of yellowing, Stunting, Chlorosis, Leaf tip</entry>
+</row>
+<row>
+<entry/>
+<entry>injury, Wilting, Hyponasty/Epinasty for all treatments</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>Yield: 1st., 2nd picking, subsequent the final picking.</entry>
+</row>
+<row>
+<entry/>
+<entry>The total yield was converted in Mt/ha</entry>
+</row>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0169" num="0000">
+<tables id="TABLE-US-00016" num="00016">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 8</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Cotton seed lint yield kg/ha</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="182pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Cotton seed lint yield kg/ha</entry>
+<entry>Seed</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="105pt" align="left"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Sr.</entry>
+<entry/>
+<entry>Formulation</entry>
+<entry>cotton</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="105pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>No.</entry>
+<entry>Active Ingredient g a.i./ha dose</entry>
+<entry>Quantity (g/ha)</entry>
+<entry>kg/ha</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="77pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>Diafenthiuron 18% +</entry>
+<entry>99</entry>
+<entry>300</entry>
+<entry>1798</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen 8% -SC</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>Diafenthiuron 18% +</entry>
+<entry>198</entry>
+<entry>600</entry>
+<entry>2334</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran 5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen 8% -SC</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>Diafenthiuron 18% +</entry>
+<entry>396</entry>
+<entry>1200</entry>
+<entry>2386</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen 8% -SC</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>Dinotefuran 20% SG</entry>
+<entry>99</entry>
+<entry>300</entry>
+<entry>1866</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>Pyriproxyfen 10% EC</entry>
+<entry>99</entry>
+<entry>300</entry>
+<entry>1806</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>Diafenthiuron 47.8% SC</entry>
+<entry>99</entry>
+<entry>300</entry>
+<entry>1976</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>Untreated control</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>1455</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0170" num="0000">
+<tables id="TABLE-US-00017" num="00017">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 9</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Phytotoxicity</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="175pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Mean of</entry>
+</row>
+<row>
+<entry/>
+<entry>Cumulative</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="147pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Phytotoxicity due to application of pesticides</entry>
+<entry>Phytotoxicity</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="98pt" align="left"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Sr.</entry>
+<entry/>
+<entry>Formulation</entry>
+<entry>(%) on 14th</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="98pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>No.</entry>
+<entry>Active Ingredient g a.i./ha dose</entry>
+<entry>Quantity (g/ha)</entry>
+<entry>Day</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="77pt" align="left"/>
+<colspec colname="3" colwidth="21pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>Diafenthiuron 18% +</entry>
+<entry>99</entry>
+<entry>300</entry>
+<entry>NP</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen 8% -SC</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>Diafenthiuron 18% +</entry>
+<entry>198</entry>
+<entry>600</entry>
+<entry>NP</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen 8% -SC</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>Diafenthiuron 18% +</entry>
+<entry>396</entry>
+<entry>1200</entry>
+<entry>*3.00%</entry>
+</row>
+<row>
+<entry/>
+<entry>Dinotefuran5% +</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen 8% -SC</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>Dinotefuran 20% SG</entry>
+<entry>99</entry>
+<entry>300</entry>
+<entry>NP</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>Pyriproxyfen 10% EC</entry>
+<entry>99</entry>
+<entry>300</entry>
+<entry>NP</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>Diafenthiuron 47.8%</entry>
+<entry>99</entry>
+<entry>300</entry>
+<entry>NP</entry>
+</row>
+<row>
+<entry/>
+<entry>SC</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>Untreated control</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>NP</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00001">NP: No Phytotoxicity</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00002">*Phytotoxicity is negligible (3%) at the highest concentration of pre- mixture, slight reddening of leaves at early stage of crop only which were required completely after some time.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0171" num="0232">Results: The results of the field trial carried out to evaluate the bio-efficacy of and standardization of doses of Diafenthiuron 18%+Dinotefuran 5%+Pyriproxyfen 8% at doses 300, 600, 1200, g/ha as compared to Dinotefuran 20% SG 300 g/ha, Pyriproxyfen 10% EC 300 g/ha and Diafenthiuron 47.8% SC 300 g/ha and untreated check are presented in the above tables.</p>
+<p id="p-0172" num="0233">Diafenthiuron 18%+Dinotefuran 5%+Pyriproxyfen 8% at 300, 600, 1200, g/ha are effective against White fly and Jassids. Irrespective of concentrations yields are superior over standard checks. Phytotoxicity is negligible (2 and 3%) at the highest concentrations of 1200 g/ha.</p>
+<p id="p-0173" num="0234">From the foregoing it will be observed that numerous modifications and variations can be effectuated without departing from the true spirit and scope of the novel concepts of the present invention. It is to be understood that no limitations with respect to the specific embodiments illustrated is intended or should be inferred. It should be understood that all such modifications and improvements have been deleted herein for the sake of conciseness and readability but are properly within the scope of the following claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-chemistry idref="CHEM-US-00001" cdx-file="US20230225324A1-20230720-C00001.CDX" mol-file="US20230225324A1-20230720-C00001.MOL"/>
+<us-chemistry idref="CHEM-US-00002" cdx-file="US20230225324A1-20230720-C00002.CDX" mol-file="US20230225324A1-20230720-C00002.MOL"/>
+<us-chemistry idref="CHEM-US-00003" cdx-file="US20230225324A1-20230720-C00003.CDX" mol-file="US20230225324A1-20230720-C00003.MOL"/>
+<us-chemistry idref="CHEM-US-00004" cdx-file="US20230225324A1-20230720-C00004.CDX" mol-file="US20230225324A1-20230720-C00004.MOL"/>
+<us-chemistry idref="CHEM-US-00005" cdx-file="US20230225324A1-20230720-C00005.CDX" mol-file="US20230225324A1-20230720-C00005.MOL"/>
+<us-chemistry idref="CHEM-US-00006" cdx-file="US20230225324A1-20230720-C00006.CDX" mol-file="US20230225324A1-20230720-C00006.MOL"/>
+<us-chemistry idref="CHEM-US-00007" cdx-file="US20230225324A1-20230720-C00007.CDX" mol-file="US20230225324A1-20230720-C00007.MOL"/>
+<us-chemistry idref="CHEM-US-00008" cdx-file="US20230225324A1-20230720-C00008.CDX" mol-file="US20230225324A1-20230720-C00008.MOL"/>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A synergistic pesticidal composition comprising:
+<claim-text>(a) Diafenthiuron;</claim-text>
+<claim-text>(b) Pyriproxyfen;</claim-text>
+<claim-text>(c) at least one insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, Pymetrozine;</claim-text>
+<claim-text>(d) one or more inactive excipients selected from the group comprising surfactant, dispersing agent, anti-freezing agent, wetting agent, anti-foaming agent, suspension aid, anti-microbial/bacterial agent, thickener, quick coating agent or sticking agents, buffering agent, binder and filler.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The synergistic pesticidal composition as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>A) Diafenthiuron is present in an amount in the range from 5.0 to 60% w/w;</claim-text>
+<claim-text>B) Pyriproxyfen is present in an amount in the range from 1.0 to 25% w/w;</claim-text>
+<claim-text>C) at least one more insecticide selected from Thiamethoxam, Imidacloprid, Thiacloprid, Dinotefuran, Clothianidin, Pymetrozine, is present in an amount in the range from 0.5 to 50% w/w.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The synergistic pesticidal composition as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the combinations of the active ingredients in the said pesticidal composition comprises of:
+<claim-text>a) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Thiamethoxam in an amount in the range from 2.5-15% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>b) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4% w/w, Thiamethoxam in an amount in the range from 15.1-35% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>c) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen m an amount in the range from 1-2.7% w/w, Thiamethoxam in an amount in the range from 35.1-50 w/w and one or more inactive excipients, or</claim-text>
+<claim-text>d) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Imidacloprid in an amount in the range from 5-15% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>e) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Imidacloprid in an amount in the range from 15.1-35% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>f) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Imidacloprid in an amount in the range from 35.1-50% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>g) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Thiacloprid in an amount in the range from 2.5-10% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>h) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Thiacloprid in an amount in the range from 10-20% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>i) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Thiacloprid in an amount in the range from 20.1-50% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>e) Diafenthiuron in an amount in the range from 15.0-35.0% w/w,
+<claim-text>Pyriproxyfen in an amount in the range from 5.0-25% w/w, Dinotefuran in an amount in the range from 0.5-15% w/w and one or more inactive excipients, or</claim-text>
+</claim-text>
+<claim-text>f) Diafenthiuron in an amount in the range from 5.0-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Dinotefuran in an amount in the range from 15.1-35% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>l) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1.0-2.7% w/w, Dinotefuran in an amount in the range from 35.1-50% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>m) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Clothianidin in an amount in the range from 2.5-15% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>n) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Clothianidin in an amount in the range from 15.1-25% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>o) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Clothianidin in an amount in the range from 25.1-40% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>p) Diafenthiuron in an amount in the range from 15-35% w/w, Pyriproxyfen in an amount in the range from 5-25% w/w, Pymetrozine in an amount in the range from 0.5-15% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>q) Diafenthiuron in an amount in the range from 5-14% w/w, Pyriproxyfen in an amount in the range from 2.8-4.9% w/w, Pymetrozine in an amount in the range from 15.1-35% w/w and one or more inactive excipients, or</claim-text>
+<claim-text>r) Diafenthiuron in an amount in the range from 40-60% w/w, Pyriproxyfen in an amount in the range from 1-2.7% w/w, Pymetrozine in an amount in the range from 35.1-50% w/w and one or more inactive excipients.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The synergistic pesticidal composition as claimed in <claim-ref idref="CLM-00001">claims 1</claim-ref>-<claim-ref idref="CLM-00003">3</claim-ref>, wherein the surfactant is selected from the group comprising non-ionic surfactants, cationic surfactants and anionic surfactants or blend of anionic &#x26; nonionic/Catanionic or a combination thereof and present in an amount in the range from 1.00 to 10.00% w/w.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The synergistic pesticidal composition as claimed in <claim-ref idref="CLM-00001">claims 1</claim-ref>-<claim-ref idref="CLM-00003">3</claim-ref>, wherein the dispersing agent is selected from the group comprising Tristyrylphenol Ethoxylate Amine salt of phosphate tristyryl phenol ethylated/Acrylic Copolymer/Ethoxylated Tristryl phenol Sulphate or a combination thereof and present in an amount in the range from 0.5 to 10.00% w/w.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The synergistic pesticidal composition as claimed in <claim-ref idref="CLM-00001">claims 1</claim-ref>-<claim-ref idref="CLM-00003">3</claim-ref>, wherein the anti-freezing agent is selected from the group comprising Mono Ethylene Glycol/Propylene glycol/Diethylene glycol or a combination thereof and present in an amount in the range from 0.1 to 10.00% w/w.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The synergistic pesticidal composition as claimed in <claim-ref idref="CLM-00001">claims 1</claim-ref>-<claim-ref idref="CLM-00003">3</claim-ref>, wherein the wetting agent is selected from the group comprising Tristyrylphenol ethoxylate nonionic emulsifier/Mixture of nonionic surfactants &#x26; Alkoxylated Alcohol or a combination thereof and present in an amount in the range from 0.1 to 10.00% w/w.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The synergistic pesticidal composition as claimed in <claim-ref idref="CLM-00001">claims 1</claim-ref>-<claim-ref idref="CLM-00003">3</claim-ref>, wherein the anti-foaming agent is selected from the group comprising Siloxane polyalkyleneoxide and is present in an amount in the range from 0.01 to 1.00% w/w.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The synergistic pesticidal composition as claimed in <claim-ref idref="CLM-00001">claims 1</claim-ref>-<claim-ref idref="CLM-00003">3</claim-ref>, wherein the thickener is selected from the group comprising Silicon Dioxide/China-Clay/Kaolin/Talc/starch or a combination thereof and present in an amount in the range from 0.50 to 5.00% w/w.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The synergistic pesticidal composition as claimed in <claim-ref idref="CLM-00001">claims 1</claim-ref>-<claim-ref idref="CLM-00003">3</claim-ref>, wherein the binder is selected as Xanthum Gum and is present in an amount in the range from 0.01 to 1.00% w/w.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The synergistic pesticidal composition as claimed in <claim-ref idref="CLM-00001">claims 1</claim-ref>-<claim-ref idref="CLM-00003">3</claim-ref>, wherein the composition is formulated as selected from Emulsifiable concentrate (EC), Emulsifiable granule (EG), Emulsion water-in-oil (EO), Emulsifiable powder (EP), Emulsion for seed treatment (ES), Emulsion oil-in-water (EW), Flowable Slurry (FS), Flowable Suspension (FS), Suspension Concentrate (SC), Suspension concentrate for direct application (SD), Suspo-emulsion (SE), Water soluble granule (SG), Soluble concentrate (SL), Water soluble powder (SP), Water dispersible powder for slurry seed treatment (WS), Water dispersible granules (WDG), Wettable powders (WP), Water dispersible powder for slurry seed treatment (WS), Water dispersible tablet (WT), a mixed formulation of CS and SC (ZC) or A mixed formulation of CS and SE (ZE), a mixed formulation of CS and EW (ZW).</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The synergistic pesticidal composition as claimed in <claim-ref idref="CLM-00001">claims 1</claim-ref>-<claim-ref idref="CLM-00011">11</claim-ref>, wherein the suspoemulsion (SE), formulation comprises of:
+<claim-text>a) Pyriproxyfen in an amount of 8% w/w by weight of the composition;</claim-text>
+<claim-text>b) Dinotefuran in an amount of 5% w/w by weight of the composition;</claim-text>
+<claim-text>c) Diafenthiuron in an amount of 18% w/w by weight of the composition;</claim-text>
+<claim-text>d) Surfactant/Emulsifier selected form Blend of anionic &#x26; Non-ionic;</claim-text>
+<claim-text>e) Dispersing Agent selected form Tristyrylphenol Ethoxylate &#x26; craft polymer;</claim-text>
+<claim-text>f) Propylene Glycol as Anti-freezing Agent</claim-text>
+<claim-text>g) Sodium lauryl sulphate as Wetting Agent;</claim-text>
+<claim-text>h) Siloxane polyalkyleneoxide as Antifoaming Agent;</claim-text>
+<claim-text>i) Silicon Dioxide as thickener;</claim-text>
+<claim-text>j) Benzisothiazolin-3-one as Anti-bacterial;</claim-text>
+<claim-text>k) Xanthan Gum as binder.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The synergistic pesticidal composition as claimed in <claim-ref idref="CLM-00001">claims 1</claim-ref>-<claim-ref idref="CLM-00011">11</claim-ref>, wherein the wettable powder (WP) formulation comprises of:
+<claim-text>a) Pyriproxyfen in an amount of 8% w/w by weight of the composition;</claim-text>
+<claim-text>b) Dinotefuran in an amount of 5% w/w by weight of the composition;</claim-text>
+<claim-text>c) Diafenthiuron in an amount of 18% w/w by weight of the composition;</claim-text>
+<claim-text>d) Dispersing Agent selected from Napthalene sulfonic acid branched and linear sodium salt;</claim-text>
+<claim-text>e) Sodium disopropyl naphthalene sulfonate as Wetting Agent;</claim-text>
+<claim-text>f) Siloxane polyalkyleneoxide as Antifoaming Agent;</claim-text>
+<claim-text>g) Fillers.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The synergistic pesticidal composition as claimed in <claim-ref idref="CLM-00001">claims 1</claim-ref>-<claim-ref idref="CLM-00011">11</claim-ref>, wherein the Water Dispersible Granules (WDG) formulation comprises of:
+<claim-text>h) Pyriproxyfen in an amount of 8% w/w by weight of the composition;</claim-text>
+<claim-text>i) Dinotefuran in an amount of 5% w/w by weight of the composition;</claim-text>
+<claim-text>j) Diafenthiuron in an amount of 18% w/w by weight of the composition;</claim-text>
+<claim-text>k) Dispersing Agent is selected from Methyl Napthalene sulfonic acid polymer with formaldehyde sodium salt;</claim-text>
+<claim-text>l) Sodium lauryl sulphate as Wetting Agent;</claim-text>
+<claim-text>m) Siloxane polyalkyleneoxide as Antifoaming Agent;</claim-text>
+<claim-text>n) Citric acid/Sod. Bicarbonate as Disintegration Agent;</claim-text>
+<claim-text>o) Fillers.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

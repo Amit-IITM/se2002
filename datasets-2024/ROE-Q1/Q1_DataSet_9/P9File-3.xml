@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225284A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225284</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18010182</doc-number>
+<date>20210616</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>NZ</country>
+<doc-number>765490</doc-number>
+<date>20200617</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>5</main-group>
+<subgroup>007</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>7</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>5</main-group>
+<subgroup>007</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>7</main-group>
+<subgroup>022</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">A MONITORING SYSTEM</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>DEOSAN NEW ZEALAND LIMITED</orgname>
+<address>
+<city>Waharoa</city>
+<country>NZ</country>
+</address>
+</addressbook>
+<residence>
+<country>NZ</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>BODLE</last-name>
+<first-name>Christopher John</first-name>
+<address>
+<city>Cambridge</city>
+<country>NZ</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/NZ2021/050098</doc-number>
+<date>20210616</date>
+</document-id>
+<us-371c12-date><date>20221213</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Disclosed is a monitoring system, and associated method, relating to the operation of a dairy plant, the system being adapted or able to monitor one or more of the following criteria: the mixing and/or dispensing of animal health products, the mixing and/or dispensing of teat treatments, the mixing and/or dispensing of chemicals, the mixing and/or dispensing of cleaning chemicals, the monitoring of plant cleaning operations, the usage of plant products/treatments/chemicals, and/or any other aspects associated with the operation of a dairy plant. The system is preferably able to monitor a dispensing system associated with a dairy plant.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="118.53mm" wi="158.75mm" file="US20230225284A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="220.47mm" wi="156.21mm" orientation="landscape" file="US20230225284A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="245.53mm" wi="178.22mm" orientation="landscape" file="US20230225284A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="240.62mm" wi="176.78mm" file="US20230225284A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="244.77mm" wi="173.65mm" file="US20230225284A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="241.30mm" wi="180.76mm" file="US20230225284A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="240.88mm" wi="166.29mm" orientation="landscape" file="US20230225284A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="243.25mm" wi="169.84mm" orientation="landscape" file="US20230225284A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="238.17mm" wi="172.97mm" orientation="landscape" file="US20230225284A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="242.06mm" wi="151.98mm" orientation="landscape" file="US20230225284A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">This invention relates to a monitoring system.</p>
+<p id="p-0003" num="0002">The monitoring system may be suitable for monitoring any criteria or conditions within a dairy shed/plant (referred to interchangeably and collectively herein as (dairy) &#x2018;plant&#x2019; or (dairy) &#x2018;shed&#x2019;).</p>
+<p id="p-0004" num="0003">The monitoring system may be particularly suitable for monitoring operations within a dairy plant for dispensing teat treatments; and/or for monitoring operations within a dairy plant for using, dispensing and/or mixing cleaning chemicals; and/or for monitoring cleaning operations with a dairy plant, for example milk vat cleaning operations and overall dairy plant cleaning operations.</p>
+<p id="p-0005" num="0004">However, it is to be understood and appreciated that the invention may also have other applications and uses. The prior art and possible applications of the invention, as discussed below, are therefore given by way of example only.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0006" num="0005">The production of quality dairy products relies on the supply of high-quality milk from dairy farms. To incentivise and control the quality of milk they receive, commercial dairy processors may audit the farms that supply them with raw milk, they may test and grade the milk received from the farms, and may offer a higher price for higher quality milk or penalise farms for supplying poor quality milk. Therefore, for farmers, maintaining good milk quality is important for farm productivity and profitability.</p>
+<p id="p-0007" num="0006">Milk quality is heavily influenced by animal health, particularly udder health. Mastitis is linked to lower milk output and lower quality milk. Each case of mastitis in a herd is also associated with a cost for medicaments, discarded milk, and labour. BMSCC (Bulk Milk SCC calculated from herd test data) is a measurement that reflects the estimated level of mastitis in a herd:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0007">At 100,000 cells/ml, approximately 20% of cows have subclinical mastitis</li>
+        <li id="ul0002-0002" num="0008">At 200,000 cells/ml, approximately 30% of cows have subclinical mastitis</li>
+        <li id="ul0002-0003" num="0009">At 300,000 cells/ml, approximately 36% of cows have subclinical mastitis</li>
+        <li id="ul0002-0004" num="0010">At 400,000 cells/ml, approximately 40% of cows have subclinical mastitis.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0008" num="0011">It is desirable for the BMSCC to be kept as low as possible, and some dairy companies and/or processors have a maximum acceptable BMSCC.</p>
+<p id="p-0009" num="0012">Generally speaking, herds with BMSCC below 150,000 cells/ml have excellent mastitis control.</p>
+<p id="p-0010" num="0013">Tests are usually performed on milk samples at an independent testing laboratory using machines such as Fossomatics that count animal (somatic) cell nuclei stained with a fluorescent dye. To ensure machines are measuring cell counts accurately, laboratories in New Zealand use internationally recognized reference standards. BMSCC's are quoted as an actual test result for a particular sample, and can be summarised in forms such as arithmetic, geometric or rolling means.</p>
+<p id="p-0011" num="0014">From 1 Jan. 1998 the European Union required that milk from individual farms had to have BMSCC less than 400,000 cells/ml. Counts above this level are regarded as unfit for human consumption (European Union Directive 92/46/EC). Many dairy companies in the world have subsequently adopted this standard as a benchmark in their own quality schemes for competitive international trade in dairy products.</p>
+<p id="p-0012" num="0015">Current trends in dairy farming are towards increasing herd size. For example, in New Zealand, the average herd size tripled in the 30 seasons preceding 2019, and increased by more than 200 cows in 20 seasons. In large herds, preventing outbreaks of mastitis or other diseases is imperative to maintaining farm productivity and profitability.</p>
+<p id="p-0013" num="0016">Dairy farmers have a requirement to use cleaning chemicals in accordance with a wash programme outlined by regulation in New Zealand, being the NZCP1: Design and Operation of Farm Dairies. Animal health products registered for veterinary use such as teat spray are required to be used in accordance with label instructions showing directions for use or following veterinary advice. Milk producers typically have a contract with independent auditors who assess whether farmers are meeting these requirements in relation to cleaning procedures and in the use of animal health products registered as veterinary products. In many cases farmers record their information manually.</p>
+<p id="p-0014" num="0017">A number of products exist to treat mastitis, but the effectiveness of these products relies on correct mixing and dilution of the products and application to the dairy cow. Incorrect mixing/dilution and/or application of these products and/or the use of expired stock, and/or the use of old mixed product, and/or the use of poor-quality water, can lead to problems with residues or outbreaks of mastitis.</p>
+<p id="p-0015" num="0018">Another factor that can significantly influence milk quality is the cleanliness of the milking shed and/or dairy plant components. Bacterial residues resulting from fat and milk protein can build up in the piping and components of a dairy shed if it is not cleaned correctly at the end of each milking session. As this build up occurs, milk quality can be negatively affected. Milk quality that does not meet the minimum standards set by dairy processors can be rejected and/or financially penalised by the dairy processing company or plant, leading to loss of income to both dairy farmer and milk processor.</p>
+<p id="p-0016" num="0019">Effective cleaning of a shed and shed components relies heavily on the correct mixing and use of cleaning chemicals through the dairy plant. Incorrectly mixed or used cleaning chemicals may be ineffective in preventing fat and protein build up resulting in bacteria multiplying in the plant. Further, such cleaning chemical concentrates/formulations often require manual handling, including measuring and pouring the chemicals into vats and drums prior to use in the shed, exposing farm workers to the risk of chemical exposure&#x2014;and so the risk of exposure to the chemicals as well as the risk of spillages is high.</p>
+<p id="p-0017" num="0020">All sheds will have a weekly wash programme schedule that they typically follow for both the shed wash and the bulk milk vat wash. This schedule will include hot and cold acid washes and hot alkali washes for the plant, and will include hot acid and hot alkali washes for the milk vats. In certain circumstances, where higher than normal residues have built up in the plant components and vat, a &#x2018;bomb&#x2019; wash will be implemented. This is a process where the chemical concentrate of alkali and/or chlorine is mixed at twice the normal rate and circulated through the plant for maximum effect.</p>
+<p id="p-0018" num="0021">Where hot washes have been executed for both plant and milk vats it is important that the water leaving the plant be of a certain minimum temperature for the wash to be considered effective. At a temperature lower than 60&#xb0; Celsius fat and/or protein deposits may be left in the plant. Measuring and knowing this temperature is therefore important to gauge the effectiveness of the wash.</p>
+<p id="p-0019" num="0022">Incorrect pH of an acid or alkali wash could lead to an ineffective wash. Knowing the pH of the water for an acid or alkali wash could determine whether the chemicals were dosed in their required amounts.</p>
+<p id="p-0020" num="0023">New dairy shed builds are now commonly installed with an automated wash system, some older sheds may have an automated wash system retrofitted, while other older sheds typically have some form of manual wash system operating in them. However, even automated wash systems do not guarantee correct use of shed cleaning chemicals or mitigate the health and safety risk inherent in handling the wash chemicals. In some instances, where a dairy shed has run out of a chemical, wash programmes can still be run without the required chemical while waiting for a new supply, resulting in ineffective cleaning.</p>
+<p id="p-0021" num="0024">Furthermore, automated wash systems in the more modern sheds will measure the amount of chemical concentrate they use for each wash, and this is generally measured by the run time of the dosing pump. It will also measure items such as water temperature before recirculation and before dumping. Error codes and timers are displayed on screen to keep the operator informed of the milking and washing process. This data is usually stored on the wash system computer and can only be accessed by viewing the screen for the system. It is not published or configured in a report format. If the shed independent hot water system malfunctions for whatever reason, and cold water is used for a hot wash, the automated wash system will record the water temperature, but it will not raise an alert or communicate to warn the farmer that the wash water temperature was too low. This information is displayed on the screen. This is clearly unsatisfactory.</p>
+<p id="p-0022" num="0025">A common issue in both manual and automated dairy sheds is farmers running out of chemicals which results in disrupting operations and posing a risk for milk quality.</p>
+<p id="p-0023" num="0026">Most dairy processors audit supplying farms to check there is good practice relating to shed cleaning and mastitis treatment amongst other things. Such audits typically involve a site visit, and checking manual cleaning practices and treatment logs. Manual logs rely on accurate, diligent, and honest recording by shed operators, and so they may often contain errors and/or inadvertently incorrect or missing information&#x2014;they can also be easily fabricated to satisfy an auditor.</p>
+<p id="p-0024" num="0027">It would be advantageous therefore if there was an independent monitoring system that could be used for accurately and diligently monitoring (and/or recording) any criteria or conditions associated with any operation within, or associated with, a dairy shed/plant.</p>
+<p id="p-0025" num="0028">It may also be advantageous if the monitoring system was optionally able to alert a farmer/user to any potentially adverse issues, for example milk quality issues, plant/vat cleanliness issues and/or animal health issues.</p>
+<p id="p-0026" num="0029">Chemicals used in a dairy plant are an expensive consumable for dairy farm operations. Generally dairy farmers purchase these products per unit (by drum) which can vary in size from 20 kg to 20 lts-1000 ltr containers. Often the purchase of these chemicals is required prior to the end of the season, or the start of the season. This can coincide when farmer cash flow is low. A monitoring system that can identify volume used can allow for billing by quantity used as opposed to container/pack size which will provide farmers with flexibility and allow for better cash flow management with these products.</p>
+<heading id="h-0003" level="1">Object</heading>
+<p id="p-0027" num="0030">It is therefore an object of at least preferred embodiments of the present invention to go some way towards addressing one or more of the aforementioned problems or difficulties, or which at the very least provides the public with a useful choice.</p>
+<heading id="h-0004" level="1">Definitions</heading>
+<p id="p-0028" num="0031">Throughout this specification unless the text requires otherwise, the word &#x2018;comprise&#x2019; and variations such as &#x2018;comprising&#x2019; or &#x2018;comprises&#x2019; will be understood to imply the inclusion of a stated integer or step or group of integers or steps but not the exclusion of any other integer or step or group of integers or steps.</p>
+<p id="p-0029" num="0032">It is intended that reference to a range of numbers disclosed herein (for example, 1 to 10) also incorporates reference to all rational numbers within that range and any range of rational numbers within that range (for example, 1 to 6, 1.5 to 5.5 and 3.1 to 10). Therefore, all sub-ranges of all ranges expressly disclosed herein are hereby expressly disclosed.</p>
+<p id="p-0030" num="0033">As used herein the term &#x2018;(s)&#x2019; following a noun means the plural and/or singular form of that noun. As used herein the term &#x2018;and/or&#x2019; means &#x2018;and&#x2019; or &#x2018;or&#x2019;, or where the context allows, both.</p>
+<p id="p-0031" num="0034">This invention may also be said broadly to consist in the parts, elements and features referred to or indicated in the specification of the application, individually or collectively, and any or all combinations of any two or more said parts, elements or features. Where specific integers are mentioned herein which have known equivalents in the art to which this invention relates, such known equivalents are deemed to be incorporated herein as if individually described.</p>
+<p id="p-0032" num="0035">Furthermore, in this specification if/where reference has been made to patent specifications, other external documents, or other sources of information, this is generally to provide a context for discussing features of the invention. Unless specifically stated otherwise, reference to such external documents or sources of information is not to be construed as an admission that such documents or such sources of information, in any jurisdiction, are prior art or form part of the common general knowledge in the art.</p>
+<heading id="h-0005" level="1">Statements of Invention</heading>
+<p id="p-0033" num="0036">According to one aspect of the present invention, there is provided a monitoring system associated with the operation of a dairy plant, said system being adapted or able to monitor one or more of the following criteria:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0037">a. the mixing and/or dispensing of animal health products,</li>
+        <li id="ul0004-0002" num="0038">b. the mixing and/or dispensing of teat treatments,</li>
+        <li id="ul0004-0003" num="0039">c. the mixing and/or dispensing of chemicals,</li>
+        <li id="ul0004-0004" num="0040">d. the mixing and/or dispensing of cleaning chemicals,</li>
+        <li id="ul0004-0005" num="0041">e. the monitoring of plant cleaning operations,</li>
+        <li id="ul0004-0006" num="0042">f. the usage of plant products/treatments/chemicals,</li>
+        <li id="ul0004-0007" num="0043">g. any other aspects associated with the operation of a dairy plant.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0034" num="0044">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein said monitoring system is adapted or able to monitor a dispensing system for dispensing chemicals, said dispensing system including:
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0000">
+    <ul id="ul0006" list-style="none">
+        <li id="ul0006-0001" num="0045">a. at least two storage reservoirs, each for containing a respective chemical solution,</li>
+        <li id="ul0006-0002" num="0046">b. a water source,</li>
+        <li id="ul0006-0003" num="0047">c. a mixing system,</li>
+        <li id="ul0006-0004" num="0048">d. a dosing system coupled to the storage reservoirs and to the water source, for selectively dispensing one or more of the chemical solutions and water into the mixing system to form a mixed solution,</li>
+        <li id="ul0006-0005" num="0049">e. a user interface for receiving dispensing instructions from a user,</li>
+        <li id="ul0006-0006" num="0050">f. a controller for operating the dosing system in accordance with the dispensing instructions,</li>
+        <li id="ul0006-0007" num="0051">g. a sensor in communication with the controller, configured to measure a property of at least one dispensed chemical solution and/or of the mixed solution,
+        <ul id="ul0007" list-style="none">
+            <li id="ul0007-0001" num="0052">wherein the controller is configured to log information from the sensor in a database.</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0035" num="0053">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the chemical solutions include one or more of: a teat wash or mastitis treatment, a detergent, an acid plant wash, and/or an alkali plant wash, and/or one or more animal health products, and/or a mineral supplement.</p>
+<p id="p-0036" num="0054">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein a first one of the storage reservoirs comprises a teat wash or mastitis treatment, and a second one of the reservoirs comprises a detergent and/or an acid plant wash, and/or an alkali plant wash.</p>
+<p id="p-0037" num="0055">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the sensor is configured to measure one or more of the volume, concentration, temperature, and/or pH of a solution in the mixing system.</p>
+<p id="p-0038" num="0056">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the user interface enables a user to select the chemical solution(s) to be mixed and to specify the strength, volume, or application of the mixed solution.</p>
+<p id="p-0039" num="0057">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the user interface enables a user to specify the application for the mixed solution, and wherein for a given specified application, the controller retrieves one or more of the required volume or strength of the mixed solution.</p>
+<p id="p-0040" num="0058">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the user interface can also be used for re-ordering product, and/or confirming the use of safety PPE, and/or for alerting the operator to measurements outside set parameters.</p>
+<p id="p-0041" num="0059">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the mixing system includes an outlet coupled to a spray system for spraying cow udders for mastitis treatment.</p>
+<p id="p-0042" num="0060">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the system further includes a temperature sensor placed in a suitable position at a waste water outlet of the dairy plant wash or spray system, to measure the temperature of the wastewater.</p>
+<p id="p-0043" num="0061">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the system further includes one or more chemical level sensors arranged to sense the quantity of chemical solution remaining in a respective storage reservoir.</p>
+<p id="p-0044" num="0062">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the controller is configured to receive sensed data from the chemical level sensors and transmit this data to a remote location.</p>
+<p id="p-0045" num="0063">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the controller is configured to receive sensed data from the chemical level sensors, and calculate a quantity of one or more chemical solutions used in a given time period.</p>
+<p id="p-0046" num="0064">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the system further includes a module to generate an invoice from data in the database, wherein the invoice invoices for a quantity of chemical solution(s) used in a given period.</p>
+<p id="p-0047" num="0065">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the controller is configured to receive sensed data from the chemical level sensors and, when the sensed quantity of chemical solution remaining in a respective storage reservoir is below a threshold amount, to transmit this data to a remote location and/or produce an alert on the user interface.</p>
+<p id="p-0048" num="0066">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the controller is configured to receive sensed data from the chemical level sensors and, when the sensed quantity of chemical solution remaining in a respective storage reservoir is below a threshold amount, to transmit an order for replenishment of said chemical solution to a supplier of the chemical solution.</p>
+<p id="p-0049" num="0067">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein before transmitting the order for replenishment of said chemical solution, the controller obtains approval for the order via the user interface.</p>
+<p id="p-0050" num="0068">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the controller is configured to record one or more of:
+<ul id="ul0008" list-style="none">
+    <li id="ul0008-0001" num="0000">
+    <ul id="ul0009" list-style="none">
+        <li id="ul0009-0001" num="0069">(a) a measured property of at least one dispensed chemical solution,</li>
+        <li id="ul0009-0002" num="0070">(b) a measured property of the mixed solution along with the time and date,</li>
+        <li id="ul0009-0003" num="0071">(c) information about the type of solution mixed,</li>
+        <li id="ul0009-0004" num="0072">(d) instructions input by user via the user interface,</li>
+        <li id="ul0009-0005" num="0073">(e) information about use of the mixed solution,</li>
+        <li id="ul0009-0006" num="0074">in the database, alongside date and time data, and batch number.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0051" num="0075">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the mixing system is configured to supply fluid from the mixing system to a wash or spray system for washing a dairy plant, and/or for spraying cows udders for mastitis treatment, and the system controller is configured to log the volume and strength of fluid dispensed to the dairy plant wash or spray system, along with the time and date the fluid was dispensed.</p>
+<p id="p-0052" num="0076">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the controller is further configured to receive and log a temperature measurement from a temperature sensor at a waste water outlet of the dairy plant wash or spray system (no temperature is measured at the end of the spray system).</p>
+<p id="p-0053" num="0077">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the controller is configured to wirelessly communicate data to the cloud or to a remote server.</p>
+<p id="p-0054" num="0078">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the mixing system includes an outlet and a sensor to measure the amount of the mixed solution dispensed through the outlet.</p>
+<p id="p-0055" num="0079">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the dosing system includes one or more pumps for pumping the chemical solutions to the mixing system.</p>
+<p id="p-0056" num="0080">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein each storage system is fluidly connected to a pump.</p>
+<p id="p-0057" num="0081">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the system further includes a plurality of mixing systems, wherein the system is configured to dispense different chemical solutions into different mixing systems.</p>
+<p id="p-0058" num="0082">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein a first one of the mixing systems is configured to receive a teat wash or chemical solution for mastitis treatment and water, and a second one of the mixing systems is configured to receive a detergent and/or wash chemical and water.</p>
+<p id="p-0059" num="0083">An automated method for mixing chemicals for washing a dairy plant using the monitoring system substantially as described above, said method including the steps of:
+<ul id="ul0010" list-style="none">
+    <li id="ul0010-0001" num="0000">
+    <ul id="ul0011" list-style="none">
+        <li id="ul0011-0001" num="0084">a. obtaining desired mixture parameters from a user via the user interface,</li>
+        <li id="ul0011-0002" num="0085">b. dispensing water from the water source and an acid or alkali concentrate into a mixing system to create a mixed solution in accordance with the parameters,</li>
+        <li id="ul0011-0003" num="0086">c. measuring the pH level of the solution in the mixing system,</li>
+        <li id="ul0011-0004" num="0087">d. logging the pH level in a database,</li>
+        <li id="ul0011-0005" num="0088">e. measuring the temperature of the wastewater at the plant wash outlet, and</li>
+        <li id="ul0011-0006" num="0089">f. logging the wastewater temperature in the database.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0060" num="0090">According to another aspect of the present invention, there is provided a method, substantially as described above, wherein the method further includes a means for issuing an alert if the pH level is outside a pre-determined allowable range.</p>
+<p id="p-0061" num="0091">According to another aspect of the present invention, there is provided a method, substantially as described above, wherein the method further includes a means for issuing an alert if the wastewater temperature is below a pre-determined minimum temperature.</p>
+<p id="p-0062" num="0092">According to another aspect of the present invention, there is provided a method, substantially as described above, wherein the method further includes the step of recording in the database, alongside date and time data, one or more of:
+<ul id="ul0012" list-style="none">
+    <li id="ul0012-0001" num="0000">
+    <ul id="ul0013" list-style="none">
+        <li id="ul0013-0001" num="0093">(a) a measured volume of the dispensed acid or alkali concentrate,</li>
+        <li id="ul0013-0002" num="0094">(b) a measured volume or concentration of the mixed solution,</li>
+        <li id="ul0013-0003" num="0095">(c) information about the type of solution mixed,</li>
+        <li id="ul0013-0004" num="0096">(d) instructions input by user via the user interface,</li>
+        <li id="ul0013-0005" num="0097">(e) information about use of the mixed solution,</li>
+        <li id="ul0013-0006" num="0098">(f) the level of acid or alkali concentrate remaining in the respective storage reservoir,</li>
+        <li id="ul0013-0007" num="0099">(g) information about the pH of the mixed acid or alkali solution prior to the wash being started,</li>
+        <li id="ul0013-0008" num="0100">(h) information about the temperature of the mixed acid or alkali solution after the wash has been completed,</li>
+        <li id="ul0013-0009" num="0101">(i) information about the time taken for the plant wash to be carried out,</li>
+        <li id="ul0013-0010" num="0102">(j) information about the time taken for the vat wash to be carried out</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0063" num="0103">According to another aspect of the present invention, there is provided a method, substantially as described above, wherein the method further includes the steps of:
+<ul id="ul0014" list-style="none">
+    <li id="ul0014-0001" num="0000">
+    <ul id="ul0015" list-style="none">
+        <li id="ul0015-0001" num="0104">obtaining desired mixture parameters from a user via the user interface,</li>
+        <li id="ul0015-0002" num="0105">dispensing water from the water source and a teat treatment concentrate from one of the storage reservoirs, into the mixing system to create a mixed solution in accordance with the parameters,</li>
+        <li id="ul0015-0003" num="0106">applying the mixed solution, directly or indirectly, to animal teats, recording in the database, alongside date and time data, one or more of:</li>
+        <li id="ul0015-0004" num="0107">(a) a measured volume of the dispensed teat treatment concentrate,</li>
+        <li id="ul0015-0005" num="0108">(b) a measured volume or concentration of the mixed solution,</li>
+        <li id="ul0015-0006" num="0109">(c) the volume of the mixed solution dispensed,</li>
+        <li id="ul0015-0007" num="0110">(d) information about the type of solution mixed,</li>
+        <li id="ul0015-0008" num="0111">(e) instructions input by user via the user interface,</li>
+        <li id="ul0015-0009" num="0112">(f) information about use of the mixed solution,</li>
+        <li id="ul0015-0010" num="0113">(g) the level of teat treatment concentrate remaining in the respective storage reservoir.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0064" num="0114">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the monitoring system is further adapted, or able, record any, or all, data obtained through said monitoring.</p>
+<p id="p-0065" num="0115">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the monitoring system is further adapted, or able, to generate an alert when certain readings/measurements and/or conditions are met (or not met)&#x2014;the &#x2018;readings/measurements and/or conditions&#x2019; being collectively referred to herein as &#x2018;the event(s)&#x2019;.</p>
+<p id="p-0066" num="0116">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the alert(s) is capable of being automatically generated before, during and/or after the occurrence of the event(s).</p>
+<p id="p-0067" num="0117">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the alert(s) is capable of being automatically generated in real time&#x2014;with respect to the occurrence of the event(s).</p>
+<p id="p-0068" num="0118">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the alert is automatically delivered by email, and/or via an app, and/or via a text message to a user of the monitoring system.</p>
+<p id="p-0069" num="0119">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the alert enables a user of the monitoring system to immediately investigate the event(s) and/or the cause(s) of the event(s).</p>
+<p id="p-0070" num="0120">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the alert enables the user of the monitoring system to immediately remedy the cause(s) of the event(s).</p>
+<p id="p-0071" num="0121">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the monitoring system is further adapted, or able, to transmit any, or all, of said data to a remote location.</p>
+<p id="p-0072" num="0122">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the monitoring system is further adapted, or able, to transmit any, or all, of said data to a remote computer/device and/or a computer server and/or a cloud computing system.</p>
+<p id="p-0073" num="0123">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein said real time alert(s) may include one or more of the following:
+<ul id="ul0016" list-style="none">
+    <li id="ul0016-0001" num="0000">
+    <ul id="ul0017" list-style="none">
+        <li id="ul0017-0001" num="0124">a. An alert on the temperature of the waste water post washing,</li>
+        <li id="ul0017-0002" num="0125">b. An alert on the pH of the wash water prior to washing,</li>
+        <li id="ul0017-0003" num="0126">c. An alert on the level of chemical remaining in a storage drum,</li>
+        <li id="ul0017-0004" num="0127">d. An alert on chemical concentrate mixed if out of parameter,</li>
+        <li id="ul0017-0005" num="0128">e. An alert on teat spray mixed if out of parameter,</li>
+        <li id="ul0017-0006" num="0129">f. An alert on the bulk milk somatic cell count of milk supplied,</li>
+        <li id="ul0017-0007" num="0130">g. An alert on the bactoscan level in milk supplied,</li>
+        <li id="ul0017-0008" num="0131">h. An alert on the coliform bacteria level in milk supplied,</li>
+        <li id="ul0017-0009" num="0132">i. An alert on the thermoduric bacteria level in milk supplied,</li>
+        <li id="ul0017-0010" num="0133">j. An alert based on ratio calculations from the data, where ratios fall outside a set parameter,</li>
+        <li id="ul0017-0011" num="0134">k. A power failure somewhere in the shed or within the monitoring system,</li>
+        <li id="ul0017-0012" num="0135">l. A failure or malfunction of any component of the monitoring system.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0074" num="0136">According to another aspect of the present invention, there is provided a monitoring system, substantially as described above, wherein the data for points f, g, h and i above may be accessed via an external source and can be displayed on the user interface or an alert can be sent to relevant parties when the data falls outside set ranges.</p>
+<heading id="h-0006" level="1">Preferred Embodiments</heading>
+<p id="p-0075" num="0137">The description of a preferred form(s) of the invention to be provided herein, with reference to the accompanying drawings, is given purely by way of example and is not to be taken in any way as limiting the scope or extent of the invention.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0007" level="1">DRAWINGS</heading>
+<p id="p-0076" num="0138"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a schematic showing a first embodiment system for dispensing chemicals,</p>
+<p id="p-0077" num="0139"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a schematic showing a second embodiment system for dispensing chemicals,</p>
+<p id="p-0078" num="0140"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows an exemplary screen of a user interface providing a user with options for initiating the mixing and dispensing various solutions,</p>
+<p id="p-0079" num="0141"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows an exemplary screen of a user interface a user can use to select a type of solution for which they want to specify the mixing settings,</p>
+<p id="p-0080" num="0142"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows an exemplary screen of a user interface for specifying requirements for mixing a teat treatment mixture,</p>
+<p id="p-0081" num="0143"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows an exemplary screen of a user interface for specifying requirements for mixing a dairy plant wash solution,</p>
+<p id="p-0082" num="0144"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows an exemplary screen of a user interface for calibrating a sensor of the system,</p>
+<p id="p-0083" num="0145"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows an exemplary screen of a user interface showing the status of the chemical storage reservoirs, and providing options to re-order stock before the reservoir is depleted,</p>
+<p id="p-0084" num="0146"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a flow chart illustrating a method for mixing a teat treatment spray using the system of <figref idref="DRAWINGS">FIG. <b>2</b></figref>,</p>
+<p id="p-0085" num="0147"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a flow chart illustrating a method for mixing an alkali plant wash solution for using the system of <figref idref="DRAWINGS">FIG. <b>2</b></figref>; and</p>
+<p id="p-0086" num="0148"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a flow chart illustrating a method for mixing a plant acid wash using the system of <figref idref="DRAWINGS">FIG. <b>2</b></figref>.</p>
+<p id="p-0087" num="0149"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a high level flow chart illustrating the various programs that can be selected on the user interface</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0008" level="1">DETAILED DESCRIPTION OF PREFERRED EMBODIMENTS</heading>
+<p id="p-0088" num="0150">While the present invention may be embodied in many different forms, for the purpose of promoting an understanding of the principles of the present invention, reference will now be made to <figref idref="DRAWINGS">FIGS. <b>1</b> to <b>11</b></figref> which show an exemplary embodiment systems and methods.</p>
+<p id="p-0089" num="0151"><figref idref="DRAWINGS">FIG. <b>1</b></figref>, illustrates a first embodiment monitoring system <b>1</b> for monitoring the dispensing of chemicals. The system <b>1</b> comprises at least two storage reservoirs, <b>3</b><i>a </i><b>3</b><i>b, </i><b>3</b><i>c, </i><b>3</b><i>n, </i>each for containing a respective chemical solution, and a water source <b>4</b>. The system <b>1</b> shown comprises four storage reservoirs <b>3</b><i>a </i><b>3</b><i>b, </i><b>3</b><i>c, </i><b>3</b><i>n, </i>but alternatively the system <b>1</b> may have more or fewer reservoirs. The water source <b>4</b> may comprise a mains water connection or a water tank, for example.</p>
+<p id="p-0090" num="0152">The system <b>1</b> further comprises a dosing system <b>11</b> of detergent dispensers coupled to selected storage reservoirs <b>3</b><i>a </i><b>3</b><i>b, </i><b>3</b><i>c, </i><b>3</b><i>n </i>and to the water source <b>4</b>, for selectively dispensing the chemical solutions and water into mixing reservoirs, <b>13</b>, to form a mixed solution. The dosing system <b>11</b>, <b>9</b> comprises a network of pumps, valves, and conduits (not shown), with a controller <b>5</b> and a user interface <b>7</b> configured to operate the dosing system <b>11</b> in accordance with instructions selected on the user interface <b>7</b> by an operator. The dosing system <b>11</b> is described in more detail below in relation to the embodiment of <figref idref="DRAWINGS">FIG. <b>2</b></figref>.</p>
+<p id="p-0091" num="0153">The system <b>1</b> is envisaged for, but not limited to use in, a dairy milking shed/plant.</p>
+<p id="p-0092" num="0154">In a dairying application, the storage reservoirs, <b>3</b><i>a </i><b>3</b><i>b, </i><b>3</b><i>c, </i><b>3</b><i>n </i>may typically comprise one or more drums of: a teat wash or mastitis treatment concentrate, a detergent, an acid plant wash concentrate, and/or an alkali plant wash concentrate, a mineral supplement, and/or any animal health/treatment product(s).</p>
+<p id="p-0093" num="0155">The storage reservoirs <b>3</b><i>a </i><b>3</b><i>b, </i><b>3</b><i>c, </i><b>3</b><i>n </i>are stored at or adjacent to the dairy shed site, in an area(s) fit for chemical storage in accordance with local regulations.</p>
+<p id="p-0094" num="0156"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a second embodiment monitoring system <b>101</b>, for monitoring the dispensing of chemicals, similar to the monitoring system <b>1</b> of <figref idref="DRAWINGS">FIG. <b>1</b></figref>. Unless otherwise stated, like numbers are used to indicate like parts, but with the addition of <b>100</b>.</p>
+<p id="p-0095" num="0157">In this second embodiment, a flexible plastic tube is placed and secured in each storage reservoir <b>103</b><i>a </i>to <b>103</b><i>n, </i>such that the chemical solution in the drum <b>103</b><i>a </i>to <b>103</b><i>n </i>is drawn by the respective pump <b>119</b><i>a</i>-<i>n </i>and pump <b>109</b>. Each storage reservoir <b>103</b><i>a </i>to <b>103</b><i>n </i>is fluidly connected to a detergent dispenser <b>111</b> or a mixing pump <b>109</b> via a respective pump <b>119</b><i>a </i>to <b>119</b><i>n, </i>or directly, and one or more conduits, to draw the respective chemical concentrate/solution from the storage reservoirs <b>103</b><i>a </i>to <b>103</b><i>n, </i>into the detergent dispensers <b>111</b> or the mixing pump <b>109</b>.</p>
+<p id="p-0096" num="0158">Essentially, the detergent dispensers <b>111</b> and mixing pump <b>109</b> are measuring cylinders where chemical concentrate housed within the storage reservoirs <b>103</b><i>a </i>to <b>103</b><i>n </i>is pumped, or drawn into&#x2014;by the pumps <b>119</b><i>a </i>to <b>119</b><i>n </i>and the mixing pump <b>109</b>&#x2014;and accurately measured by the level sensors <b>120</b> and the liquid ratio mixing technology in the mixing pump <b>109</b>. Once the correct amount of chemical concentrate is pumped into the detergent dispensers <b>111</b> the system shuts the pumps <b>119</b><i>a </i>to <b>119</b><i>n </i>down.</p>
+<p id="p-0097" num="0159">The chemical concentrate is then dispensed into the wash tub <b>113</b> where it mixes with water received from the plant hot or cold water cylinders. The detergent dispensers are fitted with manually operated valves <b>112</b> where the operator opens the valve when the concentrate is required in the wash tub <b>113</b>.</p>
+<p id="p-0098" num="0160">The pumps <b>119</b><i>a </i>to <b>119</b><i>n </i>may be any suitable pump, for example a peristaltic pump. The pumps <b>119</b><i>a </i>to <b>119</b><i>n </i>are electrically connected to a power source and are operated by the system controller <b>105</b>. The controller <b>105</b> activates the required pump or pumps and controls the length of time the pump runs for. The pump(s) is/are turned off (shut down) when the level of chemical concentrate in the detergent dispenser <b>111</b> reaches the correct level (determined by the inputs) as read by the level sensors <b>120</b>.</p>
+<p id="p-0099" num="0161">The amount of chemical concentrate required is not determined by the length of time the pump(s) run. The pump(s) may run at different speeds depending on factors such as outside temperature, liquid viscosity etc. A more accurate method of measuring the chemical concentrate dispensed is by using the sensors in the detergent dispensers <b>111</b>.</p>
+<p id="p-0100" num="0162">Each pump runs for any length of time, for example, depending on the required volume of chemical to be drawn from each drum <b>103</b><i>a </i>to <b>103</b><i>n. </i>The pumps may operate at a known fluid displacement rate, or the system may measure the amount of fluid displaced by the pumps and operate the pumps in response to that measurement. The controller would not ordinarily control the pump speed. Instead, the pumps will run automatically until the readings from the level sensors show that the desired volume has been reached, and then the pumps will be shut down.</p>
+<p id="p-0101" num="0163">The system controller <b>105</b> and the pumps <b>119</b><i>a </i>to <b>119</b><i>n </i>can be housed together in a controller housing. However, alternatively the pumps may be housed separately to the system controller <b>105</b>. The pumps may be housed and configured separately, or together, depending on the layout of the shed and the placement of the drums <b>103</b><i>a </i>to <b>103</b><i>n </i>relative to the shed.</p>
+<p id="p-0102" num="0164">The conduits preferably comprise flexible piping, however, alternatively the conduits or portions of the conduits may be rigid pipes or other suitable conduits. The length and configuration of the conduits will depend on the configuration of the dairy shed and the location of the reservoirs. Each shed installation may require different piping lengths and configurations. A permanent water supply <b>104</b>, such as a water mains, is fluidly connected to the teat spray inline mixing pump <b>109</b>.</p>
+<p id="p-0103" num="0165">The chemical management system <b>101</b> may comprise one or several mixing reservoirs. In the embodiment <b>101</b> of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, one mixing reservoir <b>113</b>, is provided and one mixing pump <b>109</b> is provided. Mixing reservoir <b>110</b> forms part of the plant equipment and is not a component of the monitoring system. The mixed teat spray storage drum <b>110</b> stores mixed teat spray ready for use in the dairy shed.</p>
+<p id="p-0104" num="0166">Where a system comprises multiple mixing reservoirs, or multiple detergent dispensers, the system may be configured to dispense different chemical solutions into different mixing reservoirs. That is, each chemical storage reservoir may be plumbed to supply fluid to a particular reservoir, depending on the end use of the chemical in the storage reservoir.</p>
+<p id="p-0105" num="0167">In the embodiment of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, a first mixing reservoir <b>109</b> is in the form of an inline mixing system where chemical concentrate and water is constantly drawn at the same time and in the right ratio while the teat spray operations in the shed is/are underway. As such, this inline mixing system, is fluidly connected to the water supply <b>104</b> and a storage reservoir <b>103</b><i>d </i>that holds a teat spray concentrate. The mixed teat spray is stored on a storage drum <b>110</b> ready for use in the dairy shed or delivered directly to the teat spray pressure system of the shed. The storage drum <b>110</b> will often be a shed component.</p>
+<p id="p-0106" num="0168">A second mixing reservoir <b>113</b> is in the form of a wash tub, for mixing wash solutions for cleaning dairy shed plant equipment and the dairy milk vats. The wash tub <b>113</b> is a component of the dairy shed and not a component of the monitoring system <b>101</b>.</p>
+<p id="p-0107" num="0169">The wash tub <b>113</b> is connected to the shed water supply (for cold washes), and for hot washes the wash tub <b>113</b> receives its hot water from shed hot water cylinders. So, for a plant or milk vat hot wash the hot water in the cylinder is dispensed into the wash tub <b>113</b> and the chemical concentrate will be dispensed into the wash tub <b>113</b> thereafter via the detergent dispensers <b>111</b>. Likewise, for a cold wash, the wash tub <b>113</b> will receive its cold water from the shed water supply and the chemical concentrate will be dispensed into the wash tub <b>113</b> thereafter via the detergent dispensers <b>111</b>. The wash tub <b>113</b> is indirectly connected to the water supply <b>104</b> and to storage reservoirs <b>103</b><i>a, </i><b>103</b><i>b, </i><b>103</b><i>e </i>containing wash chemical concentrates, for example an alkali concentrate, an acid concentrate, and a detergent.</p>
+<p id="p-0108" num="0170">The volume of acid and alkali chemical concentrate is measured in the detergent dispensers <b>111</b> and dispensed into the wash tub <b>113</b> where the mixed chemical is used by the plant and milk vat cleaning system.</p>
+<p id="p-0109" num="0171">Each process generates information, and this data is stored in the controller <b>105</b>, and/or in a central database.</p>
+<p id="p-0110" num="0172">For example (only), information gathered from an acid wash programme would typically be wash type (i.e., programme selected), time, date, chemical quantity used, chemical quantity remaining in drum, wash water pH, waste water temperature.</p>
+<p id="p-0111" num="0173">Likewise, information gathered from an alkali wash programme would typically be wash type (i.e., programme selected), time, date, chemical quantities used, chemical quantities remaining in drum, wash water pH, waste water temperature.</p>
+<p id="p-0112" num="0174">Information gathered from a teat spray mixing programme would typically be programme selected, time, date, chemical quantity used in mix, water quantity in mix, number of cows milked, teat spray mixing ratio, average quantity applied per cow.</p>
+<p id="p-0113" num="0175">For all of the above, the monitoring system <b>101</b> can calculate (but is not limited to) cumulative number of washes by type, cumulative quantities used per chemical, cumulative number of cows milked, average quantity applied per cow on a cumulative basis, average pH of wash water per wash type over time, average temperature of waste water over time. Information such as average SCC (somatic cell count) over time, and average Bactoscan over time can be sourced from the milk processor, and can be published by the monitoring system in the form of (electronic) reports or screen messages on the user interface.</p>
+<p id="p-0114" num="0176">In addition, the system can retrieve milk quality information from a processor, namely bactoscan, thermoduric, coliform, BMSCC which can be reported back to the users and an alert triggered should the results be outside applicable scores, and then remedial action prompted to the user and chemical supplier.</p>
+<p id="p-0115" num="0177">The system can be expanded to include further mixing reservoirs, such as that for animal health products where the process of supplying such products to the mixing reservoirs is the same, or similar, as that for shed cleaning chemicals.</p>
+<p id="p-0116" num="0178">These further mixing reservoirs can be in the form of a drum and may be provided for the mixing of animal health products. These reservoirs are fluidly connected to the storage reservoirs <b>103</b><i>e </i>and <b>103</b><i>n </i>containing bloat control concentrate and a liquid trace mineral blend for dairy cows respectively. The user will select the programme from the user interface <b>7</b> instructing the controller to mix a bloat solution or a mineral solution. The controller will start the pump and concentrate will be pumped from the storage reservoir to the mixing unit. A flow meter, or other volume measuring device, between the pump and the mixing drum will measure the amount of concentrate pumped and when the desired quantity has been reached communication between the flow meter, or measuring device, and the controller will stop the pump. The mixed liquid in the reservoir will be taken to the farm's water troughs by the farms water delivery system. The same process will be followed for the mixing and delivery of the liquid trace mineral blend.</p>
+<p id="p-0117" num="0179">In each of these processes the quantity of concentrate used for mixing will be monitored, measured and recorded, date and time of mixing will also be recorded as will be the instructions requested on the user interface <b>107</b>.</p>
+<p id="p-0118" num="0180">In the embodiment shown, each storage reservoir <b>103</b><i>a</i>-<i>n </i>is plumbed to separate mixing reservoirs or detergent dispensers. One or more additional pump(s) and associated conduits may supply fluid to additional mixing reservoir(s), or a valve may be positioned downstream of the pump <b>119</b><i>a</i>-<i>n </i>that is adjustable to alter the flow path of fluid drawn from the storage reservoir <b>103</b><i>a</i>-<b>103</b><i>n. </i></p>
+<p id="p-0119" num="0181">Detergent dispensers <b>111</b> may be provided upstream of one or more of the mixing reservoirs <b>113</b>. These detergent dispensers <b>111</b> comprise a sensor, such as an ultrasonic sensor, in communication with the system controller <b>105</b>, for measuring the level of fluid in the detergent dispensers <b>111</b>. The detergent dispensers <b>111</b> comprise a simple inlet to connect piping, and a manual outlet valve <b>112</b>. The discharge valve <b>112</b> is controlled by the shed operator between a closed state for containing and measuring fluid quantities in the detergent dispensers, and an open state for discharging fluid from the detergent dispensers into the downstream mixing reservoir such as the wash tub <b>113</b>.</p>
+<p id="p-0120" num="0182">The detergent dispensers <b>111</b> receive chemicals separately via the piping connected to pumps <b>119</b><i>a</i>-<i>n </i>and according to the chemical mixing programme selected by the operator.</p>
+<p id="p-0121" num="0183">Mixing reservoir, <b>113</b> will comprise an outlet, <b>114</b> for the discharge of the mixed solution for the shed cleaning process.</p>
+<p id="p-0122" num="0184">For example, the wash tub <b>113</b> comprises an outlet <b>114</b> that can be opened or closed and that is coupled to a wash system for cleaning a dairy shed, to supply fluid from the mixing reservoir to the wash system.</p>
+<p id="p-0123" num="0185">That said, the monitoring system <b>101</b> is not overly concerned, or affected by, how the mixed solution in the wash tub <b>113</b> is pumped around the components of the dairy shed&#x2014;each shed may be set up in a slightly different way and the mixed solution may be drawn from the wash tub <b>113</b> in a slightly different way. The monitoring system <b>101</b> is more concerned with mixing the correct amount of acid, or alkali, to the water volume in the wash tub <b>113</b>, and recording these measurements, and alerting on any measurements that fall outside set parameters.</p>
+<p id="p-0124" num="0186">The inline mixing system <b>109</b> has an outlet <b>110</b> coupled to a pressurised spray system for application of the mixed teat spray. This outlet <b>110</b> can also be coupled to a drum the shed uses to store mixed teat spray ready for use. This storage drum can be fitted with a level switch <b>121</b> which communicates with the controller. When the mixed teat spray storage drum reaches its full level as indicated by the level switch <b>121</b>, the controller shuts the valve <b>14</b> and no more teat spray is mixed.</p>
+<p id="p-0125" num="0187">The mixing reservoirs <b>113</b> may each comprise one or more sensors for providing information about the solution in the mixing reservoir to the system controller <b>105</b>. The sensors may measure a property of at least one dispensed chemical solution and/or of the mixed solution. For example, sensors may measure the quantity of chemical solution dispensed, the volume, temperature, concentration, or pH of the solution in the mixing reservoir <b>113</b>,</p>
+<p id="p-0126" num="0188">Where the system <b>101</b> is for monitoring the dispensing of chemical concentrate for a plant wash, the wash solution dispensed from the wash tub <b>113</b> is then circulated through the plant by the shed wash system. Wastewater from the wash is typically discharged through a plant wastewater outlet pipe <b>117</b>. A temperature sensor <b>121</b> may be provided at the wastewater outlet <b>117</b>, or another suitable position, to measure the temperature of the wastewater. The temperature sensor <b>121</b> is in communication with the system controller <b>105</b>.</p>
+<p id="p-0127" num="0189">Milk quality issues are sometimes related to lower than optimum water temperature washing the plant and/or exiting the plant wash system after a wash. For example, if the waste water is below 60&#xb0; C. for a plant wash and below 56&#xb0; C. for a milk vat wash, this is less than optimal&#x2014;and an alert may therefore optionally be generated, either during or after the wash cycle&#x2014;if the latter, preferably immediately after.</p>
+<p id="p-0128" num="0190">Milk quality issues may further be attributed to the length of time hot water circulates the plant prior to being discharged as waste water. If the length of time in circulation is regularly too short the residues, fats and oils may not be cleaned sufficiently in the pipelines. The system will monitor and record the length of time of each wash, with the recommended time being 5-7 minutes. Where wash time is less than 5 minutes, the system will alert the farmer and service staff.</p>
+<p id="p-0129" num="0191">The monitoring system <b>101</b> may generate alerts for example an audible and/or visual alert and/or a warning message.</p>
+<p id="p-0130" num="0192">For example, an alert(s) may be displayed on the user interface and/or be transmitted to a remote location and/or device&#x2014;such as a pager or an app (e.g., a smartphone app), a computing device and/or a cloud computing system&#x2014;if any measurement from a sensor or from a calculation in the system <b>101</b> is outside a predetermined allowable range. This provides an opportunity for the operator/farmer (and/or service team) to investigate any anomaly with the system, a mixed solution, or the plant or vat wash, and correct this to avoid milk quality being adversely affected by an inadequately cleaned plant or herd not being correctly treated.</p>
+<p id="p-0131" num="0193">The alerts may be generated and/or sent at any time, for example, before, during or after whenever any adverse reading or measurement relating to any criteria or event is taken and/or recorded.</p>
+<p id="p-0132" num="0194">If any such alerts are generated and/or sent after any adverse reading/measurement, as described above, then the alert may preferably be generated immediately afterwards&#x2014;which is effectively in real time.</p>
+<p id="p-0133" num="0195">Such an alert system may therefore be adapted to detect a potential milk quality issue, and/or dairy plant issue, immediately&#x2014;and hence remedial action may also be taken immediately.</p>
+<p id="p-0134" num="0196">For example, various sensors will generate alerts if their readings during a plant or milk vat wash, chemical mix, or teat spray mixing execution fall outside pre-set parameters. Farmers can then act on these alerts as they arise, rather than work as normal only to find out 4-5 days later that their milk quality has been compromised and/or that their milk has been rejected and/or that their milk payment has been reduced and/or that an audit to their plant has to be carried out.</p>
+<p id="p-0135" num="0197">Hence, it is the collective working together of each/all of the various components of the monitoring system <b>101</b> (e.g., sensors/controllers/data recorders), combined with the alert system, that renders this system <b>101</b> synergistically advantageous over any known prior art systems, and significantly so.</p>
+<p id="p-0136" num="0198">Each storage reservoir, <b>103</b><i>a </i><b>103</b><i>b, </i><b>103</b><i>c, </i><b>103</b><i>n </i>has an associated sensor to measure a property indicative of the level of the solution remaining in the reservoir. The sensor may measure a quantity/amount of fluid in the reservoir or may sense a binary value such as if the fluid is above a certain level. For example, each drum may have one or more level sensors, to measure when the chemical level reaches a pre-determined level in the drum.</p>
+<p id="p-0137" num="0199">Alternatively, one or more level switches may be fitted to each storage drum <b>103</b><i>a</i>-<b>103</b><i>n </i>and these switches are easily removed from an empty drum and refitted on to a new drum. When the level of product in the drum reaches the level switch an alert will be sent to the farmer or service staff who can then place an order for a replacement drum using the interface <b>107</b>.</p>
+<p id="p-0138" num="0200">Alternatively, the monitoring system <b>101</b> may comprise/include a sensor for measuring the weight of each storage reservoir and whereby the amount of product remaining in each storage reservoir is determined by monitoring changes in the weight of the storage reservoir. Each sensor communicates with the system controller <b>105</b> either by way of a wired connection or wirelessly.</p>
+<p id="p-0139" num="0201">Alternatively, the controller <b>105</b> may be configured to estimate the remaining chemical in each storage reservoir based on usage data history and a known starting volume of the reservoir.</p>
+<p id="p-0140" num="0202">Alternatively, capacitive level switches <b>118</b> may be fitted to each storage reservoir <b>103</b><i>a </i>to <b>103</b><i>n </i>which detect the volume of the liquid in the reservoir. When the volume reduces below this level switch it communicates with the controller <b>105</b> by way of a wired connection and the controller alerts the farmer or service staff that a reservoir (drum) is near empty and requires replacing.</p>
+<p id="p-0141" num="0203">When the chemical concentrate volume in a given storage reservoir <b>103</b><i>a </i>to <b>103</b><i>n </i>reaches a pre-determined level, or the change in weight of the reservoir is greater than a pre-determined threshold amount, this indicates that the volume of chemical solution remaining in the reservoir is getting low and may need to be replenished. The system controller is configured to produce an alert, or warning when that occurs. The alert may be sent to the dairy shed operator/farmer, for example via the user interface, or via a warning light such as an LED provided near the user interface or on or alongside the respective storage reservoir. Additionally, or alternatively, the system controller <b>105</b> may send an alert to a remote location, for example, to a third party like a supplier or retailer or sales/service staff or support team, to communicate that the level is low&#x2014;and whereby appropriate remedial action may be taken.</p>
+<p id="p-0142" num="0204">Preferably, but not essential, the level sensors or switches detect at least two pre-determined chemical levels&#x2014;a first level to indicate that the volume in the storage reservoir <b>103</b><i>a</i>-<i>n </i>is approaching a low level, to warn the farmer/operator and/or the service staff, and a second level to detect that the reservoir is empty or near empty.</p>
+<p id="p-0143" num="0205">The system controller <b>105</b> is connected to a network, for example the internet or other wide area network, to enable the storage of data in a database and/or on a remote server and/or in the cloud. The controller <b>105</b> preferably also comprises non transient local storage, such as by way of an internal hard drive or a removable solid-state drive such as provided via a USB device.</p>
+<p id="p-0144" num="0206">Data generated by the system <b>101</b> is stored locally and/or is transmitted to the remote database. The system controller <b>105</b> is configured to record one or more of: a measured property of at least one dispensed chemical solution or of the mixed solution, such as measured pH, temperature, concentration, quantity, and type of mixtures dispensed or of wastewater from the plant wash system; information about the type of solution mixed; instructions input by user via the user interface; or information about use of the mixed solution. This data is logged in the database <b>123</b>, alongside date and time data.</p>
+<p id="p-0145" num="0207">The system controller <b>105</b> also logs the temperature measurement from the temperature sensor at a waste-water outlet <b>117</b>, or other suitable position, of the dairy shed wash or spray system.</p>
+<p id="p-0146" num="0208">Data from the database <b>123</b> may be utilised to monitor the performance and compliance of a dairy shed with best practice. Data logged in the database <b>123</b> may be fully or partly accessible by approved third parties, for example by milk quality auditors, milk processors/companies. The database can be used to generate customised reports to reliably monitor the compliance of sheds in their cleaning chemical and teat spray use, estimate the potential for reduced milk quality, and provide business intelligence.</p>
+<p id="p-0147" num="0209">Milk quality auditors do not currently have any access to historical shed wash and chemical mix data prior to auditing a shed (they could potentially request historical information from the hardcopy data entered into the daily shed diary. However, detailed information about the amount of chemical used for plant and vat washes, and teat spray is not necessarily recorded in the daily diary. They will enter milk temperature data on a daily basis).</p>
+<p id="p-0148" num="0210">Auditing typically requires a lengthy site visit and reviewing manual records of shed wash and chemical mix data. Such records may be inaccurate, contain omissions, or may even be fabricated. The present system enables much more reliable auditing data around chemical use and for much of the auditing to be done remotely, saving valuable time for both the auditor and farmer. The system <b>101</b> can be configured to require the input of daily information before carrying out any further tasks. This ensures records are kept up to date (this could also be around the confirmation of wearing the required PPE before handling the chemicals&#x2014;staff safety reasons and awareness).</p>
+<p id="p-0149" num="0211">The real-time feedback, automated mixing of chemicals, alerts, and the ability to auto-replenish (order) chemicals advantageously means the farmer is less likely to inadvertently mix or apply wash or treatment chemicals in an incorrect and/or ineffective manner, improving hygiene in the shed and thereby improving milk quality.</p>
+<p id="p-0150" num="0212">Real time alerts can, for example only, be triggered for the following reasons:
+<ul id="ul0018" list-style="none">
+    <li id="ul0018-0001" num="0000">
+    <ul id="ul0019" list-style="none">
+        <li id="ul0019-0001" num="0213"><b>1</b>. Low chemical in storage reservoir (drum) <b>103</b><i>a </i>to <b>103</b><i>n </i>
+        <ul id="ul0020" list-style="none">
+            <li id="ul0020-0001" num="0214">A level switch is calibrated and fitted to the outside of each storage drum <b>103</b><i>a</i>-<b>103</b><i>n </i>that can detect a pre-determined chemical level. When the level is reached the sensor will trigger an alert to the farmer/shed staff/sales person etc., indicating that the level has reached the low point. Message delivery can be via email, over an app, or simple text message to a mobile phone etc. The farmer can make an immediate decision to order and replenish the near empty drum. This can be done by calling the sales person or simply executing the new order using the user/app/phone interface. The sales person can also make contact with the farmer to confirm the new order and drum replenishment.</li>
+            <li id="ul0020-0002" num="0215">The teat spray storage drum <b>103</b><i>d </i>will be fitted with an ultrasonic sensor that has the ability to supply accurate information on the amount of product in the drum. When the product reaches a predetermined low level, the sensor will transmit information to the controller and an alert sent out to the farmer or service staff for the replacement of the drum.</li>
+            <li id="ul0020-0003" num="0216">There are instances in dairy sheds where drums run out of chemical and shed staff may not place an order timely enough causing suboptimal plant and milk vat washes. This can typically lead to milk quality downgrades.</li>
+            <li id="ul0020-0004" num="0217">Advantage of this real time alert, and because more than one person can receive the alert, is the likelihood of the chemical drum not being replaced on time is greatly minimised, ensuring continuity of optimal plant and milk vat washes and minimising the possibility of reduced milk quality, and avoiding the resultant penalties and/or disadvantages associated with that event.</li>
+            <li id="ul0020-0005" num="0218">The same applies for the teat spray chemical drum, namely, reducing the possibility of chemical run out, thus ensuring all cows in the herd are treated correctly for the control of mastitis. Cows not sprayed with teat spray at the end of each milking may be susceptible to an increased incidence of mastitis, and this can again lead to reduced milk quality.</li>
+        </ul>
+        </li>
+        <li id="ul0019-0002" num="0219">2. Chemical dosed out of range
+        <ul id="ul0021" list-style="none">
+            <li id="ul0021-0001" num="0220">In the event of there being a situation where the chemical volume measured in the detergent dispenser and dosed into the wash tub <b>113</b>, or the teat spray mixing drum <b>110</b> in the case of teat spray is the incorrect ratio, and falling outside a predetermined range, the system <b>101</b> will trigger an alert informing the farmer, shed staff, or service staff. This will not stop the shed cleaning or teat spraying process, but the reasons for the incorrect dose can be investigated immediately and rectified prior to the next chemical mixing programme. This ensures the correct concentration of chemical is mixed immediately thereafter&#x2014;thus returning the plant, and milk vats to optimal washes, and correct teat spray ratios.</li>
+        </ul>
+        </li>
+        <li id="ul0019-0003" num="0221">3. Temperature of the waste water
+        <ul id="ul0022" list-style="none">
+            <li id="ul0022-0001" num="0222">a. For the plant
+            <ul id="ul0023" list-style="none">
+                <li id="ul0023-0001" num="0223">In order for dairy shed cleaning chemicals to be effective they require an optimised combination of chemical concentration, temperature, turbulence and time in the cleaning process. The system <b>101</b> can monitor/measure the temperature of the waste water immediately after the plant wash is completed. This temperature should preferably not be lower than 60&#xb0; Celsius. Any temperatures lower than this, on a continuous basis, could lead to sub-optimal plant washes with a build-up of bacteria in the milking equipment and shed piping, in turn leading to a reduction in milk quality. Where waste water temperatures fall below 60&#xb0; Celsius an alert can be triggered to the farmer, shed staff or service person and delivered via email, app, or text message etc. A lower than expected waste water temperature could mean the initial temperature of the water at the start of the plant wash was not high enough prompting the farmer to check the shed hot water system. Any problems can therefore be rectified immediately, and certainly prior to the next plant wash.</li>
+                <li id="ul0023-0002" num="0224">There are occasions where the farmer may circulate the wash water a second time. In these instances, the temperature of the wash water as it exits the plant will be lower than the required 60&#xb0; Celsius. This can trigger an alert, but is easily investigable and/or explainable.</li>
+                <li id="ul0023-0003" num="0225">The system <b>101</b> can also measure the plant wash time, a key component of the effectiveness of a wash. This will simply be measured and recorded and the information made available to the farmer on an average basis.</li>
+            </ul>
+            </li>
+            <li id="ul0022-0002" num="0226">b. For the milk vat
+            <ul id="ul0024" list-style="none">
+                <li id="ul0024-0001" num="0227">In order for milk vat cleaning chemicals to be effective they require an optimised combination of chemical concentration, temperature and time in the cleaning process. The system can measure the temperature of the waste water immediately after the milk vat wash is completed. This temperature should not be lower than 56&#xb0; Celsius. Any temperatures lower than this, on a continuous basis, could lead to sub-optimal milk vat washes with a build-up of bacteria in the milk vat, in turn leading to a reduction in milk quality. Where waste water temperatures fall below 56&#xb0; Celsius an alert can be triggered to the farmer, shed staff or service person and delivered via email, app, or text message etc. A lower than expected waste water temperature could mean the initial temperature of the water at the start of the milk vat wash was not high enough prompting the farmer to check the shed hot water system. Any problems can therefore be rectified immediately, and certainly prior to the next milk vat wash.</li>
+                <li id="ul0024-0002" num="0228">The system <b>101</b> can also measure the milk vat wash time, a key component of the effectiveness of a wash. This will simply be measured and recorded and the information made available to the farmer on an average basis.</li>
+            </ul>
+            </li>
+        </ul>
+        </li>
+        <li id="ul0019-0004" num="0229">4. pH of wash water out of range
+        <ul id="ul0025" list-style="none">
+            <li id="ul0025-0001" num="0230">The pH reading of the wash water, while in the wash tub, prior to being circulated around the plant or milk vat, is an indication of the level of acidity or alkalinity of the wash water. If mixed correctly (chemical and water) the pH of the solution will fall within the suppliers recommended range for both acidity and alkalinity. For any pH readings outside the set range an alert can be triggered informing the farmer, shed staff, service person of the discrepancy. The farmer can then adjust the quantity of chemical for both the acid and alkali wash for the very next wash. Where the acidity or alkalinity of the wash water is consistently incorrect when measured against the suppliers recommendation the chance of suboptimal washes taking place is increased. The pH sensor alert allows the farmer to rectify the wash water acidity or alkalinity immediately, and certainly before the next wash, thereby maintaining optimal wash quality and reducing the instance of supplying lower quality milk.</li>
+        </ul>
+        </li>
+        <li id="ul0019-0005" num="0231">5. Wash contact time out of range
+        <ul id="ul0026" list-style="none">
+            <li id="ul0026-0001" num="0232">For successful cleaning of the milk lines in the plant the contact time of the hot water circulating in the pipes is critical. The recommended time for hot water to circulate is 5-7 minutes. Anything less than 5 minutes could mean that cleaning was sub optimal because of the short contact time. The system will monitor and record the wash time per plant wash, and alerts will be generated for times that do not meet the minimum time requirement.</li>
+        </ul>
+        </li>
+        <li id="ul0019-0006" num="0233">6. Milk temperature out of range
+        <ul id="ul0027" list-style="none">
+            <li id="ul0027-0001" num="0234">Milk from the cows is required to be cooled prior to entering the milk vat. Milk within the vat must also be chilled, and preferably within 2 hours of milking. The longer that milk is left in a warm state the longer there is for bacteria to multiply in more favourable warmer conditions. The primary cooling system should bring the milk temperature to 18&#xb0; Celsius when entering the milk vat. The shed refrigeration system should bring the milk temperature in the milk vat to 6&#xb0; Celsius within 2 hours of the completion of milking and held at or below this temperature.</li>
+            <li id="ul0027-0002" num="0235">Milk temperature sensors can be placed to measure these temperatures, and where temperatures fall outside this range an alert is triggered to the farmer, shed staff, service staff etc. informing them of the diversion. The farmer can then immediately investigate and attend to the potential problem causing the milk temperature discrepancies.</li>
+        </ul>
+        </li>
+        <li id="ul0019-0007" num="0236">7. Teat spray quantity per cow out of range (calculation)
+        <ul id="ul0028" list-style="none">
+            <li id="ul0028-0001" num="0237">Teat spray is formulated to be applied to each cow in certain ratios and quantities. These ratios and quantities can be set depending on the environmental conditions. They are typically set and applied for a period of time and changed when conditions warrant a change. These changes can be made on the user interface. From these settings, and the average number of cows milked each milking as input by the farmer/shed staff, the system can calculate the average volume of teat spray applied to each cow. If this average volume falls outside a min/max level for that setting the system can alert the farmer, shed staff, or supplier service person etc., indicating the discrepancy in application. Message delivery can be via email, over an app, or simple text message to a mobile phone etc. The farmer thus has an opportunity to immediately rectify teat spray spraying activities in the shed, and certainly prior to the next milking. Cows not sprayed correctly or adequately with teat spray at the end of each milking may be susceptible to an increased incidence of mastitis, and this can lead to reduced milk quality.</li>
+        </ul>
+        </li>
+        <li id="ul0019-0008" num="0238">8. BMSCC (Bulk Milk Somatic Cell Count)
+        <ul id="ul0029" list-style="none">
+            <li id="ul0029-0001" num="0239">Milk processors conduct this test as it checks milk for cells from the cow's body and blood. These cells normally occur in low numbers, but increases when cows have mastitis. When a cow has a mastitis infection it releases white blood cells to fight the infection, therefore a high level of somatic cells in the milk indicates the presence of a mastitis infection. Therefore, the SCC test is an indicator of herd mastitis infection levels. The system can receive SCC data from milk processors. The system settings for SCC can be set at levels more stringent than those imposed by the milk processors. If there is an increase in the SCC level from one reading to the next as supplied by the milk processor the system can alert the farmer, shed staff, service person to this prior to the level reaching that imposed by the milk processor. The farmer can then immediately investigate the herd and/or treat those cows identified, and together with investigating any mitigating factors on farm, adjust the teat spray concentration accordingly, for example, by increasing the overall quantity of mixed teat spray applied to each cow&#x2014;in order to add a level of protection to the cow and reduce the incidence of mastitis.</li>
+        </ul>
+        </li>
+        <li id="ul0019-0009" num="0240">9. Bactoscan/Coliform/Thermoduric
+        <ul id="ul0030" list-style="none">
+            <li id="ul0030-0001" num="0241">The Bactoscan measures all types of bacteria (total bacteria) so a number of varying factors could contribute to a milk quality downgrade. A Bactoscan grade is commonly the result of poor plant hygiene, the result of cooling and/or refrigeration failures and a mastitis infection could also result in a Bactoscan grade.</li>
+            <li id="ul0030-0002" num="0242">The most common form of a Coliform downgrade is a plant hygiene problem. A Coliform downgrade will normally be found in one particular place as Coliform bacteria are easily killed by hot water so you will normally find them in a place where hot water is not getting too. Milk needs to be cooled as rapid growth of Coliform bacteria will occur if the milk is not cooled to 6&#xb0; Celsius within 2 hours of the completion of milking, and held at or below this temperature.</li>
+            <li id="ul0030-0003" num="0243">Thermodurics are a group of bacteria that can survive pasteurisation, and this means they are particularly dangerous. Thermoduric downgrades from hygiene are normally the result of a protein build up, old milk soil build-up and/or perished rubberware. Common areas for build-up are the milk line and the bulk milk vat.</li>
+            <li id="ul0030-0004" num="0244">For each of the bacteria types discussed above, the system can receive data from the milk processors. The system settings for these bacteria can be set at levels more stringent than those imposed by the milk processors. If there is an increase in the bacteria level from one reading to the next as supplied by the milk processor the system can alert the farmer, shed staff, service person to this prior to the level reaching that imposed by the milk processor. Based on the bacteria type reading the farmer can immediately investigate a particular part of the plant to identify the cause.</li>
+            <li id="ul0030-0005" num="0245">Besides the cleaning of the affected components one of the solutions to mitigate a further deterioration in plant hygiene is to carry out a &#x2018;double concentrated&#x2019; plant or milk vat wash. This can be done by selecting the appropriate wash programme on the user interface (called a &#x2018;Bomb&#x2019; wash on the user interface <b>7</b>, <b>107</b>).</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0151" num="0246">Further, the system <b>101</b> can monitor the number of various programmes run and/or usage data for plant components, and some components&#x2014;for example rubberware and filter socks&#x2014;can be monitored using sensors. Consumables such as filter socks, liners, rubber seals etc. have limited life spans, and the system may be configured to alert the farmer of the need to replace them based on manufacturer's usage and replacement programmes.</p>
+<p id="p-0152" num="0247">Data from the database <b>123</b> may also be accessed to monitor and charge for the use of chemicals from the storage reservoirs <b>103</b><i>a</i>-<i>n. </i>Rather than the farmer purchasing bulk amounts of chemical by the drum, the supplier may maintain ownership of the drums of chemicals installed in the system and generate invoices periodically based on actual usage of chemicals. For example, a monthly invoice may be generated to charge for the quantity of chemical solution(s) used the preceding month.</p>
+<p id="p-0153" num="0248">The system controller <b>105</b> may be accessible remotely, for example, by a technician or computer programmer via the network <b>121</b>, with each system controller having a unique identifier or address. This advantageously enables any necessary changes or software updates to the system to be made remotely, or some technical faults to be corrected remotely.</p>
+<p id="p-0154" num="0249">Referring to <figref idref="DRAWINGS">FIGS. <b>3</b> to <b>8</b></figref>, the graphical user interface <b>7</b> may comprise a touch screen interface that provides a user with options for dispensing and mixing chemicals and which can receive dispensing and other instructions from a user. Alternatively, a non-touchscreen interface may be provided. The user interface <b>7</b> communicates with the system controller <b>105</b> to provide instructions for operation of the dosing (chemical management) system <b>11</b>. The user interface <b>7</b> is installed in the dairy shed where the dispensing system is installed, preferably near the system controller <b>105</b>, and is preferably water resistant.</p>
+<p id="p-0155" num="0250">In addition to the graphical user interface <b>7</b>, an emergency on/off button may be provided, for example on the controller housing. The emergency button can be pressed to immediately shut down the system and to abort any programme running at the time.</p>
+<p id="p-0156" num="0251"><figref idref="DRAWINGS">FIGS. <b>3</b> to <b>8</b></figref> provide examples of screens the user interface <b>7</b> may present to an operator to obtain input instructions from a user. It will be understood that these screens are exemplary and that many other layouts, configurations and options are possible. The user interface <b>7</b> enables a user to select the chemical solution(s) to be mixed and to specify the strength, volume, or application of the mixed solution. Generally, the interface <b>7</b> will have a main menu as shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, from which a user can choose to check status of chemical concentrate volume per storage conduit (button <b>33</b>), change the settings for pre-programed mixing programmes (button <b>35</b>), or provide instructions for mixing and dispensing chemicals (buttons <b>31</b><i>a, </i><b>31</b><i>b, </i><b>31</b><i>b</i>).</p>
+<p id="p-0157" num="0252"><figref idref="DRAWINGS">FIG. <b>4</b></figref> illustrates a screen from which a user can change the settings for pre-programed mixing programmes, in this example the pre-programed mixing programmes are a teat-spray mix, a plant wash mix, and a vat wash mix. The settings may either allow a user to enter specific quantities for the chemical concentrates or specify conditions or parameters that are associated with pre-determined amounts. For example, <figref idref="DRAWINGS">FIG. <b>5</b></figref> shows an example screen where a user can specify parameters such as environmental conditions and the herd size for the system to calculate a recommended dose, or they may enter a specific required dose volume per cow. This system does not pre-populate the dose volume&#x2014;instead the user selects either high dose, medium dose, low dose, but can still keep the dose volume at 25 ml/cow. The user also has the ability to change the dose volume per cow.</p>
+<p id="p-0158" num="0253"><figref idref="DRAWINGS">FIG. <b>6</b></figref> illustrates a screen from which a user can change the settings for various pre-programed wash programs. In this example, the wash programs include an alkali wash, and acid wash, and a &#x2018;bomb&#x2019; wash. A &#x2018;bomb&#x2019; wash is a highly concentrated wash, for example, with twice the amount of acid, or twice the amount of alkali that may be required in the event of an increase in bacterial build up or an increase in the build-up of fat and protein. For these washes, the user can input the required volumes of various wash agents for each of these washes. Settings entered by a user are retained for each program until they are next changed.</p>
+<p id="p-0159" num="0254">The user interface <b>7</b> may also enable the calibration of sensors.</p>
+<p id="p-0160" num="0255">The user interface <b>7</b> may enable other checks or operations related to the operations in the dairy shed. For example, the user interface may provide prompts or include safety checks, for example to require confirmation that staff are wearing the required personal protective equipment prior to mixing and handling chemicals managed by the system or to remind staff of health and safety procedures that are to be followed when handling chemicals.</p>
+<p id="p-0161" num="0256">The user interface <b>7</b> may facilitate ordering of replacement product or other consumables for the dairy shed. Ordering may be prompted based on the level of chemical remaining in the storage reservoirs <b>103</b><i>a </i>to <b>103</b><i>n. </i>When the sensed quantity of chemical solution remaining in a respective storage reservoir is below a threshold amount, the user may be prompted to order for replenishment of said chemical solution. The user interface may be configured to receive the instructions for re-order from the operator, and to transmit the order via the system controller <b>105</b> and network <b>121</b> to a supplier of the chemical solution.</p>
+<p id="p-0162" num="0257">Alternatively, the controller <b>105</b> may be configured to automatically place an order for replenishment of a chemical solution when the sensed quantity of chemical solution remaining in a respective storage reservoir is below a threshold amount, for example when a supply arrangement is in place with a third party. The controller <b>105</b> alerts the supplier of the type of chemical required, for example by generating an email or SMS method, such that a new full drum can be delivered to replace the empty drum. Ensuring drums are replaced promptly reduces the chance of a farmer running out of a chemical and therefore ensures daily wash programmes are always able to be made with the correct chemicals.</p>
+<p id="p-0163" num="0258">When a new drum of a chemical solution (from the drums <b>103</b><i>a </i>to <b>103</b><i>n</i>) is delivered, the capacitive level switch (selected from <b>118</b><i>a</i>-<i>n</i>) is removed from the empty drum and securely fitted onto the replacement drum. Information about the new drum such as the batch number and drum size can be input into the database <b>123</b> via the user interface <b>7</b>.</p>
+<p id="p-0164" num="0259">In addition, the present invention will allow for chemical &#x2018;batch&#x2019; numbers to be recorded. This allows for quick reference for auditors/processors if there is a regional contamination event that could have a significant impact on processors milk quality. Recorded batch reference to chemicals allows for greater traceability back to the chemical manufacturer and ensures a more efficient trail of information in an event like this.</p>
+<p id="p-0165" num="0260">An automated system that is able to record cleaning practices and/or use of animal veterinary products would be beneficial to auditors and to milk processors who are now commonly audited by their international export customers to ensure that milk quality &#x2018;on farm&#x2019; is sufficient to meet consumer expectations.</p>
+<heading id="h-0009" level="1">Teat Spray Operation Example(s)</heading>
+<p id="p-0166" num="0261"><figref idref="DRAWINGS">FIG. <b>9</b></figref> illustrates an exemplary method for mixing a teat spray using the system <b>101</b> of <figref idref="DRAWINGS">FIG. <b>2</b></figref>. To initiate the mixing of teat spray <b>107</b>, a user selects this option on the user interface <b>7</b>. The controller then opens a valve <b>14</b> which allows water from a pressurised water supply <b>104</b> to pass through a pressure regulator <b>15</b> and through a flowmeter <b>12</b>. The water enters an inline mixing pump <b>109</b> (such as a venturi). The action of the water in the mixing pump <b>109</b> draws teat spray concentrate from the storage drum <b>103</b><i>d </i>and mixes the teat spray at the concentration required and set by the pump nozzle selected. The mixed teat spray is delivered directly to a mixed teat spray storage drum <b>110</b>. The mixed teat spray volume in the storage drum <b>110</b> will increase until it reaches a full level at which point a level switch <b>121</b> will close the solenoid valve <b>14</b> and the pump will stop mixing.</p>
+<p id="p-0167" num="0262">The shed teat spray system then can draw the mixed solution from the mixing drum <b>110</b>.</p>
+<p id="p-0168" num="0263">The system calculates the ratio of teat spray mixed by the inline pump. An alert can be triggered if the ratio of the calculated mixed teat spray differs from the ratio required. The system calculates the volume of mixed teat spray delivered to the shed. The system can calculate the average volume of mixed teat spray delivered per cow. An alert can be triggered if the average volume per cow is higher or lower than required. All data is logged in the database <b>123</b> along with the date and time. From this data, reports may be generated for auditing or other purposes, and invoices may be periodically generated to invoice for the quantity of teat spray concentrate used.</p>
+<p id="p-0169" num="0264">When the level of the teat spray concentrate in drum <b>103</b><i>d </i>reaches the level switch indicating a low level of product in the drum the system will generate an alert of the product status and replacement of the drum can be arranged.</p>
+<heading id="h-0010" level="1">Alkali Wash Operation Example(s)</heading>
+<p id="p-0170" num="0265">For an alkali wash two different chemicals are measured separately. The user selects plant alkali wash on the user interface <b>107</b>. The alkali wash settings are displayed on the screen. Chemical concentrate is pumped from the storage drum <b>103</b><i>c </i>into the detergent dispenser <b>111</b>. The sensor <b>120</b> in the detergent dispenser reads the level of the chemical and shuts off the pump when the correct level is reached. The manual discharge valve <b>112</b> is opened by the operator when he/she is ready to discharge the chemical into the wash tub <b>113</b>. Once discharged into the wash tub the operator closes the manual discharge valve <b>112</b>. The system then pumps concentrate from storage drum <b>103</b><i>b </i>into the detergent dispenser <b>111</b>. The sensor <b>120</b> in the detergent dispenser reads the level of the chemical and shuts off the pump when the correct level is reached. The manual discharge valve <b>112</b> is opened by the operator when he/she is ready to discharge the chemical into the wash tub <b>113</b>. Once discharged into the wash tub the operator closes the manual discharge valve <b>112</b>.</p>
+<p id="p-0171" num="0266">If, for whatever reason, the level in the detergent dispenser is incorrect the system can alert the farmer and service staff.</p>
+<p id="p-0172" num="0267">A level switch <b>118</b> on the storage drum <b>103</b><i>b </i>measures a &#x2018;low level&#x2019; of concentrate in the drum. Once reached an alert can be sent to the farmer or service staff and the drum replaced. All data is recorded and stored in the database <b>123</b> along with date and time, and farm number.</p>
+<p id="p-0173" num="0268">The wash tub <b>113</b> is equipped with one or more sensors to measure properties, such as the pH of the solution in the wash tub <b>113</b>. Incorrect pH levels of the alkali wash solution can reduce(s) the ability of the mixture to clean protein and fat residue in/from the plant, and can therefore potentially be related to reduced milk quality issues.</p>
+<p id="p-0174" num="0269">Properties of the wash water at one or more stages of the wash may also be measured, particularly the temperature of waste wash water as it leaves the plant (step <b>313</b>). If the temperature is too low, this can indicate the wash as ineffective.</p>
+<p id="p-0175" num="0270">Measurements from the sensors are logged in the database <b>123</b> along with the date and time and information about the wash type and volume, and the status of the storage reservoirs. From this data, reports may be generated for auditing or other purposes, and invoices may be periodically generated to invoice for the chemicals used.</p>
+<p id="p-0176" num="0271">If as a result of mixing the plant wash, the pH of the solution falls below a predetermined threshold level, the controller may issue an alert to the farmer or shed staff who may arrange to add more concentrate to the solution to adjust the pH.</p>
+<heading id="h-0011" level="1">Acid Wash Operation Example(s)</heading>
+<p id="p-0177" num="0272"><figref idref="DRAWINGS">FIG. <b>12</b></figref> illustrates an exemplary method for mixing a plant acid wash <b>107</b> for a milking facility using the system <b>101</b> of <figref idref="DRAWINGS">FIG. <b>2</b></figref>.</p>
+<p id="p-0178" num="0273">To initiate an acid wash, a user selects the acid wash option on the user interface <b>107</b>. The acid wash settings are displayed on the screen. Chemical concentrate is pumped from drum <b>103</b><i>a </i>into the detergent dispenser <b>111</b>. Ultrasonic sensor <b>120</b> in the detergent dispenser reads level of chemical and shuts off the pump when the correct level is reached. The manual discharge valve <b>112</b> is opened by the operator when he/she is ready to discharge the product into the wash tub. A level switch on the storage drum is activated when the level of chemical reaches it. A low level alert can be sent to the farmer and service staff when this level is reached. The drum can then be replaced. The system can alert the farmer and service staff if the incorrect volume of concentrate is pumped into the detergent dispenser.</p>
+<p id="p-0179" num="0274">Some systems will run a pump for a pre-determined amount of time to get the required volume, but this may not always be 100% accurate due to outside factors such as weather temperature affecting the viscosity of the liquid i.e., these pumps may not always run at exactly the same speed.</p>
+<p id="p-0180" num="0275">The wash tub <b>113</b> is equipped with one or more sensors to measure properties, such as the pH of the solution in the wash tub <b>113</b>. Incorrect pH levels of the acid wash mixture can reduce the ability of the mixture in cleaning mineral deposits in the plant. If the pH of the acid wash mixture is outside pre-set acceptable parameters, the system may trigger an alert to notify the operator.</p>
+<p id="p-0181" num="0276">Properties of the wash water at one or more stages of the wash may also be measured, particularly the temperature of waste wash water as it leaves the plant (step <b>416</b>). If the temperature is too low, this can reduce the effectiveness of the wash.</p>
+<p id="p-0182" num="0277">Measurements from the sensors are logged in the database <b>123</b> along with the date and time and information about the wash type and volume, and the status of the storage reservoirs. From this data, reports may be generated for auditing or other purposes, and invoices may be periodically generated to invoice for the acid concentrate used.</p>
+<p id="p-0183" num="0278">A further advantage/embodiment of the present invention relates to environmental impacts. Namely, there is growing pressure on farmers to reduce their environmental impact. Chemical products used for dairy plant hygiene, teat sprays and minerals etc are commonly packaged in 200 litre drums. There is a significant carbon footprint associated with the production and delivery of these drums to a farm. Moreover, once these drums are empty, they become waste on the farm which must be stored somewhere and/or disposed of. The present invention allows the monitoring of how much chemical is being used by the farmer, and therefore the farmer may be billed/invoiced the actual quantity of chemical used rather than by the price of the drum. Thus, the system allows for the use of larger drums, e.g. 1000 litre rather than 200 litre. Moreover, the 1000 litre containers are able to be recycled once the chemical has been used. As such the system provides the chemical on a &#x2018;consignment&#x2019; basis and the farmer only pays for what has been used. The larger drum size then both substantially reduces the number of plastic drums (1&#xd7;1000 litre v 5&#xd7;200 litre), the number of vehicle movements to and from farm, and also eliminates the plastic waste from the farm. This approach then substantially reduced the environmental impacts associated with farming.</p>
+<p id="p-0184" num="0279">A further advantage/embodiment of the present invention relates to the safety. Namely, many of the chemicals used in the dairy plant are harmful (particularly acid and alkali), and these chemicals can therefore cause serious injury if they come into contact with the skin/eyes of a worker or if they are mixed inappropriately or incorrectly (e.g., acid and alkali incorrectly mixed together may create mustard gas). Often the mixing and delivery of these chemicals is done manually and without appropriate safety equipment. The present invention substantially reduces any risk for these types of events occurring. This is an advantage for staff on farm but also for the owners/directors of the company that have legal responsibility for the health and well-being of staff and having appropriate systems in place to minimise risk. This will also limit potential Director's liability.</p>
+<heading id="h-0012" level="1">Variations</heading>
+<p id="p-0185" num="0280">Preferred embodiments of the invention have been described by way of example only and modifications may be made thereto without departing from the general spirit and/or scope of the invention.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-01-49" num="01-49">
+<claim-text><b>1</b>-<b>49</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00050" num="00050">
+<claim-text><b>50</b>. A monitoring system associated with the operation of a dairy plant, said system being adapted or able to monitor a dispensing system for dispensing chemicals, said dispensing system including:
+<claim-text>a. at least two storage reservoirs, each for containing a respective chemical solution,</claim-text>
+<claim-text>b. a water source,</claim-text>
+<claim-text>c. a mixing system,</claim-text>
+<claim-text>d. a dosing system coupled to the storage reservoirs and to the water source, for selectively dispensing one or more of the chemical solutions and water into the mixing system to form a mixed solution,</claim-text>
+<claim-text>e. a user interface for receiving dispensing instructions from a user,</claim-text>
+<claim-text>f. a controller for operating the dosing system in accordance with the dispensing instructions,</claim-text>
+<claim-text>g. a sensor in communication with the controller, configured to measure a property of at least one dispensed chemical solution and/or of the mixed solution, the controller being configured to log information from the sensor in a database,</claim-text>
+<claim-text>wherein any or all data obtained or generated, and/or any workings on the data, is able to be transmitted to a remote location, the arrangement and construction being such that the data, and/or any workings on the data, is accessible by one or more of:</claim-text>
+<claim-text>h. a farmer,</claim-text>
+<claim-text>i. a service staff,</claim-text>
+<claim-text>j. an auditor, whereby the system allows for remote monitoring of the dairy plant by the auditor.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00051" num="00051">
+<claim-text><b>51</b>. The monitoring system of <claim-ref idref="CLM-00050">claim 50</claim-ref>, wherein the data, and/or any workings on the data, is also accessible by a dairy processor.</claim-text>
+</claim>
+<claim id="CLM-00052" num="00052">
+<claim-text><b>52</b>. The monitoring system of <claim-ref idref="CLM-00050">claim 50</claim-ref>, wherein the data, and/or any workings on the data, is transmitted to the remote location in real time.</claim-text>
+</claim>
+<claim id="CLM-00053" num="00053">
+<claim-text><b>53</b>. The monitoring system of <claim-ref idref="CLM-00050">claim 50</claim-ref>, wherein the system is configured to automatically place an order for replenishment of a chemical solution when the sensed quantity of the chemical solution is below a threshold amount.</claim-text>
+</claim>
+<claim id="CLM-00054" num="00054">
+<claim-text><b>54</b>. The monitoring system of <claim-ref idref="CLM-00050">claim 50</claim-ref>, wherein the data, and/or any workings on the data, is able to be used and/or manipulated in order to generate a milk quality report(s).</claim-text>
+</claim>
+<claim id="CLM-00055" num="00055">
+<claim-text><b>55</b>. The monitoring system of <claim-ref idref="CLM-00054">claim 54</claim-ref>, wherein the milk quality report(s) is sent to one or more of: the auditor, the farmer, the service staff and the dairy processor.</claim-text>
+</claim>
+<claim id="CLM-00056" num="00056">
+<claim-text><b>56</b>. The monitoring system of <claim-ref idref="CLM-00055">claim 55</claim-ref>, wherein the milk quality report(s) is adapted to be sent automatically in real time or near-real time.</claim-text>
+</claim>
+<claim id="CLM-00057" num="00057">
+<claim-text><b>57</b>. The monitoring system of <claim-ref idref="CLM-00050">claim 50</claim-ref>, wherein the data obtained or generated includes data in relation to one or more of the following cleaning elements associated with operation of the dairy plant: chemical concentration, temperature, turbulence and time in/of the cleaning process&#x2014;and ensuring said one or more elements are within an appropriate or optimal range.</claim-text>
+</claim>
+<claim id="CLM-00058" num="00058">
+<claim-text><b>58</b>. The monitoring system of <claim-ref idref="CLM-00050">claim 50</claim-ref>, wherein the data obtained or generated includes data in relation to the mixing and/or administering of animal health products and/or mineral supplements, and ensuring all concentrations and/or amounts are within an appropriate or optimal range.</claim-text>
+</claim>
+<claim id="CLM-00059" num="00059">
+<claim-text><b>59</b>. The monitoring system of <claim-ref idref="CLM-00050">claim 50</claim-ref>, wherein the monitoring system is further adapted, or able, to generate an alert when certain readings/measurements and/or conditions are met (or not met).</claim-text>
+</claim>
+<claim id="CLM-00060" num="00060">
+<claim-text><b>60</b>. The monitoring system of <claim-ref idref="CLM-00059">claim 59</claim-ref>, wherein the alert(s) is capable of being automatically generated or and/or sent in real time.</claim-text>
+</claim>
+<claim id="CLM-00061" num="00061">
+<claim-text><b>61</b>. The monitoring system of <claim-ref idref="CLM-00050">claim 50</claim-ref>, wherein the chemical solutions include one or more of: a teat wash or mastitis treatment, a detergent, an acid plant wash, an alkali plant wash, one or more animal health products, and/or a mineral supplement.</claim-text>
+</claim>
+<claim id="CLM-00062" num="00062">
+<claim-text><b>62</b>. The monitoring system of <claim-ref idref="CLM-00061">claim 61</claim-ref>, wherein a first one of the storage reservoirs includes a teat wash or mastitis treatment, and a second one of the reservoirs includes a detergent and/or an acid plant wash, and/or an alkali plant wash.</claim-text>
+</claim>
+<claim id="CLM-00063" num="00063">
+<claim-text><b>63</b>. The monitoring system of <claim-ref idref="CLM-00062">claim 62</claim-ref>, wherein the sensor is configured to measure one or more of the volume, concentration, temperature, and/or pH of a solution in the mixing system.</claim-text>
+</claim>
+<claim id="CLM-00064" num="00064">
+<claim-text><b>64</b>. The monitoring system of <claim-ref idref="CLM-00063">claim 63</claim-ref>, wherein the user interface enables a user to select the chemical solution(s) to be mixed and to specify the strength, volume, or application of the mixed solution.</claim-text>
+</claim>
+<claim id="CLM-00065" num="00065">
+<claim-text><b>65</b>. The monitoring system of <claim-ref idref="CLM-00064">claim 64</claim-ref>, wherein the user interface enables a user to specify the application for the mixed solution, and wherein for a given specified application, the controller retrieves one or more of the required volume or strength of the mixed solution.</claim-text>
+</claim>
+<claim id="CLM-00066" num="00066">
+<claim-text><b>66</b>. The monitoring system of <claim-ref idref="CLM-00065">claim 65</claim-ref>, wherein the user interface can also be used for re-ordering chemicals, and/or confirming the use of safety PPE, and/or for alerting a user to measurements outside set parameters.</claim-text>
+</claim>
+<claim id="CLM-00067" num="00067">
+<claim-text><b>67</b>. The monitoring system of <claim-ref idref="CLM-00066">claim 66</claim-ref>, wherein the mixing system includes an outlet coupled to a spray system for spraying cow udders for mastitis treatment.</claim-text>
+</claim>
+<claim id="CLM-00068" num="00068">
+<claim-text><b>68</b>. The monitoring system of <claim-ref idref="CLM-00067">claim 67</claim-ref>, which further includes a temperature sensor placed in a suitable position at a waste water outlet of the dairy plant wash or spray system, to measure the temperature of the wastewater.</claim-text>
+</claim>
+<claim id="CLM-00069" num="00069">
+<claim-text><b>69</b>. The monitoring system of <claim-ref idref="CLM-00068">claim 68</claim-ref>, further including one or more chemical level sensors arranged to sense the quantity of chemical solution remaining in a respective storage reservoir.</claim-text>
+</claim>
+<claim id="CLM-00070" num="00070">
+<claim-text><b>70</b>. The monitoring system of <claim-ref idref="CLM-00069">claim 69</claim-ref>, wherein the controller is configured to receive sensed data from the chemical level sensors and, when the sensed quantity of chemical solution remaining in a respective storage reservoir is below a threshold amount, to transmit this data to a remote location and/or produce an alert on the user interface.</claim-text>
+</claim>
+<claim id="CLM-00071" num="00071">
+<claim-text><b>71</b>. The monitoring system of <claim-ref idref="CLM-00070">claim 70</claim-ref>, wherein the controller is configured to record one or more of:
+<claim-text>(a) a measured property of at least one dispensed chemical solution,</claim-text>
+<claim-text>(b) a measured property of the mixed solution along with the time and date,</claim-text>
+<claim-text>(c) information about the type of solution mixed,</claim-text>
+<claim-text>(d) instructions input by user via the user interface,</claim-text>
+<claim-text>(e) information about use of the mixed solution, in the database, alongside date and time data, and batch number.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00072" num="00072">
+<claim-text><b>72</b>. The monitoring system of <claim-ref idref="CLM-00071">claim 71</claim-ref>, wherein the mixing system is configured to supply fluid from the mixing system to a wash or spray system for washing a dairy plant, and/or for spraying cows udders for mastitis treatment, and the system controller is configured to log the volume and strength of fluid dispensed to the dairy plant wash or spray system, along with the time and date the fluid was dispensed.</claim-text>
+</claim>
+<claim id="CLM-00073" num="00073">
+<claim-text><b>73</b>. The monitoring system of <claim-ref idref="CLM-00072">claim 72</claim-ref>, wherein the controller is further configured to receive and log a temperature measurement from a temperature sensor at a waste water outlet of the dairy plant wash or spray system.</claim-text>
+</claim>
+<claim id="CLM-00074" num="00074">
+<claim-text><b>74</b>. An automated method for mixing chemicals for washing a dairy plant using the monitoring system of <claim-ref idref="CLM-00050">claim 50</claim-ref>, said method including the steps of:
+<claim-text>a. obtaining desired mixture parameters from a user via the user interface,</claim-text>
+<claim-text>b. dispensing water from the water source and an acid or alkali concentrate into the mixing system to create a mixed solution in accordance with the parameters,</claim-text>
+<claim-text>c. measuring the pH level of the solution in the mixing system,</claim-text>
+<claim-text>d. logging the pH level in the database,</claim-text>
+<claim-text>e. measuring a temperature of wastewater at a plant wash outlet, and</claim-text>
+<claim-text>f. logging the wastewater temperature in the database.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00075" num="00075">
+<claim-text><b>75</b>. The method of <claim-ref idref="CLM-00074">claim 74</claim-ref>, further including the step of recording in the database, alongside date and time data, one or more of:
+<claim-text>(a) a measured volume of the dispensed acid or alkali concentrate,</claim-text>
+<claim-text>(b) a measured volume or concentration of the mixed solution,</claim-text>
+<claim-text>(c) information about the type of solution mixed,</claim-text>
+<claim-text>(d) instructions input by the user via the user interface,</claim-text>
+<claim-text>(e) information about use of the mixed solution,</claim-text>
+<claim-text>(f) the level of acid or alkali concentrate remaining in the respective storage reservoir,</claim-text>
+<claim-text>(g) information about the pH of the mixed acid or alkali solution prior to the wash being started,</claim-text>
+<claim-text>(h) information about the temperature of the mixed acid or alkali solution after the wash has been completed,</claim-text>
+<claim-text>(i) information about the time taken for the plant wash to be carried out,</claim-text>
+<claim-text>(j) information about the time taken for the vat wash to be carried out.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00076" num="00076">
+<claim-text><b>76</b>. An automated method for dispensing an animal teat treatment using the monitoring system of <claim-ref idref="CLM-00050">claim 50</claim-ref>, said method including the steps of:
+<claim-text>obtaining desired mixture parameters from a user via the user interface,</claim-text>
+<claim-text>dispensing water from the water source and a teat treatment concentrate from one of the storage reservoirs, into the mixing system to create a mixed solution in accordance with the parameters,</claim-text>
+<claim-text>applying the mixed solution, directly or indirectly, to animal teats,</claim-text>
+<claim-text>recording in the database, alongside date and time data, one or more of:</claim-text>
+<claim-text>(a) a measured volume of the dispensed teat treatment concentrate,</claim-text>
+<claim-text>(b) a measured volume or concentration of the mixed solution,</claim-text>
+<claim-text>(c) the volume of the mixed solution dispensed,</claim-text>
+<claim-text>(d) information about the type of solution mixed,</claim-text>
+<claim-text>(e) instructions input by the user via the user interface,</claim-text>
+<claim-text>(f) information about use of the mixed solution,</claim-text>
+<claim-text>(g) the level of teat treatment concentrate remaining in the respective storage reservoir.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

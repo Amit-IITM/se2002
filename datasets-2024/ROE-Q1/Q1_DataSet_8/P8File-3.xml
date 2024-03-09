@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225283A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225283</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18010175</doc-number>
+<date>20210618</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>SE</country>
+<doc-number>2050741-4</doc-number>
+<date>20200622</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>5</main-group>
+<subgroup>007</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>3</main-group>
+<subgroup>26</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>5</main-group>
+<subgroup>007</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>3</main-group>
+<subgroup>26</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">SYSTEM AND COMPUTER-IMPLEMENTED METHOD FOR MONITORING OPERATING PRESSURE IN A MILKING INSTALLATION, COMPUTER PROGRAM AND NON-VOLATILE DATA CARRIER</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>DeLaval Holding AB</orgname>
+<address>
+<city>Tumba</city>
+<country>SE</country>
+</address>
+</addressbook>
+<residence>
+<country>SE</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>REHNSTR&#xd6;M</last-name>
+<first-name>Peter</first-name>
+<address>
+<city>Tumba</city>
+<country>SE</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/SE2021/050600</doc-number>
+<date>20210618</date>
+</document-id>
+<us-371c12-date><date>20221213</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A system and method for monitoring at least one operating pressure in a milking installation by a pressure sensor measuring values of a pressure level in a component of a milking point of the milking installation, the pressure level being indicative of the at least one operating pressure to be monitored. A processing node generates monitoring data representing a series of measured values of the pressure level, and the monitoring data contains temporal indicators designating a respective timestamp indicative of a point in time when a value of the pressure level was measured. The temporal indicators serve as a basis for triggering at least one alarm, such as when a timestamp indicates that the pressure level was measured to a value outside of an acceptable range of values at the point in time indicated by the timestamp.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="149.01mm" wi="156.80mm" file="US20230225283A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="244.26mm" wi="159.77mm" file="US20230225283A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="243.50mm" wi="161.54mm" file="US20230225283A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="213.95mm" wi="108.46mm" file="US20230225283A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates generally to automatic milking of animals. In particular, the invention relates to a system for monitoring at least one operating pressure in a milking installation and a corresponding computer-implemented method. The invention also relates to a computer program implementing the proposed method and a non-volatile data carrier storing the computer program.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Today's automatic milking arrangements are highly complex installations, the scale of which gradually becomes larger and which to an increasing degree involves remote monitoring of various functionalities and statuses. Below follows a couple of examples of such testing and monitoring solutions.</p>
+<p id="p-0004" num="0003">US2009/0177418 describes dynamic/wet testing of a milking machine, i.e. during extraction of milk from at least one animal. The testing arrangement includes a number of sensors, which are adapted to register a vacuum pressure at a respective test point in at least one fluid conduit of the milking machine. An analysis unit of the testing arrangement determines at least one pressure difference between the vacuum pressures registered in at least two of the test points being positioned on a respective side of at least one component in the milking machine with respect to a fluid flow through the at least one component to establish a vacuum drop over this component. The unit compares the vacuum drop with a threshold value to conclude whether a test condition is fulfilled. A notification is generated with respect to any component for which the condition is not fulfilled. Thus, for instance an appropriate corrective action can be carried out.</p>
+<p id="p-0005" num="0004">US 2011/0308627 shows a system and method for managing an agricultural device connected to a network. Here, operational data relating to the agricultural device are collected, and an access right in respect of the collected operational data is granted to an entity connected to the network. Data are received from the entity in response to the access right, and the agricultural device is managed on the basis of the collected operational data and the data from the entity. The method may be implemented for managing multiple agricultural devices, and may be implemented in a computer readable medium. In one embodiment, the operational data relates to clinical mastitis detection.</p>
+<p id="p-0006" num="0005">Although the above solutions may provide useful means to monitor milking installations, they do not fulfill all the needs of surveillance. For example, it has been found that the milk extraction can be made more efficient and animal-friendly if the vacuum pressure is elevated to a so-called boost level during a peak-flow phase of the milking procedure. However, it is very important that the boost level vacuum pressure is not applied excessively, or in inappropriate phases of the milking procedure. Consequently, it is essential that the different levels of vacuum pressure of a milking installation can be adequately monitored, especially in large installations where the human intervention is relatively low.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0007" num="0006">The object of the present invention is therefore to provide a reliable solution for pressure monitoring in a milking installation.</p>
+<p id="p-0008" num="0007">According to one aspect of the invention, the object is achieved by a system for monitoring at least one operating pressure in a milking installation. The system includes a pressure sensor and a processing node. The pressure sensor is configured to measure values of a pressure level in a component of the milking installation, which pressure level is indicative of the at least one operating pressure.</p>
+<p id="p-0009" num="0008">Here, the term &#x201c;operating pressure&#x201d; is understood to designate the pressure delivered by the system, for example to a particular milking point.</p>
+<p id="p-0010" num="0009">The processing node is communicatively connected to the pressure sensor, for instance via a wireless link, and is configured to generate monitoring data representing a series of measured values of the pressure level. The monitoring data contains temporal indicators designating a respective timestamp indicative of a point in time when a value of the pressure level was measured. The temporal indicators serve as a basis for triggering alarms, for example relating to a timestamp indicating that an excessive pressure level was measured at the point in time indicated by the timestamp.</p>
+<p id="p-0011" num="0010">This system is advantageous because ensures that proper vacuum pressure levels can be maintained throughout the milking procedure. Consequently, milk can be extracted efficiently while keeping the risk of animal injuries low.</p>
+<p id="p-0012" num="0011">According to one embodiment of this aspect of the invention, the processing node is configured to trigger at least one local alarm based on the temporal indicators. At least one of these local alarms is triggered if one of the timestamps indicates that the pressure level was measured to a value outside of an acceptable range at the point in time indicated by the timestamp. Thus, the pressure levels can be monitored very precisely at all times.</p>
+<p id="p-0013" num="0012">According to another embodiment of this aspect of the invention, the system further includes a central node. The processing node is configured to forward the monitoring data to the central node, and the central node is configured to trigger at least one central alarm based on the temporal indicators. Analogous to the above, at least one of the at least one central alarm is triggered if one of the timestamps indicates that the pressure level was measured to a value outside of an acceptable range of values at the point in time indicated by said timestamp.</p>
+<p id="p-0014" num="0013">According to yet one embodiment of this aspect of the invention, the system includes a storage resource that is communicatively connected to the central node. The storage resource is configured to store the monitoring data and information about any of the at least one central alarm that have been generated. Thus, an operator can gain knowledge about historic pressure variations in the milking installation. The operator can also readily determine if the operating pressure has deviated from acceptable ranges in terms of level, timing and/or overall duration.</p>
+<p id="p-0015" num="0014">According to still another embodiment of this aspect of the invention, the processing node is configured to initiate forwarding of the monitoring data to the central node in response to a start signal indicating a beginning of a milking session to be carried out by the milking installation. Preferably, the processing node is configured to continue forwarding the monitoring data to the central node until an abort signal is received, which abort signal indicates an end of said milking session. Thereby, the central node exclusively receives monitoring data that have been produced when the milking installation is used for milk extraction, while for example the pressure levels registered during cleaning are excluded.</p>
+<p id="p-0016" num="0015">According to another embodiment of this aspect of the invention, the central node is configured to trigger at least one of the central alarms if the monitoring data indicates that an operating pressure has been applied excessively. In other words, the central alarm may be triggered if one of the at least one operating pressure has been applied during a total extension of a high-pressure part of a milking time, which high-pressure part exceeds a threshold measure, say a predetermined percentage of the milking session. This provides a means of supervising that the at least one operating pressure is applied in an acceptable manner.</p>
+<p id="p-0017" num="0016">According to further embodiments of this aspect of the invention, the pressure sensor is arranged either in a dry or a liquid-containing space of the component. In the former case, the dry space is in direct fluid connection with at least one conduit in which at least one operating pressure exists. Thus, the at least one operating pressure can be monitored accurately at distinct levels. In the latter case, the liquid-containing space is in indirect fluid connection with the at least one conduit in which the at least one operating pressure exists. This renders it somewhat more complex to derive the operating pressure, but provides a high degree of flexibility in terms of where the pressure sensor can be monitored.</p>
+<p id="p-0018" num="0017">In case the pressure sensor is arranged in the liquid-containing space of the component, the component may be a milk conduit, a claw of a milking device, a teat cup, a shut-off valve or any other suitable component of the milking installation.</p>
+<p id="p-0019" num="0018">According to yet another embodiment of this aspect of the invention, the pressure sensor is configured to measure the values of the pressure level at a first frequency. The pressure sensor is further configured to transmit representative data reflecting the measured values of the pressure level to the processing node at a second frequency being lower than the first frequency. Hence, high-quality data can be acquired without overloading the central node or the connection thereto.</p>
+<p id="p-0020" num="0019">Preferably, the representative data contains: a rolling average, a maximum and/or a minimum of the measured values of the pressure level since a previous transmission.</p>
+<p id="p-0021" num="0020">According to another aspect of the invention, the object is achieved by a computer-implemented method of monitoring at least one operating pressure in a milking installation. The method involves receiving, from a pressure sensor, measured values of a pressure level in a component of the milking installation. The pressure level is indicative of the at least one operating pressure to be monitored. The measured values of the pressure level are processed to generate monitoring data representing a series of measured values of the pressure level. The monitoring data contain temporal indicators designating a respective timestamp indicative of a point in time when a value of the pressure level was measured. The temporal indicators, in turn, serve as a basis for triggering at least one alarm. The advantages of this method, as well as the preferred embodiments thereof, are apparent from the discussion above with reference to the system.</p>
+<p id="p-0022" num="0021">According to a further aspect of the invention, the object is achieved by a computer program loadable into a non-volatile data carrier communicatively connected to a processing unit. The computer program includes software for executing the above method when the program is run on the processing unit.</p>
+<p id="p-0023" num="0022">According to another aspect of the invention, the object is achieved by a non-volatile data carrier containing the above computer program.</p>
+<p id="p-0024" num="0023">Further advantages, beneficial features and applications of the present invention will be apparent from the following description and the dependent claims.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0025" num="0024">The invention is now to be explained more closely by means of preferred embodiments, which are disclosed as examples, and with reference to the attached drawings.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a block diagram over a system according to a first embodiment of the invention;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a graph illustrating how a measured pressure level may vary over time during the milking of an animal according to the embodiment of <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows a block diagram over a system according to a second embodiment of the invention;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows a graph illustrating how a measured pressure level may vary over time during the milking of an animal according to the embodiment of <figref idref="DRAWINGS">FIG. <b>3</b></figref>;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>5</b></figref> schematically represents the processing node according to one embodiment of the invention; and</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>6</b></figref> illustrates, by means of a flow diagram, the general method according to the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0032" num="0031">In <figref idref="DRAWINGS">FIG. <b>1</b></figref>, we see a system for monitoring the operating pressures P<sub>1OP</sub>, P<sub>2OP </sub>and P<sub>3OP </sub>that exist in first, second and third conduits <b>151</b>, <b>152</b> and <b>153</b> respectively of a milking installation. Valves <b>161</b>, <b>162</b> and <b>163</b> connect each of the conduits <b>151</b>, <b>152</b> and <b>153</b> to a common control valve <b>160</b> via which either of the operating pressures P<sub>1OP</sub>, P<sub>2OP </sub>and P<sub>3OP </sub>is applied to a component <b>110</b> of the milking installation, for instance a shut-off valve for controlling the extraction of milk at a milking point.</p>
+<p id="p-0033" num="0032">Alternatively, each of the operating pressures P<sub>1OP</sub>, P<sub>2OP </sub>and P<sub>3OP </sub>may be produced based on a basic pressure P that is regulated by a pressure regulator <b>160</b><i>b </i>to the respective levels P<sub>1OP</sub>, P<sub>2OP </sub>and P<sub>3OP </sub>and delivered to the component <b>110</b> as shown by the dashed lines. Naturally, this design may also be used for a dynamic adjustment of the pressure level P<sub>DYN </sub>being delivered to the component <b>110</b>, i.e. delivery of any other fixed pressure level or a varying pressure, which for example is adjusted in response to one or more measured parameters.</p>
+<p id="p-0034" num="0033">A pressure sensor <b>115</b> is arranged in the component <b>110</b>, which pressure sensor <b>115</b> is configured to measure values of a pressure level P<sub>md </sub>in the component <b>110</b>. The pressure level P<sub>md </sub>is indicative of the at least one operating pressure P<sub>1OP</sub>, P<sub>2OP </sub>and/or P<sub>3OP </sub>depending on which operating pressure that is being applied via the common control valve <b>160</b>, or the pressure regulator <b>160</b><i>b</i>. Here, the pressure sensor <b>115</b> is arranged in a dry space <b>111</b> of the component <b>110</b>, which dry space <b>111</b> connects to a wet space, i.e. a liquid-containing space <b>113</b> of the component <b>110</b>, via a diaphragm <b>112</b>, so as to effect milk extraction via conduits M connected to the animal. The dry space <b>111</b> is in direct fluid connection with the conduits <b>151</b>, <b>152</b> and <b>153</b> in which the operating pressures P<sub>1OP</sub>, P<sub>2OP </sub>P<sub>3OP </sub>respectively exist.</p>
+<p id="p-0035" num="0034">A processing node <b>125</b> is communicatively connected <b>120</b> to the pressure sensor <b>115</b>, for instance via a wireless connection based on radio or optical technique, or a wired connection implemented by electric cable or optic fiber. The processing node <b>125</b> is configured to generate monitoring data P<sub>md</sub>(t<sub>s</sub>) representing a series of measured values of the pressure level P<sub>md</sub>. The monitoring data P<sub>md</sub>(t<sub>s</sub>) includes temporal indicators t<sub>s </sub>designating a respective timestamp indicative of a point in time when a value of the pressure level P<sub>md </sub>was measured. The temporal indicators t<sub>s </sub>are included to serve as a basis for triggering at least one alarm as will be explained below.</p>
+<p id="p-0036" num="0035">During a milking procedure, a modern milking machine typically applies a vacuum pressure level that varies over time in order to match the variations in milk flow from the animal's udder. For example, to instigate the milk flow, a so-called stimulation vacuum may be applied. Shortly thereafter, it is expected that a considerable milk flow has been brought about, and therefore a standard milking vacuum level is applied. Analogously, when the milk flow decreases towards the end of the milking procedure, it is often preferable to reduce the vacuum pressure, i.e. adjust the sub pressure to a level closer to the atmospheric pressure, in order to not risk harming the animal's teats.</p>
+<p id="p-0037" num="0036">The applicant has found that the milk extraction can be made even more efficient, if yet another vacuum level is introduced, namely a so-called boost vacuum, where the sub pressure is further increased in relation to the standard milking vacuum level, i.e. to a level even further below the atmospheric pressure. Thus, a total of three different vacuum levels are applied in addition to the atmospheric pressure level exerted on the teats when they are not being milked. For example, a first operating pressure P<sub>1OP</sub>, a so-called stimulation vacuum, may be applied to instigate the milking. Then, a second operating pressure P<sub>2OP</sub>, a so-called standard vacuum, may be applied to match a subsequently increased milk flow. Thereafter, during a top-flow period, the boost vacuum is applied. Analogous to the above, towards the end of the milking procedure the sub pressure applied is preferably gradually decreased, for instance in three steps corresponding to the levels applied at the beginning of the procedure.</p>
+<p id="p-0038" num="0037">As mentioned above, the operating pressures P<sub>1OP</sub>, P<sub>2OP </sub>and P<sub>3OP </sub>may either originate from separate fluid connection with the conduits <b>151</b>, <b>152</b> and <b>153</b> respectively, or be produced based on a common basic pressure P that is regulated by a pressure regulator <b>160</b><i>b </i>to the said levels P<sub>1OP</sub>, P<sub>2OP </sub>and P<sub>3OP</sub>.</p>
+<p id="p-0039" num="0038">When varying the vacuum pressure like this, it is important that the variations are adequately timed relative to the animal's milk-flow curve, i.e. that the vacuum pressure level follows the differing quantities of milk flowing from the teats. Such monitoring is especially critical if a boost vacuum is used.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a graph illustrating how a measured pressure level P<sub>md </sub>may vary over time t during a milking procedure effected via the milking installation of <figref idref="DRAWINGS">FIG. <b>1</b></figref>. Here, it should be noted that measured pressure level P<sub>md </sub>represents a vacuum pressure, i.e. a sub-atmospheric pressure, where zero represents the atmospheric pressure level and a pressure level P<sub>md </sub>of larger vacuum magnitude is represented by a larger positive value than a pressure level P<sub>md </sub>of smaller vacuum magnitude. In other words, the P<sub>md </sub>axis represents negative pressure deviations from the atmospheric pressure level. A dotted line symbolizes an estimated milk flow F as a function of time t corresponding to the measured pressure level P<sub>md</sub>.</p>
+<p id="p-0041" num="0040">In <figref idref="DRAWINGS">FIG. <b>2</b></figref>, a first reference level P<sub>1d </sub>designates a measured pressure level P<sub>md </sub>constituting the stimulation vacuum, which is provided by the first operating pressure P<sub>1OP </sub>in the first conduit <b>151</b>; a second reference level P<sub>2d </sub>designates a measured pressure level P<sub>md </sub>constituting the standard vacuum, which is provided by the second operating pressure P<sub>2OP </sub>in the second conduit <b>152</b>; and a third reference level P<sub>3d </sub>designates a measured pressure level P<sub>md </sub>constituting the boost vacuum, which is provided by the third operating pressure P<sub>3OP </sub>in the third conduit <b>153</b>. According to embodiments of the invention, the atmospheric pressure level is preferably defined as any pressure below 4 kPa; the first reference level P<sub>1d </sub>is typically around 34 kPa, and preferably between 20 and 50 kPa, however at least 3 kPa below the second reference level P<sub>2d</sub>; the second reference level P<sub>2d </sub>is typically around 43 kPa, and preferably between 20 and 50 kPa, however at least 2 kPa below the third reference level P<sub>3d</sub>; and the third reference level P<sub>3d </sub>is typically around 49 kPa, and preferably between 40 and 55 kPa.</p>
+<p id="p-0042" num="0041">Above and below each of the reference levels P<sub>1d</sub>, P<sub>2d </sub>and P<sub>3d </sub>a respective upper and lower threshold P<sub>1dL</sub>, P<sub>1dH</sub>; P<sub>2dL</sub>, P<sub>2dH</sub>; and P<sub>3dL</sub>, P<sub>3dH </sub>respectively define intervals outside which the processing node <b>125</b> will trigger alarms. In particular, according to one embodiment of the invention, the temporal indicators form a basis for triggering at least one alarm as follows. The processing node <b>125</b> is configured to trigger a local alarm A<sub>L </sub>based on the temporal indicators if a timestamp indicates that the pressure level P<sub>md </sub>was measured to a value outside of an acceptable range of values as defined by the upper and lower thresholds P<sub>1dL</sub>, P<sub>1dH</sub>, P<sub>2dL</sub>, P<sub>2dH </sub>and P<sub>3dL</sub>, P<sub>3dH</sub>, indicated by the timestamp in question.</p>
+<p id="p-0043" num="0042">For example, the milking procedure may be prescribed to start by applying the first operating pressure P<sub>OP1 </sub>for a first period, say 30 seconds. Then, the second operating pressure P<sub>OP2 </sub>shall be applied for a second period, say 25 seconds. Thereafter, the third operating pressure P<sub>OP3 </sub>is applied until an end criterion is fulfilled, for instance relating to the milk flow. In response to the end criterion being fulfilled, the pressure is stepwise decreased analogous to how it was elevated in the beginning of the procedure. We assume that the processing node <b>125</b> generates monitoring data containing a first timestamp t<sub>1 </sub>when the measured pressure level P<sub>md </sub>indicates that the pressure increases from the atmospheric level to the first reference levels P<sub>1d </sub>representing the first operating pressure P<sub>OP1 </sub>providing the stimulation vacuum In a nominal scenario, the processing node <b>125</b> should generate monitoring data containing a second timestamp t<sub>2 </sub>when the measured pressure level P<sub>md </sub>indicates that the pressure increases from the first operating pressure P<sub>OP1 </sub>to the second operating pressure P<sub>OP2 </sub>providing the standard vacuum, where the second timestamp t<sub>2 </sub>designates a point in time around one second later than the point in time designated by the first timestamp t<sub>1</sub>. In the nominal scenario, the processing node <b>125</b> should further generate monitoring data containing a third timestamp t<sub>3 </sub>when the measured pressure level P<sub>md </sub>indicates that the pressure increases from the second operating pressure P<sub>OP2 </sub>to the third operating pressure P<sub>OP3 </sub>providing the boost vacuum, where the third timestamp t<sub>3 </sub>designates a point in time around one second later than the point in time designated by the second timestamp t<sub>2</sub>.</p>
+<p id="p-0044" num="0043">To monitor the timing of the above pressure changes, the processing node <b>125</b> may perform temporal checks as follows. If, at a point in time t<sub>1a </sub>after the point in time indicated by the first timestamp t<sub>1</sub>, say two seconds later, the measured pressure level P<sub>md </sub>is not within the acceptable pressure range P<sub>2dL</sub>-P<sub>2dH </sub>for the second reference level P<sub>2d</sub>, the processing node <b>125</b> is configured to trigger a first alarm A<b>1</b>, for instance in the form of a local alarm A<sub>L</sub>. Analogously, if, at a point in time t<sub>2a </sub>after the point in time indicated by the second timestamp t<sub>2</sub>, say three seconds later, the measured pressure level P<sub>md </sub>is not within the acceptable pressure range P<sub>3dL</sub>-P<sub>3dH </sub>for the third reference level P<sub>3d</sub>, the processing node <b>125</b> is configured to trigger a second alarm A<b>2</b>, for instance in the form of a local alarm A<sub>L</sub>.</p>
+<p id="p-0045" num="0044">According to one embodiment of the invention, the system also includes a central node <b>140</b>. The processing node <b>125</b> is further configured to forward the monitoring data P<sub>md</sub>(t<sub>s</sub>) to the central node <b>140</b>. Analogous to the processing node <b>125</b>, the central node <b>140</b> is configured to trigger alarms. Specifically, the central node <b>140</b> is configured to trigger at least one central alarm A<sub>C </sub>based on the temporal indicators t<sub>s</sub>. At least one of the at least one central alarm A<sub>C </sub>is triggered if one of the timestamps t<sub>1</sub>, t<sub>2</sub>, t<sub>2a</sub>, t<sub>3</sub>, t<sub>3a</sub>, t<sub>4</sub>, t<sub>5 </sub>or t<sub>6 </sub>indicates that the pressure level P<sub>md </sub>was measured to a value outside of an acceptable range of values at the point in time indicated by the timestamp in question. For example, if, at the point in time t<sub>1a </sub>after the point in time indicated by the first timestamp t<sub>1</sub>, the measured pressure level P<sub>md </sub>is not within the acceptable pressure range P<sub>2dL</sub>-P<sub>2dH </sub>for the second reference level P<sub>2d</sub>, the central node <b>140</b> is configured to trigger a first alarm A<b>1</b>, for instance in the form of a central alarm A<sub>L</sub>. Further, if, at the point in time t<sub>2a </sub>after the point in time indicated by the second timestamp t<sub>2</sub>, the measured pressure level P<sub>md </sub>is not within the acceptable pressure range P<sub>3dL</sub>-P<sub>3dH </sub>for the third reference level P<sub>3d</sub>, the central node is configured to trigger a second alarm A<b>2</b>, for instance in the form of a central alarm A<sub>C</sub>.</p>
+<p id="p-0046" num="0045">Preferably, a storage resource <b>145</b>, for example a digital memory unit, is communicatively connected to the central node <b>140</b>. The storage resource <b>145</b> is configured to store the monitoring data P<sub>md</sub>(t<sub>s</sub>) and any central alarm A<sub>C </sub>that have been generated. Thus, service personnel and/or the farmer may gain access to log data describing how the operating pressure has fluctuated during historic milking sessions in the milking installation. Thereby, decisions can be taken relating to when service and repair actions should be taken.</p>
+<p id="p-0047" num="0046">According to one embodiment of the invention, the pressure sensor <b>115</b> is configured to measure the values of the pressure level P<sub>md </sub>at a first frequency, say 100 Hz, or at least within a range from 10 to 1000 Hz, and transmit representative data reflecting the measured values of the pressure level P<sub>md </sub>to the processing node <b>125</b> at a second frequency that is lower than the first frequency, say 1 Hz, or at least within a range from 0.001 to 10 Hz. The representative data may here contain: a rolling average of the measured values of the pressure level P<sub>md </sub>since a previous transmission, a maximum of the measured values of the pressure level P<sub>md </sub>since a previous transmission, and/or a minimum of the measured values of the pressure level P<sub>md </sub>since a previous transmission. The previous transmission is preferably a most recent previous transmission of the representative data. However, according to the invention, various overlap in the transmitted data are also conceivable, meaning that the above-mentioned previous transmission is the penultimate, or an even earlier transmission.</p>
+<p id="p-0048" num="0047">According to one embodiment of the invention, the processing node <b>125</b> is configured to initiate forwarding of the monitoring data P<sub>md</sub>(t<sub>s</sub>) to the central node <b>140</b> in response to a start signal S, which indicates a beginning of a milking session to be carried out by the milking installation. The start signal S, in turn, may be produced by a cleaning unit for the milking installation, for example a signal indicating that a milking session has started or a cleaning procedure has been completed. Alternatively, the start signal S may originate from any other device or function in the milking system indicating that a milking session has started. For example, a milking point controller may generate the start signal S individually for each milking cluster. In such a case, an accelerometer output caused by a movement of the milking cluster may form a basis for the start signal S. As yet another alternative, an operator may cause the start signal S by manually activating a milking session.</p>
+<p id="p-0049" num="0048">The processing node <b>125</b> is further preferably configured to continue forwarding the monitoring data P<sub>md</sub>(t<sub>s</sub>) to the central node <b>140</b> until an abort signal E is received, which abort signal E indicates an end of the milking session. Thus, it can be ensured that the central node <b>140</b> exclusively receives monitoring data P<sub>md</sub>(t<sub>s</sub>) generated during the milking session. For example, any monitoring data collected during cleaning can be excluded from the basis for triggering alarms.</p>
+<p id="p-0050" num="0049">According to one embodiment of the invention, the central node <b>140</b> is configured to trigger at least one of the at least one central alarm A<sub>C </sub>if the monitoring data P<sub>md</sub>(t<sub>s</sub>) indicates that one or more of the operating pressures P<sub>1OP</sub>, P<sub>2OP </sub>and/or P<sub>3OP </sub>has been applied during a total extension of a high-pressure part of a milking time, which high-pressure part exceeds a threshold measure. For example, the central node <b>140</b> may be configured to trigger such a central alarm A<sub>C </sub>if the pressure level P<sub>md </sub>has been measured to the third reference level P<sub>3d</sub>, i.e. representing the boost vacuum, during more than 90% of the milking session. Preferably, the threshold measure for the high-pressure part of a milking time is between 60% and 99% of the total duration of a milking session.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows a block diagram over a system according to a second embodiment of the invention. Here, all parts, units and signals that also occur in <figref idref="DRAWINGS">FIG. <b>1</b></figref> designate the same parts, units and signals as described above with reference to <figref idref="DRAWINGS">FIG. <b>1</b></figref>. As can be seen, the design in <figref idref="DRAWINGS">FIG. <b>3</b></figref> differs from that in <figref idref="DRAWINGS">FIG. <b>1</b></figref> with respect to where the pressure level is measured, which pressure level is indicative of the operating pressures P<sub>1OP</sub>, P<sub>2OP </sub>and P<sub>3OP </sub>respectively.</p>
+<p id="p-0052" num="0051">In <figref idref="DRAWINGS">FIG. <b>3</b></figref>, this pressure level P<sub>mw </sub>is measured in a liquid-containing space <b>113</b> of the shut-off valve component <b>110</b>, i.e. on the opposite side of the diaphragm <b>112</b> relative to where the pressure sensor <b>115</b> is arranged in <figref idref="DRAWINGS">FIG. <b>1</b></figref>. According to the invention, the pressure sensor <b>115</b> may equally well be arranged at any other point on the so-called wet, or milk-containing, side schematically illustrated by conduits M, such as beneath the tip of the animal's teat in a teat cup.</p>
+<p id="p-0053" num="0052">It is somewhat more complicated to measure the pressure level P<sub>mw </sub>on the wet side because here the pressure level varies depending on the magnitude of the milk flow although the operating pressure applied P<sub>1OP</sub>, P<sub>2OP </sub>or P<sub>3OP </sub>is constant. This, in turn, is due to the fact that the liquid-containing space <b>113</b> is only in indirect fluid connection with the conduits <b>151</b>, <b>152</b> or <b>153</b> where the operating pressures P<sub>1OP</sub>, P<sub>2OP </sub>and P<sub>3OP </sub>respectively exist.</p>
+<p id="p-0054" num="0053">On the other hand, the pressure level P<sub>mw </sub>more accurately reflects the pressure level to which the animal's teats are subjected.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows a graph illustrating how the measured pressure level P<sub>mw </sub>may vary over time t during the milking of an animal according to the design shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>. As can be seen, here, for each operating pressure P<sub>1OP</sub>, P<sub>2OP </sub>and P<sub>3OP</sub>, a reference level must be allowed to vary between first and second values P&#x2032;<sub>1 </sub>to P&#x2033;<sub>1</sub>, P&#x2032;<sub>2 </sub>to P&#x2033;<sub>2 </sub>and P&#x2032;<sub>3 </sub>to P&#x2033;<sub>3 </sub>respectively due to said variations in the milk flow.</p>
+<p id="p-0056" num="0055">Nevertheless, the processing node <b>115</b> and/or the central node <b>140</b> may be configured to trigger first and/or second alarms A<b>1</b> and/or A<b>2</b> respectively as described above if, at the points in time t<sub>1a </sub>and/or t<sub>2a </sub>the measured pressure level P<sub>mw </sub>is not within an acceptable pressure range P<sub>2wL</sub>-P<sub>2wH </sub>or P<sub>3wL</sub>-P<sub>3wH </sub>respectively.</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows a block diagram over the processing node <b>125</b> according to one embodiment of the invention. The processing node <b>125</b> is configured to receive measured values of a pressure level, for example P<sub>md </sub>as described above with reference to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, or P<sub>mw </sub>as described above with reference to <figref idref="DRAWINGS">FIG. <b>3</b></figref>, and assign timestamps to generate corresponding the monitoring data P<sub>md</sub>(t<sub>s</sub>) or P<sub>mw</sub>(t<sub>s</sub>) respectively. It is generally advantageous if the processing node <b>125</b> is configured to effect the above-described procedure in an automatic manner by executing a computer program <b>527</b>. Therefore, according to this embodiment, the processing node <b>125</b> includes a memory unit <b>525</b>, i.e. non-volatile data carrier, storing the computer program <b>527</b>, which, in turn, contains software for making processing circuitry in the form of at least one processor <b>525</b> in the central control unit <b>520</b> execute the above-described actions when the computer program <b>527</b> is run on the at least one processor <b>525</b>.</p>
+<p id="p-0058" num="0057">In order to sum up, and with reference to the flow diagram in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, we will now describe the general computer-implemented method according to the invention of monitoring at least one operating pressure in a milking installation.</p>
+<p id="p-0059" num="0058">In a first step <b>610</b>, at least one measured pressure value is received from one or more pressure sensors. The at least one measured pressure value is indicative of the at least one operating pressure in the milking installation.</p>
+<p id="p-0060" num="0059">A following step <b>620</b> assigns a respective timestamp to each of the measured pressure values received. The monitoring data represent a series of measured values of the pressure level including the timestamps indicating a respective time when a particular value of the pressure level was measured, and serve as a basis for triggering at least one alarm.</p>
+<p id="p-0061" num="0060">Subsequently, a step <b>630</b> checks if at least one alarm criterion is fulfilled. If so, a step <b>640</b> follows; and otherwise, the procedure loops back to step <b>610</b>.</p>
+<p id="p-0062" num="0061">Step <b>640</b> generates at least one alarm in response to an output from step <b>630</b>. Thereafter, the procedure loops back to step <b>610</b>.</p>
+<p id="p-0063" num="0062">All of the process steps, as well as any sub-sequence of steps, described with reference to <figref idref="DRAWINGS">FIG. <b>6</b></figref> may be controlled by means of a programmed processor. Moreover, although the embodiments of the invention described above with reference to the drawings comprise processor and processes performed in at least one processor, the invention thus also extends to computer programs, particularly computer programs on or in a carrier, adapted for putting the invention into practice. The program may be in the form of source code, object code, a code intermediate source and object code such as in partially compiled form, or in any other form suitable for use in the implementation of the process according to the invention. The program may either be a part of an operating system, or be a separate application. The carrier may be any entity or device capable of carrying the program. For example, the carrier may comprise a storage medium, such as a Flash memory, a ROM (Read Only Memory), for example a DVD (Digital Video/Versatile Disk), a CD (Compact Disc) or a semi-conductor ROM, an EPROM (Erasable Programmable Read-Only Memory), an EEPROM (Electrically Erasable Programmable Read-Only Memory), or a magnetic recording medium, for example a floppy disc or hard disc. Further, the carrier may be a transmissible carrier such as an electrical or optical signal which may be conveyed via electrical or optical cable or by radio or by other means. When the program is embodied in a signal which may be conveyed directly by a cable or other device or means, the carrier may be constituted by such cable or device or means. Alternatively, the carrier may be an integrated circuit in which the program is embedded, the integrated circuit being adapted for performing, or for use in the performance of, the relevant processes.</p>
+<p id="p-0064" num="0063">The term &#x201c;comprises/comprising&#x201d; when used in this specification is taken to specify the presence of stated features, integers, steps or components. However, the term does not preclude the presence or addition of one or more additional features, integers, steps or components or groups thereof.</p>
+<p id="p-0065" num="0064">The invention is not restricted to the described embodiments in the figures, but may be varied freely within the scope of the claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A system for monitoring at least one operating pressure in a milking installation, the system comprising:
+<claim-text>a pressure sensor (<b>115</b>) configured to measure values of a pressure level in a component (<b>110</b>) of a milking point of the milking installation, said pressure level being indicative of said at least one operating pressure; and</claim-text>
+<claim-text>a processing node (<b>125</b>) communicatively connected (<b>120</b>) to the pressure sensor (<b>115</b>) and configured to generate monitoring data representing a series of measured values of the pressure level, the monitoring data comprising temporal indicators designating a respective timestamp indicative of a point in time when a value of the pressure level was measured, and the temporal indicators serving as a basis for triggering at least one alarm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the processing node (<b>125</b>) is configured to trigger at least one local alarm based on the temporal indicators, at least one of the at least one local alarm being triggered if one of said timestamps indicates that the pressure level was measured to a value outside of an acceptable range of values at the point in time indicated by said timestamp.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a central node (<b>140</b>), the processing node (<b>125</b>) being configured to forward the monitoring data to the central node (<b>140</b>), and the central node (<b>140</b>) being configured to trigger at least one central alarm based on the temporal indicators, at least one of the at least one central alarm being triggered if one of said timestamps indicates that the pressure level was measured to a value outside of an acceptable range of vlues at the point in time indicated by said timestamp.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The system according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, further comprising:
+<claim-text>a storage resource (<b>145</b>) communicatively connected to the central node (<b>140</b>), said storage resource (<b>145</b>) configured to store the monitoring data and at least one of the at least one central alarm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The system according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the processing node (<b>125</b>) is configured to initiate forwarding of the monitoring data to the central node (<b>140</b>) in response to a start signal (S) indicating a beginning of a milking session to be carried out by the milking installation.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The system according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the processing node (<b>125</b>) is configured to continue forwading the monitoring data to the central node (<b>140</b>) until an abort signal (E) is received, said abort signal (E) indicating an end of said milking session.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The system according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the central node (<b>140</b>) is configured to trigger at least one of the at least one central alarm if the monitoring data indicates that one of the at least one operating pressure has been applied during a total extension of a high-pressure part of a milking time, said high-pressure part exceeding a threshold measure.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pressure sensor (<b>115</b>) is arranged in a dry space (<b>111</b>) of the component (<b>110</b>), said dry space (<b>111</b>) being in direct fluid connection with at least one conduit in which said at least one operating pressure exists.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pressure sensor (<b>115</b>) is arranged in a liquid-containing space (<b>113</b>) of the component (<b>110</b>), said liquid-containing space (<b>113</b>) being in indirect fluid connection with at least one conduit in which said at least one operating pressure exists.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pressure sensor (<b>115</b>) is configured to measure the values of the pressure level at a first frequency, and to transmit representative data reflecting the measured values of the pressure level to the processing node (<b>125</b>) at a second frequency being lower than the first frequency.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The system according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the representative data comprises at least one of:
+<claim-text>a rolling average of the measured values of the pressure level since a previous transmission,</claim-text>
+<claim-text>a maximum of the measured values of the pressure level since a previous transmission, and</claim-text>
+<claim-text>a minimum of the measured values of the pressure level since a previous transmission.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. A computer-implemented method of monitoring at least one operating pressure in a milking installation, the method comprising:
+<claim-text>receiving from a pressure sensor (<b>115</b>) measured values of a pressure level in a component (<b>110</b>) of a milking point of the milking installation, said pressure level being indicative of said at least one operating pressure; and</claim-text>
+<claim-text>processing the measured values of the pressure level and generating monitoring data representing a series of measured values of the pressure level,</claim-text>
+<claim-text>the monitoring data comprising temporal indicators designating a respective timestamp indicative of a point in time when a value of the pressure level was measured, and the temporal indicators serving as a basis for triggering at least one alarm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method according to <claim-ref idref="CLM-00012">claim 12</claim-ref>, further comprising:
+<claim-text>determining if a timestamp of one of said timestamps indicates that the pressure level was measured to a value outside of an acceptable range of values at the point in time indicated by said timestamp; and</claim-text>
+<claim-text>determining that said timestamp indicates that the pressure level was measured to a value outside of an acceptable range of values at the point in time indicated by said timestamp, and subsequently triggering local alarm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method according to any one of the <claim-ref idref="CLM-00012">claim 12</claim-ref>, further comprising:
+<claim-text>forwarding the monitoring data to a central node (<b>140</b>);</claim-text>
+<claim-text>determining if a timestamp of one of said timestamps indicates that the pressure level was measured to a value outside of an acceptable range of values at the point in time indicated by said timestamp; and</claim-text>
+<claim-text>determining that said timestamp indicates that the pressure level was measured to the value outside of the acceptable range of values at the point in time indicated by said timestamp, and subsequently triggering in the central node a central alarm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method according to <claim-ref idref="CLM-00014">claim 14</claim-ref>, further comprising:
+<claim-text>determining receipt of a start signal (S) indicating a beginning of a milking session to be carried out by the milking installation, and subsequently initiating the forwarding of the monitoring data to the central node.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, further comprising:
+<claim-text>determining receipt of an abort signal (E), said abort signal (E) indicating an end of said milking session, and subsequently stopping the forwarding of the monitoring data to the central node.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The method according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, further comprising:
+<claim-text>determining if the monitoring data indicates that one of the at least one operating pressure has been applied during a total extension of a high-pressure part of a milking time, said high-pressure part exceeding a threshold measure; and</claim-text>
+<claim-text>determining that the monitoring data indicates that the one of the at least one operating pressure has been applied during the total extension of a high-pressure part of the milking time, and subsequently triggering in the central node an other central alarm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The method according to <claim-ref idref="CLM-00012">claim 12</claim-ref>, further comprising:
+<claim-text>measuring the values of the pressure level in a dry space (<b>111</b>) of the component (<b>110</b>), said dry space (<b>111</b>) being in direct fluid connection with at least one conduit in which said at least one operating pressure exists.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The method according to <claim-ref idref="CLM-00012">claim 12</claim-ref>, further comprising:
+<claim-text>measuring the values of the pressure level in a liquid-containing space (<b>113</b>) of the component (<b>110</b>), said liquid-containing space (<b>113</b>) being in indirect fluid connection with at least one conduit in which said at least one operating pressure exists.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method according to <claim-ref idref="CLM-00012">claim 12</claim-ref>, further comprising:
+<claim-text>measuring, in the pressure sensor (<b>115</b>), the values of the pressure level (P<sub>md</sub>, P<sub>mw</sub>) at a first frequency; and</claim-text>
+<claim-text>transmitting representative data reflecting the measured values of the pressure level (P<sub>md</sub>, P<sub>mw</sub>) from the pressure sensor (<b>115</b>) at a second frequency lower than the first frequency.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The method according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the representative data comprises at least one of:
+<claim-text>a rolling average of the measured values of the pressure level since a previous transmission,</claim-text>
+<claim-text>a maximum of the measured values of the pressure level since a previous transmission, and</claim-text>
+<claim-text>a minimum of the measured values of the pressure level since a previous transmission.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. A non-transitory computer-readable data medium (<b>526</b>) having recorded thereon a computer program (<b>527</b>) that, upon execution by a processor of a computer, executes the method according to <claim-ref idref="CLM-00012">claim 12</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the component is any one of a milk conduit, a claw of a milking device, a teat cup, and a shut-off valve.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The method according to <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the component is any one of a milk conduit, a claw of a milking device, a teat cup, and a shut-off valve.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

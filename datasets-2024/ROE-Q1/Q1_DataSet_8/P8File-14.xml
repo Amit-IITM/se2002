@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225510A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225510</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18156659</doc-number>
+<date>20230119</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>CN</country>
+<doc-number>202021507901.7</doc-number>
+<date>20200727</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>CN</country>
+<doc-number>202021508027.9</doc-number>
+<date>20200727</date>
+</priority-claim>
+<priority-claim sequence="03" kind="national">
+<country>CN</country>
+<doc-number>202021508934.3</doc-number>
+<date>20200727</date>
+</priority-claim>
+<priority-claim sequence="04" kind="national">
+<country>CN</country>
+<doc-number>202121253741.2</doc-number>
+<date>20210602</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>B</subclass>
+<main-group>96</main-group>
+<subgroup>20</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>B</subclass>
+<main-group>96</main-group>
+<subgroup>18</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>B</subclass>
+<main-group>96</main-group>
+<subgroup>20</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>B</subclass>
+<main-group>96</main-group>
+<subgroup>18</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>29</class>
+<subclass>C</subclass>
+<main-group>49</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e116">BLOW-MOLDED UNITARY STRUCTURE WITH ENHANCED STRENGTH</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>17856845</doc-number>
+<date>20220701</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11564494</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18156659</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>17368469</doc-number>
+<date>20210706</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11564492</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17856845</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Inno-Sports Co., Ltd.</orgname>
+<address>
+<city>Xiamen</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Choi</last-name>
+<first-name>Kwan Jun</first-name>
+<address>
+<city>Xiamen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A blow-molded unitary structure includes a panel having first and second panel walls and a generally hollow interior between the first and second panel walls. The structure also includes one or more different types of strengthening elements monolithically formed with the panel and across a substantial portion of the panel to enhance the strength of the structure. A strengthening element can be a depression recessing from the second panel wall toward an interior of the panel, a protrusion protruding from the second panel wall toward an exterior of the panel, a rib protruding outwardly toward the exterior of the panel and a trench formed by side walls of adjacent protrusions.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="38.69mm" wi="158.75mm" file="US20230225510A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="220.90mm" wi="136.91mm" file="US20230225510A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="226.23mm" wi="113.62mm" orientation="landscape" file="US20230225510A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="208.87mm" wi="20.57mm" file="US20230225510A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="196.68mm" wi="135.72mm" file="US20230225510A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="195.50mm" wi="67.23mm" file="US20230225510A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="200.74mm" wi="132.50mm" file="US20230225510A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="224.62mm" wi="118.87mm" orientation="landscape" file="US20230225510A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="190.67mm" wi="20.57mm" file="US20230225510A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="194.39mm" wi="130.56mm" file="US20230225510A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="200.83mm" wi="23.79mm" file="US20230225510A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="164.93mm" wi="132.67mm" orientation="landscape" file="US20230225510A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="166.79mm" wi="161.80mm" orientation="landscape" file="US20230225510A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="210.48mm" wi="118.28mm" orientation="landscape" file="US20230225510A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="198.54mm" wi="23.79mm" file="US20230225510A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="206.76mm" wi="134.54mm" file="US20230225510A1-20230720-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="199.81mm" wi="155.02mm" orientation="landscape" file="US20230225510A1-20230720-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="226.91mm" wi="138.26mm" orientation="landscape" file="US20230225510A1-20230720-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="169.67mm" wi="157.23mm" orientation="landscape" file="US20230225510A1-20230720-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="230.46mm" wi="123.27mm" orientation="landscape" file="US20230225510A1-20230720-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">The present application is a continuation of U.S. patent application Ser. No. 17/856,845 filed Jul. 1, 2022, which is a continuation application of U.S. patent application Ser. No. 17/368,469 filed Jul. 6, 2021, which claims priority to Chinese Utility Model Applications CN 202021507901.7 filed Jul. 27, 2020, CN 202021508027.9 filed Jul. 27, 2020, CN 202021508934.3 filed Jul. 27, 2020, and CN202121253741.2 filed Jun. 2, 2021. The disclosure of each application is incorporated herein for all purposes by reference in its entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention generally relates to blow-molded structures and, in particular, to blow-molded unitary structures with enhanced strength.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">Some existing tabletops are made by blow molding plastics. Such tabletops are usually hollow structures with insufficient strength. In use or during transportation, they can be easily bent and deformed.</p>
+<p id="p-0005" num="0004">Given the current state of the art, there remains a need for blow-molded structures that address the abovementioned issues.</p>
+<p id="p-0006" num="0005">The information disclosed in this Background section is provided for an understanding of the general background of the invention and is not an acknowledgement or suggestion that this information forms part of the prior art already known to a person skilled in the art.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">The present disclosure provides blow-molded unitary structures with enhanced strength. The structures can be used, for instance, as a tabletop, a benchtop, a countertop, a bed panel, or the like.</p>
+<p id="p-0008" num="0007">In various exemplary embodiments, the present disclosure provides a blow-molded unitary structure including a panel, a plurality of depressions, and a plurality of protrusions. The panel includes a first panel wall and a second panel wall spaced apart from the first panel wall. The plurality of depressions is monolithically formed with the panel, each recessing from the second panel wall toward an interior of the panel. Each depression in the plurality of depressions includes an open depression top at the second panel wall, a closed depression bottom opposite to the open depression top, and a depression side wall connecting the open depression top and the closed depression bottom. The plurality of protrusions is also monolithically formed with the panel, each protruding from the second panel wall toward an exterior of the panel. Each protrusion in the plurality of protrusions includes an open protrusion base at the second panel wall, and a closed protrusion cover surrounding the open protrusion base. Depressions in at least a subset of the plurality of depressions are arranged alternately with protrusions in at least a subset of the plurality of protrusions across at least a portion of the panel. The plurality of depressions and the plurality of protrusions collectively enhance a strength of the blow-molded unitary structure.</p>
+<p id="p-0009" num="0008">In some exemplary embodiments, the blow-molded unitary structure further includes a plurality of ribs monolithically formed with the panel. Each respective rib in the plurality of ribs protrudes outwardly toward the exterior of the panel, and each respective rib in at least a subset of the plurality of ribs connects corresponding adjacent protrusions in the plurality of protrusions.</p>
+<p id="p-0010" num="0009">In some exemplary embodiments, the second panel wall is substantially parallel to the first panel wall.</p>
+<p id="p-0011" num="0010">In an exemplary embodiment, a depression is separated from its adjacent depression in the plurality of depressions by a distance that is from about 3 to about 7 (e.g., about 3, 4, 5, 6 or 7) times a thickness of the structure.</p>
+<p id="p-0012" num="0011">In some exemplary embodiments, the closed depression bottom is formed monolithically at the first panel wall or is a part of the first panel wall.</p>
+<p id="p-0013" num="0012">In an exemplary embodiment, the subset of the plurality of depressions and the subset of the plurality of protrusions are arranged substantially uniformly across the portion of the panel.</p>
+<p id="p-0014" num="0013">In an exemplary embodiment, the plurality of depressions and the plurality of protrusions are arranged substantially across the panel.</p>
+<p id="p-0015" num="0014">In some exemplary embodiments, the closed protrusion cover of each protrusion in at least a subset of the plurality of protrusions is substantially rounded.</p>
+<p id="p-0016" num="0015">In some exemplary embodiments, the closed protrusion cover of each protrusion in at least a subset of the plurality of protrusions includes a top and a side wall connecting the top with the open protrusion base of each respective protrusion.</p>
+<p id="p-0017" num="0016">In some exemplary embodiments, the top of the closed protrusion cover is arched or dome-shaped.</p>
+<p id="p-0018" num="0017">In an exemplary embodiment, an edge between the top and side wall of the closed protrusion cover is arched.</p>
+<p id="p-0019" num="0018">In some exemplary embodiments, the top of the closed protrusion cover is substantially planar and parallel to the second panel wall.</p>
+<p id="p-0020" num="0019">In some exemplary embodiments, a trench is formed between the side walls of adjacent protrusions in the subset of the plurality of protrusions.</p>
+<p id="p-0021" num="0020">In some exemplary embodiments, the trench connects two depressions adjacent to the side walls.</p>
+<p id="p-0022" num="0021">In an exemplary embodiment, the trench has a width that is substantially equal to or less than a width of any one of the two depressions.</p>
+<p id="p-0023" num="0022">In various exemplary embodiments, the present disclosure provides a blow-molded unitary structure including a panel, a plurality of depressions and a plurality of protrusions. The panel includes a first panel wall and a second panel wall spaced apart from the first panel wall. The plurality of depressions is monolithically formed with the panel, each recessing from the second panel wall toward an interior of the panel. The plurality of protrusions is also monolithically formed with the panel, each protruding from the second panel wall toward an exterior of the panel. Each protrusion in the plurality of protrusions includes an open protrusion base at the second panel wall, and a closed protrusion cover surrounding the open protrusion base. The closed protrusion cover of each protrusion in at least a subset of the plurality of protrusions includes a substantially planar top and a side wall connecting the substantially planar top with the open protrusion base of each respective protrusion. A trench is formed between the side walls of adjacent protrusions in the subset of the plurality of protrusions, and connects two depressions adjacent to the side walls.</p>
+<p id="p-0024" num="0023">In some exemplary embodiments, the trench has a width that is substantially equal to or less than a width of any one of the two depressions.</p>
+<p id="p-0025" num="0024">In various exemplary embodiments, the present disclosure provides a blow-molded unitary structure including a panel, a plurality of depressions, a plurality of protrusions, and a plurality of ribs. The panel includes a first panel wall and a second panel wall spaced apart from the first panel wall. The plurality of depressions is monolithically formed with the panel, each recessing from the second panel wall toward an interior of the panel. The plurality of protrusions is also monolithically formed with the panel, each protruding from the second panel wall toward an exterior of the panel. Each protrusion in the plurality of protrusions includes an open protrusion base at the second panel wall, and a closed protrusion cover surrounding the open protrusion base. The plurality of ribs is also monolithically formed with the panel, each protruding outwardly toward the exterior of the panel. Each respective rib in at least a subset of the plurality of ribs connects corresponding adjacent protrusions in the plurality of protrusions.</p>
+<p id="p-0026" num="0025">In some exemplary embodiments, the closed protrusion cover of each protrusion in at least a subset of the plurality of protrusions includes an arched or dome-shaped top and a side wall connecting the arched or dome-shaped top with the open protrusion base of each respective protrusion.</p>
+<p id="p-0027" num="0026">In an exemplary embodiment, an edge between the arched or dome-shaped top and side wall of the closed protrusion cover is arched.</p>
+<p id="p-0028" num="0027">In various exemplary embodiments, the present disclosure provides a blow-molded unitary structure including a panel, a plurality of first depressions, a plurality of first protrusions, and a plurality of second protrusions. The panel includes a first panel wall and a second panel wall spaced apart from the first panel wall. The plurality of first protrusions monolithically formed with the panel, each protruding from the second panel wall toward an exterior of the panel and elongated in the first direction. The plurality of second protrusions is monolithically formed with the panel, each protruding from the second panel wall toward an exterior of the panel and elongated in the second direction. At least a subset of the plurality of first depressions is arranged into a plurality of depression rows in a first direction and a plurality of depression columns in a second direction across at least a portion of the panel. Moreover, first protrusions in at least a subset of the plurality of first protrusions are arranged alternatively with depression rows in at least a subset of the plurality of depression rows. Second protrusions in at least a subset of the plurality of second protrusions are arranged alternatively with depression columns in at least a subset of the plurality of depression columns. Further, the first protrusions in the subset of the plurality of first protrusions and the second protrusions in the subset of the plurality of second protrusions cross each other. The plurality of first depressions, the plurality of first protrusions, and the plurality of second protrusions collectively enhance a strength of the blow-molded unitary structure.</p>
+<p id="p-0029" num="0028">In some exemplary embodiments, the blow-molded unitary structure further includes a plurality of reinforcement members, each monolithically formed at a first depression in the plurality of first depressions.</p>
+<p id="p-0030" num="0029">In an exemplary embodiment, the number of reinforcement members is the same as the number of first depressions, and one reinforcement is formed at each first depression in the plurality of first depressions.</p>
+<p id="p-0031" num="0030">In some exemplary embodiments, each reinforcement member in the plurality of reinforcement members is formed at a depression bottom of a corresponding first depression in the plurality of first depressions.</p>
+<p id="p-0032" num="0031">In an exemplary embodiment, each reinforcement member in the plurality of reinforcement members is recessed from the depression bottom of the corresponding first depression in the plurality of first depressions towards the first panel wall.</p>
+<p id="p-0033" num="0032">In some exemplary embodiments, the reinforcement member includes a plurality of reinforcement elements connected with each other at their ends.</p>
+<p id="p-0034" num="0033">In an exemplary embodiment, a first protrusion in the plurality of first protrusions and a second protrusion in the plurality of second protrusions have different heights.</p>
+<p id="p-0035" num="0034">In some exemplary embodiments, a height of a first protrusion in the plurality of first protrusions or a second protrusion in the plurality of second protrusions is about 1/7 to about &#x2158; of a distance between two adjacent first depressions, about &#x2159; to about &#xbe; of the distance between two adjacent first depressions, or about &#x2155; to about &#x2154; of the distance between two adjacent first depressions. In an exemplary embodiment, the distance between two adjacent first depressions is measured from a center of one first depression to a center of the other first depression.</p>
+<p id="p-0036" num="0035">In some exemplary embodiments, a width of a first protrusion in the plurality of first protrusions or a second protrusion in the plurality of second protrusions is about 1/7 to about &#xbd; of a distance between two adjacent first depressions, about &#x2159; to about &#x2156; of the distance between two adjacent first depressions, or about &#x2155; to about &#x2153; of the distance between two adjacent first depressions. In an exemplary embodiment, the distance between two adjacent first depressions is measured from a center of one first depression to a center of the other first depression.</p>
+<p id="p-0037" num="0036">In some exemplary embodiments, a first depression in the plurality of depression rows or in the plurality of depression columns is surrounded by a transition member that connects the first depression with adjacent first and second protrusions. In an exemplary embodiment, the transition member comprises a first step and a second step.</p>
+<p id="p-0038" num="0037">In some exemplary embodiments, the blow-molded unitary structure further comprises a second depression monolithically formed with the panel and recessing from the second panel wall toward the interior of the panel. The second depression is curvy and disposed along one or more edges of the panel. In an exemplary embodiment, the second depression has a substantially wave shape.</p>
+<p id="p-0039" num="0038">In some exemplary embodiments, a first protrusion in the plurality of first protrusions or a second protrusion in the plurality of second protrusion has a tunnel shape.</p>
+<p id="p-0040" num="0039">The structures of the present disclosure have other features and advantages that will be apparent from, or are set forth in more detail in, the accompanying drawings, which are incorporated herein, and the following Detailed Description, which together serve to explain certain principles of exemplary embodiments of the present disclosure.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0041" num="0040">The accompanying drawings, which are incorporated into and constitute a part of this specification, illustrate one or more exemplary embodiments of the present disclosure and, together with the Detailed Description, serve to explain the principles and implementations of exemplary embodiments of the invention.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a bottom view illustrating an exemplary structure in accordance with some exemplary embodiments of the present disclosure.</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a schematic cross-sectional view taken along line A-A of <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a schematic cross-sectional view taken along line B-B of <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a bottom view illustrating the exemplary structure of <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a schematic cross-sectional view taken along line C-C of <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a bottom view illustrating an exemplary structure in accordance with some exemplary embodiments of the present disclosure.</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a schematic cross-sectional view taken along line A-A of <figref idref="DRAWINGS">FIG. <b>6</b></figref>.</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a schematic cross-sectional view taken along line B-B of <figref idref="DRAWINGS">FIG. <b>6</b></figref>.</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a bottom view illustrating the exemplary structure of <figref idref="DRAWINGS">FIG. <b>6</b></figref>.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a schematic cross-sectional view taken along line C-C of <figref idref="DRAWINGS">FIG. <b>9</b></figref>.</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a bottom perspective view illustrating an exemplary structure in accordance with some exemplary embodiments of the present disclosure.</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a bottom view illustrating the exemplary structure of <figref idref="DRAWINGS">FIG. <b>11</b></figref>.</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a schematic cross-sectional view taken along line A-A of <figref idref="DRAWINGS">FIG. <b>11</b></figref>.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a schematic cross-sectional view taken along line B-B of <figref idref="DRAWINGS">FIG. <b>11</b></figref>.</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a schematic cross-sectional view taken along line C-C of <figref idref="DRAWINGS">FIG. <b>11</b></figref>.</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is a bottom view illustrating an exemplary structure in accordance with some exemplary embodiments of the present disclosure.</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is a schematic cross-sectional view taken along line E-E of <figref idref="DRAWINGS">FIG. <b>16</b></figref>.</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is an enlarged view taken along circle F of <figref idref="DRAWINGS">FIG. <b>16</b></figref>.</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. <b>19</b></figref> is a partially enlarged view of <figref idref="DRAWINGS">FIG. <b>16</b></figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0061" num="0060">As will be apparent to those of skill in the art, the components illustrated in the figures described above are combinable in any useful number and combination. The figures are intended to be illustrative in nature and are not limiting.</p>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0062" num="0061">Reference will now be made in detail to implementations of exemplary embodiments of the present disclosure as illustrated in the accompanying drawings. The same reference indicators will be used throughout the drawings and the following detailed description to refer to the same or like parts. Those of ordinary skill in the art will understand that the following detailed description is illustrative only and is not intended to be in any way limiting. Other embodiments of the present disclosure will readily suggest themselves to such skilled persons having benefit of this disclosure.</p>
+<p id="p-0063" num="0062">In the interest of clarity, not all of the routine features of the implementations described herein are shown and described. It will be appreciated that, in the development of any such actual implementation, numerous implementation-specific decisions are made in order to achieve the developer's specific goals, such as compliance with application- and business-related constraints, and that these specific goals will vary from one implementation to another and from one developer to another. Moreover, it will be appreciated that such a development effort might be complex and time-consuming, but would nevertheless be a routine undertaking of engineering for those of ordinary skill in the art having the benefit of this disclosure.</p>
+<p id="p-0064" num="0063">Many modifications and variations of the exemplary embodiments set forth in this disclosure can be made without departing from the spirit and scope of the exemplary embodiments, as will be apparent to those skilled in the art. The specific exemplary embodiments described herein are offered by way of example only, and the disclosure is to be limited only by the terms of the appended claims, along with the full scope of equivalents to which such claims are entitled.</p>
+<p id="p-0065" num="0064">Embodiments of the present disclosure are described in the context of structures with enhanced strength. An exemplary structure of the present invention is a unitary piece formed by blow molding plastics such as high density polyethylene (HDPE), low density polyethylene (LDPE), polypropylene (PP), polyvinyl chloride (PVC), polyethylene terephthalate (PET), thermoplastic elastomers (TPE), or the like. An exemplary structure of the present disclosure can be used, for instance, as a tabletop, a benchtop, a countertop, a bed panel, or the like.</p>
+<p id="p-0066" num="0065">A structure of the present disclosure generally includes a panel having two or more panel walls and a generally hollow interior formed between the panel walls. The panel can be of various regular or irregular shapes, including but not limited to a square shape, a round shape or a rectangular shape.</p>
+<p id="p-0067" num="0066">A structure of the present disclosure also includes one or more different types of strengthening elements monolithically formed with the panel, thereby creating a unitary one-piece structure with enhanced strength. Strengthening elements include, but are not limited to, a plurality of depressions, a plurality of protrusions, a plurality of ribs, a plurality of trenches, or any combination thereof. In some exemplary embodiments, the strengthening elements are distributed across at least a portion of the panel. The strengthening elements enhance the strength of the structure (e.g., increases rigidity of the structure) and prevent the structure from bending, warping or deforming.</p>
+<p id="p-0068" num="0067">The strengthening elements (e.g., depressions, protrusions, ribs, or trenches) can have any suitable shapes, sizes or orientations. For instance, a depression can have a regular (e.g., rectangular, square, circular, oblong or the like) or irregular shape. In addition, adjacent depressions can have the same configuration or different configurations. In some exemplary embodiments, a depression includes a stepwise side wall configured to increase the strength of the depression and accordingly to increase the strength of the panel and/or structure. Similarly, a protrusion/rib/trench can have a regular or irregular shape, and adjacent protrusions/ribs/trenches can have the same configuration or different configurations.</p>
+<p id="p-0069" num="0068">The depressions, protrusions, ribs, and/or trenches can be formed at any suitable positions independent from each other or related to each other. For instance, a protrusion can be formed at a position adjacent to none of the plurality of depressions, or at a position adjacent to 1, 2 or more than 2 depressions. Likewise, a depression can be formed at a position adjacent to none of the plurality of protrusions, or at a position adjacent to 1, 2 or more than 2 protrusions. The depressions, protrusions, ribs, and/or trenches can be arranged uniformly or nonuniformly across the panel. In some exemplary embodiments, depressions in at least a subset of the plurality of depressions are arranged alternately with protrusions in at least a subset of the plurality of protrusions across at least a portion of the panel. In some exemplary embodiments, the plurality of depressions and the plurality of protrusions are arranged substantially uniformly across the panel.</p>
+<p id="p-0070" num="0069">Referring now to <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>5</b></figref>, there is depicted exemplary structure <b>100</b> in accordance with some exemplary embodiments of the present disclosure. As shown, structure <b>100</b> includes a panel such as panel <b>110</b>. The panel usually includes multiple walls and a generally hollow interior. For instance, in some exemplary embodiments, panel <b>110</b> includes first panel wall <b>111</b>, second panel wall <b>112</b> and generally hollow interior <b>113</b>. First panel wall <b>111</b> and second panel wall <b>112</b> are spaced apart from each other (e.g., in the vertical direction of <figref idref="DRAWINGS">FIG. <b>2</b></figref>), creating generally hollow interior <b>113</b> in between.</p>
+<p id="p-0071" num="0070">The first and second wall panels can be, but do not have to be, completely spaced apart from each other. For instance, in some exemplary embodiments, the first and second wall panels can be joined with each other at one or more locations. Similarly, the generally hollow interior can be completely hollow or partially hollow with one or more structures formed or disposed within. Additionally, the first and second panel walls each can be planar or nonplanar. For instance, in an exemplary embodiment, each of the first and second panel walls is substantially planar, and the first and second panel walls are substantially parallel to each other. In another exemplary embodiment, at least a portion of the first or second panel wall is curved.</p>
+<p id="p-0072" num="0071">The first and second panel walls can have the same thickness or different thicknesses. By way of example, <figref idref="DRAWINGS">FIG. <b>2</b></figref> illustrates the first and second panel walls having substantially the same thickness indicated by h. In some exemplary embodiments, a distance separating the first and second panel walls is about 2, 3, 4, 5, or more than about 5 times a thickness of the first or second panel wall. In an exemplary embodiment, the distance separating the first and second panel walls is from about 4 to about 7 (e.g., about 4, 5, 6, or 7) times a thickness of the first or second panel wall.</p>
+<p id="p-0073" num="0072">In some exemplary embodiments, structure <b>100</b> includes a plurality of depressions, such as depression <b>120</b>, monolithically formed with the panel and thus creates a unitary one-piece structure. Different depressions can be but do not have to be identical or substantially the same as each other. For instance, different depressions can have the same or different shapes or sizes, or can be arranged in the same or different orientations. By way of example, <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>5</b></figref> illustrates the plurality of depressions <b>120</b> monolithically formed with the first or second panel wall, each recessing from the second panel wall toward the interior of the panel (e.g., toward the first panel wall).</p>
+<p id="p-0074" num="0073">In some exemplary embodiments, depression <b>120</b> includes an open top such as open top <b>121</b>. Cross-sectional-wise, the open top can have any suitable regular or irregular shapes, including but not limited to polygon (e.g. triangle, rectangle, square, diamond), circle, oblong, oval, or the like. Depression <b>120</b> also includes a closed bottom, such as closed bottom <b>122</b>, opposite to the open top. The closed bottom can be completely separated from first panel wall <b>111</b> (e.g., there is a gap between the closed bottom and the first panel wall), or formed at the first panel wall (e.g., the closed bottom is part of the first panel wall), or anywhere in between. By way of example, <figref idref="DRAWINGS">FIG. <b>2</b></figref> illustrates the depression having the close bottom formed at the first panel wall and being part of the first panel wall. Depression <b>120</b> also includes a depression side wall such as depression side wall <b>130</b>. The depression side wall joins or connects the open top and close bottom of the depression.</p>
+<p id="p-0075" num="0074">Depressions <b>120</b> can be distributed uniformly, generally uniformly, or non-uniformly across at least a portion of the panel, in which adjacent depressions are generally spaced apart from each other. For instance, in some exemplary embodiments, two adjacent protrusions <b>140</b> are spaced apart from each other, forming a gap, such as gap <b>125</b> or gap <b>126</b>, between the edges or side walls of the two adjacent depressions. Gap <b>125</b> and gap <b>126</b> can be the same as or different from each other. In some exemplary embodiments, at least some of the depressions are arranged in a pattern, which can be regular or irregular. For instance, some or all of the depressions are arranged to form row(s), column(s), circle(s) or the like. In some exemplary embodiments, the open top has a substantially square shape, and the plurality of depressions is arranged in a pattern such that each edge of the substantially square shaped open top is oriented at an angle with respect to an edge of the panel. For instance, in an exemplary embodiment, the plurality of depressions is arranged in a pattern such that each edge of the substantially square shaped open top is oriented at substantially 45 degrees with respect to a side edge of the panel.</p>
+<p id="p-0076" num="0075">In some exemplary embodiments, adjacent depressions are separated by a distance greater than a thickness of the structure. For instance, in an exemplary embodiment, the distance separating two adjacent depressions is more than about 2, more than about 3, or more than about 4 times the thickness of the structure. In another exemplary embodiment, the distance separating two adjacent depressions is from about 3 to about 7 (e.g., about 3, 4, 5, 6, or 7) times the thickness of structure. In still another exemplary embodiment, the distance separating two adjacent depressions is from about 3 to about 5 (e.g., about 3, 4, or 5) times the thickness of structure. The distance separating two adjacent depressions can be measured from center-to-center or edge to edge of the adjacent depressions. For instance, &#x201c;d<b>1</b>&#x201d; and &#x201c;d<b>2</b>&#x201d; in <figref idref="DRAWINGS">FIG. <b>1</b></figref> indicate the distance separating adjacent depressions in a row or column, respectively, measured from center-to-center of the adjacent depressions. &#x201c;d<b>3</b>&#x201d; in <figref idref="DRAWINGS">FIG. <b>4</b></figref> indicates the distance separating diagonally adjacent depressions measured from center-to-center of the adjacent depressions. In some exemplary embodiments, the distance separating two adjacent depressions measured from edge to edge of the adjacent depressions equals substantially the length of the gap (e.g., gap <b>125</b> or gap <b>126</b>) between the two adjacent depressions. The thickness of the structure is generally measured from the first panel wall to the second panel wall, as illustrated by &#x201c;t<b>1</b>&#x201d; (e.g., from the exterior surface of the first panel wall to the exterior surface of the second panel wall), or from the first panel wall to the top of the closed protrusion cover, as illustrated by &#x201c;t<b>2</b>&#x201d; (e.g., from the exterior surface of the first panel wall to the exterior surface of the top of the closed protrusion cover) in <figref idref="DRAWINGS">FIG. <b>2</b></figref>.</p>
+<p id="p-0077" num="0076">As a non-limiting example, in an exemplary embodiment, the distance separating two adjacent depressions in a row or a column is about 47 mm or the like. The distance separating two diagonally adjacent depressions is about 66 mm or the like. The length of the gap (e.g., the distance separating adjacent depressions measured from edge to edge of the adjacent depressions) is about 33 mm or the like. The thickness of the structure measured from the first panel wall to the second panel wall is about 9.5 mm or the like.</p>
+<p id="p-0078" num="0077">In some exemplary embodiments, structure <b>100</b> includes a plurality of protrusions, such as protrusion <b>140</b>, monolithically formed with the panel and thus creates a unitary one-piece structure. Different protrusions can be but do not have to be identical or substantially the same as each other. For instance, different protrusions can have the same or different shapes or sizes, or can be arranged in the same or different orientations. By way of example, <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>5</b></figref> illustrates the plurality of protrusions <b>140</b> monolithically formed with the second panel wall, each protruding from the second panel wall toward an exterior of the panel (e.g., protruding in a direction opposite to the first panel). In a non-limiting exemplary embodiment, the height of a protrusion (e.g., the distance measured from the second panel to the top of the protrusion) is about 3.5 mm or the like.</p>
+<p id="p-0079" num="0078">Like the depressions, protrusions <b>140</b> can be distributed uniformly, generally uniformly, or non-uniformly across at least a portion of the panel. Protrusions <b>140</b> can be formed at any suitable positions independent from depressions <b>120</b> or related to depressions <b>120</b>. The number of the protrusions can the same as or different from the number of depressions. For instance, in some exemplary embodiments, at least some protrusions (e.g., protrusions in at least a subset of the plurality of protrusions) are arranged alternately with some depressions (e.g., depressions in at least a subset of the plurality of depressions) across at least a portion of the panel. In an exemplary embodiment, all protrusions are arranged alternately with the depressions. By way of example, <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>4</b></figref> illustrate the depressions and protrusions distributed uniformly across the panel and alternating with each other.</p>
+<p id="p-0080" num="0079">In some exemplary embodiments, adjacent protrusions are separated by a distance greater than a thickness of the structure. For instance, in an exemplary embodiment, the distance separating two adjacent protrusions is more than about 2, more than about 3, or more than about 4 times the thickness of the structure. In another exemplary embodiment, the distance separating two adjacent protrusions is from about 3 to about 7 (e.g., about 3, 4, 5, 6, or 7) times the thickness of structure. In still exemplary embodiment, the distance separating two adjacent protrusions is from about 3 to about 5 (e.g., about 3, 4, or 5) times the thickness of structure. The distance separating two adjacent protrusions can be measured from center-to-center or edge to edge of the adjacent protrusions. By way of example, <figref idref="DRAWINGS">FIG. <b>1</b></figref> illustrates the distance, d<b>4</b>, separating adjacent protrusions measured from center-to-center of the adjacent protrusions. In some exemplary embodiments, the distance separating two adjacent protrusions measured from edge to edge of the adjacent protrusions equals substantially the width of the gap (e.g., gap <b>125</b> or gap <b>126</b>) between the two adjacent protrusions.</p>
+<p id="p-0081" num="0080">The distance separating adjacent protrusions can be the same as or different from the distance separating adjacent depressions. In an exemplary embodiment where the depressions and protrusions are uniformly and alternatively distributed, the distance separating adjacent protrusions measured from center-to-center of the adjacent protrusions is substantially the same as the distance separating adjacent depressions measured from center-to-center of the adjacent depressions along the same direction (e.g., along the row or column direction).</p>
+<p id="p-0082" num="0081">In some exemplary embodiments, protrusion <b>140</b> includes an open base such as open base <b>141</b>. In an exemplary embodiment, the open base of a protrusion is connected to hollow interior <b>113</b> formed between the first and second panel walls. Cross-sectional-wise, the open base can have any suitable regular or irregular shapes, including but not limited to polygon (e.g. triangle, rectangle, square, diamond), circle, oblong, oval, or the like.</p>
+<p id="p-0083" num="0082">Protrusion <b>140</b> also includes a closed cover, such as closed cover <b>142</b>, that surrounds and covers the open protrusion base. The closed protrusion cover of a protrusion can have any suitable regular or irregular shapes, including but not limited to substantially arched, rounded, dome, pointed or planar shapes. In some exemplary embodiments, for at least some protrusions, the closed protrusion cover includes a top and a side wall that surrounds the open protrusion base and connects the top with the open protrusion base.</p>
+<p id="p-0084" num="0083">For instance, by way of example, <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>5</b></figref> illustrate closed protrusion cover <b>142</b> includes a substantially arched or dome-shaped top, such as top <b>143</b>, and a side wall, such as side wall <b>144</b>, that surrounds the open protrusion base and connects the top with the open protrusion base. In an exemplary embodiment, an edge, such as edge <b>145</b>, between the top and side wall of the closed protrusion cover is arched.</p>
+<p id="p-0085" num="0084">As another example, <figref idref="DRAWINGS">FIGS. <b>11</b>-<b>15</b></figref> illustrate closed protrusion cover <b>142</b> includes a substantially planar top, such as top <b>146</b>, and a side wall, such as side wall <b>147</b>, that surrounds the open protrusion base and connects the top with the open protrusion base. In some exemplary embodiments, top <b>146</b> is substantially parallel to the second panel wall. In an exemplary embodiment, for at least a subset of protrusions, top <b>146</b> is substantially planar and parallel to the second panel wall. The planar tops collectively form (or are considered as) a third panel wall such as panel wall <b>114</b>. In some exemplary embodiments, a trench, such as trench <b>148</b> is formed between the side walls of adjacent protrusions in the subset of the plurality of protrusions. In an exemplary embodiment, the trench connects two adjacent depressions, e.g., extending from one depression to another depression adjacent to the side walls of the protrusions that form the trench. The trench has a width defined by a distance separating the two side walls of the protrusions. The width of the trench can be either greater than, equal to, or less than a width of an adjacent depression.</p>
+<p id="p-0086" num="0085">In some exemplary embodiments, the structure includes additional, optional or alternative features. For instance, referring to <figref idref="DRAWINGS">FIGS. <b>6</b>-<b>10</b></figref>, in some exemplary embodiments, a structure of the present invention includes a plurality of ribs, such as rib <b>160</b>, monolithically formed with the panel and thus creates a unitary one-piece structure. Rib <b>160</b> can have any suitable shape and size and can be oriented in any suitable orientation. Different ribs can be but do not have to be identical or substantially the same as each other. For instance, different ribs can have the same or different shapes or sizes, or can be arranged in the same or different orientations. By way of example, <figref idref="DRAWINGS">FIGS. <b>6</b>-<b>10</b></figref> illustrates the plurality of ribs <b>160</b> monolithically formed with the second panel wall and/or protrusions <b>140</b>, each protruding outwardly toward the exterior of the panel (e.g., protruding in a direction opposite to the first panel). In an exemplary embodiment, a rib is a crease, a ridge or the like formed at the second panel wall and/or protrusion. In some exemplary embodiments, a rib extends from one protrusion, across a gap (e.g., gap <b>125</b> or gap <b>126</b>), to another protrusion. In a non-limiting exemplary embodiment, the height of a rib (e.g., the distance measured from the second panel to the top of the rib) is about 3.5 mm or the like.</p>
+<p id="p-0087" num="0086">Referring now to <figref idref="DRAWINGS">FIGS. <b>16</b>-<b>19</b></figref>, there is depicted exemplary structure <b>200</b> in accordance with some exemplary embodiments of the present disclosure. As shown, structure <b>200</b> includes a panel, such as panel <b>210</b>. Like panel <b>110</b>, panel <b>210</b> usually includes multiple walls and a generally hollow interior. For instance, in some exemplary embodiments, panel <b>210</b> includes first panel wall <b>111</b>, second panel wall <b>112</b> and generally hollow interior <b>113</b>. First panel wall <b>111</b> and second panel wall <b>112</b> are spaced apart from each other (e.g., in the vertical direction of <figref idref="DRAWINGS">FIG. <b>17</b></figref>), creating generally hollow interior <b>113</b> in between.</p>
+<p id="p-0088" num="0087">In some exemplary embodiments, structure <b>200</b> includes a plurality of first depressions, such as depression <b>220</b>, monolithically formed with the panel. Like depression <b>120</b>, different depressions <b>220</b> can be but do not have to be identical or substantially the same as each other. For instance, different depressions <b>220</b> can have the same or different shapes or sizes, or can be arranged in the same or different orientations. By way of example, <figref idref="DRAWINGS">FIGS. <b>16</b> and <b>17</b></figref> illustrate substantially the same or identical depressions <b>220</b> monolithically formed with the second panel wall, each recessing from the second panel wall toward the interior of the panel (e.g., toward the first panel wall). Also, like depressions <b>120</b>, depressions <b>220</b> can be distributed uniformly, generally uniformly, or non-uniformly across at least a portion of the panel, in which adjacent depressions are generally spaced apart from each other.</p>
+<p id="p-0089" num="0088">In some exemplary embodiments, at least of a subset of the plurality of first depressions is arranged into a plurality of depression rows in a first direction (e.g., x-direction in <figref idref="DRAWINGS">FIG. <b>16</b></figref>) and a plurality of depression columns in a second direction (e.g., y-direction in <figref idref="DRAWINGS">FIG. <b>16</b></figref>) across at least a portion of the panel. Distances between different adjacent depression rows can be the same or different. Similarly, distances between different adjacent depression columns can be the same or different. In addition, a distance between adjacent depression rows can be the same as a distance between adjacent depression columns or different from a distance between adjacent depression columns. By way of example, <figref idref="DRAWINGS">FIG. <b>16</b></figref> illustrates a substantially uniform distribution with a constant distance between adjacent depression rows and between adjacent depression columns.</p>
+<p id="p-0090" num="0089">In some exemplary embodiments, structure <b>200</b> includes a plurality of first protrusions, such as first protrusion <b>230</b>, and a plurality of second protrusions, such as second protrusion <b>240</b>. The plurality of first protrusions and the plurality of second protrusions are monolithically formed with the panel, protruding from the second panel wall toward an exterior of the panel. The first protrusions are elongated in the first direction, and the second protrusions are elongated in the second direction. In an exemplary embodiment, first protrusion <b>230</b> or second protrusion <b>240</b> has a tunnel shape or the like.</p>
+<p id="p-0091" num="0090">In some exemplary embodiments, first protrusions in at least a subset of the plurality of first protrusions are arranged alternatively with depression rows in at least a subset of the plurality of depression rows. Similarly, second protrusions in at least a subset of the plurality of second protrusions are arranged alternatively with depression columns in at least a subset of the plurality of depression columns. The first protrusions in the subset of the plurality of first protrusions and the second protrusions in the subset of the plurality of second protrusions cross each other. Collectively, the first depressions, first protrusions, and second protrusions enhance a strength of the blow-molded unitary structure.</p>
+<p id="p-0092" num="0091">In some exemplary embodiments, a reinforcement member, such as reinforcement member <b>250</b>, is monolithically formed at a first depression in the plurality of first depressions. In an exemplary embodiment, the number of reinforcement members is the same as the number of first depressions, e.g., each first depression in the plurality of first depressions is formed with a reinforcement member. In another exemplary embodiment, the number of reinforcement members is different from or less than the number of first depressions, e.g., one or more first depressions in the plurality of first depressions are not formed with a reinforcement member. The reinforcement members further enhance the strength of the structure.</p>
+<p id="p-0093" num="0092">Reinforcement member <b>250</b> can be formed at a side wall of the first depression or at the bottom of the first depression. In some exemplary embodiments, the reinforcement member is formed at the bottom of the first depression and recessed further from the bottom of the first depression towards the first panel wall. In an exemplary embodiment, the reinforcement member forms a contact with the first panel wall.</p>
+<p id="p-0094" num="0093">Reinforcement member <b>250</b> can have any suitable regular or irregular shapes. In some exemplary embodiments, reinforcement member <b>250</b> includes a plurality of reinforcement elements, such as reinforcement element <b>252</b>. In an exemplary embodiment, the plurality of reinforcement elements are connected with each other at their ends. For instance, by way of example, <figref idref="DRAWINGS">FIGS. <b>16</b> and <b>18</b></figref> illustrate reinforcement member <b>250</b> having three reinforcement elements <b>252</b> connected with each other at their ends to form a three-pointed star shape.</p>
+<p id="p-0095" num="0094">First protrusion <b>230</b> and second protrusion <b>240</b> can have the same height or different heights. For instance, in an exemplary embodiment, first protrusion <b>230</b> has a height substantially the same as second protrusion <b>240</b>. In another exemplary embodiment, first protrusion <b>230</b> has a height greater than second protrusion <b>240</b>. In still another exemplary embodiment, first protrusion <b>230</b> has a height less than second protrusion <b>240</b>. The height of the first or second protrusion is generally measured from a peak of the first or second protrusion to the first panel, as illustrated by &#x201c;hi&#x201d; in <figref idref="DRAWINGS">FIG. <b>17</b></figref>.</p>
+<p id="p-0096" num="0095">In some exemplary embodiments, a height of a first or second protrusion is about 1/7 to about &#x2158; of a distance between two adjacent first depressions, about &#x2159; to about &#xbe; of a distance between two adjacent first depressions, or about &#x2155; to about &#x2154; of a distance between two adjacent first depressions. In an exemplary embodiment, the distance between two adjacent first depressions is measured from a center of one first depression to a center of the other first depression, as illustrated by &#x201c;d<b>1</b>&#x201d; in <figref idref="DRAWINGS">FIG. <b>17</b></figref>. In <figref idref="DRAWINGS">FIG. <b>17</b></figref>, &#x201c;d<b>1</b>&#x201d; and &#x201c;d<b>2</b>&#x201d; indicate the distance separating adjacent first depressions in a row or column, respectively, measured from center-to-center of the adjacent depressions. &#x201c;d<b>5</b>&#x201d; and &#x201c;d<b>6</b>&#x201d; indicate the distance separating adjacent first depressions in a row or column, respectively, measured from edge-to-edge of the adjacent depressions.</p>
+<p id="p-0097" num="0096">In some exemplary embodiments, a width of a first or second protrusion is about 1/7 to about &#xbd; of a distance between two adjacent first depressions, about &#x2159; to about &#x2156; of a distance between two adjacent first depressions, or about &#x2155; to about &#x2153; of a distance between two adjacent first depressions. In an exemplary embodiment, the width of a first or second protrusion is measured from an edge of the first or second protrusion on the second panel to an opposite edge of the first or second protrusion on the second panel, as illustrated by &#x201c;w&#x201d; in <figref idref="DRAWINGS">FIG. <b>17</b></figref>.</p>
+<p id="p-0098" num="0097">In some exemplary embodiments, first depression <b>220</b> in the plurality of depression rows or in the plurality of depression columns is surrounded by a transition member, such as transition member <b>260</b>. The transition member connects the first depression with adjacent first and second protrusions. In some exemplary embodiments, the transition member includes multiple steps. For instance, in an exemplary embodiment, the transition member includes first step <b>261</b> and second step <b>262</b>. The second step is surrounded by the first step and recessed from the first step toward the first panel wall.</p>
+<p id="p-0099" num="0098">In some exemplary embodiments, structure <b>200</b> includes additional, alternative or optional elements. For instance, in some exemplary embodiments, structure <b>200</b> includes one or more second depressions, such as second depression <b>270</b>, monolithically formed with the panel to further enhance the strength of the structure. Like first depression <b>220</b>, second depression <b>270</b> recesses from the second panel wall toward the interior of the panel. Unlike first depression <b>220</b>, second depression <b>270</b> is generally curvy and disposed along one or more edges of the panel. In some exemplary embodiments, the second depression has a substantially wave shape, as illustrated in <figref idref="DRAWINGS">FIG. <b>16</b></figref>. In an exemplary embodiment, the second depression is disposed along two, three or four edges of the panel.</p>
+<p id="p-0100" num="0099">The depressions, protrusions, ribs, trenches, reinforcement members or the like, or any combination thereof, enhance the strength of the structure and thus prevent the structure from bending, warping or deforming.</p>
+<p id="p-0101" num="0100">The terminology used herein is for the purpose of describing particular implementations only and is not intended to be limiting of the claims. As used in the description of the implementations and the appended claims, the singular forms &#x201c;a&#x201d;, &#x201c;an&#x201d; and &#x201c;the&#x201d; are intended to include the plural forms as well, unless the context clearly indicates otherwise. It will be understood that the terms &#x201c;top&#x201d; or &#x201c;bottom&#x201d;, &#x201c;lower&#x201d; or &#x201c;upper&#x201d;, and etc. are used to describe features of the exemplary embodiments with reference to the positions of such features as displayed in the figures. It will be understood that, although the terms &#x201c;first,&#x201d; &#x201c;second,&#x201d; etc. may be used herein to describe various elements, these elements should not be limited by these terms. These terms are only used to distinguish one element from another. For example, a first panel wall could be termed a second panel wall, and, similarly, a second panel wall could be termed a first panel wall, without changing the meaning of the description, so long as all occurrences of the &#x201c;first panel wall&#x201d; are renamed consistently and all occurrences of the &#x201c;second panel wall&#x201d; are renamed consistently.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A blow-molded unitary structure comprising:
+<claim-text>a panel comprising a first panel wall and a second panel wall spaced apart from the first panel wall;</claim-text>
+<claim-text>a plurality of depressions monolithically formed with the panel, each recessing from the second panel wall toward an interior of the panel, wherein each depression in the plurality of depressions comprises:
+<claim-text>an open depression top at the second panel wall;</claim-text>
+<claim-text>a closed depression bottom opposite to the open depression top; and</claim-text>
+<claim-text>a depression side wall connecting the open depression top and the closed depression bottom; and</claim-text>
+</claim-text>
+<claim-text>a plurality of protrusions monolithically formed with the panel, each protruding from the second panel wall toward an exterior of the panel, wherein each protrusion in the plurality of protrusions comprises:
+<claim-text>an open protrusion base at the second panel wall; and</claim-text>
+<claim-text>a closed protrusion cover surrounding the open protrusion base;</claim-text>
+</claim-text>
+<claim-text>wherein depressions in at least a subset of the plurality of depressions are arranged alternately with protrusions in at least a subset of the plurality of protrusions across at least a portion of the panel, and wherein the plurality of depressions and the plurality of protrusions collectively enhance a strength of the blow-molded unitary structure.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a plurality of ribs monolithically formed with the panel, each protruding outwardly toward the exterior of the panel, wherein each respective rib in at least a subset of the plurality of ribs connects corresponding adjacent protrusions in the plurality of protrusions.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second panel wall is substantially parallel to the first panel wall.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a depression is separated from its adjacent depression in the plurality of depressions by a distance that is from substantially 3 times to substantially 7 times a thickness of the structure.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the closed depression bottom is formed monolithically at the first panel wall or is a part of the first panel wall.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the subset of the plurality of depressions and the subset of the plurality of protrusions are arranged substantially uniformly across the portion of the panel.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the plurality of depressions and the plurality of protrusions are arranged substantially across the panel.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the closed protrusion cover of each protrusion in at least a subset of the plurality of protrusions is substantially rounded.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the closed protrusion cover of each protrusion in at least a subset of the plurality of protrusions comprises a top and a side wall connecting the top with the open protrusion base of each respective protrusion.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the top of the closed protrusion cover is arched or dome-shaped.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein an edge between the top and side wall of the closed protrusion cover is arched.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the top of the closed protrusion cover is substantially planar and parallel to the second panel wall.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein a trench is formed between the side walls of adjacent protrusions in the subset of the plurality of protrusions.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the trench connects two depressions adjacent to the side walls.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the trench has a width that is substantially equal to or less than a width of any one of the two depressions.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. A blow-molded unitary structure comprising:
+<claim-text>a panel comprising a first panel wall and a second panel wall spaced apart from the first panel wall;</claim-text>
+<claim-text>a plurality of depressions monolithically formed with the panel, each recessing from the second panel wall toward an interior of the panel; and</claim-text>
+<claim-text>a plurality of protrusions monolithically formed with the panel, each protruding from the second panel wall toward an exterior of the panel, wherein each protrusion in the plurality of protrusions comprises:
+<claim-text>an open protrusion base at the second panel wall; and</claim-text>
+<claim-text>a closed protrusion cover surrounding the open protrusion base, wherein the closed protrusion cover of each protrusion in at least a subset of the plurality of protrusions comprises a substantially planar top and a side wall connecting the substantially planar top with the open protrusion base of each respective protrusion, and wherein a trench is formed between the side walls of adjacent protrusions in the subset of the plurality of protrusions, and connects two depressions adjacent to the side walls.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the trench has a width that is substantially equal to or less than a width of any one of the two depressions.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. A blow-molded unitary structure comprising:
+<claim-text>a panel comprising a first panel wall and a second panel wall spaced apart from the first panel wall;</claim-text>
+<claim-text>a plurality of depressions monolithically formed with the panel, each recessing from the second panel wall toward an interior of the panel;</claim-text>
+<claim-text>a plurality of protrusions monolithically formed with the panel, each protruding from the second panel wall toward an exterior of the panel, wherein each protrusion in the plurality of protrusions comprises:
+<claim-text>an open protrusion base at the second panel wall; and</claim-text>
+<claim-text>a closed protrusion cover surrounding the open protrusion base; and</claim-text>
+</claim-text>
+<claim-text>a plurality of ribs monolithically formed with the panel, each protruding outwardly toward the exterior of the panel, wherein each respective rib in at least a subset of the plurality of ribs connects corresponding adjacent protrusions in the plurality of protrusions.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the closed protrusion cover of each protrusion in at least a subset of the plurality of protrusions comprises an arched or dome-shaped top and a side wall connecting the arched or dome-shaped top with the open protrusion base of each respective protrusion.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein an edge between the arched or dome-shaped top and side wall of the closed protrusion cover is arched.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. A blow-molded unitary structure comprising:
+<claim-text>a panel comprising a first panel wall and a second panel wall spaced apart from the first panel wall;</claim-text>
+<claim-text>a plurality of first protrusions monolithically formed with the panel, each protruding from the second panel wall toward an exterior of the panel and elongated in the first direction; and</claim-text>
+<claim-text>a plurality of second protrusions monolithically formed with the panel, each protruding from the second panel wall toward an exterior of the panel and elongated in the second direction;</claim-text>
+<claim-text>wherein:
+<claim-text>at least a subset of the plurality of first depressions is arranged into a plurality of depression rows in a first direction and a plurality of depression columns in a second direction across at least a portion of the panel;</claim-text>
+<claim-text>first protrusions in at least a subset of the plurality of first protrusions are arranged alternatively with depression rows in at least a subset of the plurality of depression rows;</claim-text>
+<claim-text>second protrusions in at least a subset of the plurality of second protrusions are arranged alternatively with depression columns in at least a subset of the plurality of depression columns;</claim-text>
+<claim-text>the first protrusions in the subset of the plurality of first protrusions and the second protrusions in the subset of the plurality of second protrusions cross each other; and</claim-text>
+<claim-text>the plurality of first depressions, the plurality of first protrusions, and the plurality of second protrusions collectively enhance a strength of the blow-molded unitary structure.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00021">claim 21</claim-ref>, further comprising:
+<claim-text>a plurality of reinforcement members, each monolithically formed at a first depression in the plurality of first depressions.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the number of reinforcement members is the same as the number of first depressions, and one reinforcement is formed at each first depression in the plurality of first depressions.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein each reinforcement member in the plurality of reinforcement members is formed at a depression bottom of a corresponding first depression in the plurality of first depressions.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein each reinforcement member in the plurality of reinforcement members is recessed from the depression bottom of the corresponding first depression in the plurality of first depressions towards the first panel wall.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein the reinforcement member comprises a plurality of reinforcement elements connected with each other at ends thereof.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein a first protrusion in the plurality of first protrusions and a second protrusion in the plurality of second protrusions have different heights.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein a height of a first protrusion in the plurality of first protrusions or a second protrusion in the plurality of second protrusions is about 1/7 to about &#x2158; of a distance between two adjacent first depressions, about &#x2159; to about &#xbe; of the distance between two adjacent first depressions, or about &#x2155; to about &#x2154; of the distance between two adjacent first depressions.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00028">claim 28</claim-ref>, wherein the distance between two adjacent first depressions is measured from a center of one first depression to a center of the other first depression.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein a width of a first protrusion in the plurality of first protrusions or a second protrusion in the plurality of second protrusions is about 1/7 to about &#xbd; of a distance between two adjacent first depressions, about &#x2159; to about &#x2156; of the distance between two adjacent first depressions, or about &#x2155; to about &#x2153; of the distance between two adjacent first depressions.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text><b>31</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00030">claim 30</claim-ref>, wherein the distance between two adjacent first depressions is measured from a center of one first depression to a center of the other first depression.</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text><b>32</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein a first depression in the plurality of depression rows or in the plurality of depression columns is surrounded by a transition member that connects the first depression with adjacent first and second protrusions.</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text><b>33</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00032">claim 32</claim-ref>, wherein the transition member comprises a first step and a second step.</claim-text>
+</claim>
+<claim id="CLM-00034" num="00034">
+<claim-text><b>34</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00021">claim 21</claim-ref>, further comprising:
+<claim-text>a second depression monolithically formed with the panel and recessing from the second panel wall toward the interior of the panel, wherein the second depression is curvy and disposed along one or more edges of the panel.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00035" num="00035">
+<claim-text><b>35</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00034">claim 34</claim-ref>, wherein the second depression has a substantially wave shape.</claim-text>
+</claim>
+<claim id="CLM-00036" num="00036">
+<claim-text><b>36</b>. The blow-molded unitary structure of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein a first protrusion in the plurality of first protrusions or a second protrusion in the plurality of second protrusion has a tunnel shape.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

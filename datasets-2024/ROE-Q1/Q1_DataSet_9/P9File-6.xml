@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225345A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225345</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18151319</doc-number>
+<date>20230106</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EP</country>
+<doc-number>17151473.0</doc-number>
+<date>20170113</date>
+</priority-claim>
+<priority-claim sequence="02" kind="regional">
+<country>EP</country>
+<doc-number>17173248.0</doc-number>
+<date>20170529</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>9</main-group>
+<subgroup>12</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>12</class>
+<subclass>N</subclass>
+<main-group>9</main-group>
+<subgroup>38</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>9</main-group>
+<subgroup>13</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>9</main-group>
+<subgroup>1206</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>N</subclass>
+<main-group>9</main-group>
+<subgroup>2471</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>9</main-group>
+<subgroup>1322</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Y</subclass>
+<main-group>302</main-group>
+<subgroup>01023</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Y</subclass>
+<main-group>302</main-group>
+<subgroup>01108</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e79">STERILE FILTERED LACTASE PREPARATION COMPRISING SALT WITH MONOVALENT CATION</invention-title>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16473118</doc-number>
+<date>20190624</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11576393</doc-number>
+</document-id>
+</parent-grant-document>
+<parent-pct-document>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2018/050758</doc-number>
+<date>20180112</date>
+</document-id>
+</parent-pct-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18151319</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Novozymes A/S</orgname>
+<address>
+<city>Bagsvaerd</city>
+<country>DK</country>
+</address>
+</addressbook>
+<residence>
+<country>DK</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Hobel</last-name>
+<first-name>Cedric</first-name>
+<address>
+<city>Lyngby</city>
+<country>DK</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Jensen</last-name>
+<first-name>Karen</first-name>
+<address>
+<city>Bagsvaerd</city>
+<country>DK</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Novozymes A/S</orgname>
+<role>03</role>
+<address>
+<city>Bagsvaerd</city>
+<country>DK</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention relates to a sterile-filtered liquid lactase preparation and to a method of sterile filtering a liquid lactase preparation.</p>
+</abstract>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a Divisional of U.S. application Ser. No. 16/473,118 filed on Jun. 24, 2019 (now pending) which is a 35 U.S.C. 371 national application of international application no. PCT/EP2018/050758 filed Jan. 12, 2018, which claims priority or the benefit under 35 U.S.C. 119 of European application nos. 17151473.0 and 17173248.0 filed Jan. 13, 2017 and May 29, 2017, respectively. The content of each application is fully incorporated herein by reference.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">REFERENCE TO SEQUENCE LISTING</heading>
+<p id="p-0003" num="0002">This application contains a Sequence Listing in computer readable form. The computer readable form is incorporated herein by reference. The name of the file containing the Sequence Listing is SQ.XML, which was created on Jan. 3, 2023 and has 3,310 bytes .</p>
+<heading id="h-0003" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0004" num="0003">The present invention relates to sterile filtration of a liquid lactase preparation.</p>
+<heading id="h-0004" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0005" num="0004">Lactase enzymes, which are also sometimes referred to as beta-galactosidase enzymes, are used commercially to break down lactose in milk to produce dairy products which are suitable for people with lactose intolerance and/or have a sweeter taste. Lactases have been isolated from a large variety of organisms, including microorganisms, such as yeast and bacteria.</p>
+<p id="p-0006" num="0005">WO 2009/071539 discloses use of a C-terminally truncated fragment of the extracellular lactase from <i>Bifidobacterium bifidum </i>in the production of low-lactose dairy products.</p>
+<p id="p-0007" num="0006">Lactase may be added to milk either before or after pasteurisation or sterilization. In general lac-tase will be inactivated during pasteurisation or sterilization treatment. When lactase is added before sterilization, a large amount of lactase may be required in order to reduce the storage time between addition and pasteurisation/sterilization. Alternatively, lactase may be added after pasteurisation/sterilization of the milk. In this case, lactase may be added in a lower amount, as the enzyme can digest lactose during transport and storage in the factory, shop and/or in the refrigerator of the consumer. Lactase to be added after pasteurisation/sterilization of the milk has to be sterile. One preferred way of sterilizing lactase is by sterile filtration. Sterile filtration of the lactase may be performed in-line within the production process of the lactose-free milk, for example using the Aldose&#xae; system (Tetrapak International S.A., Pully, Switzerland), or it may be performed at the production site of the lactase manufacturer. The sterile lactase solution is then dosed aseptically into the milk, for instance by means of the Flexdos&#xae; system (Tetrapak International S.A., Pully, Switzerland). Sterile filtration of the lactase solution is achieved by pumping the enzyme concentrate through a at least one filter with an absolute pore size of 0.22 &#x3bc;m, and that will retain particles such as fungi, bacteria, spores still present in the solution. Prior to passing through the sterile filters, the solution may be pumped through one or several pre-filters with a larger pore size than 0.22 &#x3bc;m and that will retain large particle but will not contribute to sterility of the lactase solution.</p>
+<p id="p-0008" num="0007">Commercial lactase preparations used by the dairy processing industry are often aqueous solution to which one or more stabilizing agents have been added, such as glycerol. Glycerol promotes microbial as well as enzymatic stabilization. Lactase preparations comprising, e.g., 50% glycerol are somewhat viscous and may not be treated easily through sterile filters.</p>
+<p id="p-0009" num="0008">Improved formulations of sterile lactase are still needed, e.g., liquid formulations which can be more easily processed through sterile filters.</p>
+<p id="p-0010" num="0009">WO2015/132349 discloses use of e.g. sodium chloride in an aqueous liquid lactase formulation. WO 2016/071500 discloses use of e.g. sodium chloride in a spray-dried composition of a beta-galactosidase enzyme. Possible ultrafiltration of the enzyme-containing fermentation broth is suggested as a possible means for concentrating the enzyme prior to its formulation. Sterile filtration is not mentioned in any of these disclosures.</p>
+<heading id="h-0005" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0011" num="0010">The present inventors have surprisingly found that addition of salt to a liquid lactase preparation improves its ability to be passed through a sterile filter. In particular, it is surprising that addition of monovalent cation to a liquid lactase preparation improves its ability to be passed through a sterile filter.</p>
+<p id="p-0012" num="0011">The invention therefore provides a sterile-filtered liquid lactase preparation comprising at least one salt having a monovalent or divalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w.</p>
+<p id="p-0013" num="0012">The invention in one embodiment provides a sterile-filtered liquid lactase preparation comprising at least one salt having a monovalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w.</p>
+<p id="p-0014" num="0013">The invention further provides a method of sterile filtering a liquid lactase preparation, which comprises the steps of:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0014">a. providing a liquid lactase preparation comprising at least one salt having a monovalent or divalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w, and</li>
+        <li id="ul0002-0002" num="0015">b. sterile filtering said lactase preparation.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0015" num="0016">The invention further provides a method of sterile filtering a liquid lactase preparation, which comprises the steps of:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0017">a. providing a liquid lactase preparation,</li>
+        <li id="ul0004-0002" num="0018">b. adding to said liquid lactase preparation at least one salt having a monovalent or divalent cation, wherein the at least one salt is added at a concentration of at least 0.01% w/w of the lactase preparation which is to be sterile filtered, and</li>
+        <li id="ul0004-0003" num="0019">c. sterile filtering the lactase preparation obtained in step b.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0016" num="0020">The invention further provides a method of sterile filtering a liquid lactase preparation, which comprises the steps of:
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0000">
+    <ul id="ul0006" list-style="none">
+        <li id="ul0006-0001" num="0021">a. providing a liquid lactase preparation comprising at least one salt having a monovalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w, and</li>
+        <li id="ul0006-0002" num="0022">b. sterile filtering said lactase preparation.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0017" num="0023">The invention further provides a method of sterile filtering a liquid lactase preparation, which comprises the steps of:
+<ul id="ul0007" list-style="none">
+    <li id="ul0007-0001" num="0000">
+    <ul id="ul0008" list-style="none">
+        <li id="ul0008-0001" num="0024">a. providing a liquid lactase preparation,</li>
+        <li id="ul0008-0002" num="0025">b. adding to said liquid lactase preparation at least one salt having a monovalent cation, wherein the at least one salt is added at a concentration of at least 0.01% w/w of the lactase preparation which is to be sterile filtered, and</li>
+        <li id="ul0008-0003" num="0026">c. sterile filtering the lactase preparation obtained in step b.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0018" num="0027">The invention further provides a method of improving the filterability of a liquid lactase preparation, which comprises addition to the lactase preparation of at least one salt selected among NaCl, KCl, NH<sub>4</sub>Cl, MgCl<sub>2</sub>, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, MgSO<sub>4 </sub>or a combination thereof, preferably, NaCl, KCl, MgCl<sub>2</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4 </sub>or a combination thereof, wherein the salt is added at a concentration of at least 0.01% w/w of the lactase preparation.</p>
+<p id="p-0019" num="0028">Finally, the invention provides the use of at least one salt selected among NaCl, KCl, NH<sub>4</sub>Cl, MgCl<sub>2</sub>, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, MgSO<sub>4 </sub>or a combination thereof, preferably, NaCl, KCl, MgCl<sub>2</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4 </sub>or a combination thereof, for improving the filterability of a liquid lactase preparation.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0020" num="0029">The present invention provides a sterile-filtered liquid lactase preparation comprising at least one salt having a monovalent or divalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w.</p>
+<p id="p-0021" num="0030">The salt may be any salt having a monovalent or divalent cation. The lactase preparation may comprise more than one salt having a monovalent or divalent cation. In that case, the feature of at least 0.01% w/w refers to the combined concentrations of the individual salts.</p>
+<p id="p-0022" num="0031">The skilled person will know how to determine the individual concentrations of each salt having a monovalent or divalent cation. It may be determined, e.g., by inductive coupled plasma optical emission spectrometry (ICP-OES). The associated anions may be determined by e.g. Dionex&#x2122; ion chromatography (DionexTM-IC; Thermo Scientific&#x2122;, Waltham, Mass., USA).</p>
+<p id="p-0023" num="0032">The liquid lactase preparation of the invention is an aqueous liquid lactase preparation and may be any composition or solution comprising water. The preparation may comprise, e.g., at least 20% w/w of water, such as at least 30% w/w, at least 40% w/w or at least 50% w/w of water.</p>
+<p id="p-0024" num="0033">&#x201c;Sterile-filtered&#x201d; in the context of the present invention means that the liquid lactase preparation has been passed through a sterile filter, preferably a sterile filter with an absolute pore size of about 0.22 &#x3bc;m. More preferably, the sterile filter is membrane-based and is manufactured using either hydrophilic polyvinylidene fluoride (PVDF) or hydrophilic polyethersulfone (PES).</p>
+<p id="p-0025" num="0034">The at least one salt may be a salt of Na<sup>+</sup>, K<sup>+</sup>, NH<sub>4</sub><sup>+</sup> or Mg<sup>++</sup> (also referred to herein as Mg<sup>2+</sup>), preferably Na<sup>+</sup> or K<sup>+</sup>, more preferably Na<sup>+</sup>. The at least one salt may be selected among NaCl, KCl, NH<sub>4</sub>Cl, MgCl<sub>2</sub>, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, MgSO<sub>4 </sub>or a combination thereof, preferably, NaCl, KCl, MgCl<sub>2</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4 </sub>or a combination thereof, more preferably NaCl.</p>
+<p id="p-0026" num="0035">The at least one salt may be a salt which is approved for use in food in at least EU.</p>
+<p id="p-0027" num="0036">The total final concentration of the at least one salt may be at least 0.01% w/w, preferably at least 0.015% w/w, more preferably at least 0.02% w/w such as at least 0.1% w/w.</p>
+<p id="p-0028" num="0037">The total final concentration of the at least one salt may be 0.01-5% w/w, preferably 0.015-4% w/w, more preferably 0.02-3% w/w or 0.1-2% w/w.</p>
+<p id="p-0029" num="0038">In further embodiments, the total final concentration of the at least one salt may be in the range from 0.01-5%, such as 0.01 -4.5%, for example 0.01-4.2%, such as 0.01 -3.5%, or for example 0.01-1.5%; or for example in the range from 0.01- 5%%, such as 0.05- 5%, 0.1-5%, 0.5- 5%, 0.8- 5%, 1.2- 5%, 2- 5% or for example in the range from 0.5 -5%, such as 0.5-4%, or 0.6-3.8%, such as 0.7 -3.5%, for example 0.7- 3%, such as 0.7- 2.5% or for example 0.8 -2%, or 0.8-1.5% or for example 1.2- 3%, such as 1.3-3% or 1.3 to 2%, in particular 0.8-1.5% or 1.3 to 2%, all percentages being w/w.</p>
+<p id="p-0030" num="0039">The present invention further provides a sterile-filtered liquid lactase preparation comprising at least one salt having a monovalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w.</p>
+<p id="p-0031" num="0040">The salt may be any salt having a monovalent cation. The lactase preparation may comprise more than one salt having a monovalent cation. Also in this case, the feature of at least 0.01% w/w refers to the combined concentrations of the individual salts.</p>
+<p id="p-0032" num="0041">The at least one salt having a monovalent cation may be a salt of Na+, K+or NH4+.</p>
+<p id="p-0033" num="0042">The at least one salt having a monovalent cation may be selected among NaCl, KCl, NH<sub>4</sub>Cl, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, or a combination thereof, preferably, NaCl, KCl, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4 </sub>or a combination thereof, more preferably NaCl.</p>
+<p id="p-0034" num="0043">The liquid lactase preparation according to the invention may comprise at least one salt having a monovalent cation, as well as further comprising at least one salt having a divalent cation.</p>
+<p id="p-0035" num="0044">Also in this case, the feature of at least 0.01% w/w refers to the combined concentrations of the individual salts.</p>
+<p id="p-0036" num="0045">A particular embodiment relates to a liquid lactase preparation according to the invention comprising at least one salt having a monovalent cation, and further comprising at least one salt having a divalent cation, preferably at least one salt of Mg<sup>++</sup>.</p>
+<p id="p-0037" num="0046">The concentration of lactase in the lactase preparation of the invention may be anywhere between 10 and 5000 LAU-B/g, such as 20-2600 LAU-B/g, 30-2000 LAU-B/g, 50-1300 LAU-B/g or 200-1300 LAU-B/g.</p>
+<p id="p-0038" num="0047">In the context of the present invention, the activity in LAU-B/g of a specific lactase may be determined by direct measurement of o-nitrophenyl (ONP) released from o-nitrophenyl &#x3b2;-D-galactopyranoside (ONPG) in a buffer containing 1.46 mg/ml substrate in 0.05 M MES, 1 mM MgSO<sub>4 </sub>7H<sub>2</sub>O, 450 mg/L Brij 35 at pH6.5 and 30&#xb0; C. After 600 seconds incubation, the reaction is stopped by adding 0.2 M Na<sub>2</sub>CO<sub>3 </sub>and the released ONP is measured at 405 nm after 126 seconds incubation. The skilled person will know how to execute this assay and determine such activity. Here, the activity is obtained by comparing to a standard curve run with a lactase of known activity, and the activity of the unknown sample calculated from this. The lactase of known activity may, e.g., be Saphera&#xae; obtained from Novozymes A/S, Denmark.</p>
+<p id="p-0039" num="0048">A lactase in the context of the present invention is any glycoside hydrolase having the ability to hydrolyse the disaccharide lactose into constituent galactose and glucose monomers. The group of lactases comprises but is not limited to enzymes assigned to subclass EC 3.2.1.108. Enzymes assigned to other subclasses, such as, e.g., EC 3.2.1.23, may also be lactases in the context of the present invention. A lactase in the context of the invention may have other activities than the lactose hydrolysing activity, such as for example a transgalactosylating activity. In the context of the invention, the lactose hydrolysing activity of the lactase may be referred to as its lactase activity or its beta-galactosidase activity.</p>
+<p id="p-0040" num="0049">The lactase may be of animal, of plant or of microbial origin. Preferred enzymes are obtained from microbial sources, in particular from a filamentous fungus or yeast, or from a bacterium.</p>
+<p id="p-0041" num="0050">In a preferred embodiment, the lactase is obtained from a bacterium, e.g. from the family Bifidobacteriaceae, such as from the genus Bifidobacterium, such as from a strain of <i>B. bifidum, B. animalis </i>or <i>B. longum. </i>In a more preferred embodiment, the lactase is obtained from <i>Bifidobacterium bifidum. </i></p>
+<p id="p-0042" num="0051">In another preferred embodiment, the lactase is a C-terminally truncated form of a lactase obtained from the family Bifidobacteriaceae, such as from the genus <i>Bifidobacterium, </i>such as from a strain of <i>B. bifidum, B. animalis </i>or <i>B. longum. </i>In a more preferred embodiment, the lactase is a C-terminally truncated form of a lactase obtained from <i>Bifidobacterium bifidum. </i></p>
+<p id="p-0043" num="0052">A preferred enzyme is a lactase having a sequence which is at least 50%, such as at least 60%, at least 70%, at least 75%, at least 80%, at least 85%, at least 90%, at least 95%, at least 96%, at least 97%, at least 98%, at least 99% or 100% identical to SEQ ID NO: 1 or to a lactase active fragment thereof. Such lactase active fragment of SEQ ID NO: 1 may be any fragment of SEQ ID NO: 1 having lactase activity.</p>
+<p id="p-0044" num="0053">For purposes of the present invention, the degree of identity between two amino acid sequences is determined using the Needleman-Wunsch algorithm (Needleman and Wunsch (1970) J. Mol. Biol. 48: 443-453) as implemented in the Needle program of the EMBOSS package (EMBOSS: The European Molecular Biology Open Software Suite, Rice et al. (2000) Trends in Genetics 16: 276-277), preferably version 3.0.0 or later. The optional parameters used are gap open penalty of 10, gap extension penalty of 0.5, and the EBLOSUM62 (EMBOSS version of BLOSUM62) substitution matrix. The output of Needle labelled &#x201c;longest identity&#x201d; (obtained using the -no brief option) is used as the percent identity and is calculated as follows:</p>
+<p id="p-0045" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>(Identical Residues&#xd7;100)/(Length of Alignment&#x2212;Total Number of Gaps in Alignment)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0046" num="0054">The lactase may have a C-terminal end corresponding to amino acid 1304 of SEQ ID NO: 1.</p>
+<p id="p-0047" num="0055">Alternatively, the lactase may be a fragment which is at least 50%, such as at least 60%, at least 70%, at least 75%, at least 80%, at least 85%, at least 90%, at least 95%, at least 96%, at least 97%, at least 98%, at least 99% or 100% identical to a lactase active fragment of SEQ ID NO: 1. It may be a fragment having a C-terminal end corresponding to amino acid 887 of SEQ ID NO: 1. Or it may be a fragment having a C-terminal end corresponding to amino acid 965 of SEQ ID NO: 1. Or it may be a fragment having a C-terminal end corresponding to amino acid 1038 of SEQ ID NO: 1. Or it may be a fragment having a C-terminal end corresponding to amino acid 1142, 1211 or 1296 of SEQ ID NO: 1.</p>
+<p id="p-0048" num="0056">The lactase may be extracellular. It may have a signal sequence at its N-terminus, which is cleaved off during secretion.</p>
+<p id="p-0049" num="0057">The lactase may be obtained from any organism. The term &#x201c;obtained from&#x201d; means in this context that the enzyme may have been isolated from an organism where it is present natively, i.e. the identity of the amino acid sequence of the enzyme are identical to a native enzyme. The term &#x201c;obtained&#x201d; also means that the enzymes may have been produced recombinantly in a host organism, the recombinantly produced enzyme having either an identity identical to a native enzyme or having a modified amino acid sequence, e.g. having one or more amino acids which are deleted, inserted and/or substituted, i.e. a recombinantly produced enzyme which is a mutant and/or a fragment of a native amino acid sequence. Within the meaning of a native enzyme are included natural variants. Furthermore, the term &#x201c;obtained from&#x201d; includes enzymes produced synthetically by, e.g., peptide synthesis. The term &#x201c;obtained from&#x201d; also encompasses enzymes which have been modified e.g. by glycosylation, phosphorylation etc., whether in vivo or in vitro. With respect to recombinantly produced enzyme the term &#x201c;obtained from&#x201d; refers to the identity of the enzyme and not the identity of the host organism in which it is produced recombinantly.</p>
+<p id="p-0050" num="0058">The lactase may be produced from a microorganism by use of any suitable technique. For instance, a lactase enzyme preparation may be produced by fermentation of a suitable microorganism and subsequent isolation of a lactase preparation from the resulting fermented broth or microorganism by methods known in the art. The lactase may also be produced by use of recombinant DNA techniques. Such method normally comprises cultivation of a host cell transformed with a recombinant DNA vector comprising a DNA sequence encoding the lactase in question and the DNA sequence being operationally linked with an appropriate expression signal such that it is capable of expressing the lactase in a culture medium under conditions permitting the expression of the enzyme and recovering the enzyme from the culture. The DNA sequence may also be incorporated into the genome of the host cell. The DNA sequence may be of genomic, cDNA or synthetic origin or any combinations of these, and may be isolated or synthesized in accordance with methods known in the art.</p>
+<p id="p-0051" num="0059">The lactase may be purified. The term &#x201c;purified&#x201d; as used herein covers lactase enzyme protein essentially free from insoluble components from the production organism. The term &#x201c;purified&#x201d; also covers lactase enzyme protein essentially free from insoluble components from the native organism from which it is obtained. Preferably, it is also separated from some of the soluble components of the organism and culture medium from which it is derived. More preferably, it is separated by one or more of the unit operations: filtration, precipitation, or chromatography.</p>
+<p id="p-0052" num="0060">Accordingly, the lactase may be purified, viz. only minor amounts of other proteins being present. The expression &#x201c;other proteins&#x201d; relate in particular to other enzymes. The term &#x201c;purified&#x201d; as used herein also refers to removal of other components, particularly other proteins and most particularly other enzymes present in the cell of origin of the lactase. The lactase may be &#x201c;substantially pure&#x201d;, i.e. substantially free from other components from the organism in which it is produced, i.e., e.g., a host organism for recombinantly produced lactase.</p>
+<p id="p-0053" num="0061">The lactase in the preparation is preferably a neutral lactase. The neutral lactase preferably is active, or has its optimal activity, at a pH between pH 4 and pH 8, preferably between pH 5 and pH 7.</p>
+<p id="p-0054" num="0062">The lactase is preferably an extracellular produced neutral lactase.</p>
+<p id="p-0055" num="0063">The lactase in the preparation of the invention may be obtained as an optionally concentrated extract e.g. from a fungal, a yeast or a bacterial production strain. Preferably such extract has undergone a solid-liquid separation step, by e.g. centrifugation or filtration, to remove the solids. Such extract may contain natural components from the production cells as well as remainders of the fermentation media. Examples of such components are nucleic acid, protein, residual sugars, oligosaccharides, intrinsic enzymes, salts, minerals, intracellular components, ions, and nucleotides or other components. These components may end up, to some extent, in the lactase preparation of the invention.</p>
+<p id="p-0056" num="0064">The lactase in the preparation of the invention may be a concentrated non-purified lactase or it may have been purified. A concentrated non-purified lactase may have been obtained by releasing the enzyme from the host cells, removing the solids for instance by means of filtration or centrifugation and by concentrating the liquid phase comprising the lactase by means of for instance ultrafiltration. Alternatively, the lactase may have been purified, for example by using chromatography.</p>
+<p id="p-0057" num="0065">The pH of a lactase preparation of the invention may be in the range of pH 4-9, such as pH 5-8 or pH 5.5-7.5.</p>
+<p id="p-0058" num="0066">The lactase preparation of the invention is preferably enzymatically stable, more preferably microbially and enzymatically stable.</p>
+<p id="p-0059" num="0067">The lactase preparation of the invention may comprise at least one stabilizing formulation chemical at a concentration of 10-70% w/w, preferably 30-60% w/w. The stabilizing formulation chemical may be a polyol, preferably a polyol selected among glycerol, sorbitol, monopropylene glycol, sucrose, glucose, galactose or lactose, or combinations thereof, more preferably glycerol.</p>
+<p id="p-0060" num="0068">Particular embodiments of the invention relate to a sterile-filtered liquid lactase preparation comprising at least one salt having a monovalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w, further wherein said preparation comprises a stabilizing formulation chemical as described above. Further particular embodiments of the invention relate to a sterile-filtered liquid lactase preparation comprising at least one salt having a monovalent cation as well as at least one salt having a divalent cation, wherein the total concentration of said salts is at least 0.01% w/w; further wherein said preparation comprises a stabilizing formulation chemical as described above.</p>
+<p id="p-0061" num="0069">The present invention also provides a method of sterile filtering a liquid lactase preparation, which comprises the steps of:
+<ul id="ul0009" list-style="none">
+    <li id="ul0009-0001" num="0000">
+    <ul id="ul0010" list-style="none">
+        <li id="ul0010-0001" num="0070">a. providing a liquid lactase preparation comprising at least one salt having a monovalent or divalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w, and</li>
+        <li id="ul0010-0002" num="0071">b. sterile filtering said lactase preparation.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0062" num="0072">The salt may be any salt having a monovalent or divalent cation. The lactase preparation to be used in a method of the invention may comprise more than one salt having a monovalent or divalent cation. In that case, the feature of at least 0.01% w/w refers to the combined concentrations of the individual salts. The liquid lactase preparation to be used in a method of the invention is an aqueous liquid lactase preparation and may be any composition or solution comprising water. The preparation may comprise, e.g., at least 20% w/w of water, such as at least 30% w/w, at least 40% w/w or at least 50% w/w of water.</p>
+<p id="p-0063" num="0073">The at least one salt may be a salt of Na<sup>+</sup>, K<sup>+</sup>, NH<sub>4</sub><sup>+</sup> or Mg<sup>++</sup>, preferably Na<sup>+</sup> or K<sup>+</sup>, more preferably Na<sup>+</sup>.</p>
+<p id="p-0064" num="0074">The at least one salt may be selected among NaCl, KCl, NH<sub>4</sub>Cl, MgCl<sub>2</sub>, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, MgSO<sub>4 </sub>or a combination thereof, preferably, NaCl, KCl, MgC<sub>12</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4 </sub>or a combination thereof, more preferably NaCl.</p>
+<p id="p-0065" num="0075">The total final concentration of the at least one salt may be at least 0.01% w/w, preferably at least 0.015% w/w, more preferably at least 0.02% w/w such as at least 0.1% w/w.</p>
+<p id="p-0066" num="0076">The total final concentration of the at least one salt may be 0.01-5% w/w, preferably 0.015-4% w/w, more preferably 0.02-3% w/w or 0.1-2% w/w.</p>
+<p id="p-0067" num="0077">The present invention also provides a method of sterile filtering a liquid lactase preparation, which comprises the steps of:
+<ul id="ul0011" list-style="none">
+    <li id="ul0011-0001" num="0000">
+    <ul id="ul0012" list-style="none">
+        <li id="ul0012-0001" num="0078">a. providing a liquid lactase preparation comprising at least one salt having a monovalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w, and</li>
+        <li id="ul0012-0002" num="0079">b. sterile filtering said lactase preparation.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0068" num="0080">The at least one salt having a monovalent cation may be any salt having a monovalent cation., such as selected from a salt of Na+, K+or NH4+. In some embodiments, the at least one salt having a monovalent ion may be selected among NaCl, KCl, NH4Cl, Na2SO4, K2SO4, (NH4)2SO4, or a combination thereof, preferably, NaCl, KCl, (NH4)2SO4, Na2SO4 or a combination thereof, more preferably NaCl.</p>
+<p id="p-0069" num="0081">The lactase preparation to be used in a method of the invention may comprise more than one salt having a monovalent cation. In that case, the feature of at least 0.01% w/w refers to the combined concentrations of the individual salts.</p>
+<p id="p-0070" num="0082">The liquid lactase preparation to be used in a method of the invention may comprise at least one salt having a monovalent cation, as well as at least one salt having a divalent cation. Also in this case, the feature of at least 0.01% w/w refers to the combined concentrations of the individual salts.</p>
+<p id="p-0071" num="0083">A particular embodiment relates to a liquid lactase to be used in the method of the invention, said lactase comprising at least one salt having a monovalent cation, and further comprising at least one salt having a divalent cation, preferably at least one salt of Mg++.</p>
+<p id="p-0072" num="0084">A particular embodiment relates to a liquid lactase to be used in the method of the invention, said lactase comprising at least one salt having a monovalent cation, and at least one salt having a divalent cation, preferably at least one salt of Mg++, and further comprising at least one stabilizing formulation chemical as described above.</p>
+<p id="p-0073" num="0085">The concentration of lactase in the lactase preparation to be used in a method of the invention may be anywhere between 10 and 5000 LAU-B/g, such as 20-2600 LAU-B/g, 30-2000 LAU-B/g, 50-1300 LAU-B/g or 200-1300 LAU-B/g.</p>
+<p id="p-0074" num="0086">In a preferred embodiment, the lactase to be used in a method of the invention is obtained from a bacterium, e.g. from the family Bifidobacteriaceae, such as from the genus Bifidobacterium, such as from a strain of B. bifidum, B. animalis or B. longum. In a more preferred embodiment, the lactase is obtained from Bifidobacterium bifidum.</p>
+<p id="p-0075" num="0087">In another preferred embodiment, the lactase is a C-terminally truncated form of a lactase obtained from the family Bifidobacteriaceae, such as from the genus Bifidobacterium, such as from a strain of B. bifidum, B. animalis or B. longum. In a more preferred embodiment, the lactase is a C-terminally truncated form of a lactase obtained from Bifidobacterium bifidum.</p>
+<p id="p-0076" num="0088">A preferred enzyme is a lactase having a sequence which is at least 50%, such as at least 60%, at least 70%, at least 75%, at least 80%, at least 85%, at least 90%, at least 95%, at least 96%, at least 97%, at least 98%, at least 99% or 100% identical to SEQ ID NO: 1 or to a lactase active fragment thereof. Such lactase active fragment of SEQ ID NO: 1 may be any fragment of SEQ ID NO: 1 having lactase activity.</p>
+<p id="p-0077" num="0089">The lactase may have a C-terminal end corresponding to amino acid 1304 of SEQ ID NO: 1.</p>
+<p id="p-0078" num="0090">The lactase may be extracellular. It may have a signal sequence at its N-terminus, which is cleaved off during secretion.</p>
+<p id="p-0079" num="0091">The lactase in the preparation to be used in a method of the invention is preferably a neutral lactase. The neutral lactase preferably is active, or has its optimal activity, at a pH between pH 4 and pH 8, preferably between pH 5 and pH 7.</p>
+<p id="p-0080" num="0092">The lactase to be used in a method of the invention is preferably an extracellular produced neutral lactase.</p>
+<p id="p-0081" num="0093">The lactase preparation to be used in a method of the invention may comprise a stabilizing formulation chemical at a concentration of 10-70% w/w, preferably 30-60% w/w. The stabilizing formulation chemical may be a polyol, preferably a polyol selected among glycerol, sorbitol, monopropylene glycol, sucrose, glucose, galactose or lactose, more preferably glycerol.</p>
+<p id="p-0082" num="0094">Sterile filtering of the lactase preparation may be performed according to standard operational procedures known to the skilled person either by keeping the feed flow of the lactase solution to the sterile filter constant, or by keeping the transmembrane pressure (TMP) in the filter system constant; the filtration regime with a constant TMP should be preferred, following general recommendations from filter manufacturers. When performing a sterile filtration under constant</p>
+<p id="p-0083" num="0095">TMP regime and as the filter accumulates unwanted particles larger than the filter cut-off, the feed flow of enzyme solution to the filter will have to be gradually decreased according to procedures known to the skilled person.</p>
+<p id="p-0084" num="0096">Sterile filtration may be performed in-line within a production process of a dairy product.</p>
+<p id="p-0085" num="0097">Alternatively, sterile filtration may be performed prior to addition of the lactase preparation to the dairy product, in which case the sterile lactase solution is dosed aseptically into the milk.</p>
+<p id="p-0086" num="0098">The lactase preparation obtained from the enzyme supplier may be diluted with, e.g., water prior to its addition to the dairy product. If sterile filtration is performed in-line within a production process of a dairy product, the lactase preparation obtained from the enzyme supplier may be diluted prior to the sterile filtration. If the salt concentration in the lactase preparation obtained from the enzyme supplier is sufficiently high, even after dilution enough salt will be present to improve the sterile filterability.</p>
+<p id="p-0087" num="0099">A lactase preparation to be used in a method of the invention preferably has an improved filter-ability. Preferably, the lactase preparation to be used in a method of the invention has an improved filterability compared to a second liquid lactase preparation having the same composition except that it does not comprise the at least one salt.</p>
+<p id="p-0088" num="0100">Improved filterability may be determined as described in Example 1 of the present application.</p>
+<p id="p-0089" num="0101">In one embodiment, &#x201c;improved filterability&#x201d; means that the amount of sterile lactase obtained per a defined unit of time, under constant TMP filtration regime or constant feed flow filtration regime, is relatively larger than for a standard liquid lactase preparation.</p>
+<p id="p-0090" num="0102">In one embodiment, the lactase preparation to be used in a method of the invention has an improved filterability compared to a second liquid lactase preparation having the same composition except that it does not comprise the at least one salt, where improved filterability is defined as a larger amount of filtrate obtained per a defined unit of time, e.g. 600 seconds, and under either constant TMP or constant feed flow filtration regime compared to the second liquid lactase preparation.</p>
+<p id="p-0091" num="0103">In another embodiment, the lactase preparation to be used in a method of the invention has an improved filterability compared to a second liquid lactase preparation having the same composition except that it does not comprise the at least one salt, where improved filterability is defined as a larger amount of filtrate obtained per a defined unit of time, e.g. 600 seconds, and under constant TMP filtration regime compared to the second liquid lactase preparation.</p>
+<p id="p-0092" num="0104">In another embodiment, the lactase preparation to be used in a method of the invention has an improved filterability compared to a second liquid lactase preparation having the same composition except that it does not comprise the at least one salt, where improved filterability is defined as a larger amount of filtrate obtained per a defined unit of time, e.g. 600 seconds, and under constant feed flow filtration regime compared to the second liquid lactase preparation.</p>
+<p id="p-0093" num="0105">The present invention also provides a method of sterile filtering a liquid lactase preparation, which comprises the steps of:
+<ul id="ul0013" list-style="none">
+    <li id="ul0013-0001" num="0000">
+    <ul id="ul0014" list-style="none">
+        <li id="ul0014-0001" num="0106">a. providing a liquid lactase preparation,</li>
+        <li id="ul0014-0002" num="0107">b. adding to said liquid lactase preparation at least one salt having a monovalent or divalent cation, wherein the at least one salt is added at a concentration of at least 0.01% w/w of the lactase preparation which is to be sterile filtered, and</li>
+        <li id="ul0014-0003" num="0108">c. sterile filtering the lactase preparation obtained in step b.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0094" num="0109">In the method of the invention where in step b. at least one salt is added to the lactase preparation at a concentration of at least 0.01% w/w of the lactase preparation which is to be sterile filtered, the at least 0.01% w/w refers to the amount of added salt and is not including any possible carry-over from production of the lactase.</p>
+<p id="p-0095" num="0110">The present invention also provides a method of improving the filterability of a liquid lactase preparation, which comprises addition to the lactase preparation of at least one salt selected among NaCl, KCl, NH<sub>4</sub>Cl, MgCl<sub>2</sub>, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, MgSO<sub>4 </sub>or a combination thereof, preferably, NaCl, KCl, MgCl<sub>2</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4 </sub>or a combination thereof, wherein the salt is added at a concentration of at least 0.01% w/w of the lactase preparation.</p>
+<p id="p-0096" num="0111">The present invention also provides the use of at least one salt selected among NaCl, KCl, NH<sub>4</sub>Cl, MgCl<sub>2</sub>, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, MgSO<sub>4 </sub>or a combination thereof, preferably, NaCl, KCl, MgCl<sub>2</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4 </sub>or a combination thereof, for improving the filterability of a liquid lactase preparation.</p>
+<p id="p-0097" num="0112">The present invention also provides a method of sterile filtering a liquid lactase preparation, which comprises the steps of:
+<ul id="ul0015" list-style="none">
+    <li id="ul0015-0001" num="0000">
+    <ul id="ul0016" list-style="none">
+        <li id="ul0016-0001" num="0113">a. providing a liquid lactase preparation,</li>
+        <li id="ul0016-0002" num="0114">b. adding to said liquid lactase preparation at least one salt having a monovalent cation, wherein the at least one salt is added at a concentration of at least 0.01% w/w of the lactase preparation which is to be sterile filtered, and</li>
+        <li id="ul0016-0003" num="0115">c. sterile filtering the lactase preparation obtained in step b.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0098" num="0116">In the method of the invention where in step b. at least one salt is added to the lactase preparation at a concentration of at least 0.01% w/w of the lactase preparation which is to be sterile filtered, the at least 0.01% w/w refers to the amount of added salt and is not including any possible carry-over from production of the lactase.</p>
+<heading id="h-0007" level="1">Preferred Embodiments</heading>
+<p id="p-0099" num="0117">1. A sterile-filtered liquid lactase preparation comprising at least one salt having a monovalent or divalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w.</p>
+<p id="p-0100" num="0118">2. The liquid lactase preparation of embodiment 1, wherein the salt is a salt of Na<sup>+</sup>, K<sup>+</sup>, NH<sub>4</sub><sup>+</sup> or Mg<sup>++</sup>.</p>
+<p id="p-0101" num="0119">3. The liquid lactase preparation of embodiment 1, wherein the salt is selected among NaCl, KCl, NH<sub>4</sub>Cl, MgCl<sub>2</sub>, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, MgSO<sub>4 </sub>or a combination thereof, preferably, NaCl, KCl, MgCl<sub>2</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4 </sub>or a combination thereof, more preferably NaCl.</p>
+<p id="p-0102" num="0120">4. The liquid lactase preparation of any of the preceding embodiments, wherein the total concentration of the at least one salt is 0.01-5% w/w, preferably 0.015-4% w/w, more preferably 0.02-3% w/w or 0.1-2% w/w.</p>
+<p id="p-0103" num="0121">5. The liquid lactase preparation of any of the preceding embodiments, said lactase preparation having a lactase activity of 10-5000 LAU-B/g.</p>
+<p id="p-0104" num="0122">6. The liquid lactase preparation of any of the preceding embodiments, wherein the lactase has an amino acid sequence which is at least 50% identical to SEQ ID NO: 1.</p>
+<p id="p-0105" num="0123">7. The liquid lactase preparation of any of the preceding embodiments, wherein the lactase is a C-terminally truncated form of a lactase obtained from <i>Bifidobacterium, </i>preferably <i>Bifidobacterium bifidum. </i></p>
+<p id="p-0106" num="0124">8. The liquid lactase preparation of any of the preceding embodiments, wherein the lactase has a C-terminal end corresponding to amino acid 1304 of SEQ ID NO: 1.</p>
+<p id="p-0107" num="0125">9. The liquid lactase preparation of any of the preceding embodiments which further comprises a stabilizing formulation chemical at a concentration of 10-70% w/w, preferably 30-60% w/w.</p>
+<p id="p-0108" num="0126">10. The liquid lactase preparation of the preceding embodiment, wherein the stabilizing formulation chemical is a polyol, preferably a polyol selected among glycerol, sorbitol, monopropylene glycol, sucrose, glucose, galactose or lactose, more preferably glycerol.</p>
+<p id="p-0109" num="0127">11. A method of sterile filtering a liquid lactase preparation, which comprises the steps of:
+<ul id="ul0017" list-style="none">
+    <li id="ul0017-0001" num="0000">
+    <ul id="ul0018" list-style="none">
+        <li id="ul0018-0001" num="0128">a. providing a liquid lactase preparation comprising at least one salt having a monovalent or divalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w, and</li>
+        <li id="ul0018-0002" num="0129">b. sterile filtering said lactase preparation.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0110" num="0130">12. The method of embodiment 11, wherein the salt is a salt of Na<sup>+</sup>, NH<sub>4</sub><sup>+</sup> or Mg<sup>++</sup>.</p>
+<p id="p-0111" num="0131">13. The method of any of embodiments 11-12, wherein the salt is selected among NaCl, KCl, NH<sub>4</sub>Cl, MgCl<sub>2</sub>, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, MgSO<sub>4 </sub>or a combination thereof, preferably, NaCl, KCl, MgCl<sub>2</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4 </sub>or a combination thereof, more preferably NaCl.</p>
+<p id="p-0112" num="0132">14. The method of any of embodiments 11-13, wherein the total concentration of the at least one salt is 0.01-5% w/w, preferably 0.015-4% w/w, more preferably 0.02-3% w/w or 0.1-2% w/w.</p>
+<p id="p-0113" num="0133">15. The method of any of embodiments 11-14, wherein the lactase preparation has a lactase activity of 10-5000 LAU-B/g</p>
+<p id="p-0114" num="0134">16. The method of any of embodiments 11-15, wherein the lactase has an amino acid sequence which is at least 50% identical to SEQ ID NO: 1.</p>
+<p id="p-0115" num="0135">17. The method of any of embodiments 11-16, wherein the lactase is a C-terminally truncated form of a lactase obtained from Bifidobacterium, preferably Bifidobacterium bifidum.</p>
+<p id="p-0116" num="0136">18. The method of any of embodiments 11-17, wherein the lactase has a C-terminal end corresponding to amino acid 1304 of SEQ ID NO: 1.</p>
+<p id="p-0117" num="0137">19. The method of any of embodiments 11-18, wherein the liquid lactase preparation further comprises a stabilizing formulation chemical at a concentration of 10-70% w/w, preferably 30-60% w/w.</p>
+<p id="p-0118" num="0138">20. The method of the preceding embodiment, wherein the stabilizing formulation chemical is a polyol, preferably a polyol selected among glycerol, sorbitol, monopropylene glycol, sucrose, glucose, galactose or lactose, more preferably glycerol.</p>
+<p id="p-0119" num="0139">21. The method of any of embodiments 11-20, wherein the lactase preparation has an improved filterability compared to a second liquid lactase preparation having the same composition except that it does not comprise the at least one salt.</p>
+<p id="p-0120" num="0140">22. The method of any of embodiments 11-21, wherein said sterile filtering is performed in-line within a production process of a dairy product.</p>
+<p id="p-0121" num="0141">23. A method of sterile filtering a liquid lactase preparation, which comprises the steps of:
+<ul id="ul0019" list-style="none">
+    <li id="ul0019-0001" num="0000">
+    <ul id="ul0020" list-style="none">
+        <li id="ul0020-0001" num="0142">a. providing a liquid lactase preparation,</li>
+        <li id="ul0020-0002" num="0143">b. adding to said liquid lactase preparation at least one salt having a monovalent or divalent cation, wherein the at least one salt is added at a concentration of at least 0.01% w/w of the lactase preparation which is to be sterile filtered, and</li>
+        <li id="ul0020-0003" num="0144">c. sterile filtering the lactase preparation obtained in step b.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0122" num="0145">24. The method of embodiment 23, wherein the salt is a salt of Na<sup>+</sup>, K<sup>+</sup>, NH<sub>4</sub><sup>+</sup> or Mg<sup>++</sup>.</p>
+<p id="p-0123" num="0146">25. The method of any of embodiments 23-24, wherein the salt is selected among NaCl, KCl, NH<sub>4</sub>Cl, MgCl<sub>2</sub>, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub><sub>2</sub>SO<sub>4</sub>, MgSO<sub>4 </sub>or a combination thereof, preferably, NaCl, KCl, MgCl<sub>2</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4 </sub>or a combination thereof, more preferably NaCl.</p>
+<p id="p-0124" num="0147">26. The method of any of embodiments 23-25, wherein the total concentration of the at least one salt is 0.01-5% w/w, preferably 0.015-4% w/w, more preferably 0.02-3% w/w or 0.1-2% w/w.</p>
+<p id="p-0125" num="0148">27. The method of any of embodiments 23-26, wherein the lactase preparation has a lactase activity of 10-5000 LAU-B/g</p>
+<p id="p-0126" num="0149">28. The method of any of embodiments 23-27, wherein the lactase has an amino acid sequence which is at least 50% identical to SEQ ID NO: 1.</p>
+<p id="p-0127" num="0150">29. The method of any of embodiments 23-28, wherein the lactase is a C-terminally truncated form of a lactase obtained from Bifidobacterium, preferably Bifidobacterium bifidum.</p>
+<p id="p-0128" num="0151">30. The method of any of embodiments 23-29, wherein the lactase has a C-terminal end corresponding to amino acid 1304 of SEQ ID NO: 1.</p>
+<p id="p-0129" num="0152">31. The method of any of embodiments 23-30, wherein the liquid lactase preparation further comprises a stabilizing formulation chemical at a concentration of 10-70% w/w, preferably 30-60% w/w.</p>
+<p id="p-0130" num="0153">32. The method of the preceding embodiment, wherein the stabilizing formulation chemical is a polyol, preferably a polyol selected among glycerol, sorbitol, monopropylene glycol, sucrose, glucose, galactose or lactose, more preferably glycerol.</p>
+<p id="p-0131" num="0154">33. The method of any of embodiments 23-32, wherein the lactase preparation has an improved filterability compared to a second liquid lactase preparation having the same composition except that it does not comprise the at least one salt.</p>
+<p id="p-0132" num="0155">34. The method of any of embodiments 23-33, wherein said sterile filtering is performed in-line within a production process of a dairy product.</p>
+<p id="p-0133" num="0156">35. A method of improving the filterability of a liquid lactase preparation, which comprises addition to the lactase preparation of at least one salt selected among NaCl, KCl, NH<sub>4</sub>Cl, MgCl<sub>2</sub>, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, MgSO<sub>4 </sub>or a combination thereof, preferably, NaCl, KCl, MgCl<sub>2</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4 </sub>or a combination thereof, wherein the salt is added at a concentration of at least 0.01% w/w of the lactase preparation.</p>
+<p id="p-0134" num="0157">36. Use of at least one salt selected among NaCl, KCl, NH<sub>4</sub>Cl, MgCl<sub>2</sub>, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, MgSO<sub>4 </sub>or a combination thereof, preferably, NaCl, KCl, MgCl<sub>2</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4 </sub>or a combination thereof, for improving the filterability of a liquid lactase preparation.</p>
+<heading id="h-0008" level="1">Further Preferred Embodiments</heading>
+<p id="p-0135" num="0158">1. A sterile-filtered liquid lactase preparation comprising at least one salt having a monovalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w.</p>
+<p id="p-0136" num="0159">2. The liquid lactase preparation of embodiment 1, wherein the salt is a salt of Na<sup>+</sup>, K<sup>+</sup> or NH<sub>4</sub><sup>+</sup></p>
+<p id="p-0137" num="0160">3. The liquid lactase preparation of embodiment 1, wherein the salt is selected among NaCl, KCl, NH<sub>4</sub>Cl, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, or a combination thereof, preferably, NaCl, KCl, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4</sub>or a combination thereof, more preferably NaCl.</p>
+<p id="p-0138" num="0161">4. The liquid lactase preparation of any of the preceding embodiments, wherein the total concentration of the at least one salt is 0.01-5% w/w, preferably 0.015-4% w/w, more preferably 0.02-3% w/w or 0.1-2% w/w.</p>
+<p id="p-0139" num="0162">5. The liquid lactase preparation of any of the preceding embodiments which further comprises a polyol, preferably a polyol selected among glycerol, sorbitol, monopropylene glycol, sucrose, glucose, galactose or lactose, or combinations thereof, more preferably glycerol, at a concentration of 10-70% w/w, preferably 30-60% w/w.</p>
+<p id="p-0140" num="0163">6. The liquid lactase preparation of any of the preceding embodiments, wherein the lactase has an amino acid sequence which is at least 50% identical to SEQ ID NO: 1.</p>
+<p id="p-0141" num="0164">7. The liquid lactase preparation of any of the preceding embodiments, wherein the lactase has a C-terminal end corresponding to amino acid 1304 of SEQ ID NO: 1.</p>
+<p id="p-0142" num="0165">8. The liquid lactase preparation of any of embodiments 1 to 7, further comprising at least one salt having a divalent cation, preferably at least one salt of Mg<sup>++</sup>, or the liquid lactase preparation of any of embodiments 5 to 7, further comprising at least one salt having a divalent cation, preferably at least one salt of Mg<sup>++</sup></p>
+<p id="p-0143" num="0166">9. A method of sterile filtering a liquid lactase preparation, which comprises the steps of:
+<ul id="ul0021" list-style="none">
+    <li id="ul0021-0001" num="0000">
+    <ul id="ul0022" list-style="none">
+        <li id="ul0022-0001" num="0167">a. providing a liquid lactase preparation comprising at least one salt having a monovalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w, and</li>
+        <li id="ul0022-0002" num="0168">b. sterile filtering said lactase preparation.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0144" num="0169">10. The method of embodiment 9, wherein the at least one salt is selected from a salt of Na<sup>+</sup>, K<sup>+</sup> or NH<sub>4</sub><sup>+</sup>.</p>
+<p id="p-0145" num="0170">11. The method of any of embodiments 9-10, wherein the at least one salt is selected among NaCl, KCl, NH<sub>4</sub>Cl, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4 </sub>or a combination thereof, preferably, NaCl, KCl, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>SO<sub>4</sub>or a combination thereof, more preferably NaCl.</p>
+<p id="p-0146" num="0171">12. The method of any of embodiments 9-11, wherein the total concentration of the at least one salt is 0.01-5% w/w, preferably 0.015-4% w/w, more preferably 0.02-3% w/w or 0.1-2% w/w.</p>
+<p id="p-0147" num="0172">13. The method of any of embodiments 9-12, wherein the lactase has an amino acid sequence which is at least 50% identical to SEQ ID NO: 1.</p>
+<p id="p-0148" num="0173">14. The method of any of embodiments 9-13, wherein the lactase preparation has an improved filterability compared to a second liquid lactase preparation having the same composition except that it does not comprise said at least one salt having a monovalent cation.</p>
+<p id="p-0149" num="0174">15. The method of any of embodiments 9-14, wherein said sterile filtering is performed in-line within a production process of a dairy product.</p>
+<heading id="h-0009" level="1">EXAMPLE 1</heading>
+<p id="p-0150" num="0175">Improved Filterability of <i>Bifidobacterium bifidum </i>Lactase Through Sterile Filter as a Function of Salt Content:</p>
+<p id="p-0151" num="0176">An unstandardized enzyme concentrate of B. bifidum lactase (SEQ ID NO: 1) expressed in <i>Bacillus licheniformis </i>and that had been produced in large scale was chosen as start material. The unstandardized concentrate had been originally formulated in large scale with 66% w/w glycerol at pH 5.7. The total sodium, potassium, magnesium, chloride and sulphate ions were measured in the unstandardized concentrate by means of ICP-OES and Dionex&#x2122; IC, respectively.</p>
+<p id="p-0152" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="91pt" align="center"/>
+<colspec colname="2" colwidth="112pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Total ion concentration in the </entry>
+</row>
+<row>
+<entry/>
+<entry>Method</entry>
+<entry>unstandardized concentrate [mg/kg] </entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Dionex&#x2009;&#x2122; IC for total chloride</entry>
+<entry>123</entry>
+</row>
+<row>
+<entry/>
+<entry>Dionex&#x2009;&#x2122; IC for total sulphate</entry>
+<entry>Below detection limit of 100</entry>
+</row>
+<row>
+<entry/>
+<entry>ICP-OES for total magnesium</entry>
+<entry>&#x2002;17</entry>
+</row>
+<row>
+<entry/>
+<entry>ICP-OES for total potassium</entry>
+<entry>&#x2002;50</entry>
+</row>
+<row>
+<entry/>
+<entry>ICP-OES for total sodium</entry>
+<entry>&#x2002;42</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0153" num="0177">The concentrate was then diluted with glycerol and water in absence or presence of different salts down to an enzyme concentration equivalent to 900 LAU-B/g lactase units: the unstandardized lactase concentrate was first pre-diluted with pure glycerol prior to adding salt as powder; a control sample did not contain added salt. Water was eventually added to a final volume of 1 L, as described in the table here below. The final glycerol concentration was 50% w/w in all samples. Upon dilution of the unstandardized lactase concentrate the cations and anions present in the concentrate were diluted so extensively that the total amount of ions leftover in the diluted samples was very low to negligible compared to the different salt added voluntarily in this experiment.</p>
+<p id="p-0154" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="119pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Unstandardized </entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>lactase</entry>
+<entry/>
+<entry>Cold tap </entry>
+</row>
+<row>
+<entry/>
+<entry>concentrate + </entry>
+<entry>Salt</entry>
+<entry>water</entry>
+</row>
+<row>
+<entry>Samples</entry>
+<entry>glycerol [g]</entry>
+<entry>[g]</entry>
+<entry>[g]</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>900 LAU-B/g (control)</entry>
+<entry>575</entry>
+<entry>&#x2002;0</entry>
+<entry>425</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 0.1% w/w NaCl</entry>
+<entry>575</entry>
+<entry>&#x2002;1</entry>
+<entry>424</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 1% w/w NaCl</entry>
+<entry>575</entry>
+<entry>10</entry>
+<entry>415</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 2% w/w NaCl</entry>
+<entry>575</entry>
+<entry>20</entry>
+<entry>405</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 1% w/w Na<sub>2</sub>SO<sub>4</sub></entry>
+<entry>575</entry>
+<entry>10</entry>
+<entry>415</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 1% w/w (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub></entry>
+<entry>575</entry>
+<entry>10</entry>
+<entry>415</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 1% w/w MgCl<sub>2</sub>, 6 H<sub>2</sub>O</entry>
+<entry>575</entry>
+<entry>10</entry>
+<entry>415</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 1% w/w KCl</entry>
+<entry>575</entry>
+<entry>10</entry>
+<entry>415</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0155" num="0178">The unstandardized lactase concentrate and the pure glycerol solution were both kept at temperatures between 5&#xb0; C. and 10&#xb0; C. prior to start. All salts tested here were food grade quality and supplied by Sigma Aldrich Corp. (St. Louis, Mo., USA). Thorough mixing was achieved with a magnetic stir bar under cold conditions (5-10&#xb0; C.).</p>
+<p id="p-0156" num="0179">All diluted enzyme solutions were then sterile filtered on 47 mm Fluorodyne&#xae; II DFL membrane filter discs (Pall, Port Washington, NY, USA) with a cutoff of 0.2 &#x3bc;m. The filter discs were maintained in a 47 mm inline stainless steel filter holder (Sartorius, Gottingen, Germany) and the diluted enzyme solutions were pumped through the filters by means of a FilterTec normal flow filtration system (Parker Hannifin Corp., Oxnard, Calif., USA) under constant flow regime of 10 ml/min and until the system pressure reached a maximum of 1.8 bar. The filtrations were carried out at room temperature, within 30-60 min after diluting the unstandardized enzyme concentrate.</p>
+<p id="p-0157" num="0180">The table here below lists the volume Vmax of the different solutions that were needed to reach an arbitrary, maximum pressure set point of 1.8 bar in the filtration system. The volume V<sub>max </sub>of the &#x201c;control&#x201d; sample was set to 100%; the volumes for the other solutions are therefore proportional to the base 100.</p>
+<p id="p-0158" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="112pt" align="center"/>
+<colspec colname="2" colwidth="105pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>V<sub>max </sub>of filtrate to reach a</entry>
+</row>
+<row>
+<entry>Samples</entry>
+<entry>system pressure of 1.8 bar [%]</entry>
+</row>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>900 LAU-B/g (control)</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 0.1% w/w NaCl</entry>
+<entry>127</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 1% w/w NaCl</entry>
+<entry>122</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 2% w/w NaCl</entry>
+<entry>116</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 1% w/w Na<sub>2</sub>SO<sub>4</sub></entry>
+<entry>115</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 1% w/w (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub></entry>
+<entry>132</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 1% w/w MgCl<sub>2</sub>, 6 H<sub>2</sub>O</entry>
+<entry>135</entry>
+</row>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0159" num="0181">All 900 LAU-B/g lactase solutions containing salt tested here showed a measurable improvement in filterability through a sterile filter compared to the control sample: the volume V<sub>max </sub>of lactase solution needed to reach the maximum pressure set point was higher in all accounts.</p>
+<heading id="h-0010" level="1">EXAMPLE 2</heading>
+<p id="p-0160" num="0182">Improved Filterability of <i>Bifidobacterium bifidum </i>Lactase Through Sterile Filter Under Very Low Salt Conditions.</p>
+<p id="p-0161" num="0183">An unstandardized enzyme concentrate of B. bifidum lactase (SEQ ID NO: 1) expressed in <i>Bacillus licheniformis </i>and that had been produced in large scale was chosen as start material. The unstandardized concentrate had been originally formulated in large scale with 66% w/w glycerol at pH 5.7.</p>
+<p id="p-0162" num="0184">The concentrate was then diluted with glycerol and water in absence or presence of sodium chloride down to an enzyme concentration equivalent to 900 LAU-B/g lactase units per gram: the unstandardized lactase concentrate was first pre-diluted with pure glycerol prior to adding salt as powder; a control sample did not contain added salt. Water was eventually added to a final volume of 1 L, as described in the table here below. The final glycerol concentration was 50% w/w in all samples. Upon dilution of the unstandardized lactase concentrate the cations and anions present were diluted so extensively that the total amount of ions leftover in the samples were very low to negligible compared to the different salt added voluntarily during this experiment.</p>
+<p id="p-0163" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="105pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Unstandardized </entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>lactase</entry>
+<entry/>
+<entry>Cold tap </entry>
+</row>
+<row>
+<entry/>
+<entry>concentrate + </entry>
+<entry>Salt</entry>
+<entry>water</entry>
+</row>
+<row>
+<entry>Samples</entry>
+<entry>glycerol [g]</entry>
+<entry>[g]</entry>
+<entry>[g]</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="105pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>900 LAU-B/g (control)</entry>
+<entry>575</entry>
+<entry>0</entry>
+<entry>425</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 0.01% w/w NaCl</entry>
+<entry>575</entry>
+<entry>0.1</entry>
+<entry>424.9</entry>
+</row>
+<row>
+<entry>900 LAU-B/g + 0.1% w/w NaCl</entry>
+<entry>575</entry>
+<entry>1</entry>
+<entry>424</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0164" num="0185">The unstandardized lactase concentrate and the pure glycerol solution were both kept at temperatures around 10 &#xb0; C. to 15 &#xb0; C. prior to start. All salts tested here were food grade quality and supplied by Sigma Aldrich Corp. (St. Louis, Mo., USA). Thorough mixing was achieved with a magnetic stir bar under midly cold conditions (15&#xb0; C.) in a water bath.</p>
+<p id="p-0165" num="0186">All diluted enzyme solutions were then sterile filtered on 47 mm Fluorodyne&#xae; II DFL membrane filter discs (Pall, Port Washington, N.Y., USA) with a cutoff of 0.2 pm. The filter discs were maintained in a 47 mm inline stainless steel filter holder (Sartorius, Gottingen, Germany) and the diluted enzyme solutions were pumped through the filters by means of a FilterTec normal flow filtration system (Parker Hannifin Corp., Oxnard, Calif., USA) under constant flow regime of 10 ml/min and until the system pressure reached a maximum of 1.8 bar. The filtrations were carried out at room temperature, within 30-60 min after diluting the unstandardized enzyme concentrate.</p>
+<p id="p-0166" num="0187">The table here below lists the volume Vmax of the different solutions that was needed to reach an arbitrary, maximum pressure set point of 1.8 bar in the filtration system. The volume V<sub>max </sub>of the &#x201c;control&#x201d; sample was set to 100%; the volumes for the other solutions are therefore proportional to the base 100.</p>
+<p id="p-0167" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="98pt" align="center"/>
+<colspec colname="2" colwidth="105pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>V<sub>max </sub>of filtrate to reach a</entry>
+</row>
+<row>
+<entry/>
+<entry>Samples</entry>
+<entry>system pressure of 1.8 bar [%]</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>900 LAU-B/g (control)</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry/>
+<entry>900 LAU-B/g + 0.01% w/w NaCl</entry>
+<entry>105</entry>
+</row>
+<row>
+<entry/>
+<entry>900 LAU-B/g + 0.1% w/w NaCl</entry>
+<entry>120</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0168" num="0188">The addition of a very low sodium chloride amount (0.01% w/w) to the lactase concentrate showed already a measurable improvement in filterability through a sterile filter compared to the control sample. The V<sub>max </sub>% for the sample containing 0.1% w/w NaCl is very close to the one observed in Example 1.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-sequence-list-doc id="SEQLST-1">
+<sequence-list file="US20230225345A1-20230720-S00001.XML" carriers="internal-electronic" seq-file-type="ST.26"/>
+</us-sequence-list-doc>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A sterile-filtered liquid lactase preparation comprising at least one salt having a monovalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The liquid lactase preparation of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the salt is a salt of Na<sup>+</sup>, K<sup>+</sup> or NH<sub>4</sub><sup>+</sup>.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The liquid lactase preparation of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the salt is selected among NaCl, KCl, NH<sub>4</sub>Cl, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, or a combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The liquid lactase preparation of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the total concentration of the at least one salt is 0.01-5% w/w.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The liquid lactase preparation of <claim-ref idref="CLM-00001">claim 1</claim-ref>, which further comprises a polyol at a concentration of 10-70% w/w.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The liquid lactase preparation of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the lactase has an amino acid sequence which is at least 50% identical to SEQ ID NO: 1.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The liquid lactase preparation of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the lactase has a C-terminal end corresponding to amino acid 1304 of SEQ ID NO: 1.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The liquid lactase preparation of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising at least one salt having a divalent cation.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. A method of sterile filtering a liquid lactase preparation, which comprises the steps of:
+<claim-text>a. providing a liquid lactase preparation comprising at least one salt having a monovalent cation, wherein the total concentration of said at least one salt is at least 0.01% w/w, and</claim-text>
+<claim-text>b. sterile filtering said lactase preparation.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the at least one salt is selected from a salt of Na<sup>+</sup>, K<sup>+</sup> or NH<sub>4</sub>.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the at least one salt is selected among NaCl, KCl, NH<sub>4</sub>Cl, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4 </sub>or a combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the total concentration of the at least one salt is 0.01-5% w/w.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the lactase has an amino acid sequence which is at least 50% identical to SEQ ID NO: 1.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the lactase preparation has an improved filterability compared to a second liquid lactase preparation having the same composition except that it does not comprise said at least one salt having a monovalent cation.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein said sterile filtering is performed in-line within a production process of a dairy product.</claim-text>
+</claim>
+</claims>
+</us-patent-application>
