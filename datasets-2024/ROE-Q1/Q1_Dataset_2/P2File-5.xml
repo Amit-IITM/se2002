@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225317A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225317</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18189284</doc-number>
+<date>20230324</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>27</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>08</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>P</subclass>
+<main-group>21</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>C</subclass>
+<main-group>21</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>27</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>08</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20210801</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>P</subclass>
+<main-group>21</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>C</subclass>
+<main-group>21</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">SYSTEMS AND METHODS FOR APPLICATION OF ACTIVE INGREDIENTS TO CANNABIS</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>PCT/US2021/052824</doc-number>
+<date>20210930</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18189284</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63086210</doc-number>
+<date>20201001</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Hazel Technologies, Inc.</orgname>
+<address>
+<city>Chicago</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Preslar</last-name>
+<first-name>Adam Truett</first-name>
+<address>
+<city>London</city>
+<country>GB</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Jiwan</last-name>
+<first-name>Derick Augustin</first-name>
+<address>
+<city>Roselle</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Hazel Technologies, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Chicago</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Systems and methods for application of active ingredients to plants such as cannabinoid-producing plants (e.g., plants in the genus <i>Cannabis</i>) are generally described. Certain aspects of this disclosure relate to systems for treating cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis </i>such as those containing <i>Cannabis sativa, Cannabis indica, </i>or combinations thereof) involving fluidic communication between the plants and a source of a cyclopropene (e.g., in an enclosure). In some embodiments, cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis</i>) are exposed to a cyclopropene (e.g., 1-methylcyclopropene in a gas phase). Some embodiments involve such exposure inducing potentially desirable phenomena with the plants, such as growth of male sex organs on female plants and/or enhancement of plant biomass.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="123.02mm" wi="149.94mm" file="US20230225317A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="240.96mm" wi="152.48mm" file="US20230225317A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="135.04mm" wi="130.39mm" file="US20230225317A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="164.17mm" wi="118.11mm" file="US20230225317A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="201.08mm" wi="138.18mm" file="US20230225317A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="197.87mm" wi="139.28mm" file="US20230225317A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="200.49mm" wi="148.76mm" file="US20230225317A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="115.23mm" wi="173.99mm" file="US20230225317A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="158.50mm" wi="156.29mm" file="US20230225317A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="155.36mm" wi="123.36mm" file="US20230225317A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="159.51mm" wi="122.00mm" file="US20230225317A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="156.55mm" wi="122.00mm" file="US20230225317A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation of International Patent Application No. PCT/US2021/052824, filed Sep. 30, 2021 and entitled &#x201c;Systems and Methods for Application of Active Ingredients to <i>Cannabis,&#x201d;</i> which claims priority under 35 U.S.C. &#xa7; 119(e) to U.S. Provisional Patent Application No. 63/086,210, filed Oct. 1, 2020, and entitled &#x201c;Systems and Methods for Application of Active Ingredients to <i>Cannabis,&#x201d;</i> each of which is incorporated herein by reference in its entirety for all purposes.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">Systems and methods for application of active ingredients to plants such as cannabinoid-producing plants are generally described.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">Cannabinoid-producing plants such as plants of the genus <i>Cannabis </i>may be treated during various stages of growth to afford desirable properties. In the production of <i>Cannabis sativa </i>for recreational or medicinal use, the female plant phenotype is typically the commercially valuable sex. This is because female inflorescences produce the highest concentration of cannabinol (CBD) and &#x394;-9-tetrahydrocannabidiol (THC) compared to male inflorescences and are also able to produce viable seed. In commercial production, male plants are often destroyed as seed formation reduces flower quality. Thus, there is interest for growers to have access to feminized seeds to produce all-female crops.</p>
+<p id="p-0005" num="0004"><i>Cannabis sativa </i>is dioecious and therefore produces male and female inflorescences on different plants. As in many organisms, the male and female plants are naturally produced roughly 1:1 during normal sexual reproduction. <i>Cannabis </i>sex determination is analogous to mammalian sex determination, wherein females carry two copies of the female chromosome (&#x2018;X&#x2019;) and males carry one copy each of a male (&#x2018;Y&#x2019;) and female (&#x2018;X&#x2019;) chromosome. The production of all female seeds may involve induction of female plants to develop male flowers that produce genetically female pollen containing only &#x2018;X&#x2019; gametes. That is, the production of all female seeds may involve induction of female plants to develop male organs (e.g., within a female cone having one or more flowers). When these pollens are crossed with eggs from a female plant, all-female seed can be produced.</p>
+<p id="p-0006" num="0005">Therefore, improved systems, methods, and/or compositions related to treatment of cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis</i>) are desirable.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0007" num="0006">Systems and methods for application of active ingredients to plants such as cannabinoid-producing plants (e.g., plants in the genus <i>Cannabis</i>) are generally described. Certain aspects of this disclosure relate to systems for treating cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis </i>such as those containing <i>Cannabis sativa, Cannabis indica, </i>or combinations thereof) involving fluidic communication between the plants and a source of a cyclopropene (e.g., in an enclosure). In some embodiments, cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis</i>) are exposed to a cyclopropene (e.g., 1-methylcyclopropene in a gas-phase). Some embodiments involve such exposure inducing potentially desirable phenomena, such as growth of male sex organs on female plants and/or enhancement of plant biomass. The subject matter of the present invention involves, in some cases, interrelated products, alternative solutions to a particular problem, and/or a plurality of different uses of one or more systems and/or articles.</p>
+<p id="p-0008" num="0007">In one aspect, systems for treating cannabinoid-producing plants are provided. In some embodiments, a system for treating a cannabinoid-producing plant comprises a source of a cyclopropene and the plant in fluidic communication with the source of cyclopropene.</p>
+<p id="p-0009" num="0008">In some embodiments, a system for treating a cannabinoid-producing plant comprises a source of a cyclopropene and the plant, wherein a distance between the source of the cyclopropene and the plant is less than or equal to 50 m.</p>
+<p id="p-0010" num="0009">In another aspect, compositions are provided. In some embodiments, a composition comprises a cannabinoid-producing plant and a cyclopropene in contact with the plant.</p>
+<p id="p-0011" num="0010">In another aspect, methods are provided. In some embodiments, a method comprises exposing a cannabinoid-producing plant to a cyclopropene.</p>
+<p id="p-0012" num="0011">Other advantages and novel features of the present invention will become apparent from the following detailed description of various non-limiting embodiments of the invention when considered in conjunction with the accompanying figures. In cases where the present specification and a document incorporated by reference include conflicting and/or inconsistent disclosure, the present specification shall control.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0013" num="0012">Non-limiting embodiments of the present invention will be described by way of example with reference to the accompanying figures, which are schematic and are not intended to be drawn to scale. In the figures, each identical or nearly identical component illustrated is typically represented by a single numeral. For purposes of clarity, not every component is labeled in every figure, nor is every component of each embodiment of the invention shown where illustration is not necessary to allow those of ordinary skill in the art to understand the invention. In the figures:</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>1</b>A</figref> shows a cross-sectional schematic illustration of a cannabinoid-producing plant in an enclosure;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>1</b>B</figref> shows a cross-sectional schematic illustration of a cannabinoid-producing plant and a source of a cyclopropene in an enclosure, according to some embodiments;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a cross-sectional schematic illustration of an exemplary composition comprising a porous adsorbent material and a cyclopropene associated with the porous adsorbent material, according to some embodiments;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIGS. <b>3</b>-<b>6</b></figref> are images showing stamen growth on a cannabinoid-producing plant at varying time points during and following treatment with 1-methylcyclopropene, according to some embodiments;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is an image showing three 1-MCP-treated plants (top) and three control plants (bottom), according to some embodiments;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a plot of total cannabinoid concentration profiles in treated and control cannabinoid-producing plants at varying time points, according to some embodiments; and</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIGS. <b>9</b>A-<b>9</b>C</figref> are plots of concentration profiles of the cannabinoids THCA (<figref idref="DRAWINGS">FIG. <b>9</b>A</figref>), THCVA (<figref idref="DRAWINGS">FIG. <b>9</b>B</figref>), and CBGA (<figref idref="DRAWINGS">FIG. <b>9</b>C</figref>) in treated and control cannabinoid-producing plants at varying time points, according to some embodiments.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0021" num="0020">Systems and methods for application of active ingredients to plants such as cannabinoid-producing plants (e.g., plants in the genus <i>Cannabis</i>) are generally described. Certain aspects of this disclosure relate to systems for treating cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis </i>such as <i>Cannabis sativa, Cannabis indica, </i>or combinations thereof) involving fluidic communication between the plants and a source of a cyclopropene (e.g., in an enclosure). In some embodiments, cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis</i>) are exposed to a cyclopropene (e.g., 1-methylcyclopropene (1-MCP) in a gas-phase). Some embodiments involve such exposure inducing potentially desirable phenomena with the plants, such as growth of male sex organs on female plants and/or enhancement of plant biomass.</p>
+<p id="p-0022" num="0021">It may be desirable to apply active ingredients to cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis</i>) to promote certain properties. For example, it may be desirable to treat <i>Cannabis </i>plants to modify their sex morphology. It has been reported that ethylene, auxins, and cytokinin promote formation of female flowers on male plants, whereas gibberellins promote formation of male flowers on female plants. It has also been reported that inhibiting ethylene sensitivity using silver containing-solutions results in genetically female plants producing male flowers, complete with anthers and viable pollen. As female plants do not have the corresponding male chromosome, the only fertile pollen produced after this process will carry the female sex chromosome. When that &#x2018;feminized&#x2019; pollen is used to pollinate a female plant, an overwhelming majority of the offspring may be genetically and phenotypically female. As a result, seed produced from &#x2018;feminized&#x2019; pollen is also called &#x2018;feminized&#x2019; and generally commands a much higher market price than do non-feminized seeds, since it can be depended on to result in only, or substantially only, commercially important plants for recreational and medicinal use. Inducing feminized pollen growth in female plants may also be desirable by allowing for production of seeds having relatively uniform, consistent genetics. Female <i>Cannabis </i>plants produce flowering bodies generally rich in commercially important substances such as cannabidiol (CBD). Therefore, ensuring production of female plants (via growth of male organs on female plants) increases yield of those substances.</p>
+<p id="p-0023" num="0022">However, it has been realized in the context of this disclosure that existing ethylene desensitizers for <i>Cannabis </i>plants (e.g., benzothiadiazole, gibberellic acid, silver thiosulphate, silver nitrate, and colloidal silver) are typically hazardous to workers, produce waste that is environmentally toxic and expensive to dispose of, and/or are extremely labor-intensive to deploy, requiring hand-spraying to each plant and often several applications. For example, silver compounds are illegal in many states and countries for ethylene inhibition for these reasons. The inventors herein have realized that application of cyclopropenes such as 1-MCP is an alternative way of ethylene desensitization to counter the disadvantages of the current commercialized products available. Moreover, the inventors have, surprisingly, observed that cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis</i>) can be successfully treated with cyclopropenes (e.g., in a gas phase) and display phenotypical changes such as growth of male organs such as stamens without deleterious effects on growth, biomass, or cannabinoid production. It has also been realized that cyclopropenes may be applied to plants homogeneously and without labor intensive processes (e.g., via fumigation) rather than needing foliar sprays that present hazards and result in primarily localized effects in the plants. Exposure of cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis</i>) to cyclopropenes such as 1-MCP may promote other desirable results, such as increases in yield, longer stability of the plants and plant matter (e.g., following harvest), and greater extent of flowering.</p>
+<p id="p-0024" num="0023">Systems and methods for application of active ingredients such as cyclopropene to cannabinoid-producing plants such as those of the genus <i>Cannabis </i>are generally described. In some embodiments, a system for treating a cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) comprises the plant and a source of a cyclopropene (e.g., in an enclosure), each of which are described in more detail below. For example, <figref idref="DRAWINGS">FIGS. <b>1</b>A-<b>1</b>B</figref> show schematic illustrations of enclosure <b>50</b> comprising plant <b>60</b> growing in soil <b>65</b> in the absence (<figref idref="DRAWINGS">FIG. <b>1</b>A</figref>) and in the presence (<figref idref="DRAWINGS">FIG. <b>1</b>B</figref>) of source of cyclopropene <b>300</b>. Various embodiments are directed to configurations and methods for exposing cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis</i>) to cyclopropene (e.g., from the source of the cyclopropene). In some embodiments, the cyclopropene is 1-methylcyclopropene.</p>
+<p id="p-0025" num="0024">In some embodiments, the system for treating a cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) comprises the plant and a source of a cyclopropene (e.g., 1-MCP) in fluidic communication with the plant. As used herein, two elements are in fluidic communication with each other when fluid (e.g., gas-phase cyclopropene, liquid solution comprising cyclopropene, etc.) can be transported from one of the elements to the other of the elements without otherwise altering the configurations of the elements or a configuration of an element between them (such as a valve). For example, in system <b>40</b> in <figref idref="DRAWINGS">FIG. <b>1</b>B</figref>, source of cyclopropene <b>300</b> is in fluidic communication with plant <b>60</b> because source of cyclopropene <b>300</b> is under a configuration such that cyclopropene gas <b>330</b> can be transported from source of cyclopropene <b>300</b> to plant <b>60</b>. In some embodiments, the source of the cyclopropene is configured such that it is always in fluidic communication with the plant (e.g., such as a composition capable of releasing cyclopropene through a fluid-permeable form factor). However, in some embodiments, the source of cyclopropene is such that it is in fluidic communication with the plant in a first configuration (e.g., a pipe outlet with an open valve) but is capable of having fluidic communication cut off in a second configuration (e.g., the pipe outlet with the valve closed).</p>
+<p id="p-0026" num="0025">Having a source of a cyclopropene and a cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) be in fluidic communication with each other is one way in which the plant may be exposed to cyclopropene (e.g., released from the source of the cyclopropene). Such exposure may be part of a treatment process for the plant (e.g., to affect phenotype, to affect biomass and/or growth characteristics, etc.)</p>
+<p id="p-0027" num="0026">As mentioned above, in some embodiments, the plant is a cannabinoid-producing plant. Cannabinoid-producing plants are generally known in the art, and are understood to produce one or more cannabinoids (non-limiting examples of which are described below). In some embodiments, the plant is of the genus <i>Cannabis. </i>As is generally known, the genus <i>Cannabis </i>includes species <i>Cannabis sativa, Cannabis indica, </i>and <i>Cannabis ruderalis. </i>One of ordinary skill in the art would understand distinctions between plants (and their corresponding genetics and ancestries) belonging to the species <i>Cannabis sativa, Cannabis indica, </i>and <i>Cannabis ruderalis. </i>In some embodiments, the plant comprises genes from the species <i>Cannabis sativa, Cannabis indica, </i>and/or <i>Cannabis ruderalis. </i></p>
+<p id="p-0028" num="0027">In some embodiments, the plant is a plant purely of one of the species <i>Cannabis sativa, Cannabis indica, </i>and <i>Cannabis ruderalis. </i>For example, in some embodiments, the plant is purely of the species <i>Cannabis sativa </i>(e.g., the plant's genetics are exclusively attributable to ancestry from the species <i>Cannabis sativa</i>). In some embodiments, the plant is purely of the species <i>Cannabis indica </i>(e.g., the plant's genetics are exclusively attributable to ancestry from the species <i>Cannabis indica</i>). In some embodiments, the plant is purely of the species <i>Cannabis ruderalis </i>(e.g., the plant's genetics are exclusively attributable to ancestry from the species <i>Cannabis ruderalis</i>).</p>
+<p id="p-0029" num="0028">In some embodiments, the plant is a hybrid plant. That is, the plant may be from a variety of <i>Cannabis </i>plants having genes from multiple different species of cannabinoid-producing plants (e.g., multiple different species of plants of the genus <i>Cannabis</i>). In some embodiments, the plant comprises genes from two or more species chosen from <i>Cannabis sativa, Cannabis indica, </i>and <i>Cannabis ruderalis. </i>For example, the plant may be of a strain having ancestry from both <i>Cannabis sativa </i>and <i>Cannabis indica. </i>The strain of the plant may affect any of a variety of properties of the plant, such as types and ratios of active compositions such as THC and CBD, flowering properties, utility for industrial purposes (e.g., as hemp), etc. Breeding the plant may allow one to tune the plant's properties according to desired use. It has been observed herein that the variety of the plant may affect its sensitivity to undergoing phenotypical changes or changes in production of biomass and/or cannabinoids upon exposure to cyclopropenes such as 1-MCP.</p>
+<p id="p-0030" num="0029">A relatively high percentage of the plant's ancestry may be attributable to <i>Cannabis sativa. </i>In some embodiments, the plant has an ancestry containing at least 1%, at least 2%, at least 5%, at least 10%, at least 20%, at least 30%, at least 40%, at least 50%, at least 60%, and/or up to 70%, up to 80%, up to 90%, up to 95%, up to 98%, up to 99%, or 100% <i>Cannabis sativa. </i>In some embodiments, the plant has an ancestry containing less than or equal to 100%, less than or equal to 90%, less than or equal to 80%, less than or equal to 50%, less than or equal to 20%, less than or equal to 10%, less than or equal to 5%, less than or equal to 1%, or 0% <i>Cannabis sativa. </i>Those of ordinary skill in the art would understand the use of ancestry percentages in characterizing strains of plants of the genus <i>Cannabis. </i>For example, a 50/50 hybrid strain of <i>Cannabis sativa </i>and <i>Cannabis indica </i>would be considered to have an ancestry containing 50% <i>Cannabis sativa </i>and 50% <i>Cannabis indica. </i></p>
+<p id="p-0031" num="0030">A relatively high percentage of the plant's ancestry may be attributable to <i>Cannabis indica. </i>In some embodiments, the plant has an ancestry containing at least 1%, at least 2%, at least 5%, at least 10%, at least 20%, at least 30%, at least 40%, at least 50%, at least 60%, and/or up to 70%, up to 80%, up to 90%, up to 95%, up to 98%, up to 99%, or 100% <i>Cannabis indica. </i>In some embodiments, the plant has an ancestry containing less than or equal to 100%, less than or equal to 90%, less than or equal to 80%, less than or equal to 50%, less than or equal to 20%, less than or equal to 10%, less than or equal to 5%, less than or equal to 1%, or 0% <i>Cannabis indica. </i></p>
+<p id="p-0032" num="0031">A relatively high percentage of the plant's ancestry may be attributable to <i>Cannabis ruderalis. </i>In some embodiments, the plant has an ancestry containing at least 1%, at least 2%, at least 5%, at least 10%, at least 20%, at least 30%, at least 40%, at least 50%, at least 60%, and/or up to 70%, up to 80%, up to 90%, up to 95%, up to 98%, up to 99%, or 100% <i>Cannabis ruderalis. </i>In some embodiments, the plant has an ancestry containing less than or equal to 100%, less than or equal to 90%, less than or equal to 80%, less than or equal to 50%, less than or equal to 20%, less than or equal to 10%, less than or equal to 5%, less than or equal to 1%, or 0% <i>Cannabis ruderalis. </i>Combinations of the ranges above are possible. For example, the plant may be of a variety having ancestry containing at least 40% and up to 60% <i>Cannabis sativa </i>and at least at least 40% and up to 60% <i>Cannabis indica. </i></p>
+<p id="p-0033" num="0032">In some embodiments, the plant in the system and/or exposed to the cyclopropene is a female plant. As mentioned above, some embodiments relate to treating female cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis</i>) such that the plant undergoes commercially valuable phenomena. For example, in some embodiments, the plant is a female plant comprising a male organ. The plant may comprise a male organ based at least in part on exposure of the plant to a cyclopropene in accordance with certain embodiments herein. For example, as shown in <figref idref="DRAWINGS">FIG. <b>1</b>A</figref>, female plant <b>60</b> grown in enclosure <b>50</b> but in the absence of any source of cyclopropene may lack male organs. However, as shown in <figref idref="DRAWINGS">FIG. <b>1</b>B</figref>, plant <b>60</b> grown in enclosure <b>50</b> of system <b>40</b> comprising source of cyclopropene <b>300</b> may be exposed to released cyclopropene <b>330</b> (e.g., in a gas phase) such that plant <b>60</b> grows stamen <b>70</b>, according to certain embodiments. Production of male organs on a female plant may afford production of genetic material by the plant (e.g., in seeds) having two X chromosomes, thereby ensuring production of further female plants and limiting or preventing production of male plants, which can be less commercially valuable. The male organ of the female plant (e.g., induced by exposure to the cyclopropene) may be a male flower. In some embodiments, the plant is a female cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) comprising one or more stamens (e.g., at least 1 stamen, at least 2 stamens, at least 3 stamens, at least 5, and/or up to 10 stamens, up to 20 stamens or more). In some embodiments, the one or more stamens include anthers. The anthers may include pollen. Without being bound by any particular theory, it is believed that cyclopropenes may induce production of male organs (e.g., male flowers, stamens) in female <i>Cannabis </i>plants by associating with ethylene receptors of the plant. For example, in some embodiments, upon exposure to cyclopropene (e.g., 1-MCP), a molecule of the cyclopropene may bind an ethylene receptor of the plant (e.g., by forming a specific noncovalent affinity interaction or a chemical bond such as a covalent bond with the ethylene receptor). Such an association may induce biological signaling in the plant resulting in the production of the male organ.</p>
+<p id="p-0034" num="0033">Any of a variety of sources of cyclopropene may be suitable, depending on the desired exposure conditions. In some embodiments, the source of the cyclopropene comprises the cyclopropene. The source of the cyclopropene may be any composition or fluidic device capable of causing cyclopropene to be available to the plant. In some embodiments, the source of the cyclopropene comprises a composition capable of releasing cyclopropene (e.g., spontaneously, upon exposure to a non-equilibrium condition, upon exposure to a liquid displacing medium). For example, in <figref idref="DRAWINGS">FIG. <b>1</b>B</figref>, source of cyclopropene <b>300</b> is shown as chemical composition <b>200</b> in form factor <b>310</b> and comprising porous adsorbent material <b>100</b> associated with cyclopropene molecules <b>30</b>. In accordance with some embodiments, source of cyclopropene <b>300</b> may be capable of releasing associated cyclopropene (e.g., via desorption, displacement, and/or dissolution) such that released cyclopropene <b>330</b> can be transported away from source of cyclopropene <b>300</b>. Further examples and descriptions of possible chemical compositions for the source of cyclopropene are described in more detail below.</p>
+<p id="p-0035" num="0034">In some embodiments, the source of the cyclopropene is a fluidic device capable of outputting cyclopropene molecules. For example, in some embodiments the source of the cyclopropene comprises a fluidic outlet (e.g., a pipe opening, optionally actuatable with a valve). The fluidic outlet may be fluidically connected to a reservoir of the cyclopropene (e.g., in a solid, liquid, and/or gas phase). In some embodiments the reservoir is a container containing the cyclopropene. In some embodiments in which the systems herein include enclosures for the plant and source, some or all of the reservoir fluidically connected to the fluidic outlet is also within the enclosure. However, in some embodiments, the fluidic outlet is fluidically connected (e.g., via one or more fluidic conduits such as pipes) to a reservoir of cyclopropene outside the enclosure.</p>
+<p id="p-0036" num="0035">As mentioned above, in some embodiments, the source of the cyclopropene comprises the cyclopropene (e.g., the source comprises a composition comprising the cyclopropene associated to an internal and/or external surface of a porous adsorbent material). The cyclopropene (e.g., 1-MCP) may be present in the source of the cyclopropene in an amount of greater than or equal to 0.01 wt %, greater than or equal to 0.02 wt %, greater than or equal to 0.05 wt %, greater than or equal to 0.1 wt %, greater than or equal to 0.2 wt %, greater than or equal to 0.5 wt %, greater than or equal to 1.0 wt %, or greater. In some embodiments, the cyclopropene (e.g., 1-MCP) is present in the source of the cyclopropene in an amount of less than or equal to 50 wt %, less than or equal to 20 wt %, less than or equal to 10 wt %, less than or equal to 5 wt %, less than or equal to 2 wt %, or less. Combinations of these ranges (e.g., greater than or equal to 0.01 wt % and less than or equal to 50 wt %, greater than or equal to 0.1 wt % and less than or equal to 20 wt %, or greater than or equal to 0.5 wt % and less than or equal to 2 wt %) are possible. In some embodiments in which cyclopropene is released from the source of the cyclopropene, the above weight percentages of the cyclopropene correspond to loadings prior to such release.</p>
+<p id="p-0037" num="0036">In some, but not necessarily all embodiments, the system for treating a cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) comprises an enclosure. The enclosure may at least partially enclose the source of the cyclopropene and the plant. In some embodiments, the enclosure completely encloses the source of the cyclopropene and the plant. For example, in <figref idref="DRAWINGS">FIG. <b>1</b>B</figref>, enclosure <b>50</b> completely encloses source of cyclopropene <b>300</b> and plant <b>60</b> such that released cyclopropene <b>330</b> is prevented from exiting enclosure <b>50</b>. In some embodiments, the enclosure comprises solid walls and/or a solid ceiling, and optionally a floor. For example, the enclosure may be, for example, a greenhouse (e.g., configured to maintain a concentration of the cyclopropene in a headspace of the greenhouse). In some embodiments, the enclosure is a chamber (e.g., a chamber capable of being fluidically sealed and having an interior volume in which one or more plants may be grown). In some embodiments, the enclosure comprises one or more additional components for growing plants. For example, the enclosure may comprise one or more light sources and/or one or more water sources (e.g., for irrigation).</p>
+<p id="p-0038" num="0037">The enclosure may have any of a variety of sizes, depending for example on the number of plants being grown and/or treated. The enclosure may define a volume (e.g., in which the plant and source of cyclopropene reside) of greater than or equal to 0.1 m<sup>3</sup>, greater than or equal to 0.2 m<sup>3</sup>, greater than or equal to 0.5 m<sup>3</sup>, greater than or equal to 1 m<sup>3</sup>, greater than or equal to 2 m<sup>3</sup>, greater than or equal to 5 m<sup>3</sup>, and/or up to 8 m<sup>3</sup>, up to 10 m<sup>3</sup>, up to 20 m<sup>3</sup>, up to 50 m<sup>3</sup>, up to 100 m<sup>3</sup>, or more.</p>
+<p id="p-0039" num="0038">In some embodiments, the source of the cyclopropene and the plant are not at least partially enclosed (e.g., by an enclosure). For example, in some embodiments, the system comprises a source of the cyclopropene and the plant in an open area, such as an outdoor field (e.g., on farmland). In some such embodiments lacking an enclosure, the source of the cyclopropene is configured to expose the plant to the cyclopropene via a liquid phase (e.g., via foliar spraying). In other such embodiments lacking an enclosure, the source of the cyclopropene may be configured to expose the plant to the cyclopropene in a gas phase, with the source of the cyclopropene being in contact with the plant or relatively close to the plant (e.g., within 1 m, within 0.5 m, within 200 cm, within 100 cm, within 50 cm, within 10 cm, within 1 cm, or less). A relatively close distance between the source and the plant may promote exposure of the plant to gas-phase cyclopropene at sufficiently high concentrations (e.g., prior to dilution via diffusion).</p>
+<p id="p-0040" num="0039">Any of a variety of distances between the source of the cyclopropene and the plant may be used, depending for example on the nature of the source and the method of exposure. In some embodiments, the source of the cyclopropene is in contact with the plant. For example, the source of the cyclopropene may be a composition comprising the cyclopropene in a form factor from which the cyclopropene is released, and that form factor may be placed in contact with the plant (e.g., hanging from a plant, placed on the plant, etc.). In some embodiments, the source of the cyclopropene is located at a distance from the plant. For example, the source may be located at a distance from the plant for methods of exposure involving releasing gas-phase cyclopropene (e.g., for fumigation of the enclosure). In some embodiments, a distance between the source of the cyclopropene and the plant is large enough to promote homogeneous exposure of the plant to the cyclopropene (e.g., during gas phase methods). For example, in some embodiments, a distance between the source of the cyclopropene and the plant is greater than or equal to 1 cm, greater than or equal to 10 cm, greater than or equal to 50 cm, greater than or equal to 1 m, greater than or equal to 5 m, or greater. In some embodiments, a distance between the source of the cyclopropene and the plant is not so large that the cyclopropene is dispersed so much that low atmospheric concentrations of the cyclopropene surrounding the plant result unless large quantities of cyclopropene are released. For example, in some embodiments, a distance between the source of the cyclopropene and the plant is less than or equal to 50 m, less than or equal to 20 m, less than or equal to 10 m, less than or equal to 5 m, or less. Combinations of these ranges (e.g., greater than or equal to 1 cm and less than or equal to 50 m, greater than or equal to 10 cm and less than or equal to 20 m) are possible. The distance between the source and the plant in this context refers to a smallest distance from a point of release of the cyclopropene from the source to an above-soil part of the plant.</p>
+<p id="p-0041" num="0040">As mentioned above, certain embodiments involve exposing a cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) to a cyclopropene (e.g., 1-MCP). Exposure of a plant to a substance generally refers to causing the plant to be in contact with the substance (at an exterior surface of the plant and/or within the plant matter). One way in which a plant may be in contact with a cyclopropene is by having cyclopropene molecules associate with receptors of the plant (e.g., ethylene receptors). Another way in which a plant may be in contact with a cyclopropene is where molecules of the cyclopropene are within 1 mm, within 500 microns, within 100 microns, within 50 microns, within 10 microns, within 5 microns, within 1 micron, within 100 nm, within 50 nm, within 10 nm, within 5 nm, within 1 nm, or closer to any part of the plant. For example, in an embodiment in which at least some gas-phase molecules of the cyclopropene are within such a close distance as described above, that plant is considered to be in contact with a cyclopropene. As another example, a plant in contact with a liquid comprising the cyclopropene (e.g., following spraying of the plant with the liquid) is also considered to be a plant in contact with a cyclopropene.</p>
+<p id="p-0042" num="0041">The exposing step may result in the cyclopropene interacting with biological phenomena of the plant (e.g., by binding receptors such as ethylene receptors). Such an exposure may be accomplished in any of a variety of ways. For example, some embodiments comprise exposing the plant to a cyclopropene, where the cyclopropene is in a gas-phase. For example, a cyclopropene gas (e.g., 1-MCP gas) may be released from the source of the cyclopropene such that gas-phase molecules are transported to the plant and contact the plant (e.g., via diffusion, convection, and/or driven circulation such as by air-handling systems). For example, in <figref idref="DRAWINGS">FIG. <b>1</b>B</figref>, released cyclopropene <b>330</b> is in a gas phase and can contact plant <b>60</b> within enclosure <b>50</b>. One example of gas-phase exposure is fumigating an enclosure containing the plant with gas-phase cyclopropene. In some embodiments involving exposing the plant to cyclopropene in the gas-phase, a relatively large percentage of the total amount of cyclopropene to which the plant is exposed is in the gas-phase (e.g., at least 10 wt %, at least 25 wt %, at least 50 wt %, at least 75 wt %, at least 90 wt %, at least 95 wt %, at least 98 wt %, at least 99 wt %, or 100 wt % of the total amount of cyclopropene to which the plant is exposed is in the gas phase). Another approach to exposing the plant with the cyclopropene is contacting the plant with the cyclopropene in the liquid phase (e.g., using a liquid mixture comprising the cyclopropene in a liquid solvent). Liquid-phase cyclopropene may be applied, for example, via spraying (e.g., from a nozzle), misting, pouring, squirting, and the like.</p>
+<p id="p-0043" num="0042">In some embodiments, the plant is exposed to the cyclopropene such that the cyclopropene contacts the plant homogeneously with respect to the outer surfaces of the plant. That is, in some embodiments, a flux of cyclopropene is relatively uniform throughout the outer surfaces of the above-soil parts of the plant (e.g., within 50%, within 20%, within 10%, within 5%, within 2%, within 1%, or less of the average flux experienced by the above-soil parts of the plant) during exposure. It has been realized that this approach can result in some instances in desired changes in the plant (e.g., phenotypical changes) in a homogeneous manner. Such homogeneous effects (e.g., homogeneous distribution of male organs, homogeneous distribution of increased biomass) stands in contrast to certain existing methods for applying active ingredients to cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis</i>), which typically involve techniques such as foliar spraying that tend to result in localized effects in the plants. Localized effects are typically less desirable. One exemplary way to contact the plant homogeneously with the cyclopropene molecules is to contact the plant with gas-phase cyclopropene molecules (e.g., via fumigation).</p>
+<p id="p-0044" num="0043">Some embodiments comprise control releasing the cyclopropene from the source such that the plant is exposed to the cyclopropene. Techniques for control release of active ingredients such as cyclopropenes are described in more detail below. Control release of cyclopropene may allow for the plant to be exposed to a flux of cyclopropene for a desired duration (e.g., such that desirable effects in the plant are achieved.).</p>
+<p id="p-0045" num="0044">Some embodiments comprise releasing the cyclopropene from a source of the cyclopropene at a rate of greater than or equal to 0.1 &#x3bc;L/g/hr, greater than or equal to 0.2 &#x3bc;L/g/hr, greater than or equal to 0.5 &#x3bc;L/g/hr, greater than or equal to 1 &#x3bc;L/g/hr, greater than or equal to 2 &#x3bc;L/g/hr, greater than or equal to 5 &#x3bc;L/g/hr, greater than or equal to 10 &#x3bc;L/g/hr, greater than or equal to 20 &#x3bc;L/g/hr, greater than or equal to 50 &#x3bc;L/g/hr, and/or up to 100 &#x3bc;L/g/hr, up to 200 &#x3bc;L/g/hr, up to 500 &#x3bc;L/g/hr, up to 1000 &#x3bc;L/g/hr, or more. Such a rate may be with respect to a mass of a composition comprising the cyclopropene (e.g., a mass of a porous adsorbent material and associated cyclopropene). In some embodiments, the cyclopropene is released at rates in the above ranges at hour 1 following commencement of release (e.g., via exposure to a non-equilibrium condition or a displacement medium).</p>
+<p id="p-0046" num="0045">It has been realized that an amount and/or duration of exposure of the cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) can affect resulting phenomena. It has been realized that exposure to too little of the cyclopropene (e.g., too low a concentration and/or too short of a duration) can result in no or attenuated effects being observed in the plant. It has also been realized that exposure to too much of the cyclopropene (e.g., too high of a concentration and/or too long of a duration) can result in deleterious effects in the plant, such as stunted growth or other types of harm, and/or safety concerns (such as explosion hazards). In some embodiments, a concentration of the cyclopropene in an environment surrounding the plant (e.g., in the air or headspace surrounding the plant) and the source of the cyclopropene is greater than or equal to 1 ppb, greater than or equal to 10 ppb, greater than or equal to 100 ppb, greater than or equal to 200 ppb, greater than or equal to 500 ppb, greater than or equal to 1 ppm, greater than or equal to 2 ppm, greater than or equal to 3 ppm, greater than or equal to 5 ppm, greater than or equal to 10 ppm, and/or up to 15 ppm, up to 20 ppm, up to 30 ppm, up to 40 ppm, up to 50 ppm, up to 100 ppm, or more. As an example, such a concentration may be attained in the enclosure (e.g., by sealing the enclosure). For example, in <figref idref="DRAWINGS">FIG. <b>1</b>B</figref>, environment <b>55</b> in enclosure <b>50</b> may have a concentration of released cyclopropene in any of the ranges above. In some embodiments, an exposure step comprises establishing a concentration of the cyclopropene in an environment surrounding the plant and the source of the cyclopropene in any of these ranges for a period of time of greater than or equal to 1 hour, greater than or equal to 2 hours, greater than or equal to 4 hours, greater than or equal to 6 hours, greater than or equal to 12 hours, greater than or equal to 18 hours, greater than or equal to 24 hours, and/or up to 48 hours, up to 72 hours, up to 96 hours, or more. In some embodiments, the concentration of the cyclopropene (e.g., 1-MCP) is reduced following such an exposure step (e.g., such that no observable 1-MCP is in the surrounding environment). In some embodiments, exposure steps involving establishing concentrations in the above ranges for the above periods of time are performed at least 1 time, at least 2 times, at least 3 times, at least 4 times, at least 5 times, at least 10 times, or more. Time intervals between exposure steps (e.g., during which no further cyclopropene may be released) may be, for example, greater than or equal to 12 hours, greater than or equal to 24 hours, greater than or equal to 2 days, greater than or equal to 3 days, greater than or equal to 5 days, greater than or equal to 1 week, greater than or equal to 2 weeks, greater than or equal to 5 weeks, or more.</p>
+<p id="p-0047" num="0046">Exposure of the cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) may be performed during any of a variety of time periods with respect to the life cycle and/or harvest of the plant. As is generally known, cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis</i>) undergo various stages of development including a seedling stage, a vegetative stage, a flowering stage, and, ultimately harvesting. In some embodiments, a step of exposing a cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) to the cyclopropene (e.g., 1-MCP) is started within 10 weeks, within 7 weeks, within 5 weeks, or within 3 weeks, within 2 weeks, within 1 week, or less of the plant entering a vegetative stage. In some such embodiments, a first exposure of the plant to the cyclopropene occurs within this time period. In some embodiments, a step of exposing a cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) to the cyclopropene (e.g., 1-MCP) is started at least 1 day, at least 2 days, at least 3 days, at least 5 days, at least 1 week, at least two weeks, or more after the plant begins its vegetative stage. It has been realized that early exposure of the plants to the cyclopropene may promote greater inducement of desirable biological effects (e.g., growth of male organs on female plants, changes in biomass, changes in phenotypical properties such as color, etc.) than if exposure occurs later in the plant's development cycle. However, it has also been realized that exposing the plant to the cyclopropene too early in the plant's development may cause undesirable results such as harm to the plant.</p>
+<p id="p-0048" num="0047">In some embodiments, the step of a step of exposing a cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) to the cyclopropene (e.g., 1-MCP) is performed prior to a flowering period of the plant (e.g., at least 1 weeks, at least 2 weeks, or more prior to the flowering period). In some embodiments, no steps of exposing the plant to the cyclopropene is performed during a flowering period of the plant. However, in some embodiments, a step of exposing a cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) to the cyclopropene is performed during a flowering period of the plant (e.g., within 3 weeks of flowering, within 2 weeks of flowering, within 1 week of flowering, or less).</p>
+<p id="p-0049" num="0048">In some embodiments, exposure of the plant to a cyclopropene induces a phenotypical change in the plant. As mentioned above, in some embodiments, exposure to the cyclopropene induces formation of male organs (e.g., male flowers, stamens) on female cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis</i>). In some embodiments, exposure to the cyclopropene causes the plant to have coloring different than the plant would have in the absence of exposure. For example, in some instances, exposure to the cyclopropene causes the plant to have a purple coloring. Such a purple coloring may be more desirable to consumers in some instances. With the benefit of this disclosure, one of ordinary skill would be able to select and/or screen for varieties (e.g., hybrid strains) of cannabinoid-producing plants (e.g., <i>Cannabis </i>plants) able to undergo the described phenotypical changes and/or biomass/cannabinoid profile effects.</p>
+<p id="p-0050" num="0049">It has been observed herein that, in some instances, exposure of cannabinoid-producing plants (e.g., plants of the genus <i>Cannabis</i>) to cyclopropene causes the plant to have a biomass (e.g., total biomass and/or trimmed biomass) greater than would otherwise be observed. It has also been observed herein that in some instances exposure of plants to cyclopropene does not cause a significant reduction in biomass (e.g., total biomass and/or trimmed biomass). For example, in some embodiments, following the exposing step, the plant has a biomass greater than an equivalent plant not subjected to the exposing step but grown under otherwise identical conditions (e.g., by a factor of greater than or equal to 1.01, greater than or equal to 1.02, greater than or equal to 1.05, greater than or equal to 1.1, and/or up to 1.2, up to 1.3, or greater). In some embodiments, following the exposing step, the plant has a biomass within 20%, within 10%, within 5%, within 2%, within 1%, or equal to an equivalent plant not subjected to the exposing step but grown under otherwise identical condition. In this context, an equivalent plant refers to a plant of the same genotype and at the same point of development.</p>
+<p id="p-0051" num="0050">It has been observed herein that, in some instances, exposure of plants to cyclopropene does not cause a significant reduction in cannabinoid content in the plant. In some embodiments, following the exposing step, the plant has a total amount cannabinoids within 20%, within 10%, within 5%, within 2%, within 1%, or equal to an equivalent plant not subjected to the exposing step but grown under otherwise identical conditions. In some embodiments, following the exposing step, the plant has an amount of an individual cannabinoid within 20%, within 10%, within 5%, within 2%, within 1%, or equal to an equivalent plant not subjected to the exposing step but grown under otherwise identical condition. As would be understood by one of ordinary skill in the art, a percentage difference is measured relative to the lower value. For example, if the total amount of cannabinoids following the exposing step is 20 wt % and the total amount of cannabinoids in an equivalent plant not subjected to the exposing step but grown under otherwise identical conditions is 22 wt %, then the total amount of cannabinoids in the plant following the exposing step is within 10% of the total amount of cannabinoids in an equivalent plant not subjected to the exposing step but grown under otherwise identical conditions (because [22 wt %&#x2212;20 wt %]/20 wt %&#xd7;100%=10%). As another example, if the total amount of cannabinoids following the exposing step is 22 wt % and the total amount of cannabinoids in an equivalent plant not subjected to the exposing step but grown under otherwise identical conditions is 20 wt %, then the total amount of cannabinoids in the plant following the exposing step is within 10% of the total amount of cannabinoids in an equivalent plant not subjected to the exposing step but grown under otherwise identical conditions (because, again, [22 wt %&#x2212;20 wt %]/10 wt %&#xd7;100%=10%).</p>
+<p id="p-0052" num="0051">Individual cannabinoids include, but are not limited to cannabinol (CBD), &#x394;-9-tetrahydrocannabidiol (THC), tetrahydrocannabinolic acid (THCA), tetrahydrocannabivarinic acid (THCVA), cannabigerolic acid (CBGA), cannabidiolic acid (CBDA), cannabidivarinic acid (CBDVA), and cannabichromenic acid (CBCA). Suitable conditions and techniques for quantitative measurement of biomass (total or trimmed) and cannabinoids are described in the examples below.</p>
+<p id="p-0053" num="0052">It has been observed herein that phenotypical changes or biomass/cannabinoid profile effects upon cyclopropene exposure may be dependent on the variety of cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) exposed, as described in the examples below. With the benefit of this disclosure, one of ordinary skill would be able to select and/or screen for varieties (e.g., hybrid strains) of <i>Cannabis </i>plants able to undergo the described phenotypical changes and/or biomass/cannabinoid profile effects.</p>
+<p id="p-0054" num="0053">As used herein cyclopropene compounds are also referred to interchangeably as &#x201c;cyclopropene&#x201d; or &#x201c;cyclopropenes&#x201d;. Additionally, one or more cyclopropene compounds as used herein can mean one cyclopropene compound or more than one cyclopropene compound (e.g., two cyclopropene compounds, three cyclopropene compounds, or more). In some embodiments, cyclopropenes comprise organic compounds containing any unsubstituted or substituted three-carbon cyclic ring with an unsaturated or olefinic bond (of the root formula C<sub>3</sub>H<sub>x</sub>), or any organic compound containing a cyclopropene moiety. The simplest example of this class of molecules is cyclopropene, the simplest cycloalkene. The cyclopropene unit has a triangular structure. Cyclopropenes also include cyclopropene derivatives, such as 1-methylcyclopropene (1-MCP; molecular formula C<sub>4</sub>H<sub>6</sub>), or other cyclopropene derivatives (including, but not limited to borirenes, phosphirenes, and silirenes, which are boron-, phosphorus-, and silicon-substituted cyclopropenes respectively).</p>
+<p id="p-0055" num="0054">As used herein, a cyclopropene compound, also referred to herein interchangeably as a cyclopropene or cyclopropenes, is any compound with the formula</p>
+<p id="p-0056" num="0000"><chemistry id="CHEM-US-00001" num="00001">
+<img id="EMI-C00001" he="12.78mm" wi="18.63mm" file="US20230225317A1-20230720-C00001.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0057" num="0055">where each R<sup>1</sup>, R<sup>2</sup>, R<sup>3 </sup>and R<sup>4 </sup>is independently selected from the group consisting of H and a chemical group of the formula:</p>
+<p id="p-0058" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>-(L)<sub>n</sub>-Z,<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0059" num="0056">where n is an integer from 0 to 12, each L is a bivalent radical, and Z is a monovalent radical. Non-limiting examples of L groups include radicals containing one or more atoms selected from H, B, C, N, O, P, S Si, or mixtures thereof. The atoms within an L group may be connected to each other by single bonds, double bonds, triple bonds, or mixtures thereof. Each L group may be linear, branched, cyclic, or a combination thereof. In any one R group (e.g., any one of R<sup>1</sup>, R<sup>2</sup>, R<sup>3 </sup>and R<sup>4</sup>) the total number of heteroatoms (e.g., atoms that are neither H nor C) is from 0 to 6. Independently, in any one R group the total number of non-hydrogen atoms is 50 or less. Non-limiting examples of Z groups are hydrogen, halo, cyano, nitro, nitroso, azido, chlorate, bromate, iodate, isocyanato, isocyanido, isothiocyanato, pentafluorothio, and a chemical group G, wherein G is a 3 to 14 membered ring system.</p>
+<p id="p-0060" num="0057">The R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup>, and R<sup>4 </sup>groups may be independently selected from the suitable groups. Among the groups that are suitable for use as one or more of R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup>, and R<sup>4 </sup>are, for example, aliphatic groups, aliphatic-oxy groups, alkylphosphonato groups, cycloaliphatic groups, cycloalkylsulfonyl groups, cycloalkylamino groups, heterocyclic groups, aryl groups, heteroaryl groups, halogens, silyl groups, other groups, and mixtures and combinations thereof. Groups that are suitable for use as one or more of R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup>, and R<sup>4</sup>may be substituted or unsubstituted.</p>
+<p id="p-0061" num="0058">Among the suitable R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup>, and R<sup>4 </sup>groups are, for example, aliphatic groups. Some suitable aliphatic groups include, for example, alkyl, alkenyl, and alkynyl groups. Suitable aliphatic groups may be linear, branched, cyclic, or a combination thereof. Independently, suitable aliphatic groups may be substituted or unsubstituted.</p>
+<p id="p-0062" num="0059">As used herein, a chemical group of interest is said to be &#x201c;substituted&#x201d; if one or more hydrogen atoms of the chemical group of interest is replaced by a substituent.</p>
+<p id="p-0063" num="0060">Also among the suitable R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup>, and R<sup>4 </sup>groups are, for example, substituted and unsubstituted heterocyclyl groups that are connected to the cyclopropene compound through an intervening oxy group, amino group, carbonyl group, or sulfonyl group; examples of such R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup>, and R<sup>4 </sup>groups are heterocyclyloxy, heterocyclylcarbonyl, diheterocyclylamino, and diheterocyclylaminosulfonyl.</p>
+<p id="p-0064" num="0061">Also among the suitable R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup>, and R<sup>4 </sup>groups are, for example, substituted and unsubstituted heterocyclic groups that are connected to the cyclopropene compound through an intervening oxy group, amino group, carbonyl group, sulfonyl group, thioalkyl group, or aminosulfonyl group; examples of such R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup>, and R<sup>4 </sup>groups are diheteroarylamino, heteroarylthioalkyl, and diheteroarylaminosulfonyl.</p>
+<p id="p-0065" num="0062">Also among the suitable R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup>, and R<sup>4 </sup>groups are, for example, hydrogen, fluoro, chloro, bromo, iodo, cyano, nitro, nitroso, azido, chlorato, bromato, iodato, isocyanato, isocyanido, isothiocyanato, pentafluorothio; acetoxy, carboethoxy, cyanato, nitrato, nitrito, perchlorato, alkenyl, butylmercapto, diethylphosphonato, dimethylphenylsilyl, isoquinolyl, mercapto, naphthyl, phenoxy, phenyl, piperidine, pyridyl, quinolyl, triethylsilyl, trimethylsilyl; and substituted analogs thereof.</p>
+<p id="p-0066" num="0063">As used herein, the chemical group G is a 3 to 14 membered ring system. Ring systems suitable as chemical group G may be substituted or unsubstituted; they may be aromatic (including, for example, phenyl and naphthyl) or aliphatic (including unsaturated aliphatic, partially saturated aliphatic, or saturated aliphatic); and they may be carbocyclic or heterocyclic. Among heterocyclic G groups, some suitable heteroatoms are, for example, nitrogen, sulfur, oxygen, and combinations thereof. Ring systems suitable as chemical group G may be monocyclic, bicyclic, tricyclic, polycyclic, spiro, or fused; among suitable chemical group G ring systems that are bicyclic, tricyclic, or fused, the various rings in a single chemical group G may be all the same type or may be of two or more types (for example, an aromatic ring may be fused with an aliphatic ring).</p>
+<p id="p-0067" num="0064">In one embodiment, one or more of R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup>, and R<sup>4 </sup>is hydrogen or (C<sub>1</sub>-C<sub>10</sub>) alkyl. In another embodiment, each of R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup>, and R<sup>4 </sup>is hydrogen or (C<sub>1</sub>-C<sub>8</sub>) alkyl. In another embodiment, each of R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup>, and R<sup>4</sup>is hydrogen or (C<sub>1</sub>-C<sub>4</sub>) alkyl. In another embodiment, each of R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup>, and R<sup>4 </sup>is hydrogen or methyl. In another embodiment, R<sup>1 </sup>is (C<sub>1</sub>-C<sub>4</sub>) alkyl and each of R<sup>2</sup>, R<sup>3</sup>, and R<sup>4</sup>is hydrogen. In another embodiment, R<sup>1 </sup>is methyl and each of R<sup>2</sup>, R<sup>3 </sup>and R<sup>4 </sup>is hydrogen, and the cyclopropene compound is known herein as 1-methylcyclopropene or &#x201c;1-MCP.&#x201d;</p>
+<p id="p-0068" num="0065">In some embodiments, the cyclopropene is released from a composition comprising a porous adsorbent material. For example, in some embodiments, a source of a cyclopropene (e.g., in fluidic communication with a cannabinoid-producing plant (e.g., plant of the genus <i>Cannabis</i>) and/or in an enclosure with the plant) comprises the cyclopropene associated with a porous adsorbent material. A variety of potentially suitable porous adsorbent materials may be used with the guidance of this disclosure, including but not limited to carbon material and/or silicate materials. In some embodiments, the porous adsorbent material comprises combinations of porous solids (e.g., soft rocks such as diatomaceous earth). In some embodiments, the porous adsorbent material comprises a gelatinous material. For example, the porous adsorbent material may be collagen-derived (e.g., gelatin). In some embodiments, the porous adsorbent material comprises a mixture of different types of materials (e.g., a mixture that includes both a carbon material and a silicate material, or a mixture that includes both diatomaceous earth and gelatin).</p>
+<p id="p-0069" num="0066">Adsorbent materials are generally capable of associating and retaining a second substance under at least one set of conditions. It should be understood that while adsorbent materials may, in some instances, associate the second substance (e.g., on to internal or external surfaces of the adsorbent) via adsorption, any of a variety of specific or non-specific interactions may contribute to association either alone or in combination, depending on the physical and chemical properties of the respective materials. An adsorbent material may associate other substances in an amount greater than or equal to 0.01 wt %, greater than or equal to 0.1 wt %, greater than or equal to 1 wt %, greater than or equal to 5 wt %, and/or up to 10 wt %, up to 25 wt %, up to 45 wt %, or up to 50 wt % versus the total weight of the adsorbent material and the associated substance.</p>
+<p id="p-0070" num="0067">As described in more detail below, a porous adsorbent material may comprise any of a variety of pores, such as macropores, mesopores, and/or micropores. The presence of pores may promote desirable release profiles for active ingredients (e.g., cyclopropenes) by providing sufficient surface area for association of active ingredients, while in some instances tuning release rates (e.g., by affecting diffusion properties of associated active ingredient).</p>
+<p id="p-0071" num="0068">In some embodiments, the cyclopropene is associated with the porous adsorbent material. The cyclopropene may be associated with the porous adsorbent material in any of a variety of manners, and methods and systems described herein are not limited to any particular mechanism of association. In some embodiments, the cyclopropene is adsorbed to an interior and/or exterior surface of the porous adsorbent material. Adsorption of the cyclopropene to a surface may be primarily based on non-specific forces such as van der Waals forces. However, in some embodiments, a cyclopropene may be specifically associated with the porous adsorbent material via any of a variety of interactions such as covalent bonds, electrostatic interactions, pi-pi stacking, or specific noncovalent affinity interactions (e.g., via a functional group and/or complexing agent immobilized on a surface of the porous adsorbent material). In some embodiments, the cyclopropene is associated with the porous adsorbent material via adhesive forces. For example, a liquid cyclopropene may associate with a porous adsorbent material via capillary forces when wetting a surface of the porous adsorbent material.</p>
+<p id="p-0072" num="0069">In some embodiments, the cyclopropene is within a bulk of the porous adsorbent material. Being within a bulk of the porous adsorbent material (e.g., within an inner 80% of the macroscopic volume of the porous adsorbent material) as opposed to being solely associated with an outer macroscopic surface of the porous adsorbent material may contribute at least in part to relatively high loadings of the cyclopropene as well as a tuning of release rates of the cyclopropene. In some embodiments, the cyclopropene is within at least some of the pores of the porous adsorbent material (e.g., adsorbed to a surface within pores of the porous adsorbent substrate).</p>
+<p id="p-0073" num="0070"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a cross-sectional schematic illustration of a non-limiting illustrative embodiment of matrix <b>200</b> comprising cyclopropene <b>20</b> and porous adsorbent material <b>100</b>. In a non-limiting embodiment, a matrix consists essentially of porous adsorbent material <b>100</b> and cyclopropene <b>20</b>. In the schematic illustration in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, matrix <b>200</b> contains at least one macropore <b>10</b>, at least one mesopore <b>11</b>, and at least one micropore <b>12</b>. In a non-limiting embodiment, at least one of the macropore <b>10</b>, mesopore <b>11</b>, and micropore <b>12</b> contains cyclopropene <b>20</b>. Matrix <b>200</b> illustrates cyclopropene <b>20</b> contained in macropores <b>10</b> and mesopores <b>11</b> of the matrix <b>200</b>. Micropores <b>12</b> may also contain cyclopropene <b>20</b>. As <figref idref="DRAWINGS">FIG. <b>2</b></figref> is a non-limiting example and is not drawn to scale, it should be noted that other storage concentrations of cyclopropene <b>20</b> in matrix <b>200</b> can be achieved by the embodiments contemplated herein. Moreover, different positions of cyclopropene <b>20</b> within the pores <b>10</b>, <b>11</b>, <b>12</b> of matrix <b>200</b> are also contemplated. In a non-limiting embodiment, cyclopropene <b>20</b> is 1-MCP.</p>
+<p id="p-0074" num="0071"><figref idref="DRAWINGS">FIG. <b>2</b></figref> also illustrates cyclopropene <b>21</b>. Cyclopropene <b>21</b> is the same cyclopropene as cyclopropene <b>20</b>; however, cyclopropene <b>21</b> has been released or liberated from matrix <b>200</b>. The matrices herein may be configured for release of cyclopropene. In a non-limiting embodiment the cyclopropene is in the gas phase.</p>
+<p id="p-0075" num="0072">In some embodiments, the porous adsorbent material comprises one or more of macropores, mesopores, and micropores. In a non-limiting embodiment, macropores are pores having a diameter greater than 50 nm. For example, macropores may have diameters of between 50 and 1000 nm. In a non-limiting embodiment, mesopores are pores having a diameter between 2 nm and 50 nm. In a non-limiting embodiment, micropores are pores having a diameter of less than 2 nm. For example, micropores may have diameters of between 0.2 and 2 nm. Pore diameters may be determined using, for example, the method of Barrett, Joyner, and Halenda in ASTM Standard Test Method D4641-17.</p>
+<p id="p-0076" num="0073">In some embodiments, at least 10%, at least 25%, at least 50%, at least 75%, at least 90%, at least 95%, at least 98%, at least 99%, or more of the total pore volume of the adsorbent material is occupied by pores having a pore diameter of at least 0.1 nm, at least 0.2 nm, at least 0.5 nm, at least 1 nm, at least 2 nm, at least 5 nm, at least 10 nm, at least 20 nm, at least 50 nm, or greater. In some embodiments, at least 10%, at least 25%, at least 50%, at least 75%, at least 90%, at least 95%, at least 98%, at least 99%, or more of the total pore volume of the adsorbent material is occupied by pores having a pore diameter less than or equal to 1000 nm, less than or equal to 500 nm, less than or equal to 200 nm, less than or equal to 100 nm, less than or equal to 50 nm, less than or equal to 20 nm, less than or equal to 10 nm, less than or equal to 5 nm, less than or equal to 2 nm, or less. Combinations of these ranges are possible.</p>
+<p id="p-0077" num="0074">In some embodiments, the porous adsorbent material is a solid material having a high surface area, as described in more detail herein. Without wishing to be limited by any particular theory or mechanism, porous, high surface area materials may be beneficial in some applications due to their adsorption capacity and sufficient affinity arising from that adsorption capacity to exhibit volatile retention (e.g., of cyclopropenes) greater than the evaporation retention of a neat liquid. In a non-limiting embodiment, a high-surface area material is a material with a total chemical surface area, internal and external, of at least 100 m<sup>2</sup>/g. In some embodiments, a high-surface area material is a material with a total chemical surface area, internal and external, greater than or equal to 400 m<sup>2</sup>/g. In some embodiments, a high-surface area material is a material with a total chemical surface area, internal and external, of at least 500 m<sup>2</sup>/g. In some embodiments, a high-surface area material is a material with a total chemical surface area, internal and external, greater than or equal to 1000 m<sup>2</sup>/g. In some embodiments, a high-surface area material is a material with a total chemical surface area, internal and external, greater than or equal to 2000 m<sup>2</sup>/g. The terms &#x201c;total chemical surface area, internal and external&#x201d;, &#x201c;chemical surface area&#x201d; and &#x201c;surface area&#x201d; are used interchangeably herein.</p>
+<p id="p-0078" num="0075">In an embodiment, a porous adsorbent material has a surface area in the range of 100 to 1500 m<sup>2</sup>/g. In an embodiment, a porous adsorbent material has a surface area in the range of 300 to 1500 m<sup>2</sup>/g. In an embodiment, a porous adsorbent material has a surface area in the range of 500 to 1500 m<sup>2</sup>/g. In an embodiment, a porous adsorbent material has a surface area in the range of 600 to 1500 m<sup>2</sup>/g. In an embodiment, a porous adsorbent material has a surface area in the range of 650 to 1500 m<sup>2</sup>/g. In an embodiment, a porous adsorbent material has a surface area in the range of 650 to 1300 m<sup>2</sup>/g. In an embodiment, a porous adsorbent material has a surface area in the range of 650 to 1200 m<sup>2</sup>/g. In an embodiment, a porous adsorbent material has a surface area in the range of 800 to 1200 m<sup>2</sup>/g. In an embodiment, a porous adsorbent material has a surface area in the range of 850 to 1200 m<sup>2</sup>/g. In an embodiment, a porous adsorbent material has a surface area in the range of 900 to 1200 m<sup>2</sup>/g. In an embodiment, a porous adsorbent material has a surface area in the range of 900 to 1150 m<sup>2</sup>/g. In an embodiment, a porous adsorbent material has a surface area in the range of 900 to 1500 m<sup>2</sup>/g. Those of ordinary skill in the will be aware of methods for determining the total chemical surface area, internal and external, for example, using Brunauer-Emmett-Teller (BET) analysis of nitrogen or noble gas desorption when a material (e.g., a porous material) is exposed to vacuum at a given temperature, for instance as by the ISO 9277 standard.</p>
+<p id="p-0079" num="0076">In some embodiments, the source of cyclopropene comprises a porous adsorbent material comprising a carbon material. A carbon material may be of various geometries and formations including, but not limited to, macroporous, mesoporous, and microporous carbon materials, monolithic carbon materials, extruded or pelletized carbon materials, steam-activated carbon materials, oxidized carbon materials, or acid- or base-treated carbon materials. In some embodiments, the following carbon materials may be used as porous absorbent materials for the sources of cyclopropene described herein: carbon black (e.g., such as generally indicated by CAS No.: 1333-86-4) or lampblack carbon; activated carbon (also referred to as activated charcoal) (e.g., such as generally indicated by CAS No.: 7440-44-0); carbon in powder, granule, film, or extrudate form; optionally, carbon mixed with one or more adjuvants or diluents; carbon (e.g., activated carbon) sold commercially; carbon derived from coconut, coal, wood, anthracite, or sand (Carbon Activated Corporation) and the like; reactivated carbon; ash, soot, char, charcoal, coal, or coke; vitreous carbon; glassy carbon; bone charcoal. Each of those carbons, whether commercially acquired or manufactured by hand as known in the art can be further modified to form other porous adsorbent materials for the release device described herein by operations including, but not limited to heat treating materials, oxidation, and/or acid- or base-treatment to arrive at other porous adsorbent materials and matrices described herein. Therefore, any carbons derived from, for example: carbon black or lampblack carbon, activated carbon or activated charcoal, carbon in powder, granule, film, or extrudate form reactivated carbon, ash, soot, char, charcoal, coal, or coke, vitreous carbon, glassy carbon, or bone charcoal through the modification of the parent carbon with, for example, adsorption-modifying functionalities, one or more acids, bases, oxidants, hydrolyzing reagents, or a combination thereof may be used to form the compositions described herein. Non-limiting examples of carbon materials are described in U.S. Patent Application Publication No. US 2019/0037839 published on Feb. 7, 2019 and entitled &#x201c;Compositions for Controlled Release of Active Ingredients and Methods of Making Same,&#x201d; which is incorporated herein by reference in its entirety for all purposes.</p>
+<p id="p-0080" num="0077">In a non-limiting embodiment, a porous adsorbent material that is a carbon material comprises carbon in an amount of greater than or equal to 75 wt %, greater than or equal to 80 wt %, greater than or equal to 90 wt %, greater than or equal to 93 wt %, greater than or equal to 94 wt %, greater than or equal to 95 wt %, and/or up to 99 wt %, or up to 100 wt %.</p>
+<p id="p-0081" num="0078">In some embodiments where the porous adsorbent material comprises a carbon material, a relatively high percentage of the carbon material is elemental carbon (carbon having an oxidation state of 0). In some embodiments, the carbon material comprises elemental carbon in an amount of greater than or equal to 50 atomic percent (at %), greater than or equal to 75 at %, greater than or equal to 90 at %, greater than or equal to 95 at %, greater than or equal to 98 at %, and/or up to 99 at %, or up to 100 at %.</p>
+<p id="p-0082" num="0079">In some embodiments, the porous adsorbent material has a relatively high iodine number. In some embodiments, the porous adsorbent material (e.g., a carbon material, a silicate material) has an iodine number of greater than or equal to 0 mg/g, greater than or equal to 100 mg/g, greater than or equal to 200 mg/g, greater than or equal to 500 mg/g, greater than or equal to 800 mg/g, greater than or equal to 1000 mg/g, and/or up to 1200 mg/g, up to 1500 mg/g, up to 2000 mg/g, or higher. Combinations of these ranges (e.g., greater than or equal to 0 mg/g and less than or equal to 2000 mg/g, greater than or equal 500 mg/g and less than or equal to 2000 mg/g, or greater than or equal to 800 mg/g and less than or equal to 1200 mg/g) are possible.</p>
+<p id="p-0083" num="0080">In a non-limiting embodiment, the composition comprises a porous adsorbent material being a silicate material, (also referred to herein as a silica-based material). Silica-based materials generally include silicon atoms and oxygen atoms at least some of which are bound to silicon atoms. The silicon atoms and the oxygen atoms may be present in the silica-based material, for example, in the form of oxidized silicon. Silica-based materials include materials that are or comprise silicon dioxide, other forms of silicates, and combinations thereof. Silica-based materials may include, in addition to the silicon and oxygen atoms, other materials such as metal oxides (e.g., aluminum oxide (Al<sub>2</sub>O<sub>3</sub>)). Silica-based materials may include organosilicate hybrids. In some embodiments, the amount of silicon atoms, by weight, in the silica-based material is at least 1 wt %, at least 3 wt %, at least 5 wt %, at least 10 wt %, or at least 20 wt %. In some embodiments, the amount of oxygen atoms, by weight, in the silica-based material is at least 1 wt %, at least 3 wt %, at least 5 wt %, at least 10 wt %, or at least 20 wt %. In certain embodiments, the total amount of the silicon atoms and the oxygen atoms within the silica-based material is at least 1 wt %, at least 3 wt %, at least 5 wt %, at least 10 wt %, at least 20 wt %, at least 25 wt %, at least 30 wt %, at least 40 wt %, at least 50 wt %, at least 60 wt %, at least 70wt %, at least 80 wt %, at least 90 wt %, at least 95 wt %, or at least 99 wt %.</p>
+<p id="p-0084" num="0081">In a non-limiting embodiment, the porous adsorbent material (e.g., the silica-based material) is or comprises a silicate. Silicates may include neosilicates, sorosilicates, cyclosilicates, inosilicates, phyllosilicates, and tectosilicates. In some embodiments, the porous adsorbent material comprises silicate in an amount of at least 1 wt %, at least 3 wt %, at least 5 wt %, at least 10 wt %, at least 20 wt %, at least 25 wt %, at least 30 wt %, at least 40 wt %, at least 50 wt %, at least 60 wt %, at least 70wt %, at least 80 wt %, at least 90 wt %, at least 95 wt %, and/or up to 99 wt % or 100 wt %.</p>
+<p id="p-0085" num="0082">In some embodiments, the porous adsorbent material comprises silicon dioxide in an amount of at least 1 wt %, at least 3 wt %, at least 5 wt %, at least 10 wt %, at least 20 wt %, at least 25 wt %, at least 30 wt %, at least 40 wt %, at least 50 wt %, at least 60 wt %, at least 70wt %, at least 80 wt %, at least 90 wt %, at least 95 wt %, and/or up to 99 wt % or up to 100 wt %.</p>
+<p id="p-0086" num="0083">A silica-based material may be of various geometries and formations including, but not limited to, macroporous, mesoporous, and microporous silica-based materials, amorphous silica, fumed silica, particulate silica of all sizes, ground quartz, particulate, fumed, crystalline, precipitated, and ground silicon dioxide and associated derivatives, and combinations thereof. In some embodiments, a silica based material comprises silica gel, or precipitated, crystalline-free silica gel (such as generally indicated by CAS No.: 112926-00-8), or amorphous, fumed (crystalline free) silica (such as generally indicated by CAS No.: 112945-52-5), or mesostructured amorphous silica (such as generally indicated by CAS No.: 7631-86-9). In some embodiments, silica-based material further comprises one or more of a metal oxide, metalloid oxide, and combinations thereof. For example, in some embodiments, the silica-based porous adsorbent material further comprises one or more of zinc oxide, titanium oxide, group 13 or 14 oxide, and combinations thereof. In some embodiments, silica-based porous adsorbent material further comprises aluminum oxide or a portion of aluminum oxide.</p>
+<p id="p-0087" num="0084">In some embodiments, a porous adsorbent material comprising a silica-based material comprises silica. Silicate materials are available from commercial sources in a wide array of states with respect to surface areas, porosities, degrees of surface functionalization, acidity, basicity, metal contents, and other chemical and physicochemical features. Commercial silicates may be in the form of powder, granules, nanoscale particles, and porous particles. In some embodiments, the porous adsorbent material comprises silica gel. In some embodiments, the silica-based porous adsorbent material comprises one or more of macroporous, mesoporous, and microporous silica. In some embodiments the porous adsorbent material comprises precipitated, crystalline-free silica gel (such as generally indicated by CAS No.: 112926-00-8). In some embodiments, the porous adsorbent material comprises amorphous, fumed (crystalline free) silica (such as generally indicated by CAS No. 112945-52-5). In some embodiments, the porous adsorbent material comprises mesostructured amorphous silica (such as generally indicated by CAS No. 7631-86-9).</p>
+<p id="p-0088" num="0085">In some embodiment, a source of a cyclopropene comprises a composition comprising a porous adsorbent material impregnated with cyclopropene, the composition incorporated into a form factor. For example, in <figref idref="DRAWINGS">FIG. <b>1</b>B</figref>, source of cyclopropene <b>300</b> comprises optional form factor <b>310</b> comprising composition <b>200</b>. In some embodiments, the form factor comprises a packet, pouch, sachet, or pad. In some embodiments, the composition is incorporated into a form factor by being sealed inside the form factor. In some embodiments, the form factor comprises a porous material. In a non-limiting embodiment, the form factor is comprised of a material that is one or more of food safe, non-absorptive, air permeable (but not necessarily porous). In some embodiments, the one or more of food safe, non-absorptive, air permeable (but not necessarily porous) structure comprises a sachet. In a non-limiting embodiment, the sachet is porous. In an embodiment, the porous adsorbent material is charged with cyclopropene prior to being deposited and sealed in a sachet. For example, the sachet may be prepared by depositing the composition in the sachet and then sealing the sachet.</p>
+<p id="p-0089" num="0086">In some embodiments, the form factor comprises PE (polyethylene) [whether HDPE (high density polyethylene) or LDPE (low density polyethylene)], PLA (polylactic acid), starch, PP (polypropylene), nylon, PET (polyethylene terephthalate), non-woven fabric or paper, paper, burlap (as from jute, hemp or another fiber), cellulose-based material, polyester, or any combination thereof. In some embodiments, the form factor is a sachet which comprises polyethylene (e.g., TYVEK&#x2122;). In some embodiments, the form factor is a sachet made of polyethylene (e.g., TYVEK&#x2122;). In a non-limiting embodiment, the sachet may be perforated. In a non-limiting embodiment, the Gurley Hill porosity measurement of a sachet material is 20-50 sec/100 cm<sup>2</sup>-in, or 30-40 sec/100 cm<sup>2</sup>-in, or 45-60 sec/100 cm<sup>2</sup>-in, 60-150 sec/100 cm<sup>2</sup>-in, or 100-400 sec/100 cm<sup>2</sup>-in, or 300-400 sec/100 cm<sup>2</sup>-in. In an embodiment, the form factor material is food-safe. In an embodiment, the sachet material is food-safe.</p>
+<p id="p-0090" num="0087">In a non-limiting embodiment, a source of a cyclopropene contains porous adsorbent material in an amount of greater than or equal to 0.1 g, greater than or equal to 0.25 g, greater than or equal to 0.5 g, greater than or equal to 1 g, greater than or equal to 2 g, greater than or equal to 5 g, greater than or equal to 10 g, greater than or equal to 20 g, greater than or equal to 50 g, greater than or equal to 100 g, greater than or equal to 500 g, and/or up to 1 kg, up to 2 kg, up to 5 kg, up to 10 kg, up to 100 kg, or more.</p>
+<p id="p-0091" num="0088">In some embodiments, the source of the cyclopropene comprises a composition capable of control releasing the cyclopropene. In some such instances, the composition is configured to control release the cyclopropene (e.g., by having one or more physicochemical properties that promotes control release such as porosity, pore diameter, surface area, surface chemistry or density). Examples of compositions for controlled release of active ingredients such as cyclopropenes are described in U.S. Patent Application Publication No. US-2019-0037839 published on Feb. 8, 2019 and entitled &#x201c;Compositions for Controlled Release of Active Ingredients and Methods of Making Same&#x201d;, International Patent Application Publication No. WO2017/143311 published on Aug. 24, 2017 and entitled &#x201c;Compositions for Controlled Release of Active Ingredients and Methods of Making Same,&#x201d; and International Patent Application Publication No. WO2019/133076 published on Jul. 4, 2019 and entitled &#x201c;Compositions and Methods for Release of Cyclopropenes,&#x201d; each of which is incorporated herein by reference in its entirety for all purposes.</p>
+<p id="p-0092" num="0089">The release rates of cyclopropene out of the compositions described herein are, unless otherwise stated, reported in relation to the amount of cyclopropene (e.g., as a volume or mass) released per gram of matrix (i.e. the matrix being the porous adsorbent material and the cyclopropene) per unit time. In some embodiments, the mass (e.g., in grams) of the matrix used in the calculation to report release rate is the matrix (e.g., the matrix being the porous adsorbent material charged with cyclopropene) measured in grams immediately prior to hour zero of the release test. The release characteristics for the compositions described herein as indicated by release rate of cyclopropene are given for release tests starting &#x201c;hour zero&#x201d; conditions. In some embodiments, &#x201c;hour zero&#x201d; means composition exposure to a non-equilibrium condition. In some embodiments in which a liquid displacement medium is used, &#x201c;hour zero&#x201d; means composition 1) exposure to a liquid displacing medium, and 2) exposure to a non-equilibrium condition, not necessarily in that order. In some embodiments, composition exposure to a liquid displacing medium is contact with a liquid displacing medium. In some embodiments, exposure to a liquid displacing medium comprises contact with a liquid displacing medium. In some embodiments, composition contact with a liquid displacing medium comprises agitation of a composition with a liquid displacing medium. In some embodiments, composition exposure to a liquid displacing medium comprises contact and agitation of a composition with a liquid displacing medium. In some embodiments, &#x201c;hour zero&#x201d; or &#x201c;time zero&#x201d; begin before agitation of the matrix and the liquid displacing medium. In some embodiments, &#x201c;hour zero&#x201d; or &#x201c;time zero&#x201d; begin after agitation of the matrix and the liquid displacing medium. In some embodiments, &#x201c;hour zero&#x201d; or &#x201c;time zero&#x201d; begins after sufficient agitation of the matrix and the liquid displacing medium. In some embodiments, &#x201c;hour zero&#x201d; or &#x201c;time zero&#x201d; begin after agitation of the matrix and liquid displacing medium slurry. In some embodiments, agitation of the matrix and the liquid displacing medium occurs after time zero but before the first sample timepoint (e.g., hour 1). In an embodiment, exposure to a non-equilibrium condition is a condition that is not a liquid displacing medium. A non-limiting example of exposure to a non-equilibrium condition is composition exposure to ambient room temperature (approximately 23-25&#xb0; C.) and atmospheric pressure, with none of the cyclopropene detected in the atmosphere prior to commencement of the release test. It should be understood that throughout the duration of a release test, temperature and atmospheric pressure around the composition material is kept substantially constant. It should be further understood that the atmospheric concentration of the cyclopropene may vary throughout the duration of the release test as the cyclopropene is released from the composition into the surrounding atmosphere.</p>
+<p id="p-0093" num="0090">In some embodiments wherein quantification of cyclopropene release rate from the composition reported as an amount of cyclopropene (e.g., a volume or mass) released per gram of matrix (i.e. the matrix being the porous adsorbent material and the cyclopropene) per unit time, the rate of release is reported on a per hour basis. The rate of release of cyclopropene per gram of composition per hour may be determined for a particular hour (e.g., hour 22) by measuring the amount of cyclopropene released from the composition over a period of time (e.g., sixty (60) minutes) immediately preceding the particular hour (e.g., hour 22) at which the rate is reported. For example, the release rate on a per hour basis reported for hour 22 is calculated based on the amount (e.g., as a volume or mass) of cyclopropene released from a composition during the sixty (60) minutes which commences at hour 21 and ending at hour 22. The amount of cyclopropene released from the composition (e.g., calculated as a volume or a mass of cyclopropene released during that period of sixty (60) minutes) is then divided by the total mass of the matrix (e.g., as measured in grams) prior to hour zero of the release test to arrive at a release rate as an amount of cyclopropene released per gram of matrix per hour. As would be appreciated by one of ordinary skill of the art, the total mass of the matrix measured prior to hour zero, also known as the total mass of matrix initially measured or known, is the total mass of the matrix prior to exposure to a liquid displacing medium.</p>
+<p id="p-0094" num="0091">A non-limiting example of how to measure the release rate of a cyclopropene from a composition at hour 1 is as follows. The mass of the matrix (e.g., the matrix being a porous adsorbent material charged with cyclopropene) to be studied is measured or known (e.g., in grams). The release study commences at hour zero when the composition is either a) exposed to a non-equilibrium condition, or b) exposed to a liquid displacing medium and a non-equilibrium condition, as the case may be. In a non-limiting embodiment, &#x201c;hour zero&#x201d; as it relates to composition exposure to a liquid displacing medium may begin after a vial, jar, or container containing the matrix (comprising a porous adsorbent material and the cyclopropene) and the liquid displacing medium has been sufficiently agitated, for example, for 30 seconds, for 1 minute, or 5 minutes, or 10 minutes, or 15 minutes, or 20 minutes.</p>
+<p id="p-0095" num="0092">The cyclopropene released from the composition over the subsequent sixty (60) minutes is collected (e.g., in a sealed vial) and sampled (e.g., using conventional headspace methodologies) at hour 1, which occurs sixty (60) minutes after hour zero. The sample of the cyclopropene collected is then measured (e.g., using a gas chromatograph (GC)). The amount (e.g., as a volume or mass) of cyclopropene released as calculated from the GC measurement is then divided by the total mass of the matrix (e.g., in grams) as initially measured or known, as discussed above. The resulting numerical figure is the amount (e.g., as a volume or mass) of the cyclopropene released per gram matrix per hour at hour 1.</p>
+<p id="p-0096" num="0093">A non-limiting example of how to measure the release rate of a cyclopropene from the same composition (e.g., during the same release test) at hour 22 is as follows. After the cyclopropene collected over the sixty (60) minutes commencing at hour zero and ending at hour 1 is sampled at hour 1, the vial is left open to allow the cyclopropene to escape. At sixty (60) minutes prior to the next sample time (e.g., hour 22 in this case) the vial is again sealed to allow the cyclopropene to collect for one hour. In other words, the vial is sealed at hour 21 in anticipation of a measurement sample to be taken at hour 22. The cyclopropene released from the composition during the sixty (60) minutes from hour 21 to hour 22 is collected and promptly sampled (e.g., using conventional headspace methodologies) at hour 22. The sample of the cyclopropene collected is then measured using GC analysis. The amount (e.g., as a volume or mass) of the cyclopropene released as calculated from the GC measurement is then divided by the mass of the matrix as initially measured or known (e.g., the same matrix mass used in the calculation for hour 1). The resulting numerical figure is the amount (e.g., as a volume or mass) of the cyclopropene released per gram matrix per hour at hour 22.</p>
+<p id="p-0097" num="0094">Those of ordinary skill in the art will be aware of conventional headspace methodologies that use, for example, gas chromatography (GC). A non-limiting example of a method that uses headspace analysis to measure release rate of cyclopropene is provided as follows. The composition or a sample of the matrix comprising the cyclopropene, is placed in a vial for analysis (e.g., at hour zero, when the composition is either a) exposed to a non-equilibrium condition, or b) exposed to a liquid displacing medium and a non-equilibrium condition, and the vial may be sealed. The rate of release may be calibrated based on the number of hours or minutes that the cyclopropene is permitted to build up in the vial while the vial is sealed. For a period of time (e.g., one (1) hour) prior to each sampling time point, the gas phase cyclopropene may be permitted to build up in the vial. At all other times, the vial may be left open to allow the cyclopropene to escape. Doing so may reduce and/or eliminate any effects of equilibrium adsorption. Depending on the length of time the cyclopropene is permitted to build-up while the vial is sealed, the rate of release at a given time point can be calculated by sampling the headspace of the vial and injecting a sample volume (e.g., 100 &#x3bc;L to 300 &#x3bc;L) in a GC in accordance with methods known to those of ordinary skill in the art. The area of the GC peak may be calibrated by comparison against an internal standard. For example, for calculating the release of 1-methylcyclopropene (1-MCP) from a matrix, the area of the GC peak may be calibrated against known quantities of 1-MCP released from ETHYLBLOC&#x2122; (FLORALIFE&#xae;; Walterboro, S.C.). 1-MCP in the form of ETHYLBLOC&#x2122; is obtainable as a 0.14 wt % solid powder.</p>
+<p id="p-0098" num="0095">As discussed above, release may be quantified as a rate of release, which may be reported as an amount of cyclopropene (as a volume or mass, for example) released per gram of matrix per hour (&#x3bc;L cyclopropene/g matrix/hr). In some embodiments, the rate of release reported is the amount (e.g., as a volume or mass) of cyclopropene released per gram of matrix during the hour (e.g., sixty (60) minutes) leading up to the sample time point.</p>
+<p id="p-0099" num="0096">In some embodiments, upon and/or after exposing the composition to a liquid displacing medium, the rate at which the cyclopropene is released is modified relative to the rate at which the cyclopropene was being released by the composition prior to the exposure of the composition to the liquid displacing medium. In some embodiments, upon and/or after exposing the composition to a liquid displacing medium, the rate at which the cyclopropene is released is accelerated relative to the rate at which the cyclopropene was being released by the composition prior to the exposure of the composition to the liquid displacing medium. In some embodiments, upon and/or after exposing the composition to a liquid displacing medium, the rate at which the cyclopropene is released is decelerated relative to the rate at which the cyclopropene was being released by the composition prior to the exposure of the composition to the liquid displacing medium.</p>
+<p id="p-0100" num="0097">In some embodiments, a composition that initially control releases a cyclopropene upon exposure to a non-equilibrium condition that is not a liquid displacing medium subsequently accelerates cyclopropene release after or upon exposure to a liquid displacing medium. In some embodiments, a composition that initially control releases a cyclopropene upon exposure to a non-equilibrium condition that is not a liquid displacing medium subsequently decelerates cyclopropene release after or upon exposure to a liquid displacing medium.</p>
+<p id="p-0101" num="0098">In some embodiments, a composition having a first release rate of cyclopropene at a particular timepoint (e.g., hour 1, hour 22) after time zero exposure to a non-equilibrium condition has a second release rate at the same particular timepoint after time zero exposure to a liquid displacing medium and the non-equilibrium condition. For example, in an embodiment, a sample of a composition is exposed to a non-equilibrium condition (e.g., air) at time zero, the composition having a first release rate of cyclopropene one hour after the exposure to the non-equilibrium condition (air, in this example); another sample of the composition is exposed to the non-equilibrium condition (air, in this example) and to a liquid displacing medium at time zero, the composition having a second release rate of cyclopropene one hour after the exposure to the non-equilibrium condition (air, in this example and to the liquid displacing medium). In some embodiments, composition exposure to a liquid displacing medium is contact with a liquid displacing medium. In some embodiments, composition exposure to a liquid displacing medium comprises contact with a liquid displacing medium. In some embodiments, composition contact with a liquid displacing medium comprises agitation of a composition with a liquid displacing medium. In some embodiments, composition exposure to a liquid displacing medium comprises contact and agitation of a composition with a liquid displacing medium. In some embodiments, agitation of the matrix and the liquid displacing medium occurs after time zero. In some embodiments, agitation of the matrix and the liquid displacing medium occurs after time zero but before the first sample timepoint (e.g., hour 1). In an embodiment, the second release rate is lower than the first release rate. In an alternative embodiment, the second release rate is higher than the first release rate.</p>
+<p id="p-0102" num="0099">Controlled release of cyclopropene (with &#x201c;hour zero&#x201d; meaning composition exposure to a non-equilibrium condition) may alternatively be quantified as a percentage of the rate of release of cyclopropene as compared to the rate of release of cyclopropene at hour one (1), for example. In a non-limiting embodiment, the rate of release of cyclopropene at hour 22, at hour 48, at hour 72, at hour 96, at hour 120, at hour 168, and/or at hour 240 is at least 0.1%, at least 2%, at least 2.5%, at least 10%, at least 20%, at least 30%, at least 40%, at least 50%, at least 60%, at least 75%, at least 90%, or more of the release rate at hour 1.</p>
+<p id="p-0103" num="0100">In some embodiments, no external wetting (contact with liquid of any type) and/or external hydrating (contact with H<sub>2</sub>O) is required to liberate cyclopropene from the source of the cyclopropene (e.g., a composition comprising a porous adsorbent material). In some embodiments, cyclopropene can be released from the source of the cyclopropene (e.g., a composition comprising a porous adsorbent material) without the addition of external wetting. The cyclopropene released from the source without addition of external wetting may then contact the plant. However, regarding exposure to a liquid displacing medium, in some embodiments, the composition of the source (e.g., a matrix comprising a porous adsorbent material and a cyclopropene) is contacted with a liquid displacing medium that modifies the release characteristics of cyclopropene from the porous adsorbent material versus the release characteristics of the cyclopropene from the porous adsorbent material merely in a non-equilibrium condition. In some embodiments, the modification of release is immediate (e.g., within seconds or minutes of matrix exposure to the liquid displacing medium). In some embodiments, modification of the release characteristics is acceleration of release of cyclopropene from the composition. In some embodiments, modification of the release characteristics is deceleration of release of cyclopropene from the matrix.</p>
+<p id="p-0104" num="0101">In some embodiments, exposure of the matrix to a liquid displacing medium accelerates the release rate of the cyclopropene from the composition in a non-equilibrium condition versus the release rate of the cyclopropene from the composition merely in the non-equilibrium condition. In some embodiments, exposure of the matrix to a liquid displacing medium decelerates the release rate of the cyclopropene in the non-equilibrium condition from the composition versus the release rate of the cyclopropene from the matrix merely in the non-equilibrium condition.</p>
+<p id="p-0105" num="0102">Examples of potentially suitable liquid displacing media include, but are not limited to, liquids comprising water (e.g., comprising water in an amount of greater than or equal to 50 vol %, greater than or equal to 75 vol %, greater than or equal to 90 vol %, greater than or equal to 95 vol %, greater than or equal to 99 vol %, greater than or equal to 99.9 vol % or greater), and/or organic liquids such as alcohols (e.g., methanol, ethanol, isopropanol, butanol, glycerol, etc.), hydrocarbons (e.g., light hydrocarbon solvents such as pentane, hexane, heptane, toluene), ketones (e.g., acetone), esters (e.g., ethyl acetate). In some embodiments, the liquid displacement medium is tap water (e.g., at 20&#xb0; C.).</p>
+<p id="p-0106" num="0103">The amount of liquid displacement medium contacted with the source of the cyclopropene may depend on the amount of composition and/or its loading. Enough water may be added to the composition to completely submerge all of the composition (e.g., all of a powder of the composition) and create a free-flowing, easily agitated suspension. In some embodiments, release from a source of cyclopropene comprising a composition is commenced and/or accelerated by contacting the source with at least 0.01 L, at least 0.1 L, at least 0.2 L, at least 0.5 L, and/or up to 1 L, up to 2 L or more of liquid displacement medium (e.g., water) per 100 g of the composition.</p>
+<p id="p-0107" num="0104">While certain sources of the cyclopropene comprising porous adsorbent materials are described above, those of ordinary skill in the art, with the benefit of this disclosure, would be aware of alternative types of compositions that may be used as a source of the cyclopropene (e.g., 1-MCP). In some embodiments, a source of the cyclopropene comprises a complexing agent (e.g., encapsulating the cyclopropene in a &#x201c;lock-and-key&#x201d; or &#x201c;cage&#x201d; complex). Any of a variety of complexing agents may be employed, such as substituted or unsubstituted cyclodextrins (e.g., alpha-cyclodextrin, beta-cyclodextrin, gamma-cyclodextrin), mono-, oligo-, or polycarbohydrates, porphyrins, phosphazenes, crown ethers, calixarenes, or combinations thereof. An example of a commercially-available source of cyclopropene using alpha-cyclodextrin to release encapsulated 1-MCP is ETHYLBLOC&#x2122;. The complexing agents may be provided in the source as a powder or polycrystalline material of the complexing agents. Some embodiments include complexing agents associated with surfaces of a porous adsorbent material. In some instances, cyclopropene is released from complexing agents by contacting the complexing agents with a liquid (e.g., water) such that some or all of the complexing agent dissolves. In some embodiments, the source of the cyclopropene comprises curcubit[6]uril. For example, the cyclopropene may be encapsulated within the curcubit[6]uril. Release of a cyclopropene from curcubit[6]uril may involve contacting the curcubit[6]uril with a liquid solution (e.g., comprising water, a salt such as sodium bicarbonate, and/or an acid such as benzoic acid). In some embodiments, the source of the cyclopropene comprises a paper such as cellulose paper. The cyclopropene may be mixed with one or more components such as binder (e.g., a polymer such as polyethylene glycol) and/or adhesives on and/or within the paper. In some embodiments, the source of the cyclopropene comprises a metal-organic-framework (MOF). The cyclopropene may be within pores of the MOF and/or specifically or non-specifically adsorbed to moieties of the MOF structure.</p>
+<p id="p-0108" num="0105">In some embodiments, the source of the cyclopropene comprises a zeolite (e.g., a zeolite comprising a silica and/or aluminum, or a zeolite lacking silica, such as a germanium-containing zeolite).</p>
+<p id="p-0109" num="0106">U.S. Provisional Patent Application No. 63/086,210, filed Oct. 1, 2020, and entitled &#x201c;Systems and Methods for Application of Active Ingredients to <i>Cannabis,&#x201d;</i> is incorporated herein by reference in its entirety for all purposes.</p>
+<p id="p-0110" num="0107">The following examples are intended to illustrate certain embodiments of the present invention, but do not exemplify the full scope of the invention.</p>
+<heading id="h-0007" level="1">EXAMPLE 1</heading>
+<p id="p-0111" num="0108">This example describes the development of male sex organs on a female cannabinoid-producing plant, induced by treatment with the cyclopropene 1-methylcyclopropene (1-MCP).</p>
+<p id="p-0112" num="0109">To examine the effect of 1-MCP exposure, six genetic replicates of a first variety of <i>Cannabis </i>(variety &#x2018;A&#x2019;) and six genetic replicates of a second variety of <i>Cannabis </i>(variety &#x2018;B&#x2019;) were grown under greenhouse conditions for a period of four weeks, then transferred to growth chamber conditions with a 12 hour photoperiod for three weeks to induce flower formation. Variety A was from a hybrid strain of 15% <i>sativa </i>and 85% <i>indica </i>bred by BC Bud Depot under the strain name Shiatsu. Variety B was from a hybrid strain of 50% <i>sativa </i>and 50% <i>indica </i>bred by Spectrum under the strain name Jack's Girl. Greenhouse conditions and growth chamber conditions are detailed in Table 1. Next, three of the genetic replicates of each variety were treated with 1-MCP via fumigation in a 295 cubic foot growth chamber for 18 hours using a source of the 1-MCP. The source of the 1-MCP was 250 g of a composition comprising 1-MCP in an amount of 2 wt % loaded in activated carbon as a porous adsorbent material. The treatment was initially activated via the addition of 0.07 gallons of liquid water to the composition, which accelerated release of 1-MCP and established an atmosphere within the growth chamber of 36.3 ppm 1-MCP. Twelve days later, the 18-hour 1-MCP treatment was repeated, and the treatment was repeated again the next day. Control groups of each variety were watered and exposed to identical conditions except that they were never fumigated with 1-MCP.</p>
+<p id="p-0113" num="0110">Three days after the final fumigation, stamens were observed on variety &#x2018;B&#x2019; genetic replicates treated with 1-MCP. Evidence for this observation is given in <figref idref="DRAWINGS">FIGS. <b>3</b>-<b>6</b></figref>. <figref idref="DRAWINGS">FIG. <b>3</b></figref> shows one example of stamen growth on female floral tissue of a variety &#x2018;B&#x2019; plant three days after final fumigation, with the stamen indicated by the arrow. <figref idref="DRAWINGS">FIG. <b>4</b></figref> shows the further development of stamen growth on female floral tissue of a variety &#x2018;B&#x2019; plant five days after final fumigation, with the stamen indicated by the arrow. <figref idref="DRAWINGS">FIG. <b>5</b></figref> indicates the presence of multiple stamens on female floral tissue of a variety &#x2018;B&#x2019; plant 15 days after final fumigation, with the multiple stamens indicated by arrows. <figref idref="DRAWINGS">FIG. <b>6</b></figref> indicates multiple stamens on female floral tissue of a variety &#x2018;B&#x2019; plant 19 days after final fumigation, with the multiple stamens indicated by arrows. Stamens were not observed in variety &#x2018;A&#x2019; genetic replicates or in either control group. As indicated in Table 2, thirty days after the final 1-MCP treatment, 80-100% of flower clusters displayed staminate growth. Staminate growth was not observed in variety &#x2018;A&#x2019; genetic replicates that were treated with 1-MCP. However, a phenotypic tendency towards purple leaves was observed in variety &#x2018;A&#x2019; after treatment with 1-MCP. <figref idref="DRAWINGS">FIG. <b>7</b></figref> shows the three 1-MCP-treated variety &#x2018;A&#x2019; plants (top, two of three of which were observed to have purples leaves) and three control plants (none of which was observed to have purple leaves).</p>
+<p id="p-0114" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Summary of grow conditions.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Growing</entry>
+<entry>Lights</entry>
+<entry>Lights</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Environment</entry>
+<entry>On</entry>
+<entry>Off</entry>
+<entry>Humidity</entry>
+<entry>Temperature</entry>
+<entry>PAR</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Greenhouse</entry>
+<entry>4:30</entry>
+<entry>20:30</entry>
+<entry>50% (Day)</entry>
+<entry>70 F. (Day)</entry>
+<entry>&#x3e;400</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>60%</entry>
+<entry>55 F.</entry>
+<entry>MicroMol/</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>(Night)</entry>
+<entry>(Night)</entry>
+<entry>m<sup>2</sup>/s</entry>
+</row>
+<row>
+<entry>Growth</entry>
+<entry>6:30</entry>
+<entry>18:30</entry>
+<entry>40% (Day)</entry>
+<entry>80 F. (Day)</entry>
+<entry>425</entry>
+</row>
+<row>
+<entry>Chambers</entry>
+<entry/>
+<entry/>
+<entry>40%</entry>
+<entry>70 F.</entry>
+<entry>microMol/</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>(Night)</entry>
+<entry>(Night)</entry>
+<entry>m<sup>2</sup>/s</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0115" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Percentage of flower clusters on variety &#x2018;B&#x2019; genetic replicates displaying</entry>
+</row>
+<row>
+<entry>male organs 30 days after the final treatment with 1-MCP.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="49pt" align="left"/>
+<colspec colname="1" colwidth="168pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Flower clusters displaying male organs</entry>
+</row>
+<row>
+<entry/>
+<entry>30 days after treatment 3 (%)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="49pt" align="left"/>
+<colspec colname="1" colwidth="70pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="56pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Plant 1</entry>
+<entry>Plant 2</entry>
+<entry>Plant 3</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="70pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Variety B</entry>
+<entry>97</entry>
+<entry>100</entry>
+<entry>86</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0008" level="1">EXAMPLE 2</heading>
+<p id="p-0116" num="0111">This example describes the effect of treatment with the cyclopropene 1-methylcyclopropene (1-MCP) on the biomass of female cannabinoid-producing plants.</p>
+<p id="p-0117" num="0112">To examine the effect of 1-MCP exposure, the genetic replicates from variety A and variety B of Example 1 were measured (i) after plants were dried and (ii) after plants were dried and trimmed, reflecting flower biomass. Measurement (i) provided the total biomass of each genetic replicate, while measurement (ii) provided the mass of consumer-ready product. The drying of the plants was performed by placing the plants into a drying chamber (90&#xb0; F., 16% relative humidity) for 72 hours prior to measurement and/or trimming.</p>
+<p id="p-0118" num="0113">Table 3 presents these measurements for each plant, as well as the mean total biomass and the mean flower biomass for replicates of the same variety of <i>Cannabis sativa </i>that underwent the same treatment. Genetic replicates of variety A exhibited a (&#x2dc;22%) increase in total biomass and a (&#x2dc;10%) increase in flower biomass over the control group when treated with 1-MCP, while genetic replicates of variety B exhibited a small (&#x2dc;2%) decrease in both total biomass and flower biomass when treated with 1-MCP. The measurement data showed that variety A showed an increase in total biomass and flower biomass when treated with 1-MCP while variety B showed a minor decrease in total biomass and flower biomass when treated with 1-MCP.</p>
+<p id="p-0119" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>The total biomass and flower biomass of</entry>
+</row>
+<row>
+<entry>each plant, as well as replicate-means</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="21pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Total</entry>
+<entry/>
+<entry>Flower</entry>
+<entry/>
+</row>
+<row>
+<entry>Vari-</entry>
+<entry/>
+<entry>Specimen</entry>
+<entry>Biomass</entry>
+<entry>Group</entry>
+<entry>Biomass</entry>
+<entry>Group</entry>
+</row>
+<row>
+<entry>ety</entry>
+<entry>Condition</entry>
+<entry>Number</entry>
+<entry>(g)</entry>
+<entry>Mean</entry>
+<entry>(g)</entry>
+<entry>Mean</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="21pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<colspec colname="6" colwidth="35pt" align="char" char="."/>
+<colspec colname="7" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>A</entry>
+<entry>Treatment</entry>
+<entry>1</entry>
+<entry>120</entry>
+<entry>118.3</entry>
+<entry>98</entry>
+<entry>95.3</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>2</entry>
+<entry>105</entry>
+<entry/>
+<entry>90</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>3</entry>
+<entry>130</entry>
+<entry/>
+<entry>98</entry>
+</row>
+<row>
+<entry/>
+<entry>Control</entry>
+<entry>4</entry>
+<entry>112</entry>
+<entry>105</entry>
+<entry>92</entry>
+<entry>87.6</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>5</entry>
+<entry>100</entry>
+<entry/>
+<entry>86</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>6</entry>
+<entry>103</entry>
+<entry/>
+<entry>85</entry>
+</row>
+<row>
+<entry>B</entry>
+<entry>Treatment</entry>
+<entry>1</entry>
+<entry>111</entry>
+<entry>115.6</entry>
+<entry>95</entry>
+<entry>100.3</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>2</entry>
+<entry>121</entry>
+<entry/>
+<entry>106</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>3</entry>
+<entry>115</entry>
+<entry/>
+<entry>100</entry>
+</row>
+<row>
+<entry/>
+<entry>Control</entry>
+<entry>4</entry>
+<entry>98</entry>
+<entry>118.3</entry>
+<entry>86</entry>
+<entry>102.3</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>5</entry>
+<entry>132</entry>
+<entry/>
+<entry>113</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>6</entry>
+<entry>125</entry>
+<entry/>
+<entry>108</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0120" num="0114">These results demonstrate that treatment with 1-MCP did not have a deleterious effect on the biomass of either variety of <i>Cannabis </i>and can lead to increased biomass (including flower biomass) in at least some varieties.</p>
+<heading id="h-0009" level="1">EXAMPLE 3</heading>
+<p id="p-0121" num="0115">This example describes the effect of treatment with the cyclopropene 1-methylcyclopropene (1-MCP) on the profile of cannabinoids in cannabinoid-producing plants.</p>
+<p id="p-0122" num="0116">Cannabinoids concentrations were measured in the genetic replicates from variety A and variety B of Example 1 at three time-points: T1&#x2014;two days before the first treatment with 1-MCP; T2&#x2014;one week after the first treatment with 1-MCP; and T3&#x2014;after all 1-MCP treatments, once the genetic replicates had reached full plant maturity. At each timepoint, three samples of floral tissue were collected from each genetic replicate and frozen overnight. To prepare samples of floral tissue for high performance liquid chromatography (HPLC) analysis, frozen floral tissue was ground, extracted in HPLC-grade methanol, and filtered. HPLC was performed on the filtered methanol, providing a cannabinoid profile for each sample of floral tissue.</p>
+<p id="p-0123" num="0117">Analysis of Variance (ANOVA) was performed to evaluate the effect of 1-MCP on cannabinoid content under each set of experimental conditions. For ANOVA tests with statistically significant P-values, Bartlett's test was performed and, in every case, demonstrated homogeneity of variances. In each figure displaying HPLC results, the label &#x2018;ns&#x2019; indicates that no statistically significant difference was observed between a pair of observations, while the label &#x2018;*&#x2019; indicates a statistically significant difference with P&#x3c;0.1, and the label &#x2018;**&#x2019; indicates a statistically significant difference with P&#x3c;0.05.</p>
+<p id="p-0124" num="0118"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows total cannabinoid profiles in genetic replicates of variety A and in genetic replicates of variety B as determined by HPLC. In this figure, the x-axis indicates the timepoint, while the y-axis indicates the concentration in units of Standardized Concentration (defined as 1 milligram of cannabinoid per gram of ground floral tissue). The four combinations of variety and 1-MCP treatment condition are presented in the labeled order at each timepoint. A statistically significant difference occurred at timepoint T2, between genetic replicates of variety A. However, no statistically significant difference was observed in cannabinoid concentrations of the mature plants for either variety.</p>
+<p id="p-0125" num="0119"><figref idref="DRAWINGS">FIGS. <b>9</b>A-C</figref> show profiles of tetrahydrocannabinolic acid (THCA, <figref idref="DRAWINGS">FIG. <b>9</b>A</figref>), tetrahydrocannabivarinic acid (THCVA, <figref idref="DRAWINGS">FIG. <b>9</b>B</figref>), and cannabigerolic acid (CBGA, <figref idref="DRAWINGS">FIG. <b>9</b>B</figref>), the three most abundant cannabinoids at each time point, as determined by HPLC. The axes in these figures are identical to those in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. A few statistically significant differences were noted between genetic replicates of variety A. Even when statistically significant, these differences were minor, indicating that treatment with 1-MCP had no deleterious effects on the overall profile of cannabinoids.</p>
+<p id="p-0126" num="0120">While several embodiments of the present invention have been described and illustrated herein, those of ordinary skill in the art will readily envision a variety of other means and/or structures for performing the functions and/or obtaining the results and/or one or more of the advantages described herein, and each of such variations and/or modifications is deemed to be within the scope of the present invention. More generally, those skilled in the art will readily appreciate that all parameters, dimensions, materials, and configurations described herein are meant to be exemplary and that the actual parameters, dimensions, materials, and/or configurations will depend upon the specific application or applications for which the teachings of the present invention is/are used. Those skilled in the art will recognize, or be able to ascertain using no more than routine experimentation, many equivalents to the specific embodiments of the invention described herein. It is, therefore, to be understood that the foregoing embodiments are presented by way of example only and that, within the scope of the appended claims and equivalents thereto, the invention may be practiced otherwise than as specifically described and claimed. The present invention is directed to each individual feature, system, article, material, and/or method described herein. In addition, any combination of two or more such features, systems, articles, materials, and/or methods, if such features, systems, articles, materials, and/or methods are not mutually inconsistent, is included within the scope of the present invention.</p>
+<p id="p-0127" num="0121">The indefinite articles &#x201c;a&#x201d; and &#x201c;an,&#x201d; as used herein in the specification and in the claims, unless clearly indicated to the contrary, should be understood to mean &#x201c;at least one.&#x201d;</p>
+<p id="p-0128" num="0122">The phrase &#x201c;and/or,&#x201d; as used herein in the specification and in the claims, should be understood to mean &#x201c;either or both&#x201d; of the elements so conjoined, i.e., elements that are conjunctively present in some cases and disjunctively present in other cases. Other elements may optionally be present other than the elements specifically identified by the &#x201c;and/or&#x201d; clause, whether related or unrelated to those elements specifically identified unless clearly indicated to the contrary. Thus, as a non-limiting example, a reference to &#x201c;A and/or B,&#x201d; when used in conjunction with open-ended language such as &#x201c;comprising&#x201d; can refer, in one embodiment, to A without B (optionally including elements other than B); in another embodiment, to B without A (optionally including elements other than A); in yet another embodiment, to both A and B (optionally including other elements); etc.</p>
+<p id="p-0129" num="0123">As used herein in the specification and in the claims, &#x201c;or&#x201d; should be understood to have the same meaning as &#x201c;and/or&#x201d; as defined above. For example, when separating items in a list, &#x201c;or&#x201d; or &#x201c;and/or&#x201d; shall be interpreted as being inclusive, i.e., the inclusion of at least one, but also including more than one, of a number or list of elements, and, optionally, additional unlisted items. Only terms clearly indicated to the contrary, such as &#x201c;only one of&#x201d; or &#x201c;exactly one of,&#x201d; or, when used in the claims, &#x201c;consisting of,&#x201d; will refer to the inclusion of exactly one element of a number or list of elements. In general, the term &#x201c;or&#x201d; as used herein shall only be interpreted as indicating exclusive alternatives (i.e. &#x201c;one or the other but not both&#x201d;) when preceded by terms of exclusivity, such as &#x201c;either,&#x201d; &#x201c;one of,&#x201d; &#x201c;only one of,&#x201d; or &#x201c;exactly one of.&#x201d; &#x201c;Consisting essentially of,&#x201d; when used in the claims, shall have its ordinary meaning as used in the field of patent law.</p>
+<p id="p-0130" num="0124">As used herein in the specification and in the claims, the phrase &#x201c;at least one,&#x201d; in reference to a list of one or more elements, should be understood to mean at least one element selected from any one or more of the elements in the list of elements, but not necessarily including at least one of each and every element specifically listed within the list of elements and not excluding any combinations of elements in the list of elements. This definition also allows that elements may optionally be present other than the elements specifically identified within the list of elements to which the phrase &#x201c;at least one&#x201d; refers, whether related or unrelated to those elements specifically identified. Thus, as a non-limiting example, &#x201c;at least one of A and B&#x201d; (or, equivalently, &#x201c;at least one of A or B,&#x201d; or, equivalently &#x201c;at least one of A and/or B&#x201d;) can refer, in one embodiment, to at least one, optionally including more than one, A, with no B present (and optionally including elements other than B); in another embodiment, to at least one, optionally including more than one, B, with no A present (and optionally including elements other than A); in yet another embodiment, to at least one, optionally including more than one, A, and at least one, optionally including more than one, B (and optionally including other elements); etc.</p>
+<p id="p-0131" num="0125">In the claims, as well as in the specification above, all transitional phrases such as &#x201c;comprising,&#x201d; &#x201c;including,&#x201d; &#x201c;carrying,&#x201d; &#x201c;having,&#x201d; &#x201c;containing,&#x201d; &#x201c;involving,&#x201d; &#x201c;holding,&#x201d; and the like are to be understood to be open-ended, i.e., to mean including but not limited to. Only the transitional phrases &#x201c;consisting of&#x201d; and &#x201c;consisting essentially of&#x201d; shall be closed or semi-closed transitional phrases, respectively, as set forth in the United States Patent Office Manual of Patent Examining Procedures, Section 2111.03.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-chemistry idref="CHEM-US-00001" cdx-file="US20230225317A1-20230720-C00001.CDX" mol-file="US20230225317A1-20230720-C00001.MOL"/>
+<claims id="claims">
+<claim id="CLM-01-19" num="01-19">
+<claim-text><b>1</b>-<b>19</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. A method, comprising:
+<claim-text>exposing a cannabinoid-producing plant of the genus <i>Cannabis </i>to 1-methylcyclopropene in a gas phase and/or via contact with a liquid solution comprising the 1-methylcyclopropene;</claim-text>
+<claim-text>wherein:
+<claim-text>the exposing is performed prior to and/or during a flowering period of the plant; and</claim-text>
+<claim-text>following the exposing, the plant has a total biomass and/or trimmed biomass greater than that of an equivalent plant not subjected to the exposing but grown under otherwise identical conditions.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-21-22" num="21-22">
+<claim-text><b>21</b>-<b>22</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the plant comprises genes of the species <i>Cannabis sativa, Cannabis indica, </i>and/or <i>Cannabis ruderalis. </i></claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the plant comprises genes of the species <i>Cannabis sativa. </i></claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the plant is a female plant.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the exposing is performed prior to a flowering period of the plant.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the exposing is performed during a flowering period of the plant.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the plant is a female plant and the exposing induces the formation of a male organ in the plant.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein, following the exposing, the plant has a total biomass greater than that of an equivalent plant not subjected to the exposing but grown under otherwise identical conditions.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein, following the exposing step, the plant has an amount of at least one cannabinoid that is within 20% of that of an equivalent plant not subjected to the exposing but grown under otherwise identical conditions.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text><b>31</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, further comprising binding a molecule of the 1-methylcyclopropene to an ethylene receptor of the plant.</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text><b>32</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the exposing step-comprises exposing the plant to the 1-methylcyclopropene in a gas phase.</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text><b>33</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the exposing comprises control releasing the 1-methylcyclopropene from a source of the 1-methylcyclopropene.</claim-text>
+</claim>
+<claim id="CLM-00034" num="00034">
+<claim-text><b>34</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the exposing comprises releasing the 1-methylcyclopropene from a source of the 1-methylcyclopropene at a rate of greater than or equal to 0.1 &#x3bc;L/g/hr and up to 1000 &#x3bc;L/g/hr.</claim-text>
+</claim>
+<claim id="CLM-00035" num="00035">
+<claim-text><b>35</b>. The method of <claim-ref idref="CLM-00034">claim 34</claim-ref>, wherein the source of the 1-methylcyclopropene comprises the 1-methylcyclopropene in an amount of greater than or equal to 0.01 wt % and up to 50 wt % prior to the releasing.</claim-text>
+</claim>
+<claim id="CLM-00036" num="00036">
+<claim-text><b>36</b>. The method of <claim-ref idref="CLM-00034">claim 34</claim-ref>, wherein the source of the 1-methylcyclopropene is in contact with the plant.</claim-text>
+</claim>
+<claim id="CLM-00037" num="00037">
+<claim-text><b>37</b>. The method of <claim-ref idref="CLM-00034">claim 34</claim-ref>, wherein a distance between the source of the 1-methylcyclopropene and the plant is greater than or equal to 1 cm.</claim-text>
+</claim>
+<claim id="CLM-00038" num="00038">
+<claim-text><b>38</b>. The method of <claim-ref idref="CLM-00034">claim 34</claim-ref>, wherein a distance between the source of the 1-methylcyclopropene and the plant is less than or equal to 50 m.</claim-text>
+</claim>
+<claim id="CLM-00039" num="00039">
+<claim-text><b>39</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the exposing comprises establishing a concentration of the 1-methylcyclopropene in an environment surrounding the plant of greater than or equal to 1 ppb and up to 100 ppm for a period of time of greater than or equal to 1 hour and up to 96 hours.</claim-text>
+</claim>
+<claim id="CLM-00040" num="00040">
+<claim-text><b>40</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the exposing is started within 10 weeks of the plant entering a vegetative stage.</claim-text>
+</claim>
+<claim id="CLM-00041" num="00041">
+<claim-text><b>41</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the exposing comprises releasing the 1-methylcyclopropene from a porous adsorbent material.</claim-text>
+</claim>
+<claim id="CLM-00042" num="00042">
+<claim-text><b>42</b>. The method of <claim-ref idref="CLM-00041">claim 41</claim-ref>, wherein the porous adsorbent material comprises a carbon material and/or a silicate material.</claim-text>
+</claim>
+<claim id="CLM-00043" num="00043">
+<claim-text><b>43</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the exposing comprises exposing the plant to the 1-methylcyclopropene via contact with a liquid solution comprising the 1-methylcyclopropene.</claim-text>
+</claim>
+<claim id="CLM-00044" num="00044">
+<claim-text><b>44</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein, following the exposing, the plant has a total trimmed biomass greater than that of an equivalent plant not subjected to the exposing but grown under otherwise identical conditions.</claim-text>
+</claim>
+<claim id="CLM-00045" num="00045">
+<claim-text><b>45</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the exposing does not cause a reduction in a total amount of cannabinoids of greater than 20%.</claim-text>
+</claim>
+<claim id="CLM-00046" num="00046">
+<claim-text><b>46</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the exposing comprises releasing the 1-methylcyclopropene in a gas phase from a source of the 1-methylcyclopropene comprising a porous adsorbent material comprising the 1-methylcyclopropene at a rate of greater than or equal to 0.1 &#x3bc;L/g/hr and up to 1000 &#x3bc;L/g/hr, wherein:
+<claim-text>a distance between the source of the 1-methylcyclopropene and the plant is less than or equal to 50 m;</claim-text>
+<claim-text>the exposing comprises establishing a concentration of the 1-methylcyclopropene in an environment surrounding the plant of greater than or equal to 1 ppb and up to 100 ppm for a period of time of greater than or equal to 1 hour and up to 96 hours; and</claim-text>
+<claim-text>the porous adsorbent material comprises a carbon material and/or a silicate material.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00047" num="00047">
+<claim-text><b>47</b>. The method of <claim-ref idref="CLM-00046">claim 46</claim-ref>, wherein the plant has above-soil parts having outer surfaces, and wherein, during the exposing, all outer surfaces of the above-soil parts of the plant receive a flux of 1-methylcyclopropene that is within 50% of the average flux experienced by the outer surfaces of the above-soil parts of the plant.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

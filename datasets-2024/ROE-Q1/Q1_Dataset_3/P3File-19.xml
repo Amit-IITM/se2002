@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225605A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230710" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225605</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18185815</doc-number>
+<date>20230317</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>267</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>267</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>00006</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>00039</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>00045</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="xxqyr7q4i36u1">MULTIFUNCTIONAL VISUALIZATION INSTRUMENT WITH ORIENTATION CONTROL</invention-title>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16802242</doc-number>
+<date>20200226</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18185815</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62812678</doc-number>
+<date>20190301</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Covidien AG</orgname>
+<address>
+<city>Neuhausen Am Rheinfall</city>
+<country>CH</country>
+</address>
+</addressbook>
+<residence>
+<country>CH</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Tata</last-name>
+<first-name>Derek Scot</first-name>
+<address>
+<city>Loveland</city>
+<state>CO</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Patton</last-name>
+<first-name>Craig Allen</first-name>
+<address>
+<city>Boulder</city>
+<state>CO</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Inglis</last-name>
+<first-name>Peter Douglas Colin</first-name>
+<address>
+<city>Boulder</city>
+<state>CO</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Covidien AG</orgname>
+<role>03</role>
+<address>
+<city>Neuhausen Am Rheinfall</city>
+<country>CH</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A multifunctional laryngoscope is provided that includes a handle comprising a proximal end and a distal end and a display screen on the handle. The laryngoscope includes a laryngoscope camera at the distal end of the handle and an introducer comprising an orientation sensor at a distal end of the introducer. The laryngoscope includes a processor programmed to execute instructions for receiving from a steering input a steering command in a first reference frame, and mapping the steering command to a second reference frame oriented to the distal end of the introducer based on an orientation signal from the orientation sensor.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="219.88mm" wi="143.26mm" file="US20230225605A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="228.18mm" wi="129.29mm" file="US20230225605A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="226.74mm" wi="133.52mm" file="US20230225605A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="222.42mm" wi="151.72mm" file="US20230225605A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="194.06mm" wi="112.27mm" file="US20230225605A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="166.29mm" wi="74.00mm" file="US20230225605A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="241.38mm" wi="143.34mm" file="US20230225605A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="226.82mm" wi="147.91mm" file="US20230225605A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="236.30mm" wi="175.94mm" file="US20230225605A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading level="1" id="h-0001">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a division of U.S. Pat. Application No. 16/802,242 filed on Feb. 26, 2020, which claims the benefit of U.S. Provisional Application No. 62/812,678 filed on Mar. 1, 2019, the disclosures of which are herein incorporated by reference in their entireties. To the extent appropriate a claim of priority is made to both applications.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading level="1" id="h-0002">BACKGROUND</heading>
+<p id="p-0003" num="0002">The present disclosure relates generally to medical devices and, more particularly, to a method of controlling a steerable introducer, such as a flexible endoscope.</p>
+<p id="p-0004" num="0003">Introducers are long flexible instruments that can be introduced into a cavity of a patient during a medical procedure, in a variety of situations. For example, one type of introducer is a flexible endoscope with a camera at a distal end. The endoscope can be inserted into a patient&#x2019;s mouth or throat or other cavity to help visualize anatomical structures, or to help perform procedures such as biopsies or ablations. Another type of introducer is a blind bougie (with no camera) which may be inserted and then used to guide another device (such as an endotracheal tube) into place. These and other introducers may include a steerable distal tip that can be actively controlled to bend or turn the distal tip in a desired direction, to obtain a desired view or to navigate through anatomy. However, these steerable introducers can be difficult to maneuver into the desired location and orientation within a patient&#x2019;s anatomy.</p>
+<heading level="1" id="h-0003">SUMMARY</heading>
+<p id="p-0005" num="0004">Certain embodiments commensurate in scope with the originally claimed subject matter are summarized below. These embodiments are not intended to limit the scope of the disclosure. Indeed, the present disclosure may encompass a variety of forms that may be similar to or different from the embodiments set forth below.</p>
+<p id="p-0006" num="0005">In one embodiment, a multifunctional laryngoscope includes a handle, a display screen on the handle, and a camera stick at the distal end of the handle. The camera stick has an arm and a camera. The laryngoscope also includes a steering input for steering an introducer, located on the handle or the display screen processor within the laryngoscope is programmed to execute instructions for receiving from the steering input a steering command in a first reference frame, and mapping the steering command to a second reference frame oriented to a distal end of the introducer.</p>
+<p id="p-0007" num="0006">In an embodiment, an endoscope controller includes a handle, a display screen on the handle, an endoscope port located on the handle or the display screen, and a user input located on the handle or the display screen. A processor within the controller is programmed to execute instructions for receiving from the user input a steering command in a user reference frame, receiving, from an endoscope coupled to the endoscope port, an orientation signal from an orientation sensor at an endoscope distal end, and translating the steering command as a function of the orientation signal.</p>
+<p id="p-0008" num="0007">In an embodiment, a method for controlling a steerable introducer includes receiving, at a processor, an orientation signal from an orientation sensor located at a distal end of a steerable introducer. The orientation signal defines an angular orientation of the distal end of the introducer. The method also includes receiving, at the processor, a steering command comprising a steering direction in a user reference frame, translating the steering command from the user reference frame to the angular orientation of the distal end of the introducer, and steering the distal end of the introducer according to the translated steering command.</p>
+<p id="p-0009" num="0008">In an embodiment, a method for controlling a steerable introducer includes receiving, at a processor, a steering command from a user input and an orientation signal from an orientation sensor of a steerable introducer. The method also includes translating, at the processor, the steering command as a function of the orientation signal, and steering the introducer according to the translated steering command.</p>
+<p id="p-0010" num="0009">In an embodiment, a method for controlling a steerable introducer includes receiving, at a processor, a steering command from a user input and an orientation input from an orientation sensor. The method also includes generating, at the processor, a variable steering signal comprising steering instructions that vary as a function of both the steering command and the orientation input, and steering the introducer according to the variable steering signal.</p>
+<p id="p-0011" num="0010">In an embodiment, a method includes receiving, at a processor, a laryngoscope image from a laryngoscope camera; receiving, at the processor, an endoscope image from an endoscope camera at a distal end of an endoscope and an orientation signal from an orientation sensor at the distal end of the endoscope; receiving a user input to establish a reference frame of the distal end; receiving an updated signal from the orientation sensor that indicates that the distal end has rotated away from the reference frame; and rotating an updated endoscope image into the reference frame based on the updated signal.</p>
+<p id="p-0012" num="0011">Features in one aspect or embodiment may be applied as features in any other aspect or embodiment, in any appropriate combination. For example, any one of system, laryngoscope, controller, introducer, or method features may be applied as any one or more other of system, laryngoscope, controller, introducer, or method features.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading level="1" id="h-0004">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0013" num="0012">Advantages of the disclosed techniques may become apparent upon reading the following detailed description and upon reference to the drawings in which:</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a multifunctional controller and steerable introducer of a steerable introducer system, in accordance with certain embodiments of the disclosure.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a perspective view of a visualization wand and steerable introducer of a steerable introducer system, in accordance with certain embodiments of the disclosure.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>3</b>A</figref> is a schematic view of an image frame associated with a first introducer orientation, in accordance with certain embodiments of the disclosure.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>3</b>B</figref> is a schematic view of an image frame associated with a second introducer orientation, in accordance with certain embodiments of the disclosure.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a system schematic of a controller and introducer, in accordance with certain embodiments of the disclosure.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a cut-away top view of a distal end of a steerable introducer, in accordance with certain embodiments of the disclosure.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>6</b>A</figref> is a schematic view of an image frame associated with a first introducer orientation, in accordance with certain embodiments of the disclosure.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>6</b>B</figref> is a schematic view of an image frame associated with a second introducer orientation, in accordance with certain embodiments of the disclosure.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>6</b>C</figref> is a schematic view of an image frame associated with a third introducer orientation, in accordance with certain embodiments of the disclosure.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a flowchart of a method for steering an introducer, in accordance with certain embodiments of the disclosure.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a flowchart of a method for steering an introducer, in accordance with certain embodiments of the disclosure.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a flowchart of a method for adjusting introducer orientation to a frame of reference, in accordance with certain embodiments of the disclosure.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading level="1" id="h-0005">DETAILED DESCRIPTION OF SPECIFIC EMBODIMENTS</heading>
+<p id="p-0026" num="0025">One or more specific embodiments of the present techniques will be described below. According to an embodiment, a system is provided for accessing patient anatomy with a steerable introducer, and for adjusting steering commands according to an orientation of the introducer. As the introducer is passed into a patient, the user may rotate or turn the distal tip of the introducer in order to maneuver through the patient&#x2019;s anatomy or to obtain a desired view. When the introducer is rotated or turned multiple times during a procedure, it can be difficult for the user to keep track of the changed orientation of the introducer&#x2019;s distal end. Subsequently, the user may inadvertently bend or turn the introducer in the wrong direction. For example, a user may intend to steer the introducer to the user&#x2019;s right, but because the introducer is rotated from its default position, the result of this command is for the introducer to bend to the user&#x2019;s left.</p>
+<p id="p-0027" num="0026">The disclosed embodiments use orientation information of the introducer to account for differences between the orientation of the distal end of the introducer and the user&#x2019;s own frame of reference. As a result, an introducer steering system using the orientation information provides more intuitive viewing of images captured by the introducer and/or more intuitive steering of the distal end of the introducer within the handle. Further, because the orientation information is not harvested from a hand-held device that is manipulated by the operator, operator variability in the position or angle of the hand-held device during use will not contribute to inaccurate orientation information.</p>
+<p id="p-0028" num="0027">Accordingly, in an embodiment, an introducer steering system translates steering commands from the user&#x2019;s reference frame into the orientation of the introducer, to preserve the user&#x2019;s intention in steering the introducer. An embodiment of a steerable introducer system is depicted in <figref idref="DRAWINGS">FIG. <b>1</b></figref>. The system includes a video laryngoscope <b>10</b> and a steerable introducer <b>12</b>. An introducer is a thin, elongated, flexible instrument (which may be relatively narrower, more flexible, and longer compared to a laryngoscope or an endotracheal tube) that can be inserted into a handle cavity for exploration, imaging, biopsy, or other clinical treatments, including catheters, endoscopes (with a camera), blind bougies (without a camera), or other types of scopes or probes. Introducers may be positioned to extend into the airway and be steered into the airway passage (such as the pharynx, larynx, trachea, or bronchial tubes) by the user via advancement of the distal end to a desired position and, in certain embodiments, subsequent rotation or repositioning of the introducer. Introducers may be tubular in shape.</p>
+<p id="p-0029" num="0028">The introducer <b>12</b> includes a proximal end <b>14</b> (nearest the user) and an opposite distal end <b>16</b> (nearest the patient), and in this example a camera <b>18</b> positioned at the distal end, for viewing the patient&#x2019;s anatomy. The introducer <b>12</b> includes a distal steerable portion <b>20</b> which can bend, twist, turn, or rotate. The distal steerable portion <b>20</b> may move within two dimensions (in a plane) or within three dimensions of space. The distal steerable portion <b>20</b> is steered by a steering system. The steering system may include one or more memory metal components (e.g., memory wire, Nitinol wire) that changes shape based on electrical input, a piezoelectric actuators (such as the SQUIGGLE motor from New Scale Technologies, Victor NY), a retractable sheath (retractable to release a pre-formed curved component such as spring steel which regains its curved shape when released from the sheath), mechanical control wires, hydraulic actuators, servo motors, or other means for bending, rotating, or turning the distal end or components at the distal end of the introducer.</p>
+<p id="p-0030" num="0029">The proximal end <b>14</b> of the introducer <b>12</b> connects to a controller, which may be a re-usable or single-use disposable handle <b>22</b>, or a multi-purpose medical device such as the video laryngoscope <b>10</b>. The video laryngoscope <b>10</b> includes a handle <b>30</b> with a proximal end <b>32</b> and distal end <b>34</b>. The handle <b>30</b> includes a display screen <b>36</b> mounted on a proximal side of a grip or handle <b>38</b>.</p>
+<p id="p-0031" num="0030">The controller operates the steering system to steer the steerable portion <b>20</b> of the introducer, and includes a user input <b>24</b> to receive steering commands from the user. As shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the user input <b>24</b> may include buttons on the handle <b>22</b> or on the video laryngoscope <b>10</b>. The user presses the buttons to indicate which direction to turn or steer the introducer. The user input <b>24</b> may be located on the display screen <b>36</b>, on the grip <b>38</b>, or both. The user input <b>24</b> may be one or more physical buttons (or switch, lever, joystick, or similar input), touch-sensitive graphics or icons on a touch screen (such as on the screen <b>36</b>), a keyboard, or other suitable user input.</p>
+<p id="p-0032" num="0031">As shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the video laryngoscope includes a camera stick <b>40</b> extending from the distal end <b>34</b> of the handle <b>30</b>. The camera stick <b>40</b> includes an elongated arm <b>42</b> carrying a camera <b>44</b> at its distal end. The camera stick <b>40</b> fits inside a removable, disposable, transparent blade <b>46</b>. More information about laryngoscope blades can be found, for example, in Applicant&#x2019;s U.S. Pat. No. 9,775,505 and No. 9,066,700. Images from the video laryngoscope camera <b>44</b> and/or from the introducer camera <b>18</b> (if present) are displayed on the display screen <b>36</b>.</p>
+<p id="p-0033" num="0032">In an embodiment, as shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the steerable introducer <b>12</b> includes an orientation sensor <b>56</b> at the distal tip of the introducer. The orientation sensor <b>56</b> may be an inertial measurement unit (IMU), accelerometer, gyroscope, or other suitable sensor. The orientation sensor <b>56</b> is located inside the tubular housing of the introducer <b>12</b>. In an embodiment, the orientation sensor <b>56</b> is located very close to the terminus of the distal end <b>16</b> of the introducer, and may be co-located with the camera <b>18</b> (if present), to enable the orientation sensor <b>56</b> to capture much of the full range of movement of the distal end <b>16</b> and the camera <b>18</b>. In an embodiment, the orientation sensor <b>56</b> is placed at (e.g., positioned on or in) the distal end <b>16</b> of the steerable portion <b>20</b>, remote from the proximal end of the steerable portion <b>20</b>, to place the orientation sensor <b>56</b> away from the fulcrum of movement of the distal end <b>16</b> and camera <b>18</b>.</p>
+<p id="p-0034" num="0033">The disclosed embodiments that include the orientation sensor <b>56</b> at or near the distal end <b>16</b> of the introducer <b>12</b> provide more accurate orientation information relative to implementations in which the orientation information is derived from an orientation sensor in the controller (such as the video laryngoscope, wand, or handle). In such an example, information derived from a sensor located in the controller relies on an assumption that the orientation of the controller is the same as the orientation of the distal tip. To maintain the conditions for that assumption, the user may be instructed to hold the controller at a particular angle or position during operation. However, user variability in controller positioning during operation may lead to inaccuracies in the reported orientation information. Accordingly, orientation information measured at a handheld device located proximally of the introducer may not provide accurate information. Further, movement measured at the controller may not translate into corresponding movement of the distal tip. For example, the handle of the introducer may have a degree of compliance, so rotation by the user at the proximal end is not perfectly transferred along the length of the introducer. As another example, along a tortuous path through a patient&#x2019;s anatomy, torsion and friction can create losses in rotation. In an embodiment disclosed herein, the orientation sensor <b>56</b> positioned at or near the distal end <b>16</b> of the introducer <b>12</b> provides more accurate orientation information than controller-based measurement of orientation.</p>
+<p id="p-0035" num="0034">As provided in the disclosed embodiments, accurate orientation information captured at or near the distal end of an introducer <b>12</b> permits active image adjustment, providing more intuitive visualization of introducer images and, in turn, more intuitive steering within an established frame of reference that can be oriented to gravity or to a user-defined frame of reference. Further, the introducer is steered at the distal end <b>16</b> without physical rotation of the proximal end, rather than implementations in which distal rotation and orientation change is driven by torsional force translated from the proximal end <b>14</b> to the distal end <b>14</b>. These introducer uses a steering system that is effective at the distal tip (such as push or pull wires) to bend the distal tip in a desired direction, even when the length of the introducer between the proximal and distal ends is slack; the introducer does not require torsional force to translate along the introducer housing from the proximal to the distal end. The introducer does not need to be straight or taught in order to translate steering inputs to the distal end. Distal bending and movement of the introducer is accomplished independent of the orientation, position, or movement of the proximal end of the introducer; steering is not physically coupled between the proximal end (such as the handle) and the distal end. Further, the introducer system does not need to make any assumptions about how much torsional force was successfully translated (or lost) along the length from the proximal to distal end; rather, an orientation sensor at the distal tip provides an orientation signal that indicates the current orientation of the distal tip. In this manner, the structure of the introducer <b>12</b> may be less torsionally stiff relative to implementations in which the steering relies on torsional force transfer. Accordingly, in an embodiment the introducer <b>12</b> is an extruded structure with low torsional stiffness (low enough that torsional rotation does not translate from the proximal to the distal end). In an embodiment, the introducer is a non-braided structure, such as an extruded polymer. In an embodiment, the introducer is an extruded structure devoid of torsional stiffeners such as braided wires or braided structures.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows another embodiment in which the controller is a wand <b>50</b>, similar to the video laryngoscope <b>10</b> but without the camera stick <b>40</b>. The wand <b>50</b> includes the user input <b>24</b> to receive steering commands from the user, and includes the display screen <b>36</b>. As shown in <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref>, the controller may take the form of a handle <b>24</b>, video laryngoscope <b>10</b>, or wand <b>50</b> with integrated display screen <b>36</b>. The controller can also take the form of a separate (not integrated) touch screen display, located in the room (such as mounted on a cart or stand), spaced apart from the introducer. This touch screen communicates user inputs via a wired or wireless connection to the introducer. In one embodiment, the handle <b>24</b> is integrated with the tubular introducer <b>12</b>, and the entire device is single use and disposable. In another embodiment, the introducer is a two-part system, and the controller (handle, wand, laryngoscope, or other device) is removable from the introducer <b>12</b>. The introducer <b>12</b> is then discarded after use, and the controller is retained and used again with a new tubular introducer. The controller houses power, display, steering control, and other functionality. In this manner, the endoscope introducer many be disposable while the relatively more costly and complex controller may be reused.</p>
+<p id="p-0037" num="0036">The introducer <b>12</b> can attach to the wand <b>50</b> from a top (proximal) end of the wand (such that the introducer extends up over the top of the screen), or from a bottom (distal) end of the wand (such that the introducer extends below away from the bottom of the screen). The introducer <b>12</b>A in <figref idref="DRAWINGS">FIG. <b>2</b></figref> is shown to indicate the option to connect the introducer to the wand <b>50</b> from below the screen.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. <b>3</b>A</figref> and <figref idref="DRAWINGS">FIG. <b>3</b>B</figref> depict a method of steering an introducer, including translating steering commands from a user into executable actuator controls within the orientation of the introducer. For example, in <figref idref="DRAWINGS">FIGS. <b>3</b>A-B</figref>, the introducer is a tubular endoscope <b>120</b> with a camera <b>118</b> located at its distal end <b>116</b>. The endoscope <b>120</b> also has a feature - such as an orientation indicator, a working channel, a surgical tool, a light source, or other instrument - that is located at one angular position around the tubular endoscope. In <figref idref="DRAWINGS">FIGS. <b>3</b>A-B</figref>, this feature is an orientation marker <b>126</b>, which is a visible indicia or marker that indicates to the user which direction is up for the steering controls. The marker <b>126</b> can be formed by printed graphics, a groove or other three-dimensional feature, a glow-in-the-dark ink or indicia, or an actively powered light (such as a small LED strip or light). The marker <b>126</b> is located on a top side of the endoscope <b>120</b>, when the endoscope is in its default, resting position (not bent, twisted, or steered). In image A, the endoscope has been rotated <b>180</b> degrees from that position, such that the marker <b>126</b> is on the bottom of the endoscope.</p>
+<p id="p-0039" num="0038">A real-time image from the camera is shown on the display screen <b>136</b>, which may be a display screen on a wand, a video laryngoscope, a monitor, or any other display screen in the medical facility. Images from the camera <b>118</b> may be transmitted through wired connections or wirelessly to the display screen <b>136</b>. In <figref idref="DRAWINGS">FIG. <b>3</b>A</figref>, the field of view of the endoscope camera includes an anatomical structure <b>152</b> inside a passage <b>154</b>. In an example, the passage <b>154</b> is the trachea, and the structure <b>152</b> is a tumor. In other cases, the passage <b>154</b> is a gastrointestinal passage, a nasal canal, or any other anatomical lumen. The structure <b>152</b> can be a polyp, tumor, blood vessel, vocal cords, suture, stent, bifurcation of passages (such as bronchial passages, or the carina), or any other visible anatomical or medical feature.</p>
+<p id="p-0040" num="0039">In <figref idref="DRAWINGS">FIG. <b>3</b>A</figref>, the structure <b>152</b> appears toward the top of the display screen <b>136</b>. The user may decide to steer the endoscope <b>120</b> toward the structure <b>152</b>, and give an &#x201c;up&#x201d; steering command (such as through a user input <b>24</b>). The user&#x2019;s steering command is based on the user&#x2019;s frame of reference, such as the directions in the image on the display screen. However, in this situation, the user&#x2019;s intention in steering &#x201c;up&#x201d; is not the same as the default resting &#x201c;up&#x201d; orientation of the endoscope. The orientation of the endoscope <b>120</b> has been changed with respect to the user&#x2019;s reference frame.</p>
+<p id="p-0041" num="0040">Accordingly, in an embodiment, the endoscope steering system translates the user&#x2019;s command into the endoscope&#x2019;s current orientation. In <figref idref="DRAWINGS">FIG. <b>3</b>B</figref>, the user provides an &#x201c;up&#x201d; steering command which means to bend &#x201c;up&#x201d; in the frame of reference of the display screen <b>136</b>. The steering system translates this for the endoscope such that the endoscope bends in a direction opposite the marker <b>126</b> (which is the &#x201c;down&#x201d; direction in the endoscope&#x2019;s default frame of reference). As shown in <figref idref="DRAWINGS">FIG. <b>3</b>B</figref>, the endoscope bends toward the structure <b>152</b>, and the structure <b>152</b> moves into the center of the screen <b>136</b>.</p>
+<p id="p-0042" num="0041">A schematic cut-away view of the distal end <b>16</b> of the introducer <b>12</b> is shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. This figure shows the camera <b>18</b> positioned at the terminus <b>17</b> of the distal end <b>16</b> of the introducer <b>12</b>, to obtain a clear view forward. The orientation sensor <b>56</b> is located just behind the camera <b>18</b>. In an embodiment, the orientation sensor <b>56</b> is adjacent the camera <b>18</b>. In an embodiment, the orientation sensor <b>56</b> is mounted on a flex circuit behind the camera <b>18</b>. In an embodiment, the orientation sensor <b>56</b> is mounted on the same flex circuit as the camera <b>18</b>, though the orientation sensor <b>56</b> and the camera <b>18</b> need not be in communication on the shared flex circuit. In an embodiment, the orientation sensor has a size of between 1-2 mm in each dimension. It should be understood that, in certain embodiments, the introducer <b>12</b> is blind and there is no camera <b>18</b> present.</p>
+<p id="p-0043" num="0042">The orientation sensor is an electronic component that senses the orientation or movement of the distal end of the introducer. The orientation sensor contains a sensor or a combination of sensors to accomplish this, such as accelerometers, magnetometers, and gyroscopes. The orientation sensor detects position and/or movement of the distal tip of the introducer and provides a signal indicating a change in the introducer&#x2019;s orientation. An orientation sensor <b>156</b> is also illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b>A-B</figref>, located at the distal end <b>116</b> of the introducer <b>120</b>, just behind the camera <b>118</b>. In an embodiment, the signal from the orientation sensor is based on just the accelerometer (without utilizing other sensors such as a gyroscope or magnetometer). In an embodiment, an accelerometer is used as the orientation sensor.</p>
+<p id="p-0044" num="0043">A schematic diagram of electrical components of a steerable introducer system is shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>. In this embodiment, the system includes a controller <b>210</b> (such as a video laryngoscope, handle, or wand) and an introducer <b>212</b>. The controller <b>210</b> includes a microprocessor <b>260</b>, memory <b>261</b>, power source <b>262</b>, display screen <b>236</b>, user input <b>224</b>, and associated circuitry <b>263</b> (such as, for example, a wireless transceiver for receiving and communicating data). When the controller is a video laryngoscope, it also includes a camera and light source, among other components. The introducer <b>212</b> includes a camera <b>218</b> (if present), a light source <b>264</b>, an orientation sensor <b>256</b>, and a steering system <b>265</b>.</p>
+<p id="p-0045" num="0044">As depicted in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, an orientation signal <b>266</b> is passed from the introducer <b>212</b> (based on measurements from the orientation sensor <b>256</b>) to the controller <b>210</b>, and an actuation control signal <b>268</b> is passed from the controller <b>210</b> to the introducer <b>212</b>. The orientation signal may be produced by the orientation sensor located at a distal end of the introducer. The orientation signal defines an angular orientation of the distal end of the introducer with respect to gravity.</p>
+<p id="p-0046" num="0045">The orientation signal <b>266</b> and steering commands from the user input <b>224</b> are sent to the processor <b>260</b>, which translates the steering commands into the actuation control signal <b>268</b>. The actuation control signal <b>268</b> operates the steering system by including specific executable instructions for the individual actuator(s) of the steering system <b>265</b> on the introducer, to bend, twist, or move the steerable portion <b>20</b> of the introducer.</p>
+<p id="p-0047" num="0046">A method <b>700</b> for controlling a steerable introducer, according to an embodiment, is depicted in <figref idref="DRAWINGS">FIG. <b>7</b></figref>. The method includes receiving, from an orientation sensor, an introducer orientation signal (at block <b>701</b>). For example, the signal can be the orientation signal <b>266</b> from <figref idref="DRAWINGS">FIG. <b>4</b></figref>, received from an IMU or accelerometer or other sensor. The introducer orientation signal defines an angular orientation of the distal end of the introducer. The method also includes receiving, from a user input, a steering command in a user reference frame (at block <b>702</b>). The method also includes translating the steering command from the user reference frame into the introducer orientation (at block <b>703</b>). The method also includes steering the introducer according to the translated steering commands (at block <b>704</b>). These steps can be done by a processor (such as processor <b>260</b>) located inside an introducer controller (such as a laryngoscope, wand, or handle).</p>
+<p id="p-0048" num="0047">The user reference frame is the frame in which the user is giving steering directions. This reference frame could be aligned with the direction of gravity (so that a steering command of &#x201c;down&#x201d; means down toward the Earth). As another example, the reference frame could be aligned with an image on the display screen (so that a steering command of &#x201c;down&#x201d; means down in the image). As another example, the reference frame can be centered on a patient (so that a steering command of &#x201c;down&#x201d; means toward the patient&#x2019;s back, if the patient is lying on their side, or toward some other anatomical feature of the patient). These are just a few examples.</p>
+<p id="p-0049" num="0048">Another example method <b>800</b> is outlined in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. In this example, the method includes receiving a steering command and an orientation signal (at block <b>801</b>). The method includes generating a variable actuation control signal as a function of both the steering command and the orientation signal (at block <b>802</b>). The method includes steering the introducer according to the variable actuation control signal (at block <b>803</b>). This can be done, for example, by a processor that generates an actuator control signal with specific instructions to operate the actuator(s) of the steering system of the introducer, to move the introducer in the direction specified by the user.</p>
+<p id="p-0050" num="0049">In this way, the actuation controls for the steering system are not tied to the introducer&#x2019;s internal frame of reference. Instead, the steering applied to the introducer is variable with the introducer&#x2019;s orientation. The same steering command from a user&#x2019;s frame of reference (for example, &#x201c;up&#x201d; toward the top of a display screen) will be translated into different actuator controls depending on how the introducer is oriented. Even with the same steering command from a user, the control signal that is sent to the actuator(s) of the steering control system of the introducer will vary with the introducer&#x2019;s orientation. For example, when the user inputs a command to bend &#x201c;up&#x201d; toward the top of the display screen, the steering control system may bend the introducer toward the orientation marker (such as <b>326</b>), or away from the orientation marker, depending on how the introducer is oriented. Thus, the control signal that operates the steering control system of the introducer varies with the introducer&#x2019;s orientation as well as with the user&#x2019;s steering commands.</p>
+<p id="p-0051" num="0050">In an embodiment, the steering system includes two, three, four, or more actuators that control movement of the steerable tip of the introducer. In an embodiment, the steering actuation is accomplished by modeling the tip of the introducer as a circle, with the modeled actuators occupying discrete locations about the circumference of the circle. At these locations, the actuators act on the tip to bend or move the introducer. The circle is rotated according to the orientation signal from the orientation sensor, to indicate the orientation of the introducer with respect to the user&#x2019;s defined reference frame. Thus, when a user steering command is received (for example, bend &#x201c;up&#x201d; toward the top of the circle), the appropriate actions for each respective actuator can be determined. Each actuator is operated or energized proportionately according to its position on the circle with respect to the user command. It should be understood that the two or more actuators may be located at any position in the introducer and that correlates to a respective modeled circumferential location.</p>
+<p id="p-0052" num="0051">In an embodiment, the user can define a custom reference frame, as shown for example in <figref idref="DRAWINGS">FIGS. <b>6</b>A-C</figref>, which illustrate a display screen <b>336</b> of a video laryngoscope displaying two images, a first image <b>370</b> from a camera on a video laryngoscope (such as camera <b>44</b> from <figref idref="DRAWINGS">FIG. <b>1</b></figref>), and a second image <b>372</b> from a camera on an endoscope <b>312</b> (such as camera <b>18</b> from <figref idref="DRAWINGS">FIG. <b>1</b></figref>). As shown in <figref idref="DRAWINGS">FIGS. <b>6</b>A-C</figref>, the endoscope <b>312</b> is located within the field of view of the laryngoscope camera, so the endoscope <b>312</b> is visible in the image <b>370</b>. The endoscope includes an orientation marker <b>326</b> visible on a surface of the introducer <b>312</b>. The lower panel of <figref idref="DRAWINGS">FIG. <b>6</b>A</figref> is a schematic representation of a cross-section of the endoscope, with the orientation marker <b>326</b> shown at a top left position of the introducer <b>312</b>.</p>
+<p id="p-0053" num="0052">The patient&#x2019;s vocal cords <b>374</b> and trachea <b>376</b> are visible in the images on the screen <b>336</b>. However, the endoscope image <b>372</b> is rotated counter-clockwise, compared to the video laryngoscope image <b>370</b>. Accordingly, a user may decide to manually rotate the endoscope to transition from the position in <figref idref="DRAWINGS">FIG. <b>6</b>A</figref> into the position shown in <figref idref="DRAWINGS">FIG. <b>6</b>B</figref>. In <figref idref="DRAWINGS">FIG. <b>6</b>B</figref>, the user has rotated the endoscope clockwise by an angle &#x3a6;. This rotation can be seen by the new position of the orientation marker <b>326</b>. After rotation, the endoscope image <b>372</b> is aligned with the video laryngoscope image <b>370</b>. At this point, the user may enter a command to establish the current orientation of the endoscope (in <figref idref="DRAWINGS">FIG. <b>6</b>B</figref>) as the desired reference orientation or frame of reference. This can be done by pushing a button on the user input <b>24</b> or on a touch screen or other input. The controller then stores the endoscope&#x2019;s current orientation at the time of the user input as the reference frame for future adjustments. Subsequently, when the user gives steering commands (such as up, down, turn, etc.), those commands will be interpreted in this stored reference frame, and translated into movement of the endoscope based on the endoscope&#x2019;s orientation data. This enables the user to decide what reference frame to use for steering commands. For example, steering can be oriented to the patient&#x2019;s handle, instead of to gravity. While alignment with the laryngoscope image <b>370</b> is shown as an example, the user could choose any other orientation to establish the reference frame.</p>
+<p id="p-0054" num="0053">After establishing the position in <figref idref="DRAWINGS">FIG. <b>6</b>B</figref> as the desired reference orientation, the system will correct steering and images to that reference orientation. For example, in <figref idref="DRAWINGS">FIG. <b>6</b>C</figref>, the user has further rotated away from the position shown in <figref idref="DRAWINGS">FIG. <b>6</b>B</figref> such that the introducer is rotated clockwise by angle &#x3b1;. The introducer itself has rotated, as shown by the new position of the orientation marker <b>326</b> as seen in the laryngoscope image <b>370</b>. However, the second image <b>372</b> (from the introducer) has not rotated. In <figref idref="DRAWINGS">FIG. <b>6</b>C</figref>, the vocal cords and trachea remain upright, as they were oriented in <figref idref="DRAWINGS">FIG. <b>6</b>B</figref>. The system accomplishes this by receiving information from the orientation sensor at the distal tip of the introducer, determining the amount of change (here, clockwise rotation by the amount of the angle &#x3b1;), and reversing that movement to retain the image <b>372</b> in the same orientation as <figref idref="DRAWINGS">FIG. <b>6</b>B</figref>. Similarly, steering controls entered by the user in <figref idref="DRAWINGS">FIG. <b>6</b>B</figref> or <figref idref="DRAWINGS">FIG. <b>6</b>C</figref> are interpreted according to the orientation of <figref idref="DRAWINGS">FIG. <b>6</b>B</figref>, as described above. If the user instructs the introducer in <figref idref="DRAWINGS">FIG. <b>6</b>C</figref> to steer &#x201c;up&#x201d; toward the top of the screen <b>336</b>, the system will bend the introducer in that direction, even though the orientation marker <b>326</b> is rotated away from that position by the angle &#x3b1;.</p>
+<p id="p-0055" num="0054">In another embodiment, the reference frame can be established by automatic image recognition. For example, returning to <figref idref="DRAWINGS">FIGS. <b>6</b>A-C</figref>, the processor on the controller may automatically recognize features in the image, such as the vocal cords <b>376</b> in both images <b>370</b> and <b>372</b>, based on computer vision techniques. These techniques may include, for example, a single shot object detector (that can recognize anatomical structures), Haar feature-based cascade classifiers (to recognize anatomical structures), a neural net trained to output orientation based on known anatomy, landmark alignment with an ensemble of regression trees, object tracking once a useful feature is identified, or other computer vision techniques. The processor can then establish a reference frame based on the orientation of the vocal cords - for example, identifying &#x201c;up&#x201d; as toward the top of the vocal cords (such as toward the epiglottis <b>378</b>). The processor can be programmed to recognize other anatomical structures (for example, the cross- sectional shape of the trachea, anterior vs. posterior positioning) and update or store the reference frame based on those structures. Image recognition can help align the user&#x2019;s reference frame with the patient anatomy, instead of with gravity.</p>
+<p id="p-0056" num="0055">In an embodiment, a user can transition from the dual-picture or picture-in-picture display (as shown in <figref idref="DRAWINGS">FIGS. <b>6</b>A-C</figref>) to an introducer only (only image <b>372</b>) display or laryngoscope only (only image <b>370</b>) and vice versa. Based on the type of images or images displayed, the reference frame can be automatically adjusted. For example, alignment of the reference frame may be based on the orientation of the laryngoscope. Typically, the laryngoscope is positioned during use such that the image captured by the laryngoscope camera is oriented to gravity, with the top of the image on the display screen generally being &#x201c;up&#x201d; relative to gravity. However, certain procedures may involve different laryngoscope positioning relative to the patient, such as in the case of the user facing the patient and holding the laryngoscope rotated 180 degrees. In that case, the top of the laryngoscope image displayed on the display screen would actually correspond to a &#x201c;down&#x201d; direction relative to gravity. To account for different positioning or alignment of the laryngoscope relative to gravity, the alignment may be based on alignment to the laryngoscope image, which may or may not be aligned to gravity. However, upon a change of display mode to introducer-only display, the reference frame can automatically switch to a gravity-based alignment, which is determined by the orientation signal of the orientation sensor. Further, in an embodiment, the techniques may be used to establish a reference frame for steering commands when the introducer is blind (e.g., blind bougie) and no camera image is displayed. Nonetheless, the steering commands can be translated to a gravity-based or user-established reference frame and translated using the orientation signal information from the orientation sensor.</p>
+<p id="p-0057" num="0056">In <figref idref="DRAWINGS">FIG. <b>6</b>B</figref>, the processor can also determine that the endoscope image <b>372</b> is rotated with respect to the video laryngoscope image <b>370</b> by the angle &#x3b8;. In an embodiment, the processor corrects the endoscope image <b>372</b>, rotating the image to align it with the video laryngoscope image <b>370</b>, even without rotating the actual endoscope. This step keeps the two images aligned so that the user can more easily view them at the same time.</p>
+<p id="p-0058" num="0057">In an embodiment, the orientation signal <b>266</b> (<figref idref="DRAWINGS">FIG. <b>4</b></figref>) is used to adjust the displayed endoscope image (such as image <b>372</b>, or on any other display screen). The processor <b>260</b> may use the signal <b>266</b> to automatically adjust the displayed image to a desired orientation, such as adjusting the image to make sure that the upward direction (anterior, toward the patient&#x2019;s chest) remains upward (toward the top proximal surface) on the display screen, even when the endoscope is rotated or turned inside the patient. As an example, the user may rotate the endoscope clockwise degrees (or any amount), as shown in <figref idref="DRAWINGS">FIG. <b>6</b>C</figref>, such as to better position the endoscope within the patient&#x2019;s anatomy. In <figref idref="DRAWINGS">FIG. <b>6</b>C</figref>, the image on the display screen remains stationary, even when the endoscope is rotated. The orientation sensor <b>256</b> at the tip or distal end of the endoscope registers the rotation, and the microprocessor <b>260</b> rotates the image on the screen in the reverse direction (in this example, counter-clockwise) by the same amount. If the endoscope is rotated again, in either direction, the microprocessor again compensates, so that the image on the screen remains oriented with the patient&#x2019;s anterior pointed upward on the display screen. In another embodiment, the microprocessor <b>260</b> receives realtime updated signals from the orientation sensor <b>256</b> indicating the relationship between the distal tip and gravity, so that the microprocessor can continually adjust the image to keep the direction of gravity pointed downward on the laryngoscope display screen, even as the endoscope itself is rotated.</p>
+<p id="p-0059" num="0058">An example method <b>900</b> is outlined in <figref idref="DRAWINGS">FIG. <b>9</b></figref> that may be used in conjunction with a picture-in-picture display or dual-picture display of a multifunctional visualization instrument with steering control (e.g., a video laryngoscope <b>10</b>, see <figref idref="DRAWINGS">FIG. <b>1</b></figref>). In this example, the method includes displaying an image (e.g., an image <b>372</b>, see <figref idref="DRAWINGS">FIGS. <b>6</b>A-C</figref>) from an endoscope camera of an endoscope on a display screen (block <b>902</b>). Optionally, the method may also display a first video laryngoscope image (e.g., an image <b>370</b>, see <figref idref="DRAWINGS">FIGS. <b>6</b>A-C</figref>) from a laryngoscope camera of a video laryngoscope. A user can define a custom reference orientation or reference frame (block <b>904</b>) via a user input or, alternatively, the system may automatically establish a reference frame based on gravity or image processing. The orientation of the endoscope at the time of the user input is established as the reference frame (block <b>906</b>). That is, when using a user input to define the reference frame, the orientation of the endoscope at the time of user input is flagged or stored as the reference frame orientation. The orientation sensor subsequently provides a current orientation signal that indicates that the endoscope distal end, which includes the endoscope camera, has a different orientation than the reference frame (block <b>908</b>). For example, the current orientation of the distal end may change as a result of user manipulation or steering events to move (e.g., rotate) away from the orientation associated with the reference frame to a current orientation. Accordingly, a subsequent or second endoscope image captured at the current orientation is translated from the current orientation (e.g., modified, rotated) to the reference frame (block <b>910</b>). In an embodiment, any received steering command (block <b>912</b>) received at the updated orientated is translated from the updated orientation to the reference frame (block <b>914</b>) based on the amount and direction of rotation to facilitate steering of the endoscope according to the translated steering command (block <b>916</b>).</p>
+<p id="p-0060" num="0059">A user can also update the reference orientation throughout a procedure. For example, the steps outlined in <figref idref="DRAWINGS">FIG. <b>9</b></figref> can be repeated to enable the user to establish a new reference orientation. For example, if a patients shifts, is rotated, sits up or lies down, coughs, etc., the clinical user may decide to establish a new reference orientation for the introducer, such that the system will rotate image information from the introducer to keep the images stationary in this reference orientation and translate steering commands from the user to the introducer. In an embodiment, the system establishes an automatic or default orientation (such as gravity down), and the user can override or change this default orientation by establishing a new reference orientation as outlined in <figref idref="DRAWINGS">FIG. <b>9</b></figref>.</p>
+<p id="p-0061" num="0060">An introducer with variable steering may be used to assist with endotracheal intubation. During endotracheal intubation, clinicians (such as an anesthesiologist or other medical professional) attempt to navigate an endotracheal tube through a limited view through the patient&#x2019;s mouth. Clinicians may rely on the relative position of anatomical structures to navigate. During intubation, the arytenoid cartilage proves useful as an anatomical landmark; the vocal cords are anterior to the arytenoid cartilage, the esophagus posterior. In an embodiment of the present disclosure, the anterior direction is aligned with the top of the user&#x2019;s display screen and set as the reference orientation, so that anterior is maintained as &#x201c;up&#x201d; on the screen. During intubation, the user can input a command to steer an introducer &#x201c;up&#x201d; to pass the tip over the arytenoids and into the vocal cords. Then, the user can pass an endotracheal tube over the introducer and ensure that the endotracheal tube passes into the trachea, rather than the esophagus. By contrast, if the user becomes disoriented and inadvertently steers the introducer into the esophagus (instead of the trachea), esophageal intubation can result, causing serious complications for the patient. Accordingly, a system in which the user&#x2019;s orientation is maintained, and steering inputs are translated accordingly, can improve clinical practice.</p>
+<p id="p-0062" num="0061">While the present techniques are discussed in the context of endotracheal intubation, it should be understood that the disclosed techniques may also be useful in other types of airway management or clinical procedures. For example, the disclosed techniques may be used in conjunction with secretion removal from an airway, arthroscopic surgery, bronchial visualization (bronchoscopy), tube exchange, lung biopsy, nasal or nasotracheal intubation, etc. In certain embodiments, the disclosed multifunctional visualization instruments may be used for visualization of anatomy (stomach, esophagus, upper and lower airway, ear-nose-throat, vocal cords), or biopsy of tumors, masses or tissues. The disclosed multifunctional visualization instruments may also be used for or in conjunction with suctioning, drug delivery, ablation, or other treatments of visualized tissue. The disclosed multifunctional visualization instruments may also be used in conjunction with endoscopes, bougies, introducers, scopes, or probes.</p>
+<p id="p-0063" num="0062">In operation, a caregiver may use a laryngoscope to assist in intubation, e.g., to visualize a patient&#x2019;s airway to guide advancement of the distal tip of an endotracheal tube through the patient&#x2019;s oral cavity, through the vocal cords, into the tracheal passage. Visualization of the patient&#x2019;s anatomy during intubation can help the medical caregiver to avoid damaging or irritating the patient&#x2019;s oral and tracheal tissue, and avoid passing the endotracheal tube into the esophagus instead of the trachea. The laryngoscope may be operated with a single hand (such as the user&#x2019;s left hand) while the other hand (such as the right hand) grips the endotracheal tube and guides it forward into the patient&#x2019;s airway. The user can view advancement of the endotracheal tube on the display screen in order to guide the endotracheal tube into its proper position.</p>
+<p id="p-0064" num="0063">While the video laryngoscope can facilitate more efficient intubation than direct-view intubation, certain patients may benefit from visualization and/or steering devices that extend further into the airway than a laryngoscope. For example, patients with smoke inhalation, burns, lung cancer, and/or airway traumas may benefit from visualization past the vocal cords, which is not accomplished with a laryngoscope. Such visualization may be beneficial for endoscopic placement of endotracheal tubes and/or placement or positioning of suctioning devices in the airway. Endoscope placement (e.g., with an endotracheal tube loaded into the endoscope) may be helpful for anterior or challenging airways. For example, patients whose anatomy cannot be suitably manipulated (either through head positioning or laryngoscopy) to create space for passage of an endotracheal tube may benefit from imaging devices that go beyond the visualization range of a laryngoscope and that provide a greater steering range for a camera, or from articulating devices that can be manipulated and moved within the visualization range of the laryngoscope.</p>
+<p id="p-0065" num="0064">While the disclosure may be susceptible to various modifications and alternative forms, specific embodiments have been shown by way of example in the drawings and have been described in detail herein. However, it should be understood that the embodiments provided herein are not intended to be limited to the particular forms disclosed. Rather, the various embodiments may cover all modifications, equivalents, and alternatives falling within the spirit and scope of the disclosure as defined by the following appended claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A steerable-introducer controller, comprising:
+<claim-text>a handle comprising a proximal end and a distal end;</claim-text>
+<claim-text>a display screen on the handle;</claim-text>
+<claim-text>an introducer port supported by the handle or the display screen and connectable to an introducer;</claim-text>
+<claim-text>a user input located on the handle or the display screen; and</claim-text>
+<claim-text>a processor within the controller, programmed to execute instructions for: 
+<claim-text>receiving, from the user input, a steering command to steer such an introducer, the steering command being in a user reference frame;</claim-text>
+<claim-text>receiving, through the introducer port, an orientation signal from the introducer;</claim-text>
+<claim-text>translating the steering command as a function of the orientation signal; and</claim-text>
+<claim-text>outputting, through the introducer port, the translated steering command.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The steerable-introducer controller of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the introducer signal is from an inertial measurement unit (IMU) located at a distal tip of the introducer.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The steerable-introducer controller of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the orientation signal defines an angular orientation of a distal tip of the introducer with respect to gravity.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The steerable-introducer controller of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the user reference frame is different from a reference frame of a distal tip of the introducer.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The steerable-introducer controller of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the processor is further programmed to execute instructions for:
+<claim-text>receiving an image from a camera of the introducer; and</claim-text>
+<claim-text>displaying the image on a display screen of the controller in the user reference frame.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The steerable-introducer controller of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the steerable-introducer controller is a video laryngoscope including a camera, and the processor is further programmed to execute instructions for:
+<claim-text>receiving an image from a camera of the video laryngoscope;</claim-text>
+<claim-text>displaying the image from the camera of the video laryngoscope concurrently with the image from the camera of the introducer.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. A steerable-introducer controller, comprising:
+<claim-text>a handle;</claim-text>
+<claim-text>a display screen on the handle;</claim-text>
+<claim-text>an introducer port;</claim-text>
+<claim-text>a user input located on the handle or the display screen; and</claim-text>
+<claim-text>a processor within the controller, programmed to execute instructions for: 
+<claim-text>receiving, from the user input, a steering command to steer an introducer, the steering command being in a user reference frame;</claim-text>
+<claim-text>receiving an orientation signal from the introducer;</claim-text>
+<claim-text>translating the steering command as a function of the orientation signal; and</claim-text>
+<claim-text>steering the introducer according to the translated steering command.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The steerable-introducer controller of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the introducer signal is from an inertial measurement unit (IMU) located at a distal tip of the introducer.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The steerable-introducer controller of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the orientation signal defines an angular orientation of a distal tip of the introducer with respect to gravity.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The steerable-introducer controller of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the user reference frame is different from a reference frame of a distal tip of the introducer.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The steerable-introducer controller of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the processor is further programmed to execute instructions for:
+<claim-text>receiving an image from a camera of the introducer; and</claim-text>
+<claim-text>displaying the image on a display screen of the controller in the user reference frame.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The steerable-introducer controller of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the steerable-introducer controller is a video laryngoscope including a camera, and the processor is further programmed to execute instructions for:
+<claim-text>receiving an image from a camera of the video laryngoscope; and</claim-text>
+<claim-text>displaying the image from the camera of the video laryngoscope concurrently with the image from the camera of the introducer.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The steerable-introducer controller of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein steering the introducer causes a distal tip of the introducer to bend.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. A steerable-introducer controller, comprising:
+<claim-text>a handle;</claim-text>
+<claim-text>a display screen;</claim-text>
+<claim-text>an introducer port;</claim-text>
+<claim-text>a user input; and</claim-text>
+<claim-text>a processor within the controller, programmed to execute instructions for: 
+<claim-text>receiving, from the user input, a steering command to steer an introducer having a steerable distal tip, the steering command being in a user reference frame;</claim-text>
+<claim-text>receiving, through the introducer port, an orientation signal from an orientation sensor in the distal tip of the introducer;</claim-text>
+<claim-text>translating the steering command as a function of the orientation signal; and</claim-text>
+<claim-text>causing the distal tip to turn according to the translated steering command.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The steerable-introducer controller of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the introducer signal is from an inertial measurement unit (IMU) located at a distal tip of the introducer.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The steerable-introducer controller of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the introducer signal is from gyroscope located at a distal tip of the introducer.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The steerable-introducer controller of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the user reference frame is different from a reference frame of a distal tip of the introducer.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The steerable-introducer controller of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the processor is further programmed to execute instructions for:
+<claim-text>receiving an image from a camera of the introducer; and</claim-text>
+<claim-text>displaying the image on a display screen of the controller in the user reference frame.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The steerable-introducer controller of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the controller is a video laryngoscope.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The steerable-introducer controller of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the processor is further programmed to execute instructions for:
+<claim-text>receiving an image from a camera of the video laryngoscope; and</claim-text>
+<claim-text>displaying the image from the camera of the video laryngoscope concurrently with the image from the camera of the introducer.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

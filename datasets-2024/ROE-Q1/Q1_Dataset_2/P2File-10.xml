@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225421A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225421</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17996380</doc-number>
+<date>20210423</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>GB</country>
+<doc-number>2005970.5</doc-number>
+<date>20200423</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>70</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>46</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>33</class>
+<subclass>Y</subclass>
+<main-group>10</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>33</class>
+<subclass>Y</subclass>
+<main-group>80</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>70</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>46</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20141201</date></cpc-version-indicator>
+<section>B</section>
+<class>33</class>
+<subclass>Y</subclass>
+<main-group>10</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20141201</date></cpc-version-indicator>
+<section>B</section>
+<class>33</class>
+<subclass>Y</subclass>
+<main-group>80</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">AEROSOL-GENERATING COMPONENTS AND METHODS OF PREPARING THE SAME</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="obligated-assignee">
+<addressbook>
+<orgname>Nicoventures Trading Limited</orgname>
+<address>
+<city>London</city>
+<country>GB</country>
+</address>
+</addressbook>
+<residence>
+<country>GB</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>HARRIS</last-name>
+<first-name>Shasa</first-name>
+<address>
+<city>London</city>
+<country>GB</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>AZZOPARDI</last-name>
+<first-name>Anna</first-name>
+<address>
+<city>London</city>
+<country>GB</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/GB2021/050987</doc-number>
+<date>20210423</date>
+</document-id>
+<us-371c12-date><date>20221017</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An aerosol-generating component including at least one active that is not nicotine, wherein the aerosol-generating component is formed by an additive manufacturing process from a feedstock material including the at least one active. There is also provided a process for preparing an aerosol-generating component including at least one active that is not nicotine, wherein the at least one active is included in a feedstock material that is used to form the aerosol-generating component by an additive manufacturing process. Also provided is a delivery system including an aerosol-generating component as described herein.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="54.02mm" wi="117.60mm" file="US20230225421A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="216.92mm" wi="140.80mm" file="US20230225421A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">PRIORITY CLAIM</heading>
+<p id="p-0002" num="0001">The present application is a National Phase entry of PCT Application No. PCT/GB2021/050987, filed Apr. 23, 2021, which claims priority from GB Application No. 2005970.5, filed Apr. 23, 2020, each of which is hereby fully incorporated herein by reference.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The invention relates to aerosol-generating components for inclusion in an aerosol provision system, such as an apparatus for heating aerosol-generating material to volatilize at least one component of the material. The invention also relates to methods for preparing such components.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">Aerosol-generating material may include a variety of different active substances and/or flavors and a user selects aerosol-generating material to provide the desired user experience.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0005" num="0004">In accordance with some embodiments described herein, there is provided a process for preparing an aerosol-generating component comprising at least one active that is not nicotine, wherein the at least one active is included in a feedstock material that is used to form the aerosol-generating component by an additive manufacturing process.</p>
+<p id="p-0006" num="0005">In some embodiments, the active that is not nicotine is selected from the group consisting of the actives listed in Table 1 below.</p>
+<p id="p-0007" num="0006">In some embodiments, the aerosol-generating component comprises at least one further active. In some embodiments, the at least one further active is included in at least one further feedstock material used to form the aerosol-generating component.</p>
+<p id="p-0008" num="0007">In some embodiments, the aerosol-generating component further comprises nicotine. In some embodiments, the feedstock material comprises tobacco material.</p>
+<p id="p-0009" num="0008">In some embodiments, the aerosol-generating component is a unitary aerosol-generating component comprising at least two portions comprising different actives. In some embodiments, the at least two portions are formed by the additive manufacturing process using different feedstock materials.</p>
+<p id="p-0010" num="0009">In some embodiments, the additive manufacturing process forms a three-dimensional object from the feedstock materials using a computer-aided design (CAD) model.</p>
+<p id="p-0011" num="0010">In some embodiments, the additive manufacturing process is a 3D printing process depositing layer upon layer of feedstock material.</p>
+<p id="p-0012" num="0011">In accordance with some further embodiments described herein, there is provided an aerosol-generating component comprising at least one active that is not nicotine, wherein the aerosol-generating component is formed by an additive manufacturing process from a feedstock material comprising the at least one active.</p>
+<p id="p-0013" num="0012">In some embodiments, the aerosol-generating component comprises at least one further active. In some embodiments, the at least one further active is included in at least one further feedstock material used to form the aerosol-generating component.</p>
+<p id="p-0014" num="0013">In some embodiments, the active that is not nicotine is selected from the group consisting of the actives listed in Table 1 below.</p>
+<p id="p-0015" num="0014">In some embodiments, the aerosol-generating component further comprises nicotine. In some embodiments, the aerosol-generating component comprises tobacco material.</p>
+<p id="p-0016" num="0015">In some embodiments, the aerosol-generating component is a unitary aerosol-generating component comprising at least two portions comprising different actives. In some embodiments, the at least two portions comprise different aerosol-generating materials.</p>
+<p id="p-0017" num="0016">In some embodiments, a first portion comprises the at least one active that is not nicotine and a second portion comprises a second active that is different to the first active.</p>
+<p id="p-0018" num="0017">In some embodiments, the first and second portions have a different pH.</p>
+<p id="p-0019" num="0018">In accordance with some further embodiments described herein, there is provided a delivery system comprising an aerosol-generating component as disclosed herein.</p>
+<p id="p-0020" num="0019">In some embodiments, the delivery system is a non-combustible aerosol provision system. In some embodiments, comprising a heating means to heat the aerosol-generating component.</p>
+<p id="p-0021" num="0020">In accordance with some further embodiments described herein, there is provided a consumable comprising an aerosol-generating component as disclosed herein.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0022" num="0021">Embodiments of the invention will now be described, by way of example only, with reference to accompanying drawings, in which:</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIGS. <b>1</b>, <b>2</b> and <b>3</b></figref> are schematic illustrations of aerosol-generating components in accordance with various different embodiments described herein.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0024" num="0023">In some aspects, the invention relates to an aerosol-generating component comprising at least one active that is not nicotine, wherein the at least one active is included in a feedstock material that is used to form the aerosol-generating component by an additive manufacturing process.</p>
+<p id="p-0025" num="0024">An additive manufacturing process is a particularly convenient process for manufacturing such aerosol-generating components. Such a process may be used to form an aerosol-generating component from one or more feedstock materials, depositing the feedstock material(s) layer upon layer. In embodiments where the aerosol-generating component comprises more than one aerosol-generating material, the material may be deposited layer upon layer so that portions are formed from different feedstock materials and so that these different portions are attached to one another to form a unitary component.</p>
+<p id="p-0026" num="0025">An aerosol-generating material is a material that is capable of generating aerosol, for example when heated, irradiated or energized in any other way.</p>
+<p id="p-0027" num="0026">As used herein, the aerosol-generating components are components that are ready for use in a delivery system, such as a non-combustible aerosol provision system. In some embodiments, this means that the aerosol-generating component is ready to be used in a delivery system without the need for any further adaptation or processing.</p>
+<p id="p-0028" num="0027">Aerosol-Generating Material</p>
+<p id="p-0029" num="0028">In some embodiments, the aerosol-generating materials may comprise one or more active substances and/or flavors, one or more aerosol-former materials, and optionally one or more other functional material.</p>
+<p id="p-0030" num="0029">According to the present disclosure, at least one active included in the aerosol-generating material is not nicotine. In some embodiments, at least one active is included in addition to the active that is not nicotine.</p>
+<p id="p-0031" num="0030">The active substance as used herein may be a physiologically active material, which is a material intended to achieve or enhance a physiological response. The active substance may for example be selected from nutraceuticals, nootropics, psychoactives. The active substance may be naturally occurring or synthetically obtained. The active substance may comprise constituents, derivatives, or combinations of known active substances. For example, the active substance may comprise one or more constituents, derivatives or extracts of tobacco, cannabis or another botanical.</p>
+<p id="p-0032" num="0031">In some embodiments, an additional active substance comprises nicotine.</p>
+<p id="p-0033" num="0032">In some embodiments, the active substance may comprise or be derived from one or more botanicals or constituents, derivatives or extracts thereof. As used herein, the term &#x201c;botanical&#x201d; includes any material derived from plants including, but not limited to, extracts, leaves, bark, fibers, stems, roots, seeds, flowers, fruits, pollen, husk, shells or the like. Alternatively, the material may comprise an active compound naturally existing in a botanical, obtained synthetically. The material may be in the form of liquid, gas, solid, powder, dust, crushed particles, granules, pellets, shreds, strips, sheets, or the like. Example botanicals are tobacco, eucalyptus, star anise, hemp, cocoa, cannabis, fennel, lemongrass, peppermint, spearmint, rooibos, chamomile, flax, ginger, ginkgo biloba, hazel, hibiscus, laurel, licorice (liquorice), matcha, mate, orange skin, papaya, rose, sage, tea such as green tea or black tea, thyme, clove, cinnamon, coffee, aniseed (anise), basil, bay leaves, cardamom, coriander, cumin, nutmeg, oregano, paprika, rosemary, saffron, lavender, lemon peel, mint, juniper, elderflower, vanilla, wintergreen, beefsteak plant, curcuma, turmeric, sandalwood, cilantro, bergamot, orange blossom, myrtle, cassis, valerian, pimento, mace, damien, marjoram, olive, lemon balm, lemon basil, chive, carvi, verbena, tarragon, geranium, mulberry, ginseng, theanine, theacrine, maca, ashwagandha, damiana, guarana, chlorophyll, baobab or any combination thereof. The mint may be chosen from the following mint varieties: <i>Mentha arventis, Mentha </i>c.v., <i>Mentha niliaca, Mentha piperita, Mentha piperita citrata </i>c.v., <i>Mentha piperita </i>c.v, <i>Mentha spicata crispa, Mentha cardifolia, Mentha longifolia, Mentha suaveolens variegata, Mentha pulegium, Mentha spicata </i>c.v. and <i>Mentha suaveolens </i></p>
+<p id="p-0034" num="0033">In some embodiments, the active substance comprises or is derived from one or more botanicals or constituents, derivatives or extracts thereof and the botanical is tobacco. In some embodiments, the active substance comprises or is derived from one or more botanicals or constituents, derivatives or extracts thereof and the botanical is not tobacco.</p>
+<p id="p-0035" num="0034">In some embodiments, the active substance comprises or derived from one or more botanicals or constituents, derivatives or extracts thereof and the botanical is selected from eucalyptus, star anise, cocoa and hemp.</p>
+<p id="p-0036" num="0035">The active substance may comprise one or more constituents, derivatives or extracts of cannabis, such as one or more cannabinoids or terpenes.</p>
+<p id="p-0037" num="0036">In some embodiments, the active substance comprises or derived from one or more botanicals or constituents, derivatives or extracts thereof and the botanical is selected from rooibos and fennel.</p>
+<p id="p-0038" num="0037">In some embodiments, an additional active substance is nicotine. This may be provided in the feedstock and aerosol-generating material in the form of particles of tobacco material, a tobacco extract, and/or a purified or synthetic form of nicotine.</p>
+<p id="p-0039" num="0038">In some embodiments, the aerosol-generating material comprises one or more active is selected from the group consisting of the actives listed in Table 1 below.</p>
+<p id="p-0040" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="77pt" align="left"/>
+<colspec colname="3" colwidth="70pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>5-Hydroxytryptophan</entry>
+<entry>Guarana</entry>
+<entry>Rhizoma</entry>
+</row>
+<row>
+<entry>(5-HTP)/oxitriptan/</entry>
+<entry/>
+<entry>gastrodiae</entry>
+</row>
+<row>
+<entry>Griffonia simplicifolia</entry>
+</row>
+<row>
+<entry>Acetylcholine</entry>
+<entry>Hops</entry>
+<entry>Rhodiola</entry>
+</row>
+<row>
+<entry>Arachidonic acid</entry>
+<entry>Jasmine</entry>
+<entry>Rhodiola</entry>
+</row>
+<row>
+<entry>(AA, Omega-6)</entry>
+<entry/>
+<entry>rosea</entry>
+</row>
+<row>
+<entry>Ashwagandha</entry>
+<entry>Kaempferia</entry>
+<entry>Rose</entry>
+</row>
+<row>
+<entry>(Withania</entry>
+<entry>parviflora</entry>
+<entry>essential</entry>
+</row>
+<row>
+<entry>somnifera)</entry>
+<entry>(Thai ginseng)</entry>
+<entry>oil</entry>
+</row>
+<row>
+<entry>Bacopa monniera</entry>
+<entry>Kava</entry>
+<entry>Rosemary</entry>
+</row>
+<row>
+<entry>Beta Alanine</entry>
+<entry>L-carnitine</entry>
+<entry>S-adenosylmethionine</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(SAMe)</entry>
+</row>
+<row>
+<entry>Beta-Hydroxy-Beta-</entry>
+<entry>L-arginine</entry>
+<entry>Sceletium</entry>
+</row>
+<row>
+<entry>Methylbutyrate (HMB)</entry>
+<entry/>
+<entry>tortuosum</entry>
+</row>
+<row>
+<entry>Caffeine</entry>
+<entry>Lavender Oil</entry>
+<entry>Schisandra</entry>
+</row>
+<row>
+<entry>Centella asiatica</entry>
+<entry>L-choline</entry>
+<entry>Selenium</entry>
+</row>
+<row>
+<entry>Chai-hu</entry>
+<entry>Lemon balm</entry>
+<entry>Serotonin</entry>
+</row>
+<row>
+<entry>Chamomile</entry>
+<entry>Lemongrass</entry>
+<entry>Skullcap</entry>
+</row>
+<row>
+<entry>Cherry</entry>
+<entry>Liquorice</entry>
+<entry>Spearmint</entry>
+</row>
+<row>
+<entry>blossom</entry>
+<entry/>
+<entry>extract</entry>
+</row>
+<row>
+<entry>Cinnamon</entry>
+<entry>L-lysine</entry>
+<entry>Spikenard</entry>
+</row>
+<row>
+<entry>Citicoline</entry>
+<entry>L-theanine</entry>
+<entry>Taurine</entry>
+</row>
+<row>
+<entry>Cotinine</entry>
+<entry>L-tryptophan</entry>
+<entry>Terpens</entry>
+</row>
+<row>
+<entry>Creatine</entry>
+<entry>Lutein</entry>
+<entry>Theacrine</entry>
+</row>
+<row>
+<entry>Curcumin</entry>
+<entry>Magnesium</entry>
+<entry>Theobromine</entry>
+</row>
+<row>
+<entry>Docosahexaenoic acid</entry>
+<entry>Magnesium</entry>
+<entry>Tumaric</entry>
+</row>
+<row>
+<entry>(DHA, Omega-3)</entry>
+<entry>L-threonate</entry>
+</row>
+<row>
+<entry>Dopamine</entry>
+<entry>Matcha</entry>
+<entry>Turmeric</entry>
+</row>
+<row>
+<entry>Dorstenia</entry>
+<entry>Melatonin</entry>
+<entry>Turnera</entry>
+</row>
+<row>
+<entry>arifolia</entry>
+<entry/>
+<entry>aphrodisiaca</entry>
+</row>
+<row>
+<entry>Dorstenia</entry>
+<entry>Myo-inositol</entry>
+<entry>Tyrosine</entry>
+</row>
+<row>
+<entry>Odorata</entry>
+</row>
+<row>
+<entry>Essential oils</entry>
+<entry>Nardostachys chinensis</entry>
+<entry>Valerian</entry>
+</row>
+<row>
+<entry>Fennel</entry>
+<entry>Nitrate</entry>
+<entry>Vitamin A</entry>
+</row>
+<row>
+<entry>GABA</entry>
+<entry>Oil-based extract</entry>
+<entry>Vitamin B12</entry>
+</row>
+<row>
+<entry/>
+<entry>of Viola odorata</entry>
+<entry>(Cobalamin)</entry>
+</row>
+<row>
+<entry>Galphimia glauca</entry>
+<entry>Oxygen</entry>
+<entry>Vitamin B3</entry>
+</row>
+<row>
+<entry>Ginger</entry>
+<entry>Phenylalanine</entry>
+<entry>Vitamin B6</entry>
+</row>
+<row>
+<entry>Ginkgo biloba</entry>
+<entry>Phosphatidylserine</entry>
+<entry>Vitamin C</entry>
+</row>
+<row>
+<entry>Ginseng</entry>
+<entry>Quercetin</entry>
+<entry>Yerba mate</entry>
+</row>
+<row>
+<entry>Glutamic acid</entry>
+<entry>Resveratrol</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0041" num="0039">In some embodiments, the aerosol-generating material comprises one or more active that has been associated with particular physiological and/or psychological effect. For example, the active may be associated with improved alertness, improved focus, increased energy, increased stamina, increased calm or improved sleep.</p>
+<p id="p-0042" num="0040">Numerous actives have been demonstrated to have such effects. For example, taurine has been linked to improved performance in muscle strength and endurance, endurance exercise tests, jumping and sport-specific actions (see Souza, D. B., et al. Acute effects of caffeine-containing energy drinks on physical performance: a systematic review and meta-analysis. Eur J Nutr 56, 13-27 (2017)). L-theanine has been shown to have some relaxing effects under resting conditions and may be an even more effective relaxing agent in such circumstances than the standard benzodiazepine anxiolytic, alprazolam (see Kristy Lu, et al, The acute effects of L-theanine in comparison with alprazolam on anticipatory anxiety in humans. Human Psychopharmacol Clin Exp 2004; 19; 457-465). Caffeine and L-theanine have been shown to improve performance on cognitively demanding tasks, demonstrating improved alertness, accuracy speed and accuracy (see Gail N. Owen, et al The combined effects of L-theanine and caffeine on cognitive performance and mood, Nutritional Neuroscience, 11:4, 193-198 (2008) and T. Giesbrecht, et al (2010) The combination of L-theanine and caffeine improves cognitive performance and increases subjective alertness, Nutritional Neuroscience, 13:6, 283-290). It has also been demonstrated that GABA (&#x3b3;-aminobutyric acid) and L-theanine are effective in improving sleep quality (see Suhyeon Kim, t al (2019) GABA and L-theanine mixture decreases sleep latency and improves NREM sleep, Pharmaceutical Biology, 57:1, 64-72).</p>
+<p id="p-0043" num="0041">In some embodiments, the feedstock and the aerosol-generating material comprise a flavor.</p>
+<p id="p-0044" num="0042">As used herein, the terms &#x201c;flavor&#x201d; and &#x201c;flavorant&#x201d; refer to materials which, where local regulations permit, may be used to create a desired taste, aroma or other somatosensorial sensation in a product for adult consumers. They may include naturally occurring flavor materials, botanicals, extracts of botanicals, synthetically obtained materials, or combinations thereof (e.g., tobacco, cannabis, licorice (liquorice), hydrangea, eugenol, Japanese white bark magnolia leaf, chamomile, fenugreek, clove, maple, matcha, menthol, Japanese mint, aniseed (anise), cinnamon, turmeric, Indian spices, Asian spices, herb, wintergreen, cherry, berry, red berry, cranberry, peach, apple, orange, mango, clementine, lemon, lime, tropical fruit, papaya, rhubarb, grape, durian, dragon fruit, cucumber, blueberry, mulberry, citrus fruits, Drambuie, bourbon, scotch, whiskey, gin, tequila, rum, spearmint, peppermint, lavender, aloe vera, cardamom, celery, cascarilla, nutmeg, sandalwood, bergamot, geranium, khat, naswar, betel, shisha, pine, honey essence, rose oil, vanilla, lemon oil, orange oil, orange blossom, cherry blossom, cassia, caraway, cognac, jasmine, ylang-ylang, sage, fennel, wasabi, piment, ginger, coriander, coffee, hemp, a mint oil from any species of the genus Mentha, eucalyptus, star anise, cocoa, lemongrass, rooibos, flax, ginkgo biloba, hazel, hibiscus, laurel, mate, orange skin, rose, tea such as green tea or black tea, thyme, juniper, elderflower, basil, bay leaves, cumin, oregano, paprika, rosemary, saffron, lemon peel, mint, beefsteak plant, curcuma, cilantro, myrtle, cassis, valerian, pimento, mace, damien, marjoram, olive, lemon balm, lemon basil, chive, carvi, verbena, tarragon, limonene, thymol, camphene), flavor enhancers, bitterness receptor site blockers, sensorial receptor site activators or stimulators, sugars and/or sugar substitutes (e.g., sucralose, acesulfame potassium, aspartame, saccharine, cyclamates, lactose, sucrose, glucose, fructose, sorbitol, or mannitol), and other additives such as charcoal, chlorophyll, minerals, botanicals, or breath freshening agents. They may be imitation, synthetic or natural ingredients or blends thereof. They may be in any suitable form, for example, liquid such as an oil, solid such as a powder, or gas.</p>
+<p id="p-0045" num="0043">In some embodiments, the flavor comprises menthol, spearmint and/or peppermint. In some embodiments, the flavor comprises flavor components of cucumber, blueberry, citrus fruits and/or redberry. In some embodiments, the flavor comprises eugenol. In some embodiments, the flavor comprises flavor components extracted from tobacco. In some embodiments, the flavor comprises flavor components extracted from cannabis.</p>
+<p id="p-0046" num="0044">In some embodiments, the flavor may comprise a sensate, which is intended to achieve a somatosensorial sensation which are usually chemically induced and perceived by the stimulation of the fifth cranial nerve (trigeminal nerve), in addition to or in place of aroma or taste nerves, and these may include agents providing heating, cooling, tingling, numbing effect. A suitable heat effect agent may be, but is not limited to, vanillyl ethyl ether and a suitable cooling agent may be, but not limited to eucalyptol, WS-3.</p>
+<p id="p-0047" num="0045">In some embodiments, the feedstock and the aerosol-generating material comprise an aerosol-former material. The aerosol-former material may comprise one or more constituents capable of forming an aerosol. In some embodiments, the aerosol-former material may comprise one or more of glycerine, glycerol, propylene glycol, diethylene glycol, triethylene glycol, tetraethylene glycol, 1,3-butylene glycol, erythritol, meso-Erythritol, ethyl vanillate, ethyl laurate, a diethyl suberate, triethyl citrate, triacetin, a diacetin mixture, benzyl benzoate, benzyl phenyl acetate, tributyrin, lauryl acetate, lauric acid, myristic acid, and propylene carbonate.</p>
+<p id="p-0048" num="0046">In some embodiments, the feedstock and aerosol-generating material comprise one or more functional materials. The one or more other functional materials may comprise one or more of pH regulators, coloring agents, preservatives, binders, fillers, stabilizers, and/or antioxidants.</p>
+<p id="p-0049" num="0047">Suitable binders include, for example, pectin, guar gum, fruit pectin, citrus pectin, tobacco pectin, hydroxyethyl guar gum, hydroxypropyl guar gum, hydroxyethyl locust bean gum, hydroxypropyl locust bean gum, alginate, starch, modified starch, derivatized starch, methyl cellulose, ethyl cellulose, ethylhydroxymethyl cellulose, carboxymethyl cellulose, tamarind gum, dextran, pullalon, konjac flour or xanthan gum.</p>
+<p id="p-0050" num="0048">In some embodiments the aerosol-generating component comprises two or more different aerosol-generating materials. In some embodiments, the different materials generate different aerosols.</p>
+<p id="p-0051" num="0049">In some embodiments, the different aerosol-generating materials are included as different portions of the aerosol-generating component. In some embodiments, a user inhaling the aerosols generated by the portions of the aerosol-generating component may not perceive any difference between the aerosols generated by different portions. For example, the differences in the aerosol-generating materials may be designed to provide the user with a consistent sensory experience. In other embodiments, the different portions of the aerosol-generating component generate different aerosols that the user can distinguish between. In such embodiments, the component provides the user with a changing experience as the different portions generate an aerosol.</p>
+<p id="p-0052" num="0050">In some embodiments, two or more of the portions of the aerosol-generating component comprise different actives.</p>
+<p id="p-0053" num="0051">In other embodiments, two or more of the portions of the aerosol-generating component comprise the same active but in different amounts or strengths.</p>
+<p id="p-0054" num="0052">In some embodiments, two or more of the portions of the aerosol-generating component comprise different flavors.</p>
+<p id="p-0055" num="0053">In other embodiments, two or more of the portions of the aerosol-generating component comprise the same flavors but in different amounts or strengths.</p>
+<p id="p-0056" num="0054">In some embodiments, two or more of the portions of the aerosol-generating component have a different pH.</p>
+<p id="p-0057" num="0055">In some embodiments, the aerosol-generating component comprises an aerosol-generating material having a basic pH. For example, the pH may be at least about 7.5. In some embodiments, the aerosol-generating material with a basic pH comprises one or more bases or a basic buffer system.</p>
+<p id="p-0058" num="0056">The purpose of adjusting the pH of the aerosol-generating material is to provide the constituents in a chemical form which means that they are readily released from the aerosol-generating component, and/or they are readily transferred to the aerosol generated by the delivery system used to generate the aerosol from the aerosol-generating component.</p>
+<p id="p-0059" num="0057">For example, adjusting the pH of tobacco changes the natural balance of those acid-base reactions that bind certain classes of chemicals within the tobacco. For example, in natural tobacco leaf, nicotine tends to bind with organic acids that are present in the leaf and hence is more stable and less likely to volatilize when exposed to mild heat. If the pH of the leaf is raised, this reduces the nicotine's natural association with the acids. Such unbound of &#x201c;free&#x201d; nicotine is more volatile. The same principle applies to other chemical equilibria within tobacco.</p>
+<p id="p-0060" num="0058">In some embodiments, the pH of the aerosol-generating material is adjusted to at least about 7.5, at least about 8, at least about 8.5, at least about 9, at least about 9.5 or at least about 10. In some embodiments, the pH is adjusted to no higher than about 14, no higher than about 13.5, no higher than about 13, no higher than about 12.5, no higher than about 12, no higher than about 11.5, no higher than about 11, no higher than about 10.5 or no higher than about 10. In some embodiments, the pH of the aerosol-generating material is adjusted to from about 8 to about 10, or from about 8.5 to about 9.5.</p>
+<p id="p-0061" num="0059">In some embodiments, the pH is adjusted to from about 7.5 to about 10, or from about 8 to about 9, or to about 8.5, about 9, about 9.5 or about 10.</p>
+<p id="p-0062" num="0060">In some embodiments, the base used to adjust the pH is a hydroxide or a carbonate. Hydroxides used may be monoacidic bases, diacidic bases or triacidic bases. Suitable bases include, for example, potassium hydroxide, calcium hydroxide, silver hydroxide, ammonium hydroxide, magnesium hydroxide, sodium carbonate, sodium bicarbonate (also known as sodium hydrogen carbonate), and potassium carbonate.</p>
+<p id="p-0063" num="0061">The base may be added to the feedstock material from which the portions of the aerosol-generating components are formed in the form of a liquid, such as an aqueous or non-aqueous solution or suspension, or in the form of a solid, such as a powder.</p>
+<p id="p-0064" num="0062">In some embodiments, the buffer system used to adjust the pH is a mixture of a weak base and its conjugate acid. Suitable buffer systems include, for example, ones having a pH of at least about 7.5, at least about 8, at least about 8.5 or at least about 9. In some embodiments, the pH of the buffer system is from about 8 to about 10, or from about 8.5 to about 9.5. Suitable buffer systems include, for example, those based on ammonia, carbonates or hydroxides, with suitable counterions. An example of a specific buffer system is a mixture of ammonia and ammonium chloride.</p>
+<p id="p-0065" num="0063">In some embodiments, two or more of the portions of the aerosol-generating component have different aerosol release profiles. This means that when the aerosol-generating component is heated, irradiated or energized in any other way, an aerosol is generated with a different release profile. This means that the rate and/or duration of release of the aerosol and/or of one or more components of the aerosol, is different.</p>
+<p id="p-0066" num="0064">Whilst it may be desirable, in some embodiments, for a portion of the aerosol-generating component to include a base or acid to provide an adjusted pH, some constituents of aerosol-generating materials may not be compatible with the adjusted pH. For example, some actives and flavors are pH-sensitive. The distinct portions of the aerosol-generating components described herein make it possible to separate such pH-sensitive constituents from the pH-adjusted aerosol-generating material. Other incompatible constituents of the aerosol-generating material may also be accommodated in such distinct portions of the aerosol-generating component.</p>
+<p id="p-0067" num="0065">Additive Manufacturing Process</p>
+<p id="p-0068" num="0066">Additive manufacturing builds a three-dimensional object from a computer-aided design (CAD) model, usually by successively adding material layer by layer. Various processes may be used to join or solidify material under the control of a computer to create a three-dimensional object.</p>
+<p id="p-0069" num="0067">The term &#x201c;additive manufacturing&#x201d; is used herein to refer to a variety of processes, including, for example, printing processes that deposit a material with dispensing heads layer by layer (&#x201c;3D printing&#x201d;).</p>
+<p id="p-0070" num="0068">In some embodiments, the additive manufacturing process uses one or more different feedstock materials to produce an aerosol-generating component. For example, a first feedstock material may be used to form a first portion of the component and a second feedstock material may be used to form a second portion of the component.</p>
+<p id="p-0071" num="0069">The additive manufacturing process involves laying down the feedstock layer upon layer. In embodiments where the aerosol-generating component comprises two or more portions, the first layer of the second portion may be laid down on the first portion so that a unitary component comprising multiple portions is produced. These portions are attached to one another and may not be readily separated from one another. This is in contrast, for example, to a component that is made of separate portions that are subsequently attached to one another, for example by a bonding or fusing step.</p>
+<p id="p-0072" num="0070">In some embodiments, the apparatus for performing the additive manufacturing process is an apparatus that may be used to sequentially deposit feedstock material layer upon layer to form a three-dimensional object under the control of a computer program. In particular embodiments, the additive manufacturing process is 3D printing and suitable apparatus for performing this include 3D printers having a dispensing head that lays down multiple layers of feedstock material to form a three-dimensional object. In general, print heads contain chambers that get fed the feedstock to be deposited and nozzles that spray out the feedstock in a highly controlled manner.</p>
+<p id="p-0073" num="0071">In some embodiments, the feedstock material used to prepare the aerosol-generating components is a paste or slurry. In such embodiments, the additive manufacturing process is a paste or slurry extrusion 3D printing process.</p>
+<p id="p-0074" num="0072">In some embodiments, layers of a feedstock material are deposited in a controlled manner to provide an aerosol-generating component comprising an aerosol-generating material. This process may be carried out to produce an aerosol-generating component of the desired shape and size.</p>
+<p id="p-0075" num="0073">In some embodiments, layers of a first feedstock material are deposited in a controlled manner to provide a first portion of the aerosol-generating component comprising a first aerosol-generating material, followed by layers of a second feedstock material being deposited in a controlled manner to provide a second portion of the aerosol-generating component comprising a different aerosol-generating material. This process may optionally be continued with further feedstock materials to produce an aerosol-generating component of the desired shape and size and comprising multiple portions of aerosol-generating materials.</p>
+<p id="p-0076" num="0074">The viscosity of the feedstock and properties of the additive manufacturing apparatus, such as the size of the nozzle aperture and/or the speed at which the feedstock is delivered, can be optimized to allow the features of the aerosol-generating component to be tailored to its proposed use.</p>
+<p id="p-0077" num="0075">In an optional further step, the aerosol-generating component is treated following the additive manufacturing process. For example, the component prepared by the additive manufacturing process may be subsequently cured. Curing may, in some embodiments, involve exposure to a suitable heat source, for example, hot air, infrared, laser or plasma jet.</p>
+<p id="p-0078" num="0076">The additive manufacturing process provides important flexibility with regard to the three dimensional shape of the aerosol-generating component disclosed herein. For example, in some embodiments it is desirable to provide a component with a large surface area and the additive manufacturing process may be used to produce components with channels and/or with intricate cross-sectional shapes (such as Y-, X- or star-shaped) to maximize the surface area whilst still retaining the necessary strength and stability of the components.</p>
+<p id="p-0079" num="0077">Delivery System</p>
+<p id="p-0080" num="0078">As used herein, the term &#x201c;delivery system&#x201d; is intended to encompass systems that deliver at least one substance to a user, and includes:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0079">combustible aerosol provision systems, such as cigarettes, cigarillos, cigars, and tobacco for pipes or for roll-your-own or for make-your-own cigarettes (whether based on tobacco, tobacco derivatives, expanded tobacco, reconstituted tobacco, tobacco substitutes or other smokeable material); and</li>
+        <li id="ul0002-0002" num="0080">non-combustible aerosol provision systems that release compounds from an aerosol-generating material without combusting the aerosol-generating material, such as tobacco heating products, and hybrid systems to generate aerosol using a combination of aerosol-generating materials.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0081" num="0081">According to the present disclosure, a &#x201c;non-combustible&#x201d; aerosol provision system is one where a constituent aerosol-generating material of the aerosol provision system (or component thereof) is not combusted or burned in order to facilitate delivery of at least one substance to a user.</p>
+<p id="p-0082" num="0082">In some embodiments, the delivery system is a non-combustible aerosol provision system, such as a powered non-combustible aerosol provision system.</p>
+<p id="p-0083" num="0083">In some embodiments, the non-combustible aerosol provision system is an aerosol-generating material heating system, also known as a heat-not-burn system. An example of such a system is a tobacco heating system.</p>
+<p id="p-0084" num="0084">In some embodiments, the non-combustible aerosol provision system is a hybrid system to generate aerosol using a combination of aerosol-generating materials, one or a plurality of which may be heated. Each of the aerosol-generating materials may be, for example, in the form of a solid, liquid or gel and may or may not contain nicotine. In some embodiments, the hybrid system comprises a liquid or gel aerosol-generating material and a solid aerosol-generating material. The solid aerosol-generating material may comprise, for example, tobacco or a non-tobacco product.</p>
+<p id="p-0085" num="0085">Typically, the non-combustible aerosol provision system may comprise a non-combustible aerosol provision device and a consumable for use with the non-combustible aerosol provision device.</p>
+<p id="p-0086" num="0086">In some embodiments, the disclosure relates to consumables comprising an aerosol-generating component as disclosed herein and configured to be used with non-combustible aerosol provision devices.</p>
+<p id="p-0087" num="0087">In some embodiments, the non-combustible aerosol provision system, such as a non-combustible aerosol provision device thereof, may comprise a power source and a controller. The power source may, for example, be an electric power source or an exothermic power source. In some embodiments, the exothermic power source comprises a carbon substrate which may be energized so as to distribute power in the form of heat to an aerosol-generating material or to a heat transfer material in proximity to the exothermic power source.</p>
+<p id="p-0088" num="0088">In some embodiments, the non-combustible aerosol provision system may comprise an area for receiving the consumable, an aerosol generator, an aerosol generation area, a housing, a mouthpiece, a filter and/or an aerosol-modifying agent.</p>
+<p id="p-0089" num="0089">In some embodiments, the consumable for use with the non-combustible aerosol provision device may comprise aerosol-generating material, an aerosol-generating material storage area, an aerosol-generating material transfer component, an aerosol generator, an aerosol generation area, a housing, a wrapper, a filter, a mouthpiece, and/or an aerosol-modifying agent.</p>
+<p id="p-0090" num="0090">A consumable is an article comprising or consisting of aerosol-generating material, part or all of which is intended to be consumed during use by a user. A consumable may comprise one or more other components, such as an aerosol-generating material storage area, an aerosol-generating material transfer component, an aerosol generation area, a housing, a wrapper, a mouthpiece, a filter and/or an aerosol-modifying agent. A consumable may also comprise an aerosol generator, such as a heater, that emits heat to cause the aerosol-generating material to generate aerosol in use.</p>
+<p id="p-0091" num="0091">An aerosol generator is an apparatus configured to cause aerosol to be generated from the aerosol-generating material. In some embodiments, the aerosol generator is a heater configured to subject the aerosol-generating material to heat energy, so as to release one or more volatiles from the aerosol-generating material to form an aerosol. In some embodiments, the aerosol generator is configured to cause an aerosol to be generated from the aerosol-generating material without heating. For example, the aerosol generator may be configured to subject the aerosol-generating material to one or more of vibration, increased pressure, or electrostatic energy.</p>
+<p id="p-0092" num="0092">In some embodiments, the aerosol generator is configured to acts on the aerosol-generating component to generate an aerosol from multiple portions of the aerosol-generating component at the same time. In some embodiments, the aerosol generator acts on all of the portions of the aerosol-generating component at the same time. In other embodiments, the aerosol generator is configured to act on different portions of the aerosol-generating portion sequentially. In such embodiments, the aerosol generated will change during use of the delivery system.</p>
+<p id="p-0093" num="0093"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a schematic illustration of an aerosol-generating component according to an embodiment described herein. The aerosol-generating component <b>1</b> comprises a series of aligned portions <b>2</b><i>a</i>, <b>2</b><i>b</i>, <b>2</b><i>c</i>, <b>2</b><i>d</i>, each comprising a different aerosol generating material, optionally wherein the aerosol-generating materials comprising different actives and/or flavors.</p>
+<p id="p-0094" num="0094"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a schematic illustration of another aerosol-generating component according to an embodiment described herein. The aerosol-generating component <b>1</b> comprises a series of aligned portions. The first portions <b>2</b><i>a </i>comprise a first aerosol-generating material and the central, second portion <b>2</b><i>b </i>comprises a second, different aerosol-generating material.</p>
+<p id="p-0095" num="0095"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a schematic illustration of a yet further aerosol-generating component according to an embodiment described herein. The aerosol-generating component <b>1</b> comprises a disc-shaped first portion <b>2</b><i>a </i>comprising a first aerosol-generating material, surrounded by a second portion <b>2</b><i>b </i>comprising a second, different aerosol-generating material.</p>
+<p id="p-0096" num="0096">Other shapes and configurations of two or more portions of the aerosol-generating component are contemplated. The size and shape of the aerosol-generating component will, in some embodiments, be dictated by the delivery system used to generate the aerosol.</p>
+<p id="p-0097" num="0097">The various embodiments described herein are presented only to assist in understanding and teaching the claimed features. These embodiments are provided as a representative sample of embodiments only, and are not exhaustive and/or exclusive. It is to be understood that advantages, embodiments, examples, functions, features, structures, and/or other aspects described herein are not to be considered limitations on the scope of the invention as defined by the claims or limitations on equivalents to the claims, and that other embodiments may be utilized and modifications may be made without departing from the scope of the claimed invention. Various embodiments of the invention may suitably comprise, consist of, or consist essentially of, appropriate combinations of the disclosed elements, components, features, parts, steps, means, etc., other than those specifically described herein. In addition, this disclosure may include other inventions not presently claimed, but which may be claimed in future.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A process for preparing an aerosol-generating component comprising at least one active that is not nicotine, wherein the at least one active is included in a feedstock material that is used to form the aerosol-generating component by an additive manufacturing process.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. A process as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the active that is not nicotine is selected from the group consisting of 5-Hydroxytryptophan (5-HTP)/oxitriptan/<i>Griffonia simplicifolia</i>, Acetylcholine, Arachidonic acid (AA, Omega-6), Ashwagandha (<i>Withania somnifera</i>), <i>Bacopa monniera</i>, Beta Alanine, Beta-Hydroxy-Beta-Methylbutyrate (HMB), Caffeine, Chai-hu, Chamomile, Cherry blossom Cinnamon, Citicoline, Cotinine, Creatine, Curcumin, Docosahexaenoic acid (DHA, Omega-3), Dopamine, <i>Dorstenia arifolia, Dorstenia odorata, </i>Essential oils, Fennel, GABA, <i>Galphimia glauca, </i>Ginger, Ginkgo, biloba, Ginseng, Glutamic acid, Guarana, Hops, Jasmine, <i>Kaempferia parviflora </i>(Thai ginseng), Kava, L-carnitine, L-arginine, Lavender Oil, L-choline, Lemon balm, Lemongrass, Liquorice, L-lysine, L-theanine, L-tryptophan, Lutein, Magnesium, Magnesium L-threonate, Matcha, Melatonin, Myo-inositol, <i>Nardostachys chinensis, </i>Nitrate, Oil-based extract of <i>Viola odorata, </i>Oxygen, Phenylalanine, Phosphatidylserine, Quercetin, Resvaratrol, <i>Rhizoma gastrodiae, Rhodiola, Rhodiola rosea, </i>Rose essential oil Rosemary, S-adenosylmethionine (SAMe), <i>Sceletium tortuosum, </i>Schisandra, Selenium, Serotonin, Skullcap, Spearmint extract, Spikenard, Taurine, Terpens, Theacrine, Theobromine, Tumaric, Turmeric, <i>Turnera aphrodisiaca, </i>Tyrosine, Valerian, Vitamin A, Vitamine B12 (Colabamin), Vitamin B3, Vitamin B6, Vitamin C and <i>Yerba mate. </i></claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. A process as claimed <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the aerosol-generating component comprises at least one further active.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. A process as claimed in <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the at least one further active is included in at least one further feedstock material used to form the aerosol-generating component.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. A process as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the aerosol-generating component further comprises nicotine.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. A process as claimed in <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the feedstock material comprises tobacco material.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. A process as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the aerosol-generating component is a unitary aerosol-generating component comprising at least two portions comprising different actives.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. A process as claimed in <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the at least two portions are formed by the additive manufacturing process using different feedstock materials.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. A process as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the additive manufacturing process forms a three-dimensional object from the feedstock materials using a computer-aided design (CAD) model.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. A process as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the additive manufacturing process is a 3D printing process depositing layer upon layer of feedstock material.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. An aerosol-generating component comprising at least one active that is not nicotine, wherein the aerosol-generating component is formed by an additive manufacturing process from a feedstock material comprising the at least one active.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. An aerosol-generating component as claimed in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the aerosol-generating component comprises at least one further active.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. An aerosol-generating component as claimed in <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the at least one further active is included in at least one further feedstock material used to form the aerosol-generating component.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. An aerosol-generating component as claimed in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the active that is not nicotine is selected from the group consisting of 5-Hydroxytryptophan (5-HTP)/oxitriptan/<i>Griffonia simplicifolia</i>, Acetylcholine, Arachidonic acid (AA, Omega-6), Ashwagandha (<i>Withania somnifera</i>), <i>Bacopa monniera, </i>Beta Alanine, Beta-Hydroxy-Beta-Methylbutyrate (HMB), Caffeine, Chai-hu, Chamomile, Cherry blossom Cinnamon, Citicoline, Cotinine, Creatine, Curcumin, Docosahexaenoic acid (DHA, Omega-3), Dopamine, <i>Dorstenia arifolia, Dorstenia odorata</i>, Essential oils, Fennel, GABA, <i>Galphimia glauca, </i>Ginger, Ginkgo, biloba, Ginseng, Glutamic acid, Guarana, Hops, Jasmine, <i>Kaempferia parviflora </i>(Thai ginseng), Kava, L-carnitine, L-arginine, Lavender Oil, L-choline, Lemon balm, Lemongrass, Liquorice, L-lysine, L-theanine, L-tryptophan, Lutein, Magnesium, Magnesium L-threonate, Matcha, Melatonin, Myo-inositol, <i>Nardostachys chinensis, </i>Nitrate, Oil-based extract of <i>Viola odorata, </i>Oxygen, Phenylalanine, Phosphatidylserine, Quercetin, Resvaratrol, <i>Rhizoma gastrodiae, Rhodiola, Rhodiola rosea</i>, Rose essential oil Rosemary, S-adenosylmethionine (SAMe), <i>Sceletium tortuosum, </i>Schisandra, Selenium, Serotonin, Skullcap, Spearmint extract, Spikenard, Taurine, Terpens, Theacrine, Theobromine, Tumaric, Turmeric, <i>Turnera aphrodisiaca, </i>Tyrosine, Valerian, Vitamin A, Vitamine B12 (Colabamin), Vitamin B3, Vitamin B6, Vitamin C and <i>Yerba mate. </i></claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. An aerosol-generating component as claimed in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the aerosol-generating component further comprises nicotine.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. An aerosol-generating component as claimed in <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the aerosol-generating component comprises tobacco material.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. An aerosol-generating component as claimed in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the aerosol-generating component is a unitary aerosol-generating component comprising at least two portions comprising different actives.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. An aerosol-generating component as claimed in <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the at least two portions comprise different aerosol-generating materials.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. An aerosol-generating component as claimed in <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein a first portion comprises the at least one active that is not nicotine and a second portion comprises a second active that is different to the first active.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. An aerosol-generating component as claimed in <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the first and second portions have a different pH.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. A delivery system comprising an aerosol-generating component as claimed in <claim-ref idref="CLM-00011">claim 11</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. A delivery system as claimed in <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the delivery system is a non-combustible aerosol provision system.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. A delivery system as claimed in <claim-ref idref="CLM-00022">claim 22</claim-ref>, comprising a heating means to heat the aerosol-generating component.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. A consumable comprising an aerosol-generating component as claimed in <claim-ref idref="CLM-00011">claim 11</claim-ref>.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

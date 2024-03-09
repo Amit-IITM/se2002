@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225624A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225624</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17925258</doc-number>
+<date>20200515</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>021</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>02108</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>7221</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>02427</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">METHOD FOR MONITORING BLOOD PRESSURE OF A USER USING A CUFFLESS MONITORING DEVICE</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>AKTIIA SA</orgname>
+<address>
+<city>Neuch&#xe2;tel</city>
+<country>CH</country>
+</address>
+</addressbook>
+<residence>
+<country>CH</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>SOLA i CAROS</last-name>
+<first-name>Josep Maria</first-name>
+<address>
+<city>Corcelles</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>OLIVERO</last-name>
+<first-name>Elisa</first-name>
+<address>
+<city>Giez</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>GROSSENBACHER</last-name>
+<first-name>Olivier</first-name>
+<address>
+<city>Neuch&#xe2;tel</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>DE MARCO</last-name>
+<first-name>Bastien</first-name>
+<address>
+<city>Lausanne</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>IGNJATOVIC</last-name>
+<first-name>Natalija</first-name>
+<address>
+<city>Belgrade</city>
+<country>RS</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>IGNJATOVIC</last-name>
+<first-name>Blagoje</first-name>
+<address>
+<city>Belgrade</city>
+<country>RS</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="06" designation="us-only">
+<addressbook>
+<last-name>FAVRE-BULLE</last-name>
+<first-name>Matthieu</first-name>
+<address>
+<city>Les Ponts-de-Martel</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="07" designation="us-only">
+<addressbook>
+<last-name>FALLET</last-name>
+<first-name>Sibylle</first-name>
+<address>
+<city>Corcelles-pr&#xe8;s-Concise</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="08" designation="us-only">
+<addressbook>
+<last-name>VYBORNOVA</last-name>
+<first-name>Anna</first-name>
+<address>
+<city>Gen&#xe8;ve</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/IB2020/054636</doc-number>
+<date>20200515</date>
+</document-id>
+<us-371c12-date><date>20221114</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method for monitoring blood pressure (BP) of a user using a cuffless monitoring system comprising a pulsatility waveform measuring device configured to measure a pulsatility waveform signal of the user, the method comprising an initialization routine (<b>10</b>) including performing an adequacy routine (<b>20</b>) for adjusting the measurement parameters of the pulsatility waveform measuring device (<b>103</b>); and performing a reliability test for determining a reliability of the measurement. The method provides incremental feedback of the adequacy of the acquired signals, the reliability of pulsatility waveforms, and the repeatability of the absolute BP values.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="130.73mm" wi="121.58mm" file="US20230225624A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="173.99mm" wi="125.90mm" file="US20230225624A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="182.63mm" wi="123.61mm" file="US20230225624A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="248.58mm" wi="172.80mm" file="US20230225624A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="249.34mm" wi="133.35mm" file="US20230225624A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="249.60mm" wi="135.55mm" file="US20230225624A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="213.61mm" wi="173.31mm" file="US20230225624A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="248.75mm" wi="155.02mm" file="US20230225624A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application is a national phase of PCT/IB2020/054636, filed on May 15, 2020. The contents of this application is hereby incorporated by reference in its entirety.</p>
+<heading id="h-0002" level="1">TECHNICAL DOMAIN</heading>
+<p id="p-0003" num="0002">The present invention concerns a method for monitoring blood pressure (BP) of a user using a cuffless monitoring system.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">Cuffless BP monitors determine BP avoiding the need to apply physical forces to the body. The main advantage of this approach is that by being &#x201c;pressure-less&#x201d; they allow more comfortable measurement experiences and are more prone to be implemented in ambulatory setups, by instance at home and during sleep. However, because the measured physical quantity is not BP (only a physiological quantity that relates to BP is read), these monitors typically requires a step of transforming the measured physical quantity towards a BP estimated value (in mmHg).</p>
+<p id="p-0005" num="0004">For a cuffless BP monitor one can differentiate between 1) the phase of initialization (or determination of the calibration parameters of a user that allow to transform the measured physical quantities towards BP estimated values), and 2) the phase of monitoring BP (or applying these calibration parameters to determine a BP reading). Note that for some devices and/or users the determination of the initialization parameters can be performed at the beginning and repeated after a given period of time.</p>
+<p id="p-0006" num="0005">Typically, cuffless BP monitors require a three-step procedure to determine a BP value (see Reference 1: Sola et al, &#x201c;The Handbook of Cuffless Blood Pressure Monitoring&#x201d;, ISBN 978-3-030-24701-0).</p>
+<p id="p-0007" num="0006">First, the detection of a pulsatility waveform. Cuffless BP monitors rely on information related to arterial pulsatility, that is, the change of diameter of an artery or arterial bed occurring during a cardiac cycle. At a given body location, and for each cardiac cycle, the arrival of an arterial pressure wave generates a change in diameter of the arterial bed that induces a general displacement of the surrounding anatomical structures. The pulsatility energy can be captured from the skin surface by a variety of sensors. The common feature of these sensors is a generation of an electrical signal that encodes a pulsatility waveform whose contour describes the change of diameter of the underlying arterial bed.</p>
+<p id="p-0008" num="0007">Second, the generation of uncalibrated BP estimates. The pulsatility waveform is then analyzed to generate an uncalibrated BP value for systolic and diastolic. This step typically relies on a technique called Pulse Wave Analysis (PWA). PWA is the study of the morphology of the pulse pressure waveform. Because the pulsatility waveform is generated by the change in diameter of the arterial bed, and because the change in diameter is generated by the arrival of a pressure wave at the arterial bed, pulsatility signals are known to contain relevant information on the pressure waveform in time, amplitude, and frequency domains.</p>
+<p id="p-0009" num="0008">And third, the transformation of uncalibrated BP values into calibrated BP values. This final step of a cuffless BP monitor is intended to transform the uncalibrated BP values (expressed in arbitrary units) into systolic and diastolic BP values (expressed in mmHg units) that can be interpreted according to established clinical practices (see Reference 2: Williams et al, &#x201c;2018 ESC/ESH Guidelines for the management of arterial hypertension: The Task Force for the management of arterial hypertension of the European Society of Cardiology (ESC) and the European Society of Hypertension (ESH)&#x201d;, https://doi.org/10.1093/eurheartj/ehy339). This calibration step utilizes as inputs the uncalibrated BP values, and a set of calibration parameters that characterize the transformation for a given subject. Examples of calibration parameters include a) population-wise parameters, and b) user-dependent parameters.</p>
+<p id="p-0010" num="0009">Population-wise calibration parameters characterize the transformation towards calibrated BP values by taking into consideration morphometric information (age, size, weight, gender, ethnicity, . . . ) of the user and applying a pre-calculated model of initialization (see Reference 1).</p>
+<p id="p-0011" num="0010">User-dependent calibration parameters characterize the transformation towards calibrated BP values by performing at least one measurement of absolute BP on the user by means of an external method or device.</p>
+<p id="p-0012" num="0011">A combined initialization process including population-wise and user-dependent calibration parameters is also possible. Other initialization processes are also possible based on evolutive learning on user data (see Reference 1). The phase of initialization can be implemented by performing at least a simultaneous reading of 1) a pulsatility waveform by means of a pulsatility waveform measuring device and 2) an absolute BP value of the user by means of an absolute BP measuring device.</p>
+<p id="p-0013" num="0012">U.S. Pat. No. 7,544,168B2 discloses simultaneously measuring the pulsatility waveform signals of a user by using a pulsatility waveform device, measuring an absolute BP value of a user using an absolute BP measuring device and further obtaining a calibration parameter of the user.</p>
+<p id="p-0014" num="0013">US 2019/0274553 A1 discloses a BP monitoring system that allows the simultaneous use of a pulsatility waveform measuring device and an absolute BP measuring device (all-in-one system), as well as non-simultaneous pulsatility waveform measuring device and an absolute BP measuring device (retro-fit system, allowing a manual calibration process where the user enters reference BP values into a user interface).</p>
+<p id="p-0015" num="0014">US 2019/0274553 A1 also discloses an initialization phase that detects if an incorrect position and/or change in position and/or too much movement is present during measurement, and further instructs the user to restart the measurement step via a user interface</p>
+<p id="p-0016" num="0015">U.S. Pat. No. 7,455,643 B1, discloses methods to automatically decide when to perform an initialization step, and how and when to update the calibration parameters of a user.</p>
+<p id="p-0017" num="0016">US 2019/0274553 A1 discloses an initialization phase that instructs the user to start the initializing when predetermined conditions have been met. For example, after a predetermined time has elapsed or by monitoring other parameters such as the heart rate of the user.</p>
+<p id="p-0018" num="0017">However, known devices and methods do not provide good user experience of the entire initialization step. For example, a user should simultaneously measure pulsatility waveform signals and obtain reference cuff values having good quality. However, in real life, pulsatility waveform signals are not always adequate or reliable for processing (noisy signals, signals corrupted by motion, signals corrupted by ambient light interferences, device wrongly set on the user), and cuff-based measurements are not always reliable (because of bad placement of the cuff, or successive cuff measurements provide non-repeatable readings). Moreover, the user must wait until the full procedure is performed before obtaining a feedback whether the initialization was successful or not. This may result in a very poor user experience. This is particularly important for devices and methods to be used out of the clinical environment (for instance at home).</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0019" num="0018">In the present disclosure, a method for monitoring BP of a user using a cuffless monitoring system comprising a pulsatility waveform measuring device configured to measure a pulsatility waveform signal of the user, the method comprising: an initialization routine comprising providing an absolute BP measuring device configured to measure an absolute BP value of the user and measuring the absolute BP value, and using the measured absolute BP value to calculate a calibration parameter; and a monitoring routine comprising setting the pulsatility waveform measuring device on the user, measuring the pulsatility waveform signal, generating an uncalibrated blood pressure value from the measured pulsatility waveform, and calculating a calibrated blood pressure value from the uncalibrated blood pressure value and the calibration parameter. The initialization routine further comprises: generating guiding information instructing how to set the pulsatility waveform measuring device on the user; setting the pulsatility waveform measuring device on the user according to the first guiding information; performing an adequacy routine wherein said adequacy routine comprises the steps of, adjusting the measurement parameters of the pulsatility waveform measuring device, measuring a first segment of the pulsatility waveform signal for a first time period, determining an adequacy value of the measured first segment of pulsatility waveform by determining an amplitude of a baseline value or by determining an amplitude of pulsation of the first segment of the pulsatility waveform signal; if the adequacy value is smaller than an adequacy threshold value then repeating the adequacy routine; if the adequacy value is equal or greater than an adequacy threshold value then, performing a reliability test, wherein said reliability test comprises the steps of, measuring a second segment of the pulsatility waveform signal for a second time period, wherein the second time period occurs at a time which is after first time period, and determining a first reliability value of the measured second segment of pulsatility waveform from time or amplitude-related features of the second segment of pulsatility waveform; if the first reliability value is smaller than a reliability threshold value then repeating the initialization routine; if the first reliability value is equal to, or greater than, the reliability threshold value, then performing said steps of measuring the absolute BP value, and using the measured absolute BP value to calculate a calibration parameter.</p>
+<p id="p-0020" num="0019">The method disclosed herein provides &#x201c;real-time&#x201d; and incremental feedback of the adequacy of the acquired signals, the reliability of pulsatility waveforms, and the repeatability of the absolute BP values while the initialization is on-going in order to save user's time and useless efforts. The method allows to interactively correct any deviation.</p>
+<p id="p-0021" num="0020">The method disclosed herein can be used when the phase of initialization is performed by using an absolute BP measuring device in the form of an automated upper-arm or wrist cuff-based BP monitor reference device. The method can also be used by using a manual measurement performed by a skilled person.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">SHORT DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0022" num="0021">Exemplar embodiments of the invention are disclosed in the description and illustrated by the drawings in which:</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>1</b></figref> refers to a method for monitoring BP of a user comprising an initialization routine, according to an embodiment;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>2</b></figref> schematically shows a cuffless monitoring system, according to another embodiment;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows the initialization routine, according to an embodiment;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows the initialization routine, according to another embodiment;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>5</b></figref> illustrates a schematic representation of the method, according to yet another embodiment;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows the initialization routine, according to yet another embodiment; and</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows the initialization routine, according to yet another embodiment.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">EXAMPLES OF EMBODIMENTS</heading>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>1</b></figref> refers to a method for monitoring blood pressure (BP) of a user using a cuffless monitoring system. The cuffless monitoring system, schematically shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, comprises a pulsatility waveform measuring device <b>1</b> configured to measure a pulsatility waveform signal of the user, according to an embodiment. The method comprises an initialization routine <b>10</b> including the steps of providing an absolute BP measuring device <b>2</b> configured to measure an absolute BP value of the user and measuring the absolute BP value, and using the measured absolute BP value to calculate a calibration parameter.</p>
+<p id="p-0031" num="0030">The method comprises a monitoring routine that comprises the steps of setting the pulsatility waveform measuring device on the user <b>11</b>, measuring the pulsatility waveform signal <b>12</b>, generating an uncalibrated blood pressure value <b>13</b> from the measured pulsatility waveform, and calculating a calibrated blood pressure value <b>14</b> from the uncalibrated blood pressure value and the calibration parameter.</p>
+<p id="p-0032" num="0031">The initialization routine <b>10</b> can be initiated (triggered) <b>100</b> by the user or can be automatically triggered. In the latter case, the initialization routine <b>10</b> can be triggered at regular time interval, for instance every hour, once a week or once a month.</p>
+<p id="p-0033" num="0032">In an embodiment show in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the initialization routine <b>10</b> comprises: generating guiding information <b>101</b> instructing how to set the pulsatility waveform measuring device on the user, and setting the pulsatility waveform measuring device <b>102</b> on the user.</p>
+<p id="p-0034" num="0033">The guiding information can further instruct how to connect the pulsatility waveform measuring device and/or the absolute BP measuring device, how to charge or switch on the devices, how to set the devices on the user, how to take an adequate body posture, how to position a limb, how to position the body part where the measuring devices are situated, how to relax before and/or during a measurement, how to perform a maneuver or exercise before and/or a measurement, how to breath before and/or during a measurement including an interactive guiding of the breathing pace and depth, a countdown from 5 to 1 sec before a new measurement of the measuring device will start, a countdown from 5 to 1 sec before a new measurement of the absolute BP device will start, the status and/or outcomes of any of the routines of the initialization phase, the number of performed iterations of the initialization routine, the number remaining measurements, and the reasons why the initialization routine is not successful, including but not only a low adequacy of the pulsatility waveform signal, a low reliability of the pulsatility waveform signal, or a low repeatability of the measured absolute BP value.</p>
+<p id="p-0035" num="0034">The initialization routine <b>10</b> further comprises performing an adequacy routine <b>20</b> including the steps of: adjusting the measurement parameters of the pulsatility waveform measuring device <b>103</b>, measuring a first segment of the pulsatility waveform signal for a first time period <b>104</b>, and determining an adequacy value of the measured first segment of pulsatility waveform <b>105</b>. The adequacy routine is iterated <b>106</b> if the adequacy value is smaller than an adequacy threshold value.</p>
+<p id="p-0036" num="0035">The initialization routine <b>10</b> further comprises performing a reliability test comprising the steps of: measuring a second segment of the pulsatility waveform signal <b>107</b> for a second time period; and determining a first reliability value <b>108</b> of the measured second segment of pulsatility waveform; wherein the initialization routine is iterated <b>109</b> if the reliability value is smaller than a reliability threshold value.</p>
+<p id="p-0037" num="0036">The initialization routine is iterated <b>109</b> if the reliability value is smaller than a reliability threshold value. In other words, the steps <b>101</b> to <b>108</b> are repeated until the reliability value is equal or greater than the reliability threshold value. When the reliability value is equal or greater than the reliability threshold value, the initialization routine <b>10</b> is completed, and the monitoring routine can be started in an automated fashion.</p>
+<p id="p-0038" num="0037">In another aspect, the adequacy and reliability threshold values can comprise predefined value that has been determined in a training set of data.</p>
+<p id="p-0039" num="0038">In one aspect, the second reliability value can be varied at each iteration of the initialization routine <b>10</b>.</p>
+<p id="p-0040" num="0039">In yet another aspect, the adequacy and reliability threshold values are adjustable in depending on the number of iterations of the initialization routine <b>10</b>. The adequacy and reliability threshold values can decrease for increasing number of iterations of the initialization routine. An advantage of decreasing the reliability threshold values with increasing number of iterations allows for make the initialization routine iteration less selective that the subsequent initialization routines such that avoid a user to become blocked in the initialization procedure. For instance, during the first iteration of the initialization routine a selective reliability threshold value allows for insuring that the pulsatility waveform measuring device is properly worn before allowing the user to continue the routine. At later iterations, the initialization routine need not be reiterated for a small movement of the pulsatility waveform measuring device.</p>
+<p id="p-0041" num="0040">In yet another aspect, the duration of the second time period is adjustable in accordance with the user's heart rate, such that the second time period include at least three heart beats. Here, the duration of the second time period is shorter for a user having a fast heart rate.</p>
+<p id="p-0042" num="0041">In yet another aspect, the method can comprise a step of inputting subject-dependent information. The reliability threshold value can then be adjusted in accordance with the subject-dependent information. This step provides a reliability threshold value that is user dependent.</p>
+<p id="p-0043" num="0042">Referring to <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the reliability test <b>107</b>-<b>109</b> can be performed once (only once), after performing an adequacy routine <b>20</b>. The initialization routine <b>10</b> is repeated if the reliability value is smaller than the reliability threshold value.</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows the method according to another embodiment wherein said performing a reliability test can be repeated once or a plurality of times. For example, once the reliability test <b>107</b>-<b>109</b> has been performed and the reliability value is equal or greater than the reliability threshold value, instead of starting the monitoring routine, another reliability test is performed. In other words, the reliability test <b>107</b>-<b>109</b> can be performed a plurality of times within a single iteration of the initialization routine <b>10</b>. As a result, another second segment of the pulsatility waveform signal <b>107</b> is measured that can be added to the previously measured second segment of the pulsatility waveform signal <b>107</b>, allowing for improved determination of the reliability value <b>108</b>. The reliability threshold value used in this second reliability test can be varied when performing the supplemental reliability tests. For example, the second reliability threshold value can be increased between two subsequent reliability tests such as to increase the selectivity of the test at each supplemental reliability test. The second time period can be varied when performing the supplemental reliability tests. For example, the second time period can be increased between two subsequent reliability tests such as to increases the accuracy of the determined reliability value <b>108</b> at each supplemental reliability test. The second time period can be between 1 s to 30 s. For example, the second time period can have a duration of 2, 5, 8, 10, 15 or 30 seconds.</p>
+<p id="p-0045" num="0044">In the case the pulsatility waveform measuring device is destined to be in contact with the user, for example a photoplethysmographic (PPG) sensor destined to contact a tissue (such as skin) of the user, the reliability value of the measured second segment of pulsatility waveform can depend on the contact. The contact in turn can depend on the proper positioning and/or attachment of the pulsatility waveform measuring device on the user. For example, in the case of the pulsatility waveform measuring device comprising a PPG sensor arranged in a wrist band or chest band, the contact is affected by the tension in the band. In the case the pulsatility waveform measuring device is contactless, such as a camera-based sensor, the reliability value can depend on the focusing and/or direction of the radiating signal emitted by the contact-less sensor. The reliability value will further reflect whether the pulsatility waveform measuring device is properly worn by the user and/or attached to the suitable part of the user.</p>
+<p id="p-0046" num="0045">The reliability value can be determined by analyzing the measured second segment of pulsatility waveform. For instance, determining the reliability value can comprises an amplitude of the second segment of pulsatility waveform. The amplitude of the second segment of pulsatility waveform can correspond to the amount of optical radiation reaching the sensor after having penetrated the tissue (DC component) and to an indication of if the pulsatility waveform measuring device is worn or not worn. In particular, the reliability value can be indicative of a worn/not worn. The reliability value can correspond to the absence of measurement of the pulsatility waveform signal by the pulsatility waveform measuring device.</p>
+<p id="p-0047" num="0046">In an aspect, the reliability value can be determined from the morphology of the measured second segment of pulsatility waveform (shape or waveform). For instance, the reliability value can be determined from how the second segment of pulsatility waveform is representative of a cardiovascular signal (good quality signal).</p>
+<p id="p-0048" num="0047">In another aspect, the reliability value can be determined from time or amplitude-related features, for example obtained by a pulse-wave analysis of the second segment of pulsatility waveform. The features can be calculated in the time or the frequency domain, or any other transformed domain. Such features can include amplitude of the signal, repeatability of the signal, features representative of a cardiovascular signal. The features can be identified for each pulse of the measured pulsatility waveform signal or in an averaged pulse. Statistics on the repeatability across pulses of the measured pulsatility waveform signal can also be determined.</p>
+<p id="p-0049" num="0048">In yet another aspect, the reliability value can be determined by determining whether the measured pulsatility waveform signal contains detectable information on blood pressure. For example, the determination of the reliability value can comprise quantifying the presence and/or reliability of information comprised in the measured second segment of pulsatility waveform that is used for BP determination. For example, for arrival time methods, the determination of the reliability value can comprise determining the reliability of detection of the foot of the waveform. For pulse wave analysis methods, the determination of the reliability value can comprise whether the analysis can be successfully performed (for instance, whether relevant pulse wave analysis features can be detected).</p>
+<p id="p-0050" num="0049">In an embodiment, the pulsatility waveform measuring device can comprises a local processing module <b>3</b>. In such configuration, the determination of reliability value can be performed in the local processing module <b>3</b>. There is no need to transfer the measured second segment of the pulsatility waveform signal to a remote device. However, the calculation power and/or memory size of the local processing module <b>3</b> can be limited. The code and/or calculations performed in local processing module may also become available to third parties (by acquiring the wearable pulsatility waveform measuring device.</p>
+<p id="p-0051" num="0050">In another embodiment, the cuffless monitoring system comprises a remote processing module <b>4</b> remote from the pulsatility waveform measuring device. The remote processing module <b>4</b> can be used for performing the determination of reliability value. Here, the pulsatility waveform signal device can comprise a transfer module <b>5</b> configured to transfer the measured second segment of the pulsatility waveform signal to the remote processing module <b>4</b>. The remote processing module can be a remote server or any other device with processing capabilities such a smartphone or a PC. The remote processing module allows for performing complex calculations and the risk of the code and/or calculations performed in the remote processing module becoming available to third parties is limited.</p>
+<p id="p-0052" num="0051">In yet another embodiment, the determination of the adequacy value is performed in the local processing module <b>3</b>. In the case the reliability test <b>107</b>-<b>109</b> is performed a plurality of times within a single iteration of the initialization routine <b>10</b> (see <figref idref="DRAWINGS">FIG. <b>4</b></figref>), the determination of the reliability value can be performed in the local processing module <b>3</b> for at least the initial reliability test <b>107</b>-<b>109</b>, the determination of the reliability value for the subsequent reliability tests <b>107</b>-<b>109</b> being done in the remote processing module <b>4</b>. An advantage of this procedure is that the calculations performed in the local processing module can provide a fast feedback to the user and more complex and critical calculations can be performed on the remote processing module. The determination of the reliability value for the one or plurality of initial reliability tests <b>107</b>-<b>109</b> can use few data and thus require less calculation power. The determination of the reliability value for the subsequent reliability tests <b>107</b>-<b>109</b> use more data (longer measurement time period) and require more calculation power. The latter determinations are more accurate.</p>
+<p id="p-0053" num="0052">The adequacy and reliability threshold values can further be adjusted for the user. For example, the reliability threshold value can be adjusted depending on age, skin color, skin perfusion, fat quantity, and cardiovascular status of the user. The reliability threshold value can be further adjusted with the use of the cuffless monitoring system, for example, in time.</p>
+<p id="p-0054" num="0053">In an embodiment, the cuffless monitoring system comprises an additional measuring device configured to measure an additional signal. The method can further comprise a step of measuring the additional signal. The reliability value can then be determined by using the measured additional signal. The additional signal can comprise any one of: a motion signal, a signal representative of a pressure between the pulsatility waveform measuring device and a tissue of the user, a bioimpedance or biopotential signal, an optical signal characterizing the interface between the pulsatility waveform measuring device and a tissue of the user. The additional signal can further comprise a tension signal, for example for measuring a tension of the band when the waveform measuring device comprises an optical sensor in a wrist or chest band. The additional signal can further comprise an optical signal, for example for characterizing the interface between the sensor and a tissue (skin).</p>
+<p id="p-0055" num="0054">In an embodiment, the pulsatility waveform measuring device comprises a PPG device comprising at least a light source and a light detector and an analog-to-digital converter (ADC). Said adjusting the measurement parameters comprises adjusting the emission power of the light source and/or the sensitivity of the light detector and/or ambient light suppression characteristics and/or the gain and bandwidth of the ADC. The measurement parameters can further be adjusted by adjusting analog filtering and/or the ambient light suppression characteristics.</p>
+<p id="p-0056" num="0055">The pulsatility waveform measuring device can comprise a plurality of light source channels and the measurement parameters can be adjusted by selecting a light source channel. Similarly, the pulsatility waveform measuring device can comprise a plurality of light detectors and the measurement parameters can be adjusted by selecting a light detector channel.</p>
+<p id="p-0057" num="0056">The first segment of pulsatility waveform sign can be measured for a first time period of 10 ms, 100 ms, or 1000 ms.</p>
+<p id="p-0058" num="0057">In one aspect, the adequacy value of the measured first segment can be determined by determining the amplitude of the baseline value of the signal (DC value) and/or by determining the amplitude of the pulsation of the signal (AC value).</p>
+<p id="p-0059" num="0058">In one aspect, the adequacy threshold value can be a predefined value that has been determined in a training set of data. The adequacy threshold value can be adjusted during the initialization process.</p>
+<p id="p-0060" num="0059">In an embodiment, the adequacy value can be determined by determining an amplitude of a baseline value or determining an amplitude of pulsation of the first segment of the pulsatility waveform signal.</p>
+<p id="p-0061" num="0060">The adequacy threshold value can be a predefined value that has been determined in a training set of data. The adequacy threshold value can be adjustable as a function of the number repetition of the adequacy routine, i.e., the steps of adjusting the measurement parameters <b>103</b>, measuring a first segment <b>104</b> and determining an adequacy value <b>105</b>. In one aspect, the adequacy threshold value decreases with the number repetition of the steps <b>103</b>, <b>104</b> <b>105</b>.</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows a schematic representation of the initialization routine <b>10</b>, according to yet another embodiment. Here, the initialization routine <b>10</b> further comprises an absolute BP routine including performing a plurality of absolute BP measurements <b>110</b> such as to obtain a plurality of measured absolute BP values, and determining a repeatability of the measured absolute BP values <b>112</b>. In <figref idref="DRAWINGS">FIG. <b>5</b></figref> a first and second measurement of an absolute BP value are shown. The initialization routine can be iterated if the repeatability is smaller than a repeatability threshold value <b>112</b>.</p>
+<p id="p-0063" num="0062">In the example of <figref idref="DRAWINGS">FIG. <b>5</b></figref>, the absolute BP routine <b>110</b>-<b>112</b> can be performed after performing the reliability test <b>107</b>-<b>109</b>. In another embodiment shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the absolute BP routine <b>110</b>-<b>112</b> can be performed in parallel with the reliability test <b>107</b>-<b>109</b>.</p>
+<p id="p-0064" num="0063">In yet another embodiment shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the absolute BP routine <b>110</b>-<b>112</b> can be performed in parallel with performing the reliability test <b>107</b>-<b>109</b> only after the reliability test has been performed at least once. As shown in the example of <figref idref="DRAWINGS">FIG. <b>7</b></figref>, a first the reliability test <b>107</b>-<b>109</b> is performed after performing the adequacy routine <b>20</b>. When the reliability value is equal or larger than the reliability threshold value, at least an additional reliability test <b>107</b>-<b>109</b> is performed in parallel with the absolute BP routine <b>110</b>-<b>112</b>.</p>
+<p id="p-0065" num="0064">The repeatability of the measure absolute BP values can be determined by any of, or a combination of: calculating the difference between the measured absolute BP values, by calculating the spread across the measured BP values, or by calculating the difference between the measured absolute BP values and previously measured BP values on the same user. Typically, the repeatability value is calculated as the inverse of the exemplified calculations, so that very different absolute BP values will generate a very low repeatability value.</p>
+<p id="p-0066" num="0065">The initialization routine <b>10</b> is completed, and the monitoring routine can be started, when reliability value is equal or greater than the reliability threshold value and when the repeatability of the measure absolute BP values equal or greater than the repeatability threshold value <b>112</b>.</p>
+<p id="p-0067" num="0066">Alternatively, completing the initialization routine <b>10</b> can be decided upon a combination <b>113</b> (see <figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref>) of the repeatability of the measure absolute BP values with the reliability value. Example of such combinations can include: determine whether two calculated reliability values remain stable during two measurements of absolute BP values, determine whether uncalibrated blood pressure values stay stable during two measurements of absolute BP values, determine whether two obtained calibration parameters stay stable during two measurements of absolute BP values, determine whether calibration parameters and absolute BP values vary on the same or on different directions, determine whether the obtained calibration parameters are comparable to calibration parameters previously obtained on the same user.</p>
+<p id="p-0068" num="0067">The repeatability threshold value can be between 4 and 10 mmHg or 8 and 10 mmHg or 8 mmHg.</p>
+<p id="p-0069" num="0068">In one aspect, calculating a calibration parameter can comprise: measuring the pulsatility waveform signal, generating an uncalibrated blood pressure value from the measured pulsatility waveform, calculating a function that transforms the uncalibrated blood pressure value into the measured absolute BP, and defining the calibration parameter as the characterization of the calculated function.</p>
+<p id="p-0070" num="0069">On other aspects, the pulsatility waveform measuring device can comprise an optical sensor destined to be worn on the wrist, upper arm, ear lobe, inside ear canal, chest, at the forehead, under the skin, fingertip, finger phalanx, inside the body, e.g. in a natural orifice or implanted (for instance, under the skin).</p>
+<p id="p-0071" num="0070">The pulsatility waveform measuring device can comprise an optical sensor, distance sensor, RF sensor, acoustic sensor, temperature sensor, pressure sensor, ultrasound sensor, bio-impedance sensor, electric sensor, tonometer sensor, cuff-based sensor, strain sensor.</p>
+<p id="p-0072" num="0071">The absolute BP measuring device can comprise an upper arm cuff, a wrist cuff, a finger cuff, or any other automated cuff.</p>
+<p id="p-0073" num="0072">The absolute BP measuring device can be any of a manual measurement performed by a skilled person via the so-called auscultation method, an automated measurement performed by an upper-arm or a wrist cuff via the so-called oscillometric method, an automated measurement performed by a finger cuff via the so-called volume-clamp method, an automated measurement performed by an invasive arterial line catheter, or any other means to obtain an absolute reading of the BP of a user. The absolute BP measurements can be used to calculate a user-dependent model of calibration that will be stored in a database, and further used every time that the method for monitoring BP is used to obtain a calibrated BP reading for that particular user. Examples of user-dependent model of calibration are given in Reference 1.</p>
+<p id="p-0074" num="0073">Performing a plurality of absolute BP measurements <b>110</b> can include limiting the maximum amount of allowable inflations of a cuff. This is important for security and comfort reasons. For instance, during the initialization routine, a maximum of 3, 4, or 5 uses of the absolute BP measuring device can be allowed.</p>
+<p id="p-0075" num="0074">A minimum allowed time between two consecutive iteration of the initialization routine can be also introduced. For instance, the time elapsed between two initialization iterations can be longer than 10 min, 30 min or 60 min.</p>
+<p id="p-0076" num="0075">The cuffless monitoring system can comprise a user interface (see <figref idref="DRAWINGS">FIG. <b>2</b></figref>). The user interface can comprise a smartphone (smartphone application), a computer program, a website, etc.</p>
+<p id="p-0077" num="0076">The user interface can be used to manually or automatically input the measured absolute BP values. The measured absolute BP values can be automatically input by establishing a connection (wireless such as Bluetooth or WiFi, or wired via a serial or a parallel communication bus) between the absolute BP measuring device and the local processing module. The measured absolute BP values can be manually input from an external measuring device or by a skilled operator.</p>
+<p id="p-0078" num="0077">The user interface can be used to display (possibly visually and/or audibly) the guiding information <b>101</b>, for example by means of a video, images, interactive learning, a user manual, a phone call, or a video conference.</p>
+<p id="p-0079" num="0078">The user interface can further be used to remind the user to restart (trigger) the initialization routine <b>10</b> after a certain time period and/or when changes in signal quality or other information is detected, for instance, if changes in the pulsatility waveforms are detected, or changes any cardiovascular parameter is detected (heart rate). A new initialization routine <b>10</b> may be performed for the reasons above.</p>
+<p id="p-0080" num="0079">The cuffless monitoring system can be configured to start the monitoring routine when the initialization routine <b>10</b> is completed.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method for monitoring blood pressure (BP) of a user using a cuffless monitoring system comprising a pulsatility waveform measuring device configured to measure a pulsatility waveform signal of the user, the method comprising:
+<claim-text>an initialization routine comprising providing an absolute BP measuring device configured to measure an absolute BP value of the user and measuring the absolute BP value, and using the measured absolute BP value to calculate a calibration parameter; and</claim-text>
+<claim-text>a monitoring routine comprising setting the pulsatility waveform measuring device on the user, measuring the pulsatility waveform signal, generating an uncalibrated blood pressure value from the measured pulsatility waveform, and calculating a calibrated blood pressure value from the uncalibrated blood pressure value and the calibration parameter;</claim-text>
+<claim-text>wherein the initialization routine further comprises:</claim-text>
+<claim-text>generating guiding information instructing how to set the pulsatility waveform measuring device on the user;</claim-text>
+<claim-text>setting the pulsatility waveform measuring device on the user according to the first guiding information;</claim-text>
+<claim-text>performing an adequacy routine wherein said adequacy routine comprises the steps of, adjusting the measurement parameters of the pulsatility waveform measuring device, measuring a first segment of the pulsatility waveform signal for a first time period, determining an adequacy value of the measured first segment of pulsatility waveform by determining an amplitude of a baseline value or by determining an amplitude of pulsation of the first segment of the pulsatility waveform signal; if the adequacy value is smaller than an adequacy threshold value then repeating the adequacy routine;</claim-text>
+<claim-text>if the adequacy value is equal or greater than an adequacy threshold value then, performing a reliability test, wherein said reliability test comprises the steps of, measuring a second segment of the pulsatility waveform signal for a second time period, wherein the second time period occurs at a time which is after first time period, and determining a first reliability value of the measured second segment of pulsatility waveform from time or amplitude-related features of the second segment of pulsatility waveform;</claim-text>
+<claim-text>if the first reliability value is smaller than a reliability threshold value then repeating the initialization routine;</claim-text>
+<claim-text>if the first reliability value is equal to, or greater than, the reliability threshold value, then performing said steps of measuring the absolute BP value, and using the measured absolute BP value to calculate a calibration parameter.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-002-6" num="002-6">
+<claim-text><b>2</b>-<b>6</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. Method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein the pulsatility waveform measuring device comprises a local processing module; and</claim-text>
+<claim-text>wherein the determination of reliability value is performed in the local processing module.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. Method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein the cuffless monitoring system comprises a remote processing module remote from the pulsatility waveform measuring device; and</claim-text>
+<claim-text>wherein the determination of reliability value and/or of the adequacy value is performed in the remote processing module.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. Method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein the pulsatility waveform measuring device comprises a local processing module and the cuffless monitoring system comprises a remote processing module remote from the pulsatility waveform measuring device;</claim-text>
+<claim-text>wherein the determination of the reliability value is performed in the local processing module for at least a first of the reliability tests and in the remote processing module for subsequent reliability tests.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. Method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein the determination of the adequacy value is performed in the local processing module.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. Method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein the predefined duration of the second time period is adjustable in accordance with the user's heart rate, such that the second time period include at least three heart beats.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. Method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein the adequacy and reliability threshold values are predefined value that has been determined in a training set of data.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. Method according to <claim-ref idref="CLM-00007">claim 7</claim-ref>,
+<claim-text>wherein the adequacy and reliability threshold values are adjustable as a function of the number of iterations of the initialization routine.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. Method according to <claim-ref idref="CLM-00008">claim 8</claim-ref>,
+<claim-text>wherein the adequacy and reliability threshold values are decreased for increasing number of iterations of the initialization routine.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. Method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>comprising a step of inputting subject-dependent information; and</claim-text>
+<claim-text>adjusting the adequacy and reliability threshold values in accordance with the subject-dependent information.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. Method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein the cuffless monitoring system comprises an additional measuring device configured to measure an additional signal; and</claim-text>
+<claim-text>wherein the method further comprises a step of measuring the additional signal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. Method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>,
+<claim-text>wherein the reliability value is determined by using the measured additional signal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. Method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>,
+<claim-text>wherein the additional signal comprises any one of: a motion signal, a signal representative of a pressure between the pulsatility waveform measuring device and a tissue of the user, a bioimpedance or biopotential signal, a tension signal, an optical signal characterizing the interface between the pulsatility waveform measuring device and a tissue of the user.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. Method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein the pulsatility waveform measuring device comprises a PPG device comprising at least a light source channel, a light detector and an analog-to-digital converter (ADC); and</claim-text>
+<claim-text>wherein said adjusting the measurement parameters comprises adjusting the emission power of the light source and/or the sensitivity of the light detector and/or ambient light suppression characteristics and/or the gain and bandwidth of the ADC.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. Method according to <claim-ref idref="CLM-00014">claim 14</claim-ref>,
+<claim-text>wherein the pulsatility waveform measuring device comprises a plurality of light source channels; and</claim-text>
+<claim-text>wherein said adjusting the measurement parameters comprises selecting a light source channel.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. Method according to <claim-ref idref="CLM-00014">claim 14</claim-ref>,
+<claim-text>wherein the pulsatility waveform measuring device comprises a plurality of light detectors; and</claim-text>
+<claim-text>wherein said adjusting the measurement parameters comprises selecting a light detector channel.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-22-23" num="22-23">
+<claim-text><b>22</b>-<b>23</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. Method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein the initialization routine further comprises a BP routine including performing a plurality of absolute BP measurements such as to obtain a plurality of measured absolute BP values, and determining a repeatability of the measured absolute BP values;</claim-text>
+<claim-text>wherein the initialization routine is iterated if the repeatability value is smaller than a than a repeatability threshold value.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. Method according to <claim-ref idref="CLM-00017">claim 17</claim-ref>,
+<claim-text>wherein the BP routine is performed after said performing a repeatability test.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-26-27" num="26-27">
+<claim-text><b>26</b>-<b>27</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. Method according to <claim-ref idref="CLM-00017">claim 17</claim-ref>,
+<claim-text>wherein determining a repeatability of the measured absolute BP values is performed by any of, or a combination of: calculating the difference between the measured absolute BP values, by calculating the spread across the measured BP values, or by calculating the difference between the measured absolute BP values and previously measured BP values on the same user.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. Method according to <claim-ref idref="CLM-00017">claim 17</claim-ref>,
+<claim-text>wherein the repeatability threshold value is between 4 and 10 mmHg or 8 and 10 mmHg or 8 mmHg.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. Method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein calculating a calibration parameter comprises: measuring the pulsatility waveform signal, generating an uncalibrated blood pressure value from the measured pulsatility waveform, calculating a function that transforms the uncalibrated blood pressure value into the measured absolute BP, and defining the calibration parameter as the characterization of the calculated function.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

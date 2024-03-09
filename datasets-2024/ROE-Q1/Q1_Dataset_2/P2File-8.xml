@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225381A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230630" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225381</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18000623</doc-number>
+<date>20210531</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EP</country>
+<doc-number>20177838.8</doc-number>
+<date>20200602</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>27</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>29</main-group>
+<subgroup>219</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>27</main-group>
+<subgroup>72</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>27</main-group>
+<subgroup>88</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>29</main-group>
+<subgroup>219</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="lwawbi0ckvuo6">FLAVOR PARTICLE</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="obligated-assignee">
+<addressbook>
+<orgname>Firmenich SA</orgname>
+<address>
+<city>Satigny</city>
+<country>CH</country>
+</address>
+</addressbook>
+<residence>
+<country>CH</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>BOUQUERAND</last-name>
+<first-name>Pierre-Etienne</first-name>
+<address>
+<city>Satigny</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>DIEULESAINT</last-name>
+<first-name>Yves</first-name>
+<address>
+<city>Satigny</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>CRETIGNIER</last-name>
+<first-name>Yannick</first-name>
+<address>
+<city>Satigny</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>JOUHET</last-name>
+<first-name>Sandrine</first-name>
+<address>
+<city>Satigny</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>CHABERT</last-name>
+<first-name>Frederic</first-name>
+<address>
+<city>Satigny</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>PIOTTON</last-name>
+<first-name>St&#xe9;phanie</first-name>
+<address>
+<city>Satigny</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2021/064539</doc-number>
+<date>20210531</date>
+</document-id>
+<us-371c12-date><date>20221202</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention relates to the field of flavoring. More particularly, the present invention relates to an encapsulated flavor particle that has a high flavor load, a flavored consumer product comprising the same. The present invention also relates to a process for preparing an encapsulated flavor particle having a high flavor load.</p>
+</abstract>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading level="1" id="h-0001">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to the field of flavoring. More particularly, the present invention relates to an encapsulated flavor particle that has a high flavor load, a flavored consumer product comprising the same. The present invention also relates to a process for preparing an encapsulated flavor particle.</p>
+<heading level="1" id="h-0002">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The consumer&#x2019;s demand for flavor delivery systems is more and more important and is driving the development of new delivery systems.</p>
+<p id="p-0004" num="0003">Flavor delivery systems in form of particles are commonly used in the field of flavoring because they are easy to dose, handle and prepare.</p>
+<p id="p-0005" num="0004">Flavor delivery systems can be prepared by different well-known techniques such as spray-drying or screw extrusion to encapsulate liquid and powder flavors in a carbohydrate carrier.</p>
+<p id="p-0006" num="0005">A limitation of melt extrusion is the low retained flavor load which is typically less than 10% by weight and will highly depends on the volatility of the flavors to encapsulate.</p>
+<p id="p-0007" num="0006">In many applications, high flavor intensity is required, and such a low flavor load is not cost effective in use.</p>
+<p id="p-0008" num="0007">It would be therefore desirable to have a high flavor load in an extruded particle.</p>
+<p id="p-0009" num="0008">The present invention provides a solution to the above-mentioned problems.</p>
+<heading level="1" id="h-0003">SUMMARY</heading>
+<p id="p-0010" num="0009">A first object of the invention is a particle comprising:
+<ul id="ul0001" list-style="none">
+<li id="ul0001-0001" num="0010">a flavor, and</li>
+<li id="ul0001-0002" num="0011">a carrier material</li>
+</ul>
+ characterized in that:
+<ul id="ul0002" list-style="none">
+<li id="ul0002-0001" num="0012">the carrier material comprises at least one modified starch and at least one hydrolyzed starch,</li>
+<li id="ul0002-0002" num="0013">the hydrolyzed starch has a DE greater than 6DE, and</li>
+<li id="ul0002-0003" num="0014">the particle comprises greater than or equals to 13% by weight of flavor based on the total weight of the particle.</li>
+</ul>
+</p>
+<p id="p-0011" num="0015">A second object of the invention is a process for preparing an extruded particle, wherein it comprises the following steps:
+<ul id="ul0003" list-style="none">
+<li id="ul0003-0001" num="0016">a) mixing at least a carrier material and a plasticizer, preferably water, to form a mixture;</li>
+<li id="ul0003-0002" num="0017">b) heating the mixture at a temperature sufficient to form a molten mass;</li>
+<li id="ul0003-0003" num="0018">c) pumping the molten mass and pushing said molten mass through a static mixer;</li>
+<li id="ul0003-0004" num="0019">d) extruding the melt through a die to form an extrudate;</li>
+<li id="ul0003-0005" num="0020">e) cutting or crushing the extrudate to form an extruded particle,</li>
+</ul>
+ wherein a flavor is added to the mixture in step a) and/or in the molten mass in step b).</p>
+<p id="p-0012" num="0021">A third object of the invention is a flavored consumer product comprising the flavor particle as described herein-above and, optionally, a flavor base consumer product.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading level="1" id="h-0004">DETAILED DESCRIPTION</heading>
+<heading level="1" id="h-0005">Flavor Particle</heading>
+<p id="p-0013" num="0022">The present invention relates to a particle comprising:
+<ul id="ul0004" list-style="none">
+<li id="ul0004-0001" num="0023">a flavor, and</li>
+<li id="ul0004-0002" num="0024">a carrier material
+<ul id="ul0005" list-style="none">
+<li id="ul0005-0001" num="0025">characterized in that:
+<ul id="ul0006" list-style="none">
+<li id="ul0006-0001" num="0026">the carrier material comprises at least one modified starch and at least one hydrolyzed starch,</li>
+<li id="ul0006-0002" num="0027">the hydrolyzed starch has a DE greater than 6DE, and</li>
+<li id="ul0006-0003" num="0028">the particle comprises greater than or equals to 13% by weight of flavor based on the total weight of the particle.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</p>
+<p id="p-0014" num="0029">In a particular embodiment, the flavor particle according to the present invention is an amorphous particle.</p>
+<p id="p-0015" num="0030">In a particular embodiment, the flavor particle according to the present invention is an extruded particle.</p>
+<p id="p-0016" num="0031">In a particular embodiment, the flavor particle has a glass transition temperature of equal to or greater than 25&#xb0; C., preferably equal to or greater than 30&#xb0; C. and more preferably equal to or greater than 40&#xb0; C. In a particular embodiment, the flavor particle has a glass transition temperature of equal to or less than 120&#xb0; C., preferably equal to or less than 100&#xb0; C. and more preferably equal to or less than 90&#xb0; C. In a particular embodiment, the flavor particle has a glass transition temperature greater than 25&#xb0; C. and less than 120&#xb0; C., preferably greater than 35&#xb0; C. and less than 100&#xb0; C. and more preferably 40&#xb0; C. to 90&#xb0; C. The glass transition temperature can be measured by standard methods known by a skilled person such as by using a differential scanning calorimeter DSC822e (Mettler).</p>
+<p id="p-0017" num="0032">In a particular embodiment, the flavor particle is in a solid, granular state.</p>
+<p id="p-0018" num="0033">In a particular embodiment, the flavor particle is free-flowing.</p>
+<p id="p-0019" num="0034">In a particular embodiment, the flavor particle has an average particle size of equal to or greater than 30 &#xb5;m and preferably equal to or greater than 50 &#xb5;m. In a particular embodiment, the flavor particle as an average particle size of equal to or less than 5000 &#xb5;m, preferably equal to or less than 3000 &#xb5;m, more preferably equal to or less than 2000 &#xb5;m and even more preferably equal to or less than 1000 &#xb5;m. In a particular embodiment, the flavor particle has an average particle size of 30 to 5000 &#xb5;m, preferably 250 to 2500 &#xb5;m. The average particle size can be measured by standard methods known by a skilled person such as by using Beckman Coulter Laser Diffraction Particle Size Analyzer (Coulter LS 13320) with Tornado Dry Powder Module (Beckman Coulter Inc., Miami, FL). The average particle size can be also determined by sieving.</p>
+<p id="p-0020" num="0035">The particle or flavor particle according to the present invention comprises a flavor dispersed within the carrier material.</p>
+<heading level="2" id="h-0006">Flavor</heading>
+<p id="p-0021" num="0036">By &#x201c;flavor or flavoring composition&#x201d;, it is meant here a flavoring ingredient or a mixture of flavoring ingredients, solvents or adjuvants of current use for the preparation of a flavoring formulation, i.e. a particular mixture of ingredients which is intended to be added to an edible composition or chewable product to impart, improve or modify its organoleptic properties, in particular its flavor and/or taste. Flavoring ingredients are well known to a person skilled in the art and their nature does not warrant a detailed description here, which in any case would not be exhaustive, the skilled flavorist being able to select them on the basis of his general knowledge and according to the intended use or application and the organoleptic effect it is desired to achieve. Many of these flavoring ingredients are listed in reference texts such as in the book by S. Arctander, Perfume and Flavor Chemicals, 1969, Montclair, N.J., USA, or its more recent versions, or in other works of similar nature such as Fenaroli&#x2019;s Handbook of Flavor Ingredients, 1975, CRC Press or Synthetic Food Adjuncts, 1947, by M. B. Jacobs, van Nostrand Co., Inc. Solvents and adjuvants of current use for the preparation of a flavoring formulation are also well known in the art.</p>
+<p id="p-0022" num="0037">In a particular embodiment, the flavor is a mint flavor. In a more particular embodiment, the mint is selected from the group consisting of peppermint and spearmint.</p>
+<p id="p-0023" num="0038">In a further embodiment, the flavor is a cooling agent or mixtures thereof.</p>
+<p id="p-0024" num="0039">In another embodiment, the flavor is a menthol flavor.</p>
+<p id="p-0025" num="0040">Flavors that are derived from or based on fruits where citric acid is the predominant, naturally-occurring acid include but are not limited to, for example, citrus fruits (e.g. lemon, lime), limonene, strawberry, orange, and pineapple. In one embodiment, the flavors food is lemon, lime or orange juice extracted directly from the fruit. Further embodiments of the flavor comprise the juice or liquid extracted from oranges, lemons, grapefruits, key limes, citrons, clementines, mandarins, tangerines, and any other citrus fruit, or variation or hybrid thereof. In a particular embodiment, the flavor comprises a liquid extracted or distilled from oranges, lemons, grapefruits, key limes, citrons, clementines, mandarins, tangerines, any other citrus fruit or variation or hybrid thereof, pomegranates, kiwifruits, watermelons, apples, bananas, blueberries, melons, ginger, bell peppers, cucumbers, passion fruits, mangos, pears, tomatoes, and strawberries.</p>
+<p id="p-0026" num="0041">In a particular embodiment, the flavor comprises a composition that comprises limonene, in a particular embodiment, the composition is a citrus that further comprises limonene.</p>
+<p id="p-0027" num="0042">In another particular embodiment, the flavor comprises a flavor selected from the group comprising strawberry, orange, lime, tropical, berry mix, and pineapple.</p>
+<p id="p-0028" num="0043">The phrase flavor includes not only flavors that impart or modify the smell of foods but include taste imparting or modifying ingredients. The latter do not necessarily have a taste or smell themselves but are capable of modifying the taste that other ingredients provides, for instance, salt enhancing ingredients, sweetness enhancing ingredients, umami enhancing ingredients, bitterness blocking ingredients and so on.</p>
+<p id="p-0029" num="0044">In a further embodiment, suitable sweetening components may be included in the particles described herein. In a particular embodiment, a sweetening component is selected from the group consisting of sugar (e.g., but not limited to sucrose), a stevia component (such as but not limited to stevioside or rebaudioside A), sodium cyclamate, aspartame, sucralose, sodium saccharine, and Acesulfam K or mixtures thereof.</p>
+<p id="p-0030" num="0045">In a particular embodiment, the flavor particle comprises a flavor in an amount greater than 13 wt.% (based on the total weight of the flavor particle).</p>
+<p id="p-0031" num="0046">In a particular embodiment, the flavor particle comprises a flavor in an amount of equal to or greater than 15 wt.% (based on the total weight of the flavor particle). In a particular embodiment, the flavor particle comprises a flavor in an amount of equal to or less than 40 wt.% and particularly equal to or less than 30 wt.%, and more particularly equal to or less than 25 wt.% (based on the total weight of the flavor particle). In a particular embodiment, the flavor particle comprises the flavor in an amount of 13 to 40 wt.%, particularly between 13 to 30 wt.%, more particularly between 13 to 25 wt.% (based on the total weight of the flavor particle).</p>
+<p id="p-0032" num="0047">In a particular embodiment, the flavor particle comprises a flavor in an amount between 13 to 20%, particularly between 13 to 15% wt.% (based on the total weight of the flavor particle).</p>
+<p id="p-0033" num="0048">In a particular embodiment, the flavor particle comprises the flavor in an amount of 15 to 40 wt.%, particularly of 15 to 30 wt.% and more particularly of 15 to 25 wt.% (based on the total weight of the flavor particle).</p>
+<heading level="2" id="h-0007">Carrier Material of the Flavor Particle</heading>
+<p id="p-0034" num="0049">According to the invention, the carrier material of the flavor particle comprises at least one hydrolyzed starch having a DE greater than 6DE, particularly greater than 10DE, more particularly greater than 17DE.</p>
+<p id="p-0035" num="0050">The DE value is a measure of the reducing equivalent of hydrolyzed starch, referenced to dextrose and expressed as a percentage (based on dry matter), determined by well-known procedures.</p>
+<p id="p-0036" num="0051">The dextrose equivalent DE is typically defined by the following relationship (H. Levine, L. Slade: &#x201c;Water as a plasticizer: physico-chemical aspects of low moisture polymeric systems&#x201d; :, in <i>Water Science Reviews</i>, 1988, Vol. 3, F. Franks (Ed.), pp. 79-185, Cambridge University Press, Cambridge, England)</p>
+<p id="p-0037" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math id="MATH_1" overflow="scroll">
+<mrow>
+<mtext>DE</mtext>
+<mo>=</mo>
+<mfenced>
+<mrow>
+<mn>18016</mn>
+</mrow>
+</mfenced>
+<mtext>/Mn</mtext>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0038" num="0000">wherein DE is Dextrose equivalent and wherein Mn is number average molecular weight.</p>
+<p id="p-0039" num="0052">The value Mn can be easily determined by the person skilled in the art, for example by using SEC Multi-Detector System.</p>
+<p id="p-0040" num="0053">As non-limiting example, the SEC instrument is the Viscotek TDA305 max system (Malvern Instruments, Ltd, UK) with Viscotek Triple Detector Array (TDA) incorporating Refractive Index (RI), Light Scattering (LS), and Viscosity (VS) detectors. A typical method to determine Mn would be the following: the chromatographic system consists of A2000 (CLM3015) and A6000 (CLM3020) (300 mm L &#xd7; 8.0 mm ID, Malvern Instruments Ltd.) put in series after a A7 guard column, with claimed exclusion limits for pullulan of 4 KDa and 2000 KDa respectively. The eluent is 0.1 M sodium nitrate with a flow rate of 0.4 mL/min. The injected volume is 100 &#xb5;L with sample concentration of around 2 mg/mL. All measurements were conducted at 35&#xb0; C. Reproducibility of the method is acceptable with standard deviation of 0.06% on retention volume at peak maximum for three consecutive injections.</p>
+<p id="p-0041" num="0054">The term &#x201c;hydrolyzed starch&#x201d; means an oligosaccharide-type material typically obtained by acid and / or enzymatic hydrolysis of starch, preferably corn starch.</p>
+<p id="p-0042" num="0055">According to a particular embodiment, the hydrolyzed starch is chosen in the group consisting of maltodextrins, dextrins, corn syrup and mixture thereof.</p>
+<p id="p-0043" num="0056">According to the invention, the carrier material comprises also a modified starch.</p>
+<p id="p-0044" num="0057">The term &#x201c;modified starch&#x201d; has the normal meaning of the term to a person skilled in the art, i.e a starch that has been physically modified (physical modification), enzymatically modified (enzymatic modification) or chemically modified (chemical modification).</p>
+<p id="p-0045" num="0058">&#x201c;Physically modified starch&#x201d; means a starch which has been subjected to a heat treatment in the presence of relatively small amounts of water or moisture. No other reagents are added to the starch during the heat treatment. The heat-treatment processes include heat-moisture and annealing treatments, both of which cause a physical modification of starch without any gelatinization.</p>
+<p id="p-0046" num="0059">&#x201c;Enzymatically modified starch&#x201d; means a starch which has been treated with one or more enzymes to modify its properties.</p>
+<p id="p-0047" num="0060">&#x201c;Chemically modified starch&#x201d; means a starch which has been reacted with reagents which have been added to the starch in order to form new covalent bonds between those molecules and the starch molecules.</p>
+<p id="p-0048" num="0061">Particular examples of modified starches comprise dextrin, hydroxypropylated starch, phosphate starch phosphate, octenylsuccinated starch, starch aluminium octenyl succinate, acetylated distarch phosphate, acetylated distarch adipate, acetylated distarch adipate, hydroxypropyl distarch phosphate and acetylated oxidized starch. Some non-limited examples include octenylsuccinic anhydride-modified starches such as MiraCap&#xae; by Tate &amp; Lyle, Capsul&#xae; by Ingredion, EmCap&#xae; by Cargill, etc.</p>
+<p id="p-0049" num="0062">According to an embodiment, the modified starch is a chemically modified starch. The chemical modification can increase notably its hydrophobicity to act as stabilizer and emulsifier.</p>
+<p id="p-0050" num="0063">According to this embodiment, the chemically modified starch is chosen in the group consisting of octenyl succinated starches.</p>
+<p id="p-0051" num="0064">According to a particular embodiment, the modified starch is not agglomerated or compressed.</p>
+<p id="p-0052" num="0065">According to an embodiment, the modified starch is agglomerated or compressed.</p>
+<p id="p-0053" num="0066">According to a particular embodiment, the carrier material is a mixture of modified starch and at least one maltodextrin, wherein the maltodextrin has a DE comprised between 10 and 20DE.</p>
+<p id="p-0054" num="0067">According to a particular embodiment, the carrier material is a mixture of modified starch and at least one maltodextrin, wherein the maltodextrin has a DE comprised between 17 and 20DE.</p>
+<p id="p-0055" num="0068">A maltodextrin or a blend of maltodextrins having different DE values can be used.</p>
+<p id="p-0056" num="0069">According to a particular embodiment, the modified starch is used in an amount comprised between 10 and 70%, preferably between 10 and 50%, preferably between 10 and 49%, more preferably between 30 and 49%, even more preferably between 30 and 40% and/or the hydrolyzed starch, preferably a maltodextrin, is used in an amount comprised between 30 and 90%, preferably between 50 and 90%, preferably between 51 and 90%, more preferably between 51 and 70%, even more preferably between 60 and 70% by weight based on the total weight of the carrier material.</p>
+<p id="p-0057" num="0070">According to a particular embodiment, the modified starch is used in an amount less than 50% based on the total weight of the carrier material.</p>
+<p id="p-0058" num="0071">According to a particular embodiment, the carrier material comprises:
+<ul id="ul0007" list-style="none">
+<li id="ul0007-0001" num="0072">between 30 and 40% of a modified starch, and</li>
+<li id="ul0007-0002" num="0073">between 60 and 70% of a maltodextrin having a DE between 17 and 20DE.</li>
+</ul>
+</p>
+<p id="p-0059" num="0074">According to a particular embodiment, the carrier material does not comprise a maltodextrin having a DE less than or equals to 6DE. Indeed, it has been shown that a particle comprising a carrier containing a maltodextrin having a DE greater than 6DE and a modified starch exhibits a high flavor loading.</p>
+<p id="p-0060" num="0075">According to an embodiment, the flavor particle according to the present invention may comprise an additional component preferably chosen in the group consisting of gums, proteins, small molecule surfactant, plant extract, saponins, plant-derived proteins, protein hydrolysates, citrus fiber, sugar beet fiber or mixtures thereof and preferably used in an amount comprised between 1 to 30 wt.%, preferably 5 to 20 wt.% and more preferably 10 to 20 wt.% (based on the total weight of the flavor particle).</p>
+<p id="p-0061" num="0076">The term &#x201c;gums&#x201d; has the normal meaning of the term to a person skilled in the art. Particular examples of gums comprise gum arabic, gum karaya, gum ghatti, gum tragacanth, okra gum, etc. The term &#x201c;proteins&#x201d; has the normal meaning of the term to a person skilled in the art. Particular examples of proteins comprise pea protein, soy protein, lentil proteins, chickpea protein, rice protein, potato protein, fava bean protein, mung bean protein, canola protein, etc. The term &#x201c;small molecule surfactant&#x201d; has the normal meaning of the term to a person skilled in the art. Particular examples of small molecule surfactants comprise quillaja saponins, yucca saponins, phospholipids, lecithin, lysolecithin, diacetyltartaric and fatty acid esters of glycerol (DATEM), citric acid esters of mono and diglycerides (CITREM), etc.</p>
+<p id="p-0062" num="0077">In a particular embodiment, the flavor particle comprises a lubricant. In another embodiment, the lubricant comprises a micellar surfactant like lecithin or a fatty acid ester (e.g., citric, tartaric, acetic), DATEM, CITREM or mixtures of the above. In a particular embodiment, the lubricant may be provided in an amount, by weight, up to about 5%, particularly about 0.2 up to about 5%, more particularly from about 0.8% up to about 2% and even more particularly from about 1 to 2% of the total weight of the flavor particle.</p>
+<p id="p-0063" num="0078">According to an embodiment, the carrier material comprises a low molecular weight carbohydrate to improve flavor stability against oxidation and evaporative loss during storage. The low molecular weight carbohydrate can be chosen in the group consisting of sucrose, glucose, lactose, maltose, fructose, ribose, dextrose, isomalt, sorbitol, mannitol, xylitol, lactitol, maltitol, pentatol, arabinose, glucose syrup, pentose, xylose, galactose, Trehalose &#xae; and mixtures thereof and are used preferably between 1% and 10%, more preferably between 2% and 6% by weight based on the total weight of the flavor particle.</p>
+<p id="p-0064" num="0079">According to a particular embodiment, the carrier material does not comprise a yeast.</p>
+<p id="p-0065" num="0080">In a particular embodiment, the flavor particle may further comprise water.</p>
+<p id="p-0066" num="0081">It is understood that the flavor particle may comprise only such amount of water so that it is still in form of a solid particle and not in the form of a liquid.</p>
+<p id="p-0067" num="0082">In a particular embodiment, the flavor particle according to the present invention is a stable flavor particle. By &#x201c;stable flavor particle&#x201d; it is herein understood that the flavor particle is stable against loss of sensory performance at room temperature in dry environment for at least 12 months.</p>
+<heading level="1" id="h-0008">Process for Preparing a Flavor Particle</heading>
+<p id="p-0068" num="0083">Another object of the invention is a process for preparing an extruded particle, wherein it comprises the following steps:
+<ul id="ul0008" list-style="none">
+<li id="ul0008-0001" num="0084">a) mixing at least a carrier material and a plasticizer, preferably water, to form a mixture;</li>
+<li id="ul0008-0002" num="0085">b) heating the mixture at a temperature sufficient to form a molten mass;</li>
+<li id="ul0008-0003" num="0086">c) pumping the molten mass and pushing said molten mass through a static mixer;</li>
+<li id="ul0008-0004" num="0087">d) extruding the melt through a die to form an extrudate;</li>
+<li id="ul0008-0005" num="0088">e) cutting or crushing the extrudate to form an extruded particle,</li>
+</ul>
+ wherein a flavor is added to the mixture in step a) and/or in the molten mass in step b).</p>
+<p id="p-0069" num="0089">According to a particular embodiment, the extruded particle obtained in step e) has a retained flavor of greater than or equals to 13%, particularly greater than 15% by weight based on the total weight of the particle.</p>
+<p id="p-0070" num="0090">In a particular embodiment, at the end of step e), the flavor particle comprises a flavor in an amount greater than 13 wt.% (based on the total weight of the flavor particle).</p>
+<p id="p-0071" num="0091">In a particular embodiment, at the end of step e), the flavor particle comprises a flavor in an amount of equal to or greater than 15 wt.% (based on the total weight of the flavor particle). In a particular embodiment, at the end of step e), the flavor particle comprises a flavor in an amount of equal to or less than 40 wt.% and particularly equal to or less than 30 wt.%, and more particularly equal to or less than 25 wt.% (based on the total weight of the flavor particle). In a particular embodiment, the flavor particle comprises the flavor in an amount of 13 to 40 wt.%, particularly between 13 to 30 wt.%, more particularly between 13 to 25 wt.% (based on the total weight of the flavor particle).</p>
+<p id="p-0072" num="0092">In a particular embodiment, at the end of step e), the flavor particle comprises a flavor in an amount between 13 to 20%, particularly between 13 to 15% wt.% (based on the total weight of the flavor particle).</p>
+<p id="p-0073" num="0093">In a particular embodiment, at the end of step e), the flavor particle comprises the flavor in an amount of 15 to 40 wt.%, particularly of 15 to 30 wt.% and more particularly of 15 to 25 wt.% (based on the total weight of the flavor particle).</p>
+<p id="p-0074" num="0094">The embodiments described above for the particle according to the invention also apply to the process according to the invention. This particularly applies to the carrier material, the flavor and the lubricant.</p>
+<heading level="2" id="h-0009">Step A): Mixing at Least a Carrier Material and a Plasticizer</heading>
+<p id="p-0075" num="0095">The carrier material of step a) can be any compound which can be readily processed through extrusion techniques to form a dry extruded solid.</p>
+<p id="p-0076" num="0096">In a particular embodiment, the carrier of step a) is practically neutral from a flavor point of view, i.e. that does not significantly alter the organoleptic properties of flavoring ingredients.</p>
+<p id="p-0077" num="0097">In a particular embodiment, the carrier of step a) is a solid carrier.</p>
+<p id="p-0078" num="0098">In a particular embodiment, the carrier of step a) is a biopolymer.</p>
+<p id="p-0079" num="0099">In a particular embodiment, the carrier of step a) is a food grade biopolymer.</p>
+<p id="p-0080" num="0100">In a particular embodiment, the carrier of step a) is a water-soluble food grade biopolymer.</p>
+<p id="p-0081" num="0101">In a particular embodiment, the carrier of step a) is a starch derivative, gums, fibers, polysaccharides, proteins, soluble flours or mixtures thereof.</p>
+<p id="p-0082" num="0102">The term &#x201c;starch derivative&#x201d; has the normal meaning of the term to a person skilled in the art. Starch derivatives are prepared by enzymatically, physically or chemically treating native starch to alter its properties. Particular examples of starch derivatives comprise maltodextrin, dextrin, resistant starch, hydroxypropylated starch, phosphate starch phosphate, octenylsuccinated starch, starch aluminium octenyl succinate, acetylated distarch phosphate, acetylated distarch adipate, acetylated distarch adipate, hydroxypropyl distarch phosphate and acetylated oxidized starch.</p>
+<p id="p-0083" num="0103">The term &#x201c;gums&#x201d; has the normal meaning of the term to a person skilled in the art. Gums can be derived from botanical sources, seaweeds, and bacteria fermentation. Particular examples of gums comprise gum arabic, gum tragacanth, gum karaya, gum ghatti, ocra gum, glucomannan, gellan gum, alginate, etc.</p>
+<p id="p-0084" num="0104">The term &#x201c;fibers&#x201d; has the normal meaning of the term to a person skilled in the art. They cannot be digested by human body&#x2019;s enzymes. Particular examples of fibers comprise inulin, fructooligosaccharides, beta glucan, arabinogalactan, glucomannan, psyllium, soluble corn fiber etc.</p>
+<p id="p-0085" num="0105">The term &#x201c;polysaccharides&#x201d; has the normal meaning of the term to a person skilled in the art. Particular examples of polysaccharides comprise tamarind seed polysaccharide, soy polysaccharide, galactomannan, xyloglucan, carrageenan, pectin, curdlan, arabinan, arabinoglactan, etc.</p>
+<p id="p-0086" num="0106">The term &#x201c;proteins&#x201d; has the normal meaning of the term to a person skilled in the art. Paticular examples of proteins comprise pea protein, soy protein, lentil proteins, chickpea protein, rice protein, potato protein, fava bean protein, mung bean protein, canola protein, etc. The term &#x201c;soluble flour&#x201d; has the normal meaning of the term to a person skilled in the art. Soluble fours are flours with chemical, physical, or enzymatical treatment to increase their solubility and functionality. Particular examples of soluble flours comprise soluble rice flour, soluble brown rice flour, koji rice, etc.</p>
+<p id="p-0087" num="0107">According to an embodiment, the carrier material of step a) is the carrier material disclosed previously for the particles.</p>
+<p id="p-0088" num="0108">According to an embodiment, the carrier material comprises at least one modified starch and at least one hydrolyzed starch.</p>
+<p id="p-0089" num="0109">According to an embodiment, the carrier material comprises at least one hydrolyzed starch having a DE greater than 6DE, particularly greater than 10DE, more particularly greater than 17DE.</p>
+<p id="p-0090" num="0110">As mentioned previously, the DE value is a measure of the reducing equivalent of hydrolyzed starch, referenced to dextrose and expressed as a percentage (based on dry matter), determined by well-known procedures.</p>
+<p id="p-0091" num="0111">The dextrose equivalent DE is typically defined by the following relationship (H. Levine, L. Slade: &#x201c;Water as a plasticizer: physico-chemical aspects of low moisture polymeric systems &#x201d;, in <i>Water Science Reviews</i>, 1988, Vol. 3, F. Franks (Ed.), pp. 79-185, Cambridge University Press, Cambridge, England)</p>
+<p id="p-0092" num="0000">
+<maths id="MATH-US-00002" num="00002">
+<math id="MATH_2" overflow="scroll">
+<mrow>
+<mtext>DE</mtext>
+<mo>=</mo>
+<mfenced>
+<mrow>
+<mn>18016</mn>
+</mrow>
+</mfenced>
+<mtext>/Mn</mtext>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0093" num="0000">wherein DE is Dextrose equivalent and wherein Mn is number average molecular weight.</p>
+<p id="p-0094" num="0112">The value Mn can be easily determined by the person skilled in the art, for example by using SEC Multi-Detector System.</p>
+<p id="p-0095" num="0113">As non-limiting example, the SEC instrument is Viscotek TDA305 max system (Malvern Instruments, Ltd, UK) with Viscotek Triple Detector Array (TDA) incorporating Refractive Index (RI), Light Scattering (LS), and Viscosity (VS) detectors. A typical method to determine Mn would be the following: the chromatographic system consists of A2000 (CLM3015) and A6000 (CLM3020) (300 mm L &#xd7; 8.0 mm ID, Malvern Instruments Ltd.) put in series after a A7 guard column, with claimed exclusion limits for pullulan of 4 KDa and 2000 KDa respectively. The eluent is 0.1 M sodium nitrate with a flow rate of 0.4 mL/min. The injected volume is 100 &#xb5;L with sample concentration of around 2 mg/mL. All measurements were conducted at 35&#xb0; C. Reproducibility of the method is acceptable with standard deviation of 0.06% on retention volume at peak maximum for three consecutive injections.</p>
+<p id="p-0096" num="0114">The term &#x201c;hydrolyzed starch&#x201d; means an oligosaccharide-type material typically obtained by acid and / or enzymatic hydrolysis of starch, preferably corn starch.</p>
+<p id="p-0097" num="0115">According to a particular embodiment, the hydrolyzed starch is chosen in the group consisting of maltodextrins, dextrins, corn syrup and mixture thereof.</p>
+<p id="p-0098" num="0116">According to an embodiment, the carrier material comprises also a modified starch.</p>
+<p id="p-0099" num="0117">The term &#x201c;modified starch&#x201d; has the normal meaning of the term to a person skilled in the art, i.e a starch that has been physically modified (physical modification), enzymatically modified (enzymatic modification) or chemically modified (chemical modification).</p>
+<p id="p-0100" num="0118">&#x201c;Physically modified starch&#x201d; means a starch which has been subjected to a heat treatment in the presence of relatively small amounts of water or moisture. No other reagents are added to the starch during the heat treatment. The heat-treatment processes include heat-moisture and annealing treatments, both of which cause a physical modification of starch without any gelatinization.</p>
+<p id="p-0101" num="0119">&#x201c;Enzymatically modified starch&#x201d; means a starch which has been treated with one or more enzymes to modify its properties.</p>
+<p id="p-0102" num="0120">&#x201c;Chemically modified starch&#x201d; means a starch which has been reacted with reagents which have been added to the starch in order to form new covalent bonds between those molecules and the starch molecules.</p>
+<p id="p-0103" num="0121">Particular examples of modified starches comprise dextrin, hydroxypropylated starch, phosphate starch phosphate, octenylsuccinated starch, starch aluminium octenyl succinate, acetylated distarch phosphate, acetylated distarch adipate, acetylated distarch adipate, hydroxypropyl distarch phosphate and acetylated oxidized starch. Some non-limited examples include octenylsuccinic anhydride-modified starches such as MiraCap&#xae; by Tate &amp; Lyle, Capsul&#xae; by Ingredion, EmCap&#xae; by Cargill, etc.</p>
+<p id="p-0104" num="0122">According to an embodiment, the modified starch is a chemically modified starch. The chemical modification can increase notably its hydrophobicity to act as stabilizer and emulsifier.</p>
+<p id="p-0105" num="0123">According to this embodiment, the chemically modified starch is chosen in the group consisting of Octenyl succinated starches.</p>
+<p id="p-0106" num="0124">According to a particular embodiment, the modified starch is not agglomerated or compressed.</p>
+<p id="p-0107" num="0125">According to an embodiment, the modified starch is agglomerated or compressed.</p>
+<p id="p-0108" num="0126">In a particular embodiment, the carrier material comprises a maltodextrin with a dextrose equivalent (DE) of about 1 to about 20.</p>
+<p id="p-0109" num="0127">In a particular embodiment, the maltodextrin is selected from a maltodextrin with a DE of about 10 up to about 18 DE.</p>
+<p id="p-0110" num="0128">In another embodiment, the carrier material comprises corn syrup with a DE from 21 up to 49. Any carrier material can be used that is made by the hydrolysis of starches from different origins such as, but not limited to, maize, wheat, potato or rice. In another embodiment, the carrier material is a hydrogenated starch hydrolysate (e.g., HSPolyols), fructose oligosacharides (e.g., but not limited to Inulin from Orafit), soluble fibers such as for example but not limited to Nutriose (Roquette) and pregelatinized starch.</p>
+<p id="p-0111" num="0129">In a particular embodiment, the carrier is mixture of a modified starch and a starch hydrolyzate having a DE greater than 6DE.</p>
+<p id="p-0112" num="0130">According to a particular embodiment, the carrier material is a mixture of modified starch and a maltodextrin, wherein the maltodextrin has a DE comprised between 10 and 20DE.</p>
+<p id="p-0113" num="0131">According to a particular embodiment, the carrier material is a mixture of modified starch and a maltodextrin, wherein the maltodextrin has a DE comprised between 17 and 20DE.</p>
+<p id="p-0114" num="0132">A maltodextrin or a blend of maltodextrins having different DE values can be used.</p>
+<p id="p-0115" num="0133">According to a particular embodiment, the modified starch is used in an amount comprised between 10 and 70%, preferably between 10 and 50%, preferably between 10 and 49%, more preferably between 30 and 49%, even more preferably between 30 and 40% and/or the hydrolyzed starch, preferably a maltodextrin, is used in an amount comprised between 30 and 90%, preferably between 50 and 90%, preferably between 51 and 90%, more preferably between 51 and 70%, even more preferably between 60 and 70% by weight based on the total weight of the carrier material.</p>
+<p id="p-0116" num="0134">According to a particular embodiment, the modified starch is used in an amount less than 50% based on the total weight of the carrier material.</p>
+<p id="p-0117" num="0135">According to a particular embodiment, the carrier material comprises:
+<ul id="ul0009" list-style="none">
+<li id="ul0009-0001" num="0136">between 30 and 40% of a modified starch, and</li>
+<li id="ul0009-0002" num="0137">between 60 and 70% of a maltodextrin having a DE between 17 and 20DE.</li>
+</ul>
+</p>
+<p id="p-0118" num="0138">According to a particular embodiment, the carrier material does not comprise a maltodextrin having a DE less than or equals to 6DE.</p>
+<p id="p-0119" num="0139">In a particular embodiment, a lubricant is provided in step a). While not wishing to be bound to any theory it is believed that the lubricant reduces shear and expansion of the molten mass at the exit die. In some embodiments, the lubricant may comprise a medium chain triglyceride (MCT). In another embodiment, the lubricant comprises a micellar surfactant like lecithin or a fatty acid ester (e.g., citric, tartaric, acetic), DATEM, CITREM or mixtures of the above. In a particular embodiment, the lubricant may be provided in an amount, by weight, up to about 5%, particularly about 0.2 up to about 5%, more particularly from about 0.8% up to about 2% and even more particularly from about 1 to 2% of the total weight of the mixture of step a).</p>
+<p id="p-0120" num="0140">According to a particular embodiment, a low molecular weight carbohydrate is added in step a), preferably chosen in the group consisting of sucrose, glucose, lactose, maltose, fructose, ribose, dextrose, isomalt, sorbitol, mannitol, xylitol, lactitol, maltitol, pentatol, arabinose, glucose syrup, pentose, xylose, galactose, Trehalose &#xae;, and preferably provided in an amount, by weight between 1 and 10%, preferably 2 and 6% based on the total weight of the mixture of step a).</p>
+<p id="p-0121" num="0141">According to an embodiment, an additional component preferably chosen in the group consisting of gums, proteins, small molecule surfactant, plant extract, saponins, plant-derived proteins, protein hydrolysates, citrus fiber, sugar beet fiber or mixtures thereof is added in step a) and/or b), preferably in an amount comprised between 1 to 30 wt.%, preferably 5 to 20 wt.% and more preferably 10 to 20 wt.% (based on the total weight of the flavor particle).</p>
+<p id="p-0122" num="0142">The term &#x201c;gums&#x201d; has the normal meaning of the term to a person skilled in the art. Particular examples of gums comprise gum arabic, gum karaya, gum ghatti, gum tragacanth, okra gum, etc. The term &#x201c;proteins&#x201d; has the normal meaning of the term to a person skilled in the art. Particular examples of proteins comprise pea protein, soy protein, lentil proteins, chickpea protein, rice protein, potato protein, fava bean protein, mung bean protein, canola protein, etc. The term &#x201c;small molecule surfactant&#x201d; has the normal meaning of the term to a person skilled in the art. Particular examples of small molecule surfactants comprise quillaja saponins, yucca saponins, phospholipids, lecithin, lysolecithin, diacetyltartaric and fatty acid esters of glycerol (DATEM), citric acid esters of mono and diglycerides (CITREM), etc.</p>
+<p id="p-0123" num="0143">The glass transition temperature of the flavour and carrier mixture depends on the amount of plasticizer added to the initial mixture.</p>
+<p id="p-0124" num="0144">According to an embodiment, the glass transition temperature of the particle is substantially the same as the glass transition temperature of the mixture. This is attained by ensuring low or no loss of water.</p>
+<p id="p-0125" num="0145">According to this particular embodiment, a small amount of plasticizer, preferably water, is added to the mixture to guarantee that the glass transition temperature (T<sub>g</sub>) of the resulting melt corresponds to and is substantially the same as that of the desired T<sub>g</sub> value of the final product. In other words, contrary to other methods such as wet-granulation, the glass transition temperature of the mixture before extrusion has already the value required for the final product, which temperature is above room temperature and preferably above 40&#xb0; C. so that the product can be stored at ambient temperature in the form of free-flowing particles. Consequently, this embodiment of the invention can dispense with the additional drying step following the extrusion, intended to remove water in order to increase T<sub>g</sub> to an acceptable value, and therefore reduce the energy needs.</p>
+<p id="p-0126" num="0146">The proportions in which plasticizer is employed in the present invention therefore vary in a wide range of values which the skilled person is capable of adapting and choosing as a function of the nature of the carrier and the required T<sub>g</sub> of the final product.</p>
+<p id="p-0127" num="0147">According to an embodiment, the plasticizer content is such that said mixture has a glass transition temperature T<sub>g</sub> above room temperature.</p>
+<p id="p-0128" num="0148">The plasticizer is preferably water, however polyols such as glycerol, propylene glycol and there esters ( i.e.Triacetine) could be used as well. Small polar molecules can be used to lower the Tg, one may cite also organic acids (citric, maleic...), amino acids, mono and disaccharides (glucose, maltose fructose, sucrose...) and mixtures thereof.</p>
+<p id="p-0129" num="0149">Typically, the plasticizer is used in an amount comprised between 0.5 and 10%, preferably between 5 and 9%, based on the total weight of the mixture of step a).</p>
+<heading level="1" id="h-0010">Step B): Heating the Mixture at a Temperature Sufficient to Form a Molten Mass</heading>
+<p id="p-0130" num="0150">The mixture of step a) is then heated within an extruder, typically a single screw-extruder, a twin-screw extruder or a ram extruder, preferably a twin-screw extruder, at a temperature sufficient to form a molten mass.</p>
+<p id="p-0131" num="0151">The mixture of step a) is thus extruded in the extruder, which maintains the temperature of the mixture at a predetermined temperature which is comprised preferably between 90 and 130&#xb0; C. This temperature is adapted to the system of the invention. Indeed, it has to be above the glass transition temperature of the carrier material in order to keep the mixture in the form of a molten mass. Pressure is also applied and adjusted to a value appropriate to maintain homogeneity of the melt. Typically, pressure values of up to 100 bar (10<sup>7</sup> Pa) can be used depending on the size of the equipment.</p>
+<p id="p-0132" num="0152">According to the invention, a flavor is added to the mixture in step a) and/or in the molten mass in step b).</p>
+<p id="p-0133" num="0153">By &#x201c;flavor or flavoring composition&#x201d;, it is meant here a flavoring ingredient or a mixture of flavoring ingredients, solvents or adjuvants of current use for the preparation of a flavoring formulation, i.e. a particular mixture of ingredients which is intended to be added to an edible composition or chewable product to impart, improve or modify its organoleptic properties, in particular its flavor and/or taste. Flavoring ingredients are well known to a person skilled in the art and their nature does not warrant a detailed description here, which in any case would not be exhaustive, the skilled flavorist being able to select them on the basis of his general knowledge and according to the intended use or application and the organoleptic effect it is desired to achieve. Many of these flavoring ingredients are listed in reference texts such as in the book by S. Arctander, Perfume and Flavor Chemicals, 1969, Montclair, N.J., USA, or its more recent versions, or in other works of similar nature such as Fenaroli&#x2019;s Handbook of Flavor Ingredients, 1975, CRC Press or Synthetic Food Adjuncts, 1947, by M. B. Jacobs, van Nostrand Co., Inc. Solvents and adjuvants of current use for the preparation of a flavoring formulation are also well known in the art.</p>
+<p id="p-0134" num="0154">In a particular embodiment, the flavor is a mint flavor. In a more particular embodiment, the mint is selected from the group consisting of peppermint and spearmint.</p>
+<p id="p-0135" num="0155">In a further embodiment, the flavor is a cooling agent or mixtures thereof.</p>
+<p id="p-0136" num="0156">In another embodiment, the flavor is a menthol flavor.</p>
+<p id="p-0137" num="0157">Flavors that are derived from or based on fruits where citric acid is the predominant, naturally-occurring acid include but are not limited to, for example, citrus fruits (e.g. lemon, lime), limonene, strawberry, orange, and pineapple. In one embodiment, the flavors food is lemon, lime or orange juice extracted directly from the fruit. Further embodiments of the flavor comprise the juice or liquid extracted from oranges, lemons, grapefruits, key limes, citrons, clementines, mandarins, tangerines, and any other citrus fruit, or variation or hybrid thereof. In a particular embodiment, the flavor comprises a liquid extracted or distilled from oranges, lemons, grapefruits, key limes, citrons, clementines, mandarins, tangerines, any other citrus fruit or variation or hybrid thereof, pomegranates, kiwifruits, watermelons, apples, bananas, blueberries, melons, ginger, bell peppers, cucumbers, passion fruits, mangos, pears, tomatoes, and strawberries.</p>
+<p id="p-0138" num="0158">In a particular embodiment, the flavor comprises a composition that comprises limonene, in a particular embodiment, the composition is a citrus that further comprises limonene.</p>
+<p id="p-0139" num="0159">In another particular embodiment, the flavor comprises a flavor selected from the group comprising strawberry, orange, lime, tropical, berry mix, and pineapple.</p>
+<p id="p-0140" num="0160">The phrase flavor includes not only flavors that impart or modify the smell of foods but include taste imparting or modifying ingredients. The latter do not necessarily have a taste or smell themselves but are capable of modifying the taste that other ingredients provides, for instance, salt enhancing ingredients, sweetness enhancing ingredients, umami enhancing ingredients, bitterness blocking ingredients and so on.</p>
+<p id="p-0141" num="0161">In a further embodiment, suitable sweetening components may be included in the particles described herein. In a particular embodiment, a sweetening component is selected from the group consisting of sugar (e.g., but not limited to sucrose), a stevia component (such as but not limited to stevioside or rebaudioside A), sodium cyclamate, aspartame, sucralose, sodium saccharine, and Acesulfam K or mixtures thereof.</p>
+<p id="p-0142" num="0162">According to an embodiment, the flavor is added in an amount greater than or equal to 13% by weight, particularly greater than 16.5% by weight.</p>
+<p id="p-0143" num="0163">According to an embodiment, the flavor is preferably added in an amount comprised between 5 and 25%, more preferably between 6 and 17% by weight.</p>
+<p id="p-0144" num="0164">When added in step a), the amount of flavor is added based on the total weight of the mixture.</p>
+<p id="p-0145" num="0165">When added in step b), the amount of flavor is added based on the total weight of the molten mass.</p>
+<p id="p-0146" num="0166">For a flavor is a solid form, the addition in step a) is more appropriate whereas for flavor in a liquid form, the addition in step b) is more appropriate.</p>
+<p id="p-0147" num="0167">According to a particular embodiment, the flavor is added in step a).</p>
+<p id="p-0148" num="0168">According to a particular embodiment, the flavor is added in step b).</p>
+<p id="p-0149" num="0169">The flavour is defined as mentioned previously for the flavour particles.</p>
+<heading level="2" id="h-0011">Step C) Pumping the Flavored Molten Mass and Pushing Said Molten Mass Through a Static Mixer</heading>
+<p id="p-0150" num="0170">In step c), the flavored molten mass is pumped and pushed through a static mixer. The pumping step can be carried out by using a gear pump, preferably a polymer gear pump, which allows to take the melt coming out of the extruder and pushing it through the static mixer. The gear pump can also avoid over pressure within the extruder.</p>
+<p id="p-0151" num="0171">Without being bound by any theory, it is believed that the static mixer finely distributes and disperses flavor droplets within the carrier material. The static mixer can also improve heat transfer with the barrel of the static mixer in order to avoid expansion of the melt whilst maintaining an optimal viscosity to promote efficient mixing.</p>
+<p id="p-0152" num="0172">However, the step d) of pumping can be carried out only thanks to the effect of the twin-screw extruder itself.</p>
+<p id="p-0153" num="0173">Without being bound by any theory, it is believed that the combination of a static mixer and a gear pump can improve the favor loading in the final particle.</p>
+<heading level="2" id="h-0012">Steps D) and E): Extruding the Melt Through a Die to Form an Extrudate and Cutting or Crushing the Extrudate</heading>
+<p id="p-0154" num="0174">In this particular embodiment, as the mixture comes to the die part of the extruder, the temperature is still above the glass transition temperature of the carrier. The extruder is equipped with a die face cutter and the mixture is thus cut at the temperature of the melt. Once cooled to ambient temperature, the already cut glassy material does not need to be shaped or dried in a spheroniser, fluid-bed dryer or other device, unlike what is the case with other processes where the molten carrier is cooled prior to the cutting. In a particular embodiment the surrounding air comprises chilled air.</p>
+<p id="p-0155" num="0175">During the extrusion process, the mixture is forced through a die having an orifice with a predetermined diameter which ranges typically from about 0.250 to 10 mm, more particularly from 0.250 to 3 mm, even more particularly from about 0.5 up to about 3.0 mm and more particularly from 0.7 to 3.0 mm. However, much larger diameters for the die are also possible.</p>
+<p id="p-0156" num="0176">In a particular embodiment, the powder may be extruded at a throughput of 10-25 kg/h through a 0.7 mm die hole using for example, but not limited to a Thermo Prism 16 mm twin-screw lab extruder or a Clextral BC21 equipped with a cutter knife in order to granulate the melt at the die exit. In another embodiment, the melt may be extruded for example as strands and allowed to cool and then cut or crushed.</p>
+<p id="p-0157" num="0177">In general, the extruder barrel consists of multiple barrel sections, which are independently temperature controlled. In one embodiment, the extruder comprises 2 to 9 heating and cooling zones with temperatures ranging from 20 to about 120&#xb0; C.</p>
+<p id="p-0158" num="0178">The twin screws consist of a number of screw elements which slide onto a spline or shaft. The order and selection of screw elements is commonly referred to as the screw configuration and is an important consideration in achieving high flavor loads. The optimized screw configuration is described below and is ordered from the powder feed end, which is closest to the mechanical drive and continues to the die end, which is the product outlet.</p>
+<p id="p-0159" num="0179">Typically:</p>
+<p id="p-0160" num="0180">(i) the Feed Zone is located closest to powder feed end and includes the barrel with the powder feed port. It is typically composed of conveying screw elements, which are used to transfer powder into the extruder while allowing air to escape countercurrently through the powder feed port. The conveying elements may have constant or decreasing pitch. The temperatures of the barrels in this zone are typically controlled at 20&#xb0; C. to 40&#xb0; C. Liquids may be injected continuously into this zone.</p>
+<p id="p-0161" num="0181">(ii) the Melt Zone is downstream of the Feed Zone. It consists typically primarily of kneading blocks and conveying elements which are used to transfer mechanical energy into the product and melt the powder. Kneading blocks are selected to provide sufficient energy to melt the powder without overheating the product. The temperatures of the barrels in this zone are typically controlled at 60&#xb0; C. to 120&#xb0; C. Liquids are not typically injected in this zone.</p>
+<p id="p-0162" num="0182">(iii) the Mixing Zone is downstream of the Melt Zone. It consists of kneading blocks and mixing elements to disperse flavors and liquids into the melt, while minimizing heat generation. The temperatures of the barrels in this zone are typically controlled at 60&#xb0; C. to 120&#xb0; C. Liquids may be injected continuously into this zone.</p>
+<p id="p-0163" num="0183">(iv) the Pumping Zone is downstream of the Mixing Zone. It consists of mixing elements and conveying elements, which are used to generate sufficient pressure to force the melt through the die. The conveying elements may be of constant or decreasing pitch. The temperatures of the barrels in this zone are typically controlled at 60&#xb0; C. to 120&#xb0; C. Liquids are not typically injected in this zone. According to an embodiment, a gear pump is used in the pumping zone.</p>
+<p id="p-0164" num="0184">(v) the Static mixer Zone is downstream of the pumping zone. It is adjacent to the die. It consists of several precision engineering device in series for the continuous mixing of fluid materials without moving part. Type of static mixers, diameter and number of elements are properly sized to allow a fine dispersion of oil droplets within the melt whilst minimizing the pressure drop. It is fitted in a jacketed housing allowing temperature controlled at 60 to 120&#xb0; C.</p>
+<p id="p-0165" num="0185">The rotation speed of the twin screws is optimized to provide sufficient mixing to disperse the flavor in the melt without overheating the product, which can cause the flavor and/or water to vaporize when the melt exits the extruder die. Specific mechanical energy is monitored and process parameters are adjusted to control the energy input.</p>
+<p id="p-0166" num="0186">The method of the present invention therefore requires an extruding apparatus (for example Clextral BC 21 twin-screw extruder) in which a static mixer and optionally a gear pump, preferably a polymeric gear pump has been added.</p>
+<p id="p-0167" num="0187">According to an embodiment, the ratio L<sub>E</sub>/D<sub>E</sub> of the extruder is comprised between 20 and 48, preferably between 24 and 36.</p>
+<p id="p-0168" num="0188">According to an embodiment, the ratio Ls/Ds of the static mixer is comprised between 6 and 24, preferably between 8 and 16.</p>
+<p id="p-0169" num="0189">L<sub>E</sub>/D<sub>E</sub> and Ls/Ds ratios are well-known from the person skilled in the art.</p>
+<p id="p-0170" num="0190">The L<sub>E</sub>/D<sub>E</sub> ratio of the extruder can be defined as the ratio of the length of the screw to its outside diameter.</p>
+<p id="p-0171" num="0191">The Ls/Ds ratio of the static mixer can be defined as the ratio of the length of the static mixer to its outside diameter.</p>
+<p id="p-0172" num="0192">According to an embodiment, a gear pump is inserted between the last barrel of the extruder and the static mixer in order to decouple the twin screw functions and the static mixer functions.</p>
+<p id="p-0173" num="0193">According to an embodiment, the static mixer is inserted between the last barrel of the extruder and the die plate and die assembly.</p>
+<p id="p-0174" num="0194">As non-limiting example of static mixer, one may cite for example KM Thermogenizer mixers, Primix mixer, Sulzer SMX or SMXS type.</p>
+<p id="p-0175" num="0195">As non-limiting example of gear pump, one may cite for example, Maag Entrex&#xae;, Cinox&#xae; or Therminox&#xae; pumps, Coreau Corextrude&#xae;, Eprotec melt-X.</p>
+<heading level="1" id="h-0013">Flavored Consumer Product</heading>
+<p id="p-0176" num="0196">Moreover, the present invention relates to a flavored consumer product comprising the flavor particle as described herein-above and, optionally, a flavor base consumer product.</p>
+<p id="p-0177" num="0197">The flavored consumer product may be a beverage or food product.</p>
+<p id="p-0178" num="0198">In a particular embodiment, the flavored consumer product may be suitable for conveying flavors to beverages, fluid dairy products, condiments, baked goods, frostings, bakery fillings, candy, chewing gum and other food products.</p>
+<p id="p-0179" num="0199">In a particular embodiment, the flavored consumer product is selected from the group consisting of: protein powders, protein drinks, protein bars, meat analogues, seafood analogues and savory goods. Meat analogues can include pork analogues, venison analogues, beef analogues, veal analogues, rabbit analogues, sausage analogues, deli meat analogues, ham analogues, salami analogues, pepperoni analogues, chicken analogues, turkey analogues, goose analogues, pheasant analogues, pigeon analogues, whale analogues, lamb analogues, goat analogues, donkey analogues, and squirrel analogues. Seafood analogues can include fish analogues, scallop analogues, shrimp analogues, crabmeat analogues, shellfish analogues, clam analogues, squid analogues, conch analogues, and sea pineapple analogues.</p>
+<p id="p-0180" num="0200">When the food product is a particulate or powdery food, the dry particles may easily be added thereto by dry-mixing. Typical food products are selected from the group consisting of an instant soup or sauce, a breakfast cereal, a powdered milk, a baby food, a powdered drink, a powdered chocolate drink, a spread, a powdered cereal drink, a chewing gum, an effervescent tablet, a cereal bar, and a chocolate bar. The powdered foods or drinks may be intended to be consumed after reconstitution of the product with water, milk and/or a juice, or another aqueous liquid.</p>
+<p id="p-0181" num="0201">Beverages include, without limitation, carbonated soft drinks, including cola, lemon-lime, root beer, heavy citrus (&#x201c;dew type&#x201d;), fruit flavored and cream sodas; powdered soft drinks, as well as liquid concentrates such as fountain syrups and cordials; coffee and coffee- based drinks, coffee substitutes and cereal-based beverages; teas, including dry mix products as well as ready-to-drink teas (herbal and tealeaf based); fruit and vegetable juices and juice flavored beverages as well as juice drinks, nectars, concentrates, punches and &#x201c;ades&#x201d;; sweetened and flavored waters, both carbonated and still; sport/energy/health drinks; alcoholic beverages plus alcohol-free and other low-alcohol products including beer and malt beverages, cider, and wines (still, sparkling, fortified wines and wine coolers); other beverages processed with heating (infusions, pasteurization, ultra-high temperature, ohmic heating or commercial aseptic sterilization) and hot-filled packaging; and cold-filled products made through filtration or other preservation techniques.</p>
+<p id="p-0182" num="0202">Fluid dairy products include, without limitation, non-frozen, partially frozen and frozen fluid dairy products such as, for example, milks, ice creams, sorbets and yogurts. Condiments include, without limitation, ketchup, mayonnaise, salad dressing, Worcestershire sauce, fruit-flavored sauce, chocolate sauce, tomato sauce, chili sauce, and mustard.</p>
+<p id="p-0183" num="0203">Baked goods include, without limitation, cakes, cookies, pastries, breads, donuts and the like.</p>
+<p id="p-0184" num="0204">Bakery fillings include, without limitation, low or neutral pH fillings, high, medium or low solids fillings, fruit or milk based (pudding type or mousse type) fillings, hot or cold make-up fillings and non-fat to full-fat fillings.</p>
+<p id="p-0185" num="0205">Suitable flavor base consumer products may be any foodstuff base, e.g. foods or beverages. Suitable foodstuff bases, e.g. foods or beverages, can be fried or not, as well as frozen or not, low fat or not, marinated, battered, chilled, dehydrated, instant, canned, reconstituted, retorted or preserved. Typical examples of said foodstuff bases include:
+<ul id="ul0010" list-style="none">
+<li id="ul0010-0001" num="0206">a seasonings or condiment, such as a stock, a savory cube, a powder mix, a flavored oil, a sauce (e.g. a relish, barbecue sauce, a dressing, a gravy or a sweet and/or sour sauce), a salad dressing or a mayonnaise;</li>
+<li id="ul0010-0002" num="0207">a meat-based product, such as a poultry, beef or pork-based product, a seafood, surimi, or a fish sausage;</li>
+<li id="ul0010-0003" num="0208">a soup, such as a clear soup, a cream soup, a chicken or beef soup or a tomato or asparagus soup;</li>
+<li id="ul0010-0004" num="0209">a carbohydrate-based product, such as instant noodles, rice, pasta, potatoes flakes or fried, noodles, pizza, tortillas, wraps;</li>
+<li id="ul0010-0005" num="0210">a dairy or fat product, such as a spread, a cheese, or regular or low fat margarine, a butter/margarine blend, a butter, a peanut butter, a shortening, a processed or flavored cheese;</li>
+<li id="ul0010-0006" num="0211">a savory product, such as a snack, a biscuit (e.g. chips or crisps) or an egg product, a potato/tortilla chip, a microwave popcorn, nuts, a bretzel, a rice cake, a rice cracker, etc;</li>
+<li id="ul0010-0007" num="0212">an imitation product, such as a dairy (e.g a reformed cheese made from oils, fats and thickeners) or seafood or meat (e.g. a vegetarian meat replacer, veggie burgers) analogue; or&#x201d; a pet or animal food.</li>
+</ul>
+</p>
+<heading level="1" id="h-0014">EXAMPLES</heading>
+<p id="p-0186" num="0213">The invention will now be described in further detail by way of the following examples.</p>
+<heading level="1" id="h-0015">Example 1: Flavor Particles According to the Invention</heading>
+<p id="p-0187" num="0214">A BC-21 co-rotating twin screw extruder (Clextral, Firminy France, L<sub>E</sub>/D<sub>E</sub> =32) equipped with a gear pump and a static mixer having a Ls/Ds ratio of 12 was used to encapsulate citrus flavor into a solid particulate form.</p>
+<p id="p-0188" num="0215">The static mixer is inserted between the last barrel of the extruder and the die plate and the gear pump is inserted between the last barrel of the extruder and the static mixer.</p>
+<p id="p-0189" num="0216">A blend was prepared by mixing the following ingredients:</p>
+<p id="p-0190" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table colsep="0" frame="topbot">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="230pt"/>
+<colspec colname="col2" colsep="0" colwidth="115pt" align="center"/>
+<thead>
+<row rowsep="1" valign="bottom">
+<entry align="left" colname="col1" valign="bottom">Ingredients</entry>
+<entry colname="col2" valign="bottom">Weight (%)</entry>
+</row>
+</thead>
+<tbody>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Modified starch <sup>1)</sup>
+</entry>
+<entry colname="col2" valign="top">25.9%</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Maltodextrin 18DE <sup>2)</sup>
+</entry>
+<entry colname="col2" valign="top">48.1%</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Diacetyltartaric and fatty acid esters of glycerol <sup>3)</sup>
+</entry>
+<entry colname="col2" valign="top">1.5%</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Citrus flavor</entry>
+<entry colname="col2" valign="top">16.5%</entry>
+</row>
+<row rowsep="1" valign="top">
+<entry align="left" colname="col1" valign="top">Water</entry>
+<entry colname="col2" valign="top">8%</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0191" num="0000">
+
+<ul id="ul0011" list-style="none">
+
+<li id="ul0011-0001" num="0217">1) Capsul&#xae; (Ingredion)</li>
+
+<li id="ul0011-0002" num="0218">2) Glucidex&#xae; (Roquettes Fr&#xe8;res)</li>
+
+<li id="ul0011-0003" num="0219">3) DATEM</li>
+
+</ul>
+
+</p>
+<p id="p-0192" num="0220">The extruder consists of 9 barrels with independent temperature control. The blend was fed into the extruder at a flow rate of 15 kg/hr. Barrel temperatures from feeder to die end ranged from 20 to 120&#xb0; C. Screw speed was kept as 600 rpm. The melt was extruded through a die plate with 2.0 mm equivalent diameter holes. Die temperature was set at 95&#xb0; C. After establishing steady-state extrusion conditions, the strands exiting the die were cut by means of rotating cutting blades/knives. Uniform extruded particles showed glass transition of 42.5&#xb0; C. characterized by differential scanning calorimetry (DSC, Mettler Toledo). An oil content of 14.0% by weight was obtained in extruded particles with oil retention of 84%. Oil retention is express as the ratio of retained oil content to theoretical oil content.</p>
+<heading level="1" id="h-0016">Comparative Example 2: Flavor Particles</heading>
+<p id="p-0193" num="0221">Flavor particles were prepared according to the same process as defined in example 1 except that a static mixer and a gear pump were not used.</p>
+<p id="p-0194" num="0222">The obtained particles show an oil loading of only 8.8%.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20230225381A1-20230720-M00001.NB">
+<img id="EMI-M00001" he="2.88mm" wi="17.86mm" file="US20230225381A1-20230720-M00001.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US20230225381A1-20230720-M00002.NB">
+<img id="EMI-M00002" he="2.88mm" wi="17.86mm" file="US20230225381A1-20230720-M00002.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A particle comprising:
+<claim-text>a flavor, and</claim-text>
+<claim-text>a carrier material characterized in that:
+<claim-text>the carrier material comprises at least one modified starch and at least one hydrolyzed starch,</claim-text>
+<claim-text>the hydrolyzed starch has a DE greater than 6DE, and</claim-text>
+<claim-text>the particle comprises greater than or equals to 13% by weight of flavor based on the total weight of the particle.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The particle of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carrier material does not comprise a yeast.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The particle of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the hydrolyzed starch is chosen from the group consisting of maltodextrins, dextrins, corn syrup and mixtures thereof.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The particle of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carrier material is a mixture of modified starch and at least one maltodextrin, wherein the maltodextrin has a DE comprised between 10 and 20DE.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The particle of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carrier material is a mixture of modified starch and at least one maltodextrin, wherein the maltodextrin has a DE comprised between 17 and 20DE.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The particle of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the modified starch is used in an amount comprised between 30 and 40% and wherein the hydrolyzed starch is used in an amount comprised between 60 and 70% by weight based on the total weight of the carrier material.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The particle of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carrier material does not comprise a maltodextrin having a DE less than or equals to 6DE.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The particle of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the particle comprises greater than 15% by weight of flavor.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The particle of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carrier material comprises a further carbohydrate chosen from the group consisting of sucrose, glucose, lactose, maltose, fructose, ribose, dextrose, isomalt, sorbitol, glucose syrup, mannitol, xylitol, lactitol, maltitol, pentatol, arabinose, pentose, xylose, galactose, Trehalose, and mixtures thereof.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The particle of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carrier material comprises:
+<claim-text>between 30 and 40% of modified starch, and</claim-text>
+<claim-text>between 60 and 70% of a maltodextrin having a DE between 17 and 20DE.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. A process for preparing an extruded particle, the process comprising:
+<claim-text>a) mixing at least a carrier material and a plasticizer to form a mixture;</claim-text>
+<claim-text>b) heating the mixture at a temperature sufficient to form a molten mass;</claim-text>
+<claim-text>c) pumping the molten mass and pushing said molten mass through a static mixer;</claim-text>
+<claim-text>d) extruding the melt through a die to form an extrudate;</claim-text>
+<claim-text>e) cutting or crushing the extrudate to form an extruded particle, wherein a flavor is added to the mixture in step a) and/or in the molten mass in step b).</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The process according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the pumping step in step c) is carried out with a gear pump.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The process according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the flavor is added in an amount greater than or equal to 13% by weight.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The process according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the flavor is added in an amount comprised between 15 and 25% by weight.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. A flavored consumer product comprising the flavor particle as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> and, optionally, a flavor base consumer product.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The particle of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the carrier material does not comprise a maltodextrin having a DE less than or equals to 6DE.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The particle of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the particle comprises greater than 15% by weight of flavor.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The particle of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the carrier material comprises a further carbohydrate chosen from the group consisting of sucrose, glucose, lactose, maltose, fructose, ribose, dextrose, isomalt, sorbitol, glucose syrup, mannitol, xylitol, lactitol, maltitol, pentatol, arabinose, pentose, xylose, galactose, Trehalose, and mixtures thereof.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. A flavored consumer product comprising the flavor particle as claimed in <claim-ref idref="CLM-00010">claim 10</claim-ref> and, optionally, a flavor base consumer product.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The process according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the plasticizer is water.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

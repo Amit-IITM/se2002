@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225241A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225241</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18011259</doc-number>
+<date>20210623</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>34</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>05</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>T</subclass>
+<main-group>7</main-group>
+<subgroup>215</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>T</subclass>
+<main-group>7</main-group>
+<subgroup>246</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>34</main-group>
+<subgroup>008</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>05</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>0253</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20170101</date></cpc-version-indicator>
+<section>G</section>
+<class>06</class>
+<subclass>T</subclass>
+<main-group>7</main-group>
+<subgroup>215</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20170101</date></cpc-version-indicator>
+<section>G</section>
+<class>06</class>
+<subclass>T</subclass>
+<main-group>7</main-group>
+<subgroup>246</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>2101</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">AUTONOMOUS MACHINE HAVING VISION SYSTEM FOR NAVIGATION AND METHOD OF USING SAME</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63047423</doc-number>
+<date>20200702</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>FRICK</last-name>
+<first-name>Alexander Steven</first-name>
+<address>
+<city>Bloomington</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="01" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>RAMSAY</last-name>
+<first-name>Michael Jason</first-name>
+<address>
+<city>Pittsburgh</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="02" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>LAROSE</last-name>
+<first-name>David Arthur</first-name>
+<address>
+<city>Pittsburgh</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="03" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>LANDERS</last-name>
+<first-name>Stephen Paul Elizondo</first-name>
+<address>
+<city>Pittsburgh</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="04" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>PARKER</last-name>
+<first-name>Zachary Irvin</first-name>
+<address>
+<city>Pittsburgh</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="05" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>ROBINSON</last-name>
+<first-name>David Ian</first-name>
+<address>
+<city>Pittsburgh</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="06" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>OSTERWOOD</last-name>
+<first-name>Christopher Charles</first-name>
+<address>
+<city>Exeter</city>
+<state>NH</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="07" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>THE TORO COMPANY</orgname>
+<address>
+<city>Bloomington</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Frick</last-name>
+<first-name>Alexander Steven</first-name>
+<address>
+<city>Farmington</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Ramsay</last-name>
+<first-name>Michael Jason</first-name>
+<address>
+<city>Verona</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>LaRose</last-name>
+<first-name>David Arthur</first-name>
+<address>
+<city>Pittsburgh</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Landers</last-name>
+<first-name>Stephen Paul Elizondo</first-name>
+<address>
+<city>Pittsburgh</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>Parker</last-name>
+<first-name>Zachary Irvin</first-name>
+<address>
+<city>Pittsburgh</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>Robinson</last-name>
+<first-name>David Ian</first-name>
+<address>
+<city>Napier</city>
+<country>NZ</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="06" designation="us-only">
+<addressbook>
+<last-name>Osterwood</last-name>
+<first-name>Christopher Charles</first-name>
+<address>
+<city>Exeter</city>
+<state>NH</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/US2021/038663</doc-number>
+<date>20210623</date>
+</document-id>
+<us-371c12-date><date>20221219</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Vision systems for autonomous machines and methods of using same during machine localization are provided. Exemplary systems and methods may reduce computing resources needed to perform vision-based localization by selecting the most appropriate camera from two or more cameras, and optionally selecting only a portion of the selected camera's field of view, from which to perform vision-based location correction. Other embodiments may provide camera lens coverings that maintain optical clarity while operating within debris-filled environments.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="120.99mm" wi="158.75mm" file="US20230225241A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="186.77mm" wi="155.87mm" orientation="landscape" file="US20230225241A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="194.14mm" wi="160.19mm" orientation="landscape" file="US20230225241A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="193.89mm" wi="143.17mm" orientation="landscape" file="US20230225241A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="191.94mm" wi="152.23mm" orientation="landscape" file="US20230225241A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="144.27mm" wi="158.07mm" file="US20230225241A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="184.66mm" wi="118.96mm" orientation="landscape" file="US20230225241A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="132.84mm" wi="96.60mm" file="US20230225241A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="199.31mm" wi="132.93mm" orientation="landscape" file="US20230225241A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="182.03mm" wi="143.26mm" file="US20230225241A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="187.45mm" wi="159.68mm" file="US20230225241A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="177.63mm" wi="145.03mm" file="US20230225241A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="181.02mm" wi="159.68mm" file="US20230225241A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="192.87mm" wi="161.12mm" orientation="landscape" file="US20230225241A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="212.01mm" wi="137.92mm" orientation="landscape" file="US20230225241A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<p id="p-0002" num="0001">The present application claims priority to and/or the benefit of U.S. Provisional Patent Application No. 63/047,423, filed 2 Jul. 2020, which is incorporated herein by reference in its entirety.</p>
+<p id="p-0003" num="0002">Embodiments of the present disclosure relate to autonomous machine navigation and, more particularly, to vision-based or vision-assisted autonomous machine navigation.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">Ground maintenance vehicles such as turf maintenance machines are known for performing a variety of tasks. For instance, powered lawn mowers are used by both homeowners and professionals alike to maintain areas within a property or yard. Lawn mowers that autonomously perform a grass cutting function are also known and typically operate within a work region contained within a predefined boundary of the yard. Such mowers may rely upon navigation systems that assist in autonomously confining the mower within the predefined boundary. For example, boundaries may be defined by buried wires detectable by the mower. In such instances, the mower may be configured to move randomly within the confines of the wired boundary, wherein the mower's trajectory is redirected upon each encounter with the wire.</p>
+<p id="p-0005" num="0004">Other mowers may include navigation systems that utilize one or more non-vision-based sensors and one or more vision-based sensors to navigate the work region. Examples of such vision-based or vision-assisted systems are described in U.S. Pat. Pub. No. 2020/0050208.</p>
+<heading id="h-0002" level="1">SUMMARY</heading>
+<p id="p-0006" num="0005">Systems and methods in accordance with embodiments of the present disclosure may reduce utilization of vision-related computing resources and, moreover, provide the autonomous machine with greater flexibility in using the vision system for various tasks. Below is provided a non-exhaustive listing of non-limiting examples or aspects of the present disclosure. Any one or more of the features identified in these aspects may be combined with any one or more features of another aspect also described herein.</p>
+<p id="p-0007" num="0006">A first aspect of the present disclosure includes a method for autonomous machine navigation that includes placing a ground maintenance machine within a work region defined by one or more boundaries. The machine includes: two or more vision sensors, wherein each vision sensor is adapted to capture image data within a field of view (FOV) defined by the vision sensor, and wherein each vision sensor defines a different FOV relative to the machine; and a controller in communication with each of the vision sensors. The method further includes: designating at least one of the vision sensors as a localization vision sensor; and determining with the controller a vision-based pose of the machine, the pose representing one or both of a position and an orientation of the machine relative to the work region. Determining the pose of the machine is based upon matching features in the image data received from the localization vision sensor to features associated with a previously-identified three-dimensional point cloud (3DPC) used to define the work region.</p>
+<p id="p-0008" num="0007">In another aspect according to the first aspect, designating the localization vision sensor includes: analyzing the image data from each of the vision sensors; identifying a first vision sensor from among the two or more vision sensors, wherein the FOV of the first vision sensor contains a greater number of feature matches with features of the 3DPC than the FOV of any of the other vision sensors; and selecting the first vision sensor as the localization vision sensor. In another aspect according to any preceding aspect, designating the localization vision sensor comprises selecting which of the vision sensors has the FOV that is predicted by the controller to contain either: a greater number of features of the 3DPC; or a feature or cluster of features having a recognition score greater than a recognition score of the features or cluster of features predicted to be withing the FOV of any of the other vision sensors. In still another aspect according to any preceding aspect, designating the localization vision sensor comprises: dividing the FOV of each vision sensor into a first zone and a second zone; predicting based upon the pose of the machine as estimated by the controller, either a number of features, or a recognition score of features, of the 3DPC contained within the first zone of the FOV of each of the vision sensors; and designating the localization vision sensor to be the vision sensor having the first zone predicted by the controller to contain either: the greatest number of features of the 3DPC; or the greatest recognition score of features of the 3DPC. In yet another aspect according to any preceding aspect, matching features in the image data comprises: dividing the FOV of one or more of the vision sensors into a first zone and a second zone; and matching features in the image data to features associated with the 3DPC using only the image data from the first zone. In still another aspect according to any preceding aspect, dividing the FOV comprises dividing the FOV such that the first zone is located vertically above the second zone. In yet another aspect according to any preceding aspect, the method further includes: collecting visual odometry data from one or more of the vision sensors; and correcting the pose of the machine based upon the visual odometry data. In still yet another aspect according to any preceding aspect, the two or more vision sensors comprise four vision sensors. In another aspect according to any preceding aspect, the two or more vision sensors comprise a front-facing camera, a rear-facing camera, a left-facing camera, and a right-facing camera. In yet another aspect according to any preceding aspect, at least one of the vision sensors includes a lens covering, the lens covering comprising one or more of a hydrophilic lens covering, a hydrophobic lens covering, an anti-reflective lens covering, an anti-glare lens covering, a polarizing filter, and one or more removable layers.</p>
+<p id="p-0009" num="0008">In another independent aspect of the present disclosure, an autonomous ground maintenance machine is provided having: a housing supporting a ground maintenance implement; drive wheels supporting the housing in rolling engagement with a ground surface of a work region; a propulsion system coupled to the drive wheels and adapted to control rotational speed and direction of the drive wheels; a vision system comprising at least two cameras, wherein each camera captures image data within a field of view (FOV) different than the FOV of the other camera(s), and wherein one of the cameras is designated as a localization camera; and a controller operatively coupled to the vision system. The controller is adapted to determine a vision-based pose of the machine, the pose representing one or both of a position and an orientation of the machine relative to the work region. The determination of the pose is based upon matching features in the image data from the localization camera to features associated with a previously-identified three-dimensional point cloud (3DPC) used to define the work region.</p>
+<p id="p-0010" num="0009">In another aspect according to any preceding aspect, one or more of the cameras is designated as a visual odometry camera adapted to provide visual odometry data to the controller. In still another aspect according to any preceding aspect. the visual odometry camera has a FOV directed transverse to a direction of travel of the machine. In yet another aspect according to any preceding aspect, the localization camera and the visual odometry camera are the same camera or, alternatively, the localization camera and the visual odometry camera are different cameras. In still another aspect according to any preceding aspect, the controller is adapted to: determine whether the drive wheels have slipped relative to the ground surface based upon the visual odometry data; and update the vision-based pose of the machine in response to determining that the drive wheels have slipped. In yet another aspect according to any preceding aspect, the FOV of each camera is divided into a first zone and a second zone. In another aspect according to any preceding aspect, image data of the first zone of the FOV of each camera is provided to the controller for matching features with the 3DPC, and the image data of the second zone of the FOV of each camera is adapted to provide the visual odometry data to the controller. In yet another aspect according to any preceding aspect, the FOV of each camera extends 30-60 degrees above a horizontal plane. In still yet another aspect according to any preceding aspect, one or more of the cameras comprises a lens covering, the lens covering comprising one or more of hydrophilic lens covering, a hydrophobic lens covering, an anti-reflective lens covering, an anti-glare lens covering, a polarizing filter, and one or more removable layers.</p>
+<p id="p-0011" num="0010">The above summary is not intended to describe each embodiment or every implementation. Rather, a more complete understanding of illustrative embodiments will become apparent and appreciated by reference to the following Detailed Description of Exemplary Embodiments and claims in view of the accompanying figures of the drawing.</p>
+<p id="p-0012" num="0011">BRIEF DESCRIPTION OF THE VIEWS OF THE DRAWING</p>
+<p id="p-0013" num="0012">Exemplary embodiments will be further described with reference to the figures of the drawing, wherein:</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a diagrammatic side elevation view of an autonomous working machine (e.g., ground maintenance machine such as an autonomous lawn mower) in accordance with embodiments of the present disclosure;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a diagrammatic top plan view of the machine of <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a left front perspective view of an autonomous lawn mower in accordance with embodiments of the present disclosure;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a right rear perspective view of the mower of <figref idref="DRAWINGS">FIG. <b>3</b></figref>;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is an exemplary diagrammatic illustration of using training images to generate a three-dimensional point cloud (3DPC);</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a side elevation view of the mower of <figref idref="DRAWINGS">FIG. <b>3</b></figref> illustrating an exemplary vertical field of view of a forward-facing camera of a vision system of the machine;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a diagrammatic representation of the vertical field of view of <figref idref="DRAWINGS">FIG. <b>6</b></figref> illustrating a first zone and second zone;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a rear elevation view of the mower of <figref idref="DRAWINGS">FIG. <b>3</b></figref> illustrating an exemplary vertical field of view of a side-facing camera;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a two dimensional diagrammatic overhead or plan view of a 3DPC for one exemplary position of an autonomous working machine (e.g., mower) within a work region;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a plan view of the mower when in the position within the work region corresponding to <figref idref="DRAWINGS">FIG. <b>9</b></figref>;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>11</b></figref> illustrates an exemplary recognition score or &#x201c;heat&#x201d; map of features within the 3DPC;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a diagrammatic representation of feature mapping between a vision system and the 3DPC for the mower position shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a partial perspective view of a mower illustrating a single vision-based sensor (e.g., camera);</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is an isolated, exploded view of the vision sensor of <figref idref="DRAWINGS">FIG. <b>13</b></figref>; and</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is an isolated view of a peelable lens (e.g., removable layer) covering in accordance with embodiments of the present disclosure.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0029" num="0028">The figures are rendered primarily for clarity and, as a result, are not necessarily drawn to scale. Moreover, various structure/components, including but not limited to fasteners, electrical components (wiring, cables, etc.), and the like, may be shown diagrammatically or removed from some or all of the views to better illustrate aspects of the depicted embodiments, or where inclusion of such structure/components is not necessary to an understanding of the various exemplary embodiments described herein. The lack of illustration/description of such structure/components in a particular figure is, however, not to be interpreted as limiting the scope of the various embodiments in any way.</p>
+<heading id="h-0003" level="1">DETAILED DESCRIPTION OF EXEMPLARY EMBODIMENTS</heading>
+<p id="p-0030" num="0029">In the following detailed description of illustrative embodiments, reference is made to the accompanying figures of the drawing which form a part hereof. It is to be understood that other embodiments, which may not be described and/or illustrated herein, are certainly contemplated.</p>
+<p id="p-0031" num="0030">All headings provided herein are for the convenience of the reader and should not be used to limit the meaning of any text that follows the heading, unless so specified. Moreover, unless otherwise indicated, all numbers expressing quantities, and all terms expressing direction/orientation (e.g., vertical, horizontal, parallel, perpendicular, etc.) in the specification and claims are to be understood as being modified in all instances by the term &#x201c;about.&#x201d; The term &#x201c;and/or&#x201d; (if used) means one or all of the listed elements or a combination of any two or more of the listed elements. The term &#x201c;i.e.&#x201d; is used as an abbreviation for the Latin phrase id est and means &#x201c;that is.&#x201d; The term &#x201c;e.g.&#x201d; is used as an abbreviation for the Latin phrase exempli gratia and means &#x201c;for example.&#x201d;</p>
+<p id="p-0032" num="0031">Some aspects described herein relate to defining a boundary of a work region using a vision system and a non-vision-based sensor, and/or to correcting or updating an estimated position of a machine within the work region using the vision system. The vision system may utilize one or more vision-based sensors each including a camera. Images may be initially recorded by directing the autonomous machine along a desired boundary path (e.g., during a training mode). Algorithms may be used to extract features, to match features between different images, and to generate a three-dimensional point cloud (3DPC, or 3D point cloud) corresponding to at least the work region (e.g., during an offline mode). Positions and orientations of the autonomous machine during image recording may be determined for various points in the 3DPC, for example, based on the positions of various points in the 3DPC and positions of the corresponding features in the recorded images. Positions and orientations may also be recovered directly during generation of the 3DPC. At least the position information may be used to determine a boundary for the work region for subsequent navigation of the autonomous machine in the work region. During operation (e.g., during an online mode), the vision system may record operational images and determine a vision-based position and orientation of the autonomous machine. The vision-based position may be used to update, or correct errors in, a determined or estimated position based on non-vision-based sensors (e.g., odometry sensors). Various aspects described herein relate to reducing computing resources needed (e.g., for image processing) to provide the desired vision system functionality, and to increase flexibility in camera utilization (e.g., simultaneously permit one or more cameras to be used for localization, one or more cameras to be used for object classification, one or more cameras to be used for visual odometry, etc.).</p>
+<p id="p-0033" num="0032">As used herein, &#x201c;property&#x201d; is defined as a geographic region (such as a yard) circumscribed by a fixed boundary within which the machine (e.g., mower) may perform work (e.g., mow grass). &#x201c;Work region&#x201d; (see work region <b>181</b> bounded by boundary <b>183</b> in <figref idref="DRAWINGS">FIG. <b>2</b></figref>) is used herein to refer to those areas contained (or mostly contained) within the boundary of the property within which the machine will perform work. For example, work regions could be defined by grass surfaces of the property or yard upon which an autonomous lawn mower will perform its maintenance functions (e.g., cut grass). A property may contain one or more work regions including, for example, a front-yard area and a back-yard area, or two yard areas separated by a sidewalk or driveway. &#x201c;Exclusion zone&#x201d; is defined herein as an area contained within the property in which the machine is not intended to perform its normal maintenance task (e.g., not intended to mow grass). Examples of exclusion zones include landscaped or garden areas, pools, buildings, driveways, and other yard features. &#x201c;Transit zones&#x201d; may be used herein to refer to paths through exclusion zones that the machine may take when travelling between different work regions of the property. Typically, the machine will not perform a maintenance task (mowing) when moving through a transit zone.</p>
+<p id="p-0034" num="0033">As used herein, the term &#x201c;three-dimensional point cloud,&#x201d; &#x201c;3D point cloud,&#x201d; or &#x201c;3DPC&#x201d; is a data structure that represents or contains three-dimensional geometric points which correspond to features extracted from images. The 3DPC may be associated with various mower properties, such as poses. In some embodiments, the geometric points and poses may or may not be defined in a coordinate system based on an arbitrary frame of reference. In some embodiments, the 3DPC may or may not be associated with a scale, orientation, or both that is tied to the real-world, for example, until a map registration process has been performed. The 3DPC may be generated based on feature data. A graph, or visual map, may be generated based on the 3DPC to provide a human-viewable representation of the 3DPC.</p>
+<p id="p-0035" num="0034">The term &#x201c;feature&#x201d; may be used herein to refer to two-dimensional (2D) data that results from identifying one or more points, in particular key points or points of interest, in a two-dimensional image. Features may be identified in and extracted from an image using a feature detector algorithm. Any suitable feature detector algorithm available to one having ordinary skill in the art may be used depending on the particular autonomous machine and application. In some embodiments, each unique feature refers to only one point, or point of interest, in an image or 3DPC. The feature may be stored as feature data containing coordinates defined relative to the image frame. In some embodiments, feature data may also include a descriptor applied to, associated with, or corresponding to the feature. The term &#x201c;feature data&#x201d; refers to a data structure that represents features and may include a two-dimensional position and a multi-dimensional descriptor (e.g., two-dimensional or three-dimensional).</p>
+<p id="p-0036" num="0035">The terms &#x201c;determine&#x201d; and &#x201c;estimate&#x201d; may be used interchangeably herein depending on the particular context of their use, for example, to determine or estimate a position or pose of the mower <b>100</b> or a feature. The term &#x201c;pose&#x201d; is used herein to refer to a position and orientation of an object (e.g., the mower <b>100</b>). The pose may be a six-degrees of freedom pose (6DOF pose), which may include all position and orientation parameters for a three-dimensional space. Pose data may include a three-dimensional position and a three-dimensional orientation. For example, the position may include at least one position parameter selected from: an x-axis, a y-axis, and a z-axis coordinate (e.g., using a Cartesian coordinate system). Any suitable angular orientation representations may be used. Non-limiting examples of angular orientation representations include a yaw, pitch, and roll representation, a Rodrigues' representation, a quaternions representation, and a direction cosine matrix (DCM) representation may also be used alone or in combination. In one example, the orientation may include at least one orientation parameter selected from yaw (e.g., rotation about a vertical z-axis), pitch (e.g., rotation about a transverse y-axis), and roll (e.g., rotation about a longitudinal x-axis).</p>
+<p id="p-0037" num="0036">It is noted that the terms &#x201c;have,&#x201d; &#x201c;include,&#x201d; &#x201c;comprise,&#x201d; and variations thereof, do not have a limiting meaning, and are used in their open-ended sense to generally mean &#x201c;including, but not limited to,&#x201d; where the terms appear in the accompanying description and claims. Further, &#x201c;a,&#x201d; &#x201c;an,&#x201d; &#x201c;the,&#x201d; &#x201c;at least one,&#x201d; and &#x201c;one or more&#x201d; are used interchangeably herein. Moreover, relative terms such as &#x201c;left,&#x201d; &#x201c;right,&#x201d; &#x201c;front,&#x201d; &#x201c;fore,&#x201d; &#x201c;forward,&#x201d; &#x201c;rear,&#x201d; &#x201c;aft,&#x201d; &#x201c;rearward,&#x201d; &#x201c;top,&#x201d; &#x201c;bottom,&#x201d; &#x201c;side,&#x201d; &#x201c;upper,&#x201d; &#x201c;lower,&#x201d; &#x201c;above,&#x201d; &#x201c;below,&#x201d; &#x201c;horizontal,&#x201d; &#x201c;vertical,&#x201d; and the like may be used herein and, if so, are from the perspective shown in the particular figure, or while the machine <b>100</b> is in an operating configuration (e.g., while the machine <b>100</b> is positioned such that wheels <b>106</b> and <b>108</b> rest upon a generally horizontal ground surface <b>103</b> as shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>). These terms are used only to simplify the description, however, and not to limit the interpretation of any embodiment described.</p>
+<p id="p-0038" num="0037">While illustratively described herein as an autonomous mower, such a configuration is exemplary only as systems and methods in accordance with embodiments of the present disclosure also have application to other autonomous maintenance machines. As used herein, &#x201c;maintenance machine&#x201d; may include most any machine configured to provide an outdoor or indoor maintenance function. Examples of maintenance machines include, but are not limited to: residential and commercial mowing products (e.g., riding fairway or greens mowers that are driven by a user); ground maintenance machines or vehicles (e.g., debris blowers/vacuums, aerators, dethatchers, material spreaders, snow throwers, weeding machines for weed remediation); indoor working machines such as vacuums and floor scrubbers/cleaners (e.g., that may encounter obstacles); construction and utility vehicles (e.g., trenchers); observation vehicles; and load transportation vehicles. While described in the context of maintenance machines, embodiments as described herein may also find application to human transport vehicles. Furthermore, the autonomous maintenance machines described herein may employ various types of navigation, such as random, modified random, or specific path planning, to carry out their intended functionality. The terms &#x201c;maintenance machine&#x201d; and &#x201c;working machine&#x201d; may be used interchangeably herein.</p>
+<p id="p-0039" num="0038">While the construction of the actual working machine is not necessarily central to an understanding of embodiments of this disclosure, <figref idref="DRAWINGS">FIG. <b>1</b></figref> schematically illustrates an exemplary autonomous working machine configured as an autonomous lawn mower <b>100</b> (also referred to herein as &#x201c;machine&#x201d; or &#x201c;robot&#x201d;), which forms part of a lawn mowing system <b>101</b> that may include other components such as a charging station <b>50</b>. As shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the mower <b>100</b> may include a housing <b>102</b> (e.g., frame or chassis with a shroud) that carries and/or encloses various components of the mower as described below. The mower <b>100</b> may further include ground support members, such as wheels, rollers, skids, or tracks. In the illustrated embodiment, the ground support members include one or more rear wheels <b>106</b> and one or more front wheels <b>108</b>, that support the housing <b>102</b> upon (and in rolling engagement with) the ground (e.g., turf) surface <b>103</b> of the work region. As illustrated, the front wheels <b>108</b> support at least a front-end portion <b>134</b> of the housing <b>102</b> and the rear wheels <b>106</b> support at least a rear-end portion <b>136</b> of the mower housing.</p>
+<p id="p-0040" num="0039">One or both rear wheels <b>106</b> may form drive wheels coupled to and driven by a propulsion system (e.g., including one or more wheel motors <b>104</b>) to propel the mower <b>100</b> over the ground surface <b>103</b>. In some embodiments, the front wheels <b>108</b> may freely caster relative to the housing <b>102</b> (e.g., about vertical axes). In such a configuration, mower direction may be controlled via differential rotation of the two rear wheels <b>106</b> in a manner similar to a conventional zero-turn-radius (ZTR) riding mower. That is to say, the propulsion system may include a separate wheel motor <b>104</b> for each of a left and right rear wheel <b>106</b> (see <figref idref="DRAWINGS">FIG. <b>2</b></figref>) so that a rotational speed and direction of each rear (drive) wheel may be independently controlled by the propulsion system. In addition, or alternatively, the front wheels <b>108</b> could be actively steerable by the propulsion system (e.g., including one or more steer motors <b>105</b>) to assist with control of mower <b>100</b> direction, and/or could be driven by the propulsion system (i.e., to provide a front-wheel or all-wheel drive mower).</p>
+<p id="p-0041" num="0040">A ground maintenance implement or tool (e.g., a grass cutting element, such as a blade <b>110</b>) may be coupled to an implement (e.g., cutting) motor <b>112</b> and supported by the housing <b>102</b>. When the motors <b>112</b> and <b>104</b> are energized, the mower <b>100</b> may be propelled over the ground surface <b>103</b> such that vegetation (e.g., grass) over which the mower passes is cut by the rotating blade <b>110</b>. While illustrated herein using only a single blade <b>110</b> and/or cutting motor <b>112</b>, mowers incorporating multiple blades, powered by single or multiple motors, are contemplated within the scope of this disclosure. Moreover, while described herein in the context of one or more conventional &#x201c;blades,&#x201d; other cutting elements including, for example, disks, nylon string or line elements, knives, cutting reels, etc., are certainly possible without departing from the scope of this disclosure. Still further, embodiments combining various cutting elements, e.g., a rotary blade with an edge-mounted string trimmer, are also contemplated.</p>
+<p id="p-0042" num="0041">The mower <b>100</b> may further include a power source, which in one embodiment, is a battery <b>114</b> having a lithium-based chemistry (e.g., lithium-ion). Other embodiments may utilize batteries of other chemistries, or other power source technologies (e.g., solar power, fuel cell, internal combustion engines) altogether, without departing from the scope of this disclosure. It is further noted that, while shown as using independent blade and wheel motors, such a configuration is illustrative only as embodiments wherein blade and wheel power are provided by a single motor are also contemplated.</p>
+<p id="p-0043" num="0042">As shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the mower <b>100</b> may further include one or more sensors to provide location data. For instance, some embodiments may include a Global Navigational Satellite System (GNSS, e.g., global positioning system or &#x201c;GPS&#x201d;) receiver <b>116</b> (or other position sensor that may provide similar data). The GNSS receiver <b>116</b> may be adapted to estimate a position of the mower <b>100</b> within the work region and provide such information to an electronic controller <b>120</b> (described below) associated with the working machine (mower <b>100</b>). The controller, among other uses, is adapted to autonomously control navigation of the machine as the machine traverses the property/work region defined by the property boundary(s). In other embodiments, one or more of the wheels <b>106</b>, <b>108</b> may include encoders <b>118</b> that provide wheel rotation/speed information (odometry) that may be used to estimate mower position (e.g., based upon an initial start position) within a given work region. The mower <b>100</b> may optionally include a sensor <b>115</b> adapted to detect a boundary wire, which could be used in addition to other non-vision-based or vision-based navigational techniques. Other sensors, such as an inertial measurement unit (IMU) <b>111</b>, may also be included to assist with machine navigation. An IMU is an electronic device that is capable of measuring and outputting the angular rate, mass-specific force (acceleration) and, optionally, the orientation of a body in space.</p>
+<p id="p-0044" num="0043">The mower <b>100</b> may optionally include one or more front obstacle detection (&#x201c;bump&#x201d;) sensors <b>130</b> and one or more rear obstacle detection sensors <b>132</b>, as well as other sensors, such as side obstacle detection sensors (not shown). The obstacle detection sensors <b>130</b>, <b>132</b> may be used to detect an obstacle in the path of the mower <b>100</b> when travelling in a forward or reverse direction, respectively (the mower <b>100</b> may be capable of mowing while moving in both forward and reverse directions). As illustrated, the sensors <b>130</b>, <b>132</b> may be located at the front-end portion <b>134</b> and rear-end portion <b>136</b> of the mower <b>100</b>, respectively. In addition to the sensors described, other sensors now known or later developed may also be incorporated into the mower <b>100</b>.</p>
+<p id="p-0045" num="0044">The sensors <b>130</b>, <b>132</b> may use contact sensing, non-contact sensing, or both types of sensing. For example, both contact and non-contact sensing may be enabled concurrently or only one type of sensing may be used depending on the status of the mower <b>100</b>. One example of contact sensing includes using a contact bumper protruding from the housing <b>102</b>, or the housing itself, that can detect when the mower <b>100</b> has contacted the obstacle. Non-contact sensors may use acoustic or light waves to detect the obstacle, sometimes at a distance from the mower <b>100</b> before contact with the obstacle (e.g., using infrared, radio detection and ranging (radar), light detection and ranging (lidar), etc.).</p>
+<p id="p-0046" num="0045">The mower <b>100</b> may carry or otherwise include a vision system <b>129</b> that includes, among other elements, at least two vision-based sensors (also referred to herein as &#x201c;vision sensors&#x201d; and &#x201c;cameras&#x201d;) adapted to capture image data and ultimately provide localization information, such as pose (position and orientation) and/or velocity. Each vision-based sensor may include a camera <b>133</b> operatively coupled or otherwise in communication with the controller <b>120</b> (e.g., the vision system may be operatively coupled to the controller). Each camera may capture or record digital images (also referred to herein as &#x201c;image data&#x201d;) for use with the vision system. Accordingly, the cameras <b>133</b>, as well as the controller <b>120</b>, may be described as part of the vision system <b>129</b> of the mower <b>100</b>. Types of image data include, for example, training image data and/or operational image data. Image data may be processed and used, for example: to build a 3DPC, for location correction, for visual odometry as described below, and/or for object detection or classification, among others.</p>
+<p id="p-0047" num="0046">The one or more cameras may be capable of detecting visible light, non-visible light, or both. The one or more cameras may establish a total field of view of at least 30 degrees, at least 45 degrees, at least 60 degrees, at least 90 degrees, at least 120 degrees, at least 180 degrees, at least 270 degrees, or even 360 degrees, around the autonomous machine (e.g., mower <b>100</b>). The field of view may be defined in a horizontal direction, a vertical direction, or both directions. For example, a total horizontal field of view may be 360 degrees, and a total vertical field of view may be 45-90 degrees. The field of view may capture image data above and below the height of the one or more cameras.</p>
+<p id="p-0048" num="0047">In some embodiments, the mower <b>100</b> includes four vision sensors each having a camera <b>133</b> (e.g., cameras <b>133</b>-<b>1</b>, <b>133</b>-<b>2</b>, <b>133</b>-<b>3</b>, and <b>133</b>-<b>4</b>; collectively and individually referred to as camera or cameras <b>133</b>) as shown in <figref idref="DRAWINGS">FIGS. <b>2</b>, <b>3</b> and <b>4</b></figref>. One camera <b>133</b> may be positioned in each of one or more directions including a forward direction (front-facing camera <b>133</b>-<b>1</b>), a reverse direction (rear-facing camera <b>133</b>-<b>2</b>), a first side direction (left-facing camera <b>133</b>-<b>3</b>), and a second side direction (right-facing camera <b>133</b>-<b>4</b>), thereby forming Cardinal directions relative to the mower <b>100</b>. One or more camera directions may be positioned orthogonal to one or more other cameras <b>133</b> or positioned opposite to at least one other camera <b>133</b>. Although not shown, the cameras <b>133</b> may also be offset from any of these directions (e.g., at a 45 degree or another non-right angle, at corners of the vehicle, or otherwise placed to provide additional overlap in one (e.g., front) or more directions, etc.). <figref idref="DRAWINGS">FIGS. <b>3</b> and <b>4</b></figref> illustrate opposite isometric views of an exemplary mower <b>100</b> showing the arrangement of cameras <b>133</b>-<b>1</b>, <b>133</b>-<b>2</b>, <b>133</b>-<b>3</b>, and <b>133</b>-<b>4</b>.</p>
+<p id="p-0049" num="0048">Accordingly, sensors associated with the mower <b>100</b> may be described as either vision-based sensors or non-vision-based sensors. As stated above, the vision-based sensors may include the cameras <b>133</b>, while the non-vision-based sensors may include any sensors that are not cameras. For example, the wheel encoders <b>118</b> (e.g., using optical (e.g., photodiode), magnetic, inductive (e.g., eddy current), or capacitive sensing to detect wheel revolutions) may be described as non-vision-based sensors. Such encoding data from the wheel encoders may be described herein as odometry data. Other non-vision-based sensors may include, for example, the IMU <b>111</b> and GNSS receiver <b>116</b>.</p>
+<p id="p-0050" num="0049">As further described below, one or more of the cameras <b>133</b> may be used as an optical encoder. In this context, the camera may capture a series or sequence of images and compare features in those images to determine or estimate a distance the mower has traveled between the images (&#x201c;optical flow&#x201d;). Optical encoding may provide various benefits over wheel encoders <b>118</b> including, for example, less susceptibility to errors resulting from wheel slippage relative to the ground surface <b>103</b>.</p>
+<p id="p-0051" num="0050">The controller <b>120</b> (see <figref idref="DRAWINGS">FIG. <b>1</b></figref>) is adapted to monitor and control various mower functions. Accordingly, the controller <b>120</b> may include a processor <b>122</b> that receives various inputs and executes one or more computer programs or applications stored in memory <b>124</b>. The memory <b>124</b> may include computer-readable instructions or applications that, when executed, e.g., by the processor <b>122</b>, cause the controller <b>120</b> to perform various calculations and/or issue commands. That is to say, the processor <b>122</b> and memory <b>124</b> may together define a computing apparatus operable to process input data and generate the desired output to one or more components/devices. For example, the processor <b>122</b> may receive various input data including positional data from the GNSS receiver <b>116</b> and/or wheel encoders <b>118</b> and generate speed and steering angle commands to the wheel motor(s) <b>104</b> to cause the rear wheels <b>106</b> to rotate (at the same or different speeds and in the same or different directions). In other words, the controller <b>120</b> may control the steering angle (vehicle heading) and speed of the mower <b>100</b>, as well as the speed and operation of the cutting blade <b>110</b>.</p>
+<p id="p-0052" num="0051">The controller <b>120</b> may use the processor <b>122</b> and memory <b>124</b> in different systems. Alternatively, one or more processors <b>122</b> and memory <b>124</b> may be included in each different system. For example, the controller <b>120</b> may form part of the vision system <b>129</b>, which may include a processor <b>122</b> and memory <b>124</b>. The controller <b>120</b> may also at least partially define a navigation system, which may also include a processor <b>122</b> and memory <b>124</b> the same or separate from the processor <b>122</b> and memory <b>124</b> of the vision system. Still further, the controller <b>120</b> may also at least partially define a propulsion system, which may also include a processor <b>122</b> and memory <b>124</b> the same or separate from the processor <b>122</b> and memory <b>124</b> of the vision system and/or of the navigation system. In general, the term &#x201c;controller&#x201d; may be used herein to describe components of a system that receive inputs and provide outputs and commands to control various components of the system.</p>
+<p id="p-0053" num="0052">A communication system may be provided to permit the mower <b>100</b>/controller <b>120</b> to operatively communicate (e.g., via a wireless radio <b>117</b>) with a communication network that may include a wireless network <b>113</b>, thereby allowing communication (e.g., bidirectional communication) between the mower and other devices. For example, the wireless network <b>113</b> may be a cellular or other wide area network, a local area network (e.g., Institute of Electrical and Electronics Engineers (IEEE) 802.11 local &#x201c;Wi-Fi&#x201d; network), or a personal area or peer-to-peer network (&#x201c;P2P,&#x201d; e.g., &#x201c;Bluetooth&#x201d; network). Other devices may communicate over the wireless network with the mower <b>100</b>, including, for example, a remote computer <b>119</b>, which may be configured as a cellular phone, tablet, desktop computer, notebook computer, or wearable computer. Preferably, the wireless network <b>113</b> is connected to the internet so that the user/remote computer <b>119</b> may interact with the communication system regardless of the user's location. Moreover, connection of the wireless network <b>113</b> to the internet allows communication with most any other remote computer including, for example, an internet- or &#x201c;cloud-&#x201d; connected server <b>52</b>.</p>
+<p id="p-0054" num="0053">The communication system may also permit communication over the wireless network <b>113</b> with conventional network hardware including gateways <b>250</b>, routers, wireless access points, home automation controllers <b>260</b>, etc.</p>
+<p id="p-0055" num="0054">While illustrated as using a centralized communication network (e.g., wherein each device connects to a central network), other embodiments may utilize a decentralized or ad-hoc network, wherein communication occurs directly between devices. For example, the mower may communicate directly with the remote computer <b>119</b> rather than communicate indirectly over the wireless network <b>113</b>. Still further, while illustrated as primarily utilizing wireless communication protocols, such a configuration is not limiting as for example, various devices (e.g., the charging station <b>50</b> and/or the gateway <b>250</b>) could connect to the communication network or other devices using wired connections without departing from the scope of this disclosure.</p>
+<p id="p-0056" num="0055">It will be readily apparent that the functionality of the controller <b>120</b> may be implemented in any manner known to one skilled in the art. For instance, the memory <b>124</b> may include any volatile, non-volatile, magnetic, optical, and/or electrical media, such as a random-access memory (RAM), read-only memory (ROM), non-volatile RAM (NVRAM), electrically-erasable programmable ROM (EEPROM), flash memory, and/or any other digital media. While shown as both being incorporated into the controller <b>120</b>, the memory <b>124</b> and the processor <b>122</b> could be contained in separate modules.</p>
+<p id="p-0057" num="0056">The processor <b>122</b> may include any one or more of a microprocessor, a controller, a digital signal processor (DSP), an application specific integrated circuit (ASIC), a field-programmable gate array (FPGA), and/or equivalent discrete or integrated logic circuitry. In some embodiments, the processor <b>122</b> may include multiple components, such as any combination of one or more microprocessors, one or more controllers, one or more DSPs, one or more ASICs, and/or one or more FPGAs, as well as other discrete or integrated logic circuitry. The functions attributed to the controller <b>120</b> and/or processor <b>122</b> herein may be embodied as software, firmware, hardware, or any combination of these. Certain functionality of the controller <b>120</b> may also be performed in the &#x201c;cloud&#x201d; (e.g., at the server <b>52</b>) or other distributed computing system operatively connected to the processor <b>122</b>.</p>
+<p id="p-0058" num="0057">In <figref idref="DRAWINGS">FIG. <b>1</b></figref>, schematic connections are generally shown between the controller <b>120</b> and the battery <b>114</b>, wheel motor(s) <b>104</b>, cutting motor <b>112</b>, optional boundary wire sensor <b>115</b>, wireless radio <b>117</b>, and GNSS receiver <b>116</b>. This interconnection is illustrative as the various subsystems of the mower <b>100</b> could be connected in most any manner, e.g., directly to one another, wirelessly, via a bus architecture (e.g., controller area network (CAN) bus), or any other connection configuration that permits data and/or power to pass between the various components of the mower. Although connections with some of the sensors <b>130</b>, <b>132</b>, and <b>133</b> are not shown, these sensors and other components of the mower <b>100</b> may be interconnected in a similar manner.</p>
+<p id="p-0059" num="0058">As stated above, various functionality of the controller <b>120</b> described herein may be offloaded from the mower <b>100</b>. For example, image data could be transmitted to a remote server (e.g., internet-connected server <b>52</b>) using the wireless radio <b>117</b> and then processed or stored. Alternatively, some functionality of the controller <b>120</b> could be provided by components on the charging station <b>50</b> and/or the remote computer <b>119</b>.</p>
+<p id="p-0060" num="0059">As indicated above, the exemplary mower <b>100</b> may be initially trained, after which the mower may autonomously operate within the work region as described in U.S. Pat. Pub. No. 2020/0050208 (the &#x201c;'208 Publication&#x201d;). The mower <b>100</b> may utilize the vision and navigation systems to permit such autonomous operation.</p>
+<p id="p-0061" num="0060">As described in the '208 Publication, the mower <b>100</b> may first be guided along a path, for example, in a manual manner using a handle assembly <b>90</b> (see <figref idref="DRAWINGS">FIG. <b>1</b></figref>). In particular, manual guidance of the mower <b>100</b> may be used during the training mode to allow the mower to &#x201c;learn&#x201d; the work region or a boundary associated therewith. The handle assembly <b>90</b> may, in some embodiments, extend outward and upward from the rear end portion <b>136</b> of the mower <b>100</b> in a manner consistent with a conventional walk-behind mower during the training mode, and collapse into the mower housing <b>102</b> (see <figref idref="DRAWINGS">FIG. <b>4</b></figref>) during autonomous mower operation as described in, for example, PCT Pub. No. WO2020/033522.</p>
+<p id="p-0062" num="0061">As stated elsewhere herein, &#x201c;mower sensors&#x201d; may include vision-based sensors (e.g., cameras <b>133</b>), as well as non-vision-based sensors that again may include, among others, the IMU <b>111</b>, wheel encoders <b>118</b>, and GNSS receiver <b>116</b>. Sensor data from the mower sensors may be provided to a sensor fusion module as described in the '208 Publication. The sensor fusion module may provide an estimated pose of the autonomous machine based on data from the mower sensors. For example, the sensor fusion module may estimate a non-vision-based pose based on data from non-vision based sensors, of which such pose may be corrected or updated using a vision-based pose estimate based on data from the vision-based sensors of the vision system.</p>
+<p id="p-0063" num="0062">As further described in the '208 Publication, image data from the one or more cameras <b>133</b> may be captured and stored as training images during the training mode. The image data may include images and corresponding time stamps. Also, during the training mode, non-vision-based data may be recorded, which may include timestamped non-vision-based data. Any combination of non-vision-based data may be used. In other embodiments, non-vision-based data may be optional. While described herein as using vision-based data to update mower position or pose, other embodiments may update based upon non-vision-based sensor data. For example, GNSS data could be used to facilitate updating or correcting an estimated pose (which may be based on non-vision-based pose data and/or vision-based pose data). In some embodiments, the GNSS data may be augmented using GNSS-specific correction data, such as real-time kinematics (e.g., &#x201c;GPS-RTK&#x201d;) data. GPS-RTK data may provide a more accurate or precise location that corrects for anomalies in GPS timing compared to nominal GPS data.</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. <b>5</b></figref> illustrates a series of timestamped images <b>550</b>, <b>560</b>, <b>570</b> and a 3DPC <b>580</b> to illustrate one example of visual map building that may be executed by the vision system <b>129</b>/controller <b>120</b> operating within a work region. As shown in this figure, a key point may be identified as a two-dimensional feature <b>552</b>, <b>562</b>, <b>572</b> in respective image <b>550</b>, <b>560</b>, <b>570</b> by, for example, using a feature detector algorithm. Each feature <b>552</b>, <b>562</b>, <b>572</b> is extracted and a descriptor algorithm may be applied to generate a multi-dimensional descriptor <b>554</b>, <b>564</b>, <b>574</b> associated with the respective feature <b>552</b>, <b>562</b>, <b>572</b>. The descriptors <b>554</b>, <b>564</b>, <b>574</b> are illustrated as circles around the respective feature <b>552</b>, <b>562</b>, <b>572</b>. The features <b>552</b>, <b>562</b>, <b>572</b> and the descriptors <b>554</b>, <b>564</b>, <b>574</b> may be included in feature data.</p>
+<p id="p-0065" num="0064">During feature matching, a feature matching algorithm may be used to determine that the features <b>552</b>, <b>562</b>, <b>572</b> are sufficiently similar based on the descriptors <b>554</b>, <b>564</b>, <b>574</b> that the features may be matched in matching data.</p>
+<p id="p-0066" num="0065">During visual map building, a map building technique may be applied to the feature data and the matching data to identify a three-dimensional point <b>582</b> in the 3DPC <b>580</b> that corresponds to the features <b>552</b>, <b>562</b>, <b>572</b>. Each point of the 3DPC <b>580</b> may be determined in a similar manner.</p>
+<p id="p-0067" num="0066">Any suitable feature matching algorithm available to one of ordinary skill in the art may be used depending on the particular autonomous machine and application. Non-limiting examples of suitable algorithms include Brute-Force, Approximate Nearest Neighbor (ANN), and Fast Library for Approximate Nearest Neighbor (FLANN). The Brute-Force algorithm may match features by selecting one feature and checking all other features for a match. A feature matching module may provide and store matching data in a data structure based on the results of the feature matching algorithm.</p>
+<p id="p-0068" num="0067">The output of the feature matching module and/or the matching data stored in the data structure may be provided to a visual map building module. The visual map building module may utilize a map building technique to create a 3DPC. In general, the techniques described herein that generate a 3DPC using vision-based sensors may be described as a Structure from Motion (SfM) technique or Simultaneous Localization and Mapping (SLAM) technique, either of which may be used with various embodiments of the present disclosure, for example, depending on the particular autonomous machine and application.</p>
+<p id="p-0069" num="0068">The output of the visual map building module and/or the 3DPC and associated data may be provided to a map registration module. Optionally, the non-vision-based data, such as GNSS data, IMU data, and odometry data, from the data structure may also be provided to the map registration module. The map registration module may determine and provide pose data based on a registered map, which may be provided to and used by the navigation system. In some embodiments, pose data is provided from the map registration module to the navigation system. The pose data may be estimated vision-based pose data. The registered map may also be provided to and stored in a data structure.</p>
+<p id="p-0070" num="0069">As used herein, the term &#x201c;registered map&#x201d; refers to a 3DPC that has been tied to a real-world reference (e.g., World Geodetic System 1984 or &#x201c;WGS 84&#x201d;) scale, real-world orientation, or both. In some embodiments, a registered map may be tied to a real-world map or frame of reference. For example, a GNSS may be used to tie the 3DPC to a real-world mapping service, such as GOOGLE MAPS&#x2122;. In some embodiments, when using techniques described herein, the 3DPC may generally be scaled from about 0.5 times up to about 2 times when registered to a real-world map or frame of reference. However, scaling is generally not limited to these ranges. Once again, exemplary aspects of 3DPC development, feature matching, map building, and map registration are described in more detail in the '208 Publication.</p>
+<p id="p-0071" num="0070">As stated above, the limited onboard computing resources (e.g., processor capability and battery power) present on a mobile platform like the mower <b>100</b> may impede the mower's ability to process large amounts of data in real-time during feature matching. While transferring some or all of this processing load to the remote computer <b>119</b> or server <b>52</b> (see <figref idref="DRAWINGS">FIG. <b>1</b></figref>) may partially alleviate this burden, communication bandwidth and power requirements may still present problems. To address, this issue, embodiments of the present disclosure provide systems and methods that reduce onboard computing resource utilization (e.g., for image processing (feature matching and visual odometry)) without significant performance degradation of the vision system. In some embodiments, this may be accomplished by selecting a subset of each camera's field of view for analysis during feature matching as further described below. In addition or alternatively, only a certain camera or cameras may be selected at any given time for feature matching. In addition to reducing the workload during feature matching, such camera selection processes may increase machine/mower platform flexibility in that the other cameras <b>133</b> (those cameras not being used for feature matching) may simultaneously be used for other purposes such as visual odometry and object detection/classification.</p>
+<p id="p-0072" num="0071"><figref idref="DRAWINGS">FIGS. <b>6</b> and <b>8</b></figref> illustrate the mower <b>100</b> and exemplary cameras <b>133</b> of the vision system <b>129</b>. With reference first to <figref idref="DRAWINGS">FIG. <b>6</b></figref>, each camera <b>133</b> associated with the mower <b>100</b> may define a field of view (FOV) <b>600</b>, the latter being the effective observable area seen by the camera at any given moment (the area within which the camera may capture image data). In the context of any one camera <b>133</b>, the FOV <b>600</b> may be defined by a vertical field of view <b>602</b> as shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, and a horizontal FOV <b>604</b> as shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>. As one can appreciate, each camera may define a different FOV relative to the mower <b>100</b>. It is noted that the various FOVs may be identified in the description and figures with a suffix (e.g., &#x201c;-1&#x201d;) that corresponds to the suffix of the associated camera (e.g., in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, horizontal FOV <b>604</b>-<b>1</b> identifies the horizontal FOV of front-facing camera <b>133</b>-<b>1</b>).</p>
+<p id="p-0073" num="0072">As one can appreciate, features associated with the work region that are used to generate the 3DPC (e.g., trees, fences, buildings, etc.) may typically be &#x201c;seen&#x201d; or contained within an upper portion of the FOV <b>602</b>, while a lower portion is generally directed toward the ground surface <b>103</b>. While not particularly suited for feature detection/matching due to the potential lack of uniquely distinguishable features on the surrounding ground surface <b>103</b>, the lower portion of the FOV <b>602</b> may provide image data useful for visual odometry (that is, it may be useful for collecting and providing to the controller visual odometry data (from one or more of the cameras), whereby the pose of the mower may be corrected based upon the visual odometry data).</p>
+<p id="p-0074" num="0073">Accordingly, embodiments of the present disclosure may divide or split the vertical FOV <b>602</b> of one of more (e.g., all) of the cameras into a first zone <b>606</b> and a second zone <b>608</b> separated by a virtual boundary <b>610</b> such that the first zone is vertically above the second zone as illustrated in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, whereby matching features in the image data to features associated with the 3DPC may occur using only the image data from the first zone. While the boundary <b>610</b> may be arbitrarily selected, e.g., based upon the camera orientation on the mower housing <b>102</b> and the camera's maximum vertical FOV <b>602</b>, it is in some embodiments selected to reduce the amount of image data (e.g., remove that portion (second zone <b>608</b>) located at or near the ground surface) to be processed during 3DPC feature matching. That is to say, the image data processed during feature matching may be limited to that image data contained within a first zone <b>606</b> of the vertical FOV <b>602</b> above the boundary <b>610</b>.</p>
+<p id="p-0075" num="0074">Although the image data processed is effectively reduced, systems and methods that utilize only a portion of the vertical FOV <b>602</b> may still provide sufficient image data for feature matching. That is to say, the location of the boundary <b>610</b> may be selected to ensure the first zone <b>606</b> captures most or all of the points of the 3DPC (for feature matching) while excluding the less feature-rich second zone <b>608</b>. Similarly, the second zone <b>608</b> may be uniquely situated to provide a subset of the FOV <b>602</b> useful for visual odometry, again without the need to analyze the full FOV <b>602</b>. Stated alternatively, the image data of the first zone of the FOV of each camera may be provided to the controller for matching features with the 3DPC, and the image data of the second zone of the FOV of each camera may be adapted to provide visual odometry data to the controller.</p>
+<p id="p-0076" num="0075">In some embodiments, the FOV of each camera may extend 30-60 degrees above a horizontal plane <b>135</b> (see <figref idref="DRAWINGS">FIG. <b>6</b></figref>) to ensure adequate coverage of 3DPC features. <figref idref="DRAWINGS">FIG. <b>7</b></figref> illustrates a diagrammatic two-dimensional representation of the vertical FOV <b>602</b> showing the first and second zones <b>606</b>, <b>608</b> and the boundary <b>610</b> therebetween. While shown as rectangular, the actual FOV may be curved along one or more sides.</p>
+<p id="p-0077" num="0076">While <figref idref="DRAWINGS">FIG. <b>6</b></figref> illustrates the exemplary vertical FOV <b>602</b> of the front-facing camera <b>133</b>-<b>1</b>, the remaining cameras <b>133</b> may be similarly configured to split their associated vertical FOVs. For example, <figref idref="DRAWINGS">FIG. <b>8</b></figref> is a rear view of the mower <b>100</b> showing the vertical FOV <b>602</b> of the right-facing camera <b>133</b>-<b>4</b>. Once again, the FOV of the camera <b>133</b>-<b>4</b> (as well as rear- and left-facing cameras <b>133</b>-<b>2</b> and <b>133</b>-<b>3</b>) may be split between first and second zones <b>606</b>, <b>608</b> along the boundary <b>610</b>. In some embodiments, the angular orientation of the cameras <b>133</b> relative to the housing <b>102</b> of the mower, and the location of the boundary <b>610</b> between zones <b>606</b>, <b>608</b> may be the same or similar. However, in other embodiments, the camera orientation and/or boundary location may be different for the side-facing cameras <b>133</b>-<b>3</b> and <b>133</b>-<b>4</b> than for the front- and rear-facing cameras <b>133</b>-<b>1</b> and <b>133</b>-<b>2</b> (e.g., the side-facing cameras may seek to optimize a size of the second zone <b>608</b> for visual odometry). In fact, the camera orientations and/or boundary <b>610</b> locations may be the same or different for each camera <b>133</b>. Moreover, the boundary <b>610</b> for the vertical FOV of each camera <b>133</b> may be fixed or, alternatively, adjustable (e.g., adjusted dynamically by the vision system).</p>
+<p id="p-0078" num="0077">The side cameras (<b>133</b>-<b>3</b> and <b>133</b>-<b>4</b>) may be well-suited to designation as visual odometry cameras (that is, well-suited to providing visual odometry data) as they typically have a FOV transverse to a direction of travel of the mower <b>100</b>. For this reason, the visual odometry camera and the localization camera may be different cameras. However, such a configuration is not limiting as the visual odometry camera and the localization camera may also be the same camera. Regardless, when visual odometry data is utilized, the controller may use such data to determine whether the drive wheels have slipped relative to the ground surface and update the vision-based pose of the machine in response to determining such slippage.</p>
+<p id="p-0079" num="0078">In addition to splitting the vertical FOV as described above, <figref idref="DRAWINGS">FIGS. <b>9</b>-<b>12</b></figref> illustrate systems and methods adapted to further increase platform flexibility and reduce computing resources needed for feature matching.</p>
+<p id="p-0080" num="0079">Referring first to <figref idref="DRAWINGS">FIG. <b>9</b></figref>, a partial overhead plan view of 3DPC data, e.g., a two-dimensional overhead map of the 3DPC (features <b>700</b>) for a particular position of the mower <b>100</b> within the work region <b>181</b>, is illustrated. As shown in this figure, for any position of the mower <b>100</b> within the work region, the vision system may overlay the relevant horizontal FOVs for each of the cameras <b>133</b>, wherein: FOV <b>604</b>-<b>1</b> corresponds to the horizontal FOV of front-facing camera <b>133</b>-<b>1</b>; FOV <b>604</b>-<b>2</b> corresponds to the horizontal FOV of rear-facing camera <b>133</b>-<b>2</b>; FOV <b>604</b>-<b>3</b> corresponds to the horizontal FOV of left-facing camera <b>133</b>-<b>3</b>; and FOV <b>604</b>-<b>4</b> corresponds to the horizontal FOV of right -facing camera <b>133</b>-<b>4</b>. With this overlay, the vision system <b>129</b> is able to predict, for any estimated mower position within the work region (e.g., estimated position &#x201c;A&#x201d; in <figref idref="DRAWINGS">FIG. <b>9</b></figref>), which horizontal FOV <b>604</b> contains or &#x201c;sees&#x201d; which points/features of the 3DPC.</p>
+<p id="p-0081" num="0080"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is an overhead view of the mower <b>100</b> upon reaching the estimated position (such position being estimated, for example, based upon data from the non-vision based sensors) within the work region corresponding to the position A shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>. When the mower is at this estimated position, the cameras <b>133</b> may capture at least some features corresponding to features of the 3DPC used to define the work region (more, or less, features than the 3DPC may be detected based upon various factors including, e.g., potential visual interference with the cameras, or the presence of new or temporary objects <b>701</b> such as lawn furniture, automobiles, etc.).</p>
+<p id="p-0082" num="0081">For reasons similar to those described above regarding analysis of the vertical FOV <b>602</b>, executing feature matching algorithms in real-time using image data from all cameras <b>133</b> may create an excessive burden on the mower's computing resources. It has been found, however, that this load may be alleviated by knowledge of the locations of 3DPC features relative to the mower <b>100</b> at any given estimated mower location within the work region. For example, based upon the mower's estimated position A (see. <figref idref="DRAWINGS">FIG. <b>9</b></figref>), the known locations of 3DPC features <b>700</b> indicate that horizontal FOV <b>604</b>-<b>3</b> of camera <b>133</b>-<b>3</b> should capture the greatest number of features of the 3DPC compared to the horizontal FOV of the remaining cameras. As a result, the vision system/controller may designate camera <b>133</b>-<b>3</b> as the camera to be used for localization (e.g., the camera <b>133</b>-<b>3</b> may be designated as a &#x201c;localization vision sensor&#x201d; or &#x201c;localization camera&#x201d;) without the need to analyze image data from the remaining cameras. Of course, as the mower moves between different positions within the work region, any one (or more) of the cameras <b>133</b> may be designated as the localization camera based upon the mower's estimated position and the corresponding 3DPC features contained within (or predicted to be contained within) the various cameras' horizontal FOVs, e.g., the localization camera may change between any one of the camera <b>133</b>.</p>
+<p id="p-0083" num="0082">As a result, instead of analyzing images from all cameras to correct mower position, the vision system/controller may need only rely on a single camera at any given time, such camera having (or predicted to have) a horizontal FOV containing a greater number of features (as opposed to the other camera(s)) of the 3DPC.</p>
+<p id="p-0084" num="0083">While the number of 3DPC features contained (or predicted to be contained) within the respective horizontal FOVs of the camera <b>133</b> may dictate which camera is designated as the localization camera, alternative embodiments may utilize a 3DPC &#x201c;heat map. &#x201d; The heat map may represent those features, or cluster(s) of features, that over time have been found to be consistently recognizable during feature matching. That is, the vision system may maintain, and periodically update, a recognition score of a feature or cluster of features and build a heat map that represents these scores. Thus the recognition score may generally equate to a success rate of how often a particular feature or cluster of features of the 3DPC is matched to image data during feature matching.</p>
+<p id="p-0085" num="0084"><figref idref="DRAWINGS">FIG. <b>11</b></figref> depicts an exemplary heat map of the 3DPC features relative to the position A of the mower <b>100</b> within the work region. As shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>, FOV <b>604</b>-<b>1</b> of camera <b>133</b>-<b>1</b> may have a feature <b>700</b> or cluster of features <b>700</b> having a recognition score greater than a recognition score of the feature or cluster of features predicted to be within the FOV <b>604</b>-<b>3</b> of camera <b>133</b>-<b>3</b>, which in turn has a greater recognition score of features or cluster of features than that predicted to be within the FOV <b>604</b>-<b>2</b> of camera <b>133</b>-<b>2</b>. For purposes of illustration, the relative recognition scores are represented by different densities of hatching on the map (higher density hatching indicating higher recognition scores than lighter density hatching).</p>
+<p id="p-0086" num="0085">Accordingly, the vision system may then select, as the localization camera for any given position, the camera (camera <b>133</b>-<b>1</b>) estimated or predicted to provide a horizontal FOV containing a feature or cluster of features having a recognition score greater than a recognition score of the feature or cluster of features predicted to be within the FOV of the remaining cameras for that mower position.</p>
+<p id="p-0087" num="0086">While <figref idref="DRAWINGS">FIG. <b>11</b></figref> shows the FOV containing the highest scoring features as being different than the FOV having the greatest number of features, such an occurrence is exemplary only (e.g., the highest scoring feature(s) may or may not be found in FOVs containing the greatest number of features).</p>
+<p id="p-0088" num="0087">While selecting the localization camera in accordance with embodiments as described above provides various benefits, selection of the localization camera using these predictive criteria may, in some circumstances, yield image data that provides poor 3DPC feature matches. For example, a temporary object placed in the work region may block the FOV of one or more cameras. Alternatively, the FOV of the preferred localization camera may be partially obstructed by debris or the like, or lighting conditions (e.g., cloud cover, time or day) may adversely affect images captured.</p>
+<p id="p-0089" num="0088">In such instances, the vision system may select the localization camera via alternative methods. For example, in some embodiments, the vision system may simply select the camera having the next highest number of features or next highest recognition score within its horizontal FOV. Alternatively, the vision system may execute feature matching algorithms on image data from two or more of the cameras, either simultaneously or sequentially, until an acceptable localization camera is identified (e.g., until a camera able to match a threshold number of features, or containing a feature or features having a threshold recognition score, is identified).</p>
+<p id="p-0090" num="0089">Such an exemplary alternative process is illustrated in <figref idref="DRAWINGS">FIG. <b>12</b></figref>, again for the position A of the mower <b>100</b>. As shown in this view, the vision system may cycle through each camera individually and execute feature matching algorithms with each camera's image data (i.e., analyze image data from each of the vision sensors). In this figure, feature <b>700</b> matches are represented by solid circles <b>700</b>, while hollow circles <b>701</b> indicate unmatched features. After analyzing the image data, the vision system may select the first camera having a FOV that satisfies threshold criteria (e.g., threshold number of features or threshold recognition score of a matched feature(s)). Alternatively, the vision system may wait to select the localization camera until image data from all cameras is analyzed. The system may then identify and select as the localization camera the camera having a FOV containing the greatest number of feature matches to the features associated with the 3DPC (or the camera having an FOV containing the feature(s) with the greatest recognition score(s)).</p>
+<p id="p-0091" num="0090">While selecting the localization camera via image data analysis of multiple cameras requires increased computing resources than the systems and method described elsewhere herein, such methods are an effective alternative when predicative camera selection methods are inadequate. Moreover, as more powerful and energy-efficient computing resources become available, continuous or semi-continuous multiple camera analysis may be an effective alternative for localization camera selection.</p>
+<p id="p-0092" num="0091">As one can appreciate, embodiments in accordance with embodiments of the present disclosure may include a method for autonomous machine navigation, wherein the method includes placing a ground maintenance machine within a work region defined by one or more boundaries. The machine may include: two or more vision sensors or cameras, each vision sensor adapted to collect image data within a FOV defined by the vision sensor, wherein each vision sensor defines a different FOV relative to the machine; and a controller in communication with each of the vision sensors. The method may further include designating at least one of the vision sensors as a localization vision sensor, and determining with the controller a vision-based pose of the machine, wherein the pose may represent one or both of a position and an orientation of the machine relative to the work region. Determining the pose of the machine may be based upon matching features in the image data received from the localization vision sensor/camera to features associated with the previously-identified 3DPC used to define the work region.</p>
+<p id="p-0093" num="0092">The designation of the localization vision sensor or camera may be achieved in different ways. For example, designating the localization vision sensor/camera may include: analyzing the image data from each of the vision sensors; identifying a first vision sensor from among the two or more vision sensors, wherein the FOV of the first vision sensor contains a greater number of feature matches with features of the 3DPC than the FOV of any of the other vision sensors; and selecting the first vision sensor as the localization vision sensor. Alternatively, a predictive method may be used comprising, for example: selecting which of the vision sensors has the FOV that is predicted by the controller to contain either: the greater number of features of the 3DPC; or a feature or cluster of features having a recognition score greater than a recognition score of the features or cluster of features predicted to be within the FOV of any of the other vision sensors/cameras. Another predictive method for designating the localization vision sensor/camera may include: dividing the FOV of each vision sensor/camera into a first zone and a second zone (as described above); predicting, based upon the pose of the machine as estimated by the controller, either a number of features, or a recognition score of features, of the 3DPC contained within the first zone of the FOV of each of the vision sensors; and designating the localization vision sensor to be the vision sensor having the first zone predicted by the controller to contain either: a greatest number of features of the 3DPC; or the greatest recognition score of features of the 3DPC.</p>
+<p id="p-0094" num="0093">Regardless of the process used to designate the localization camera, maintaining optical clarity may ensure that the localization camera is able to capture the expected image data. As a result, cameras in accordance with embodiments of the present disclosure may optionally include features that assist with maintaining image clarity during operation in dusty and debris-filled environments often associated with lawn mowing.</p>
+<p id="p-0095" num="0094"><figref idref="DRAWINGS">FIG. <b>13</b></figref> illustrates a partial perspective view of one camera <b>133</b> (e.g., front camera <b>133</b>-<b>1</b>) as attached to the housing <b>102</b> of the mower <b>100</b>, while <figref idref="DRAWINGS">FIG. <b>14</b></figref> illustrates an isolated, exploded view thereof. Each camera may include a housing <b>180</b> containing an image sensor and lens <b>182</b>. A lens covering <b>184</b> may be secured over the lens <b>182</b> with a retainer <b>186</b>. A seal (not shown) may resist moisture intrusion past the lens covering <b>184</b>. In some embodiments, one or more of the cameras <b>133</b> may include infrared (visible and/or invisible) illuminators <b>188</b> contained with the housing <b>180</b>.</p>
+<p id="p-0096" num="0095">In some embodiments, the lens covering <b>184</b> may form a transparent disk incorporating a hydrophilic coating. Hydrophilic coatings were found to perform well in foggy environments. Hydrophobic coatings were also found to provide similar performance benefits. In addition or alternatively, the covering <b>184</b> may provide one or more of anti-reflective, anti-glare, and polarizing properties.</p>
+<p id="p-0097" num="0096">In still other embodiments, the covering <b>184</b> may be a multilayer component. Over time, the outermost layer may accumulate dirt and other contaminants, or may otherwise degrade. By using a multilayer component however, the outermost layer <b>184</b><i>a </i>of the covering <b>184</b> may be peeled away from the remaining portion of the covering as shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>, exposing the next layer as the now-outermost layer. This process may be repeated as needed to maintain optical clarity for the vision sensor. When the covering is exhausted, a new multilayer covering may be installed and the process repeated.</p>
+<p id="p-0098" num="0097">In addition to the multilayer concept, the lens covering may instead be removed and either replaced or cleaned as needed. For example, the retainer <b>186</b> may be unscrewed from the lens mount and the lens covering removed/replaced.</p>
+<p id="p-0099" num="0098">Accordingly, one or more of the vision sensors/cameras may include a lens covering, wherein the lens covering includes one or more of a hydrophilic lens covering, a hydrophobic lens covering, an anti-reflective lens covering, an anti-glare lens covering, a polarizing filter, and one or more removable layers.</p>
+<p id="p-0100" num="0099">While shown as a separate component, the lens covering may be a film applied to the lens itself Alternatively, the camera housing <b>180</b> may be located behind a transparent window, wherein the window includes a film or coating like those described above.</p>
+<p id="p-0101" num="0100">The complete disclosure of the patents, patent documents, and publications cited herein are incorporated by reference in their entirety as if each were individually incorporated. In the event that any inconsistency exists between the disclosure of the present application and the disclosure(s) of any document incorporated herein by reference, the disclosure of the present application shall govern.</p>
+<p id="p-0102" num="0101">Illustrative embodiments are described and reference has been made to possible variations of the same. These and other variations, combinations, and modifications will be apparent to those skilled in the art, and it should be understood that the claims are not limited to the illustrative embodiments set forth herein.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-01-17" num="01-17">
+<claim-text><b>1</b>-<b>17</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. A method for autonomous machine navigation comprising:
+<claim-text>placing a ground maintenance machine within a work region defined by one or more boundaries, the machine comprising:
+<claim-text>two or more vision sensors, each vision sensor adapted to capture image data within a field of view (FOV) defined by the vision sensor, wherein each vision sensor defines a different FOV relative to the machine; and</claim-text>
+<claim-text>a controller in communication with each of the vision sensors;</claim-text>
+</claim-text>
+<claim-text>designating at least one of the vision sensors as a localization vision sensor; and</claim-text>
+<claim-text>determining with the controller a vision-based pose of the machine, the pose representing one or both of a position and an orientation of the machine relative to the work region, wherein determining the pose of the machine is based upon matching features in the image data received from the localization vision sensor to features associated with a previously-identified three-dimensional point cloud (3DPC) used to define the work region,</claim-text>
+<claim-text>wherein designating at least one of the vision sensors as the localization vision sensor comprises either:</claim-text>
+<claim-text>(a) analyzing the image data from each of the vision sensors;
+<claim-text>identifying a first vision sensor from among the two or more vision sensors, wherein the FOV of the first vision sensor contains a greater number of feature matches with features of the 3DPC than the FOV of any of the other vision sensors; and selecting the first vision sensor as the localization vision sensor; or</claim-text>
+</claim-text>
+<claim-text>(b) selecting which of the vision sensors has the FOV that is predicted by the controller to contain either: a greater number of features of the 3DPC; or a feature or cluster of features having a recognition score greater than a recognition score of the features or cluster of features predicted to be within the FOV of any of the other vision sensors.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The method of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein designating the localization vision sensor comprises selecting which of the vision sensors has the FOV that is predicted by the controller in accordance with element (b) above and further comprises:
+<claim-text>dividing the FOV of each vision sensor into a first zone and a second zone;</claim-text>
+<claim-text>predicting, based upon the pose of the machine as estimated by the controller, either the number of features, or the recognition score of features, of the 3DPC contained within the first zone of the FOV of each of the vision sensors; and</claim-text>
+<claim-text>designating the localization vision sensor to be the vision sensor having the first zone predicted by the controller to contain either: the greatest number of features of the 3DPC; or the greatest recognition score of features of the 3DPC.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein matching features in the image data comprises:
+<claim-text>dividing the FOV of one or more of the vision sensors into a first zone and a second zone; and</claim-text>
+<claim-text>matching features in the image data to features associated with the 3DPC using only the image data from the first zone.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein dividing the FOV comprises dividing the FOV such that the first zone is located vertically above the second zone.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The method of <claim-ref idref="CLM-00018">claim 18</claim-ref>, further comprising:
+<claim-text>collecting visual odometry data from one or more of the vision sensors; and</claim-text>
+<claim-text>correcting the pose of the machine based upon the visual odometry data.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. An autonomous ground maintenance machine comprising:
+<claim-text>a housing supporting a ground maintenance implement;</claim-text>
+<claim-text>drive wheels supporting the housing in rolling engagement with a ground surface of a work region;</claim-text>
+<claim-text>a propulsion system coupled to the drive wheels and adapted to control rotational speed and direction of the drive wheels;</claim-text>
+<claim-text>a vision system comprising at least two cameras, wherein each camera captures image data within a field of view (FOV) different than the FOV of the other camera(s), and wherein one of the cameras is designated as a localization camera and one of the cameras is designated as a visual odometry camera; and</claim-text>
+<claim-text>a controller operatively coupled to the vision system, wherein the controller is adapted to determine a vision-based pose of the machine, the pose representing one or both of a position and an orientation of the machine relative to the work region, and wherein the determination of the pose is based upon matching features in the image data from the localization camera to features associated with a previously-identified three-dimensional point cloud (3DPC) used to define the work region,</claim-text>
+<claim-text>wherein the visual odometry camera is adapted to provide visual odometry data to the controller.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The machine of <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein the visual odometry camera has a FOV directed transverse to a direction of travel of the machine.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The machine of <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein the localization camera and the visual odometry camera are the same camera.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The machine of <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein the localization camera and the visual odometry camera are different cameras.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. The machine of <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein the controller is adapted to:
+<claim-text>determine whether the drive wheels have slipped relative to the ground surface based upon the visual odometry data; and</claim-text>
+<claim-text>update the vision-based pose of the machine in response to determining that the drive wheels have slipped.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. The machine of <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein the FOV of each camera is divided into a first zone and a second zone.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. The machine of <claim-ref idref="CLM-00028">claim 28</claim-ref>, wherein the image data of the first zone of the FOV of each camera is provided to the controller for matching features with the 3DPC, and the image data of the second zone of the FOV of each camera is adapted to provide the visual odometry data to the controller.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. The machine of <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein the FOV of each camera extends 30-60 degrees above a horizontal plane.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text><b>31</b>. The machine of <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein one or more of the cameras comprises a lens covering, the lens covering comprising one or more of hydrophilic lens covering, a hydrophobic lens covering, an anti-reflective lens covering, an anti-glare lens covering, a polarizing filter, and one or more removable layers.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

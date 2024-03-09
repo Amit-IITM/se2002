@@ -1,0 +1,2221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225360A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225360</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18007138</doc-number>
+<date>20210729</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EP</country>
+<doc-number>20188554.8</doc-number>
+<date>20200730</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>J</subclass>
+<main-group>3</main-group>
+<subgroup>22</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>J</subclass>
+<main-group>3</main-group>
+<subgroup>16</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>33</main-group>
+<subgroup>185</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>33</main-group>
+<subgroup>12</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>J</subclass>
+<main-group>3</main-group>
+<subgroup>227</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>J</subclass>
+<main-group>3</main-group>
+<subgroup>16</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>33</main-group>
+<subgroup>185</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>33</main-group>
+<subgroup>12</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">PATATIN AS BINDER IN MEAT SUBSTITUTES</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>CO&#xd6;PERATIE KONINKLIJKE AVEBE U.A.</orgname>
+<address>
+<city>Veendam</city>
+<country>NL</country>
+</address>
+</addressbook>
+<residence>
+<country>NL</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>SPELBRINK</last-name>
+<first-name>Robin Eric Jacobus</first-name>
+<address>
+<city>Scharmer</city>
+<country>NL</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>SEEGERS</last-name>
+<first-name>Christina Lamberta Catharina</first-name>
+<address>
+<city>Groningen</city>
+<country>NL</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>STANISIC</last-name>
+<first-name>Nikola</first-name>
+<address>
+<city>Groningen</city>
+<country>NL</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>CHEN</last-name>
+<first-name>Zhenghong</first-name>
+<address>
+<city>Groningen</city>
+<country>NL</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/NL2021/050481</doc-number>
+<date>20210729</date>
+</document-id>
+<us-371c12-date><date>20230127</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The invention provides a method for suppressing off-flavor formation in food products which comprise or have been prepared from a mixture comprising water, a lipid and native patatin, as well as to food products thus obtained.</p>
+</abstract>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<p id="p-0002" num="0001">Native patatin can be used in food products for various reasons, including as a gelling agent or emulsifier. In food products which furthermore comprise a lipid, and in which native patatin is in contact with the lipid, use of native patatin may under certain conditions cause the formation of off-flavors.</p>
+<p id="p-0003" num="0002">Patatin has been known to hydrolyze phospholipids and monoglycerides, but does not generally have hydrolytic activity on triglycerides (see for instance Hirschberg et al, Eur. J. Biochem 2001, 268, 5037, Galliard et al., Biochem. J. 1971, 121, 379 or Andrews et al, Biochem J. 1988, 252, 199). Patatin has however been described as having specific but low activity against triglycerides with short chain fatty acids, which is advantageous for the development of cheese flavor (WO 2014/007621). However, most common plant-based lipids do not comprise such short-chain fatty acids. In fact, most plant based lipids generally comprises only fatty acids having a chain length of C8 or longer. Thus, prior to the presently formulated insights, it has not been recognized that patatin may cause hydrolysis of lipids with medium to long chain fatty acids to a significant extent.</p>
+<p id="p-0004" num="0003">Bakery products, in particular vegan bakery products, may be based on a dough or batter which comprises native patatin. This dough or batter in general furthermore comprises a lipid. In such products, native patatin has the function of binding the dough or foaming the batter before and during the baking process, and stabilizing the emulsion. Although during baking, the patatin denatures, the obtained bakery product still benefits from the presence of the denatured protein, as it binds the bakery product to a solid palatable food product to provide the sponge structure and elastic texture. During the preparation of the dough or batter, as well as during baking however, the presence of native patatin may cause the generation of off-flavors, a drawback which has not formerly been recognized.</p>
+<p id="p-0005" num="0004">Meat substitutes are another class of food products in which native patatin may be present. In such products, native patatin has the function of a gelling agent, providing the product with an appropriate solid appearance. Inherently, a meat substitute also comprises a lipid.</p>
+<p id="p-0006" num="0005">Two generic types of meat substitutes may be distinguished. One type of meat substitute is the ready-to-eat type, which is cooked during the production process. This type of product can be consumed as-is or after re-heating, by a final consumer.</p>
+<p id="p-0007" num="0006">The second type of meat substitute is the &#x201c;raw-type&#x201d; meat substitute. A raw-type meat substitute mimics animal-derived meat in that it has not been cooked during production. A heating step prior to consumption is necessary.</p>
+<p id="p-0008" num="0007">In cases where a meat substitute comprises native patatin, the native patatin may cause off-flavors, a problem which has not been recognized prior to formulation of the present insight. This problem is particularly present in raw-type meat substitutes, because in such products, the patatin remains native for a considerable time while being in contact with the lipid. However, also for ready-made products, the presence of patatin during preparation may cause off-flavors.</p>
+<p id="p-0009" num="0008">The present invention is based on the insight that native patatin may cause off-flavors when it is present in the presence of particular types of lipid. The invention provides mixtures comprising water, native patatin and particular types of lipid, which suppress the formation of off-flavors.</p>
+<heading id="h-0001" level="1">THE INVENTION</heading>
+<p id="p-0010" num="0009">The inventors found that the use of native patatin as a binder in lipid-containing food products results in formation of off-flavors at any time that a lipid is in contact with native patatin, and that off-flavor formation occurs faster at higher temperatures (as long as patatin does not denature).</p>
+<p id="p-0011" num="0010">Thus, off-flavor formation may occur during preparation, storage, and in the first stages of baking, for any food product which comprises or is prepared from native patatin. The inventors found that off-flavor formation can be prevented by preparing the food product using only particular types of lipid. This results in food products with decreased off-flavors and/or a long shelf-life, such as up to 14 days, or longer (if frozen).</p>
+<p id="p-0012" num="0011">The invention thus provides a method for making a food product, comprising</p>
+<p id="p-0013" num="0012">a) providing a mixture comprising water, native patatin and a lipid, which lipid is defined as a substance comprising fatty acid tri-esters of glycerol;</p>
+<p id="p-0014" num="0013">b) making the food product;</p>
+<p id="p-0015" num="0014">wherein the fatty acids in said lipid comprise less than 2% by mass of fatty acids having a chain length of C12 or less.</p>
+<p id="p-0016" num="0015">Native patatin is a protein which occurs in tubers, such as tubers of potato (<i>Solanum tuberosum</i>). The skilled person is aware which of the protein in a tuber can be considered patatin.</p>
+<p id="p-0017" num="0016">Patatin is a protein which is naturally present in the tuber as storage protein. Storage protein is protein which functions as a store for nitrogen, sulphur and/or carbon, enabling the plant to survive periods of adverse growth conditions or between growing seasons. Storage protein is generally present in a quantity of 40-50 wt. % of all protein in the tuber. Storage protein can generally be characterized by a molecular weight of 35-50 kDa, preferably 38-45 kDa and/or by an isoelectric point of 4.8-5.6. The molecular weight can be determined by commonly known methods, such as SDS page. The isoelectric point can also be determined by commonly known methods, such as for example isoelectric focusing.</p>
+<p id="p-0018" num="0017">In the present context, native patatin is preferably provided to the mixture in the form of a protein isolate comprising native patatin. In a preferred embodiment, the protein isolate comprising native patatin is a native tuber protein isolate, preferably a native potato protein isolate. In said native tuber protein isolate, protein is preferably present in a quantity of at least 75 wt. %, preferably at least 85 wt. %, relative to dry matter.</p>
+<p id="p-0019" num="0018">In preferred embodiments, the native tuber protein isolate, such as the native potato protein isolate, comprises, by wt. % of total protein, at least 35 wt. % of potato storage protein, preferably at least 40 wt. %. In embodiments where there is from 35 up to 60 wt. % of potato storage protein, relative to total protein, the tuber protein isolate can be called a total tuber protein isolate.</p>
+<p id="p-0020" num="0019">In further preferred embodiments, the native tuber protein isolate, such as the native potato protein isolate, comprises, by wt. % of total protein, at least 75 wt. % of potato storage protein, preferably at least 80 wt. %. In embodiments where there is 60 wt. % or more up to 85 wt. % of potato storage protein, relative to total protein, the tuber protein isolate can be called a HMW isolate comprising patatin.</p>
+<p id="p-0021" num="0020">In further preferred embodiments, the native tuber protein isolate, such as the native potato protein isolate, comprises, by wt. % of total protein, at least 90 wt. %, more preferably at least 95 wt. % of potato storage protein. In embodiments where there is 90 wt. % or more up to and including 100 wt. % of potato storage protein, relative to total protein, the tuber protein isolate can be called a patatin isolate. An example of a patatin isolate is Solanic 200 from Avebe.</p>
+<p id="p-0022" num="0021">Native patatin can be isolated from potato tubers, or from other potato-derived processing streams such as potato juice (for example the juice obtained as a side product in potato starch manufacturing), or potato cutting water (the processing water which is obtained when potatoes are being shaped for consumption as for example fries or chips). One particularly convenient method to isolate native patatin has been described in WO2008/069650, although the skilled person can obtain native patatin by other methods. In addition, native patatin is commercially available.</p>
+<p id="p-0023" num="0022">In further preferred embodiments, native patatin is used in the state in which it occurs in nature. That is, native patatin is preferably not modified, such as by crosslinking or complexation. As is generally known by the skilled person, native patatin is by definition a non-denatured protein; that is, native patatin is patatin which is capable of performing its natural biochemical function(s). Native patatin thus is not appreciably denatured, and has not been subjected to for example coagulation, such as heat coagulation or acid coagulation.</p>
+<p id="p-0024" num="0023">Native patatin can be present in the mixture at any quantity, such as from 0.1-25 wt. %, preferably 0.5-20 wt. %, more preferably 0.75-15 wt. %. Higher quantities of native patatin, as well as higher temperatures, result in higher off-flavor formation, which off-flavor formation can be suppressed or eliminated by applying a lipid as defined herein.</p>
+<p id="p-0025" num="0024">Water, also can be present in any quantity, such as in a quantity of 5-95 wt. %, preferably 10-90 wt. %, more preferably 15-85 wt. %. The quantity of water varies with the type of food product being prepared, as is well known in the art.</p>
+<p id="p-0026" num="0025">The lipid to be included in the mixture is defined as a substance comprising fatty acid tri-esters of glycerol, as is known in the art. A fatty acid tri-ester of glycerol is also known as a triacyl glyceride (TAG), or as a triglyceride. Although the term lipid may sometimes be used to include various other glycerol esters, such as phospholipids or glycolipids, the term lipid in the present context is limited to fatty acid tri-esters of glycerol, that is, molecules based on glycerol which are esterified with fatty acids on all three hydroxyl units of the glycerol moiety.</p>
+<p id="p-0027" num="0026">The fatty acids in said lipid comprise less than 2% by mass, preferably less than 1.5% by mass, more preferably less than 1% by mass, even more preferably less than 0.5% by mass, of fatty acids having a chain length of C12 or less.</p>
+<p id="p-0028" num="0027">In preferred embodiments, the fatty acids comprise less than 2% by mass, preferably less than 1.5% by mass, more preferably less than 1% by mass, even more preferably less than 0.5% by mass of fatty acids having a chain length of C14 or less.</p>
+<p id="p-0029" num="0028">In further preferred embodiments, the fatty acids comprise less than 30% by mass, preferably less than 25% by mass, more preferably less than 20% by mass, even more preferably less than 15% by mass of fatty acids having a chain length of C16 or less.</p>
+<p id="p-0030" num="0029">In further preferred embodiments, the lipid is a substance wherein at least 92% by mass, preferably at least 94% by mass, more preferably at least 96% by mass of the fatty acids are fatty acids having a chain length of C16 or higher.</p>
+<p id="p-0031" num="0030">In further preferred embodiments, the lipid is a substance wherein the total of C10-C16 fatty acids is less than 35% by mass, preferably less than 25% by mass, even more preferably 18% by mass, relative to the total fatty acids.</p>
+<p id="p-0032" num="0031">Native patatin, has been found to have at least some activity on some lipids comprising fatty acids with a chain length of C10 or higher, at least to a sufficient extent to cause off-flavors. This activity is also present on some lipids comprising fatty acids with a chain length of C12 or higher, and even on some lipids comprising fatty acids with a chain length of C14 or higher. Even lipids comprising fatty acids with a chain length of C16 or higher can be hydrolyzed by patatin to a degree which is sufficient to cause off-flavors.</p>
+<p id="p-0033" num="0032">It is thus an insight underlying the invention that patatin exerts activity on triglycerides with chain lengths of from C8 to C16, to such an extent that this activity causes off-flavors.</p>
+<p id="p-0034" num="0033">The action of patatin may be hydrolytic, but may also be another, yet unknown enzymatic activity of patatin, which activity is suppressed by applying a lipid as defined in claim <b>1</b> and elsewhere. The exact mechanism behind off-flavor formation in food products comprising native patatin but using a different lipid than in claim <b>1</b> is at present not understood. The examples show however that formulating a food product in line with the present invention suppresses off-flavor formation.</p>
+<p id="p-0035" num="0034">Off-flavors in the present context are defined as a lingering bitter sensation upon ingestion, which is accompanied by a stingy smell that can be described as &#x201c;paint&#x201d; or &#x201c;vomit&#x201d;. The lipids recited in claim <b>1</b> and elsewhere can be used to avoid off-flavor formation.</p>
+<p id="p-0036" num="0035">Off-flavor can preferably be determined by sensory evaluation. Off flavor can also be determined in model systems by measuring the release of free fatty acids and/or by measuring the para-anisidine value. In such cases, off-flavor can be defined as not present provided that the pAV of the lipid is maintained at 2 or less, preferably 1.5 or less, even more preferably 1 or less, and/or provided that the release of free fatty acids from the lipid is less than 50 mmol/kg oil, preferably less than 40 mmol./kg oil.</p>
+<p id="p-0037" num="0036">Much preferred lipids are plant-based lipids, such as a seed oil, nut oil, or fruit oil. Mixtures of different lipids may also be used. Particularly preferred lipids comprise one or more of the lipids in the group of corn oil, soybean oil, rapeseed oil, sunflower oil, grape seed oil, peanut oil, sesame oil, olive oil, shea butter, cocoa butter, and rice bran oil. In optional embodiments, the lipid may be partially hydrogenated.</p>
+<p id="p-0038" num="0037">The lipid may colloquially be referred to as a fat or an oil. An oil in the present context is a lipid which is liquid or viscous at 20&#xb0; C. (under atmospheric pressure). Liquid or viscous is a term which reflects the capability to flow under the influence of gravity.</p>
+<p id="p-0039" num="0038">Fat in the present context is a lipid which is solid at room temperature (20&#xb0; C.) (under atmospheric pressure). Solid in this context is defined as the capability to maintain a particular shape for at least 24 hours in the absence of support. If pressure is applied above atmospheric pressure, a solid lipid may change shape, which changed shape can be maintained for at least 24 hours after the pressure has been applied, without support.</p>
+<p id="p-0040" num="0039">The lipid to be provided to the mixture is preferably as pure as possible. That is, the quantity of free fatty acids (&#x201c;FFA&#x201d;) in the lipid is preferably less than 18 mmol per kg lipid, more preferably less than 9 mmol per kg lipid, even more preferably less than 3 mmol per kg lipid. The quantity of free fatty acids in the lipid can be determined by a chemical titration method, as described below. The quantity of free fatty acids can also be determined by HPLC, as is generally known in the art.</p>
+<p id="p-0041" num="0040">Additionally or alternatively, the total quantity of diacylglycerols (&#x201c;DAG&#x201d;) and monoacylglycerols (&#x201c;MAG&#x201d;) in the lipid to be provided to the mixture is preferably less than 10 wt. %, more preferably less than 6 wt. %, even more preferably less than 4 wt. %, relative to the total lipid. The quantity of DAG and MAG in the lipid can be determined by column chromatography or capillary gas chromatography as described in &#x201c;Standard Methods for the Analysis of Oils, Fats and Derivatives&#x201d;, 1<sup>st </sup>supplement to the 7<sup>th </sup>edition (IUPAC, 1987).</p>
+<p id="p-0042" num="0041">Food products which may be made using the present invention include any food product which comprises, or has been prepared from, a mixture comprising water, native patatin and a lipid as elsewhere defined.</p>
+<p id="p-0043" num="0042">In the present context, two types of food product may be distinguished, on the basis of the mechanisms by which off-flavors develop: food products which develop off-flavors due to a prolonged period in which native patatin is in contact with the lipid (&#x201c;cold storage&#x201d; type food product), and food products which develop off-flavors due to a brief heat shock in which native patatin is in contact with the lipid (&#x201c;heat shock&#x201d; type food products).</p>
+<p id="p-0044" num="0043">In cold storage type food products, the prolonged period in which native patatin is in contact with the lipid is generally a storage period, preferably cold storage. Storage includes any prolonged period in which no active steps are taken on the food product. Storage thus means that the food product is left to stand, for any reason, including one or more of storage prior to sale or transport, a period of gelation, or a period of ripening, maturing or fermenting.</p>
+<p id="p-0045" num="0044">Cold storage type food products are food products where making the food product comprises a step of cooling to a temperature of from &#x2212;35&#xb0; C. to 20&#xb0; C. In preferred embodiments, a cold storage type food product has not been heated to a temperature above 60&#xb0; C. prior to cooling.</p>
+<p id="p-0046" num="0045">Cold storage type food products are food products comprising water, patatin and a lipid, in which the native patatin is in contact with the lipid during a period of storage, wherein during the period of storage, the patatin is native, thereby having the potential to cause off-flavor formation, which off-flavor formation is suppressed by selecting a lipid according to the present invention.</p>
+<p id="p-0047" num="0046">In preferred cold storage type food products, the native patatin is present as a gelling agent in the mixture. In such cases, the temperature during storage is preferably 0-20&#xb0; C., more preferably 0&#xb0; C. to 10&#xb0; C., even more preferably 0-5&#xb0; C.</p>
+<p id="p-0048" num="0047">Examples of cold storage type food products are a meat substitute, batter, dough, cheese, cream cheese, butter, yoghurt, sauce, dressing, and cream, most preferably a plant-based (vegan) batter, dough, cheese, cream cheese, butter, yoghurt, sauce, dressing, or cream.</p>
+<p id="p-0049" num="0048">Heat shock type food products are food products where making the food product comprises a step of heating the food product to a temperature of at least 75&#xb0; C., preferably at least 125&#xb0; C., more preferably at least 150&#xb0; C. for a period of at least 1 minute, preferably at least 15 minutes. Heat shock type food products are food products which are prepared from a mixture of water, native patatin and a lipid, in which the native patatin is in contact with the lipid, and in which the rise in temperature during heating causes off-flavor formation prior to denaturation and concomitant inactivation of the patatin.</p>
+<p id="p-0050" num="0049">Examples of heat shock type food products are generally bakery products, such as a muffin, cookie, cake, pie, macaron, sponge cake or waffle. A further preferred heat shock type food product is a fried snack (a product with a crust and an inner filling, which is generally prepared by heating to a temperature of 150-200&#xb0; C. in fat or oil), such as a croquette, nugget, fish finger or lumpia, most preferably a plant-based (vegan) fried snack.</p>
+<p id="p-0051" num="0050">These two type of food products are not necessarily mutually exclusive: in some food products, both mechanisms for off-flavor formation are relevant. A dough which is ripened for a few hours to a few days at room temperature may be subsequently baked. In this case, the baked dough may suffer off-flavor formation by both mechanisms, if the lipid used was not a lipid according to the invention. Also, a meat substitute is stored cold for a prolonged period prior to being heated for cooking, so that also for a meat substitute, both mechanisms of off-flavor formation apply. A bakery product and a meat substitute are therefore much preferred embodiments of the invention.</p>
+<p id="p-0052" num="0051">Generally however, cold storage type food products can be distinguished from heat shock type food products, by identification of the main mechanism responsible for off-flavor formation in the food product, in cases where no lipid of the invention is applied.</p>
+<p id="p-0053" num="0052">Thus, a meat substitute is considered a cold storage type food product, because off-flavor formation occurs mostly during the period of cold storage, and the brief cooking/baking period contributes relatively little off-flavors. Bakery products such as muffins on the other hand, are considered heat-shock type food products, because there is relatively little off-flavor formation during the brief period of batter preparation prior to baking, and off-flavor formation occurs more readily during the baking period.</p>
+<p id="p-0054" num="0053">In preferred embodiments, a food product of the invention is a vegetarian or vegan food product, preferably a vegan food product. This has the advantage that the lipids introduced during the making of the food product can be controlled. This is because during the making of a vegan food product, lipids are generally introduced in the form of an isolated and/or purified plant-based lipid, which generally has a well-known composition. For food products comprising meat, fish or crustaceans, the meat, fish or crustacean contributes lipids, the composition of which may be less known, and/or contribute lipids not according to the invention.</p>
+<p id="p-0055" num="0054">Food products of the invention can be made by methods generally known for the making of the type of food product in question. Reference is made to common general knowledge on the making of any individual food product described herein.</p>
+<p id="p-0056" num="0055">Making the food product preferably comprises one or more of the steps of shaping, mixing, cooling, heating, fermentation, combination with further ingredients and/or a period of storage, preferably cold storage at a temperature of less than 15&#xb0; C., preferably less than 10&#xb0; C. This is generally known in the art.</p>
+<heading id="h-0002" level="2">Meat Substitutes</heading>
+<p id="p-0057" num="0056">In one embodiment, the invention provides a method for making a meat substitute, comprising</p>
+<p id="p-0058" num="0057">a) providing a mixture comprising water, a denatured plant protein, native patatin and a lipid, which lipid is defined as a substance comprising fatty acid tri-esters of glycerol;</p>
+<p id="p-0059" num="0058">b) shaping the meat substitute; and</p>
+<p id="p-0060" num="0059">c) cooling the meat substitute to a temperature of from &#x2212;35&#xb0; C. to 20&#xb0; C.;</p>
+<p id="p-0061" num="0060">wherein the fatty acids in said lipid comprise less than 2% by mass of fatty acids having a chain length of C12 or less. Reference is made to the further description of the lipid which may be used in the present invention, above.</p>
+<p id="p-0062" num="0061">A meat substitute, in the present context, is a product which resembles animal-derived meat, but which is prepared using mainly plant-based ingredients. A meat substitute is thus suitable for vegetarians, and may depending on the actual ingredients used, also be suitable for a vegan lifestyle.</p>
+<p id="p-0063" num="0062">A vegetarian meat substitute is a meat substitute which does not include meat derived from a mammal or a bird, but which may include meat derived from a fish or a crustacean such as shrimp or shellfish, and which may furthermore include non-meat animal derived products (products which do not require scarification of animals), such as milk, cream or egg. In preferred embodiments, a vegetarian meat substitute comprises no meat which has been derived from a mammal, bird, fish or crustacean, but which may comprise non-meat animal-derived products such as milk, cream or egg.</p>
+<p id="p-0064" num="0063">A vegan meat substitute is a meat substitute which does not include any animal-derived products. A vegan meat substitute comprises only plant-based ingredients.</p>
+<p id="p-0065" num="0064">Preferably, the meat substitute is a non-meat analogue of a burger, meatball, sausage, minced meat, schnitzel, skewer, nugget, rib, filet or meat chunk.</p>
+<p id="p-0066" num="0065">In order to obtain the meat substitute of the invention, first, a mixture is provided comprising water, a denatured protein, native patatin and a lipid. Preferably, the mixture comprises at least 20 wt. % of water, more preferably 30-85 wt. %, even more preferably 48-65 wt. %, even more preferably 51-61 wt. %, relative to the total weight of the mixture.</p>
+<p id="p-0067" num="0066">The denatured protein can be any non-meat protein, including (for certain vegetarian products) fish or crustacean derived protein. Preferably however, the denatured protein is a denatured plant protein. Denatured protein is preferably present at a quantity of 3-35 wt. %, preferably 10-30 wt. %, more preferably 15-26 wt. %, even more preferably 18-24 wt. %, relative to the total weight of the mixture.</p>
+<p id="p-0068" num="0067">The denatured plant protein is preferably a protein derived from a tuber, cereal, nut or legume. In particularly preferred embodiments, the protein is selected from the group consisting of soy protein, pea protein, wheat protein/gluten, potato protein, faba bean protein, mungbean protein, hemp seed protein, mushroom protein, sesame seed protein, sweet potato protein, chick pea protein, lentil protein, oat protein and spelt protein, most preferably soy protein or pea protein. The denatured plant protein is preferably a coagulated protein, such as a protein obtained by acid or heat coagulation. The skilled person can obtain denatured plant protein by generally known methods.</p>
+<p id="p-0069" num="0068">In much preferred embodiments, the denatured plant protein is a texturized plant protein. Texturized plant protein is well-known, and commercially available. Texturized plant protein is a plant-based protein which has been subjected to a step of extrusion, which provides the protein with a meat-like fibrous structure. In much preferred embodiments, the texturized plant protein is a texturized pea protein, a texturized soy protein, a texturized potato protein or a texturized gluten.</p>
+<p id="p-0070" num="0069">Native patatin is preferably present in the mixture in a quantity of 1-15 wt. %, preferably 2-10 wt. %, more preferably 2.5-7.5 wt. %, relative to the total weight of the mixture.</p>
+<p id="p-0071" num="0070">In preferred embodiments, native patatin is the sole native protein in the mixture, and in the final meat substitute. This has the advantage of providing good binding strength. In the present context, patatin being the sole native protein means that the mixture comprises 60 wt. % or more, preferably at least 90 wt. % or more, of potato storage protein, relative to all native protein. Thus, embodiments in which patatin is provided as a HMW isolate comprising patatin or, preferably, as a patatin isolate, are considered embodiments in which native patatin is present as the sole native protein. In particular the mixture preferably does not comprise native protease inhibitors.</p>
+<p id="p-0072" num="0071">Lipids as herein defined have been found to result in the advantage that the meat substitute does not develop off-flavor upon storage in the period between production and consumption. In addition, lipids as herein defined have been found to suppress off-flavor formation during heating of the meat substitute prior to consumption.</p>
+<p id="p-0073" num="0072">The lipid is preferably present in a quantity of 3-25 wt. %, preferably 5-18 wt. %, more preferably 8-15 wt. %, relative to the total weight of the mixture.</p>
+<p id="p-0074" num="0073">Preferably, in a meat substitute, the lipid is a fat or oil which has a melting point which is higher&#x2014;30&#xb0; C., more preferably higher than&#x2014;20&#xb0; C., even more preferably higher than &#x2212;10&#xb0; C., even more preferably higher than &#x2212;5&#xb0; C. The melting point of suitable lipids in the present context is generally known from for example text books, but may also be determined experimentally by heating the lipid slowly, and determining the temperature at which the lipid melts.</p>
+<p id="p-0075" num="0074">In preferred embodiments, the lipid of the invention is a lipid which is solid at temperatures in the range of from &#x2212;35&#xb0; C. to 20&#xb0; C., preferably of from &#x2212;18 to 15&#xb0; C., more preferably of from 0&#xb0; C. to 10&#xb0; C. Preferably, in this embodiment, the lipid has a melting point which is higher than 20&#xb0; C., more preferably higher than 25&#xb0; C., even more preferably higher than 30&#xb0; C. Using a lipid which is solid at room temperature has the advantage that the meat substitute can be provided with a meat-like appearance, and that shape of the meat substitute is maintained better.</p>
+<p id="p-0076" num="0075">In order to not affect bite and mouthfeel negatively, the lipid preferably has a melting point which is below 60&#xb0; C., preferably below 50&#xb0; C., more preferably below 45&#xb0; C., even more preferably below 40&#xb0; C.</p>
+<p id="p-0077" num="0076">Thus, the melting point of a lipid which is solid in the temperature range of from &#x2212;35&#xb0; C. to 20&#xb0; C. is preferably in the range of 20-60&#xb0; C., more preferably 25-50&#xb0; C., even more preferably 30-45&#xb0; C., and most preferably 30-40&#xb0; C. The mixture may generally be prepared by any conventional means, and may be prepared by mixing the ingredients in any order. In preferred embodiments, the denatured protein is mixed with part of the lipid, whereupon a second part of the lipid is added to obtain a homogenous mass which can be shaped by applying gentle pressure.</p>
+<p id="p-0078" num="0077">When the denatured protein is a texturized plant protein, it is preferred that the texturized protein is hydrated prior to providing the mixture. In such embodiments, the texturized plant protein is first mixed with water to effect hydration, and subsequently mixed with any other ingredients, as well as the lipid, or part of the lipid, as specified above. The mixture is preferably a homogenous mixture of the various ingredients.</p>
+<p id="p-0079" num="0078">In preferred embodiments, the mixture may additionally include various other ingredients, in order to enhance taste, appearance, texture, mouthfeel and the like. Preferably, the mixture includes one or more salts, such as salts selected from the group consisting of sodium, potassium or calcium chloride, sodium or potassium glutamate and calcium sulfate. Salts may be present in a quantity of for example 0.1-5 wt. %, preferably 0.5-2.5 wt. %, relative to the total weight of the mixture. In much preferred embodiments, the mixture comprises 0.1-3 wt. % sodium chloride, preferably 0.5-2 wt. %, relative to the total weight of the mixture.</p>
+<p id="p-0080" num="0079">Also, the mixture may include pigments, such as heme-like pigment, red beet pigment, carotene, caramel, beet juice extract, tomato pigment, radish pigment, paprika pigment and amaranth. The quantity of pigment varies with the type of pigment used, and can be determined by routine experiments.</p>
+<p id="p-0081" num="0080">In preferred embodiments, the mixture furthermore includes one or more fibers, in particular dietary fibers, such as selected from the group consisting of potato fiber, sweet potato fiber, carrot fiber, psyllium fiber, bamboo fiber, soybean fiber, pea fiber, mungbean fiber, tapioca fiber, coconut fiber, banana fiber, cellulose, resistant starch, resistant dextrins, inulin, lignin, chitin, pectin, beta-glucan, and oligosaccharide. The quantity of fiber can be 0.1-10 wt. %, preferably 0.5-7.5 wt. %, more preferably 1-5 wt. %, relative to the total weight of the mixture.</p>
+<p id="p-0082" num="0081">Also, texturisers such as native starch, modified starch, cellulose derivatives, carrageenan, alginate, agar, konjac, xanthan, and pectin may be included in the mixture, preferably at a quantity of 1-10 wt. %, preferably 1.5-5 wt. %, relative to the total weight of the mixture.</p>
+<p id="p-0083" num="0082">Furthermore preferred is to include flavor development aids, such Maillard-active ingredients, among which for example dextrose, ribose and maltodextrin. Flavor development aids can be present in a quantity of 0.1-5 wt. %, preferably 0.2-2 wt. %, relative to the total weight of the mixture.</p>
+<p id="p-0084" num="0083">Also other flavorings can be present in the mixture, such as for example a sweetener selected from the group consisting of sucrose, glucose, fructose, syrup, and artificial sweeteners.</p>
+<p id="p-0085" num="0084">In preferred embodiments, the mixture, or the resulting meat substitute, does not comprise a hydrocolloid, such as alginate, agar, konjac, xanthan, pectin or carrageenan. In further preferred embodiments, the mixture, or the resulting meat substitute, does not comprise a gelling non-starch carbohydrate, such as such as cellulose derivatives, in particular methylcellulose or carboxy methyl cellulose. In further preferred embodiments, the mixture, or the resulting meat substitute, does not comprise a modified starch.</p>
+<p id="p-0086" num="0085">The ingredients of the mixture native patatin, lipid and protein can be present in various weight ratios. The weight ratio native patatin:lipid is preferably 1: 1-1:5, more preferably 1: 1-1:3. The weight ratio lipid:denatured protein is preferably 1: 1-1:5, more preferably 1: 1-1:3. The weight ratio patatin:protein is preferably 1: 1-1:10, more preferably 1: 2-1:6. The weight ratio patatin:lipid:protein is thus preferably in the order of 1:(1-3):(2-6), preferably 1:(1.5-2.5):(3-4). The remainder of the mixture is water and optional further ingredients, as outlined elsewhere.</p>
+<p id="p-0087" num="0086">The mixture described above is subsequently shaped into a desired shape. The shape is determined by the type of meat substitute. Any shape can be used, although in order to attract consumer preference, the chosen shape is preferably customary for the type of meat substitute in question. For example, a burger may be shaped in round disk-like shape, a sausage may be provided with a cylindrical shape, and a meat ball with a globular shape.</p>
+<p id="p-0088" num="0087">Shaping can be achieved by any conventional means. Preferably however, shaping is achieved by introducing the mixture into a mold of the chosen shape. Preferably, the mixture is introduced into the chosen mold, and subsequently pressed to attain a dense structure similar to animal-derived meat.</p>
+<p id="p-0089" num="0088">The mixture is subsequently cooled to a temperature of from &#x2212;35&#xb0; C. to 20&#xb0; C., preferably of from &#x2212;18 to 15&#xb0; C., more preferably of from 0&#xb0; C. to 10&#xb0; C., more preferably 0-5&#xb0; C. Cooling results in gelation of the native patatin, and thus has the effect that the shape of the meat substitute can be maintained also without the mold. Cooling may be achieved by any conventional means. Refrigeration is preferred. If cooling is performed to a temperature below 0&#xb0; C., it is preferred that cooling is performed in two steps: first to a temperature of 0-20&#xb0; C. to effect gelation of the patatin, and subsequently to a lower temperature.</p>
+<p id="p-0090" num="0089">In much preferred embodiments, the method of the invention results in a raw-type meat substitute. In this embodiment, the meat substitute is not heated to a temperature above 60&#xb0; C. prior to cooling. Instead, the meat substitute is cooled and generally maintained at the temperature of from &#x2212;35&#xb0; C. to 20&#xb0; C., preferably of from &#x2212;18 to 15&#xb0; C., more preferably of from 0&#xb0; C. to 10&#xb0; C., more preferably 0-5&#xb0; C., throughout the period until cooking the meat substitute. This period is the period between the production of the meat substitute and its consumption. In this period, the meat substitute is transported from the production location, to various retail shops, to the end consumer. This period is preferably 1-14 days. This is in particular true in embodiments where cooling is generally maintained at temperatures between 0&#xb0; C. to 15&#xb0; C.</p>
+<p id="p-0091" num="0090">In embodiments where cooling is maintained at temperatures below 0&#xb0; C. for a longer time, the period until cooking may be prolonged by the time during which the temperature was below 0&#xb0; C. The time during which the temperature is maintained below 0&#xb0; C. is called the freezing time, and the freezing time may be any time, such as of from one day to three years, preferably one week to one year.</p>
+<p id="p-0092" num="0091">Only when the meat substitute arrives at the end consumer, the burger is cooked, such as at a temperature of at least 75&#xb0; C. for a period of at least 1 minute.</p>
+<p id="p-0093" num="0092">In case the method is performed to obtain a ready-to-eat type meat substitute, the burger is cooked after shaping. Cooking in this case means heating to a temperature of at least 75&#xb0; C. for a period of at least 1 minute.</p>
+<p id="p-0094" num="0093">The invention furthermore provides a meat substitute, comprising water, native patatin, a denatured protein and a lipid, which lipid is defined as a substance comprising fatty acid tri-esters of glycerol, wherein the fatty acids in said lipid comprise less than 2% by mass of fatty acids having a chain length of C12 or less. Preferably, the fatty acids in the lipid comprise less than 2% by mass of fatty acids having a chain length of C14 or less. Further preferably, the fatty acids in the lipid comprise less than 30% by mass of fatty acids having a chain length of C16 or less.</p>
+<p id="p-0095" num="0094">The meat substitute comprises the ingredients water, native patatin, a denatured protein and a lipid. These ingredients have been described above, but the described features and definitions in the context of the method equally pertain to the meat substitute of the invention. The above description of providing the mixture allows to infer the composition of the final meat substitute, as the quantities and character of all the different ingredients are not affected by the preparation method, at least not prior to heating, when the patatin denatures.</p>
+<p id="p-0096" num="0095">Thus, summarizing the above without repeating all details, at least 92% by mass of the fatty acids in the lipid are fatty acids having a chain length of C16 or higher. Much preferred lipids are lipids in which less than 30% by mass of the fatty acids are fatty acids having a chain length of C10-C16. The lipid in the meat substitute preferably comprises one or more of the lipids in the group of corn oil, soybean oil, rapeseed oil, sunflower oil, grape seed oil, peanut oil, sesame oil, olive oil, shea butter, cocoa butter, and rice bran oil, which lipids may optionally have been hydrogenated.</p>
+<p id="p-0097" num="0096">The denatured plant protein is preferably a protein derived a tuber, cereal, nut or legume. In particularly preferred embodiments, the protein is selected from the group consisting of soy protein, pea protein, wheat protein/gluten, potato protein, faba bean protein, mungbean protein, hemp seed protein, mushroom protein, sesame seed protein, sweet potato protein, chick pea protein, lentil protein, oat protein and spelt protein, most preferably soy protein or pea protein. Preferably, the protein is a texturized plant protein.</p>
+<p id="p-0098" num="0097">The meat substitute comprises less than 18 mmol per kg lipid of free fatty acids and alternatively or additionally have a total of diacylglycerols and monoacylglycerols, relative to the total lipid, of less than 10 wt. %.</p>
+<p id="p-0099" num="0098">The meat substitute may furthermore comprise various optional ingredients, such as one or more salts, such as a salt selected from the group consisting of sodium, potassium or calcium chloride, sodium or potassium glutamate and calcium sulfate, and/or one or more pigments, such as a pigment selected from the group consisting of heme-like pigment, red beet pigment, carotene, caramel, beet juice extract, tomato pigment, radish pigment, paprika pigment and amaranth, and/or one or more fibers, such as a fiber selected from the group consisting of potato fiber, sweet potato fiber, carrot fiber, psyllium fiber, bamboo fiber, soybean fiber, pea fiber, mungbean fiber, tapioca fiber, coconut fiber, banana fiber, cellulose, resistant starch, resistant dextrins, inulin, lignin, chitin, pectin, beta-glucan, and oligosaccharide, and/or one or more texturizers such as a texturizer selected from the group consisting of native starch, modified starch, cellulose derivatives, carrageenan, alginate, agar, konjac, xanthan, and pectin, and/or one or more flavor development aids selected from the group consisting of dextrose, ribose and maltodextrin, and/or one or more flavorings, such as a sweetener selected from the group consisting of sucrose, glucose, fructose, syrup, and artificial sweeteners.</p>
+<p id="p-0100" num="0099">The meat substitute of the invention preferably comprises patatin as the sole native protein. That is, the meat substitute preferably does not comprise other types of native protein than patatin, such as for example potato-derived protease inhibitor, or other types of native protein.</p>
+<heading id="h-0003" level="2">Bakery Products</heading>
+<p id="p-0101" num="0100">In another embodiment, the food product is a bakery product. In this embodiment, the method preferably comprises a step of heating the food product to a temperature of at least 75&#xb0; C., preferably at least 125&#xb0; C., more preferably at least 150&#xb0; C. for a period of at least 1 minute, preferably at least 15 minutes. In methods according to the invention in which the food product is a bakery product, the method comprises</p>
+<p id="p-0102" num="0101">a) providing a mixture comprising water, flour, native patatin and the lipid;</p>
+<p id="p-0103" num="0102">b) homogenizing and optionally ripening the mixture; and</p>
+<p id="p-0104" num="0103">c) heating the mixture to a temperature of at least 125&#xb0; C. for a period of at least 15 minutes.</p>
+<p id="p-0105" num="0104">The mixture may comprise water in quantities suitable for the type of bakery product in question. Reference is made to common general knowledge on the preparation of bakery products. If the bakery product is prepared from a batter, the mixture is generally liquid to viscous, and comprises water in a quantity of from 10-40 wt. %, preferably 15-35 wt. %, more preferably 20-30 wt. %. If the bakery product is prepared from a dough, the mixture generally comprises less water, such as from 5-30 wt. %, preferably 10-25 wt. %.</p>
+<p id="p-0106" num="0105">The mixture for making a baking product furthermore comprises flour. Flour can be any type of flour suitable for making the bakery product in question, which is known in the art. Preferred types of flour are wheat flour, maize flour, tapioca flour, soy flour, rice flour, bean flour, pea flour, potato flour, oat flour, millet flour, sorghum flour, preferably wheat flour or maize flour. Flour suitable for making bakery products is commercially available.</p>
+<p id="p-0107" num="0106">The mixture for preparing a bakery product furthermore comprises native patatin. Native patatin suitable for this context has been defined elsewhere. In the making of bakery products as herein defined, patatin denatures during the heating step. Off-flavors however develop during the heating step prior to patatin denaturation, and the invention provides mixtures which suppress this off-flavor formation.</p>
+<p id="p-0108" num="0107">The mixture for preparing a bakery product furthermore comprises a lipid. The lipid, also, has been defined elsewhere. Providing the said lipid to the mixture suppresses off-flavor formation during the heating step.</p>
+<p id="p-0109" num="0108">The mixture for preparing a bakery product furthermore may comprise additional ingredients conventional for the type of bakery product in question. Reference is made to common general knowledge on the making of bakery products.</p>
+<p id="p-0110" num="0109">In preferred embodiments, the mixture may comprise sugar. If sugar is present, sugar may be present in a quantity of from 5-35 wt. %, preferably 10-30 wt. %, more preferably 15-25 wt. %.</p>
+<p id="p-0111" num="0110">In further preferred embodiments, the mixture may comprise yeast. Yeast is particularly suitable in the making of bakery products from a dough, which has preferably been ripened.</p>
+<p id="p-0112" num="0111">In other preferred embodiments, the mixture may comprise a leavening agent. Appropriate leavening agents, and appropriate quantities of use, are generally known in the art. A preferred leavening agent is sodium bicarbonate, which may be present in the mixture a quantity of from 0.1-2 wt. %.</p>
+<p id="p-0113" num="0112">Further conventional ingredients can be salt, such as sodium chloride and/or potassium chloride, which may be present in a quantity of from 0.1-2 wt. %.</p>
+<p id="p-0114" num="0113">Furthermore, the mixture may comprise various known flavorings and additives, as is known in the art. Examples of flavorings include cocoa, vanilla extract, a sweetener, or various fruit, vegetable or meat-like flavorings. Additives may include emulsifiers, stabilizers and/or colorants, as is generally known.</p>
+<p id="p-0115" num="0114">In addition, conventional ingredients may include food items, such as solid food items, among which partitioned or whole fruit, for example partitioned apple pieces, whole or crushed berries or raisins, or partitioned meat, vegetables, chocolate, cheese and the like, as is known in the art. Liquid or viscous food items can also be used, such as milk, butter or cream. Inclusion of food items is particularly preferred in the making of bakery products such as pie, cookies or muffins.</p>
+<p id="p-0116" num="0115">The mixture is subsequently homogenized and optionally ripened, in line with conventional knowledge on the making of bakery products. Homogenization may include mixing, aeration, kneading, whipping, and may be done for any time needed to prepare a suitable dough or batter, such as from 1 minute to 30 minutes.</p>
+<p id="p-0117" num="0116">Ripening may include a period of standing, such as at a temperature of from 0-40&#xb0; C., preferably 2-36&#xb0; C. The period may be for example 30 minutes to 300 minutes, as is known in the art.</p>
+<p id="p-0118" num="0117">The step of ripening is preferred for example in cases where the mixture comprises yeast, in which case the temperature during ripening is preferably 20-40&#xb0; C., more preferably 25-36&#xb0; C.</p>
+<p id="p-0119" num="0118">The step of ripening is furthermore preferred in cases where the mixture is to gain increased viscosity, such as in cases where the native patatin is present as a gelling agent. In such cases, the temperature during ripening is preferably 0-20&#xb0; C., more preferably 0&#xb0; C. to 10&#xb0; C., even more preferably 0-5&#xb0; C.</p>
+<p id="p-0120" num="0119">The homogenized and optionally ripened mixture is subsequently baked in order to obtain the bakery product. Baking is achieved by a heating step appropriate for the type of bakery product in question, as is known in the art. Heating is to a temperature of at least 125&#xb0; C., preferably at least 150&#xb0; C. more preferably at least 175&#xb0; C., for a period of at least 15 minutes.</p>
+<p id="p-0121" num="0120">During the heating step, the mixture undergoes several changes conventional in the making of bakery products, and the patatin denatures. Denaturation of patatin occurs at a rate which is slower than the heating of the surface temperature of the bakery product, as the core temperature of the mixture during baking only gradually rises. Generally, the core temperature of the bakery product does not rise above 100&#xb0; C. during the baking period, so that patatin remains at least partially native to a sufficient extent to result in off-flavor formation, during the majority of the baking period. This off-flavor formation is avoided by selecting a lipid according to the invention.</p>
+<p id="p-0122" num="0121">In much preferred embodiments, the mixture does not comprise animal-derived ingredients. In such embodiments, the bakery product is a vegan bakery product, comprising only one or more plant-based lipids. Animal-derived ingredients include for example milk, cream and egg, as is known in the art.</p>
+<p id="p-0123" num="0122">One particularly preferred type of bakery product is a muffin. In this embodiment, the mixture is a batter, which batter may comprise of from 10-40 wt. % water, preferably 15-35 wt. %, more preferably 20-30 wt. %. The mixture furthermore comprises flour, preferably wheat flour, in a quantity of from 15-35 wt. %, preferably 20-30 wt. %. The lipid in mixture for making a muffin is present in a quantity of from 15-35 wt. %, preferably 20-30 wt. %.</p>
+<p id="p-0124" num="0123">Bakery products, among which muffins, obtained by the present method include the ingredients listed above for the method, generally in the outlined proportions. However, the mixture is altered by the heating step by various ways in line with common general knowledge, including denaturation of patatin, gelation of flour, decomposition of sodium bicarbonate, and others, resulting in a food product of the invention, obtainable by the methods described above.</p>
+<p id="p-0125" num="0124">For the purpose of clarity and a concise description features are described herein as part of the same or separate embodiments, however, it will be appreciated that the scope of the invention may include embodiments having combinations of all or some of the features described.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">EXAMPLES</heading>
+<heading id="h-0005" level="2">Chemicals</heading>
+<p id="p-0126" num="0125">The patatin used is commercially available (Solanic 200&#xae;, Avebe). Potato fiber was Paselli FP from Avebe.</p>
+<p id="p-0127" num="0126">Lipids which are solid at room temperature were 100% pure coconut oil (KTC); 100% red palm oil (Aman Prana); hydrogenated rapeseed oil; commercial vegetable oil A; commercial vegetable oil B, commercial oil palm stearin flakes and commercial shea butter.</p>
+<p id="p-0128" num="0127">Lipids which are liquid or viscous at 20&#xb0; C. were sunflower oil (Reddy); Olio di Sansa di Oliva (olive oil, Kalliston); corn oil (Olitalia); soybean oil (Levo); grapeseed oil (Saveurs de Lapalisse); rapeseed oil (Your Organic Nature); 100% pure sesame oil (Chee Seng); peanut oil (Heuschen &#x26; Schrouff) and rice oil (Alesie).</p>
+<p id="p-0129" num="0128">Texturized vegetable protein in the experiments was texturized soy protein: Soprotex N (Barentz).</p>
+<heading id="h-0006" level="2">Equipment for Emulsification</heading>
+<p id="p-0130" num="0129">When the experiments denote &#x201c;emulsification&#x201d;, a T18 Ultraturrax with T18N (10 or 19 g) disperging tool or a T25 Ultraturrax with T25N (8 g) disperging tool from IKA were used. Results with the two types of equipment are identical. In addition, an Analog vortex mixer from VWR was used, and a Multifuge 1S-R or X3R benchtop centrifuge from Thermo Scientific. For weighing, a BP3100 S balance from Satorius was used.</p>
+<p id="p-0131" num="0000">Incubation of Patatin with Lipids and Extraction of the Lipid</p>
+<p id="p-0132" num="0130">A patatin solution was prepared of 3.3% in demineralized water. Solid lipids were melted at 50 or 60&#xb0; C. except for palm stearin flakes, which were used in solid form. The lipid was added in a 1:1 (w/w) ratio to the patatin solution or to demineralized water, which served as a control. The solutions were mixed by turrax for 1 minute at about 10.000 rpm, except for palm stearin flakes. Then, the solutions were left at room temperature overnight under gently shaking so that release of fatty acids and fat oxidation could occur.</p>
+<p id="p-0133" num="0131">Subsequently hexane was added in a quantity of about 5 ml per 2-gram solution, and the sample was vortexed several times in a time frame of 30 minutes to extract the lipids from the aqueous phase. Subsequently, the layers were separated by centrifugation (5 minutes, 4700 rpm, swing-out). The hexane layer (top layer) was used for determination of free fatty acids and/or pAV. The protocol above was followed unless indicated otherwise.</p>
+<heading id="h-0007" level="2">Determination of Free Fatty Acid Formation</heading>
+<p id="p-0134" num="0132">Patatin cleaves the ester linkage between a fatty acid and the glycerol core, producing free fatty acids. Titrimetry was used to determine the free fatty acid content of mixtures of patatin and a lipid after hexane extraction. The method is based on chemical titration method published by the Cyberlipid Center (Leray).</p>
+<p id="p-0135" num="0133">A solvent mixture (ethanol/tert-Butyl methyl ether, 1/1, v/v) was prepared and 10 ml phenolphthalein solution was added. As titrant a 10 mM KOH in ethanol solution was prepared. The hexane layer of the oil phase was transferred by a glass pipet to a 100 ml Erlenmeyer with cap. Solvent mixture was added to obtain approximately 30-50 ml solution. Titrant was added while stirring the solution on a magnetic stirrer to the end point of the indicator (light purple colour persisting for few seconds). The amount of titrant added was determined by weighting the Erlenmeyer before and after titrant addition. The weight was used to calculate the mmol alkaline/kg of oil was used. The value was corrected for the blank.</p>
+<p id="p-0136" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+ <mrow>
+  <mi>Equation</mi>
+  <mo>=</mo>
+  <mrow>
+   <mrow>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mi>m</mi>
+       <mi>titrant</mi>
+      </msub>
+      <mo>*</mo>
+      <msub>
+       <mi>M</mi>
+       <mi>titrant</mi>
+      </msub>
+     </mrow>
+     <msub>
+      <mi>m</mi>
+      <mi>oil</mi>
+     </msub>
+    </mfrac>
+    <mo>*</mo>
+    <mn>1000</mn>
+   </mrow>
+   <mo>=</mo>
+   <mrow>
+    <mi>m</mi>
+    <mo>&#x2062;</mo>
+    <mtext>  </mtext>
+    <mi>mol</mi>
+    <mo>&#x2062;</mo>
+    <mtext>  </mtext>
+    <mrow>
+     <mi>KOH</mi>
+     <mo>/</mo>
+     <mi>kg</mi>
+    </mrow>
+    <mo>&#x2062;</mo>
+    <mtext>   </mtext>
+    <mi>oil</mi>
+   </mrow>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0137" num="0000">in which m<sub>titrant </sub>is mass of titrant added to sample in g, M<sub>titrant </sub>is the molar mass in mmol KOH/g titrant and m<sub>oil </sub>is the mass of oil in the sample in g.</p>
+<p id="p-0138" num="0134">Determination of para-anisidine value (pAV) of lipids Secondary oxidation products were determined by measuring the para-Anisidine value (pAV) according to the method of the American Oil Chemists Society (AOCS, 2004, Official method Cd. 18-90 in: Official methods and recommended practices of the American Oil Chemists Society). This method detects fatty aldehydes, in particular unsaturated ones. The p-anisidine value is defined as 100 times the optical density measured at 350 nm in a 1 cm cuvette of a solution containing 1.00 g of the oil in 100 mL of a mixture of solvent and para-anisidine reagent (20 mM para-anisidine, SigmaAldrich A88255).</p>
+<heading id="h-0008" level="2">Determination of Fatty Acid Composition by Gas Chromatography</heading>
+<p id="p-0139" num="0135">The fatty acid composition of a lipid was determined by GC, on the basis of full lipid hydrolysis and conversion of the fatty acids to methyl esters.</p>
+<p id="p-0140" num="0136">A lipid sample of about 5 mg was weighed in a 20 ml glass tube, to which there was added 2 ml methanol containing 50M NaOH. The tube was closed, and incubated for 30 min at 70&#xb0; C. in a block heater. After cooling to room temperature, 3 ml 20% BF<sub>3 </sub>reagent in MeOH was added to the tube, effecting methylation of the fatty acids to obtain fatty acid methyl esters (FAME's).</p>
+<p id="p-0141" num="0137">The samples were cooled to room temperature, whereupon 5 ml saturated aqueous NaCl and 2.5 ml n-hexane was added. The tube was closed and vortexed for 1 min and mixed for 15 min with a test tube rotator. From the top hexane layer, there was taken 2 ml, which was transferred to the GC.</p>
+<p id="p-0142" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="77pt" align="left"/>
+<colspec colname="2" colwidth="140pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Column</entry>
+<entry>Stabil Wax-Da, 30 m &#xd7; 0.32 mm, 0.25 &#x3bc;m</entry>
+</row>
+<row>
+<entry>Oven</entry>
+<entry>50&#xb0; C. for 2 min, ramp 16&#xb0; C./min to 250&#xb0; C. </entry>
+</row>
+<row>
+<entry/>
+<entry>and hold 13 min isotherm at 250&#xb0; C.</entry>
+</row>
+<row>
+<entry>injector</entry>
+<entry>PTV 250&#xb0; C., flow: 1.2 ml/min, splitless flow: </entry>
+</row>
+<row>
+<entry/>
+<entry>50 ml/min, splitless time: 0.8 min</entry>
+</row>
+<row>
+<entry>Run Time</entry>
+<entry>Total run time is 30 min.</entry>
+</row>
+<row>
+<entry>Injection volume</entry>
+<entry>1 &#x3bc;l</entry>
+</row>
+<row>
+<entry>MS</entry>
+<entry>Fullsean (TIC) = 30-450 amu, dwell/sean time: </entry>
+</row>
+<row>
+<entry/>
+<entry>0.2 sec</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="77pt" align="left"/>
+<colspec colname="2" colwidth="70pt" align="left"/>
+<colspec colname="3" colwidth="70pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Retention time FAME'S</entry>
+<entry>FA_C12:0 10.63</entry>
+<entry>FA_C18:3 15.32</entry>
+</row>
+<row>
+<entry>(FA) (minute)</entry>
+<entry>FA_C14:0 12.03</entry>
+<entry>FA_C20:0 15.70</entry>
+</row>
+<row>
+<entry/>
+<entry>FA_C16:0 13.29</entry>
+<entry>FA_C20:1 15.90</entry>
+</row>
+<row>
+<entry/>
+<entry>FA_C18:0 14.46</entry>
+<entry>FA_C22:0 17.39</entry>
+</row>
+<row>
+<entry/>
+<entry>FA_C18:1 14.63</entry>
+<entry>FA_C22:1 17.69</entry>
+</row>
+<row>
+<entry/>
+<entry>FA_C18:2 14.91</entry>
+<entry>FA_C24:0 19.90</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0009" level="1">Example 1: Determination of the Fatty Acid Composition of Various Lipids</heading>
+<p id="p-0143" num="0138">Lipids were purchased as indicated. The fatty acid composition of the lipids was determined following the protocol described above. The results are shown in table 1.</p>
+<p id="p-0144" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="294pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>fatty acid composition of various lipids.</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="42pt" align="left"/>
+<colspec colname="1" colwidth="252pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>oil</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="28pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="center"/>
+<colspec colname="9" colwidth="28pt" align="center"/>
+<colspec colname="10" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Palm</entry>
+<entry>Red</entry>
+<entry>Palm</entry>
+<entry>Rice</entry>
+<entry/>
+<entry>Soy</entry>
+<entry>Grape-</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Coconut</entry>
+<entry>kernal</entry>
+<entry>palm</entry>
+<entry>stearin</entry>
+<entry>oil</entry>
+<entry>Corn</entry>
+<entry>bean</entry>
+<entry>seed</entry>
+<entry>Sesam</entry>
+</row>
+<row>
+<entry/>
+<entry>%</entry>
+<entry>%</entry>
+<entry>%</entry>
+<entry>%</entry>
+<entry>%</entry>
+<entry>%</entry>
+<entry>%</entry>
+<entry>%</entry>
+<entry>%</entry>
+</row>
+<row>
+<entry>FA</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>C4:0</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry>C6:0</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry>C8:0</entry>
+<entry>12.5</entry>
+<entry>&#x2002;5.0</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry>C10:0</entry>
+<entry>10.5</entry>
+<entry>48.0</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry>C12:0</entry>
+<entry>29.7</entry>
+<entry>16.0</entry>
+<entry>1.3</entry>
+<entry>ND</entry>
+<entry>0.9</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry>C14:0</entry>
+<entry>16.7</entry>
+<entry>&#x2002;8.0</entry>
+<entry>3.6</entry>
+<entry>&#x2002;4.1</entry>
+<entry>0.9</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry>C16:0</entry>
+<entry>10.4</entry>
+<entry>&#x2002;2.0</entry>
+<entry>35.8&#x2002;</entry>
+<entry>39.6</entry>
+<entry>19.4&#x2002;</entry>
+<entry>16.9&#x2002;</entry>
+<entry>15.0</entry>
+<entry>12.8&#x2002;</entry>
+<entry>14.0</entry>
+</row>
+<row>
+<entry>C18:0</entry>
+<entry>&#x2002;5.0</entry>
+<entry>15.0</entry>
+<entry>8.5</entry>
+<entry>13.4</entry>
+<entry>4.9</entry>
+<entry>4.6</entry>
+<entry>&#x2002;6.6</entry>
+<entry>9.2</entry>
+<entry>11.8</entry>
+</row>
+<row>
+<entry>C18:1</entry>
+<entry>&#x2002;9.1</entry>
+<entry>ND</entry>
+<entry>32.5&#x2002;</entry>
+<entry>26.0</entry>
+<entry>32.9&#x2002;</entry>
+<entry>31.2&#x2002;</entry>
+<entry>24.7</entry>
+<entry>24.2&#x2002;</entry>
+<entry>33.8</entry>
+</row>
+<row>
+<entry>C18:2</entry>
+<entry>&#x2002;3.7</entry>
+<entry>ND</entry>
+<entry>14.0&#x2002;</entry>
+<entry>11.0</entry>
+<entry>26.9&#x2002;</entry>
+<entry>40.1&#x2002;</entry>
+<entry>37.4</entry>
+<entry>48.7&#x2002;</entry>
+<entry>32.3</entry>
+</row>
+<row>
+<entry>C18:3</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>2.9</entry>
+<entry>2.6</entry>
+<entry>11.3</entry>
+<entry>1.1</entry>
+<entry>&#x2002;1.3</entry>
+</row>
+<row>
+<entry>C20:0</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>0.8</entry>
+<entry>&#x2002;1.2</entry>
+<entry>2.5</entry>
+<entry>1.1</entry>
+<entry>ND</entry>
+<entry>0.6</entry>
+<entry>&#x2002;2.3</entry>
+</row>
+<row>
+<entry>C20:1</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>2.3</entry>
+<entry>1.0</entry>
+<entry>ND</entry>
+<entry>0.9</entry>
+<entry>&#x2002;0.9</entry>
+</row>
+<row>
+<entry>C22:0</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry>C22:1</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry>C24:0</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>1.1</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry>Rest FA</entry>
+<entry>&#x2002;2.5</entry>
+<entry>&#x2002;6.0</entry>
+<entry>3.5</entry>
+<entry>&#x2002;4.7</entry>
+<entry>5.5</entry>
+<entry>2.5</entry>
+<entry>&#x2002;5.1</entry>
+<entry>2.6</entry>
+<entry>&#x2002;3.7</entry>
+</row>
+<row>
+<entry>tot &#x2264; C12</entry>
+<entry>52.6</entry>
+<entry>69.0</entry>
+<entry>1.3</entry>
+<entry>&#x2002;0.0</entry>
+<entry>0.9</entry>
+<entry>0.0</entry>
+<entry>&#x2002;0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2002;0.0</entry>
+</row>
+<row>
+<entry>tot &#x2264; C14</entry>
+<entry>69.4</entry>
+<entry>77.0</entry>
+<entry>5.0</entry>
+<entry>&#x2002;4.1</entry>
+<entry>1.8</entry>
+<entry>0.0</entry>
+<entry>&#x2002;0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2002;0.0</entry>
+</row>
+<row>
+<entry>tot &#x2264; C16</entry>
+<entry>79.7</entry>
+<entry>79.0</entry>
+<entry>40.8&#x2002;</entry>
+<entry>43.7</entry>
+<entry>21.2&#x2002;</entry>
+<entry>16.9&#x2002;</entry>
+<entry>15.0</entry>
+<entry>12.8&#x2002;</entry>
+<entry>14.0</entry>
+</row>
+<row>
+<entry>tot &#x2265; C16</entry>
+<entry>28.2</entry>
+<entry>17.0</entry>
+<entry>91.6&#x2002;</entry>
+<entry>91.2</entry>
+<entry>92.9&#x2002;</entry>
+<entry>97.5&#x2002;</entry>
+<entry>95.0</entry>
+<entry>97.5&#x2002;</entry>
+<entry>96.4</entry>
+</row>
+<row>
+<entry>tot C10-C16</entry>
+<entry>67.3</entry>
+<entry>74.0</entry>
+<entry>40.8&#x2002;</entry>
+<entry>43.7</entry>
+<entry>21.2&#x2002;</entry>
+<entry>16.9&#x2002;</entry>
+<entry>15.0</entry>
+<entry>12.8&#x2002;</entry>
+<entry>14.0</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="91pt" align="left"/>
+<colspec colname="1" colwidth="203pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>oil</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="offset" colwidth="49pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="28pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Rape-</entry>
+<entry/>
+<entry/>
+<entry>shea</entry>
+<entry>Veg</entry>
+<entry>Veg</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Peanut</entry>
+<entry>seed</entry>
+<entry>Sunflower</entry>
+<entry>Olive</entry>
+<entry>butter</entry>
+<entry>oil B</entry>
+<entry>oil A</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>%</entry>
+<entry>%</entry>
+<entry>%</entry>
+<entry>%</entry>
+<entry>%</entry>
+<entry>%</entry>
+<entry>%</entry>
+</row>
+<row>
+<entry/>
+<entry>FA</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+<entry>(m/m)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>C4:0</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry/>
+<entry>C6:0</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry/>
+<entry>C8:0</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry/>
+<entry>C10:0</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry/>
+<entry>C12:0</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>&#x2002;0.6</entry>
+</row>
+<row>
+<entry/>
+<entry>C14:0</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry/>
+<entry>C16:0</entry>
+<entry>10.5&#x2002;</entry>
+<entry>8.3</entry>
+<entry>11.5&#x2002;</entry>
+<entry>17.3&#x2002;</entry>
+<entry>10.0</entry>
+<entry>8.7</entry>
+<entry>10.1</entry>
+</row>
+<row>
+<entry/>
+<entry>C18:0</entry>
+<entry>4.3</entry>
+<entry>21.1&#x2002;</entry>
+<entry>9.0</entry>
+<entry>7.7</entry>
+<entry>41.4</entry>
+<entry>30.2&#x2002;</entry>
+<entry>20.0</entry>
+</row>
+<row>
+<entry/>
+<entry>C18:1</entry>
+<entry>42.8&#x2002;</entry>
+<entry>27.6&#x2002;</entry>
+<entry>32.5&#x2002;</entry>
+<entry>46.9&#x2002;</entry>
+<entry>32.0</entry>
+<entry>40.4&#x2002;</entry>
+<entry>50.0</entry>
+</row>
+<row>
+<entry/>
+<entry>C18:2</entry>
+<entry>16.9&#x2002;</entry>
+<entry>13.3&#x2002;</entry>
+<entry>38.7&#x2002;</entry>
+<entry>16.3&#x2002;</entry>
+<entry>&#x2002;8.9</entry>
+<entry>10.8&#x2002;</entry>
+<entry>13.4</entry>
+</row>
+<row>
+<entry/>
+<entry>C18:3</entry>
+<entry>0.8</entry>
+<entry>9.5</entry>
+<entry>ND</entry>
+<entry>2.4</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry/>
+<entry>C20:0</entry>
+<entry>2.6</entry>
+<entry>3.7</entry>
+<entry>0.9</entry>
+<entry>1.7</entry>
+<entry>&#x2002;4.8</entry>
+<entry>3.5</entry>
+<entry>&#x2002;1.5</entry>
+</row>
+<row>
+<entry/>
+<entry>C20:1</entry>
+<entry>7.5</entry>
+<entry>2.7</entry>
+<entry>0.8</entry>
+<entry>1.4</entry>
+<entry>ND</entry>
+<entry>0.9</entry>
+<entry>&#x2002;0.7</entry>
+</row>
+<row>
+<entry/>
+<entry>C22:0</entry>
+<entry>6.2</entry>
+<entry>7.0</entry>
+<entry>2.5</entry>
+<entry>0.6</entry>
+<entry>ND</entry>
+<entry>1.9</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry/>
+<entry>C22:1</entry>
+<entry>1.1</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>&#x2002;1.6</entry>
+</row>
+<row>
+<entry/>
+<entry>C24:0</entry>
+<entry>4.4</entry>
+<entry>ND</entry>
+<entry>0.8</entry>
+<entry>ND</entry>
+<entry>ND</entry>
+<entry>0.7</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry/>
+<entry>Rest FA</entry>
+<entry>2.8</entry>
+<entry>6.9</entry>
+<entry>3.4</entry>
+<entry>5.7</entry>
+<entry>&#x2002;3.0</entry>
+<entry>3.1</entry>
+<entry>&#x2002;2.2</entry>
+</row>
+<row>
+<entry/>
+<entry>tot &#x2264; C12</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2002;0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2002;0.6</entry>
+</row>
+<row>
+<entry/>
+<entry>tot &#x2264; C14</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2002;0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2002;0.6</entry>
+</row>
+<row>
+<entry/>
+<entry>tot &#x2264; C16</entry>
+<entry>10.5&#x2002;</entry>
+<entry>8.3</entry>
+<entry>11.5&#x2002;</entry>
+<entry>17.3&#x2002;</entry>
+<entry>10.0</entry>
+<entry>8.7</entry>
+<entry>10.7</entry>
+</row>
+<row>
+<entry/>
+<entry>tot &#x2265; C16</entry>
+<entry>97.1&#x2002;</entry>
+<entry>93.2&#x2002;</entry>
+<entry>96.6&#x2002;</entry>
+<entry>94.3&#x2002;</entry>
+<entry>97.0</entry>
+<entry>96.9&#x2002;</entry>
+<entry>97.3</entry>
+</row>
+<row>
+<entry/>
+<entry>tot C10-C16</entry>
+<entry>10.5&#x2002;</entry>
+<entry>8.3</entry>
+<entry>11.5&#x2002;</entry>
+<entry>17.3&#x2002;</entry>
+<entry>10.0</entry>
+<entry>8.7</entry>
+<entry>10.7</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0010" level="1">Example 2: Free Fatty Acid Release from Lipids Upon Exposure to Native Patatin</heading>
+<p id="p-0145" num="0139">In order to assess the stability of different lipids in the presence of patatin, a series of emulsions was prepared from 33 gram per liter demiwater solutions of patatin and an equal amount by weight of lipid. Fats were melted before use, oils were used as is.</p>
+<p id="p-0146" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Free fatty acid formation of different lipids upon incubation </entry>
+</row>
+<row>
+<entry>with patatin</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="56pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>mmol</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Incubation</entry>
+<entry>FFA/kg</entry>
+<entry/>
+</row>
+<row>
+<entry>Substrate</entry>
+<entry>Patatin/blank</entry>
+<entry>temperature</entry>
+<entry>oil</entry>
+<entry>pAv</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="56pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Coconut oil</entry>
+<entry>Blank</entry>
+<entry>20&#xb0; C.</entry>
+<entry>2</entry>
+<entry>0.13</entry>
+</row>
+<row>
+<entry>Coconut oil</entry>
+<entry>patatin</entry>
+<entry>20&#xb0; C.</entry>
+<entry>51</entry>
+<entry>0.15</entry>
+</row>
+<row>
+<entry>Coconut oil</entry>
+<entry>patatin</entry>
+<entry>40&#xb0; C.</entry>
+<entry>89</entry>
+<entry>0.76</entry>
+</row>
+<row>
+<entry>Corn oil</entry>
+<entry>Blank</entry>
+<entry>20&#xb0; C.</entry>
+<entry>2</entry>
+<entry>0.13</entry>
+</row>
+<row>
+<entry>Corn oil</entry>
+<entry>patatin</entry>
+<entry>20&#xb0; C.</entry>
+<entry>31</entry>
+<entry>0.26</entry>
+</row>
+<row>
+<entry>Vegetable fat A</entry>
+<entry>Blank</entry>
+<entry>20&#xb0; C.</entry>
+<entry>3</entry>
+<entry>0.39</entry>
+</row>
+<row>
+<entry>Vegetable fat A</entry>
+<entry>patatin</entry>
+<entry>20&#xb0; C.</entry>
+<entry>43</entry>
+<entry>0.40</entry>
+</row>
+<row>
+<entry>Vegetable fat B</entry>
+<entry>Blank</entry>
+<entry>20&#xb0; C.</entry>
+<entry>2</entry>
+<entry>0.23</entry>
+</row>
+<row>
+<entry>Vegetable fat B</entry>
+<entry>patatin</entry>
+<entry>20&#xb0; C.</entry>
+<entry>53</entry>
+<entry>0.39</entry>
+</row>
+<row>
+<entry>Grapeseed oil</entry>
+<entry>patatin</entry>
+<entry>40&#xb0; C.</entry>
+<entry>16</entry>
+<entry>1.04</entry>
+</row>
+<row>
+<entry>Olive oil</entry>
+<entry>Blank.</entry>
+<entry>20&#xb0; C.</entry>
+<entry>4</entry>
+<entry>1.28</entry>
+</row>
+<row>
+<entry>Olive oil</entry>
+<entry>patatin</entry>
+<entry>20&#xb0; C.</entry>
+<entry>12</entry>
+<entry/>
+</row>
+<row>
+<entry>Olive oil</entry>
+<entry>patatin</entry>
+<entry>40&#xb0; C.</entry>
+<entry>22</entry>
+<entry>1.12</entry>
+</row>
+<row>
+<entry>Palm stearin</entry>
+<entry>Blank</entry>
+<entry>20&#xb0; C.</entry>
+<entry>8</entry>
+<entry>2.16</entry>
+</row>
+<row>
+<entry>Palm stearin</entry>
+<entry>patatin</entry>
+<entry>20&#xb0; C.</entry>
+<entry>38</entry>
+<entry>2.41</entry>
+</row>
+<row>
+<entry>Palm stearin</entry>
+<entry>patatin</entry>
+<entry>40&#xb0; C.</entry>
+<entry>104</entry>
+<entry>6.68</entry>
+</row>
+<row>
+<entry>Peanut oil</entry>
+<entry>patatin</entry>
+<entry>40&#xb0; C.</entry>
+<entry>16</entry>
+<entry>0.68</entry>
+</row>
+<row>
+<entry>Rapeseed oil</entry>
+<entry>patatin</entry>
+<entry>40&#xb0; C.</entry>
+<entry>11</entry>
+<entry>0.56</entry>
+</row>
+<row>
+<entry>Red palm oil</entry>
+<entry>patatin</entry>
+<entry>40&#xb0; C.</entry>
+<entry>277</entry>
+<entry>5.11</entry>
+</row>
+<row>
+<entry>Rice oil</entry>
+<entry>Blank</entry>
+<entry>20&#xb0; C.</entry>
+<entry>12</entry>
+<entry/>
+</row>
+<row>
+<entry>Rice oil</entry>
+<entry>patatin</entry>
+<entry>40&#xb0; C.</entry>
+<entry>41</entry>
+<entry>1.00</entry>
+</row>
+<row>
+<entry>Sesame oil</entry>
+<entry>patatin</entry>
+<entry>40&#xb0; C.</entry>
+<entry>12</entry>
+<entry>0.82</entry>
+</row>
+<row>
+<entry>Shea butter</entry>
+<entry>Blank</entry>
+<entry>20&#xb0; C.</entry>
+<entry>2</entry>
+<entry/>
+</row>
+<row>
+<entry>Shea butter</entry>
+<entry>patatin</entry>
+<entry>20&#xb0; C.</entry>
+<entry>28</entry>
+<entry/>
+</row>
+<row>
+<entry>Soybean oil</entry>
+<entry>Blank</entry>
+<entry>20&#xb0; C.</entry>
+<entry>2</entry>
+<entry>0.23</entry>
+</row>
+<row>
+<entry>Soybean oil</entry>
+<entry>patatin</entry>
+<entry>20&#xb0; C.</entry>
+<entry>38</entry>
+<entry>0.44</entry>
+</row>
+<row>
+<entry>Sunflower oil</entry>
+<entry>Blank</entry>
+<entry>20&#xb0; C.</entry>
+<entry>2</entry>
+<entry>0.54</entry>
+</row>
+<row>
+<entry>Sunflower oil</entry>
+<entry>patatin</entry>
+<entry>20&#xb0; C.</entry>
+<entry>7</entry>
+<entry/>
+</row>
+<row>
+<entry>Sunflower oil</entry>
+<entry>patatin</entry>
+<entry>40&#xb0; C.</entry>
+<entry>15</entry>
+<entry>0.65</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0147" num="0140">The lipid and water were emulsified by means of an ultraturrax (T18 Ultraturrax with T18N dispersing tool) operating at 10 krpm for 1 minute and these emulsions were incubated at either ambient temperature (20&#xb0; C.&#xb1;0.2&#xb0; C.) or at 40&#xb0; C. for one day under mild agitation. Blanks were measured at room temperature.</p>
+<p id="p-0148" num="0141">The free fatty acid content of the oils was then determined by titration as described; The pAV was also determined. The results are provided in table 2.</p>
+<p id="p-0149" num="0142">The results in table 2 show that in all cases a higher incubation temperature results in a higher free fatty acid content, which serves as an accelerated test to establish free fatty acid development in a meat substitute. Furthermore, this shows that in food products in general, a higher preparation temperature results in faster free fatty acid development. A high free fatty acid content may cause off-taste, for example by the presence of free fatty acids or by further oxidation of free fatty acids.</p>
+<heading id="h-0011" level="1">Example 3: Off-Flavor Formation in Patatin-Containing Emulsions Prepared with Various Lipids</heading>
+<p id="p-0150" num="0143">Emulsions were prepared from a 10 wt. % solution of patatin in water, by emulsification of the lipid in a patatin solution:lipid wt. ratio of 1:2. The emulsions are tested for off-flavor formation by sensoric testing by a panel of trained sensoric testers. The tests were performed immediately after preparation, and after two days of storage at room temperature, mimicking an accelerated cool storage period. The results are shown in table 3.</p>
+<p id="p-0151" num="0144">The results show that lipids with the fatty acid content specified in the text do not result off-flavor immediately after preparation, and are stable to storage. Lipids not in line with this definition result in serious off-flavors immediately after preparation, which even gets worse upon storage.</p>
+<p id="p-0152" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>results of sensory tests on patatin-lipid emulsions</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="98pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="63pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Off flavor </entry>
+<entry>Of flavor </entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>after</entry>
+<entry>after</entry>
+</row>
+<row>
+<entry/>
+<entry>Lipid</entry>
+<entry>preparation*</entry>
+<entry>storage*</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Sunflower oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Olive oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Rapeseed oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Rapeseed oil-hydrogenated</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Corn oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Soybean oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Rice oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Sesame oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Peanut oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Grapeseed oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Vegetable fat A</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Vegetable fat B</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Coconut oil</entry>
+<entry>++</entry>
+<entry>+++</entry>
+</row>
+<row>
+<entry/>
+<entry>Palm kernel oil</entry>
+<entry>+</entry>
+<entry>+</entry>
+</row>
+<row>
+<entry/>
+<entry>Red palm oil</entry>
+<entry>+</entry>
+<entry>+</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="left" id="FOO-00001">*&#x2212; not detected;</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="left" id="FOO-00002">+ detected;</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="left" id="FOO-00003">++ medium off flavor;</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="left" id="FOO-00004">+++ very strong off flavor</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0153" num="0145">Based on the results of examples 2 and 3 combined, it can be concluded that off-taste does not develop provided that the pAV is maintained at 2 or less, preferably 1.5 or less, even more preferably 1 or less. In addition, it can be concluded that off-taste does not develop provided that the release of free fatty acids is generally less than 50 mmol/kg oil, preferably less than 40 mmol./kg oil.</p>
+<heading id="h-0012" level="1">Example 4: Off-Flavor Formation in Patatin-Bound Meat Substitutes Prepared with Various Lipids</heading>
+<p id="p-0154" num="0146">A series of raw-type meat substitutes was prepared using various lipids. The meat substitute was prepared according to the standardized recipe shown below, following a standardized procedure.</p>
+<p id="p-0155" num="0147">The textured plant protein was hydrated and subsequently mixed with the dry ingredients and the sunflower oil in a Hobart mixing machine. A further portion of the variable lipid was introduced (melted where necessary), and further mixed to obtain a homogenous mixture. The mixture was shaped into a burger patty and allowed to solidify.</p>
+<p id="p-0156" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="49pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="126pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Ingredient</entry>
+<entry>Mass %</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="49pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="126pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Soy TVP</entry>
+<entry>21.0</entry>
+</row>
+<row>
+<entry/>
+<entry>Water</entry>
+<entry>56.0</entry>
+</row>
+<row>
+<entry/>
+<entry>Variable lipid</entry>
+<entry>8.0</entry>
+</row>
+<row>
+<entry/>
+<entry>Sunflower oil</entry>
+<entry>3.0</entry>
+</row>
+<row>
+<entry/>
+<entry>Solanic 200</entry>
+<entry>5.0</entry>
+</row>
+<row>
+<entry/>
+<entry>Potato starch</entry>
+<entry>3.0</entry>
+</row>
+<row>
+<entry/>
+<entry>Potato fiber</entry>
+<entry>2.5</entry>
+</row>
+<row>
+<entry/>
+<entry>Sodium salt</entry>
+<entry>1.0</entry>
+</row>
+<row>
+<entry/>
+<entry>Dextrose</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry/>
+<entry>Total</entry>
+<entry>100.0</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0157" num="0148">Off flavor formation was evaluated by sensoric testing by a panel of trained sensoric testers immediately after preparation, and after two days of storage at room temperature. These conditions mimic an accelerated cool storage period. The results are shown in table 4.</p>
+<p id="p-0158" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>off-flavor formation in meat substitutes prepared </entry>
+</row>
+<row>
+<entry>with various lipids.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="98pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="63pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Off flavor</entry>
+<entry>Off flavor </entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>after</entry>
+<entry>after</entry>
+</row>
+<row>
+<entry/>
+<entry>Variable lipid</entry>
+<entry>preparation*</entry>
+<entry>storage*</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Sunflower oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Olive oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Rapeseed oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Rapeseed oil-hydrogenated</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Corn oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Soybean oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Rice oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Sesame oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Peanut oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Grapeseed oil</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Vegetable fat A</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Vegetable fat B</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Coconut oil</entry>
+<entry>+++</entry>
+<entry>+++</entry>
+</row>
+<row>
+<entry/>
+<entry>Palm kernel oil</entry>
+<entry>+</entry>
+<entry>++</entry>
+</row>
+<row>
+<entry/>
+<entry>Red palm oil</entry>
+<entry>+</entry>
+<entry>++</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="left" id="FOO-00005">*&#x2212; not detected;</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="left" id="FOO-00006">+ detected;</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="left" id="FOO-00007">++ medium off flavor;</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="left" id="FOO-00008">+++ very strong off flavor</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0159" num="0149">The results show that in meat substitutes which apply native patatin as a binder, lipids as specified herein suppress off-flavor formation.</p>
+<heading id="h-0013" level="1">Example 5: Off-Flavor Formation in Bakery Products Prepared from Native Patatin in Combination with Various Lipids</heading>
+<p id="p-0160" num="0150">As a model bakery product, vegan muffins were prepared. The same method may however be adapted using common general knowledge on the preparation of other bakery products, preferably vegan bakery products, in order to obtain bakery products such as a cookie, cake, pie, macaron, sponge cake, or waffle.</p>
+<p id="p-0161" num="0151">Vegan (egg-free) muffins were prepared by preparing a batter as a mixture comprising water, native patatin and various lipids.</p>
+<p id="p-0162" num="0152">Native patatin was introduced in the batter as pure native patatin (Solanic 200 (&#x201c;S200&#x201d;), commercially available from Avebe), or as a native potato protein mixture comprising a roughly 1:1 ratio of native patatin and native potato protease inhibitor (&#x201c;PR mix&#x201d;). The lipids used were sunflower oil (&#x201c;SF&#x201d;), a lipid according to the invention, and coconut oil (&#x201c;Coco&#x201d;), as a reference lipid.</p>
+<p id="p-0163" num="0153">The muffins were prepared on the basis of the following ingredients:</p>
+<p id="p-0164" num="0000">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Coco-</entry>
+</row>
+<row>
+<entry/>
+<entry>SF-</entry>
+<entry>SF-PR</entry>
+<entry>Coco-</entry>
+<entry>PR-</entry>
+</row>
+<row>
+<entry/>
+<entry>S200</entry>
+<entry>mix</entry>
+<entry>S200</entry>
+<entry>mix</entry>
+</row>
+<row>
+<entry>Ingredient</entry>
+<entry>(%)</entry>
+<entry>(%)</entry>
+<entry>(%)</entry>
+<entry>(%)</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Solanic 200</entry>
+<entry>1.6</entry>
+<entry>/</entry>
+<entry>1.6</entry>
+<entry>/</entry>
+</row>
+<row>
+<entry>PR-mix</entry>
+<entry>/</entry>
+<entry>1.6</entry>
+<entry>/</entry>
+<entry>1.6</entry>
+</row>
+<row>
+<entry>Water</entry>
+<entry>23.8</entry>
+<entry>23.8</entry>
+<entry>23.8</entry>
+<entry>23.8</entry>
+</row>
+<row>
+<entry>Coconut oil</entry>
+<entry>/</entry>
+<entry>/</entry>
+<entry>25.3</entry>
+<entry>25.3</entry>
+</row>
+<row>
+<entry>Sunflower oil</entry>
+<entry>25.3</entry>
+<entry>25.3</entry>
+<entry>/</entry>
+<entry>/</entry>
+</row>
+<row>
+<entry>wheat flour</entry>
+<entry>25.3</entry>
+<entry>25.3</entry>
+<entry>25.3</entry>
+<entry>25.3</entry>
+</row>
+<row>
+<entry>Sugar</entry>
+<entry>22.8</entry>
+<entry>22.8</entry>
+<entry>22.8</entry>
+<entry>22.8</entry>
+</row>
+<row>
+<entry>Emul 16 (emulsifier from Breatec)</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>SAPP28 (Disodium diphosphate</entry>
+<entry>0.3</entry>
+<entry>0.3</entry>
+<entry>0.3</entry>
+<entry>0.3</entry>
+</row>
+<row>
+<entry>from Budenheim)</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Sodium bicarbonate</entry>
+<entry>0.2</entry>
+<entry>0.2</entry>
+<entry>0.2</entry>
+<entry>0.2</entry>
+</row>
+<row>
+<entry>Salt (NaCl)</entry>
+<entry>0.2</entry>
+<entry>0.2</entry>
+<entry>0 2</entry>
+<entry>0.2</entry>
+</row>
+<row>
+<entry>Total</entry>
+<entry>100.0</entry>
+<entry>100.0</entry>
+<entry>100.0</entry>
+<entry>100.0</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0165" num="0154">The muffins were prepared by mixing the dry ingredients into a homogenous mixture at room temperature (20&#xb0; C.), adding the lipid and the water to the dry mixture, and mixing this for two minutes into a batter with a smooth and silky appearance.</p>
+<p id="p-0166" num="0155">The batter was introduced into paper cups in portions of about 50 ml. The total time in which the native patatin was in contact with the lipid at room temperature was about ten minutes.</p>
+<p id="p-0167" num="0156">The paper cups with batter were subsequently baked for 33 minutes in an oven (Probat) at a temperature of 195&#xb0; C. in the upper part and 185&#xb0; C. in the bottom part, with an open valve for the last 5 minutes.</p>
+<p id="p-0168" num="0157">In line with common general knowledge on the preparation of bakery products, the heating temperature is the outside (oven) temperature; the core temperature of the bakery product will gradually rise during the baking period to about 95&#xb0; C., at which point the bakery product is ready. This leaves a significant period in which the lipid is in contact with native patatin at increased temperature, which period is associated with accelerated off-flavor formation, prior to the denaturation of patatin at the highest temperatures.</p>
+<p id="p-0169" num="0158">The sensory characteristics of the batter after preparation and of the muffin after baking were evaluated by a panel of trained experts in line with general practice in the food industry.</p>
+<p id="p-0170" num="0000">
+<tables id="TABLE-US-00008" num="00008">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="56pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Ingredient</entry>
+<entry>SF-S200</entry>
+<entry>SF-PRmix</entry>
+<entry>Coco-S200</entry>
+<entry>Coco-PRmix</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>After mixing</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+<entry>++</entry>
+<entry>+</entry>
+</row>
+<row>
+<entry>After baked</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+<entry>+++</entry>
+<entry>++</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00009">*The intensity of the detected off-smell is ranked from &#x201c;+&#x201d; (low intensity) to &#x201c;+++++&#x201d; (very strong intensity);</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00010">&#x201c;&#x2212;&#x201d;: means not detectable.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0171" num="0159">The results show that both the batters (before baking) as well as the muffins (after baking) comprising patatin and coconut oil have off-flavors, while the batters comprising patatin and the lipid of the invention, as well as muffins prepared therefrom, do not have off-flavors. Patatin in combination with a lipid as specified in the text do not result in any off-taste in bakery product, not in the batter, nor after baking. In addition, the results confirm that off-flavors develop in an accelerated fashion by creating a situation in which native patatin is in contact with those lipids not according to the invention at an increased temperature. This can be avoided by applying a lipid of the invention, thereby preventing off-flavor formation.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20230225360A1-20230720-M00001.NB">
+<img id="EMI-M00001" he="6.01mm" wi="76.20mm" file="US20230225360A1-20230720-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method for making a meat substitute, comprising
+<claim-text>a) providing a mixture comprising water, a denatured protein, native patatin and a lipid, which lipid is defined as a substance comprising fatty acid tri-esters of glycerol;</claim-text>
+<claim-text>b) shaping the meat substitute; and</claim-text>
+<claim-text>c) cooling the meat substitute to a temperature of from &#x2212;35&#xb0; C. to 20&#xb0; C.;</claim-text>
+<claim-text>wherein the fatty acids in said lipid comprise less than 2% by mass of fatty acids having a chain length of C12 or less, and wherein the denatured protein is a denatured plant protein derived from a tuber, cereal or nut, or a denatured plant protein selected from the group consisting of soy protein, faba bean protein, mungbean protein, mushroom protein, chick pea protein and lentil protein.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. A method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the fatty acids comprise less than 2% by mass of fatty acids having a chain length of C14 or less.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. A method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least 98% by mass of the fatty acids are fatty acids having a chain length of C12 or higher, preferably C14 or higher.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. A method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the lipid comprises one or more of the lipids in the group of corn oil, soybean oil, rapeseed oil, sunflower oil, grape seed oil, peanut oil, sesame oil, olive oil, shea butter, cocoa butter, and rice bran oil, which lipids may optionally have been hydrogenated.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. A method according to any of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the lipid provided to the mixture comprises less than 18 mmol per kg lipid of free fatty acids, and/or wherein the total of diacylglycerols and monoacylglycerols, relative to the total lipid, is less than 10 wt. %.</claim-text>
+</claim>
+<claim id="CLM-006-9" num="006-9">
+<claim-text><b>6</b>-<b>9</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. A method according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the meat substitute is not heated to a temperature above 60&#xb0; C. prior to cooling.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. A method according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the meat substitute is generally kept at a temperature of from &#x2212;35&#xb0; C. to 20&#xb0; C. throughout the period until cooking the meat substitute, which period is preferably 1-14 days, and wherein after the period until cooking and prior to consumption, the meat substitute is heated to a temperature of at least 75&#xb0; C. for a period of at least 1 minute.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. A method according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, further comprising including in the mixture one or more salts, such as a salt selected from the group consisting of sodium, potassium or calcium chloride, sodium or potassium glutamate and calcium sulfate, and/or one or more pigments, such as a pigment selected from the group consisting of heme-like pigment, red beet pigment, carotene, caramel, beet juice extract, tomato pigment, radish pigment, paprika pigment and amaranth, and/or one or more fibers, such as a fiber selected from the group consisting of potato fiber, sweet potato fiber, carrot fiber, psyllium fiber, bamboo fiber, soybean fiber, pea fiber, mungbean fiber, tapioca fiber, coconut fiber, banana fiber, cellulose, resistant starch, resistant dextrins, inulin, lignin, chitin, pectin, beta-glucan, and oligosaccharide, and/or one or more texturisers such as a texturizer selected from the group consisting of native starch, modified starch, cellulose derivatives, carrageenan, alginate, agar, konjac, xanthan, and pectin, and/or one or more flavor development aids selected from the group consisting of dextrose, ribose and maltodextrin, and/or one or more flavorings, such as a sweetener selected from the group consisting of sucrose, glucose, fructose, syrup, and artificial sweeteners.</claim-text>
+</claim>
+<claim id="CLM-14-17" num="14-17">
+<claim-text><b>14</b>.-<b>17</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. A meat substitute obtainable by the method of <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. A meat substitute comprising water, native patatin, a denatured protein and a lipid, which lipid is defined as a substance comprising fatty acid tri-esters of glycerol, wherein the fatty acids in said lipid comprise less than 2% by mass of fatty acids having a chain length of C12 or less, and wherein the denatured protein is a denatured plant protein derived from a tuber, cereal or nut, or a denatured plant protein selected from the group consisting of soy protein, faba bean protein, mungbean protein, mushroom protein, chick pea protein and lentil protein, and wherein the fatty acids comprise less than 2% by mass of fatty acids having a chain length of C14 or less.</claim-text>
+</claim>
+<claim id="CLM-20-23" num="20-23">
+<claim-text><b>20</b>-<b>23</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. A meat substitute according to <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein at least 98% by mass of the fatty acids are fatty acids having a chain length of C12 or higher, preferably C14 or higher.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. A meat substitute according to <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein the lipid comprises one or more of the lipids in the group of corn oil, soybean oil, rapeseed oil, sunflower oil, grape seed oil, peanut oil, sesame oil, olive oil, shea butter, cocoa butter, and rice bran oil, which lipids may optionally have been hydrogenated.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. A meat substitute according to <claim-ref idref="CLM-00025">claim 25</claim-ref>, wherein the lipid comprises less than 18 mmol per kg lipid of free fatty acids, and/or wherein the total of diacylglycerols and monoacylglycerols, relative to the total lipid, is less than 10 wt. %.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. A meat substitute according to <claim-ref idref="CLM-00027">claim 27</claim-ref>, further comprising one or more salts, such as a salt selected from the group consisting of sodium, potassium or calcium chloride, sodium or potassium glutamate and calcium sulfate, and/or one or more pigments, such as a pigment selected from the group consisting of heme-like pigment, red beet pigment, carotene, caramel, beet juice extract, tomato pigment, radish pigment, paprika pigment and amaranth, and/or one or more fibers, such as a fiber selected from the group consisting of potato fiber, sweet potato fiber, carrot fiber, psyllium fiber, bamboo fiber, soybean fiber, pea fiber, mungbean fiber, tapioca fiber, coconut fiber, banana fiber, cellulose, resistant starch, resistant dextrins, inulin, lignin, chitin, pectin, beta-glucan, and oligosaccharide, and/or one or more texturisers such as a texturizer selected from the group consisting of native starch, modified starch, cellulose derivatives, carrageenan, alginate, agar, konjac, xanthan, and pectin, and/or one or more flavor development aids selected from the group consisting of dextrose, ribose and maltodextrin, and/or one or more flavorings, such as a sweetener selected from the group consisting of sucrose, glucose, fructose, syrup, and artificial sweeteners.</claim-text>
+</claim>
+<claim id="CLM-29-32" num="29-32">
+<claim-text><b>29</b>-<b>32</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text><b>33</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the denatured plant protein is potato protein, sweet potato protein, wheat protein/gluten, oat protein, spelt protein, sesame seed protein, hemp seed protein or soy protein.</claim-text>
+</claim>
+<claim id="CLM-00034" num="00034">
+<claim-text><b>34</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the denatured plant protein is a texturized plant protein, preferably texturized soy protein, texturized potato protein or texturized gluten.</claim-text>
+</claim>
+<claim id="CLM-00035" num="00035">
+<claim-text><b>35</b>. The meat substitute according to <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the denatured plant protein is potato protein, sweet potato protein, wheat protein/gluten, oat protein, spelt protein, sesame seed protein, hemp seed protein or soy protein.</claim-text>
+</claim>
+<claim id="CLM-00036" num="00036">
+<claim-text><b>36</b>. The meat substitute according to <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the denatured plant protein is a texturized plant protein, preferably texturized soy protein, texturized potato protein or texturized gluten.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

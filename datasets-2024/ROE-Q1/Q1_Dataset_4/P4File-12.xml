@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225464A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225464</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18152060</doc-number>
+<date>20230109</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>44</class>
+<subclass>C</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>44</class>
+<subclass>C</subclass>
+<main-group>15</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>04</class>
+<subclass>W</subclass>
+<main-group>4</main-group>
+<subgroup>80</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>44</class>
+<subclass>C</subclass>
+<main-group>5</main-group>
+<subgroup>0015</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>44</class>
+<subclass>C</subclass>
+<main-group>15</main-group>
+<subgroup>0015</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20180201</date></cpc-version-indicator>
+<section>H</section>
+<class>04</class>
+<subclass>W</subclass>
+<main-group>4</main-group>
+<subgroup>80</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">SMART JEWELRY DEVICE AND SOCAIL NETWORK SYSTEM WITH SMART REMINDER AND SOCIAL FUNCTIONALITIES</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Zhao</last-name>
+<first-name>Shengzhe</first-name>
+<address>
+<city>Fremont</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Zhao</last-name>
+<first-name>Shengzhe</first-name>
+<address>
+<city>Fremont</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A smart jewelry device to provide smart reminder and social functionalities is disclosed. This smart jewelry device having embedded SOC chip, illumination units, micro vibration motors can be controlled by mobile devices. This smart jewelry device can be configured to flicker or vibrate following a specific pattern as user defined to reminder user a specific event happened in user's smart terminal device. This smart jewelry device provides a new way of data expression, that is, by encoding the data in including but not limited to Morse code, etc., so that the smart jewelry flashes according to the encoded data, and then the user uses the camera to scan the flashing smart jewelry to decode the data to obtain data, a social network system is built based on this data exchange method that can send or receive some interactive information of friends through the cloud server.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="208.79mm" wi="151.21mm" file="US20230225464A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="174.41mm" wi="112.86mm" file="US20230225464A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="221.23mm" wi="100.92mm" file="US20230225464A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="222.25mm" wi="153.25mm" file="US20230225464A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="108.80mm" wi="144.78mm" file="US20230225464A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority to, and the benefit of, U.S. Provisional Patent Application No. 63/373,118, Entitled &#x201c;A SMART JEWELRY DEVICE TO PROVIDE SMART REMINDER AND SOCIAL FUNCTIONALITIES&#x201d;, filed Aug. 22,2022. The content of that application are incorporated by reference in their entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Jewelry refers to the products of gemstones, and precious metals, as well as the jewelry, crafts, and art collection made from these raw materials and semi-finished products. Due to its high collectible and decorative value, it is very popular among fashion people. With the advancement of technology, some jewelries have also incorporated some elements of smart electronic device and become a new type of fashion.</p>
+<heading id="h-0003" level="1">1. FIELD OF THE TECHNOLOGY</heading>
+<p id="p-0004" num="0003">This technology pertains generally to the wearable smart jewelry device which more particularly focus on providing smart reminder and social functionalities to users.</p>
+<p id="p-0005" num="0004">this smart jewelry device shall have embedded SoC chip, illumination units, sensors, vibration motor and micro motors inside.</p>
+<p id="p-0006" num="0005">the illumination units shall illuminate inside jewelry with different color at different parts by using the way of transmission or refraction to exhibit the beauty of the inner color and texture of gemstone.</p>
+<p id="p-0007" num="0006">the embedded SoC chip shall connect with user's smart terminal device (cellphone, iPad, PC etc.), the smart terminal device will monitor the important events happening in device and control the illumination units, vibration units or movable parts of smart jewelry to illuminate or vibrate or rotate some parts following a specific pattern which is the combination of flashing, vibrating and moving to provide smart reminder of important events to user.</p>
+<p id="p-0008" num="0007">user's smart terminal device can login to remote cloud sever to connect with user's friends so that some interactions between friends such as notification, message, media, interactive games, other data can be delivered to user's smart jewelry device or exchanged through user's smart jewelry device thus forming a social networking platform.</p>
+<heading id="h-0004" level="1">2. DISCUSSION</heading>
+<p id="p-0009" num="0008">Existing smart jewelry devices have several deficiencies:</p>
+<p id="p-0010" num="0009">[1]. Compared to traditional jewelry devices, current smart jewelry devices focus more on functionality and are not decorative items, and cannot highlight the material and craftsmanship of the gemstones themselves. They lack decorative value compared to decorative items.</p>
+<p id="p-0011" num="0010">[2]. Current smart jewelry devices do not provide smart reminders or provide not-smart-enough reminder.</p>
+<p id="p-0012" num="0011">[3]. Some current smart jewelry devices can also emit light or flash, but do not provide an encoding scheme to specify the meaning of this light emission or flashing, do not provide a method to utilize the flashing of light to deliver data.</p>
+<p id="p-0013" num="0012">[4]. Current smart jewelry does not provide users with rich interactive features with friends.</p>
+<p id="p-0014" num="0013">The smart jewelry device disclosed in this patent will feature on using transparent or semi-transparent materials including gemstone, crystal, man-made glass as main body material, using illumination units to exhibit the beauty of transparent gemstone. This smart jewelry device can be configured to flash or vibrate as user defined to reminder user a specific event happened in user's smart terminal device (cellphone, iPad, PC). This smart jewelry device can send or received some interactions including message, media, emoji, other data to/from friends through could server.</p>
+<p id="p-0015" num="0014">The present invention provides a novel smart jewelry device, the important feature of which is that the main body and decorative parts are made of transparent or translucent jewelry materials, the embedded control chip controls the illumination unit, and the illumination unit is controlled by an application program to display the inner color and texture of the transparent gemstone. beauty. Compared with traditional jewelry, this smart jewelry can show the inner color and texture of gemstones more beautifully.</p>
+<p id="p-0016" num="0015">The embedded SoC chip can also control the micro motor to control the movement of some decorative parts, which can provide more fun for jewelry.</p>
+<p id="p-0017" num="0016">The current smart devices usually use the method of long-pressing a button or a touch sensor to switch on and off, but this method does not provide the user with the feedback of the current booting progress. When the user presses the button for a long time, it is not known whether the power on/off process has started, to what progress, or whether it is because the contact problem has not actually started. The present invention provides a new way, that is, using a color-changing light to indicate the progress of turning on or turning off the device, and this way can give the user an intuitive indication to allow the user to switch on and off the machine more conveniently.</p>
+<p id="p-0018" num="0017">This smart jewelry device declares a dynamic configuration method to configure the controllable units in the device. Different smart jewelry devices and different firmware versions may have different configurations for the control unit. These configuration tables will be saved on the remote cloud server. When users use different smart jewelry devices or upgrade to different firmware versions, they can always get the correct configuration from the remote server.</p>
+<p id="p-0019" num="0018">The present invention provides a smart reminder method, namely, monitoring events in user terminal device, defining different blinking patterns for different events, and identifying different events through different blinking patterns. The present invention also defines two different types of flickering modes, that is, a time-limited flashing mode and an infinite flashing mode. The present invention also claims a method for specifying the arrangement order of the blinking patterns in a list to form more complex blinking patterns. This invention also states that the blinking pattern can have multiple keywords, which can be used to filter application notifications and provide special blinking patterns for specific events to better alert users.</p>
+<p id="p-0020" num="0019">The present invention constructs a social network platform jointly by smart jewelry, user's smart terminal device, application programs running on the terminal device and multiple remote cloud servers. By registering personal information of users, jewelry device information is sent to the cloud server and shared with friends, users can play interactive games, send interactive messages, media files, emoticons, control commands and other data to each other.</p>
+<p id="p-0021" num="0020">The embedded SoC chip can control the flashing of the illumination unit or control the vibration of the micro vibration motor, control the length of the flash or flash different colors through the encoding scheme, or control the length of the vibration of the vibration motor to express the encoded data, and recognize the flashing light through the camera of the terminal device The data is thus decoded, giving a clear meaning to the flickering of the illumination unit or the vibration of the vibrating unit. Based on this method, there is a new way of transmitting data between users, or between users' terminal devices and smart jewelry. Some existing smart jewelry devices can also emit light or flash, but do not provide an encoding scheme to specify the meaning of the light or flash, which is the biggest difference between the present invention and previous inventions. In this way, the present invention achieves the following innovations:</p>
+<p id="p-0022" num="0021">[1]. Messages can be sent between users remotely, and the smart jewelry can express the content of the message by controlling the flashing or vibration through the encoding scheme.</p>
+<p id="p-0023" num="0022">the terminal device can decode the message by scanning the flashing lights of the jewelry through the camera.</p>
+<p id="p-0024" num="0023">[2]. Media files or emojis can be sent between users remotely, and the smart jewelry can express the content of the media by controlling the flashing or vibration through the encoding scheme. the terminal device can decode the media or emoji by scanning the flashing lights of the jewelry through the camera.</p>
+<p id="p-0025" num="0024">[3]. Users can send control commands or other data remotely, smart jewelry controls flickering or vibration through encoding schemes, and the terminal device can understand the meaning of the data by scanning the flashing lights of the jewelry through the camera.</p>
+<p id="p-0026" num="0025">[4]. A new transmission method for binding passwords is provided. The existing QR code solutions generally provide additional paper printed with the QR code, and the cards or stickers are easily lost. In this method, the password is provided by the jewelry itself, and a binding mode is specially provided to help the user retrieve the password, so it is safer and more convenient.</p>
+<p id="p-0027" num="0026">[5]. The existing works can only add users through smart terminal devices, and cannot add users through smart jewelry devices. This invention provides a new way of adding users by scanning smart jewelry with the camera of smart terminal device.</p>
+<p id="p-0028" num="0027">[6]. When smart jewelry users meet face to face, this invention provides a new way of using the camera of smart terminal device to scan smart jewelry to exchange data with each other.</p>
+<p id="p-0029" num="0028">The present invention provides a way of using smart jewelry to play games, that is, users can play interactive games with friends through networking, or play games by themselves, and the illumination units or vibration units of smart jewelry act as an effect element in the game to provide more fun for the game.</p>
+<p id="p-0030" num="0029">The present invention provides a way of using smart jewelry as auxiliary props in the game system, that is, users can use cameras to scan each other's smart jewelry to collect virtual game points, and the internal algorithm will calculate the points based on the difference of the user's personal attributes. Collected game points can be used to purchase in-game virtual items and upgrades game levels. Different game levels can have different levels of smart jewelry to reflect the user's honor and achievements in the game.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>1</b></figref>: is a front detail view of a composite smart jewelry device.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>2</b></figref>: is an elevational view, indicated by line <b>3</b>-<b>3</b> of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, of the composite device of <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>3</b></figref>: is another front detail view, showing a separated embodiment of the invention.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>4</b></figref>: is a side elevational view indicated by line <b>5</b>-<b>5</b> of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, of the separated components of <figref idref="DRAWINGS">FIG. <b>3</b></figref>.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>5</b></figref>: is an alternate embodiment of a special shape smart jewelry device.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>6</b></figref>: is a process diagram of encoding and decoding blinky message.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. <b>7</b></figref>: is a schematic diagram of a smart jewelry device providing smart reminder &#x26; social functionalities.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">ITEMIZED PARTS LIST</heading>
+<p id="p-0038" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0037"><b>10</b>: is the overall social network system with the smart jewelry device, terminal devices,</li>
+        <li id="ul0002-0002" num="0038">cloud servers to provide smart reminder &#x26; social functionalities.</li>
+        <li id="ul0002-0003" num="0039"><b>12</b>: are the cloud servers.</li>
+        <li id="ul0002-0004" num="0040"><b>14</b>: are the smart terminal devices (Phone, tablet, PC).</li>
+        <li id="ul0002-0005" num="0041"><b>16</b>: are the smart jewelry devices.</li>
+        <li id="ul0002-0006" num="0042"><b>16</b>A: is a composite smart jewelry device.</li>
+        <li id="ul0002-0007" num="0043"><b>18</b>: is the main body of jewelry device <b>16</b>A.</li>
+        <li id="ul0002-0008" num="0044"><b>20</b>: is decoration Part A of jewelry device <b>16</b>A.</li>
+        <li id="ul0002-0009" num="0045"><b>22</b>: is decoration Part B of jewelry device <b>16</b>A.</li>
+        <li id="ul0002-0010" num="0046"><b>24</b>: is the main light LED or called A light.</li>
+        <li id="ul0002-0011" num="0047"><b>26</b>: is the background light LED or called B light.</li>
+        <li id="ul0002-0012" num="0048"><b>28</b>: is the color changing light LED or called C light.</li>
+        <li id="ul0002-0013" num="0049"><b>29</b>. Is the touch sensor.</li>
+        <li id="ul0002-0014" num="0050"><b>30</b>: is the SOC chip.</li>
+        <li id="ul0002-0015" num="0051"><b>32</b>: is the vibration motor.</li>
+        <li id="ul0002-0016" num="0052"><b>34</b>: is the charging circuit.</li>
+        <li id="ul0002-0017" num="0053"><b>36</b>: is the battery.</li>
+        <li id="ul0002-0018" num="0054"><b>38</b>: is the separated embodiment of the jewelry device.</li>
+        <li id="ul0002-0019" num="0055"><b>40</b>: is the main body of jewelry device <b>38</b>.</li>
+        <li id="ul0002-0020" num="0056"><b>42</b>: is the decoration Part A of the separated embodiment of the jewelry device.</li>
+        <li id="ul0002-0021" num="0057"><b>44</b>: is the decoration Part B of the separated embodiment of the jewelry device.</li>
+        <li id="ul0002-0022" num="0058"><b>46</b>: is the special shape embodiment of the jewelry device.</li>
+        <li id="ul0002-0023" num="0059"><b>48</b>: is the main body of the special shape embodiment of the jewelry device.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0007" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0039" num="0060">The entire system shall include the smart jewelry device, user's smart terminal device, a software application running in the terminal device, multiple remote servers running in cloud. Refer to <figref idref="DRAWINGS">FIG. <b>7</b></figref> for System Architecture</p>
+<p id="p-0040" num="0061">The smart jewelry device <b>16</b> will connect to user's terminal device <b>14</b> through wireless communication protocol including but not limited to Bluetooth, BLE, WIFI. The software application running in terminal device shall be responsible for managing smart jewelry device <b>16</b>, the software application shall also register current user and user's smart jewelry devices to remote cloud server <b>12</b>. User can search friends from cloud server <b>12</b> and add friends into friend list in software application. After getting granted permission, User can know what devices his/her friends have and being used, User and his friends can send each other messages, media files, emoji to smart jewelry, or play interactive games through smart jewelry, thus forming a social networking platform.</p>
+<p id="p-0041" num="0062">As shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, a smart jewelry device includes: a jewelry body <b>18</b> and one or multiple jewelry decoration parts <b>20</b>,<b>22</b> fixedly connected to its upper facet. The jewelry body <b>18</b> is mainly made of transparent or semi-transparent materials, including but not limited to gemstone, opalite, jade, crystal, and glass. The jewelry body <b>18</b> is built with a control chip <b>30</b>, a micro vibration motor <b>32</b>, a battery <b>36</b> and a charging module <b>34</b>, and the lower end of the SoC chip (<b>30</b>) is provided with a micro vibration motor <b>32</b>, The lower end of the vibration motor <b>32</b> is provided with a battery <b>36</b>, the connection between the SoC chip <b>30</b> and the vibration motor <b>32</b> and the battery <b>36</b> is an electrical connection, and the battery <b>36</b> is connected with a charging module <b>34</b>, and the charging module <b>34</b> extends to the lower end of the main body <b>18</b>. There may be multiple jewelry decoration parts <b>20</b>,<b>22</b>, which are external decorations formed by inlaying, connecting or splicing gemstones carved into special shapes and precious metals. The jewelry decoration part <b>20</b>,<b>22</b> has the built-in illumination units <b>24</b>,<b>26</b>,<b>28</b>. In order to reduce the overall size of the jewelry, the jewelry main body <b>18</b> can be separated from multiple jewelry decoration parts <b>20</b>,<b>22</b> as shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, <figref idref="DRAWINGS">FIG. <b>4</b></figref>. The jewelry main body <b>18</b> and the jewelry decoration part <b>20</b>,<b>22</b> have shapes such as pendants, vases, animals or daily objects as shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>.</p>
+<p id="p-0042" num="0063">The main body <b>18</b> of this smart jewelry device <b>16</b>A could be cylinder shape or special carved shape to express the design of smart jewelry. (Refer to <figref idref="DRAWINGS">FIG. <b>2</b></figref>, <figref idref="DRAWINGS">FIG. <b>3</b></figref>, <figref idref="DRAWINGS">FIG. <b>4</b></figref>, <figref idref="DRAWINGS">FIG. <b>5</b></figref>). Main body <b>18</b> shall be hollow to accommodate SoC chip <b>30</b>, battery <b>36</b>, charging circuit <b>34</b>, vibration motor <b>32</b> (if it is supported). Multiple illumination units <b>24</b>,<b>26</b>,<b>28</b> and sensors or micro motor <b>32</b> will be deployed in main body or decoration parts. The illumination unit is used to illuminate gemstone in order to exhibit the beauty of gemstone. The sensor is used to receive some input event and the micro motor is used to create some kind of motion of decoration part. The SoC chip <b>30</b> is placed above the micro vibration motor <b>32</b>, and the SoC controller <b>30</b> should support multiple GPIO pins, and the GPIO pins should be connected to controllable units, such as illumination units <b>24</b>,<b>26</b>,<b>28</b>, micro-motors or micro vibration motors <b>32</b> to drive these units or connect to the sensor to receive data, the SoC controller <b>30</b> can have pins that support interface protocols such as SPI, <b>12</b>C, etc. These protocols will be used to connect hardware that requires such an interface, and the SoC chip <b>30</b> is equipped with a wireless communication module, support Bluetooth, BLE, WIFI communication protocols, and can communicate with the user's smart terminal device <b>14</b> (mobile phone, iPad, PC).</p>
+<p id="p-0043" num="0064">The smart jewelry device shall have at least 3 illumination units in logic <b>24</b>,<b>26</b>,<b>28</b>. one is Main Light which is called A Light <b>24</b>. one is Background Light which is called B Light <b>26</b>, the third one is Color-changing Light which is called C Light <b>28</b>. More illumination units are optional.</p>
+<p id="p-0044" num="0065">This smart jewelry device shall use a new way which uses a color-changing light to indicate the progress of turning on process to turn on device. long pressing 3 seconds on touch sensor <b>29</b> shall turn on device. The touching shall turn on the C Light <b>28</b> firstly. If user solidly pressed 3 seconds on the touch sensor <b>29</b>, C light <b>28</b> shall change color gradually starting from Red to Green. Green color is the good sign for user to know 3s have passed, then device shall be turned on. if there is contact problem between user's finger and touch sensor <b>29</b>, C Light <b>28</b> shall change back to beginning color Red, that is the sign to tell user to solidly press on sensor to try again.</p>
+<p id="p-0045" num="0066">Similar as the turn on process, after turn on device, long pressing 5 seconds on touch sensor <b>29</b> to turn off device. The C Light <b>28</b> shall be used as an indicator for the progress of turn off process. C light <b>28</b> shall change color gradually starting from Red to deep green then blue. The color deep green or blue is the good sign for user to know 5s have passed, then device shall be turned off.</p>
+<p id="p-0046" num="0067">This smart jewelry device can provide smart reminder functionality. The smart jewelry device <b>16</b> shall monitor the notifications happening in user's terminal device <b>14</b> and then send reminder to user to notify user what important events are happening. The blinky pattern will be used as reminder. The blinky pattern shall define the blinky devices used in this pattern, blinky times, blink cycle time. For example, a blinky pattern named TripleAB-SingleV could blink A Light and B light 3 times with cycle time <b>1</b><i>s </i>and vibrate the vibration motor one time.</p>
+<p id="p-0047" num="0068">There are 2 kinds of blinky patterns, one is limited time blinky pattern, other one is infinite blinky pattern. The limited time blinky pattern for example, TripleAB shall blink A Light and B Light 3 times then stop automatically. The infinite blinky pattern will blink forever once it is triggered by a specific event, it won't stop blinking until the user removes the notification in terminal device.</p>
+<p id="p-0048" num="0069">The smart jewelry device <b>16</b> can be configured to monitor multiple application notifications in user's terminal device <b>14</b>. Each application notification can have multiple blinky patterns in a list with specified sequence to form more complicated pattern. For example, a list with the pattern sequence DoubleAB-SingleC-DoubeAB, the smart jewelry will blink LightAB twice then Light C once then LightAB twice again. Such specific blinky pattern corresponding to a specific application notification will works as the reminder for user to be aware of that application notification. For example, blink A Light 3 times to indicate receiving email event, vibrate infinitely to indicate incoming phone call.</p>
+<p id="p-0049" num="0070">Each blinky pattern can have multiple keywords which is showing in application notification to filter out specific notification. For example, when receive the phone call from friend Tom, the phone call notification will have word &#x201c;Tom&#x201d; in notification subject. User can define a blinky pattern for phone app with keyword &#x201c;Tom&#x201d;, then smart jewelry will only blink when receive the phone call from Tom.</p>
+<p id="p-0050" num="0071">The smart jewelry <b>16</b> provides a new data transmission method between the user's terminal device <b>14</b> and the smart jewelry <b>16</b>, and assigns a definite meaning to the flashing or glowing of the jewelry. It is characterized in that the jewelry built-in control chip <b>30</b> controls the flashing of the illumination unit <b>24</b> or controls the vibration of the micro vibration motor <b>32</b>, and controls the length of the flashing or flashing different colors by including but not limited to Morse code or data bitmap coding schemes, or control the vibration length of the vibration motor <b>32</b> to express the encoded data, and the user's application software recognizes the flashing lights through the camera of the terminal device to decode the data to obtain the data.</p>
+<p id="p-0051" num="0072">Based on the above data transfer method, the user's jewelry device <b>16</b> can also transmit the following types of data between its own application software or other users' application software: text messages, media files, emoticons, control commands and data, user ID, user characteristic data, etc. such message transferred between user and his/her friend is called as Blinky Message in software app. The entire process is explained in <figref idref="DRAWINGS">FIG. <b>6</b></figref>.</p>
+<p id="p-0052" num="0073">For example, when a user sends data to a friend through a cloud server, the software application running on the user's terminal device receives the data and sends it to the smart jewelry device. The light of the jewelry device, decodes the data, and then displays the decoded data to the user or executes the corresponding command. When the user sends a text message &#x201c;SOS&#x201d; to a friend, the Morse code of &#x201c;SOS&#x201d; is &#x201c;. . . --- . . . &#x201d;, 3 short signals are S, 3 long signals are O. and the A light of the smart jewelry will flash long 3 times then short blink 3 times then long blink 3 times. The application of the terminal device will turn on the camera to monitor the light signal of the smart jewelry. If it detects 3 short flashes, it will be decoded as S, and if it detects 3 long flashes, it will be decoded as O.</p>
+<p id="p-0053" num="0074">When the user sends binary data such as 0&#xd7;15 to a friend, the binary representation of 0&#xd7;15 is 0001 0101, if we use long flashes to represent 1, and short flashes to represent 0, the smart jewelry will short flash 3 times and long flash once (indicating 0001) and then short Flash 1 time, long flash 1 time, short flash 1 time, long flash 1 time (indicates 0101). If we use light A to represent 1 and light B to represent 0, the smart jewelry will flash in the order of BBBA BABA.</p>
+<p id="p-0054" num="0075">Based on the above data transmission method, a password transmission method for binding devices is provided. For security reasons, only the device owner is allowed to communicate with the smart jewelry device through the secure channel between the smart jewelry device and the terminal device. This requires a binding process. After the user turns on the device, the software application will remind the user to add this new smart jewelry device so that the software application can manage it. When the user presses the &#x201c;+&#x201d; button in the software to add a device, this triggers the binding process, which requires a password, which is defined in the firmware of the smart jewelry device. The current popular method is to use QR codes to transmit passwords. The smart device purchased by the user will be randomly attached with a QR code, or a QR code will be generated on the terminal device, and the user scans the QR code with the camera of the smart device to get password. A new way can be used here to obtain the password defined in the firmware. At this stage of the binding process, the smart jewelry device will display the password by flashing the A light. The password is encoded by encoding methods including but not limited to Morse code or other encoding methods. Light A flashes according to the encoded data. Turn on the camera of the user terminal device to scan the Morse code to decode the password, and then use this password to connect the smart jewelry device with the user's End device binding.</p>
+<p id="p-0055" num="0076">This smart jewelry device <b>16</b> also supports a password retrieval mode for users to retrieve the password used for binding. When the device is turned off, press and hold the touch sensor for 3 seconds to turn it on, and continuously press and hold the sensor for 5 seconds to enter the password retrieval mode. In the password retrieval mode, the smart jewelry device will flash the password according to the encoding protocol such as Morse code. The user can scan again with the camera of the terminal device <b>14</b> to get the password.</p>
+<p id="p-0056" num="0077">Furthermore, based on the above jewelry device and data transmission method, a social network system <b>10</b> is constructed, including the above-mentioned smart jewelry device <b>16</b>, as well as user terminal devices <b>14</b>, dedicated software applications running on the user's smart terminal devices <b>14</b>, and multiple cloud servers <b>12</b>. The smart jewelry device <b>16</b> is connected to the user terminal device <b>14</b> or cloud server <b>12</b> through a wireless communication protocol, and the user terminal device <b>14</b> is connected to the cloud server <b>12</b> through a mobile communication network or the Internet. The software application should register the current user and the user's smart jewelry device <b>16</b> to the remote cloud server <b>12</b>. Users can search for friends through the cloud server <b>12</b>, and add friends to the friend list in the software application. After obtaining the permission, the user can know what devices friends have and what devices they are using. The user and his friends can send text messages, media files, emoticons to each other to smart jewelry, or play interactive games through smart jewelry.</p>
+<p id="p-0057" num="0078">Based on this network system <b>10</b>, this smart jewelry device <b>16</b> shall use a dynamic configuration method for configuring the controllable units in device. Remote cloud server <b>12</b> shall define a configuration table for device configurations. The smart jewelry device <b>16</b> will connect to remove server <b>12</b> to search the corresponding configuration which matches with its device name and firmware version then use the configuration to configure those controllable units. The device configuration table shall define the unit name (for example, Front Main Light, Vibration Motor), unit control name (for example, Light A), unit states (ON, OFF), unit control code (This is the command issued by software app in terminal device to control the units in smart jewelry device), unit control sequence, and also other attributes (such as unit color etc.). when the smart jewelry device turns on, it shall search latest configuration in remote could server, compare it with the one currently being used in local and if find newer one, shall download it and use it.</p>
+<p id="p-0058" num="0079">Users can play interactive game through smart jewelry device by utilizing controllable units of smart jewelry. One example is the matching pair game. Players are given a 20&#xd7;20 grid, each block has a hidden color. User and his/her friend shall flip the blocks in turn to see what color is for that block. The color of block shall be displayed by Light of smart jewelry device. User and his/her friend shall remember the color then try to find a pair of blocks that have same color. Whoever find more matched pairs will win the game. Another example is using the jewelry's light and vibration as accompaniment for music.</p>
+<p id="p-0059" num="0080">Currently a popular way to represent user's ID in software application is using a QR code. With this smart jewelry device, a novel way which is called Blinky Code can be used to represent user's ID that is when meet friend in person, the user's ID shall be encoded by an encoding method including but not limited to Morse code, then the encoded ID shall be sent to smart jewelry device, smart jewelry device shall blink according to the encoded codes, user uses camera to scan friend's blinky smart jewelry to get friend's ID then add it to friend list.</p>
+<p id="p-0060" num="0081">When the users of smart jewelry meet in person, they can use the camera of terminal device to scan the smart jewelry each other to exchange data. Firstly, they will exchange user ID, according to the user ID, they can get more personal data from cloud server, those personal data will be normalized to express a quantitative indicator of a personal attribute. This way shall be used for gaming system for users to earn award points. Users meet friends every day to collect smart jewelry lights to earn award points. The algorithm will calculate the point based on the difference of personal attributes such as the difference of age, the difference of geographical location, the difference of gender, the difference of personalities, The bigger the difference, the higher the points. then user can use the points to buy outfits, equipment, instruments, props and to upgrade levels in games. Different gaming levels have their corresponding smart jewelries to reflect user's honor in game just like Medal of Honor used in reality.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A smart jewelry device, characterized by comprising: a jewelry body <b>18</b> and one or multiple jewelry decoration parts <b>20</b>,<b>22</b> fixedly connected to its upper facet. The jewelry body <b>18</b> is mainly made of transparent or semi-transparent materials, including but not limited to gemstone, opalite, jade, crystal, and glass. The jewelry body <b>18</b> is built with a control chip <b>30</b>, a micro vibration motor <b>32</b>, a battery <b>36</b> and a charging module <b>34</b>, and the lower end of the SoC chip <b>30</b> is provided with a micro vibration motor <b>32</b>, The lower end of the vibration motor <b>32</b> is provided with a battery <b>36</b>, the connection between the SoC chip <b>30</b> and the vibration motor <b>32</b> and the battery <b>36</b> is an electrical connection, and the battery (The lower end of <b>36</b>) is connected with a charging module <b>34</b>, and the charging module <b>34</b> extends to the lower end of the main body <b>18</b>. There may be multiple jewelry decoration parts (for example, <b>20</b>,<b>22</b>), which are external decorations formed by inlaying, connecting or splicing gemstones carved into special shapes and precious metals. The jewelry decoration part <b>20</b>,<b>22</b> has the built-in illumination units <b>24</b>,<b>26</b>,<b>28</b>. In order to reduce the overall size, the jewelry main body <b>18</b> can be separated from multiple jewelry decoration parts <b>20</b>,<b>22</b>. The jewelry main body <b>18</b> and the jewelry decoration part <b>20</b>,<b>22</b> have shapes such as pendants, vases, animals or daily objects.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. A kind of smart jewelry device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, is characterized in that, comprises SoC chip <b>30</b>, illumination units <b>24</b>,<b>26</b>,<b>28</b>, sensors <b>29</b>, micro vibration motor <b>32</b> and micro-motor. The illumination units have at least three units <b>24</b>,<b>26</b>,<b>28</b>, which are respectively the main light or A light <b>24</b>, the background light or B light <b>26</b>, and the color-changing light or C light <b>28</b>. The SoC chip <b>30</b> is placed above the micro vibration motor <b>32</b>, and the SoC controller <b>30</b> should support multiple GPIO pins, and the GPIO pins should be connected to controllable units, such as illumination units, micro-motors or micro vibration motors to drive these units or connect to the sensor to receive data, the SoC controller <b>30</b> can have pins that support interface protocols such as SPI, <b>12</b>C, etc. These protocols will be used to connect hardware that requires such an interface, and the SoC chip <b>30</b> is equipped with a wireless communication module, support Bluetooth, BLE, WIFI communication means, and can communicate with the user's smart terminal device <b>14</b> (mobile phone, iPad, PC).</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The smart jewelry device according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, characterized in that it adopts an interactive method to turn on or turn off device, that is, when the user presses the touch sensor for a long time, the color change of the color-changing light (C light) <b>28</b> is used to indicate the progress of turning on or turning off the device.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The smart jewelry according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, characterized in that it provides the user with a smart reminder function, that is, the application software installed on the user's smart terminal device <b>14</b> can monitor the events in the user's terminal device <b>14</b>, for different Events define different flashing patterns, and the application software can control the smart jewelry <b>16</b> to flash or vibrate according to different flashing patterns to mark different events. There are two different types of flashing modes namely time-limited flashing mode and infinite flashing mode. Flashing patterns can be combined to form more complex flashing patterns. The flashing mode has multiple keywords, which can filter application notifications and provide special flashing modes for specific events to provide users with smart reminders.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. A new data transmission method between the user's terminal device and the smart jewelry. This method specifies a clear meaning for the flashing or glowing of the jewelry. It is characterized in that the jewelry built-in control chip <b>30</b> controls the flashing of the illumination unit <b>24</b>,<b>26</b>,<b>28</b> or controls the vibration of the micro-vibration motor <b>32</b>, and controls the length of the flashing or flashing different colors by including but not limited to Morse code or data bitmap coding schemes, or control the vibration length of the vibration motor to express the encoded data, and the user's application software recognizes the flashing lights through the camera of the terminal device <b>14</b> to decode the data to obtain the original data. Based on this data transmission method, the user's jewelry device can transmit the following types of data between its own application software or other user's application software: text messages, media files, emoticons, control commands and data, binding passwords, user IDs, user characteristic data, etc.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. According the data transmission method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, a password transmission method for binding devices is provided, which is characterized in that when a user device is bound, the jewelry device expresses the encoded data of the binding password through the flicker of the illumination unit and the user's application starts the camera to identify the flashing light to obtain the password to bind the device.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. A social network system comprising the smart jewelry device as described in <claim-ref idref="CLM-00002">claim 2</claim-ref>, characterized in that it further includes the user terminal device, the dedicated software application running on the terminal device, and multiple cloud servers. The smart jewelry device is connected to the user terminal device or the cloud servers through a wireless communication protocol, and the user terminal device is connected to the cloud servers through a mobile communication network or the Internet.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. A social network system according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, characterized in that it further includes a firmware upgrade module which defines a device configuration table through a remote cloud server. The smart jewelry device searches for the corresponding configuration that matches its device name and firmware version when it is connected to the cloud server, and then uses the configuration to configure the controllable units in the system. The device configuration table defines unit names, unit control names, unit states, unit control codes, unit control orders, and other attributes. When the smart jewelry device is turned on, it searches for the latest configuration in the remote server based on the device configuration table and compares it with the currently used configuration, if a newer configuration is found, it is downloaded and used.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. A social network system according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, characterized in that it has social attributes, through which users register personal information, jewelry device information to the cloud server and share with friends, and users can send data to each other's jewelry devices. Data between users and friends is sent through the network to the user's application software, and the data is expressed to the user through the flashing of the jewelry after being encoded, including but not limited to Morse code or a data bitmap. The user uses the terminal device's camera to decode the data to obtain the original data. Based on the obtained data, users can play interactive games, send interactive messages, media files, emoticons, control commands, and other data.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. A social network system according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, characterized in that the user encodes the user ID in an encoding method including but not limited to Morse code, and then sends the encoded ID to the smart jewelry device. The smart jewelry device flashes according to the encoded code, and the user uses the camera to scan the flashing smart jewelry of their friend to obtain the friend's ID and then add it to the friend list. When the users of the smart jewelry meet each other, they can scan each other's smart jewelry through the camera on their terminal device for user ID exchange, then according to the user ID to get more personal data. This method will be used in the game system for users to earn bonus points. Users meet friends every day, collect smart jewelry lights, and earn reward points. The algorithm calculates points based on differences in personal attributes such as age difference, geographical location difference, gender difference, and personality difference between the user and their friends. The greater the difference, the higher the points. Then use the points to buy clothing, equipment, instruments, props, and upgrade game levels. Different game levels have corresponding smart jewels, which reflect the user's honor in the game just like the medal of honor used in reality.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

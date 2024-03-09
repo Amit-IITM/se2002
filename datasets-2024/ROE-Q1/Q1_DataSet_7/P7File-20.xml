@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225629A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225629</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18011411</doc-number>
+<date>20210621</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>055</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>34</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>055</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160201</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>34</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160201</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>2090</main-group>
+<subgroup>3954</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">SKULL-CONTOURED MRI LOCALIZER</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63041789</doc-number>
+<date>20200619</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Mayo Foundation for Medical Education and Research</orgname>
+<address>
+<city>Rochester</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Lee</last-name>
+<first-name>Kendall H.</first-name>
+<address>
+<city>Rochester</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Goerss</last-name>
+<first-name>Stephen J.</first-name>
+<address>
+<city>Rochester</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Rusheen</last-name>
+<first-name>Aaron E.</first-name>
+<address>
+<city>Rochester</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Gifford</last-name>
+<first-name>Benjamin T.</first-name>
+<address>
+<city>Rochester</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>Fagan</last-name>
+<first-name>Andrew J.</first-name>
+<address>
+<city>Rochester</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/US2021/038275</doc-number>
+<date>20210621</date>
+</document-id>
+<us-371c12-date><date>20221219</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An example apparatus includes a shell portion configured to be worn over a head of a subject. The shell portion defines a plurality of apertures. The apparatus also includes a plurality of spherical fiducial structures disposed on the shell portion. Each of the fiducial structures includes a first material doped with a second material. The second material is a contrast agent for magnetic resource imaging (MRI). The apparatus also includes a mounting structure disposed on the shell portion and configured to secure the shell portion to the head of the subject.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="146.73mm" wi="131.32mm" file="US20230225629A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="105.75mm" wi="163.91mm" file="US20230225629A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="138.60mm" wi="161.46mm" orientation="landscape" file="US20230225629A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="153.33mm" wi="156.38mm" orientation="landscape" file="US20230225629A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="146.05mm" wi="155.53mm" orientation="landscape" file="US20230225629A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="148.51mm" wi="159.00mm" orientation="landscape" file="US20230225629A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="177.38mm" wi="164.59mm" orientation="landscape" file="US20230225629A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="145.88mm" wi="151.81mm" orientation="landscape" file="US20230225629A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="229.87mm" wi="158.83mm" orientation="landscape" file="US20230225629A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="235.97mm" wi="165.10mm" orientation="landscape" file="US20230225629A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="230.04mm" wi="146.30mm" orientation="landscape" file="US20230225629A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="110.32mm" wi="126.41mm" orientation="landscape" file="US20230225629A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="163.24mm" wi="130.13mm" orientation="landscape" file="US20230225629A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="152.57mm" wi="161.54mm" orientation="landscape" file="US20230225629A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="115.91mm" wi="137.67mm" orientation="landscape" file="US20230225629A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="146.47mm" wi="153.33mm" orientation="landscape" file="US20230225629A1-20230720-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="213.28mm" wi="128.69mm" orientation="landscape" file="US20230225629A1-20230720-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="192.36mm" wi="165.86mm" orientation="landscape" file="US20230225629A1-20230720-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="192.02mm" wi="167.13mm" orientation="landscape" file="US20230225629A1-20230720-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="256.88mm" wi="168.74mm" orientation="landscape" file="US20230225629A1-20230720-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="229.45mm" wi="111.59mm" orientation="landscape" file="US20230225629A1-20230720-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="199.73mm" wi="161.71mm" orientation="landscape" file="US20230225629A1-20230720-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="237.07mm" wi="170.18mm" file="US20230225629A1-20230720-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="182.12mm" wi="156.04mm" orientation="landscape" file="US20230225629A1-20230720-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="226.48mm" wi="127.17mm" orientation="landscape" file="US20230225629A1-20230720-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="230.46mm" wi="145.71mm" orientation="landscape" file="US20230225629A1-20230720-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="193.38mm" wi="94.57mm" orientation="landscape" file="US20230225629A1-20230720-D00026.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00027" num="00027">
+<img id="EMI-D00027" he="211.24mm" wi="92.20mm" orientation="landscape" file="US20230225629A1-20230720-D00027.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00028" num="00028">
+<img id="EMI-D00028" he="251.71mm" wi="154.94mm" orientation="landscape" file="US20230225629A1-20230720-D00028.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00029" num="00029">
+<img id="EMI-D00029" he="247.65mm" wi="83.65mm" orientation="landscape" file="US20230225629A1-20230720-D00029.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00030" num="00030">
+<img id="EMI-D00030" he="220.90mm" wi="162.22mm" orientation="landscape" file="US20230225629A1-20230720-D00030.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00031" num="00031">
+<img id="EMI-D00031" he="200.41mm" wi="158.67mm" orientation="landscape" file="US20230225629A1-20230720-D00031.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims the benefit of U.S. Provisional Application Ser. No. 63/041,789, filed Jun. 19, 2020. The disclosure of the prior application is considered part of (and is incorporated by reference in) the disclosure of this application.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">This disclosure relates to magnetic resonance imaging.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">Magnetic resonance imaging (MRI) is a medical imaging technique used to form images of the anatomy and the physiological processes of a subject based on the subject's response to magnetic fields. As an example, a magnetic resonance (MR) scanner can generate magnetic fields, magnetic field gradients, and radio waves within a bore of the MR scanner, measure the properties of a subject within the bore, and generate one or more images based on the measurements.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0005" num="0004">In an aspect, an apparatus includes a shell portion adapted to be worn over a head of a subject, the shell portion defining a plurality of apertures; a plurality of spherical fiducial structures disposed on the shell portion, where each of the fiducial structures includes a first material doped with a second material, wherein the second material is a contrast agent for magnetic resonance imaging (MRI); and a mounting structure disposed on the shell portion and configured to secure the shell portion to the head of the subject.</p>
+<p id="p-0006" num="0005">Implementations of this aspect can include one or more of the following features.</p>
+<p id="p-0007" num="0006">In some implementations, the first material can be silicon (e.g., silicone).</p>
+<p id="p-0008" num="0007">In some implementations, the second material can be copper sulfate.</p>
+<p id="p-0009" num="0008">In some implementations, the shell portion can include plastic.</p>
+<p id="p-0010" num="0009">In some implementations, the plastic can be polylactic acid (PLA) plastic.</p>
+<p id="p-0011" num="0010">In some implementations, the shell portion includes a glass-filled polymer.</p>
+<p id="p-0012" num="0011">In some implementations, at least some of the apertures can be wedge shaped.</p>
+<p id="p-0013" num="0012">In some implementations, at least some of the apertures can be aligned along a circumference of the shell portion.</p>
+<p id="p-0014" num="0013">In some implementations, the shell portions can include a plurality of sockets, where each of the sockets is configured to receive a respective one of the fiducial structures.</p>
+<p id="p-0015" num="0014">In some implementations, the sockets can be distributed on the shell portion according to a rotationally asymmetric pattern.</p>
+<p id="p-0016" num="0015">In some implementations, the shell portion can include a plurality of protuberances extending from a bottom edge of the shell portion and away from an upper surface of the shell portion.</p>
+<p id="p-0017" num="0016">In some implementations, at least one of the sockets can be disposed on at least one of the protuberances.</p>
+<p id="p-0018" num="0017">In some implementations, at least one of the sockets can be disposed on between two adjacent protuberances.</p>
+<p id="p-0019" num="0018">In some implementations, the apparatus can include a plurality of caps, where each of the caps is configured to insert into a respective one of the sockets.</p>
+<p id="p-0020" num="0019">In some implementations, each of the sockets can include one or more respective slots configured to receive a respective one of the caps.</p>
+<p id="p-0021" num="0020">In some implementations, the apparatus can be configured to be worn by over the head of the subject while the head of the subject is in a bore of a 7T MRI system.</p>
+<p id="p-0022" num="0021">In another aspect, a system includes a magnetic resonance imaging (MRI) system including one or more computer systems, and the apparatus described above. The MRI system is configured to generate, while the apparatus is being worn by the subject, one or more images of the subject and the apparatus; determine, based on the one or more images, a respective position of each of the fiducial structures relative to the subject, and determine, based on the determined positions of each of the of fiducial structures, a three-dimensional coordinate system fixed to the subject.</p>
+<p id="p-0023" num="0022">Implementations of this aspect can include one or more of the following features.</p>
+<p id="p-0024" num="0023">In some implementations, the MRI system can be further configured to identify, based on the one or more images, one or more anatomical features of the subject, and determine, for each of the one or more anatomical features, a location of the anatomical feature according to the three-dimensional coordinate system.</p>
+<p id="p-0025" num="0024">Implementations of this aspect can include one or more of the following features.</p>
+<p id="p-0026" num="0025">In some implementations, the system can further include a stereotactic device having one or more surgical instruments, wherein the stereotactic device is configured to be secured to the head of a subject.</p>
+<p id="p-0027" num="0026">In some implementations, the one or more surgical instructions can include at least one of a probe, a cannula, or an electrode.</p>
+<p id="p-0028" num="0027">In some implementations, determining the respective position of each of the fiducial structures relative to the subject can include receiving, by the MRI system, user input identifying at least some of the fiducial structures in the one or more images.</p>
+<p id="p-0029" num="0028">In some implementations, determining the respective position of each of the fiducial structures relative to the subject can include automatically identifying, by the MRI system, at least some of the fiducial structures in the one or more images.</p>
+<p id="p-0030" num="0029">The details of one or more embodiments are set forth in the accompanying drawings and the description below. Other features and advantages will be apparent from the description and drawings, and from the claims.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a diagram of system for obtaining MR images of a subject.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIGS. <b>2</b>A-<b>2</b>E</figref> are diagrams of an example localizer apparatus.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIGS. <b>2</b>F-<b>2</b>H</figref> are diagrams of an example coupling between a localizer apparatus and a key device.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>21</b></figref> is a diagram of an example key device, an example coupling between the key device to the head of a subject, and an example coupling between the key device and a stereotactic device.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>3</b>A</figref> is a diagram of an example fiducial.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>3</b>B</figref> is a diagram of an example socket for receiving a fiducial.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. <b>3</b>C</figref> is a diagram of an example cap inserted into a socket.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIGS. <b>3</b>D and <b>3</b>E</figref> are diagrams of an example cap.</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a diagram showing an evaluation of extracranial distortion at 7T. Panel A: individual distortions at spatial distinct regions, from the apex of the head to the base of the head were analyzed among 4 different imaging sequences at high and low bandwidths (BW). Missing values in the T2-w High BW sequence reflect inability to visualize the fiducials. Panel B: The root mean square error the pooled distortions was compared amongst sequences at low (L) and high bandwidths (H) in 9 human subjects. Box and whisker plot depicting mean, interquartile range, and total range. For inter-sequence comparisons, * designates significance for low bandwidth comparisons, and #for high bandwidth comparisons. Panel C: Extracranial distortion was analyzed via a custom distortion analysis device that fit around the subject's head within the head coil. * p&#x3c;0.05, **, ##p&#x3c;0.01, ***, ###p&#x3c;0.001, **** p&#x3c;0.0001.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a diagram showing prototype localizer testing on a targetable phantom. Panel A: a prototype skull-contoured localizer using spherical point fiducials was tested for fiducial registration error (FRE) and target registration error (TRE) on a phantom containing points of known Euclidian values. The design was modified to optimize fiducial placement based on distortion data. Panel B a schematic demonstrating how point-based registration is achieved. Circles represent fiducials selected in imaging space, and squares fiducial positions in the stereotactic coordinate space of the surgical system. The stars indicate the surgical target location. Panels C and D: Target registration error (TRE). Fiducial registration Error (FRE). Dashed lines represent rigid transformation of fiducial clouds used in image registration. The FRE and TRE among different sequences at low (L) and high (H) receiver bandwidths was determined.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a diagram showing custom stereotactic neuro-navigation software. Custom stereotactic software was written in python to permit use of a point-based fiducial image localizer device. A subject was fitted with the device loosely placed on the top of the head. A 3D MPRAGE image acquired sagittally is displayed with image reconstruction in the axial and coronal planes. Panel A: this software permitted manual selection of fiducials (yellow circle) and rigid fiducial registration. In addition, software allowed targeting of neural structures (red point with green outline circle on GPi) (Panel B) and trajectory guidance (blue dot) (Panel C). All views allow independent scrolling. The target and manually adjustable collar and arc angles are available in the targeting box.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a diagram showing a representative example of basal ganglia visualization with multiple weighting schemes. Panel A: a 3D T1-w MPRAGE (low) image permits clear visualization of the caudate (yellow) and putamen (light blue) with mild visualization of the globus pallidus externus (GPe, green). Panel B: 3D T1-w FGATIR (low) image permits similar visualization. Panel c: a 2D coronal T2-w (low) image permits clear visualization of the caudate, putamen, moderate visualization of the globus pallidus externus and internus (GPi, purple), and mild visualization of the subthalamic nucleus/substantia nigra complex (STN, SN, orange). Panel D: a 2D coronal T2*-w sequence permits clear visualization of the caudate, putamen, claustrum (blue) globus pallidus externus, globus pallidus internus, subthalamic nucleus, and substantia nigra.</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a diagram showing probabilistic tractography of the lateral corticospinal (LCS) tracts (yellow and blue) and dentato-rubro-thalamo-cortical (DRT) tracts (green and red) overlaid onto an anatomic T1-w MPRAGE volume. Images 1-20 show the course of the tracts from the midbrain to the cortex. The LCS tract climbs lateral to the DRT in the basal ganglia through the posterior portion of the internal capsule. The DRT tract climbs medial to the LCS through the ventromedial portion of the thalamus.</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a diagram showing example 3D visualization of tractography. High angular resolution diffusion weighted imaging (HARDI) with 64 directions was performed. Deterministic tractography was implemented (second-order Runge-Kutta integration method, 3D Slicer Diffusion module) to visualize white matter tracts. The red nucleus was seeded to visualize the dentato-rubro-thalamo-cortical tract (green), and the anterior horns of the midbrain seeded to visualize the lateral cortical spinal tracts (red) Manual segmentation of the caudate (maroon), putamen (orange), GPe (blue), GPi (green), thalamus (grey), STN (yellow), SN (purple), and red nucleus (red) was performed and overlaid.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a diagram showing SNR and CNR measurements in a representative T2* example. Panel A: green segmentations reflect the region used for calculating the mean signal intensity and the yellow segment represents the area used for calculating the mean background signal to calculate SNR. Panel B: the red (globus pallidus externus) and blue (internal capsule) segmentations represents the area used to calculate the CNR.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a diagram showing representative fiducial visualizations in each sequence for 3 subjects.</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a diagram of an example D1 stereotactic system. Panel A: skull-secured device platform &#x201c;Key.&#x201d; Panel B: 7T prototype image localizer. Panel C: targeting and delivery device for neurosurgical intervention.</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a diagram showing an example use of the image localizer. Panel A: localizer securement apparatus. Panel B: apparatus with localizer secured. Panel C: model of head positioning in the RF head coil with the localizer attached.</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a diagram showing example phantom vs human distortion. The root mean square error (RMSE) of the phantom distortion (n=1/sequence) is displayed against the mean distortion from human testing. Each sequence is subsequently analyzed between phantom and mean human data. The Kolmogorov-Smirnov D statistic for distribution comparisons (D) is displayed in each figure. Phantom distortion was compared between three regions, the apex, mid, and base. *p&#x3c;.05, **p&#x3c;0.01, ***p&#x3c;0.001, ****p&#x3c;0.0001.</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a diagram of an example image sequence evaluation. Panel A: 6 qualitative categories were evaluated for each image sequence. These include image quality, presence of artifacts, signal-to-noise ratio (SNR), contrast-to-noise ratio (CNR), basal ganglia demarcation, and fiducial demarcation. Panel B: SNR and CNR were qualitatively evaluated for each sequence. Sequences were compared using the Friedman's test with Dunn's multiple comparisons test. *p&#x3c;0.05, **p&#x3c;0.01, ****p&#x3c;0.0001.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is a diagram of an example computer system.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0052" num="0051">Like reference symbols in the various drawings indicate like elements.</p>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0053" num="0052">An example system <b>100</b> for obtaining MR images of a subject is shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>. The system <b>100</b> includes a MR scanner <b>102</b>, and a computer system <b>104</b> for controlling the operation of the MRI scanner <b>102</b>.</p>
+<p id="p-0054" num="0053">The MR scanner <b>102</b> is a system for generating images of the anatomy and the physiological processes of a subject based on the subject's response to magnetic fields. In general, in MRI, hydrogen nuclei (i.e., protons) that are in the tissues of a subject create a signal that is processed to form an image of the subject in terms of the density of those nuclei in a specific region. As the protons are affected by fields from other atoms to which they are bonded, it is possible to separate responses from hydrogen in specific compounds.</p>
+<p id="p-0055" num="0054">To perform an imaging protocol, a subject is positioned within the MR scanner <b>102</b>, which forms a strong magnetic field around the area to be imaged (e.g., 1.5T, 3T, 7T, etc.). For example, the MR scanner <b>102</b> can include a superconducting magnet <b>112</b> that is configured to induce a magnetic field through a bore <b>114</b> of the magnet <b>112</b>, within which a subject <b>116</b> is positioned. Further, energy from an oscillating magnetic field is temporarily applied to the subject at the appropriate resonance frequency (e.g., the resonance frequency of the hydrogen nuclei of the subject, in response of the magnetic field). Scanning with gradient coils <b>118</b> causes a selected region of the subject to experience the exact magnetic field required for the energy to be absorbed. The excited atoms emit a radio frequency (RF) signal, which is measured by a receiving coil <b>120</b>. The RF signal may be processed (e.g., by the computer system <b>104</b><i>a</i>) to deduce position information by identifying the changes in RF level and phase caused by varying the local magnetic field using the gradient coils <b>118</b>. The contrast between different tissues is determined by the rate at which excited atoms return to the equilibrium state.</p>
+<p id="p-0056" num="0055">The computer system <b>104</b> is communicatively coupled to the MR scanner <b>102</b>, and is configured to control the operation of the MR scanner <b>102</b> and/or to process data generated by the MR scanner <b>102</b>. For example, the computer system <b>104</b> can instruct the MR scanner <b>102</b> to generate magnetic fields and measure RF signals emitted by the subject according to a particular MRI protocol (e.g., a sequence of commands for generating specific types of images of the subject). As another example, the computer system <b>104</b> can receive data regarding the measured RF signals, and generate one or more images based on the data.</p>
+<p id="p-0057" num="0056">The computer systems <b>104</b> can include one or more electronic devices that are configured to present, process, transmit, and/or receive data. Examples of the computer system <b>104</b> include computers (such as desktop computers, notebook computers, server systems, etc.), mobile computing devices (such as cellular phones, smartphones, tablets, personal data assistants, notebook computers), and other devices capable of presenting, processing, transmitting, and/or receiving data. The computer system <b>104</b> can include devices that operate using one or more operating system (e.g., Microsoft Windows, Apple macOS, Linux, Unix, Google Android, Apple iOS, etc.) and/or architectures (e.g., x86, PowerPC, ARM, etc.) In some implementations, the computer system <b>104</b> need not be located locally with respect to the rest of the system <b>100</b>, and the computer system <b>104</b> and can be located in one or more remote physical locations.</p>
+<p id="p-0058" num="0057">In <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the computer system <b>104</b> is illustrated as a single component. However, in practice, the computer system <b>104</b> can be implemented on one or more computing devices in one or more locations (e.g., each computing device including at least one processor such as a microprocessor or microcontroller).</p>
+<p id="p-0059" num="0058">The computer system <b>104</b> includes a user interface <b>108</b>. Users interact with the user interface <b>108</b> to view data (e.g., data on the computer system <b>104</b> and/or the MR scanner <b>102</b>). Users also interact with the user interface <b>108</b> to issue commands <b>110</b>. The commands <b>110</b> can be, for example, any user instruction to the computer system <b>104</b> and/or the MR scanner <b>102</b>. In some implementations, a user can install a software application on the computer system <b>104</b> to facilitate performance of these tasks.</p>
+<p id="p-0060" num="0059">In some implementations, the system <b>100</b> can facilitate the performance of a stereotactic neurosurgery procedure on a subject. Stereotactic neurosurgery is a minimally invasive form of surgical intervention which makes use of a three-dimensional coordinate system to locate targets inside the body (e.g., targets within the brain) and to perform on them some action such as ablation, biopsy, lesion, injection, stimulation, implantation, radiosurgery (SRS), etc.</p>
+<p id="p-0061" num="0060">For example, the system <b>100</b> can be used to obtain one or more images of a subject, and based on the one or more images, identify the location of one or more targets within the subject (e.g., tumors, lesions, tissue, organs, and/or other anatomical features) according to a three-dimensional coordinate system. In some implementations, the coordinate system can be fixed relative to the subject. The location information (e.g., coordinates or ranges of coordinates corresponding to the one or more targets) can be used to position and operate a stereotactic device having one or more surgical instruments (e.g., one or more probes, cannulas, electrodes, etc.), such that the one or more surgical instruments can be guided to the one or more targets accurately and precisely. For instance, the stereotactic device can be physically registered to the three-dimension coordinate system, such that the stereotactic device is at a known location and has a known orientation with respect to the subject. Further, the one or more surgical instruments can be manipulated in accordance with the three-dimensional coordinate system (e.g., by a human operator and/or by a computerized robotic system).</p>
+<p id="p-0062" num="0061">To facilitate the performance of a stereotactic neurosurgery procedure, a localizer apparatus can be secured to the subject (e.g., along or around the subject's head), and imaged alongside the subject using the system <b>100</b>. The localizer apparatus includes several landmarks (e.g., physically and/or visually distinctive structures) that enable the system <b>100</b> to determine the location of features of the subject more accurately and precisely. For example, the localizer apparatus can be secured to the subject, such that the landmarks are positioned at known locations relative to the subject (e.g., at known locations with respect to the coordinate system), and a radio frequency (RF) coil of the MRI system can be placed over the localizer apparatus. The system <b>100</b> can receive signals from the localizer apparatus and the subject using the RF coil, identify the locations of these landmarks in the images, and based on this information, derive the locations of other features of the subject with respect to the coordinate system.</p>
+<p id="p-0063" num="0062">Example localizer apparatuses and techniques for using the localizer apparatuses are described herein. In some implementations, the localizer apparatuses described herein may be particular suitable for use with a 7T MR scanner, which may have a relatively narrow bore (e.g., compared to 1.5T and 3T MR scanners). For example, the localizer apparatuses described herein may be sufficiently compact in size and shape, such that they can be readily positioned within the bore of a 7T MR scanner alongside the subject and an RF coil.</p>
+<p id="p-0064" num="0063">In some implementations, a localizer apparatus can be secured to a subject by first securing a mounting device (referred to as a &#x201c;key&#x201d;) to the bone of the subject (e.g., along the top of the subject's skull). In turn, the localizer apparatus can be secured to the key, such that the localizer apparatus is fixed relative to the subject. The key can have a particular shape and particular dimensions that facilitate the positioning of the localizer apparatus within the confines of a MR scanner. For example, in some implementations, the &#x201c;key&#x201d; can be approximately 4.4 cm wide&#xd7;4.4 cm length&#xd7;14.3 mm thick at the front, and 37.8 mm thick at the back (e.g., a 30 degree slope).</p>
+<p id="p-0065" num="0064">In some implementations, the localizer apparatus can be contoured to a subject's head (e.g., in a manner similar to a helmet). Further, the localizer apparatus can have multiple physical landmarks (also referred to as &#x201c;fiducials&#x201d; or &#x201c;point fiducials&#x201d;) positioned at known locations along the localizer apparatus. When imaged, the fiducials appear in the images as visible points or spots alongside the subject. As the fiducials are positioned at known locations on the localizer apparatus (which in turn is fixed to the subject), the points in the images can be used to derived the location of features of the subject relative to a three-dimensional coordinate system that is fixed relative to the subject. In some implementations, the localizer apparatus can include 8 to 10 fiducials. In some implementations, the localizer apparatus can include some other number of fiducials (e.g., less than 8, or greater than 10).</p>
+<p id="p-0066" num="0065">Each of the fiducials can have a particular size and shape. As an example, in some implementations, at least some of the fiducials can be spherical or approximately spherical (e.g., deviating from a sphere by 5%, 10%, or some other tolerance). As another example, in some implementations, at least some of the fiducials can have an annular or ring shape. In some implementations, at least some of the fiducials can have a diameter of 4 mm or approximately 4 mm (e.g., &#xb1;5%, &#xb1;10%, or some other tolerance). In some implementations, at least some of the fiducials can have a diameter between 4 mm and 8 mm or approximately between 4 mm and 8 mm (e.g., &#xb1;5%, &#xb1;10%, or some other deviation). In some implementations, at least some of the fiducials can have some other diameter.</p>
+<p id="p-0067" num="0066">Further, each of the fiducials can be composed of one or more particular materials. As an example, in some implementations, at least some of the fiducials can be composed, at least in part, of a silicon (e.g., TC-5005 Silicone, BJB Enterprises, Tustin, Calif.) doped with an MRI contrast material (e.g., a T2* shortening contrast agent, such as copper sulfate). This can be beneficial, for example, as it provides the fiducials with particular MR relaxometry properties that produce significant visibility in T1-weighted, T2-weighted and T2*-weighted imaging protocols. Further, the inclusion of copper sulfate can reduce the image signature of the fiducials (which in some implementations, may be too high with pure silicone).</p>
+<p id="p-0068" num="0067">The localizer apparatuses described herein can facilitate the performance of various surgical procedures. As an example, a localizer apparatus can be used to investigate deep brain stimulation (DBS) lead placement accuracy and clinical outcomes. As further examples, a localizer apparatus can be used to guide other stereotactic neurosurgery procedures.</p>
+<p id="p-0069" num="0068">Although the localizer apparatuses are described herein primarily with respect to 7T MM systems, in practice, at least some of the localizer apparatuses can be used with respect to MRI systems operating according to different field strengths (e.g., either higher or lower than 7T). For example, for lower field strengths, one or more of the localizer apparatus described herein may permit the use of smaller radio frequency (RF) head coils, potentially improving quality of images produced by these systems. Further, one or more of the localizer apparatuses can be used for computed tomography (CT) imaging and registration.</p>
+<p id="p-0070" num="0069">Additional details regarding example localizer apparatuses and techniques for using the localizer apparatuses are described below.</p>
+<p id="p-0071" num="0070">An example localizer apparatus <b>200</b> is shown in <figref idref="DRAWINGS">FIGS. <b>2</b>A-<b>2</b>E</figref> (according to a front view, left view, right view, rear view, and top view, respectively). In this example, the localizer apparatus <b>200</b> is secured to the head of a subject <b>202</b> via a key device <b>204</b> (shown in <figref idref="DRAWINGS">FIG. <b>2</b>E</figref>). For example, the localizer apparatus <b>200</b> can include a mounting structure <b>252</b> (e.g., a socket) configured to mechanically couple to at least a portion of the key device <b>204</b> (e.g., a corresponding protuberance). Further, the localizer apparatus <b>200</b> is sized and shaped such that a RF coil of an MM system can be placed over it, such that the MRI system can receive RF signals from the localizer apparatus <b>200</b> and the subject concurrently, and generate one or more of images of the localizer apparatus <b>200</b> and the subject.</p>
+<p id="p-0072" num="0071">The localizer apparatus <b>200</b> includes a shell portion <b>250</b> configured to be placed over the head of the subject <b>202</b>. For example, the shell portion <b>250</b> can have a shape similar to that of a helmet (e.g., a bowl shape having an aperture on one end to receive the head of the subject <b>202</b>). In some implementations, the shell portion <b>250</b> of the localizer apparatus <b>200</b> can be composed, at least in part, of plastic. For example, the shell portion <b>250</b> of the localizer apparatus <b>200</b> can be composed, at least in part, of polylactic acid (PLA) plastic, and/or one or more additional plastics. As another example, the shell portion <b>250</b> of the localizer apparatus <b>200</b> can be composed, at least in part, of glass-filled polymers (e.g., glass-filled nylon).</p>
+<p id="p-0073" num="0072">As shown in <figref idref="DRAWINGS">FIGS. <b>2</b>A-<b>2</b>E</figref>, the localizer apparatus <b>200</b> defines several apertures <b>206</b>, through which the head of the subject <b>202</b> can be accessed (e.g., by one or more surgical instruments) and/or to provide ventilation (e.g., to improve the comfort of the subject). In some implementations, at least some of the apertures <b>206</b> (e.g., the apertures on the sides of the localizer apparatus <b>200</b>) can be aligned along a circumference of the localizer apparatus <b>200</b> (e.g., such that they at least partially encircle the head of the subject). Further, those apertures <b>206</b> can shaped such that their primary dimension of elongation aligns with the circumstance of the localizer apparatus.</p>
+<p id="p-0074" num="0073">In some implementations, at least some of the apertures <b>206</b> (e.g., the apertures on the top of the localizer apparatus) can be wedge shaped (e.g., triangular or approximately triangular shaped, and having one or more support structures <b>208</b> disposed between them).</p>
+<p id="p-0075" num="0074">Further, as shown in <figref idref="DRAWINGS">FIGS. <b>2</b>A-<b>2</b>E</figref>, the localizer apparatus <b>200</b> include several sockets <b>210</b>, each configured to receive a respective fiducial <b>300</b>. In some implementations, a fiducial <b>300</b> can be spherical or approximately spherical in shape, and can be inserted into a circular or approximately circular aperture <b>302</b> of the socket <b>210</b> (e.g., as shown in <figref idref="DRAWINGS">FIG. <b>3</b>B</figref>). Further, a cap <b>304</b> can be inserted into the socket <b>210</b> over the fiducial <b>300</b> to secure the fiducial <b>300</b> in place (e.g., as shown in <figref idref="DRAWINGS">FIG. <b>3</b>C</figref>).</p>
+<p id="p-0076" num="0075"><figref idref="DRAWINGS">FIGS. <b>3</b>D and <b>3</b>E</figref> show additional views of the cap <b>304</b>. As shown in <figref idref="DRAWINGS">FIGS. <b>3</b>D and <b>3</b>E</figref>, the cap <b>304</b> can include an annular portion <b>306</b>, a support structure <b>308</b> extending between opposite sides of the annular portion <b>306</b> (e.g., along a diameter of the annular portion <b>306</b>), and flared protrusions <b>310</b> extending orthogonally from the annular portion. The flared protrusions <b>310</b> can be inserted into corresponding slots <b>312</b> of the socket <b>210</b>, and once inserted, the cap <b>304</b> can be rotated within the slot <b>312</b> to secure the cap <b>304</b> to the localizer apparatus <b>200</b>.</p>
+<p id="p-0077" num="0076">As described above, at least some of the fiducials <b>300</b> can be spherical or approximately spherical (e.g., deviating from a sphere by 5%, 10%, or some other tolerance). This can be beneficial, for example, as the fiducials will appear as circular points or dots in an Mill image, regardless of the imaging plane. In some implementations, at least some of the fiducials <b>300</b> can have an annular or ring shape.</p>
+<p id="p-0078" num="0077">In some implementations, at least some of the fiducials <b>300</b> can be composed, at least in part, of a silicon (e.g., TC-5005 Silicone, BJB Enterprises, Tustin, Calif.) doped with an MM contrast material (e.g., copper sulfate).</p>
+<p id="p-0079" num="0078">In the example shown in <figref idref="DRAWINGS">FIGS. <b>2</b>A-<b>2</b>E</figref>, the localizer apparatus <b>200</b> includes nine sockets <b>210</b> positioned along the periphery of the localizer apparatus <b>200</b>. At least some of the sockets <b>210</b> can be positioned on protrusions <b>212</b> extending from a bottom of the localizer apparatus <b>200</b>. This can be beneficial, for example, as it enables a fiducial <b>300</b> to be positioned at a particular location the head of the subject <b>202</b>, without obscuring large portions of the head of the subject <b>202</b> surrounding the fiducial <b>300</b>. In some implemented, the protrusions <b>212</b> can be rounded (e.g., to improve patient comfort).</p>
+<p id="p-0080" num="0079">Further, at least some of the sockets <b>210</b> can be positioned between the protrusions <b>212</b>. For example, the localizer apparatus <b>200</b> can include edges <b>214</b> (e.g., arced edges) extending between the adjacent protrusion <b>212</b>. One or more of the sockets <b>210</b> can be placed along those edges <b>214</b> (e.g., such that they are positioned higher than the sockets that are positioned on the corresponding protrusions <b>212</b>).</p>
+<p id="p-0081" num="0080">Further some implementations, the sockets <b>210</b> can be positioned asymmetrically upon the localizer apparatus <b>200</b> (e.g., rotationally asymmetric and/or asymmetric with respect to one or more axes). This can be beneficial, for example, in improving the accuracy and precision of the registration process (e.g., by providing non-redundant registration points).</p>
+<p id="p-0082" num="0081">The example positions of the sockets <b>210</b> shown in <figref idref="DRAWINGS">FIGS. <b>2</b>A-<b>2</b>E</figref> may be particularly advantageous in at least some implementations. For example, these positions may coincide with imaging regions of the MRI system that have relatively lower degrees of distortion, such as spatial distortion (e.g., compared to other imaging regions). Accordingly, the position of the fiducials can be determined more accurately and precisely, thereby improving the accuracy and precision of the registration process. Nevertheless, in practice, the sockets <b>210</b> can be positioned differently, depending on the implementation. Further, in some implementations, the localizer apparatus <b>200</b> can include a greater number of sockets <b>210</b> (e.g., greater than 10), or fewer sockets <b>210</b> (e.g., less than 8).</p>
+<p id="p-0083" num="0082">Further, example dimensions of the localizer apparatus <b>200</b>, the fiducials <b>300</b>, and the caps <b>304</b> are shown in <figref idref="DRAWINGS">FIGS. <b>2</b>A-<b>2</b>E and <b>3</b>A-<b>3</b>E</figref>. In some implementations, components having these dimensions may be particularly suitable for use with 7T MRI systems (e.g., such that the components can readily fit within the bore of the 7T MRI system alongside the subject). Nevertheless, in practice, other dimensions are possible, depending on the implementation.</p>
+<p id="p-0084" num="0083">As described above, in some implementations, the localizer apparatus <b>200</b> can be secured to a subject by first securing the key device <b>204</b> to the bone of the subject <b>202</b> (e.g., along the top of the subject's skull). In turn, the localizer apparatus <b>200</b> can be secured to the key device <b>204</b>, such that the localizer apparatus <b>200</b> is fixed relative to the subject <b>202</b>. The coupling between the localizer apparatus <b>200</b> and the key device <b>204</b> is shown in greater detail in <figref idref="DRAWINGS">FIGS. <b>2</b>F-<b>2</b>H</figref> (showing a rear perspective view, a side view, and another rear perspective view, respectively). In <figref idref="DRAWINGS">FIGS. <b>2</b>F and <b>2</b>G</figref>, the localizer apparatus <b>200</b> is depicted as a translucent object, such that the coupling between the localizer apparatus <b>200</b> and the key device <b>204</b> can be seen more readily. As shown in <figref idref="DRAWINGS">FIGS. <b>2</b>F-<b>2</b>H</figref>, the localizer apparatus <b>200</b> can include a mounting structure <b>252</b> (e.g., a socket) configured to mechanically coupled to at least a portion of the key device <b>204</b> (e.g., a corresponding protuberance <b>254</b> keyed to the socket).</p>
+<p id="p-0085" num="0084">Further, as shown in <figref idref="DRAWINGS">FIGS. <b>2</b>F-<b>2</b>H</figref>, the localizer apparatus <b>200</b> and the key device <b>204</b> can have corresponding holes <b>256</b><i>a </i>and <b>256</b><i>b</i>, such that when the localizer apparatus <b>200</b> and the key device <b>204</b> are aligned to one another, each of the holes <b>256</b><i>a </i>is aligned with a corresponding one of the holes <b>256</b><i>b</i>. The localizer apparatus <b>200</b> and the key device <b>204</b> can be secured together by inserting one or more fasteners (e.g., a pin, bolt, screw, etc.) into the holes <b>256</b><i>a </i>and <b>256</b><i>b. </i></p>
+<p id="p-0086" num="0085">The key device <b>204</b> is shown in greater detail in <figref idref="DRAWINGS">FIG. <b>21</b></figref>. As shown in <figref idref="DRAWINGS">FIG. <b>21</b></figref>, the key device <b>204</b> can include one or more pins and/or screws <b>258</b> that can be inserted into the head the subject <b>202</b> (e.g., the skull), such that the key device <b>204</b> is fixed to the subject <b>202</b>. Further, a stereotactic device <b>260</b> can be mounted to the key device <b>204</b> (e.g., using a mounting bracket, pins, screws, sockets, and/or other mounting mechanisms), such that the stereotactic device <b>260</b> is also fixed to the subject <b>202</b>. In some implementations, the stereotactic device <b>260</b> can including a similar mounting mechanism as the localizer apparatus <b>200</b>. For example, the stereotactic device <b>260</b> can also include a mounting structure <b>252</b> (e.g., a socket) configured to mechanically coupled to at least a portion of the key device <b>204</b> (e.g., a corresponding protuberance <b>254</b> keyed to the socket). Further, the stereotactic device <b>260</b> can also include holes <b>256</b><i>a </i>that align with the holes <b>256</b><i>b </i>of the key device <b>204</b>, such that the stereotactic device <b>260</b> and the key device <b>204</b> can be secured together by inserting one or more fasteners (e.g., a pin, bolt, screw, etc.) into the holes <b>256</b><i>a </i>and <b>256</b><i>b. </i></p>
+<heading id="h-0007" level="1">Example Experimental Data</heading>
+<p id="p-0087" num="0086">Example experimental studies were conducted to develop localizer apparatuses and to test the performance of those localizer apparatuses. These example studies demonstrate the feasibility of using ultra-high field 7T MRI imaging for neurosurgical navigation. The example techniques describe herein uses low-distortion high resolution imaging sequences and an example localizer apparatus to facilitate superior neuroanatomic parcellation and image registration. The enhanced visualization of distinct target structures may not only lead to improved surgical targeting and efficacy, but may also allow enhanced study of anatomic variations in neurologic disease.</p>
+<p id="p-0088" num="0087">Further details regarding these experimental studies are described below.</p>
+<heading id="h-0008" level="1">Overview</heading>
+<p id="p-0089" num="0088">In some implementations, the planning of electrode placement for deep brain stimulation (DBS) may be limited by the MR image quality that is achievable by some MRI systems (e.g., 1.5T and 3T MRI systems), which may necessitate the use of indirect target guidance procedures such as use of a brain atlas. In addition, in some implementations, deep brain nuclei such as the subthalamic nucleus (the primary target for Parkinson's disease), may not be visualized MRI systems at 1.5T and 3T, which may require additional confirmation (e.g., electrophysiological recording). Imaging at 7T offers significantly improved image spatial and contrast resolution, particularly for visualizing these DBS targets.</p>
+<p id="p-0090" num="0089">In this study, a system was developed that permits 7T image registration and enables direct visualization of neural targets that might otherwise by unattainable at lower magnetic field strengths. In particular, 1) T1-weighted, T2-weighted, and T2*-weighted imaging sequence parameters were developed to optimize visualization of neural targets and fiducials, while also minimizing image distortion, 2) a skull-contoured localizer apparatus was developed with spherical point fiducials to enable image registration, 3) custom-built stereotactic software with functionality for point-based image registration, target selection, and trajectory guidance was developed to facilitate surgical intervention, and 4) high-angular resolution diffusion imaging (HARDI) for tractography were investigated to aid in target selection.</p>
+<p id="p-0091" num="0090">As a proof of concept, the 7T imaging of the basal ganglia nuclei was optimized to minimize image geometric distortion and maximize the target image contrast and signal-to-noise ratio (SNR). By mapping the spatial distortions in three-dimensions around the head, a skull-fixed localizer apparatus using point fiducials was developed and used to perform MR image volume registration. Target registration errors of &#x3c;1 mm were achieved in phantom images. In addition, high angular resolution diffusion-weighted imaging were investigated to explore the ability of 7T to visualize white matter tracts for improved target selection. Finally, surgical software was developed that enabled image registration, targeting, and trajectory guidance. The system was successfully demonstrated in phantom studies and in vivo for surgical neuro-navigation, permitting future exploration for clinical implementation.</p>
+<heading id="h-0009" level="1">Example Methods</heading>
+<heading id="h-0010" level="2">Imaging:</heading>
+<p id="p-0092" num="0091">Imaging was performed at 7T (Magnetom Terra, Siemens Medical Systems, Germany) using a 1Tx/32Rx channel head coil (Nova Medical, Wilmington, Mass.). MPRAGE, FGATIR, T2-weighted, and T2*-weighted imaging sequences were adapted and optimized from 3T imaging protocols. The effect of increasing the receiver bandwidth on the geometric distortion was investigated, commensurate with maintaining adequate SNR. Image quality improvements were scored qualitatively by board-certified radiologists with &#x3e;20 years of experience, using criteria including overall image quality, signal level, presence of artifacts, tissue contrast, and basal ganglia nuclei demarcation. An additional criteria of fiducial visualization was also assessed. Quantified measures of SNR, CNR, and image geometric distortion were also used to assess image quality improvements. SNR was calculated with correction for the Rayleigh distribution of background noise according to the following equation:</p>
+<p id="p-0093" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mi>S</mi>
+   <mo>&#x2062;</mo>
+   <mi>N</mi>
+   <mo>&#x2062;</mo>
+   <msub>
+    <mi>R</mi>
+    <mi>stdev</mi>
+   </msub>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+   <msub>
+    <mi>m</mi>
+    <mi>T</mi>
+   </msub>
+   <mrow>
+    <msub>
+     <mi>&#x3c3;</mi>
+     <mrow>
+      <mi>A</mi>
+      <mo>&#x2062;</mo>
+      <mi>i</mi>
+      <mo>&#x2062;</mo>
+      <mi>r</mi>
+     </mrow>
+    </msub>
+    <mo>&#x2062;</mo>
+    <msqrt>
+     <mfrac>
+      <mn>2</mn>
+      <mrow>
+       <mn>4</mn>
+       <mo>-</mo>
+       <mi>&#x3c0;</mi>
+      </mrow>
+     </mfrac>
+    </msqrt>
+   </mrow>
+  </mfrac>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0094" num="0000">where m<sub>T </sub>is the mean signal from two distinct anatomic areas (putamen, subcortical white matter, <figref idref="DRAWINGS">FIG. <b>10</b></figref>, panel A) including &#x2dc;60 mm<sup>3 </sup>area of tissue, and &#x3c3;<sub>Air </sub>is the standard deviation of the background signal in a 60 mm<sup>3 </sup>area of air. CNR was calculated as:</p>
+<p id="p-0095" num="0000">
+<maths id="MATH-US-00002" num="00002">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mi>C</mi>
+   <mo>&#x2062;</mo>
+   <mi>N</mi>
+   <mo>&#x2062;</mo>
+   <mi>R</mi>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+   <mrow>
+    <semantics definitionURL="">
+     <mo>&#x2758;</mo>
+     <annotation encoding="Mathematica">"\[LeftBracketingBar]"</annotation>
+    </semantics>
+    <mrow>
+     <msub>
+      <mi>m</mi>
+      <mi>T</mi>
+     </msub>
+     <mo>-</mo>
+     <msub>
+      <mi>m</mi>
+      <mrow>
+       <mi>A</mi>
+       <mo>&#x2062;</mo>
+       <mi>T</mi>
+      </mrow>
+     </msub>
+    </mrow>
+    <semantics definitionURL="">
+     <mo>&#x2758;</mo>
+     <annotation encoding="Mathematica">"\[RightBracketingBar]"</annotation>
+    </semantics>
+   </mrow>
+   <mrow>
+    <msub>
+     <mi>m</mi>
+     <mi>T</mi>
+    </msub>
+    <mo>+</mo>
+    <msub>
+     <mi>m</mi>
+     <mrow>
+      <mi>A</mi>
+      <mo>&#x2062;</mo>
+      <mi>T</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </mfrac>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0096" num="0000">where m<sub>T </sub>is the mean signal of the segmented globus pallidus externus nuclei and m<sub>AT </sub>is the mean signal in an equal sized area adjacent to the target (internal capsule) with no discernable nuclei (<figref idref="DRAWINGS">FIG. <b>10</b></figref>, panel B). The globus pallidus externus was chosen as it had noticeable variability in visibility between sequences.</p>
+<heading id="h-0011" level="2">Distortion Analysis:</heading>
+<p id="p-0097" num="0092">Extracranial distortion was analyzed via a custom distortion analysis device that fit around the subject's head within the 7T RF head coil. This device was designed using computer-aided design software (Onshape, PTC, USA) and 3D printed (S5, Ultimaker, Netherlands) using tough polylactic acid (PLA) plastic. Custom-made 4 mm spherical fiducials were developed for testing. Spherical point fiducials were chosen as they provide considerable flexibility in placement. In addition, regardless of image acquisition orientation, spherical fiducials result in a circle on each image slice enabling easy centroid assignment. These fiducials were devised with a silicone-based material visible with T1-, T2 and T2* weighted imaging (<figref idref="DRAWINGS">FIG. <b>11</b></figref>). They were found to maintain signal integrity over months of use without special care. These fiducials were built into the device and distributed around the head to provide &#x201c;ground truth&#x201d; positions for subsequent distortion analyses. They were spaced approximately 2 cm apart and evenly spaced to surround all portions of the head, except the occipital protuberance to allow the head to rest on the table. The fiducials were designed to produce point-like signal in the images acquired using each sequence. After imaging was performed, image volumes were loaded into the analysis software (3D Slicer v4, www.slicer.org26) and the centroid of each fiducial was manually selected. The software fit the fiducials' center points using rigid registration (least squares solution) to a model with fiducials in their geometrically correct position. This fitting assumed an isotropic zero-mean (unbiased) Gaussian noise. The registered coordinates of each fiducial were individually compared to their ground truth coordinates and the vector error taken as the local field distortion. Distortion tests were conducted on a head-shaped phantom filled with MR-visible oil (Marcol 82, ExxonMobil, USA) and on humans. Human testing was conducted in accordance with the local institutional review board. 9 healthy subjects (3 males and 6 females, ages 22-59) were tested.</p>
+<heading id="h-0012" level="2">Diffusion-Weighted Imaging and Tractography:</heading>
+<p id="p-0098" num="0093">High angular resolution diffusion-weighted imaging (HARDI) was performed with 64 diffusion-encoding gradient directions acquired anterior to posterior and posterior to anterior (b=1000 s/mm2, voxel size: 1.5 mm isotropic, TR: 5900 ms TE: 61 ms, matrix:1600&#xd7;1600, in-plane GRAPPA factor: 3, BW: 2604 Hz/px, partial Fourier factor: 6/8). 94 slices covering the whole brain was achieved using a simultaneous multi-slice factor of 2</p>
+<p id="p-0099" num="0094">The HARDI data was analyzed using FSL (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki) 27 with the following analysis pipeline:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0095">1) Conversion of DICOM to NIFTI format using dcm2niix</li>
+        <li id="ul0002-0002" num="0096">2) Topup&#x2014;correct for susceptibility-induced distortion</li>
+        <li id="ul0002-0003" num="0097">3) BET&#x2014;brain extraction tool</li>
+        <li id="ul0002-0004" num="0098">4) Eddy&#x2014;correct for eddy current-induced distortion</li>
+        <li id="ul0002-0005" num="0099">5) Bedpostx&#x2014;estimate the connectivity distribution of white matter pathways</li>
+        <li id="ul0002-0006" num="0100">6) FLIRT&#x2014;Rigid registration (6 DOF) to an anatomic 3D MPRAGE T1-weighted image acquired in the same session (BET applied)</li>
+        <li id="ul0002-0007" num="0101">7) Tractography with seeding of bilateral masks of the red nucleus (dentate-rubro-thalamo-cortico tract) and midbrain cerebral peduncle (lateral corticospinal tract)
+        <ul id="ul0003" list-style="none">
+            <li id="ul0003-0001" num="0102">a. Probabilistic tractography using FDT Probtracx in FSL. The settings were 5000 number of samples, a curvature threshold of 0.2, a maximum number of steps of 2000, and a step length of 0.5 mm.</li>
+            <li id="ul0003-0002" num="0103">b. Deterministic tractography using the second-order Runge-Kutta integration method (3D Slicer Diffusion Module). Fractional anisotropy was used for thresholding. The settings were a seeding threshold of 0.3, a stopping threshold of 0.25, an integration step length of 0.5 mm, and a stopping track curvature of 0.8.</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0013" level="2">Segmentation:</heading>
+<p id="p-0100" num="0104">All segmentations were performed manually using 3D Slicer v4. Segmentations for display of tractography was conducted on coronally acquired 2D T2*-w images (Table 1, T2*-w-Optimized) to visualize the thalamus, caudate, putamen, globus pallidus externus, globus pallidus internus, subthalamic nucleus, substantia nigra, and red nucleus by trained examiners. The clear visibility of the structure's borders enabled segmentation with high fidelity. A conservative approach to segmentation was followed whereby only voxels that had consensus between individual assessors were used. The segmentation volume was registered to the diffusion volume using an affine registration.</p>
+<heading id="h-0014" level="2">Prototype Localizer Design:</heading>
+<p id="p-0101" num="0105">In stereotaxy, in some implementations, an image localizer (e.g., a localizer apparatus) can be needed to transform an MRI image volume into stereotactic coordinate space for surgical guidance. Due to the contoured nature of the NOVA RF head coil, a prototype localizer apparatus was designed using computer-aided design software (Onshape, PTC, USA) with the maximum dimensions that allowed accommodation of the localizer and a human head. The localizer was built to couple to a stereotactic targeting system undergoing clinical trial in the laboratory to allow future translation of this technology (<figref idref="DRAWINGS">FIG. <b>12</b></figref>). This system utilizes a small skull-secured device platform that permits rigid attachment of the image localizer to the skull. To permit rigid registration of the image volume 8 point fiducials were placed in a defined geometric pattern to allow for proper right/left, anterior/posterior, and superior/inferior image registration.</p>
+<heading id="h-0015" level="2">Phantom Testing:</heading>
+<p id="p-0102" num="0106">Two phantoms were custom-designed and filled with oil (Marcol 82, ExxonMobil, USA) for MRI visibility and RF coil loading, with targetable fiducial points. The first phantom was custom-molded in the form of a head using acrylic and used in distortion testing. The second phantom was 3D-printed using tough PLA plastic on Ultimaker S5 3D printers and included of a mounting platform for the localizer and a basin containing oil with targetable points of known geometric coordinates. This localizer was used for assessment of fiducial registration error (FRE) and target registration error (TRE) with different imaging sequences. FRE is defined as the root mean square error of the fiducial points after rigid registration and is a measure of registration accuracy. TRE is defined as the 3D Euclidian distance between the geometrically correct target point and the target point selected in image space after rigid registration, and is an important measure for accurate surgical guidance. For these experiments, fiducial and target points were selected by two reviewers and the FRE and TRE values averaged.</p>
+<heading id="h-0016" level="2">New Localizer Design:</heading>
+<p id="p-0103" num="0107">Initially, point fiducials were placed in a geometrically defined pattern using previously defined principles and without incorporation of distortion data in the placement decisions. After analysis of geometric distortion, the prototype localizer was re-designed to alter fiducial locations and reduce the effects of distortion on registration. Localizers were printed using tough PLA plastic as described earlier. After analysis of distortion data, the localizer design was modified with placement of fiducials in areas exhibiting least distortion. Placement of fiducials in these low distortion areas were intended to reduce fiducial localizer error (FLE) during fiducial centroid assignment, which has been shown to be correlated with target registration error. In addition, FRE was expected to decrease as a function of improved relative spatial orientation.</p>
+<heading id="h-0017" level="2">Stereotactic Software:</heading>
+<p id="p-0104" num="0108">Custom-built fully functional stereotactic software was developed in the Python programming language. This software permitted visualization of DICOM images in the axial, coronal and sagittal planes. It abstracted DICOM header information for geometric positioning and permitted manual selection of fiducials, registration of images to stereotactic coordinate space with a rigid registration algorithm (least squared solution using singular value decomposition), target selection, and trajectory guidance. In addition, it had functionality to assess fiducial localization error, fiducial registration error (FRE), and target registration error (TRE). As FRE is uncorrelated with TRE, a poor FRE RMSE was considered &#x3e;2 mm and the registration button was coded to glow red if this occurs, prompting the user to re-check fiducial localization. The control panel had a targeting frame with target readout and manual controllers of the arc (X-Z plane) and collar (Y-Z plane) angles. In addition, a registration panel enabled individual selection of fiducials for registration.</p>
+<p id="p-0105" num="0109">A number of libraries were used, which included: Tkinter for building the graphic user interface; Pydicom to read, write, and modify DICOM images; Python Imaging Library for image processing; Numpy for array and matrix mathematics; and Math for common math functions.</p>
+<p id="p-0106" num="0110">It was sought to test the localizer and surgical software on human subjects. To do so, a non-invasive securement apparatus was built that clamped laterally to a subject's head and comprised a localizer attachment point (<figref idref="DRAWINGS">FIG. <b>13</b></figref>). The localizer was secured and subjects were imaged with FGATIR and MPRAGE sequences developed in this study.</p>
+<heading id="h-0018" level="2">Statistical Analysis:</heading>
+<p id="p-0107" num="0111">For distortion evaluation, comparisons between 2 groups were made using the Wilcoxon signed-rank test. Comparison between multiple groups was performed using the Friedman test with Dunn's corrected multiple comparison test. Equality of distribution between subjects was performed with the Kolmogorov-Smirnov test. Comparison between the apex, mid, and base was made using the Kruskal-Wallis test with Dunn's corrected multiple comparison test. Fiducial registration error and target registration error comparisons between localizers were made using the Mann-Whitney test. Comparisons between high and low bandwidths were made using the Friedman test. Data is represented as mean&#xb1;standard error of the mean (SEM). Significance was set as a p value of &#x3c;0.05.</p>
+<heading id="h-0019" level="1">Example Results</heading>
+<heading id="h-0020" level="2">Quantitative Evaluation of Extracranial Distortion:</heading>
+<p id="p-0108" num="0112">To determine the extracranial distortion among imaging sequences with varying weighting properties, a distortion analysis grid was developed and positioned around the head in the MRI scanner (<figref idref="DRAWINGS">FIG. <b>4</b></figref>, panel A). The root mean square error (RMSE) of local distortions was determined for each sequence at low and high bandwidths (BW) (<figref idref="DRAWINGS">FIG. <b>4</b></figref>, panel B). A two-way ANOVA was performed and found a significant interaction between the distortion effects of BW and sequence (F(3,24)=9.611, p=0.0002). Simple main effects analysis showed low BW acquisitions exhibited significantly higher geometric distortion compared to high bandwidth acquisitions (Bonferroni's test, MPRAGE and FGATIR p&#x3c;0.0001, T2 and T2* p&#x3c;0.01). In addition, sequence effects analysis showed that MPRAGE and FGATIR images exhibited larger distortion compared to T2 and T2* images at both BWs (p&#x3c;0.0001). T2* had significantly lower distortion than T2 at both BWs (p&#x3c;0.0001) and FGATIR had significantly lower distortion than MPRAGE only at low BW.</p>
+<p id="p-0109" num="0113">Local distortion derived from each fiducial revealed spatially significant differences, with significantly lower distortion measured in the mid-section of the distortion grid, which included most of the anatomic volume, compared to the apex and base (<figref idref="DRAWINGS">FIG. <b>4</b></figref>, panel C). T2 images have less spatial differences across the volume imaged, although fiducial visualization in the apex region was poor, especially at high bandwidth, leading to a significant number being omitted. The lowest distortion overall was found for T2* images, with significantly lower distortion measured in the mid region compared to the base at high BW, and compared to the apex at low BW (p&#x3c;0.05). These findings were consistent in repeat experiments across two subjects (Table 2).</p>
+<p id="p-0110" num="0114">Distortion testing was subsequently performed on a human-head shaped phantom to understand the contribution of gross head morphology to the spatial pattern of distortion. (<figref idref="DRAWINGS">FIG. <b>14</b></figref>). Phantom testing demonstrated reduced differences in distortion effects from sequence and bandwidth (Mixed-effects model, F(3,7)=9.4), where only MPRAGE exhibited difference in distortion due to bandwidth (Bonferroni's test, p=0.0003) and T2* exhibited reduced distortion at both bandwidths (p&#x3c;0.01). Despite this reduction, phantom data when compared to human (subject type) data using a mixed-effects model (restricted maximum likelihood) found no significant difference between subject types for the interaction of bandwidth and sequence (F(3,31)=0.26, p=0.85). In addition, the effect of subject type alone on distortion was non-significant (F(1,11)=2.98, p=0.11). These results suggest that the main determinants of distortion are sequence type and bandwidth, and do not significantly differ as subject type is varied.</p>
+<heading id="h-0021" level="2">Examination of Localizer Registration:</heading>
+<p id="p-0111" num="0115"><figref idref="DRAWINGS">FIG. <b>5</b></figref>. compares results obtained for two prototypes of the head localizer. The two designs are shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, panel A, with the second shape designed to incorporate fiducials in spatial areas which exhibited low geometric distortion across the imaging sequences evaluated. The schematic in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, panel B illustrates how point-based image registration is accomplished and how FRE and TRE are determined. <figref idref="DRAWINGS">FIG. <b>5</b></figref>, panels C and D show FRE and TRE for both localizers at high and low bandwidths.</p>
+<p id="p-0112" num="0116">FRE, the error of fiducial registration, was found to be significantly reduced for all sequences with the new design, at low and high BWs. (three-way RM ANOVA, F<sub>interaction</sub>(3,24)=35.45, p<sub>interaction</sub>&#x3c;0.0001). A two-way repeated measures (RM) ANOVA was performed for FRE values from the first phantom and the second phantom separately to examine the effects of bandwidth and sequence type. For the first phantom, there was a significant interaction between the effects of sequence and bandwidth on FRE (F(3,24)=34.95, p&#x3c;0.0001). Simple main effects analysis showed that the higher bandwidth increased FRE for MPRAGE (p&#x3c;0.0001), FGATIR (p&#x3c;0.0001), and T2* (p&#x3c;0.0001) imaging. Test using the second localizer found significant interaction between sequence and bandwidth (F(3,24)=3.93, p<sub>seq</sub>*BW=0.21), however, there was no significant difference in FRE between bandwidths (F(1,8)=0.003, p=0.96). Additionally, FRE had reduced variance across sequences (F test, p&#x3c;0.0001). These findings demonstrated the second localizer design robustly improved image registration across sequences and bandwidth.</p>
+<p id="p-0113" num="0117">TRE, a determinant of the inherent error of target selection due to imaging and image registration, was also found to be reduced with the second design (<figref idref="DRAWINGS">FIG. <b>5</b></figref>, panel D). TRE was reduced in all sequences at low-bandwidth (Mann-Whitney test, MPRAGE p&#x3c;0.05, all others p&#x3c;0.01) and was reduced for high bandwidth T2 and T2* sequences (Mann-Whitney test, p&#x3c;0.01). A two-way RM ANOVA was performed for TRE values from the first phantom and the second phantom separately to examine the effects of bandwidth and sequence type. For the first phantom, there was a significant interaction between the effects of sequence and bandwidth on FRE (F(3,24)=16.76, p&#x3c;0.0001). Simple main effects analysis showed that higher bandwidth increased FRE for MPRAGE (p=0.0003) and FGATIR (p=0.0023) imaging. However using the second localizer, while significant interaction was found between sequence and bandwidth (F(3,24)=3.93, p=0.21), there was no significant difference in FRE between bandwidths (F(1,8)=0.003, p=0.25). Additionally, TRE remained consistent across sequences using the second localizer, and had reduced variance compared to the old design (F test, p&#x3c;0.0001). These findings demonstrated that the second localizer significantly improved the accuracy and reduced the variability of target selection across sequences.</p>
+<p id="p-0114" num="0118">Human Testing of Localizer and Software:</p>
+<p id="p-0115" num="0119">This software was designed to permit image registration using a point-based localizer. Manual fiducial selection was performed using the fiducial registration panel for the 8 localizer fiducials. Rigid registration was achieved using the coded least squares solution (<figref idref="DRAWINGS">FIG. <b>6</b></figref>, panel A). The RMSE of the rigid registration is displayed in the software to inform the user if registration was successful or not. Using the localizer, the study achieved sub-2 mm RMSE for FGATIR and MPRAGE sequences. Upon successful registration, visualization and targeting was performed through independent scrolling in axial, coronal, and sagittal views with coordinate readout in the software control panel (<figref idref="DRAWINGS">FIG. <b>6</b></figref>, panel b, upper right corner. Trajectory angle manipulation available in the X-Z plane (arc) and the Y-Z plane (collar) allowed creation of an optimal path to target avoiding eloquent structures and vasculature. The created trajectory was visible as a marker with a customizable elliptical safety margin (<figref idref="DRAWINGS">FIG. <b>6</b></figref>, panel C).</p>
+<heading id="h-0022" level="2">Evaluation of In Vivo Image Quality:</heading>
+<p id="p-0116" num="0120">The optimized 7T MR imaging sequences that were developed for visualization of basal ganglia nuclei to enhance neuro-navigation are presented in Table 1, with representative in vivo images presented in <figref idref="DRAWINGS">FIG. <b>7</b></figref>. The sequences achieved an optimal trade-off between the receiver bandwidth, SNR, and contrast and spatial resolution for the standard anatomical sequences to maximize visibility of target nuclei. A dual-echo acquisition was implemented for the T2*-weighted sequence to allow for optimal fiducial visualization (TE1=7.4 ms, due to the short T2* of the fiducial material) and target nuclei contrast (TE2=20 ms). The field of view for all sequences was larger than that typically used clinically, in order to encompass the stereotactic head frame. Nevertheless, all sequences were developed with a maximal scan time of &#x2dc;10 min to remain clinically applicable.</p>
+<p id="p-0117" num="0121">Evaluation of image sequences (<figref idref="DRAWINGS">FIGS. <b>7</b> and <b>15</b></figref>, panel A) revealed notable differences. Overall image quality was equal for MPRAGE, T2-weighted and T2*-w weighted images (3.5/4), while FGATIR scored lower at 2.5/4. MPRAGE and FGATIR images exhibited the least artifacts as scored 5/5. T2*-w weighted scored the lowest at 2.5/5, with noticeable artifacts in the basal ganglia and brain stem regions. MPRAGE images scored highest for SNR at 5/5, and quantified measure of SNR also found MPRAGE to be highest at 85.8&#xb1;4.0, although statistical significance was not achieved against T2*-w weighted images at 66.6&#xb1;5.3 (<figref idref="DRAWINGS">FIG. <b>15</b></figref>, panels A and B &#xb1;SEM). T2-w weighted and T2*-w images scored highest for CNR at 4.5/5, and T2*-w weighted images had the greatest quantified CNR at 0.34&#xb1;0.07 although statistical significance was not achieved against FGATIR (0.30&#xb1;0.05) and T2-w weighted images (0.19&#xb1;0.01; T2-w vs. T2*-w, p<sub>adj</sub>=0.17; FGATIR vs. T2*-w, p<sub>adj</sub>&#x3e;0.99). It was noted that FGATIR experienced significant variation in CNR across the brain (range: 0.08-0.48; coefficient of variation=50%), due to variation in the efficiency of the inversion pulses in areas of high B0 and B1 inhomogeneity. Basal ganglia demarcation was best in T2*-weighted images, recorded as 4/4 (<figref idref="DRAWINGS">FIG. <b>15</b></figref>), permitting visualization of the caudate, putamen, claustrum, globus pallidus externus (GPe), globus pallidus internus (GPi), the substantia nigra (SN), and the subthalamic nucleus (STN). There was considerable variability in nuclei visibility for FGATIR images between subjects, particularly in the globus pallidus nuclei (<figref idref="DRAWINGS">FIG. <b>15</b></figref>). Fiducial visualization was greatest in MPRAGE and FGATIR images at 3/3, although fiducials could be clearly visualized in all sequences (<figref idref="DRAWINGS">FIG. <b>11</b></figref>).</p>
+<heading id="h-0023" level="2">Segmentation and DTI:</heading>
+<p id="p-0118" num="0122">HARDI with probabilistic tractography revealed the dentato-rubro-thalamo-cortical tract and its course through the thalamus, enabling localization of the ventral intermediate nucleus (VIM), which could not be revealed with imaging alone (<figref idref="DRAWINGS">FIG. <b>8</b></figref>). Seeding of the middle cerebral peduncle also revealed the lateral corticospinal tract (LCST) and its path through the posterior portion of the internal capsule to the motor cortex as a demonstration to visualize the proximity of a known passing fiber track at risk of off-target stimulation affects (<figref idref="DRAWINGS">FIGS. <b>8</b> and <b>9</b></figref>).</p>
+<heading id="h-0024" level="1">DISCUSSION</heading>
+<p id="p-0119" num="0123">These studies explored the use of 7T Mill imaging for DBS surgical guidance. In the past, efforts have been made to use 7T imaging for DBS surgery through image fusion with CT or lower-field MRI scanners. However, none have directly used 7T imaging for neuro-navigation nor have been translated from research trials. This has been due to a number of logistic and technical factors, including lack of access to clinical 7T scanners, inexperience with image fusion techniques, and absence of compatible stereotactic systems. A point-based localizer was developed that enabled direct registration of 7T imaging. Complementary imaging sequences were developed that address elevated geometric distortion at ultra-high field strength to reduce targeting errors. These enabled accurate and reliable targeting in tailored-made stereotactic software. The low target registration errors achieved in this study lay the groundwork for clinical translation.</p>
+<p id="p-0120" num="0124">Findings from this study demonstrate the challenge of mitigating distortion for effective image registration at ultra-high field strength. Prior work has focused on intracranial distortion effects at 7T; however, comprehensive extracranial distortion studies are lacking and are of great importance when developing image localizers for stereotactic systems. The study conducted a detailed mapping of extracranial distortion across a number of clinical sequences and parametrizations. The study demonstrated that extracranial distortion effects varied with sequence, with distortion decreasing at higher sequence bandwidths. The study also observed geometric variations in distortion, with the base of the skull and areas above the apex of the head subject to the greatest distortion. This is likely due to increased B0 inhomogeneity occurring primarily adjacent to areas with significant magnetic susceptibility differences such as air/tissue interfaces. In addition, distortion has been shown to increase with distance from the isocenter. Analysis of extracranial distortion enabled establishment of guidelines for fiducial placement on the finalized localizer design in locations that demonstrated the least amount of distortion. This enabled successful reduction in registration error across varying image sequences to sub-1 mm levels, compatible with clinical translation. Reduction in fiducial localization error (FLE) due to decreased local distortion likely led this finding, as FLE directly correlates with TRE. In addition to the application of extracranial distortion mapping to localizer design, the data generated here are generalizable to other applications including placement of skin fiducials for radiosurgery or new imaging sequence performance considerations.</p>
+<p id="p-0121" num="0125">7T markedly enhances image clarity and enables distinct nuclei to be resolved. Different pulse sequences have unique advantages and disadvantages when being used for DBS. The study found that T1-weighted sequences (MPRAGE and FGATIR) offered the greatest fiducial visualization and signal uniformity. This finding is likely due to the chemical properties of the fiducials, which have a longer relaxation time with T1-weighting (material composition not disclosed, patent pending). MPRAGE appeared to be superior to FGATIR for qualitative measures and afforded greater SNR. However, ins some implementations, these sequences may be inferior to T2 and T2* sequences for CNR and basal ganglia demarcation. T2* appeared to be promising for clinical translation, as it performed well in visualizing basal ganglia structures and had significantly lower geometric distortion. However, T2* imaging required a double echo time to both resolve fiducials (short relaxation time) and achieve optimal contrast for nuclei demarcation. In some implementations, this may present a challenge for stereotactic software. An additional advantage noted for T2* imaging was clarity of blood vessels, including microvessels of the basal ganglia. This offers considerable benefit for image-guided surgery as contrast may no longer be needed.</p>
+<p id="p-0122" num="0126">Future progress for this work will involve additional parameterization and sequence exploration. In this study, only four imaging modalities were explored and bandwidth effects analyzed, as these have previously been shown to affect distortion. The T1-w sequences had acquisition times as long as 10 minutes, which in some implementations, may be too burdensome for patients with movement disorders. Further developments in compressed sensing and parallel transmit technology may help to reduce these acquisition times. Finally, a larger study is warranted to confirm findings, examine safety and patient comfort, and generate protocols for clinical use.</p>
+<p id="p-0123" num="0127">Diffusion tensor imaging has typically been used for the study of structural connectivity in the brain. Its use in DBS targeting is emerging, and is based on the idea that DBS exerts its effects through modulation of action potentials, and direct targeting of fiber tracks improve clinical outcomes. Further, DTI can help resolve unseen and ambiguous target structures. DTI quality improves primarily with gradient slew rate and image resolution. Current 7T systems have the same gradient set (e.g., same amplitude and slew rates) as high-end 3.0T systems, but the improved SNR at 7T can be traded for increased spatial resolution. This extra spatial resolution is particularly beneficial for tractography. In some implementations, tractography may aid in the delineation of sensorimotor regions of the STN and GPi, respectively, with the potential to improve surgical targeting and thus patient outcomes. In this study, tractography enabled identification of the thalamic VIM, which not currently visible with MRI and the prime target for treatment of essential tremor. In addition, it was able to identify the LCST, a fiber track running proximal to the VIM and a common cause of stimulation-induced side effects due to inaccurate VIM targeting. This adds additional credence to the potential of DTI to improve target selection in DBS planning.</p>
+<p id="p-0124" num="0128">The major focus of this work was to investigate whether optimized imaging protocols and a point-based fiducial localizer could be used for direct targeting in 7T MRI. To this end, it was demonstrated that the ability to use 7T MRI for direct visualization of key neural structures. The imaging localizer and sequence parameterization allowed for accurate registration of 7T MRI images. Basal ganglia structures targeted in DBS could be clearly realized. Targeting was reproducibly performed with millimetric accuracy, on the level needed for clinical application. Finally, the use of DTI enhanced targeting capabilities and enabled validation of target placement.</p>
+<heading id="h-0025" level="2">Summary of Experimental Study:</heading>
+<p id="p-0125" num="0129">In this study, it was demonstrated that the ability to use 7T MRI for direct targeting. Basal ganglia nuclei could be clearly defined for target selection. DTI enhanced targeting capabilities and served to aid target placement. The imaging localizer and sequence parameterization allowed for accurate registration of MRI images with minimized errors. Targeting could be reproducibly performed with millimetric accuracy, on the level needed for clinical application. Future studies may be performed in larger cohorts to confirm findings and develop protocols for clinical use.</p>
+<heading id="h-0026" level="1">Tables</heading>
+<p id="p-0126" num="0130"></p>
+<p id="p-0127" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Example Imaging Parameters.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Imaging</entry>
+<entry>T<sub>2</sub></entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Parameters</entry>
+<entry>TSE</entry>
+<entry>MPRAGE</entry>
+<entry>FGATIR</entry>
+<entry>SWI</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Voxel size</entry>
+<entry>0.34 &#xd7;</entry>
+<entry>0.8 &#xd7;</entry>
+<entry>1.0 &#xd7;</entry>
+<entry>0.6 &#xd7;</entry>
+</row>
+<row>
+<entry>[mm<sup>3</sup>]</entry>
+<entry>0.26 &#xd7; 2</entry>
+<entry>0.8 &#xd7; 0.8</entry>
+<entry>1.0 &#xd7; 1.0</entry>
+<entry>0.6 &#xd7; 0.8</entry>
+</row>
+<row>
+<entry>TE [ms]</entry>
+<entry>56</entry>
+<entry>1.74</entry>
+<entry>1.43/2.03</entry>
+<entry>4.1</entry>
+</row>
+<row>
+<entry>(low/high BW)</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>TR [ms]</entry>
+<entry>5750</entry>
+<entry>3000</entry>
+<entry>6000</entry>
+<entry>6.5</entry>
+</row>
+<row>
+<entry>TI [ms]</entry>
+<entry>&#x2014;</entry>
+<entry>1050</entry>
+<entry>685</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>Flip Angle</entry>
+<entry>150</entry>
+<entry>9</entry>
+<entry>6</entry>
+<entry>15</entry>
+</row>
+<row>
+<entry>GRAPPA factor</entry>
+<entry>2</entry>
+<entry>3</entry>
+<entry>3</entry>
+<entry>3</entry>
+</row>
+<row>
+<entry>BW<sub>r</sub></entry>
+<entry>245/638</entry>
+<entry>220/1410</entry>
+<entry>&#x2002;420/1520</entry>
+<entry>520/1340</entry>
+</row>
+<row>
+<entry>[Hz/pixel]</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>(low/high BW)</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00001">T<sub>2 </sub>TSE = T<sub>2</sub>-weighted turbo spin echo; MPRAGE = magnetization prepared rapid gradient echo; FGATIR = fast grey matter acquisition T1 inversion recovery; SWI = susceptibility-weighted imaging; fMRI = functional MRI; TE = echo time; TR = repetition time FoV = field of view; TE = echo time; BW<sub>r </sub>= receiver bandwidth.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0128" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="280pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Inter-subject distribution analysis.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="28pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>MPRAGE-</entry>
+<entry>MPRAGE-</entry>
+<entry>FGATIR-</entry>
+<entry>FGATIR-</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>H</entry>
+<entry>L</entry>
+<entry>H</entry>
+<entry>L</entry>
+<entry>T2-H</entry>
+<entry>T2-L</entry>
+<entry>T<sub>2</sub>*-H</entry>
+<entry>T<sub>2</sub>*-L</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="char" char="."/>
+<colspec colname="3" colwidth="42pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<colspec colname="6" colwidth="21pt" align="char" char="."/>
+<colspec colname="7" colwidth="21pt" align="char" char="."/>
+<colspec colname="8" colwidth="28pt" align="char" char="."/>
+<colspec colname="9" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>p value</entry>
+<entry>0.95</entry>
+<entry>0.95</entry>
+<entry>0.93</entry>
+<entry>0.48</entry>
+<entry>0.41</entry>
+<entry>0.85</entry>
+<entry>0.46</entry>
+<entry>0.24</entry>
+</row>
+<row>
+<entry>D</entry>
+<entry>0.11</entry>
+<entry>0.11</entry>
+<entry>0.12</entry>
+<entry>0.18</entry>
+<entry>0.25</entry>
+<entry>0.16</entry>
+<entry>0.19</entry>
+<entry>0.24</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0027" level="1">Example Systems</heading>
+<p id="p-0129" num="0131">Some implementations of subject matter and operations described in this specification can be implemented in digital electronic circuitry, or in computer software, firmware, or hardware, including the structures disclosed in this specification and their structural equivalents, or in combinations of one or more of them. For example, in some implementations, the computer system <b>104</b> and/or the MR scanner <b>102</b> can be implemented using digital electronic circuitry, or in computer software, firmware, or hardware, or in combinations of one or more of them.</p>
+<p id="p-0130" num="0132">Some implementations described in this specification can be implemented as one or more groups or modules of digital electronic circuitry, computer software, firmware, or hardware, or in combinations of one or more of them. Although different modules can be used, each module need not be distinct, and multiple modules can be implemented on the same digital electronic circuitry, computer software, firmware, or hardware, or combination thereof.</p>
+<p id="p-0131" num="0133">Some implementations described in this specification can be implemented as one or more computer programs, i.e., one or more modules of computer program instructions, encoded on computer storage medium for execution by, or to control the operation of, data processing apparatus. A computer storage medium can be, or can be included in, a computer-readable storage device, a computer-readable storage substrate, a random or serial access memory array or device, or a combination of one or more of them. Moreover, while a computer storage medium is not a propagated signal, a computer storage medium can be a source or destination of computer program instructions encoded in an artificially generated propagated signal. The computer storage medium can also be, or be included in, one or more separate physical components or media (e.g., multiple CDs, disks, or other storage devices).</p>
+<p id="p-0132" num="0134">The term &#x201c;data processing apparatus&#x201d; encompasses all kinds of apparatus, devices, and machines for processing data, including by way of example a programmable processor, a computer, a system on a chip, or multiple ones, or combinations, of the foregoing. The apparatus can include special purpose logic circuitry, e.g., an FPGA (field programmable gate array) or an ASIC (application specific integrated circuit). The apparatus can also include, in addition to hardware, code that creates an execution environment for the computer program in question, e.g., code that constitutes processor firmware, a protocol stack, a database management system, an operating system, a cross-platform runtime environment, a virtual machine, or a combination of one or more of them. The apparatus and execution environment can realize various different computing model infrastructures, such as web services, distributed computing and grid computing infrastructures.</p>
+<p id="p-0133" num="0135">A computer program (also known as a program, software, software application, script, or code) can be written in any form of programming language, including compiled or interpreted languages, declarative or procedural languages. A computer program may, but need not, correspond to a file in a file system. A program can be stored in a portion of a file that holds other programs or data (e.g., one or more scripts stored in a markup language document), in a single file dedicated to the program in question, or in multiple coordinated files (e.g., files that store one or more modules, sub programs, or portions of code). A computer program can be deployed to be executed on one computer or on multiple computers that are located at one site or distributed across multiple sites and interconnected by a communication network.</p>
+<p id="p-0134" num="0136">Some of the processes and logic flows described in this specification can be performed by one or more programmable processors executing one or more computer programs to perform actions by operating on input data and generating output. The processes and logic flows can also be performed by, and apparatus can also be implemented as, special purpose logic circuitry, e.g., an FPGA (field programmable gate array) or an ASIC (application specific integrated circuit).</p>
+<p id="p-0135" num="0137">Processors suitable for the execution of a computer program include, by way of example, both general and special purpose microprocessors, and processors of any kind of digital computer. Generally, a processor will receive instructions and data from a read only memory or a random access memory or both. A computer includes a processor for performing actions in accordance with instructions and one or more memory devices for storing instructions and data. A computer may also include, or be operatively coupled to receive data from or transfer data to, or both, one or more mass storage devices for storing data, e.g., magnetic, magneto optical disks, or optical disks. However, a computer need not have such devices. Devices suitable for storing computer program instructions and data include all forms of non-volatile memory, media and memory devices, including by way of example semiconductor memory devices (e.g., EPROM, EEPROM, flash memory devices, and others), magnetic disks (e.g., internal hard disks, removable disks, and others), magneto optical disks, and CD-ROM and DVD-ROM disks. The processor and the memory can be supplemented by, or incorporated in, special purpose logic circuitry.</p>
+<p id="p-0136" num="0138">To provide for interaction with a user, operations can be implemented on a computer having a display device (e.g., a monitor, or another type of display device) for displaying information to the user and a keyboard and a pointing device (e.g., a mouse, a trackball, a tablet, a touch sensitive screen, or another type of pointing device) by which the user can provide input to the computer. Other kinds of devices can be used to provide for interaction with a user as well; for example, feedback provided to the user can be any form of sensory feedback, e.g., visual feedback, auditory feedback, or tactile feedback; and input from the user can be received in any form, including acoustic, speech, or tactile input. In addition, a computer can interact with a user by sending documents to and receiving documents from a device that is used by the user; for example, by sending web pages to a web browser on a user's client device in response to requests received from the web browser.</p>
+<p id="p-0137" num="0139">A computer system may include a single computing device, or multiple computers that operate in proximity or generally remote from each other and typically interact through a communication network. Examples of communication networks include a local area network (&#x201c;LAN&#x201d;) and a wide area network (&#x201c;WAN&#x201d;), an inter-network (e.g., the Internet), a network comprising a satellite link, and peer-to-peer networks (e.g., ad hoc peer-to-peer networks). A relationship of client and server may arise by virtue of computer programs running on the respective computers and having a client-server relationship to each other.</p>
+<p id="p-0138" num="0140"><figref idref="DRAWINGS">FIG. <b>16</b></figref> shows an example computer system <b>1600</b> that includes a processor <b>1600</b>, a memory <b>1620</b>, a storage device <b>1630</b> and an input/output device <b>1640</b>. Each of the components <b>1610</b>, <b>1620</b>, <b>1630</b> and <b>1640</b> can be interconnected, for example, by a system bus <b>1650</b>. The processor <b>1610</b> is capable of processing instructions for execution within the system <b>1600</b>. In some implementations, the processor <b>1610</b> is a single-threaded processor, a multi-threaded processor, or another type of processor. The processor <b>1610</b> is capable of processing instructions stored in the memory <b>1620</b> or on the storage device <b>1630</b>. The memory <b>1620</b> and the storage device <b>1630</b> can store information within the system <b>1600</b>.</p>
+<p id="p-0139" num="0141">The input/output device <b>1640</b> provides input/output operations for the system <b>1600</b>. In some implementations, the input/output device <b>1640</b> can include one or more of a network interface device, e.g., an Ethernet card, a serial communication device, e.g., an RS-232 port, and/or a wireless interface device, e.g., an 802.11 card, a 3G wireless modem, a 4G wireless modem, a 5G wireless modem, etc. In some implementations, the input/output device can include driver devices configured to receive input data and send output data to other input/output devices, e.g., keyboard, printer and display devices <b>1660</b>. In some implementations, mobile computing devices, mobile communication devices, and other devices can be used.</p>
+<p id="p-0140" num="0142">While this specification contains many details, these should not be construed as limitations on the scope of what may be claimed, but rather as descriptions of features specific to particular examples. Certain features that are described in this specification in the context of separate implementations can also be combined. Conversely, various features that are described in the context of a single implementation can also be implemented in multiple embodiments separately or in any suitable sub-combination.</p>
+<p id="p-0141" num="0143">A number of implementations have been described. Nevertheless, it will be understood that various modifications may be made without departing from the spirit and scope of the invention. Accordingly, other implementations are within the scope of the following claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20230225629A1-20230720-M00001.NB">
+<img id="EMI-M00001" he="9.91mm" wi="76.20mm" file="US20230225629A1-20230720-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US20230225629A1-20230720-M00002.NB">
+<img id="EMI-M00002" he="6.01mm" wi="76.20mm" file="US20230225629A1-20230720-M00002.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An apparatus comprising:
+<claim-text>a shell portion configured to be worn over a head of a subject, the shell portion defining a plurality of apertures;</claim-text>
+<claim-text>a plurality of spherical fiducial structures disposed on the shell portion, wherein each of the fiducial structures comprises a first material doped with a second material, wherein the second material is a contrast agent for magnetic resource imaging (MRI); and</claim-text>
+<claim-text>a mounting structure disposed on the shell portion and configured to secure the shell portion to the head of the subject.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first material is silicon.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second material is copper sulfate.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the shell portion comprises plastic.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the plastic is polylactic acid (PLA) plastic.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the shell portion comprises a glass-filled polymer.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least some of the apertures are wedge shaped.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least some of the apertures are aligned along a circumference of the shell portion.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the shell portions comprises a plurality of sockets, wherein each of the sockets is configured to receive a respective one of the fiducial structures.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the sockets are distributed on the shell portion according to a rotationally asymmetric pattern.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the shell portion comprises a plurality of protuberances extending from a bottom edge of the shell portion and away from an upper surface of the shell portion.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The apparatus of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein at least one of the sockets is disposed on at least one of the protuberances.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The apparatus of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein at least one of the sockets is disposed on between two adjacent protuberances.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The apparatus of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the apparatus comprises a plurality of caps, wherein each of the caps is configured to insert into a respective one of the sockets.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The apparatus of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein each of the sockets comprises one or more respective slots configured to receive a respective one of the caps.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the apparatus is configured to be worn by over the head of the subject while the head of the subject is in a bore of a 7T MRI system.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. A system comprising:
+<claim-text>a magnetic resonance imaging (MRI) system comprising one or more computer systems, and</claim-text>
+<claim-text>the apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>,</claim-text>
+<claim-text>wherein the MRI system is configured to:
+<claim-text>generate, while the apparatus is being worn by the subject, one or more images of the subject and the apparatus,</claim-text>
+<claim-text>determine, based on the one or more images, a respective position of each of the fiducial structures relative to the subject, and</claim-text>
+<claim-text>determine, based on the determined positions of each of the of fiducial structures, a three-dimensional coordinate system fixed to the subject.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The system of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the MM system is further configured to:
+<claim-text>identify, based on the one or more images, one or more anatomical features of the subject, and</claim-text>
+<claim-text>determine, for each of the one or more anatomical features, a location of the anatomical feature according to the three-dimensional coordinate system.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The system of <claim-ref idref="CLM-00017">claim 17</claim-ref>, further comprising a stereotactic device having one or more surgical instruments, wherein the stereotactic device is configured to be secured to the head of a subject.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The system of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the one or more surgical instructions comprises at least one of a probe, a cannula, or an electrode.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The system of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein determining the respective position of each of the fiducial structures relative to the subject comprises:
+<claim-text>receiving, by the MRI system, user input identifying at least some of the fiducial structures in the one or more images.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The system of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein determining the respective position of each of the fiducial structures relative to the subject comprises:
+<claim-text>automatically identifying, by the MRI system, at least some of the fiducial structures in the one or more images.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

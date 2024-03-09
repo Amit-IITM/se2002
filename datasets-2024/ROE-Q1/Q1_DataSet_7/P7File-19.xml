@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225609A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225609</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17796448</doc-number>
+<date>20210129</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>18</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>01</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>16</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>005</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>0025</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>18</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>06</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>013</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>06</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>167</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">A SYSTEM AND METHOD FOR PROVIDING VISUAL TESTS</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62968215</doc-number>
+<date>20200131</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>OLLEYES, INC.</orgname>
+<address>
+<city>Summit</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>GONZALEZ GARCIA</last-name>
+<first-name>Alberto O.</first-name>
+<address>
+<city>Miami</city>
+<state>FL</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>MORGENSTERN</last-name>
+<first-name>Freddy Salomon</first-name>
+<address>
+<city>Wayne</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/US2021/015694</doc-number>
+<date>20210129</date>
+</document-id>
+<us-371c12-date><date>20220729</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Embodiments of the invention are directed towards systems, methods and computer program products for providing improved eye tests. Such tests improve upon current eye tests, such as visual field tests, by incorporating virtual reality, software mediated guidance to the patient or practitioner such that more accurate results of the eye tests are obtained. Furthermore, through the use of one or more trained machine learning or predictive analytic systems, multiple signals obtained from sensors of a testing apparatus are evaluated to ensure that the eye test results are less error-prone and provide a more consistent evaluation of a user's vision status. As it will be appreciated, such error reduction and user guidance systems represent technological improvements in eye tests and utilize non-routine and non-conventional approaches to the improvement and reliability of eye tests.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="78.99mm" wi="158.75mm" file="US20230225609A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="223.69mm" wi="131.91mm" orientation="landscape" file="US20230225609A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="239.78mm" wi="127.25mm" orientation="landscape" file="US20230225609A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="258.66mm" wi="114.81mm" orientation="landscape" file="US20230225609A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="256.20mm" wi="114.72mm" orientation="landscape" file="US20230225609A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="258.40mm" wi="130.56mm" orientation="landscape" file="US20230225609A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="237.83mm" wi="87.97mm" orientation="landscape" file="US20230225609A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="232.83mm" wi="130.56mm" orientation="landscape" file="US20230225609A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="262.72mm" wi="133.10mm" orientation="landscape" file="US20230225609A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="197.36mm" wi="113.45mm" orientation="landscape" file="US20230225609A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="192.28mm" wi="118.03mm" orientation="landscape" file="US20230225609A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="237.91mm" wi="112.86mm" orientation="landscape" file="US20230225609A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="230.46mm" wi="131.83mm" orientation="landscape" file="US20230225609A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="249.77mm" wi="150.54mm" orientation="landscape" file="US20230225609A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="212.60mm" wi="111.17mm" orientation="landscape" file="US20230225609A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="221.23mm" wi="171.87mm" file="US20230225609A1-20230720-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This present application claims priority to U.S. Provisional Patent Application Ser. No. 62/968,215 filed Jan. 31, 2020, which is incorporated herein by reference in its entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The invention generally relates to systems and methods for the testing the eye of a subject. More particularly, the invention relates to a system and method for performing visual acuity test, contrast sensitivity test, color vision test, visual field test, tonometry, ophthalmic photography, gaze alignment test, light adaptometry test, pupillometry, autorefraction and vision therapy on a subject.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Eye testing, such as visual acuity testing, are common approaches to measuring a subject's vision. For instance, visual acuity testing is concerned with measuring the acuteness or clearness of a subject's vision. A visual acuity test is one that is specifically designed to measure a subject's dynamic visual acuity and concentrates on the subject's ability to visually discern fine details in an object while of the head of the subject is being displaced at a generally constant velocity. A different test, gaze stabilization, focuses on the ability of a subject to ascertain details of an object while his or her head is being displaced over a range of different velocities. Visual Field tests are usually carried out by a health care professional. However, scheduling an appointment for such a test is time consuming. Instead, there is a need and a desire for some users to conduct self-assessments of their visual field and other eye tests. Prior approaches of self-administered eye tests are prone to errors and problems with repeatably. Thus, one of the needs in the art is to provide a more robust guidance system for conducting eye test assessments. Furthermore, what is needed in the art are systems, platforms and apparatus that incorporates one or more machine learning or other predictive analytics to ensure error free eye assessments.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0005" num="0004">Embodiments of the invention are directed towards systems, methods and computer program products for providing improved eye tests. Such tests improve upon current eye tests, such as visual acuity tests, by incorporating virtual reality, software mediated guidance to the patient or practitioner such that more accurate results of the eye tests are obtained. Furthermore, through the use of one or more trained machine learning or predictive analytic systems, multiple signals obtained from sensors of a testing apparatus are evaluated to ensure that the eye test results are less error-prone and provide a more consistent evaluation of a user's vision status. As it will be appreciated, such error reduction and user guidance systems represent technological improvements in eye tests and utilize non-routine and non-conventional approaches to the improvement and reliability of eye tests.</p>
+<p id="p-0006" num="0005">In one particular implementation the present apparatus, systems and computer implemented methods described herein are utilized to provide an improved visual acuity test, the improved visual acuity test comprising, at least one data processor comprising a virtual reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to: (i) present a virtual assistant in virtual reality, wherein the virtual assistant presents to a patient a set of instructions for the visual acuity test, (ii) provide a set of n optotypes, wherein n is greater than or equal to 2, each optotype having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the optotypes is greater or lower than the luminance of a background. In a further implementation, the system described is configured to (iii) receive from the patient at least one response when the patient views at least one optotype, wherein the response comprises selection of a position of the at least one optotype or location of an arrow associated with the at least one optotype. Using this information, (iv) the system described repeat steps (ii) to iii) at least y times, where y is greater than 2, until the patient indicates that he/she cannot identify any optotypes having a size smaller than the last optotype the patient responded to in step (iii) and (v) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library instructions if a percentage of responses in step (iii) labeled as correct is less than the percentage expected to be correct based on a historical value for the patient's visual acuity score or an estimated percentage of correct choices based on a probability score; or (vi) calculate a visual acuity score if a percentage of responses in step (iii) labeled as correct is greater than or equal to the percentage expected to be correct based on a historical value for the patient's visual acuity score or an estimated percentage of correct choices based on a probability score.</p>
+<p id="p-0007" num="0006">The present description is also directed to a system for evaluating an in progress visual field test of an individual, the system comprising a training database, wherein the training database includes, for each member of a training population comprised of users of a visual field test, an assessment dataset that includes at least data relating to a respective user data obtained during a visual field test and a visual field outcome data value corresponding to the respective member. The training system includes an expert system module configured to determine correlations between the respective user data obtained during a visual field test and the visual field outcome data values each member of the training population; and a user testing platform configured to provide a user with a current visual field test and receive user data during administration of the test. The described system further includes an analysis system communicatively coupled to the training system and the user testing platform, the computer system adapted to receive the user data generated during administration of the visual field test in response to the current visual field test and to determine if an error has been made using the correlations obtained from the training system.</p>
+<p id="p-0008" num="0007">A system for a visual field test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to: (i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the visual field test, (ii) provide a set of n stimuli, wherein n is greater than or equal to 2, each stimulus having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the stimulus is greater than the luminance of a background; (iii) receive from the patient at least one response when the patient views at least one stimulus, wherein the response comprises clicking the response button, a verbal response, a sound command or the objective analysis of the anterior segment of the eye; (iv) repeat steps (ii) to (iii) at least y times, where y is greater than 2, until the patient indicates that the lowest stimulus intensity has been seen; (v) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library of instructions if a percentage of responses in step (iii) labeled as correct is less than the percentage expected to be correct based on a historical value for the patient's retinal sensitivity score or an estimated percentage of correct choices based on a probability score; or (vi) calculate a visual field score if a percentage of responses in step (iii) labeled as correct is greater than or equal to the percentage expected to be correct based on a historical value for the patient's retinal sensitivity score or an estimated percentage of correct choices based on a probability score.</p>
+<p id="p-0009" num="0008">A system for a contrast sensitivity test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to: (i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the contrast sensitivity test, (ii) provide a set of n optotypes, wherein n is greater than or equal to 2, each optotype having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the optotypes is greater than the luminance of a background; (iii) receive from the patient at least one response when the patient views at least one optotype, wherein the response comprises selection of a position of the at least one optotype or location of an arrow associated with the at least one optotype; (iv) repeat steps (ii) to (iii) at least y times, where y is greater than 2, until the patient indicates that he/she cannot identify any optotypes having a contrast lower than the last optotype the patient responded to in step (iii); (v) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library instructions if a percentage of responses in step (iii) labeled as correct is less than the percentage expected to be correct based on a historical value for the patient's contrast sensitivity score or an estimated percentage of correct choices based on a probability score; or (vi) calculate a contrast sensitivity score if a percentage of responses in step (iii) labeled as correct is greater than or equal to the percentage expected to be correct based on a historical value for the patient's contrast sensitivity score or an estimated percentage of correct choices based on a probability score.</p>
+<p id="p-0010" num="0009">A system for a light adaptometry test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to: (i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the light adaptometry test, (ii) The patient is first light-adapted to a bright background light for a given time. Present a bright light to the patient to obtain photoreceptors saturation where the photopigments are scarce; (iii), present a set of n optotypes, wherein n is greater than or equal to 2, each optotype having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the optotypes is greater than the luminance of a background; (iv) receive from the patient at least one response when the patient views at least one optotype, wherein the response comprises selection of a position of the at least one optotype or location of an arrow associated with the at least one optotype; (v)repeat steps (ii) to (iii) at least y times, where y is greater than 2, until the patient indicates that he/she cannot identify any optotypes having a size smaller than the last optotype the patient responded to in step (iii); (vi) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library of instructions if a percentage of responses in step (iii) labeled as correct is less than the percentage expected to be correct based on a historical value for the patient's light adaptometry score or an estimated percentage of correct choices based on a probability score; or (vii) calculate the time it takes for a patient to perceive the optotypes after the light adaptation; (viii) calculate a light adaptometry score if a percentage of responses in step (iii) labeled as correct is greater than or equal to the percentage expected to be correct based on a historical value for the patient's light adaptometry score or an estimated percentage of correct choices based on a probability score.</p>
+<p id="p-0011" num="0010">A system for a tonometry test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to: present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the tonometry test; and the patient is first presented a series of videos showing the visual perception of the tonometry from the patient's eyes perspective; the patient is presented a group of verbal explanation of the tonometry test.</p>
+<p id="p-0012" num="0011">A system for a color test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to: present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the color test, (ii) provide a set of n optotypes, wherein n is greater than or equal to 2, each optotype having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the optotypes is similar to the luminance of a background; (iii) receive from the patient at least one response when the patient views at least one optotype, wherein the response comprises selection of a position of the at least one optotype or location of an arrow associated with the at least one optotype; (iv) repeat steps (ii) to (iii) at least y times, where y is greater than 2, until the patient indicates that he/she cannot identify any optotypes having a hue lower than the last optotype the patient responded to in step (iii); (v) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library instructions if a percentage of responses in step (iii) labeled as correct is less than the percentage expected to be correct based on a historical value for the patient's color score or an estimated percentage of correct choices based on a probability score; or (vi) calculate a color sensitivity score if a percentage of responses in step (iii) labeled as correct is greater than or equal to the percentage expected to be correct based on a historical value for the patient's color sensitivity score or an estimated percentage of correct choices based on a probability score; (vii) the color test comprises a Farnsworth-Munsell 100 Hue Color Vision Test, a Farnsworth-Munsell 15 Hue Color Vision Test or Ishihara color test.</p>
+<p id="p-0013" num="0012">A system for a color test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to: (i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the gaze alignment test, (ii) provide a set of n targets, wherein n is greater than or equal to 2, each target having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the target is greater to the luminance of a background; (iii) receive from the patient at least one response when the patient views at least one target, wherein the response comprises selection of a position of the at least one target or location of an arrow associated with the at least one target; (iv) the targets move in predefined directions on the screen and the virtual assistant instructs the patient to follow the moving targets; (v) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library of instructions if the eye movements in step (iv) is labeled as less than the percentage expected to be correct based on a historical value for the patient's eye movement ranges or an estimated percentage of correct choices based on a healthy probability; or (vi) calculate a movement range amplitude and label it as correct if greater than or equal to the percentage expected to be correct based on a historical value for the patient's eye movement ranges or an estimated percentage of correct choices based on a probability score.</p>
+<p id="p-0014" num="0013">A system for a color test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to: (i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the gaze alignment test, (ii) provide a set of n targets, wherein n is greater than or equal to 2, each target having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the target is greater to the luminance of a background; (iii) receive from the patient at least one response when the patient views at least one target, wherein the response comprises selection of a position of the at least one target or location of an arrow associated with the at least one target; (iv) the targets move in predefined directions on the screen and the virtual assistant instructs the patient to follow the moving targets (v) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library of instructions if the eye movements in step (iv) is labeled as less than the percentage expected to be correct based on a historical value for the patient's eye movement ranges or an estimated percentage of correct choices based on a healthy probability; or (vi) calculate a movement range amplitude and label it as correct if greater than or equal to the percentage expected to be correct based on a historical value for the patient's eye movement ranges or an estimated percentage of correct choices based on a probability score.</p>
+<p id="p-0015" num="0014">A system for conducting a pupillometry test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to: (i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the pupillometry test, (ii) provide a set of fixation methods having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the fixation is greater to the luminance of a background; (iii) receive from the patient at least one response when the patient views at least one fixation method, wherein the response comprises selection of a position of the at least one fixation method or location of an arrow associated with the at least one fixation method; repeat steps (i) to (iii), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library; and present a series of luminance stimulus and record the pupil response.</p>
+<p id="p-0016" num="0015">A system for autorefraction test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to: (i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the autorefraction test, (ii) provide a set of fixation methods having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the fixation is greater or lower than the luminance of a background; (iii) receive from the patient at least one response when the patient views at least one fixation method, wherein the response comprises selection of a position of the at least one fixation method or location of an arrow associated with the at least one fixation method; repeat steps (i) to (iii), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library, and present a series of targets with different focal points and the patient interact with the assistant to let the system know if the patient is perceiving the target changes.</p>
+<p id="p-0017" num="0016">A system for Vision therapy, electromagnetic and light treatment comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to: (i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the Vision therapy, electromagnetic and light treatment, (ii) provide a set of fixation methods having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the fixation is greater or lower than the luminance of a background; (iii) receive from the patient at least one response when the patient views at least one fixation method, wherein the response comprises selection of a position of the at least one fixation method or location of an arrow associated with the at least one fixation method; and repeat steps (i) to (iii), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library; present a series of luminance stimulus and record the pupil response; and present a series of electromagnetic stimulus and record the pupil response.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0018" num="0017">Embodiments of the invention are illustrated in the figures of the accompanying drawings which are meant to be exemplary and not limiting, in which like references are intended to refer to like or corresponding parts, and in which:</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>1</b></figref> illustrates a block diagram of a system for implementing visual field and other eye tests according to one embodiment of the present invention;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>2</b></figref> presents a flow diagram illustrating certain functionality of a system for implementing visual field and other eye tests according to one embodiment of the present invention;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>3</b></figref> presents a flow diagram illustrating a software mediated visual acuity test according to one embodiment of the present invention;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>4</b></figref> presents a flow diagram illustrating a software mediated contrast sensitivity test according to one embodiment of the present invention;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>5</b></figref> presents a flow diagram illustrating a software mediated visual field test according to one embodiment of the present invention;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>6</b></figref> presents a block diagram illustrating components a software mediated virtual assistant platform according to one embodiment of the present invention;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>7</b></figref> presents a flow diagram illustrating steps for carrying out reminders to doctors and patients in accordance with one embodiment of the present invention;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>8</b></figref> presents flow diagram illustrating steps for carrying out communication with electronic medical records and evaluating compliance in accordance with one embodiment of the present invention;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>9</b></figref> presents a component diagram illustrating components and sensors of an eye testing device for use in accordance with one embodiment of the present invention;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>10</b></figref> presents a component diagram of the use of an eye testing device process for executing eye testing verbal instructions in accordance with one embodiment of the present invention;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>11</b></figref> presents a component diagram illustrating a process for executing a eye testing instructions on a patient in accordance with one embodiment of the present invention;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>12</b></figref> presents a component diagram illustrating a process for executing a eye testing instructions on a patient in accordance with one embodiment of the present invention;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>13</b></figref> presents a component diagram illustrating certain details of the predictive system <b>109</b> (of <figref idref="DRAWINGS">FIG. <b>1</b></figref>);</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>14</b></figref> presents a component diagram illustrating one particular implementation of the two-dimensional knowledge representation (2D-KR); and</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>15</b></figref> presents a component diagram illustrating the training phase for the machine learning models.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF CERTAIN EMBODIMENTS OF THE INVENTION</heading>
+<p id="p-0034" num="0033">By way of overview, various embodiments of the systems, methods and computer program products described herein are directed towards devices to conduct improved eye tests. Furthermore, in one or more particular implementations, the visual field testing devices described herein are configured to enable a user (such as a patient) to self-administer the visual field test. In this manner, the user is freed from the time and costs associated with scheduling and physically visiting a physician or medical facility to obtain visual field test. In one or more implementations of the systems, apparatus and computer program products described herein, the improved platform for administering visual field tests includes providing an altered field of vision device to a user that that incorporates one or more virtual software agents that provide step-by-step guidance to the user (such as a patient or practitioner) such that the results of the visual field tests are accurate and reliable. Furthermore, through the use of one or more trained machine learning based systems, the results of a field of view based visual field test are interpreted so as to provide more accurate measurements of a patient's current visual state by avoiding or reducing measurement errors. Furthermore, such machine learning systems improve the overall experience of a user such that the visual field test is more streamlined, informative, less stressful and able to produce more consistent results. Such systems and approaches described herein represent improvements in the technological art of visual field testing through the use of non-routine and non-conventional approaches that improve the functionating of visual field testing platforms.</p>
+<p id="p-0035" num="0034">Various objects, features, aspects and advantages of the subject matter described herein will become more apparent from the following detailed description of particular implementations, along with the accompanying drawing figures in which like numerals represent like components.</p>
+<p id="p-0036" num="0035">As shown with respect to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, an eye testing platform system and method is provided. Here, one or more components or devices are linked, connected, networked or otherwise interfaced with one another (shown in solid lines) such that data generated or residing on one or more of the components can be passed or exchanged to a different component. For example, bi-directional data transfers are indicated by the solid lines connecting each of the labeled components provided in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0037" num="0036">The eye testing platform system provided in <figref idref="DRAWINGS">FIG. <b>1</b></figref> includes, in one implementation, a user testing platform <b>103</b>. The user testing platform <b>103</b> is configured to receive user input data from a user in response to carrying out a visual filed test. For example, and in no way limiting, the user testing platform <b>103</b> is of virtual reality (VR) or augment reality (AR) device the provides a mediated field of view to a user. For example, a user may wear a pair of goggles, glasses, a monocle or other display device that allows for a display to be presented to a user where such a display provides a semi- or completely virtual visual environment to the user. By way of further example, such a display incorporated into a user testing platform <b>103</b> is configured to generate one or more icons, graphics, graphical user interfaces or computer-generated imagery is provided to the wearer or user.</p>
+<p id="p-0038" num="0037">Turning briefly to <figref idref="DRAWINGS">FIG. <b>9</b></figref>, the user testing platform <b>103</b> includes, in one or more implementations, such as sensors <b>901</b>, that are utilized to capture user input as well as the position and movement of a user or wearer of the user testing platform <b>103</b>. For example, the user testing platform <b>103</b> is configured with a display, a user testing platform (such as a control interface or buttons). In one or more implementations, the user testing platform <b>103</b> includes a screen, monitor, display, LED, LCD or OLED panel, augmented or virtual reality interface or an electronic ink-based display device that provides the visual display to the wearer. Furthermore, the user testing platform <b>103</b> includes and one or more orientation tracking units <b>902</b>, structured light scanners <b>904</b>, IR position trackers <b>906</b>, magnetometers <b>908</b>, pressure sensors <b>910</b>, gyroscopes <b>912</b>, accelerometers <b>914</b>, as well as the necessary power supplies and data storage memories and associated components to implement such displays and sensors. In one or more implementations, these sensor devices are configured to output data to one or more local or remote data processing devices, processors or computers. For example, a data processor configured to receive data from an orientation tracking unit <b>902</b> can be further configured to adjust or update a graphical element that is being displayed to a user so as to simulate movement or repositioning of that element while taking into account the user's own movements. The data gathered by the user testing platform <b>103</b> can be packaged and uploaded to a persistent data store, which may be local or remote to the control device, e.g., to serve as supporting data with regard to the safety or efficacy of a particular self-administered visual field test.</p>
+<p id="p-0039" num="0038">Returning to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the output of the user testing platform <b>103</b> is provided to an analysis platform <b>105</b>. Such output can be provided though a wired or wireless connection. For example, data obtained by the user testing platform <b>103</b> is transmitted via RF signal to a receiver associated with the analysis platform <b>105</b>. Here, the analysis platform <b>105</b> is configured to access live and/or recorded data from the user testing platform <b>103</b> and use that data to instruct a user to carry out a self-administered visual field test or instruct a health care professional how to manage a user operating the user testing platform.</p>
+<p id="p-0040" num="0039">In one or more implementations, the analysis platform <b>105</b> includes one or more processors or computer elements. For example, a processor when used generally throughout, and not exclusively when referring to the analysis platform, can be a computer or discrete computing element such as microprocessor. In one or more particular implementations, the processor is incorporated into one a desktop or workstation class computer that executes a commercially available operating system, e.g., MICROSOFT WINDOWS, APPLE OSX, UNIX or Linux based operating system implementations. In another implementation, the processors or computers of the analysis platform <b>105</b> are located or configured as a cloud or remote computing cluster made of multiple discrete computing elements, such as servers. Such a cloud computing cluster is available on an as needed basis and can provide a pre-determined level of computing power and resources. In accordance with alternative embodiments, the processors or computer of the analysis platform <b>105</b> can be a portable computing device such as a smartphone, wearable or tablet class device. For example, analysis platform <b>105</b> is an APPLE IPAD/IPHONE mobile device, ANDROID mobile device or other commercially available mobile electronic device configured to carry out the processes described herein. In other embodiments, the analysis platform <b>105</b> comprises custom or non-standard hardware configurations. For instance, the analysis platform <b>105</b> may comprise one or more micro-computer(s) operating alone or in concert within a collection of such devices, network adaptors and interfaces(s) operating in a distributed, but cooperative, manner, or array of other micro-computing elements, computer-on-chip(s), prototyping devices, &#x201c;hobby&#x201d; computing elements, home entertainment consoles and/or other hardware.</p>
+<p id="p-0041" num="0040">The analysis platform <b>105</b> and user testing platform <b>103</b> can be equipped or be in communication with a persistent memory (not shown) that is operative to store the operating system or the relevant computer or processor in addition to one or more additional software modules, such as those described herein that relate to implementing visual tests and providing for virtual assistant functionality in accordance with embodiments described herein. In one or more implementations, the persistent memory includes read only memory (ROM) and/or a random-access memory (e.g., a RAM). Such computer memories may also comprise secondary computer memory, such as magnetic or optical disk drives or flash memory, that provide long term storage of data in a manner similar to the persistent storage. In accordance with one or more embodiments, the memory comprises one or more volatile and non-volatile memories, such as Programmable Read Only-Memory (&#x201c;PROM&#x201d;), Erasable Programmable Read-Only Memory (&#x201c;EPROM&#x201d;), Electrically Erasable Programmable Read-Only Memory (&#x201c;EEPROM&#x201d;), Phase Change Memory (&#x201c;PCM&#x201d;), Single In-line Memory (&#x201c;SIMM&#x201d;), Dual In-line Memory (&#x201c;DIMM&#x201d;) or other memory types. Such memories can be fixed or removable, as is known to those of ordinary skill in the art, such as through the use of removable media cards or similar hardware modules. In one or more embodiments, the memory of the analysis platform <b>105</b> and or the user testing platform <b>103</b> provides for storage of application program and data files when needed by a processor or computer. One or more read-only memories provide program code that the processor or computer of the analysis platform <b>105</b> or the user testing platform <b>103</b> reads and implements at startup or initialization, which may instruct a processor associated therewith to execute specific program code from the persistent storage device to load into RAM at startup.</p>
+<p id="p-0042" num="0041">In one embodiment provided herein, the modules stored in memory utilized by the analysis platform <b>105</b> comprise software program code and data that are executed or otherwise used by one or more processors integral or associated with the analysis platform <b>105</b> thereby causing the analysis platform <b>105</b> to perform various actions dictated by the software code of the various modules. For instance, the analysis platform <b>105</b> is configured with one or more processors that are configured to execute code. Here, the code includes a set of instructions for evaluating and providing data to and from the user testing platform <b>103</b>.</p>
+<p id="p-0043" num="0042">Building on the prior example, the analysis platform <b>105</b> at startup retrieves initial instructions from ROM as to initialization of one or more processors. Upon initialization, program code that the processor retrieves and executes from ROM instructs the processor to retrieve and begin execution of virtual assistant application program code. The processor begins execution of the virtual assistant application program code, loading appropriate program code to run into RAM and presents a user interface to the user that provides access to one or more functions that the program code offers. According to one embodiment, the virtual assistant application program code presents a main menu after initialization that allows for the creation or modification of the user's desired avatar, testing plans, prior test results, and other information or protocols that are relevant to a user. While reference is made to code executing in the processor, it should be understood that the code can be executed or interpreted or comprise scripts that are used by the processor to implement prescribed routines.</p>
+<p id="p-0044" num="0043">In accordance with certain embodiments, the analysis platform <b>105</b> is also in communication with a persistent data store <b>115</b> that is located remote from the remote persistent data store <b>115</b> such that the analysis platform <b>105</b> is able to access the remote persistent data store <b>115</b> over a computer network, e.g., the Internet, via a network interface, which implements communication frameworks and protocols that are well known to those of skill in the art.</p>
+<p id="p-0045" num="0044">In one configuration, the database <b>115</b> is connected to the analysis platform <b>105</b> via a server or network interface and provides additional storage or access to user data, community data, or general-purpose files or information. The physical structure of the database <b>115</b> may be embodied as solid-state memory (e.g., ROM), hard disk drive systems, RAID, disk arrays, storage area networks (&#x201c;SAN&#x201d;), network attached storage (&#x201c;NAS&#x201d;) and/or any other suitable system for storing computer data. In addition, the database <b>115</b> may comprise caches, including database caches and/or web caches. Programmatically, the database <b>115</b> may comprise flat-file data store, a relational database, an object-oriented database, a hybrid relational-object database, a key-value data store such as HADOOP or MONGODB, in addition to other systems for the structure and retrieval of data that are well known to those of skill in the art.</p>
+<p id="p-0046" num="0045">In addition to a persistent storage device <b>115</b>, the analysis platform <b>105</b> may connect to one or more remote computing devices <b>107</b>. Such computing devices are configured to exchange data with the analysis platform <b>105</b>.</p>
+<p id="p-0047" num="0046">Turning to the flow diagram of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, a workflow of an implementation of the described systems and methods to assist patients to self-perform visual field tests and other ophthalmological tests are provided. As shown, the one or more virtual assistant modules executing as code in a processor of the analysis system <b>105</b> configures a processor generate a virtual assistant <b>203</b>. As described, the user testing platform <b>103</b> includes a goggle or other display device that uses one or more display elements to project a scene into the field of view of the user. In one particular implementation, the display device of the user testing platform <b>103</b> incorporates at least a liquid crystal display or an organic light emitted diode display, or any other form of display to present visual guides to patients during ophthalmological self-examinations. The virtual assistant <b>203</b> is displayed or otherwise projected into the field of view presented to the user by the user testing platform <b>103</b>. While the foregoing description refers to a virtual reality-based user testing platform, those possessing an ordinary level of skill in the requisite art will appreciate that the user testing platform <b>103</b> can be implemented as a smartphone, computers and internet of things (IoT) so long as such devices are able to provide the functionality as described herein. As shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the virtual assistant <b>203</b>, in accordance with one particular aspect of the concepts described herein, is displayed as an avatar (a humanoid or human-like character) to simulate the presence of a technician, a doctor or any other kind of operator. Such an avatar is presented to provide users with visual guidance on how to self-perform various ophthalmological tests.</p>
+<p id="p-0048" num="0047">As shown in the flow diagram of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the analysis platform <b>105</b> is configured to generate a virtual assistant <b>203</b> that can interact with the user. In one non-limiting implementation, the virtual assistant <b>203</b> is configured to provide audible instructions to a user of the user testing platform <b>103</b>. In one or more further implementations the virtual assistant <b>203</b> is depicted visually. For example, the virtual assistant <b>203</b> is depicted as a human or human like character. In one or more further arrangements, the virtual assistant <b>203</b> is generated as a 3-dimensional representation of a pre-selected avatar. This 3-dimensional representation is provided to the user testing platform <b>103</b> for display to the user in a manner configured to simulate the presence of the virtual assistant within field of view provided to the user. In another implementation, depending on the capability of the user testing platform <b>103</b>, the virtual assistant <b>203</b> can be provided as a 2-dimensional representation. For example, whether the user testing platform <b>103</b> lacks the requisite processing capacity to render a 3-dimensional virtual assistant <b>203</b>, a 2-dimensioanl representation is provided. However, in certain implementation, the user is able to select the type of display representation of the virtual assistant <b>203</b>.</p>
+<p id="p-0049" num="0048">Continuing with the flow diagram of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the virtual assistant <b>203</b> generated by the analysis platform <b>105</b> is configured to access from one or more data storage devices a pre-set selection of visual tests. In one arrangement, the visual test data set includes data values (such as text data) that provides an introduction or presentation regarding the particular test or suite of tests to be conducted, as shown in step <b>205</b> of <figref idref="DRAWINGS">FIG. <b>2</b></figref>. In a further implementation, the virtual assistant <b>203</b> provides guidance to the user or a practitioner to carry out a particular eye test as in step <b>207</b>. For example, the virtual assistant <b>203</b> provides instructions or guidance for the user to self-administer a visual acuity test, a contrast sensitivity tests, a color sensitivity test or a perimetry test. In one or more further configurations, the virtual assistant <b>203</b> provides the test guidance in the form of a tutorial or instructional video. For instance, the one or more software modules executed by the analysis platform <b>105</b> accesses a local or remote data storage repository where one or more audio, video, audio-visual, text or mixed media data files are stored. These data files are accessible by the analysis platform <b>105</b> and transmitted to the user testing platform <b>103</b> for display or presentation to the user. For example, the accessed media files provide instructions to the user of the user testing platform <b>103</b> how to self-administer a color sensitivity, contrast sensitivity, perimetry or visual acuity test using the user testing platform <b>103</b>.</p>
+<p id="p-0050" num="0049">Turning now to <figref idref="DRAWINGS">FIG. <b>3</b></figref>, a flow diagram is provided that details the virtual assistant mediated testing approach. For example, the virtual assistant <b>203</b> provides the to the user a step by step walkthrough on how to carry out several testing tasks associated with a visual acuity test. Here, the virtual assistant <b>203</b> is configured to provide displayed visual objects and indicators, such as arrows, written messages, highlighted geometrical figures, flickering areas or any other kind of visual guidance to help patients self-perform ophthalmological tests.</p>
+<p id="p-0051" num="0050">By way of further example, the virtual assistant <b>203</b> provided by the analysis platform <b>105</b> is configured to access one or more instruction modules that provide the user with steps to carry out a specific visual test. As shown in the non-limiting example of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the virtual assistant <b>203</b> is configured to provide a test explanation, a test initiation, location of optotypes, locations of arrows (in the test is a Landolt test). The virtual assistant <b>203</b> is further able to determine if an error in the self-administered test has occurred. For instance, when such an error is detected, such as by analyzing the response from one or more sensors integrated into the user testing platform <b>103</b> (such as one or more eye tracking sensors), the progress of the self-administered test is paused. Here, the virtual assistant <b>203</b> can provide the user with an explanation of the error and how to correct or prevent such an error from occurring. From this step, the virtual assistant <b>203</b> continues to monitor the re-initiated test until successful completion and presentation of the results.</p>
+<p id="p-0052" num="0051">With respect to the artificial intelligence or machine learning functionality provided in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, such artificial intelligence systems can be implemented as a separate predictive system <b>109</b> (of <figref idref="DRAWINGS">FIG. <b>1</b></figref>), and as further detailed in <figref idref="DRAWINGS">FIG. <b>13</b></figref>. In one particular implementation, the configuration detailed in <figref idref="DRAWINGS">FIG. <b>13</b></figref> provides data and predictive models to the analysis platform <b>105</b>. In turn, the data and predictive models are used to generate changes to the display presented to a user in connection with the tasks being performed.</p>
+<p id="p-0053" num="0052">In one or more particular implementations of the systems and methods described herein, a predictive system (such as the system detailed in <figref idref="DRAWINGS">FIG. <b>13</b></figref>) includes two (2) neural networks, a first neural network <b>122</b> and a second neural network <b>146</b>. In alternative configuration additional neural networks, such as three (3) or more neural networks can be used. Each neural network can be trained using a training database <b>111</b>.</p>
+<p id="p-0054" num="0053">In one particular implementation, the training database <b>111</b> includes two-dimensional knowledge representation (2D-KR) <b>140</b> of all input signals including user input, sensor input, the state input of the system and labels. In one particular implementation the state input of the system corresponds to the current state of the system, such as whether the system is currently administering a test, and if so, what portion of the test is currently being administered.</p>
+<p id="p-0055" num="0054">In one arrangement, the 2D-KR representation of the input data is provided in the form of a 32&#xd7;32 array, with each cell or array element having a numeric value representing an input value as shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>. In a further implementation, the labels include one or more flags to indicate or identify whether the test encountered significant errors or was unreliable or any other meaningful outcome. For example, where the test encountered an error (such as the number of incorrect answers given by the patient was above a pre-determined threshold), a flag can be applied to the label that categorizes the particular element.</p>
+<p id="p-0056" num="0055">In the foregoing example, both the first and second neural networks <b>122</b>, <b>146</b> can be convolutional neural network (CNN) based deep neural networks.</p>
+<p id="p-0057" num="0056">In one or more implementations, the first neural network <b>122</b> can be selected as a very deep neural network (e.g., ResNext-152) and the second neural network <b>146</b> can be selected as a relatively fast learning model with a smaller number of layers (e.g., EfficientNet-B1). Those possessing an ordinary level of skill in the requisite art will appreciate that using two different neural network architectures allows the system to obtain and use both &#x201c;shallow&#x201d; information from the data and also deep relationships data. The output of the different neural networks can be combined and also function as an ensemble model. Thus, when used herein, the term model or algorithm can refer to either the output of a single neural network, or an ensemble model of a plurality of neural networks.</p>
+<p id="p-0058" num="0057">In a particular implementation a decision tree <b>128</b> is integrated into the first and second neural networks <b>122</b>, <b>146</b> during the training phase. In one or more implementations, the decision tree <b>128</b> is configured as code executing within a processor of the system. For example, the decision tree <b>128</b> is implemented as one or more algorithms that produce a particular output based on supplied input values. As shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>, the decision tree accepts the output of the plurality of neural networks generated from data from the training database. In the illustrated configuration, the provided training phase does not include the ensemble model. However, it should be appreciated that in alternative implementations the ensemble model is used in the training phase.</p>
+<p id="p-0059" num="0058">In one implementation of the training configuration, the neural networks <b>122</b>,<b>146</b> outputs can be directly fed into the decision tree <b>128</b>. Here, the training flow is further detailed in relationship to <figref idref="DRAWINGS">FIG. <b>15</b></figref> and described herein. After a test completion, data relating thereto is obtained and stored for further use. Specifically, for each step during the testing process, the 2D-KR for each decision-making process during the test; the actions taken for each 2D-KR input; and the state of the system are be recorded and sent to the Training Data Pipeline <b>142</b>.</p>
+<p id="p-0060" num="0059">In one particular implementation, the training data pipeline <b>142</b> can asynchronously or synchronously process the incoming features and labels and store it in the training database <b>111</b> for offline training.</p>
+<p id="p-0061" num="0060">During the offline training, there can be two separate training sets for each neural network <b>122</b>, <b>146</b>. For each neural network <b>122</b>, <b>146</b>; the training starts with the data from the training database <b>111</b> being provided to the input layer of the neural network. After the data is processed by the neural network layers and output from an output layer, the processed data is provided to the decision tree <b>128</b>. Based on the action decided by the decision tree <b>128</b>; a loss value is calculated and back-propagated to the models to update the weights within the model. In the foregoing description, it will be understood that back-propagation refers to the adjustment of weight values within the layers of a neural network so that the input value is transformed into a target output value.</p>
+<p id="p-0062" num="0061">During the execution, in a preferred embodiment, a predictive system <b>109</b> receives sensor data <b>112</b> such as data originating with sensors <b>901</b>, user input <b>110</b> and the state input <b>136</b>. An example state input can be a numeric identifier or list of numerical identifiers that represents the current state of the system which may include but not limited to the followings; the step in the training flow, the time of day, time elapsed since the test started, the test being taken or user information.</p>
+<p id="p-0063" num="0062">Once a predictive system receives the inputs; it can generate a representation of such data, such as the two-dimensional representation (2D-KR) <b>118</b> as shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>.</p>
+<p id="p-0064" num="0063">In one or more of the foregoing implementations, the predictive system can use inputs obtained during the examination or test. By way of non-limiting example, the following inputs can include data or values corresponding to the current test step; the battery level of the headset, or other hardware device; the current duration of the test; one or more values corresponding to excessive amount of false positive responses; one or more values corresponding to an excessive amount of false negative responses; one or more values corresponding to a given amount of time without the system detecting a response from the patient; one or more values corresponding to a given amount of time without the system detecting a handpiece movement; one or more values corresponding to a given position of the headset; one or more values corresponding to a detection of a user or patient eye state (such as eyes closed) by the eye-tracking system (ETS) during a given amount of time; one or more values corresponding to an excessive amount of fixation loses; one or more values corresponding to a non-expected number of incorrect responses are detected; one or more values corresponding to an excessive amount of incorrect arrows detection; one or more values corresponding to an incorrect selection of arrows; one or more values corresponding to an incorrect eye position; one or more values corresponding to a given position of the headset and/or the camera device.</p>
+<p id="p-0065" num="0064">In each of the foregoing examples, the term &#x201c;incorrect&#x201d; or &#x201c;excessive&#x201d; can be established by way of a pre-set threshold value for the given data feature. For example, the value for excessive amount of incorrect arrow detection can be established through one or more statistical analysis on the anticipated amount of incorrect arrow detections. Similar statical values or pre-determined thresholds are known, understood and appreciated by those possessing an ordinary level of skill in the requisite art.</p>
+<p id="p-0066" num="0065">Turning back to <figref idref="DRAWINGS">FIG. <b>13</b></figref>, the generated data values provided as part of the knowledge representation (as shown in elements <b>120</b>, <b>140</b>) are then input to the CNN based trained neural networks <b>122</b>, <b>146</b> for further evaluations and processing.</p>
+<p id="p-0067" num="0066">The outputs of the neural networks <b>122</b>, <b>146</b>, are in one implementation, used to generate an ensemble two-dimensional score <b>126</b> of the input data obtained.</p>
+<p id="p-0068" num="0067">The generated ensemble scope <b>126</b> is, in one implementation, provided as an input to a decision tree <b>128</b>. Here, the decision tree is configured by code or algorithm to generate a value that corresponds to the next action to be taken by the visual assistant.</p>
+<p id="p-0069" num="0068">The decision tree <b>128</b> can be a categorical variable decision tree which is prepared using expert knowledge source <b>124</b>. A categorical variable decision tree includes categorical target variables that are divided into categories. For example, the categories can be the actions that the virtual assistant can take at any moment. The categories mean that every stage of the decision process falls into one of the categories. Furthermore, in one or more implementations the decision tree lacks any in-between or intermediate steps between categories.</p>
+<p id="p-0070" num="0069">The output of the decision tree <b>128</b> can be an, signal, flag, code, values, function or instruction that the virtual assistant is configured to receive and implement. Once the corresponding action is taken by the virtual assistant, the state machine <b>130</b> will change the state of the virtual assistant and feed the new state as an input signal to the decision tree <b>128</b> (as shown in <b>134</b>). In a further implementation, shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>, the new state (as shown in <b>136</b>) can be provided to the predictive engine for further processing according to the process described herein.</p>
+<p id="p-0071" num="0070">In one or more implementations, the predictive system described herein is configured to take one or more actions in response to the output of the decision tree. Thus, in a particular implementation, the predictive system configures the virtual assistant to revise or alter information dynamically in response to the user's own actions. Here, the responses can be text, audio or visual data that is accessed from a database of pre-set responses. Alternatively, the responses can be dynamically generated based, in part on the current state values.</p>
+<p id="p-0072" num="0071">By way of non-limiting example, the followings are some examples of what the actions the predictive system can undertake:</p>
+<p id="p-0073" num="0072">In one implementation, the virtual assistant accesses and provides to the user one or more stored responses that explains how to avoid responding more than the expected number of responses.</p>
+<p id="p-0074" num="0073">In one implementation, the virtual assistant accesses and provides to the user one or more stored responses that explain what a stimulus is and how to respond when said stimulus is presented.</p>
+<p id="p-0075" num="0074">In one implementation, the virtual assistant accesses and provides to the user one or more stored responses that interrupts the test process in order to explain where to look at (fixation) during the test and the importance of keeping said fixation.</p>
+<p id="p-0076" num="0075">In one implementation, the virtual assistant accesses and provides to the user one or more stored responses that explains what an arrow is, its position and how to select it.</p>
+<p id="p-0077" num="0076">In one implementation, the virtual assistant accesses and provides to the user one or more stored responses that explains what an optotype is and how to respond when said optotype is presented.</p>
+<p id="p-0078" num="0077">In one implementation, the virtual assistant accesses and provides to the user one or more stored responses that explains how to follow the fixation target to all given positions.</p>
+<p id="p-0079" num="0078">In one implementation, the virtual assistant accesses and provides to the user one or more stored responses when the virtual assistant identifies when the patient is falling asleep and intervenes to avoid patient falling asleep during the test.</p>
+<p id="p-0080" num="0079">In one implementation, the virtual assistant accesses and provides to the user one or more stored responses to provide the user with positive reinforcement of good behavior when the patient is correctly following instructions.</p>
+<p id="p-0081" num="0080">In one implementation, the virtual assistant accesses and provides to the user one or more stored responses configured to reduce patient anxiety during the training and testing experience by using strategies such as but not limited to providing positive feedback, pausing the test to provide a break, playing musical background and giving the estimated time remaining to complete the test.</p>
+<p id="p-0082" num="0081">By way of further overview of neural networks, when a network is generated or initialized, the weights are randomly set to values near zero. At the start of the ANN training process, as would be expected, the untrained ANN does not perform the desired mapping of an input value to a target value very well. A training algorithm incorporating some optimization technique must be applied to change the weights to provide an accurate mapping. The training is done in an iterative manner as prescribed by the training algorithm. The optimization techniques fall into one of two categories: stochastic or deterministic.</p>
+<p id="p-0083" num="0082">Training data selection is generally a nontrivial task. An ANN is only as representative of the functional mapping as the data used to train it. Any features or characteristics of the mapping not included (or hinted at) within the training data will not be represented in the ANN.</p>
+<p id="p-0084" num="0083">In one non-limiting example, one or more neural networks are used to generate a model that evaluates sensor or user input data and outputs a status flag or signal. For instance, the neural network could be trained to provide a value indicating the probability that an error in a visual test has occurred based on the sensor values measured during the testing phase. In another implementation, an artificial neural network, machine learning algorithm, or other statistical process is used to evaluate sensor or user input data received from the user testing platform <b>103</b> and output a predicted score of one or more different forms of visual field tests. In another arrangement, a machine learning or neural network derived model is configured to generate a threshold or cutoff value for evaluating user produced data, where values above the threshold value have a high correlation with a first given outcome and measurements where the values are below the threshold have a correlation with a second given outcome.</p>
+<p id="p-0085" num="0084">Turning now to <figref idref="DRAWINGS">FIG. <b>6</b></figref>, in one or more of the foregoing implementations, the virtual assistant <b>203</b> is generated and operated by an analysis platform <b>105</b> that is instantiated or provided by code executing on a server or remote computer <b>601</b>. Such a server or remote computer <b>601</b> can be a cloud or remote computing platform that is configured to exchange data with one or more client computers <b>107</b>. In one arrangement, the client computers are located at a physicians' office <b>603</b> or at the user's preferred location, such as their home or care facility <b>605</b>. In a particular implementation, the user testing platform <b>103</b> directly exchanges data with the server or remote computer <b>601</b>.</p>
+<p id="p-0086" num="0085">In a further implantation, the client computer <b>107</b> is an intermediary processor or platform that is configured to receive data from the cloud or remote system, such as analysis system <b>105</b> and provide that data to the user testing platform <b>103</b> as modified or altered instructions. For example, where the user testing platform <b>103</b> does not have direct access to a computer network, the user testing platform <b>103</b> is connected, by wireless or wired connection, to the analytic platform <b>105</b> in order to exchange data with the user testing platform <b>103</b>. In an alternative configuration, the virtual assistant <b>203</b> is configured as a local software agent. For instance, the analytic platform <b>105</b> is instantiated as a collection of software modules executing on a processor of a local computer <b>107</b> or processing platform that is capable of generating a virtual assistant <b>203</b> without accessing any remote resources. For example, where a computer of sufficient capability is located on the premises of a doctor's office <b>607</b> or a patient's home <b>609</b>, such local computers directly provide the virtual assistant to the user undergoing vision testing.</p>
+<p id="p-0087" num="0086">As shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, where the analysis system <b>105</b> configured to generate the virtual assistant <b>203</b> is remote from the user testing platform <b>103</b>, such as being implemented as a cloud server <b>601</b>, the analysis system <b>105</b> includes one or more communication modules (such as code executing within one or more of the processors of the cloud server <b>601</b>) that instruct the analysis system <b>105</b> to generate communications or messages for a particular user. These generated messages include one or more customizable messages that are addressed to the user of the user testing platform <b>103</b> or to an administrator of tests (such as a physician). The intended recipients of these generated messages can be determined based on one or more pre-set or dynamic rules that have been provided to the analysis system <b>105</b>. For instance, the analytic system is configured to generate messages for transmission to a user to provide reminders or suggestions regarding testing plans or schedules for administering a visual test or an analysis of the user's visual status. In one particular implementation, the analysis platform <b>105</b> incorporates one or more further analytic or predictive models or modules (such as one accessed or received from the predictive engine <b>109</b>) that configures a processor of the analysis platform <b>105</b> to suggest, via the virtual assistant <b>203</b>, test schedules based on a predictive model. For instance, a predictive model can be generated by the prediction engine <b>109</b> that has accessed a training set of data, such as data accessed from training database <b>111</b>, where such a model is trained to indicate when the highest compliance for a scheduled test occurs. Using this pretrained model, the analysis platform <b>105</b> is configured to select a date or time, or a combination thereof, that has a high probability of resulting in test compliance and suggest this date to the user via the virtual assistant <b>203</b>.</p>
+<p id="p-0088" num="0087">Turning now to the flow diagram of <figref idref="DRAWINGS">FIG. <b>8</b></figref>, the analysis platform <b>105</b> is configured with one or more analytic or predictive models (again, in one implementation obtained from the predictive engine <b>109</b>) to provide data to be used by the virtual assistant <b>203</b>. For example, using predictive algorithms, the virtual assistant <b>203</b> is configured by the analysis platform <b>105</b> to provide a testing plan to a user or to a user's physician. For instance, the analysis platform <b>105</b> utilizing a testing predictive model obtained from predictive engine <b>109</b> is configured by one or more modules to evaluate test plan compliance across a given patient population and derive from that evaluation one or more relevant factors or variables that contribute to testing plan compliance. Using these identified variables or factors, the particular data points corresponding to a given patient are evaluated by the analysis platform <b>105</b> using a predictive model such that the likelihood that a patient will comply with a given plan is evaluated. Where the analysis platform <b>105</b> predicts that the likelihood that the plan will be complied with is below a pre-set threshold value, the analysis platform <b>105</b> is configured to adjust one or more parameters of the test plan. For example, the date and/or the time of the test plan are altered dynamically until the likelihood of test compliance exceeds the pre-determined threshold value.</p>
+<p id="p-0089" num="0088">Furthermore, while interfacing directly with the user, a remote analysis platform <b>105</b> (such as a server-based engine <b>601</b>) is configured to also track self-administered test compliance. Where the reviewed data indicates that the user is non-compliant or semi-compliant with a given testing plan, the analysis platform <b>105</b> is configured by one or more enhanced engagement modules to provide the user with positive reinforcement or incentives to become or increase their compliance with the testing plan.</p>
+<p id="p-0090" num="0089">As shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref> the user testing platform <b>103</b> is configured as a virtual reality or augmented reality device that is configured to provide commands to a user. In one particular arrangement, as further shown, a virtual assistant <b>203</b> interfaces or receives data from the user platform <b>103</b> such that data from one or more of gyroscopes <b>912</b>, accelerometers <b>914</b>, pressure sensors <b>910</b>, magnetometers <b>908</b>, orientation tracking units (IMU) <b>902</b>, structured light scanners <b>904</b> and IR-based position tracking sensors <b>906</b> to provide feedback and guide patients during ophthalmological self-examinations. In one particular implementation, the data collected by the sensors <b>901</b> provided herein are transmitted to the analysis platform <b>105</b> for further review and analysis. In response to this review and analysis, the virtual assistant <b>203</b> is configured by one or more software modules of the analysis platform <b>205</b> to generate or provide instructions to the user in order to administer or self-administer a text or exam.</p>
+<p id="p-0091" num="0090">As shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, in a particular implementation, the virtual assistant <b>203</b> is configured to receive data generated by the user during operation of the user testing platform <b>103</b>. For instance, the analysis platform <b>105</b> is configured to receive audio data from a microphone incorporated or associated with the user testing platform <b>103</b>. By way of non-limiting example, the virtual assistant <b>203</b> implemented by the analysis platform <b>205</b> accesses the microphone data and speaker systems of the user testing platform <b>103</b> to receive audio data and transmit information with the user. For example, the virtual assistant <b>203</b> is enabled to parse and evaluate speech provided by the user and respond by synthesizing sounds to provide verbal guidance on how to self-perform ophthalmological tests. By way of further example, the virtual assistant <b>203</b> uses microphone to collect voice/commands from the patient using the user testing platform <b>103</b>. A virtual assistant <b>203</b> is configured by the analysis platform to send the audio data to the analysis platform <b>105</b> for parsing, natural language processing and evaluation. Once processed, the appropriate responses to the user's input (such as a response to a user question) are transmitted back to the user testing platform for output via the speakers or headphones. Such a response can be configured to provide a patient with guidance on how to self-administer any kind of therapies, such as but not limited to, photo-biomodulation.</p>
+<p id="p-0092" num="0091">As shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>, a virtual assistant <b>203</b> is configured to use any kind of artificial intelligence, machine learning or statistical methodology to evaluate data obtained from the sensors <b>901</b>. For example, the predictive engine <b>109</b> utilizes one or more models generated by a convolutional neural network, support vector machine, linear regression, Bayesian analysis, trait modeling, or other analysis techniques known and understood in the art to simulate a technician, a doctor or any other kind of operators of the user testing platform <b>103</b>. For example, the virtual assistant <b>203</b> utilizes a predictive model to provide users with audiovisual guidance on how to self-administer psychophysical tests.</p>
+<p id="p-0093" num="0092">It will be appreciated that in the embodiment depicted in <figref idref="DRAWINGS">FIG. <b>11</b></figref>, the predictive models are local to the user testing platform <b>103</b>. A virtual assistant that is also local to the user testing platform <b>103</b> uses these predictive models to determine the most efficient and accurate algorithm for presenting any kind of stimulus during any psychophysical self-test. In a further implementation, the virtual assistant approach described herein uses one or more different analytical or predictive models to determine the degree of patient's understanding of a given test. Using such information, the virtual assistant can skip certain instructions and otherwise avoid spending the user's time on education about the psychophysical testing procedures.</p>
+<p id="p-0094" num="0093">As shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>, a virtual assistant <b>203</b> is provided that recreates a peaceful environment to make the patients feel comfortable and relaxed before, during and or after ophthalmological tests. Such a peaceful environment can be generated by referencing prior information about the patient, or a statistical model or predictive system that takes into account user sensor data obtained from the user testing platform <b>103</b>. Such prior data can be used to determine one or more appropriate environmental changes that have a high likelihood of reducing the user's present anxiety or agitation. For example, the virtual assistant <b>203</b> is configured to provide conversational topics to the user that will reduce stress and anxiety. In another non-limiting implementation, the virtual assistant <b>203</b> provides music or a change in the tone, or color of the background of the virtual reality environment to a more relaxing color palate.</p>
+<p id="p-0095" num="0094">In one or more particular implementations, the virtual assistant <b>203</b> is configured by the neural network generated models to dynamically and automatically adjust the testing process so as to direct the user. For example, the virtual assistant described herein is configured by one or more modules, configured as code executed by a processor, to evaluate user input and dynamically change the content displayed or provided to the user in response to an evaluate of the current state of the user as determined by the user input and sensors.</p>
+<p id="p-0096" num="0095">For example, the following are non-limiting examples of test action taken or implemented by the virtual assistant based on Al algorithm decision or classification. For example, in one non-limiting implementation, a system is provided, wherein the virtual assistant uses neural network (NN) or a support vector machine (SVM) to classify several patient's input to the system and provide a subsequent test action.</p>
+<p id="p-0097" num="0096">By way of further example, a system is provided where a processor is configured by an algorithm to trigger the intervention of a Virtual Assistant (VA) during a visual field test where it is determined that certain quality criteria are detected. For instance, where the following criteria are detected or determined: excessive amount of false positive responses; excessive amount of false negative responses; a given amount of time without the system detecting a response from the patient; a given amount of time without the system detecting a handpiece movement; a given position of the headset; detection of eyes closed by the eye-tracking system (ETS) during a given amount of time; excessive amount of fixation loses.</p>
+<p id="p-0098" num="0097">In response to a determination that one or more of these criteria have been met, the processor configures the display to generate the virtual assistant such that the visual representation of the virtual assistant can provide prompts and guidance to the user during administration of the visual field test. For example, the processor configures the virtual assistant to be displayed within the visual field of the users. For example, the processor is configured by one or more intervention modules to cause the VA to be provided as an overlay of the existing content provided by the display device)intervene to provide personalized explanation of the test based on said quality criteria: the VA explains how to avoid responding more than the expected amount of responses; the VA explains what a stimulus is and how to respond when said stimulus is presented; the VA intervene to avoid patient falling asleep during the test; the VA intervene to explain where to look at (fixation) during the test and the importance of keeping said fixation.</p>
+<p id="p-0099" num="0098">In an alternative arrangement, a system is provided where a processor is configured by an algorithm to trigger the intervention of the Virtual Assistant (VA) in an on-going visual acuity test where one or more intervention criteria are detected. For instance, if certain visual acuity test quality criteria, such as, but not limited to: non-expected amount of incorrect responses are detected; excessive amounts of incorrect arrows detection; incorrect selection of arrows; a given amount of time without the system detecting a response from the patient; a given amount of time without the system detecting a handpiece movement; a given position of the headset; and detection of eyes closed by the eye-tracking system (ETS) during a given amount of time, the virtual assistant is directed to intervene in the testing process and provide prompts or guidance. For example, one or more modules configured as code executed by a processor causes one or more processors to provide personalized explanation of the test based on said quality criteria. For example, the processor is configured to cause the Virtual Assistant to instruct the user to avoid responding more than the expected amount of responses. By way of further example, the VA is configured by one or more modules to access prompts that explain what an arrow is, its position and how to select it. By way of further example, the VA is configured by one or more modules to access prompts or stored text that describe what an optotype is and how to respond when said optotype is presented.</p>
+<p id="p-0100" num="0099">In one or more further implementations, the VA is configured by one or more modules that cause the VA intervene when one or more sensors detect that the patient is falling asleep during the test.</p>
+<p id="p-0101" num="0100">By way of further example, the system is configured by one or more modules to trigger the intervention of the VA if one or more of the following quality criteria of the contrast sensitivity test are detected: non-expected amount of incorrect responses are detected; excessive amount of incorrect arrows detection; incorrect selection of arrows; a given amount of time without the system detecting a response from the patient; a given amount of time without the system detecting a handpiece movement; a given position of the headset; and detection of eyes closed by the eye-tracking system (ETS) during a given amount of time.</p>
+<p id="p-0102" num="0101">In a particular example, the VA is configured by one or more modules to intervene, such as by providing prompts to the patient, to provide personalized explanation of the test based on one or more of the following quality criteria: the VA provides one or more prompts (such as text or voice based prompts obtained from a database of prompts) that explains how to avoid responding more than the expected amount of responses; the VA explains (using one or more stored or dynamically generated prompts) what an arrow is, its position and how to select it; the VA explains what an optotype is and how to respond when said optotype is presented; and the VA intervene to avoid patient falling asleep during the test.</p>
+<p id="p-0103" num="0102">In one or more further implementations, a system is provided herein one or more modules executing as code in a processor causes the intervention of the Virtual Assistant (VA) if certain dark or light adaptometry test quality criteria are detected. For example, the VA can be triggered to interact with the patient where: non-expected amount of incorrect responses are detected; excessive amount of incorrect arrows detection; incorrect selection of arrows; a given amount of time without the system detecting a response from the patient; a given amount of time without the system detecting a handpiece movement; a given position of the headset; and detection of eyes closed by the eye-tracking system (ETS) during a given amount of time.</p>
+<p id="p-0104" num="0103">Here, the system configures to the VA intervene to provide personalized explanation of the test based on said quality criteria. For example, the VA can be configured by one or more intervention modules to: explain (through the use of one or more visual or audio prompts) how to avoid responding more than the expected amount of responses; explain what an arrow is, its position and how to select it; explains what an optotype is and how to respond when said optotype is presented; and intervene to avoid patient falling asleep during the test.</p>
+<p id="p-0105" num="0104">In one or more further implementations, a system is provided herein one or more modules executing as code in a processor causes the intervention of the Virtual Assistant (VA) if certain tonometry test quality criteria are detected. For example, the VA can be triggered to interact with the patient where: the system determines that there is incorrect eye position; the patient is determined to be in a given position, based on the positioning of the headset and/or the camera device; and the eyes of the patient are determined, by the eye-tracking system (ETS), to be closed for a pre-determined amount of time.</p>
+<p id="p-0106" num="0105">Here, the system configures to the VA intervene to provide personalized explanation of the test based on said quality criteria. For example, the VA can be configured by one or more intervention modules to: explain how to follow the fixation target to all given position; and cause the VA to intervene (such as producing an audio or visual alert) to avoid patient falling asleep during the test.</p>
+<p id="p-0107" num="0106">In one or more further implementations, a system is provided herein one or more modules executing as code in a processor causes the intervention of the Virtual Assistant (VA) if certain ophthalmic photography test quality criteria are detected. For example, the VA can be triggered to interact with the patient where: incorrect eye position is detected; a given position of the headset and/or the camera device is detected; and detection of eyes closed by the eye-tracking system (ETS) during a given amount of time.</p>
+<p id="p-0108" num="0107">Here, the system configures to the VA intervene to provide personalized explanation of the test based on said quality criteria. For example, the VA can be configured by one or more intervention modules to: explain how to follow the fixation target to all given position; and to intervene to avoid patient falling asleep during the test.</p>
+<p id="p-0109" num="0108">In one or more further implementations, a system is provided herein one or more modules executing as code in a processor causes the intervention of the Virtual Assistant (VA) if certain gaze position test quality criteria are detected. For example, the VA can be triggered to interact with the patient where: non-expected amount of incorrect responses are detected; excessive amount of incorrect arrows and/or optotypes detection; incorrect selection of arrows and/or optotypes; a given amount of time without the system detecting a response from the patient; a given amount of time without the system detecting a handpiece movement; a given position of the headset; and detection of eyes closed by the eye-tracking system (ETS) during a given amount of time.</p>
+<p id="p-0110" num="0109">Here, the system configures to the VA to intervene to provide a personalized or dynamically generated explanation of the test based on said quality criteria. For example, the VA can be configured by one or more intervention modules to: explain how to avoid responding more than the expected amount of responses; explain what an arrow is, its position and how to select it; explain what an optotype is and how to respond when said optotype is presented; and intervene in order to avoid patient falling asleep during the test.</p>
+<p id="p-0111" num="0110">In one or more further implementations, a system is provided that is configured by one or more modules executing as code in a processor that causes the intervention of the Virtual Assistant (VA) if certain pupillometry test quality criteria are detected. For example, the VA can be triggered to interact with the patient where: incorrect eye position is detected; a given position of the headset and/or the camera device is detected; and detection that the patient's eyes are closed by the eye-tracking system (ETS) during a given amount of time.</p>
+<p id="p-0112" num="0111">Here, the system configures to the VA intervene to provide personalized explanation of the test based on said quality criteria. For example, the VA can be configured by one or more intervention modules to: explain how to follow the fixation target to all given position; and the VA intervene to avoid patient falling asleep during the test.</p>
+<p id="p-0113" num="0112">In one or more further implementations, a system is provided that is configured by one or more modules executing as code in a processor that causes the intervention of the Virtual Assistant (VA) if certain autorefraction test quality criteria are detected. For example, the VA can be triggered to interact with the patient where: incorrect eye position is detected; a given position of the headset and/or the camera device is detected; detection of eyes closed by the eye-tracking system (ETS) during a given amount of time.</p>
+<p id="p-0114" num="0113">Here, the system configures to the VA intervene to provide personalized explanation of the test based on said quality criteria. For example, the VA can be configured by one or more intervention modules to: explain how to follow the fixation target to all given position; and intervene to avoid patient falling asleep during the test.</p>
+<p id="p-0115" num="0114">In one or more further implementations, a system is provided that is configured by one or more modules executing as code in a processor that causes the intervention of the Virtual Assistant (VA) if certain eye and vision therapy quality criteria are detected. For example, the VA can be triggered to interact with the patient where: incorrect eye position is detected; a given position of the headset and/or the camera device is detected; and detection of eyes closed by the eye-tracking system (ETS) during a given amount of time.</p>
+<p id="p-0116" num="0115">Here, the system configures the VA to intervene to provide personalized explanation of the test based on said quality criteria. For example, the VA can be configured by one or more intervention modules to: explain how to follow the fixation target to all given position; and intervene to avoid patient falling asleep during the test.</p>
+<p id="p-0117" num="0116">Additional further implementations of the systems methods and apparatus described herein are understood. For example, and in no way limiting, the following specific, non-limiting numbered implementations are particular configurations of the subject matter described herein.</p>
+<p id="p-0118" num="0117">Implementation 1. A system for a visual acuity test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to: present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the visual acuity test,
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0118">(ii) provide a set of n optotypes, wherein n is greater than or equal to 2, each optotype having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the optotypes is greater or lower than the luminance of a background;</li>
+        <li id="ul0002-0002" num="0119">(iii) receive from the patient at least one response when the patient views at least one optotype, wherein the response comprises selection of a position of the at least one optotype or location of an arrow associated with the at least one optotype;</li>
+        <li id="ul0002-0003" num="0120">(iv) repeat steps (ii) to (iii) at least y times, where y is greater than 2, until the patient indicates that he/she cannot identify any optotypes having a size smaller than the last optotype the patient responded to in step (iii);</li>
+        <li id="ul0002-0004" num="0121">(v) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library instructions if a percentage of responses in step (iii) labeled as correct is less than the percentage expected to be correct based on a historical value for the patient's visual acuity score or an estimated percentage of correct choices based on a probability score; or (vi) calculate a visual acuity score if a percentage of responses in step (iii) labeled as correct is greater than or equal to the percentage expected to be correct based on a historical value for the patient's visual acuity score or an estimated percentage of correct choices based on a probability score.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0119" num="0122">2. The system of implementation 1, further comprising a virtual reality, an augmented reality or a mixed reality headset.</p>
+<p id="p-0120" num="0123">3. The system of implementation 1, wherein the set of instructions comprises a patient guide or an explanation of the visual acuity test.</p>
+<p id="p-0121" num="0124">4. The system of implementation 1, wherein the virtual reality comprises augmented reality or mixed reality.</p>
+<p id="p-0122" num="0125">5. The system of implementation 1, wherein the set of instructions in step (i) further comprises noting the location of the optotypes and the location of arrows in the test scenario.</p>
+<p id="p-0123" num="0126">6. The system of implementation 5, wherein the set of instructions further comprises providing information to the patient on timing and sequence of the visual acuity test.</p>
+<p id="p-0124" num="0127">7. The system of implementation 1, wherein the set of instructions further comprises an explanation of responses of the patient.</p>
+<p id="p-0125" num="0128">8. The system of implementation 1, wherein the set of instructions comprises a verbal explanation.</p>
+<p id="p-0126" num="0129">9. The system of implementation 1, wherein the set of instructions comprises a pictorial explanation providing a set of actions and vector movements showing the position of the optotypes:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0130">(i) the arrows blink and move indicating to the position of the optotype;</li>
+        <li id="ul0004-0002" num="0131">(ii) the optotypes change their appearance by blinking, glowing, changing the color, hue or intensity to attract the attention of the patient being tested.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0127" num="0132">10. The system of implementation 1, wherein the virtual assistant is humanoid in appearance.</p>
+<p id="p-0128" num="0133">11. The system of implementation 1, wherein the virtual assistant is an avatar.</p>
+<p id="p-0129" num="0134">12. The system of implementation 1, wherein the virtual assistant is a cartoon character.</p>
+<p id="p-0130" num="0135">13. The system of implementation 1, wherein the virtual assistant is presented in two dimensions.</p>
+<p id="p-0131" num="0136">14. The system of implementation 1, wherein the virtual assistant is presented in three dimensions.</p>
+<p id="p-0132" num="0137">15. The system of implementation 1, wherein the virtual assistant is representational.</p>
+<p id="p-0133" num="0138">16. The system of implementation 1, wherein the optotypes are selected from the group consisting of Sloan letters, Snellen E's, Landolt C's, ETDRS optotypes and Lea symbols or combinations of Lea symbols and letters for the pediatric population.</p>
+<p id="p-0134" num="0139">17. The system of implementation 1, wherein the virtual assistant uses neural networks (NN) and a decision tree to evaluate the inputs from patient, sensors and system state and provide a subsequent action.</p>
+<p id="p-0135" num="0140">18. The system of implementation 17, wherein neural networks and a decision tree are previously trained by:
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0000">
+    <ul id="ul0006" list-style="none">
+        <li id="ul0006-0001" num="0141">(i) a training database, wherein the training database includes, for each member of a training population comprised of visual acuity tests taken by users, an assessment dataset that includes at least data relating to a respective user response to the visual acuity set and or a sensor input and or a system state.</li>
+        <li id="ul0006-0002" num="0142">(ii) a visual acuity score of the respective test; a training system including an expert system module configured to determine correlations between the respective user responses, sensor inputs and system state to the visual acuity test and the visual acuity score of each member of the training population.</li>
+        <li id="ul0006-0003" num="0143">(iii) a user testing platform configured to provide a user with a current visual acuity test and receive user input regarding responses to the current visual acuity test; an analysis system communicatively coupled to the training system and the user testing platform, the computer system adapted to receive the user input responses generated in response to the current visual acuity test and to assign a visual acuity score for the testing platform user using the correlations obtained from the training system.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0136" num="0144">19. A system for a visual field test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to:
+<ul id="ul0007" list-style="none">
+    <li id="ul0007-0001" num="0000">
+    <ul id="ul0008" list-style="none">
+        <li id="ul0008-0001" num="0145">(i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the visual field test,</li>
+        <li id="ul0008-0002" num="0146">(ii) provide a set of n stimuli, wherein n is greater than or equal to 2, each stimulus having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the stimulus is greater than the luminance of a background;</li>
+        <li id="ul0008-0003" num="0147">(iii) receive from the patient at least one response when the patient views at least one stimulus, wherein the response comprises clicking the response button, a verbal response, a sound command or the objective analysis of the anterior segment of the eye;</li>
+        <li id="ul0008-0004" num="0148">(iv) repeat steps (ii) to (iii) at least y times, where y is greater than 2, until the patient indicates that the lowest stimulus intensity has been seen;</li>
+        <li id="ul0008-0005" num="0149">(v) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library of instructions if a percentage of responses in step (iii) labeled as correct is less than the percentage expected to be correct based on a historical value for the patient's retinal sensitivity score or an estimated percentage of correct choices based on a probability score; or</li>
+        <li id="ul0008-0006" num="0150">(vi) calculate a visual field score if a percentage of responses in step (iii) labeled as correct is greater than or equal to the percentage expected to be correct based on a historical value for the patient's retinal sensitivity score or an estimated percentage of correct choices based on a probability score.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0137" num="0151">20. The system of implementation 19, further comprising a virtual reality, an augmented reality or a mixed reality headset.</p>
+<p id="p-0138" num="0152">21. The system of implementation 19, wherein the set of instructions comprises a patient guide or an explanation of the visual field test.</p>
+<p id="p-0139" num="0153">22. The system of implementation 19, wherein the virtual reality comprises augmented reality or mixed reality.</p>
+<p id="p-0140" num="0154">23. The system of implementation 19, wherein the set of instructions in step (i) further comprises noting the presentation of all the stimuli.</p>
+<p id="p-0141" num="0155">24. The system of implementation 23, wherein the set of instructions further comprises providing information to the patient on timing and sequence of the visual field test.</p>
+<p id="p-0142" num="0156">25. The system of implementation 19, wherein the set of instructions further comprises an explanation of responses of the patient.</p>
+<p id="p-0143" num="0157">26. The system of implementation 19, wherein the set of instructions comprises a verbal explanation.</p>
+<p id="p-0144" num="0158">27. The system of implementation 19, wherein the set of instructions comprises a pictorial explanation providing a set of actions and vector movements showing the position of the stimuli.
+<ul id="ul0009" list-style="none">
+    <li id="ul0009-0001" num="0000">
+    <ul id="ul0010" list-style="none">
+        <li id="ul0010-0001" num="0159">(i) The stimulus blink and move indicating to the position of the stimulus.</li>
+        <li id="ul0010-0002" num="0160">(ii) The stimulus change their appearance by blinking, glowing, changing the color, hue or intensity to attract the attention of the patient being tested.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0145" num="0161">28. The system of implementation 19, wherein the virtual assistant uses eye-tracking to reposition the visual field stimulus matrix to avoid the effect of &#x201c;fixation losses&#x201d;.
+<ul id="ul0011" list-style="none">
+    <li id="ul0011-0001" num="0000">
+    <ul id="ul0012" list-style="none">
+        <li id="ul0012-0001" num="0162">(i) The virtual assistant turns the eye-tracking cameras n milliseconds before showing a stimulus.</li>
+        <li id="ul0012-0002" num="0163">(ii) The virtual assistant uses the eye-tracking data to detect the actual gaze position;</li>
+        <li id="ul0012-0003" num="0164">(iii) virtual assistant changes the stimulus matrix to synchronize the center of the stimulus matrix with the actual optical axis or gaze position.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0146" num="0165">The system of any of the previous implementations, wherein the virtual assistant is humanoid in appearance.</p>
+<p id="p-0147" num="0166">29. The system of implementation 19, wherein the virtual assistant is an avatar.</p>
+<p id="p-0148" num="0167">30. The system of implementation 19, wherein the virtual assistant is a cartoon character.</p>
+<p id="p-0149" num="0168">31. The system of implementation 19, wherein the virtual assistant is presented in two dimensions.</p>
+<p id="p-0150" num="0169">32. The system of implementation 19, wherein the virtual assistant is presented in three dimensions.</p>
+<p id="p-0151" num="0170">33. The system of implementation 19, wherein the virtual assistant is representational.</p>
+<p id="p-0152" num="0171">34. The system of implementation 19, wherein the stimulus are selected from the group consisting of circular stimuli of all Goldman sizes, sinusoidal bars and circular stimuli of different colors.</p>
+<p id="p-0153" num="0172">35. The system of implementation 19, wherein the virtual assistant uses neural networks (NN) and a decision tree to evaluate the inputs from patient, sensors and system state and provide a subsequent action.</p>
+<p id="p-0154" num="0173">36. The system of implementation 35, wherein neural networks and a decision tree are previously trained by:
+<ul id="ul0013" list-style="none">
+    <li id="ul0013-0001" num="0000">
+    <ul id="ul0014" list-style="none">
+        <li id="ul0014-0001" num="0174">(i) a training database, wherein the training database includes, for each member of a training population comprised of visual field tests taken by users, an assessment dataset that includes at least data relating to a respective user response to the visual field set and or a sensor input and or a system state.</li>
+        <li id="ul0014-0002" num="0175">(ii) a visual field score of the respective test; a training system including an expert system module configured to determine correlations between the respective user responses, sensor inputs and system state to the visual field test and the visual field score of each member of the training population.</li>
+        <li id="ul0014-0003" num="0176">(iii) a user testing platform configured to provide a user with a current visual field test and receive user input regarding responses to the current visual field test; an analysis system communicatively coupled to the training system and the user testing platform, the computer system adapted to receive the user input responses generated in response to the current visual field test and to assign a visual field score for the testing platform user using the correlations obtained from the training system.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0155" num="0177">37. A system for a contrast sensitivity test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to:
+<ul id="ul0015" list-style="none">
+    <li id="ul0015-0001" num="0000">
+    <ul id="ul0016" list-style="none">
+        <li id="ul0016-0001" num="0178">(i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the contrast sensitivity test,</li>
+        <li id="ul0016-0002" num="0179">(ii) provide a set of n optotypes, wherein n is greater than or equal to 2, each optotype having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the optotypes is greater than the luminance of a background;</li>
+        <li id="ul0016-0003" num="0180">(iii) receive from the patient at least one response when the patient views at least one optotype, wherein the response comprises selection of a position of the at least one optotype or location of an arrow associated with the at least one optotype;</li>
+        <li id="ul0016-0004" num="0181">(iv) repeat steps (ii) to (iii) at least y times, where y is greater than 2, until the patient indicates that he/she cannot identify any optotypes having a contrast lower than the last optotype the patient responded to in step (iii);</li>
+        <li id="ul0016-0005" num="0182">(v) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library instructions if a percentage of responses in step (iii) labeled as correct is less than the percentage expected to be correct based on a historical value for the patient's contrast sensitivity score or an estimated percentage of correct choices based on a probability score; or</li>
+        <li id="ul0016-0006" num="0183">(vi) calculate a contrast sensitivity score if a percentage of responses in step (iii) labeled as correct is greater than or equal to the percentage expected to be correct based on a historical value for the patient's contrast sensitivity score or an estimated percentage of correct choices based on a probability score.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0156" num="0184">38. The system of implementation 37, further comprising a virtual reality, an augmented reality or a mixed reality headset.</p>
+<p id="p-0157" num="0185">39. The system of implementation 37, wherein the set of instructions comprises a patient guide or an explanation of the contrast sensitivity test.</p>
+<p id="p-0158" num="0186">40. The system of implementation 37, wherein the virtual reality comprises augmented reality or mixed reality.</p>
+<p id="p-0159" num="0187">41. The system of implementation 37, wherein the set of instructions in step (i) further comprises noting the location of the optotypes and the location of arrows in the test scenario.</p>
+<p id="p-0160" num="0188">42. The system of implementation 37, wherein the set of instructions further comprises providing information to the patient on timing and sequence of the contrast sensitivity test.</p>
+<p id="p-0161" num="0189">43. The system of implementation 37, wherein the set of instructions further comprises an explanation of responses of the patient.</p>
+<p id="p-0162" num="0190">44. The system of implementation 37, wherein the set of instructions comprises a verbal explanation.</p>
+<p id="p-0163" num="0191">45. The system of implementation 37, wherein the set of instructions comprises a pictorial explanation providing a set of actions and vector movements showing the position of the optotypes:
+<ul id="ul0017" list-style="none">
+    <li id="ul0017-0001" num="0000">
+    <ul id="ul0018" list-style="none">
+        <li id="ul0018-0001" num="0192">(i) the arrows blink and move indicating to the position of the optotype;</li>
+        <li id="ul0018-0002" num="0193">(ii) the optotypes change their appearance by blinking, glowing, changing the color, hue or intensity to attract the attention of the patient being tested.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0164" num="0194">46. The system of implementation 37, wherein the virtual assistant is humanoid in appearance.</p>
+<p id="p-0165" num="0195">47. The system of implementation 37, wherein the virtual assistant is an avatar.</p>
+<p id="p-0166" num="0196">48. The system of implementation 37, wherein the virtual assistant is a cartoon character.</p>
+<p id="p-0167" num="0197">49. The system of implementation 37, wherein the virtual assistant is presented in two dimensions.</p>
+<p id="p-0168" num="0198">50. The system of implementation 37, wherein the virtual assistant is presented in three dimensions.</p>
+<p id="p-0169" num="0199">51. The system of implementation 37, wherein the virtual assistant is representational.</p>
+<p id="p-0170" num="0200">52. The system of implementation 37, wherein the optotypes are selected from the group consisting of Sloan letters, Snellen E's, Landolt C's, ETDRS optotypes and Lea symbols or combinations of Lea symbols and letters for the pediatric population.</p>
+<p id="p-0171" num="0201">53. The system of implementation 37, wherein the virtual assistant uses neural networks (NN) and a decision tree to evaluate the inputs from patient, sensors and system state and provide a subsequent action.</p>
+<p id="p-0172" num="0202">54 The system of implementation 53, wherein neural networks and a decision tree are previously trained by:
+<ul id="ul0019" list-style="none">
+    <li id="ul0019-0001" num="0000">
+    <ul id="ul0020" list-style="none">
+        <li id="ul0020-0001" num="0203">(i) a training database, wherein the training database includes, for each member of a training population comprised of contrast sensitivity tests taken by users, an assessment dataset that includes at least data relating to a respective user response to the contrast sensitivity set and or a sensor input and or a system state.</li>
+        <li id="ul0020-0002" num="0204">(ii) a contrast sensitivity score of the respective test; a training system including an expert system module configured to determine correlations between the respective user responses, sensor inputs and system state to the contrast sensitivity test and the contrast sensitivity score of each member of the training population.</li>
+        <li id="ul0020-0003" num="0205">(iii) a user testing platform configured to provide a user with a current contrast sensitivity test and receive user input regarding responses to the current contrast sensitivity test; an analysis system communicatively coupled to the training system and the user testing platform, the computer system adapted to receive the user input responses generated in response to the current contrast sensitivity test and to assign a contrast sensitivity score for the testing platform user using the correlations obtained from the training system.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0173" num="0206">55. A system for a light adaptometry test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to:
+<ul id="ul0021" list-style="none">
+    <li id="ul0021-0001" num="0000">
+    <ul id="ul0022" list-style="none">
+        <li id="ul0022-0001" num="0207">(i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the light adaptometry test,</li>
+        <li id="ul0022-0002" num="0208">(ii) The patient is first light-adapted to a bright background light for a given time. Present a bright light to the patient to obtain photoreceptors saturation where the photopigments are scarce.</li>
+        <li id="ul0022-0003" num="0209">(iii) Present a set of n optotypes, wherein n is greater than or equal to 2, each optotype having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the optotypes is greater than the luminance of a background;</li>
+        <li id="ul0022-0004" num="0210">(iv) receive from the patient at least one response when the patient views at least one optotype, wherein the response comprises selection of a position of the at least one optotype or location of an arrow associated with the at least one optotype;</li>
+        <li id="ul0022-0005" num="0211">(v) repeat steps (ii) to (iii) at least y times, where y is greater than 2, until the patient indicates that he/she cannot identify any optotypes having a size smaller than the last optotype the patient responded to in step (iii);</li>
+        <li id="ul0022-0006" num="0212">(vi) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library of instructions if a percentage of responses in step (iii) labeled as correct is less than the percentage expected to be correct based on a historical value for the patient's light adaptometry score or an estimated percentage of correct choices based on a probability score; or</li>
+        <li id="ul0022-0007" num="0213">(vii) calculate the time it takes for a patient to perceive the optotypes after the light adaptation;</li>
+        <li id="ul0022-0008" num="0214">(viii) calculate a light adaptometry score if a percentage of responses in step (iii) labeled as correct is greater than or equal to the percentage expected to be correct based on a historical value for the patient's light adaptometry score or an estimated percentage of correct choices based on a probability score.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0174" num="0215">56. The system of implementation 55, further comprising a virtual reality, an augmented reality or a mixed reality headset.</p>
+<p id="p-0175" num="0216">57. The system of implementation 55, wherein the set of instructions comprises a patient guide or an explanation of the light adaptation also called adaptometry test.</p>
+<p id="p-0176" num="0217">58. The system of implementation 55, wherein the virtual reality comprises augmented reality or mixed reality.</p>
+<p id="p-0177" num="0218">59. The system of implementation 55, wherein the set of instructions in step (i) further comprises noting the location of the optotypes and the location of arrows in the test scenario.</p>
+<p id="p-0178" num="0219">60. The system of implementation 59, wherein the set of instructions further comprises providing information to the patient on timing and sequence of the adaptometry test.</p>
+<p id="p-0179" num="0220">61. The system of implementation 55, wherein the set of instructions further comprises an explanation of responses of the patient.</p>
+<p id="p-0180" num="0221">62. The system of implementation 55, wherein the set of instructions comprises a verbal explanation.</p>
+<p id="p-0181" num="0222">63. The system of implementation 55, wherein the set of instructions comprises a pictorial explanation providing a set of actions and vector movements showing the position of the optotypes:
+<ul id="ul0023" list-style="none">
+    <li id="ul0023-0001" num="0000">
+    <ul id="ul0024" list-style="none">
+        <li id="ul0024-0001" num="0223">(i) the arrows blink and move indicating to the position of the optotype; and</li>
+        <li id="ul0024-0002" num="0224">(ii) the optotypes change their appearance by blinking, glowing, changing the color, hue or intensity to attract the attention of the patient being tested.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0182" num="0225">64. The system of implementation 55, wherein the virtual assistant is humanoid in appearance.</p>
+<p id="p-0183" num="0226">65. The system of implementation 55, wherein the virtual assistant is an avatar.</p>
+<p id="p-0184" num="0227">66. The system of implementation 55, wherein the virtual assistant is a cartoon character.</p>
+<p id="p-0185" num="0228">67. The system of implementation 55, wherein the virtual assistant is presented in two dimensions.</p>
+<p id="p-0186" num="0229">68. The system of implementation 55, wherein the virtual assistant is presented in three dimensions.</p>
+<p id="p-0187" num="0230">69. The system of implementation 55, wherein the virtual assistant is representational.</p>
+<p id="p-0188" num="0231">70. The system of implementation 55, wherein the optotypes are selected from the group consisting of Sloan letters, Snellen E's, Landolt C's, ETDRS optotypes and Lea symbols or combinations of Lea symbols and letters for the pediatric population.</p>
+<p id="p-0189" num="0232">71. The system of implementation 55, wherein the virtual assistant uses neural networks (NN) and a decision tree to evaluate the inputs from patient, sensors and system state and provide a subsequent action.</p>
+<p id="p-0190" num="0233">72. The system of implementation 71, wherein neural networks and a decision tree are previously trained by:
+<ul id="ul0025" list-style="none">
+    <li id="ul0025-0001" num="0000">
+    <ul id="ul0026" list-style="none">
+        <li id="ul0026-0001" num="0234">(i) a training database, wherein the training database includes, for each member of a training population comprised of light adaptometry tests taken by users, an assessment dataset that includes at least data relating to a respective user response to the light adaptometry set and or a sensor input and or a system state.</li>
+        <li id="ul0026-0002" num="0235">(ii) a light adaptometry score of the respective test; a training system including an expert system module configured to determine correlations between the respective user responses, sensor inputs and system state to the light adaptometry test and the light adaptometry score of each member of the training population.</li>
+        <li id="ul0026-0003" num="0236">(iii) a user testing platform configured to provide a user with a current light adaptometry test and receive user input regarding responses to the current light adaptometry test; an analysis system communicatively coupled to the training system and the user testing platform, the computer system adapted to receive the user input responses generated in response to the current light adaptometry test and to assign a light adaptometry score for the testing platform user using the correlations obtained from the training system.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0191" num="0237">73. A system for a tonometry test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to:
+<ul id="ul0027" list-style="none">
+    <li id="ul0027-0001" num="0000">
+    <ul id="ul0028" list-style="none">
+        <li id="ul0028-0001" num="0238">(i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the tonometry test; and</li>
+        <li id="ul0028-0002" num="0239">(ii) The patient is first presented a series of videos showing the visual perception of the tonometry from the patient's eyes perspective; the patient is presented a group of verbal explanation of the tonometry test.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0192" num="0240">A set of instructions of any of the forgoing implementations, further comprises providing information to the patient on timing and sequence of the tonometry test.</p>
+<p id="p-0193" num="0241">74. The system of implementation 73, further comprising a virtual reality, an augmented reality or a mixed reality headset.</p>
+<p id="p-0194" num="0242">75. The system of implementation 73, wherein the tonometry test comprises but not limited to indentation tonometry, applanation tonometry.</p>
+<p id="p-0195" num="0243">76. The system of implementation 73, wherein the virtual reality comprises augmented reality or mixed reality.</p>
+<p id="p-0196" num="0244">77. The system of implementation 73, wherein the set of instructions comprises a verbal explanation.</p>
+<p id="p-0197" num="0245">78. The system of implementation 73, wherein the set of instructions comprises a pictorial explanation providing a set of actions and vector movements showing the position of the tonometer.</p>
+<p id="p-0198" num="0246">79. The system of implementation 73, wherein the virtual assistant is humanoid in appearance.</p>
+<p id="p-0199" num="0247">80. The system of implementation 73, wherein the virtual assistant is an avatar.</p>
+<p id="p-0200" num="0248">81. The system of implementation 73, wherein the virtual assistant is a cartoon character.</p>
+<p id="p-0201" num="0249">82. The system of implementation 73, wherein the virtual assistant is presented in two dimensions.</p>
+<p id="p-0202" num="0250">83. The system of implementation 73, wherein the virtual assistant is presented in three dimensions.</p>
+<p id="p-0203" num="0251">84. The system of implementation 73, wherein the virtual assistant is representational.</p>
+<p id="p-0204" num="0252">85. A system for a color test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to:
+<ul id="ul0029" list-style="none">
+    <li id="ul0029-0001" num="0000">
+    <ul id="ul0030" list-style="none">
+        <li id="ul0030-0001" num="0253">present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the color test,</li>
+        <li id="ul0030-0002" num="0254">(ii) provide a set of n optotypes, wherein n is greater than or equal to 2, each optotype having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the optotypes is similar to the luminance of a background;</li>
+        <li id="ul0030-0003" num="0255">(iii) receive from the patient at least one response when the patient views at least one optotype, wherein the response comprises selection of a position of the at least one optotype or location of an arrow associated with the at least one optotype;</li>
+        <li id="ul0030-0004" num="0256">(iv) repeat steps (ii) to (iii) at least y times, where y is greater than 2, until the patient indicates that he/she cannot identify any optotypes having a hue lower than the last optotype the patient responded to in step (iii);</li>
+        <li id="ul0030-0005" num="0257">(v) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library instructions if a percentage of responses in step (iii) labeled as correct is less than the percentage expected to be correct based on a historical value for the patient's color score or an estimated percentage of correct choices based on a probability score; or</li>
+        <li id="ul0030-0006" num="0258">(vi) calculate a color sensitivity score if a percentage of responses in step (iii) labeled as correct is greater than or equal to the percentage expected to be correct based on a historical value for the patient's color sensitivity score or an estimated percentage of correct choices based on a probability score.</li>
+        <li id="ul0030-0007" num="0259">(vii) the color test comprises a Farnsworth-Munsell 100 Hue Color Vision Test, a Farnsworth-Munsell 15 Hue Color Vision Test or Ishihara color test.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0205" num="0260">86. The system of implementation 85, further comprising a virtual reality, an augmented reality or a mixed reality headset.</p>
+<p id="p-0206" num="0261">87. The system of implementation 85, wherein the set of instructions comprises a patient guide or an explanation of the color test.</p>
+<p id="p-0207" num="0262">88. The system of implementation 85, wherein the virtual reality comprises augmented reality or mixed reality.</p>
+<p id="p-0208" num="0263">89. The system of implementation 85, wherein the set of instructions in step (i) further comprises noting the location of the optotypes and the location of arrows in the test scenario.</p>
+<p id="p-0209" num="0264">90. The system of implementation 89, wherein the set of instructions further comprises providing information to the patient on timing and sequence of the color test.</p>
+<p id="p-0210" num="0265">91. The system of implementation 85, wherein the set of instructions further comprises an explanation of responses of the patient.</p>
+<p id="p-0211" num="0266">92. The system of implementation 85, wherein the set of instructions comprises a verbal explanation.</p>
+<p id="p-0212" num="0267">93. The system of implementation 85, wherein the set of instructions comprises a pictorial explanation providing a set of actions and vector movements showing the position of the optotypes:
+<ul id="ul0031" list-style="none">
+    <li id="ul0031-0001" num="0000">
+    <ul id="ul0032" list-style="none">
+        <li id="ul0032-0001" num="0268">(i) the arrows blink and move indicating to the position of the optotype; and</li>
+        <li id="ul0032-0002" num="0269">(ii) the optotypes change their appearance by blinking, glowing, changing the color, hue or intensity to attract the attention of the patient being tested.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0213" num="0270">94. The system of implementation 85, wherein the virtual assistant is humanoid in appearance.</p>
+<p id="p-0214" num="0271">95. The system of implementation 85, wherein the virtual assistant is an avatar.</p>
+<p id="p-0215" num="0272">96. The system of implementation 85, wherein the virtual assistant is a cartoon character.</p>
+<p id="p-0216" num="0273">97. The system of implementation 85, wherein the virtual assistant is presented in two dimensions.</p>
+<p id="p-0217" num="0274">98. The system of implementation 85, wherein the virtual assistant is presented in three dimensions.</p>
+<p id="p-0218" num="0275">99. The system of implementation 85, wherein the virtual assistant is representational.</p>
+<p id="p-0219" num="0276">100. The system of implementation 85, wherein the optotypes are selected from the group consisting of Sloan letters, Snellen E's, Landolt C's, ETDRS optotypes and Lea symbols or combinations of Lea symbols and letters for the pediatric population.</p>
+<p id="p-0220" num="0277">101. The system of implementation 85, wherein the virtual assistant uses neural networks (NN) and a decision tree to evaluate the inputs from patient, sensors and system state and provide a subsequent action.</p>
+<p id="p-0221" num="0278">102. The system of implementation 101, wherein neural networks and a decision tree are previously trained by:
+<ul id="ul0033" list-style="none">
+    <li id="ul0033-0001" num="0000">
+    <ul id="ul0034" list-style="none">
+        <li id="ul0034-0001" num="0279">(i) a training database, wherein the training database includes, for each member of a training population comprised of color vision tests taken by users, an assessment dataset that includes at least data relating to a respective user response to the color vision set and or a sensor input and or a system state.</li>
+        <li id="ul0034-0002" num="0280">(ii) a color vision score of the respective test; a training system including an expert system module configured to determine correlations between the respective user responses, sensor inputs and system state to the color vision test and the color vision score of each member of the training population.</li>
+        <li id="ul0034-0003" num="0281">(iii) a user testing platform configured to provide a user with a current color vision test and receive user input regarding responses to the current color vision test; an analysis system communicatively coupled to the training system and the user testing platform, the computer system adapted to receive the user input responses generated in response to the current color vision test and to assign a color vision score for the testing platform user using the correlations obtained from the training system.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0222" num="0282">103. A system for ophthalmic photography comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to:
+<ul id="ul0035" list-style="none">
+    <li id="ul0035-0001" num="0000">
+    <ul id="ul0036" list-style="none">
+        <li id="ul0036-0001" num="0283">(i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the ophthalmic photography,</li>
+        <li id="ul0036-0002" num="0284">(ii) provide a set of fixation methods having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the fixation is greater to the luminance of a background;</li>
+        <li id="ul0036-0003" num="0285">(iii) receive from the patient at least one response when the patient views at least one fixation method, wherein the response comprises selection of a position of the at least one fixation method or location of an arrow associated with the at least one fixation method;</li>
+        <li id="ul0036-0004" num="0286">(iv) repeat steps (i) to (iii), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0223" num="0287">104. The system of implementation 103, further comprising a virtual reality, an augmented reality or a mixed reality headset.</p>
+<p id="p-0224" num="0288">105. The system of implementation 103, wherein the set of instructions comprises a patient guide or an explanation of the ophthalmic photography.</p>
+<p id="p-0225" num="0289">106. The system of implementation 103, wherein the virtual reality comprises augmented reality or mixed reality.</p>
+<p id="p-0226" num="0290">107. The system of implementation 105, wherein the set of instructions further comprises providing information to the patient on timing and sequence of the ophthalmic photography.</p>
+<p id="p-0227" num="0291">108. The system of implementation 103, wherein the set of instructions comprises a verbal explanation.</p>
+<p id="p-0228" num="0292">109. The system of implementation 103, wherein the set of instructions comprises a pictorial explanation providing a set of actions and vector movements showing the position of the fixation methods:
+<ul id="ul0037" list-style="none">
+    <li id="ul0037-0001" num="0000">
+    <ul id="ul0038" list-style="none">
+        <li id="ul0038-0001" num="0293">(i) the arrows blink and move indicating to the position of the fixation method;</li>
+        <li id="ul0038-0002" num="0294">(ii) the fixation method change their appearance by blinking, glowing, changing the color, hue or intensity to attract the attention of the patient being tested.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0229" num="0295">110. The system of implementation 103, wherein the virtual assistant is humanoid in appearance.</p>
+<p id="p-0230" num="0296">111. The system of implementation 103, wherein the virtual assistant is an avatar.</p>
+<p id="p-0231" num="0297">112. The system of implementation 103, wherein the virtual assistant is a cartoon character.</p>
+<p id="p-0232" num="0298">113. The system of implementation 103, wherein the virtual assistant is presented in two dimensions.</p>
+<p id="p-0233" num="0299">114. The system of implementation 103, wherein the virtual assistant is presented in three dimensions.</p>
+<p id="p-0234" num="0300">115. The system of implementation 103, wherein the virtual assistant is representational.</p>
+<p id="p-0235" num="0301">116. The system of implementation 103, wherein the testing platform configured to provide a user with a current ophthalmic photography and receive user input regarding the quality of the photograph.</p>
+<p id="p-0236" num="0302">117. The system of implementation 103, wherein the ophthalmic photography comprises a color analog photography or a scanning laser ophthalmoscope or infrared photography.</p>
+<p id="p-0237" num="0303">118. The system of implementation 103, wherein the ophthalmic photography comprises a fundus photography; photography of the posterior segment of the eye; photography of the anterior segment of the eye; photography of the adnexa of the eye.</p>
+<p id="p-0238" num="0304">119. A system for a color test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to:
+<ul id="ul0039" list-style="none">
+    <li id="ul0039-0001" num="0000">
+    <ul id="ul0040" list-style="none">
+        <li id="ul0040-0001" num="0305">(i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the gaze alignment test,</li>
+        <li id="ul0040-0002" num="0306">(ii) provide a set of n targets, wherein n is greater than or equal to 2, each target having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the target is greater to the luminance of a background;</li>
+        <li id="ul0040-0003" num="0307">(iii) receive from the patient at least one response when the patient views at least one target, wherein the response comprises selection of a position of the at least one target or location of an arrow associated with the at least one target;</li>
+        <li id="ul0040-0004" num="0308">(iv) the targets move in predefined directions on the screen and the virtual assistant instructs the patient to follow the moving targets.</li>
+        <li id="ul0040-0005" num="0309">(v) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library of instructions if the eye movements in step (iv) is labeled as less than the percentage expected to be correct based on a historical value for the patient's eye movement ranges or an estimated percentage of correct choices based on a healthy probability; or</li>
+        <li id="ul0040-0006" num="0310">(vi) calculate a movement range amplitude and label it as correct if greater than or equal to the percentage expected to be correct based on a historical value for the patient's eye movement ranges or an estimated percentage of correct choices based on a probability score.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0239" num="0311">120. The system of implementation 119, further comprising a virtual reality, an augmented reality or a mixed reality headset.</p>
+<p id="p-0240" num="0312">121. The system of implementation 119, wherein the set of instructions comprises a patient guide or an explanation of the eye alignment test.</p>
+<p id="p-0241" num="0313">122. The system of implementation 119, wherein the virtual reality comprises augmented reality or mixed reality.</p>
+<p id="p-0242" num="0314">123. The system of implementation 119, wherein the set of instructions in step (i) further comprises following the location of the targets and the location of arrows in the test scenario.</p>
+<p id="p-0243" num="0315">The system of any of the previous implementations, wherein the set of instructions further comprises providing information to the patient on timing and sequence of the eye alignment test.</p>
+<p id="p-0244" num="0316">124. The system of implementation 119, wherein the set of instructions further comprises an explanation of responses of the patient.</p>
+<p id="p-0245" num="0317">125. The system of implementation 119, wherein the set of instructions comprises a verbal explanation.</p>
+<p id="p-0246" num="0318">126. The system of implementation 119, wherein the set of instructions comprises a pictorial explanation providing a set of actions and vector movements showing the position of the targets:
+<ul id="ul0041" list-style="none">
+    <li id="ul0041-0001" num="0000">
+    <ul id="ul0042" list-style="none">
+        <li id="ul0042-0001" num="0319">(i) the arrows blink and move indicating to the position of the target; and</li>
+        <li id="ul0042-0002" num="0320">(ii) the targets change their appearance by blinking, glowing, changing the color, hue or intensity to attract the attention of the patient being tested.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0247" num="0321">127. The system of implementation 119, wherein the virtual assistant is humanoid in appearance.</p>
+<p id="p-0248" num="0322">128. The system of implementation 119, wherein the virtual assistant is an avatar.</p>
+<p id="p-0249" num="0323">129. The system of implementation 119, wherein the virtual assistant is a cartoon character.</p>
+<p id="p-0250" num="0324">130. The system of implementation 119, wherein the virtual assistant is presented in two dimensions.</p>
+<p id="p-0251" num="0325">131. The system of implementation 119, wherein the virtual assistant is presented in three dimensions.</p>
+<p id="p-0252" num="0326">132. The system of implementation 119, wherein the virtual assistant is representational.</p>
+<p id="p-0253" num="0327">133. The system of implementation 119, wherein the eye alignment test comprises a cover test; ocular range of motion; tropias and phorias test; corneal light reflects test; strabismus test; eye misalignment test; esotropia, exotropia, hypertropia, hypotropia test; esophoria, exophoria, hyperphoria, hypophoria test and/or Hirschberg test.</p>
+<p id="p-0254" num="0328">The system of any of the previous implementations, wherein the virtual assistant uses neural networks (NN) and a decision tree to evaluate the inputs from patient, sensors and system state and provide a subsequent action.</p>
+<p id="p-0255" num="0329">134. The system of implementation 133, wherein neural networks and a decision tree are previously trained by:
+<ul id="ul0043" list-style="none">
+    <li id="ul0043-0001" num="0000">
+    <ul id="ul0044" list-style="none">
+        <li id="ul0044-0001" num="0330">(i) a training database, wherein the training database includes, for each member of a training population comprised of eye alignment tests taken by users, an assessment dataset that includes at least data relating to a respective user response to the eye alignment set and or a sensor input and or a system state.</li>
+        <li id="ul0044-0002" num="0331">(ii) an eye alignment score of the respective test; a training system including an expert system module configured to determine correlations between the respective user responses, sensor inputs and system state to the eye alignment test and the eye alignment score of each member of the training population.</li>
+        <li id="ul0044-0003" num="0332">(iii) a user testing platform configured to provide a user with a current eye alignment test and receive user input regarding responses to the current eye alignment test; an analysis system communicatively coupled to the training system and the user testing platform, the computer system adapted to receive the user input responses generated in response to the current eye alignment test and to assign a eye alignment score for the testing platform user using the correlations obtained from the training system.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0256" num="0333">One of more further implementations described herein are directed to pupillometry. For example, implementation 135 provides a system for conducting a pupillometry test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to:
+<ul id="ul0045" list-style="none">
+    <li id="ul0045-0001" num="0000">
+    <ul id="ul0046" list-style="none">
+        <li id="ul0046-0001" num="0334">(i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the pupillometry test,</li>
+        <li id="ul0046-0002" num="0335">(ii) provide a set of fixation methods having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the fixation is greater to the luminance of a background;</li>
+        <li id="ul0046-0003" num="0336">(iii) receive from the patient at least one response when the patient views at least one fixation method, wherein the response comprises selection of a position of the at least one fixation method or location of an arrow associated with the at least one fixation method;</li>
+        <li id="ul0046-0004" num="0337">repeat steps (i) to (iii), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library; and present a series of luminance stimulus and record the pupil response.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0257" num="0338">136. The system of implementation 135, further comprising a virtual reality, an augmented reality or a mixed reality headset.</p>
+<p id="p-0258" num="0339">137. The system of implementation 135, wherein the set of instructions comprises a patient guide or an explanation of the pupillometry test.</p>
+<p id="p-0259" num="0340">138. The system of implementation 137, wherein the set of instructions further comprises providing information to the patient on timing and sequence of the pupillometry test.</p>
+<p id="p-0260" num="0341">139. The system of implementation 135, wherein the set of instructions comprises a verbal explanation.</p>
+<p id="p-0261" num="0342">140. The system of implementation 135, wherein the set of instructions comprises a pictorial explanation providing a set of actions and vector movements showing the position of the fixation methods:
+<ul id="ul0047" list-style="none">
+    <li id="ul0047-0001" num="0000">
+    <ul id="ul0048" list-style="none">
+        <li id="ul0048-0001" num="0343">(i) the arrows blink and move indicating to the position of the fixation method.</li>
+        <li id="ul0048-0002" num="0344">(ii) the fixation method changes their appearance by blinking, glowing, changing the color, hue or intensity to attract the attention of the patient being tested.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0262" num="0345">141. The system of implementation 135, wherein the virtual assistant is humanoid in appearance.</p>
+<p id="p-0263" num="0346">142. The system of implementation 135, wherein the virtual assistant is an avatar.</p>
+<p id="p-0264" num="0347">143. The system of implementation 135, wherein the virtual assistant is a cartoon character.</p>
+<p id="p-0265" num="0348">144. The system of implementation 135, wherein the virtual assistant is presented in two dimensions.</p>
+<p id="p-0266" num="0349">145. The system of implementation 135, wherein the virtual assistant is presented in three dimensions.</p>
+<p id="p-0267" num="0350">146. The system of implementation 135, wherein the virtual assistant is representational.</p>
+<p id="p-0268" num="0351">147. The system of implementation 135, wherein the testing platform configured to provide a user with a current pupillometry test and receive user input regarding the quality of the pupillometry test.</p>
+<p id="p-0269" num="0352">148. The system of implementation 135, wherein the pupillometry test comprises a video pupillography; a focal pupillometry; global or diffuse pupillometry; multifocal pupillometry test, an achromatic or a chromatic pupillometry test.</p>
+<p id="p-0270" num="0353">One of more further implementations described herein are directed to Autorefraction. For example, implementation 149 provides a system for autorefraction test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to:
+<ul id="ul0049" list-style="none">
+    <li id="ul0049-0001" num="0000">
+    <ul id="ul0050" list-style="none">
+        <li id="ul0050-0001" num="0354">(i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the autorefraction test,</li>
+        <li id="ul0050-0002" num="0355">(ii) provide a set of fixation methods having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the fixation is greater or lower than the luminance of a background;</li>
+        <li id="ul0050-0003" num="0356">(iii) receive from the patient at least one response when the patient views at least one fixation method, wherein the response comprises selection of a position of the at least one fixation method or location of an arrow associated with the at least one fixation method;</li>
+        <li id="ul0050-0004" num="0357">repeat steps (i) to (iii), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library, and present a series of targets with different focal points and the patient interact with the assistant to let the system know if the patient is perceiving the target changes.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0271" num="0358">150. The system of implementation 149, further comprising a virtual reality, an augmented reality or a mixed reality headset.</p>
+<p id="p-0272" num="0359">151. The system of implementation 149, wherein the set of instructions comprises a patient guide or an explanation of the autorefraction test.</p>
+<p id="p-0273" num="0360">152. The system of implementation 151, wherein the set of instructions further comprises providing information to the patient on timing and sequence of the autorefraction test.</p>
+<p id="p-0274" num="0361">153. The system of implementation 149, wherein the set of instructions comprises a verbal explanation.</p>
+<p id="p-0275" num="0362">154. The system of implementation 149, wherein the set of instructions comprises a pictorial explanation providing a set of actions and vector movements showing the position of the fixation methods; (i) the arrows blink and move indicating to the position of the fixation method; and (ii) the fixation method changes their appearance by blinking, glowing, changing the color, hue or intensity to attract the attention of the patient being tested.</p>
+<p id="p-0276" num="0363">155. The system of implementation 149, wherein the virtual assistant is humanoid in appearance.</p>
+<p id="p-0277" num="0364">156. The system of implementation 149, wherein the virtual assistant is an avatar.</p>
+<p id="p-0278" num="0365">157. The system of implementation 149, wherein the virtual assistant is a cartoon character.</p>
+<p id="p-0279" num="0366">158. The system of implementation 149, wherein the virtual assistant is presented in two dimensions.</p>
+<p id="p-0280" num="0367">159. The system of implementation 149, wherein the virtual assistant is presented in three dimensions.</p>
+<p id="p-0281" num="0368">160. The system of implementation 149, wherein the virtual assistant is representational.</p>
+<p id="p-0282" num="0369">161 The system of implementation 149, wherein the testing platform configured to provide a user with a current autorefraction test and receive user input regarding the quality of the autorefraction test.</p>
+<p id="p-0283" num="0370">One of more further implementations described herein are directed to Vision therapy, electromagnetic and light treatment. For example, implementation 162 is directed to a system for Vision therapy, electromagnetic and light treatment comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to:
+<ul id="ul0051" list-style="none">
+    <li id="ul0051-0001" num="0000">
+    <ul id="ul0052" list-style="none">
+        <li id="ul0052-0001" num="0371">(i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the Vision therapy, electromagnetic and light treatment,</li>
+        <li id="ul0052-0002" num="0372">(ii) provide a set of fixation methods having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the fixation is greater or lower than the luminance of a background;</li>
+        <li id="ul0052-0003" num="0373">(iii) receive from the patient at least one response when the patient views at least one fixation method, wherein the response comprises selection of a position of the at least one fixation method or location of an arrow associated with the at least one fixation method; and</li>
+        <li id="ul0052-0004" num="0374">repeat steps (i) to (iii), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library; present a series of luminance stimulus and record the pupil response; and present a series of electromagnetic stimulus and record the pupil response.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0284" num="0375">163. The system of implementation 162, further comprising a virtual reality, an augmented reality or a mixed reality headset.</p>
+<p id="p-0285" num="0376">164. The system of implementation 162, wherein the set of instructions comprises a patient guide or an explanation of the Vision therapy, electromagnetic and light treatment.</p>
+<p id="p-0286" num="0377">165. The system of implementation 164, wherein the set of instructions further comprises providing information to the patient on timing and sequence of the Vision therapy, electromagnetic and light treatment.</p>
+<p id="p-0287" num="0378">166. The system of implementation 162, wherein the set of instructions comprises a verbal explanation.</p>
+<p id="p-0288" num="0379">167. The system of implementation 162, wherein the set of instructions comprises a pictorial explanation providing a set of actions and vector movements showing the position of the fixation methods: (i) the arrows blink and move indicating to the position of the fixation method; (ii) the fixation method changes their appearance by blinking, glowing, changing the color, hue or intensity to attract the attention of the patient being tested.</p>
+<p id="p-0289" num="0380">168. The system of implementation 162, wherein the virtual assistant is humanoid in appearance.</p>
+<p id="p-0290" num="0381">169. The system of implementation 162, wherein the virtual assistant is an avatar.</p>
+<p id="p-0291" num="0382">170. The system of implementation 162, wherein the virtual assistant is a cartoon character.</p>
+<p id="p-0292" num="0383">171. The system of implementation 162, wherein the virtual assistant is presented in two dimensions.</p>
+<p id="p-0293" num="0384">172. The system of implementation 162, wherein the virtual assistant is presented in three dimensions.</p>
+<p id="p-0294" num="0385">173. The system of implementation 162, wherein the virtual assistant is representational.</p>
+<p id="p-0295" num="0386">174. A head-mounted system for conducting visual tests of a subject, the head-wearable device comprising: a head-mounted display device configured to provide a visual test to the subject; at least one subject sensor configured to monitor the subject during administration of the visual test; a processor, configured by code executing therein to cause the head-mounted display device to display one of a plurality of pre-determined visual tests to the subject, wherein each of the plurality of pre-determined visual tests includes one or more operational states and at least one virtual assistant provided within a visual field displayed to the subject; while administering one of a plurality of pre-determined visual tests, provide the output of the at least one subject sensor and a current operational state of the displayed one of a plurality of visual tests to a pre-trained neural network, wherein the pre-trained neural network is configured to output an instruction set in response to the current operational state and the sensor output; wherein the instruction set causes the virtual assistant to provide one or more action prompts to the subject that instructs the subject to a corrective physical action during administration of the visual test.</p>
+<p id="p-0296" num="0387">175. The system of implementation 174, wherein the visual test is selected from: visual field test, visual acuity test, contrast sensitivity test, light adaptometry test, tonometry test, ophthalmic phototherapy test; pupillometry test; autorefraction test; and visual therapy.</p>
+<p id="p-0297" num="0388">176. A method of administering a visual test to a subject, the method comprising: providing one of a plurality of visual tests, each visual test having a plurality of operational states, to a display device incorporated within a head-mounted device, the display device configured to provide a virtual reality scene to the subject; receiving sensor data from one or more sensors disposed within the head mounted device, wherein at least one sensor is configured to track the eye-movements of the subject; generating a virtual assist avatar within the virtual reality scene displayed to the subject; providing the received sensor data and current operational state of the displayed one of a plurality of visual tests to a pre-trained neural network, wherein the pre-trained neural network is configured to correlate the sensor and operation state input values with an instruction set, wherein the instruction set includes one or more audiovisual prompts for display by the virtual assistant; and receiving the instruction set and causing the virtual assistant to provide the one or more audiovisual action prompts to the subject, wherein the audiovisual action prompt is correlated with a correction action that instructs the subject to a corrective physical action during administration of the visual test.</p>
+<p id="p-0298" num="0389">177. The system of any of the previous implementations, wherein the pre-trained neural network are trained by: (i) providing a first training dataset to a first neural network, wherein the training dataset is stored in a training database, wherein the training dataset includes, for each member of a training population comprised of users of one or more visual tests, an assessment dataset that includes at least data relating to at least one sensor measurement of a respective user in response to an operational state of the visual test; wherein the operation state includes at least a success state and a fail state; (ii) training the first neural network to determine correlations between the respective assessment data set and the operational state of the visual test for each member of the training population; (iii) providing a second neural network with a second training data set, wherein the second training data set includes one of a plurality of pre-determined operational states of the visual test and one or more corrective subject instructions to change a fail state to a success state; (iv) training the second neural network to determine correlations between the operational state of the visual test and the corrective instructions to change fail states to success states; (v) training a third neural network by providing the assessment data to the first neural network, and providing the output of the first neural network to the second neural network as an input, so as to determine the correlation between the assessment dataset and a corrective action to change an associated fail operational state; (vi) outputting the third neural network as a trained neural network.</p>
+<p id="p-0299" num="0390">While this specification contains many specific embodiment details, these should not be construed as limitations on the scope of any embodiment or of what can be claimed, but rather as descriptions of features that can be specific to particular embodiments of particular embodiments. Certain features that are described in this specification in the context of separate embodiments can also be implemented in combination in a single embodiment. Conversely, various features that are described in the context of a single embodiment can also be implemented in multiple embodiments separately or in any suitable sub-combination. Moreover, although features can be described above as acting in certain combinations and even initially claimed as such, one or more features from a claimed combination can in some cases be excised from the combination, and the claimed combination can be directed to a sub-combination or variation of a sub-combination.</p>
+<p id="p-0300" num="0391">Similarly, while operations are depicted in the drawings in a particular order, this should not be understood as requiring that such operations be performed in the particular order shown or in sequential order, or that all illustrated operations be performed, to achieve desirable results. In certain circumstances, multitasking and parallel processing can be advantageous. Moreover, the separation of various system components in the embodiments described above should not be understood as requiring such separation in all embodiments, and it should be understood that the described program components and systems can generally be integrated together in a single software product or packaged into multiple software products.</p>
+<p id="p-0301" num="0392">The terminology used herein is for the purpose of describing particular embodiments only and is not intended to be limiting of the invention. As used herein, the singular forms &#x201c;a&#x201d;, &#x201c;an&#x201d; and &#x201c;the&#x201d; are intended to include the plural forms as well, unless the context clearly indicates otherwise. It will be further understood that the terms &#x201c;comprises&#x201d; and/or &#x201c;comprising&#x201d;, when used in this specification, specify the presence of stated features, integers, steps, operations, elements, and/or components, but do not preclude the presence or addition of one or more other features, integers, steps, operations, elements, components, and/or groups thereof.</p>
+<p id="p-0302" num="0393">It should be noted that use of ordinal terms such as &#x201c;first,&#x201d; &#x201c;second,&#x201d; &#x201c;third,&#x201d; etc., in the claims to modify a claim element does not by itself connote any priority, precedence, or order of one claim element over another or the temporal order in which acts of a method are performed, but are used merely as labels to distinguish one claim element having a certain name from another element having a same name (but for use of the ordinal term) to distinguish the claim elements. Also, the phraseology and terminology used herein is for the purpose of description and should not be regarded as limiting. The use of &#x201c;including,&#x201d; &#x201c;comprising,&#x201d; or &#x201c;having,&#x201d; &#x201c;containing,&#x201d; &#x201c;involving,&#x201d; and variations thereof herein, is meant to encompass the items listed thereafter and equivalents thereof as well as additional items.</p>
+<p id="p-0303" num="0394">Particular embodiments of the subject matter described in this specification have been described. Other embodiments are within the scope of the following claims. For example, the actions recited in the claims can be performed in a different order and still achieve desirable results. As one example, the processes depicted in the accompanying figures do not necessarily require the particular order shown, or sequential order, to achieve desirable results. In certain embodiments, multitasking and parallel processing can be advantageous.</p>
+<p id="p-0304" num="0395">Publications and references to known registered marks representing various systems are cited throughout this application, the disclosures of which are incorporated herein by reference. Citation of any above publications or documents is not intended as an admission that any of the foregoing is pertinent prior art, nor does it constitute any admission as to the contents or date of these publications or documents. All references cited herein are incorporated by reference to the same extent as if each individual publication and references were specifically and individually indicated to be incorporated by reference.</p>
+<p id="p-0305" num="0396">While the invention has been particularly shown and described with reference to a preferred embodiment thereof, it will be understood by those skilled in the art that various changes in form and details may be made therein without departing from the spirit and scope of the invention. As such, the invention is not defined by the discussion that appears above, but rather is defined by the claims that follow, the respective features recited in those points, and by equivalents of such features.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A virtual, augmented and mixed reality system for conducting visual tests of a subject, the system comprising:
+<claim-text>a virtual, augmented and mixed reality goggles configured to provide a visual test and virtual assistant to the subject;</claim-text>
+<claim-text>at least one subject sensor configured to monitor the subject during administration of the visual test;</claim-text>
+<claim-text>a processor, configured by code executing therein to:
+<claim-text>cause the goggles to display one of a plurality of pre-determined visual tests to the subject, wherein each of the plurality of pre-determined visual tests includes one or more operational states and at least one virtual assistant provided within a visual field displayed to the subject;</claim-text>
+<claim-text>while administering one of a plurality of pre-determined visual tests, provide the output of the at least one subject sensor and a current operational state of the displayed one of a plurality of visual tests to a pre-trained neural network, wherein the pre-trained neural network is configured to output an instruction set in response to the current operational state and the sensor output;</claim-text>
+<claim-text>wherein the instruction set causes the virtual assistant to provide one or more action prompts to the subject that instructs the subject to a corrective physical action during administration of the visual test.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the visual test is selected from:
+<claim-text>A visual field test, a visual acuity test, a contrast sensitivity test, a tonometry test, an ophthalmic phototherapy test; a pupillometry test; an autorefraction test; an eye movement test, a color test, and visual therapy.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. A method of administering a visual test to a subject, the method comprising:
+<claim-text>providing one of a plurality of visual tests, each visual test having a plurality of operational states, to a display device incorporated within a goggle, the display device configured to provide a virtual reality scene to the subject;</claim-text>
+<claim-text>receiving sensor data from one or more sensors disposed within the goggles, wherein at least one sensor is configured to track the eye-movements of the subject;</claim-text>
+<claim-text>generating a virtual assistant avatar within the virtual augmented or mixed reality scene displayed to the subject;</claim-text>
+<claim-text>providing the received sensor data and current operational state of the displayed one of a plurality of visual tests to a pre-trained neural network, wherein the pre-trained neural network is configured to correlate the sensor and operation state input values with an instruction set, wherein the instruction set includes one or more audiovisual prompts for display by the virtual assistant; and</claim-text>
+<claim-text>receiving the instruction set and causing the virtual assistant to provide the one or more audiovisual action prompts to the subject, wherein the audiovisual action prompt is correlated with a correction action that instructs the subject to a corrective physical action during administration of the visual test.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. A system for a visual field test comprising, at least one data processor comprising a virtual reality, an augmented reality or a mixed reality engine and at least one memory storing instruction which is executed by at least one data processor, at least one data processor configured to:
+<claim-text>(i) present a virtual assistant in virtual reality, augmented reality or mixed reality, wherein the virtual assistant presents to a patient a set of instructions for the visual field test,</claim-text>
+<claim-text>(ii) provide a set of n stimuli, wherein n is greater than or equal to 2, each stimulus having a (a) specified size, (b) shape and (c) luminance, wherein the luminance of the stimulus is greater than the luminance of a background;</claim-text>
+<claim-text>(iii) receive from the patient at least one response when the patient views at least one stimulus, wherein the response comprises clicking the response button, a verbal response, a sound command or the objective analysis of the anterior segment of the eye;</claim-text>
+<claim-text>(iv) repeat steps (ii) to (iii) at least y times, where y is greater than 2, until the patient indicates that the lowest stimulus intensity has been seen;</claim-text>
+<claim-text>(v) repeat steps (i) to (iv), wherein the explanation in step (i) is modified based on the patient's response to provide a second set of instructions selected from a library of instructions if a percentage of responses in step (iii) labeled as correct is less than the percentage expected to be correct based on a historical value for the patient's retinal sensitivity score or an estimated percentage of correct choices based on a probability score; or</claim-text>
+<claim-text>(vi) calculate a visual field score if a percentage of responses in step (iii) labeled as correct is greater than or equal to the percentage expected to be correct based on a historical value for the patient's retinal sensitivity score or an estimated percentage of correct choices based on a probability score.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, further comprising a virtual reality, an augmented reality or a mixed reality headset.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the set of instructions comprises a patient guide or an explanation of the visual field test.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the virtual reality comprises augmented reality or mixed reality.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the set of instructions in step (i) further comprises noting the presentation of all the stimuli.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The system of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the set of instructions further comprises providing information to the patient on timing and sequence of the visual field test.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the set of instructions further comprises an explanation of responses of the patient.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the set of instructions comprises a verbal explanation.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the set of instructions comprises a pictorial explanation providing a set of actions and vector movements showing a position of a stimuli wherein:
+<claim-text>(i) the stimulus blink and move indicating to the position of the stimulus; and</claim-text>
+<claim-text>(ii) the stimulus change their appearance by blinking, glowing, changing the color, hue or intensity to attract the attention of the patient being tested.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the virtual assistant uses eye-tracking to reposition the visual field stimulus matrix to avoid the effect of &#x201c;fixation losses&#x201d;.
+<claim-text>(i) The virtual assistant turns the eye-tracking cameras n milliseconds before showing a stimulus.</claim-text>
+<claim-text>(ii) The virtual assistant uses the eye-tracking data to detect the actual gaze position.</claim-text>
+<claim-text>(i) virtual assistant changes the stimulus matrix to synchronize the center of the stimulus matrix with the actual optical axis or gaze position.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the virtual assistant is humanoid in appearance.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the virtual assistant is an avatar.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the virtual assistant is a cartoon character.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the virtual assistant is presented in three dimensions.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the stimulus are selected from the group consisting of circular stimuli of all Goldman sizes, sinusoidal bars and circular stimuli of different colors.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the virtual assistant uses neural networks (NN) and a decision tree to evaluate the inputs from patient, sensors and system state and provide a subsequent action, wherein the neural network and decision tree are trained by:
+<claim-text>(i) a training database, wherein the training database includes, for each member of a training population comprised of visual field tests taken by users, an assessment dataset that includes at least data relating to a respective user response to the visual field set and or a sensor input and or a system state.</claim-text>
+<claim-text>(ii) a visual field score of the respective test; a training system including an expert system module configured to determine correlations between the respective user responses, sensor inputs and system state to the visual field test and the visual field score of each member of the training population.</claim-text>
+<claim-text>(iii) a user testing platform configured to provide a user with a current visual field test and receive user input regarding responses to the current visual field test; an analysis system communicatively coupled to the training system and the user testing platform, the computer system adapted to receive the user input responses generated in response to the current visual field test and to assign a visual field score for the testing platform user using the correlations obtained from the training system.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pre-trained neural network are trained by:
+<claim-text>(i) providing a first training dataset to a first neural network, wherein the training dataset is stored in a training database, wherein the training dataset includes, for each member of a training population comprised of users of one or more visual tests, an assessment dataset that includes at least data relating to at least one sensor measurement of a respective user in response to an operational state of the visual test;</claim-text>
+<claim-text>wherein the operation state includes at least a success state and a fail state;</claim-text>
+<claim-text>(ii) training the first neural network to determine correlations between the respective assessment data set and the operational state of the visual test for each member of the training population;</claim-text>
+<claim-text>(iii) providing a second neural network with a second training data set, wherein the second training data set includes one of a plurality of pre-determined operational states of the visual test and one or more corrective subject instructions to change a fail state to a success state;</claim-text>
+<claim-text>(iv) training the second neural network to determine correlations between the operational state of the visual test and the corrective instructions to change fail states to success states;</claim-text>
+<claim-text>(v) training a third neural network by providing the assessment data to the first neural network, and providing the output of the first neural network to the second neural network as an input, so as to determine the correlation between the assessment dataset and a corrective action to change an associated fail operational state; and</claim-text>
+<claim-text>(vi) outputting the third neural network as a trained neural network.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

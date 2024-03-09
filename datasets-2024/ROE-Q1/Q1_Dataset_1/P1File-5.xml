@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225316A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225316</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18001547</doc-number>
+<date>20210611</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2020-102423</doc-number>
+<date>20200612</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>34</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>59</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>P</subclass>
+<main-group>17</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>34</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>59</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20210801</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>P</subclass>
+<main-group>17</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">GASTROPOD REPELLENT FILM AND PLANT CULTIVATION METHOD</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>EARTH CREATE CO., LTD.</orgname>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>NISHIMIYA</last-name>
+<first-name>Yoshiyuki</first-name>
+<address>
+<city>Osaka-shi</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>YANASE</last-name>
+<first-name>Yasutaka</first-name>
+<address>
+<city>Osaka-shi</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>EARTH CREATE CO., LTD.</orgname>
+<role>03</role>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2021/022337</doc-number>
+<date>20210611</date>
+</document-id>
+<us-371c12-date><date>20221212</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A gastropod repellent film of the present invention includes at least an inorganic filler layer containing an inorganic filler and a thermoplastic resin. The inorganic filler layer is an outermost layer. The inorganic filler includes calcium carbonate particles. The inorganic filler has a percentage content of greater than 50.0% by mass in the gastropod repellent film. The gastropod repellent film has a density of at least 1.05 g/cm<sup>3 </sup>and no greater than 1.25 g/cm<sup>3</sup>. A plant cultivation method of the present invention uses the gastropod repellent film.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="29.46mm" wi="108.20mm" file="US20230225316A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="217.34mm" wi="111.17mm" file="US20230225316A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="212.51mm" wi="120.65mm" file="US20230225316A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to a gastropod repellent film and a plant cultivation method.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">In cultivation of plants such as agricultural crops, it is important to reduce feeding damage by pests from the viewpoint of raising yields and quality of harvested products. Typical examples of the pests include gastropods (e.g., slugs and snails).</p>
+<p id="p-0004" num="0003">One example of measures against gastropods is a method in which an attractant containing a pesticide (e.g., metaldehyde or ferric phosphate) is placed on agricultural soil. Another example of the measures against gastropods is a method in which a gastropod repellent film containing a copper compound is placed on agricultural soil (see Patent Literature 1, for example).</p>
+<heading id="h-0003" level="1">CITATION LIST</heading>
+<heading id="h-0004" level="1">Patent Literature</heading>
+<p id="p-0005" num="0004">Patent Literature 1
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0005">Japanese Patent Application Laid-Open Publication No. 2018-035070</li>
+</ul>
+</p>
+<heading id="h-0005" level="1">SUMMARY OF INVENTION</heading>
+<heading id="h-0006" level="1">Technical Problem</heading>
+<p id="p-0006" num="0006">However, it is difficult for the attractant and the gastropod repellent film described above to sufficiently reduce feeding damage by gastropods. Furthermore, the pesticide of the attractant and the copper compound of the gastropod repellent film described above are liable to ooze out into the agricultural soil.</p>
+<p id="p-0007" num="0007">The present invention has been made in view of the foregoing and has its object of providing a gastropod repellent film that can reduce feeding damage by gastropods and a plant cultivation method using the same.</p>
+<heading id="h-0007" level="1">Solution to Problem</heading>
+<p id="p-0008" num="0008">A gastropod repellent film according to the present invention includes at least an inorganic filler layer containing an inorganic filler and a thermoplastic resin. The inorganic filler layer is an outermost layer. The inorganic filler includes calcium carbonate particles. The inorganic filler has a percentage content of greater than 50.0% by mass in the gastropod repellent film. The gastropod repellent film has a density of at least 1.05 g/cm<sup>3 </sup>and no greater than 1.25 g/cm<sup>3</sup>.</p>
+<p id="p-0009" num="0009">A plant cultivation method according to the present invention uses the above-described gastropod repellent film.</p>
+<heading id="h-0008" level="1">Advantageous Effects of Invention</heading>
+<p id="p-0010" num="0010">The gastropod repellent film and the plant cultivation method of the present invention can reduce feeding damage by gastropods.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0009" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0011" num="0011"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a cross-sectional view of an example of the structure of a gastropod repellent film of the present invention.</p>
+<p id="p-0012" num="0012"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a cross-sectional view of another example of the structure of the gastropod repellent film of the present invention.</p>
+<p id="p-0013" num="0013"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a cross-sectional view of another example of the structure of the gastropod repellent film of the present invention.</p>
+<p id="p-0014" num="0014"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a cross-sectional view of an example of a plant cultivation method of the present invention.</p>
+<p id="p-0015" num="0015"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a cross-sectional view of another example of the plant cultivation method of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0010" level="1">DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p-0016" num="0016">The following describes embodiments of the present invention. However, the present invention is not limited to the following embodiments and can be practiced within a scope of objects of the present invention with alterations made as appropriate. One type of each material described in the embodiments of the present invention may be used independently, or two or more types of the material may be used in combination.</p>
+<heading id="h-0011" level="1">First Embodiment: Gastropod Repellent Film</heading>
+<p id="p-0017" num="0017">A gastropod repellent film (also referred to below simply as repellent film) according to a first embodiment of the present invention includes at least an inorganic filler layer containing an inorganic filler and a thermoplastic resin. The inorganic filler layer is an outermost layer. The inorganic filler includes calcium carbonate particles. The inorganic filler has a percentage content of greater than 50.0% by mass in the gastropod repellent film of the present invention. The repellent film of the present invention has a density of at least 1.05 g/cm<sup>3 </sup>and no greater than 1.25 g/cm<sup>3</sup>. The repellent film of the present invention can reduce feeding damage by gastropods.</p>
+<p id="p-0018" num="0018">Note that the density of the repellent film of the present invention refers to a ratio (i.e., bulk density) of the mass of the repellent film of the present invention to a volume calculated from the dimension of the repellent film of the present invention.</p>
+<p id="p-0019" num="0019">The repellent film of the present invention can be used as a mulching film, a cord (e.g., an attraction cord or tie) for supporting plants, or a sack for wrapping fruits. Alternatively, the repellent film of the present invention is processed into a band shape to be used as a tape to prevent gastropods from entering agricultural soil.</p>
+<p id="p-0020" num="0020">The present inventors found that a film containing calcium carbonate particles and a thermoplastic resin have significant effect of repelling gastropods. The present inventors also found that the effect of repelling gastropods can be increased by reducing its density and reducing the percentage content of the thermoplastic resin (increasing the percentage content of the inorganic filler) in the above-described film. Based on the above finding, the inventors have completed the present invention. Although the reason why the repellent film of the present invention has the above effect is not clear, it is presumed to be at least on one of the following first to third reasons.</p>
+<p id="p-0021" num="0021">The first reason will be explained. Some of the calcium carbonate particles of the repellent film of the present invention are present in a state protruding like needles from the surface of the repellent film of the present invention to form a micro-level kenzan structure on the surface of the repellent film of the present invention. Micro-level kenzan structure such as above may injure gastropods. Therefore, it is considered that gastropods avoid moving on the repellent film of the present invention.</p>
+<p id="p-0022" num="0022">The second reason will be described. Gastropods generally have tendencies to prefer acidic environments and dislike alkaline environments. The calcium carbonate of the repellent film of the present invention, which is a basic compound, gradually elutes with use. As such, it is considered that the surface of the repellent film of the present invention is inclined to the alkaline side. Therefore, it is considered that gastropods avoid moving on the repellent film of the present invention.</p>
+<p id="p-0023" num="0023">The third reason will be explained. Gastropods typically prefer wet environments. The calcium carbonate particles contained in the repellent film of the present invention are somewhat hygroscopic. As such, the surface of the repellent film of the present invention is dry compared to the surrounding environment. Therefore, it is considered that gastropods avoid moving on the repellent film of the present invention.</p>
+<p id="p-0024" num="0024">Furthermore, the density of the repellent film of the present invention is significantly smaller than the theoretical density obtained from the density of the calcium carbonate particles (approximately 2.7 g/cm<sup>3</sup>) and that of the thermoplastic resin (approximately 0.9 g/cm<sup>3</sup>). This is because relatively large voids (e.g., voidage of 15 to 20% by volume) are present between the calcium carbonate particles and the thermoplastic resin in the inorganic filler layer of the repellent film of the present invention. In the repellent film of the present invention, such voids are present in the inorganic filler layer and the percentage content of the thermoplastic resin is low. As such, it is considered that the calcium carbonate particles contained in the inorganic filler layer gradually bleed out and are readily exposed (bleed out) on the surface of the repellent film of the present invention. Therefore, it is considered that the repellent film of the present invention can effectively exert the repellant effect based on the first to third reasons as a result of the calcium carbonate particles gradually bleeding out and being exposed to the surface of the repellent film of the present invention.</p>
+<p id="p-0025" num="0025">Note that the repellant effect exerted for the first to third reasons can be maintained in the repellent film of the present invention even when the repellent film becomes wet by watering or rainfall because the calcium carbonate particles, which serve as an effective component, are fixed to the film by the thermoplastic resin. Therefore, use of the repellent film of the present invention can exert the repellant effect over a long period of time compared to a case in which the calcium carbonate particles or an attractant are/is directly placed on agricultural soil.</p>
+<p id="p-0026" num="0026">Note that the repellent film of the present invention can exert the following first to third effects besides reduction in feeding damage by gastropods.</p>
+<p id="p-0027" num="0027">The first effect will be explained. The inorganic filler has a percentage content of greater than 50.0% by mass in the repellent film of the present invention. As such, the repellent film of the present invention can be disposed of as combustible waste because the inorganic filler has the highest percentage content. Therefore, the repellent film of the present invention has low disposal cost. Furthermore, a part (e.g., a leaf, a root, a stem, or a vine) of a plant may adhere to the repellent film of the present invention with use. A part of a plant such as above should be disposed of as combustible waste. The repellent film of the present invention can be disposed of as combustible waste as described above. Therefore, even if such a part of a plant remains adhering to the repellent film of the present invention after use, the repellent film can be disposed of as it is as combustible waste without separating the part of the plant therefrom. Therefore, the repellent film of the present invention is easy to dispose of. By contrast, resin-made cultivation materials (e.g., resin-made mulching films and resin-made cords) should be disposed of as incombustible waste. Therefore, when a part of a plant adheres to the resin-made cultivation material, it is necessary for disposal to separate the part of the plant from the resin-made cultivation material before disposal, which makes disposal time-consuming.</p>
+<p id="p-0028" num="0028">The second effect will be explained. The repellent film of the present invention contains calcium carbonate particles that are particles with high whiteness, and therefore has a surface with high whiteness. Flying insects (e.g., butterflies, moths, and aphids) that are pests in cultivation of plants such as crops tend to dislike materials with high whiteness. Therefore, as a result of placement of the repellent film of the present invention in the vicinity of crops, feeding damage by flying insets can be also reduced. Furthermore, as a result of placement of the repellent film of the present invention in the vicinity of a plant, sunlight reflected by the repellent film of the present invention hits crops to promote photosynthesis of the crops. As a result, the repellent film of the present invention can raise the yield and the quality of harvested products from the crops. For example, in cultivation of tomatoes, the sugar content of harvested tomatoes can be increased by using the repellent film of the present invention as a mulching film.</p>
+<p id="p-0029" num="0029">The third effect will be explained. The calcium carbonate particles of the repellent film of the present invention elute with use to render the surrounding soil and the surface of the repellent film of the present invention alkaline. Molds and fungi are typically inhibited from growing in alkaline environments. Therefore, the repellent film of the present invention can exert antifungal effect and antibacterial effect.</p>
+<p id="p-0030" num="0030">The inorganic filler has a percentage content of greater than 50.0% by mass in the repellent film of the present invention, preferably greater than 50.0% by mass and no greater than 65.0% by mass, and more preferably greater than 50.0% by mass and no greater than 60.0% by mass. As a result of the percentage content of the inorganic filler being set to greater than 50.0% by mass in the repellent film of the present invention, feeding damage by gastropods can be effectively reduced. Furthermore, carbon dioxide emissions can be reduced in incineration of the repellent film of the present invention. Moreover, inorganic fillers are typically less expensive than thermoplastic resins. Therefore, use of a large amount of the inorganic filler can reduce the material cost of the repellent film of the present invention. As a result of the percentage content of the inorganic filler being set to no greater than 65.0% by mass in the repellent film of the present invention, the repellent film of the present invention can have increased strength.</p>
+<p id="p-0031" num="0031">The repellent film of the present invention has a density of at least 1.05 g/cm<sup>3 </sup>and no greater than 1.25 g/cm<sup>3</sup>, and preferably has a density of at least 1.10 g/cm<sup>3 </sup>and no greater than 1.20 g/cm<sup>3</sup>. As a result of the density of the repellent film of the present invention being set to at least 1.05 g/cm<sup>3 </sup>and no greater than 1.25 g/cm<sup>3</sup>, the repellent film of the present invention can further effectively exert the repellant effect.</p>
+<p id="p-0032" num="0032">The repellent film of the present invention may have a single-layer structure or may have a multilayer structure. In a case in which the repellent film of the present invention has a multilayer structure, the number of inorganic filler layers may be one or two or more in the repellent film of the present invention. In a case in which the repellent film of the present invention includes two or more inorganic filler layers, at least one of the inorganic filler layers is an outermost layer. In this case, the other inorganic filler layer(s) may each be an outermost layer or an inner layer. In a case in which the repellent film of the present invention has a multilayer structure, it is preferable that the repellent film of the present invention further includes a resin layer containing a thermoplastic resin.</p>
+<p id="p-0033" num="0033">The repellent film of the present invention is placed on the soil, for example, for use. In a case in which the repellent film of the present invention has a multilayer structure, the repellent film of the present invention is preferably used with the side of the inorganic filler layer facing upward (being the side opposite to the soil).</p>
+<p id="p-0034" num="0034">The repellent film of the present invention will be described in detail below with reference to the drawings. <figref idref="DRAWINGS">FIG. <b>1</b></figref> is a cross-sectional view of a repellent film <b>10</b> that is an example of the repellent film of the present invention. The repellent film <b>10</b> has a single-layer structure. In detail, the repellent film <b>10</b> includes an inorganic filler layer <b>11</b>.</p>
+<p id="p-0035" num="0035"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a cross-sectional view of a repellent film <b>20</b> that is another example of the repellent film of the present invention. The repellent film <b>20</b> has a two-layer structure. In detail, the repellent film <b>20</b> includes an inorganic filler layer <b>21</b> and a resin layer <b>22</b>. The inorganic filler layer <b>21</b> and the resin layer <b>22</b> each are an outermost layer.</p>
+<p id="p-0036" num="0036">In a case in which the repellent film <b>20</b> is a mulching film, it is preferable that the resin layer <b>22</b> further contains a black pigment (e.g., carbon black or graphite). Here, the inorganic filler layer <b>21</b> has a surface with high whiteness as described above. Therefore, where the resin layer <b>22</b> further contains a black pigment, the repellent film <b>20</b> has a structure in which the surface on the side of the inorganic filler layer <b>21</b> is white while the surface on the side of the resin layer <b>22</b> is black. As such, the repellent film <b>20</b> with one side being white and the other side being black can reduce the ground temperature when covering the ground with the white side facing upward and increase the ground temperature when covering the ground with the black side facing upward. Thus, the repellent film <b>20</b> is suitable as a mulching film.</p>
+<p id="p-0037" num="0037"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a cross-sectional view of a repellent film <b>30</b> that is yet another example of the repellent film of the present invention. The repellent film <b>30</b> has a three-layer structure. In detail, the repellent film <b>30</b> includes paired inorganic filler layers <b>31</b> and a resin layer <b>32</b> stacked in the stated order. The paired inorganic filler layers <b>31</b> each are an outermost layer. The resin layer <b>32</b> is an inner layer.</p>
+<p id="p-0038" num="0038">Details of the repellent film of the present invention have been described so far with reference to the drawings. However, the structure of the repellent film of the present invention is not limited to the structures illustrated in <figref idref="DRAWINGS">FIGS. <b>1</b> to <b>3</b></figref>. For example, the repellent film of the present invention may further include a layer other than the inorganic layer(s) and the resin layer besides the inorganic filler layer(s).</p>
+<p id="p-0039" num="0039">The repellent film of the present invention has a total thickness of preferably at least 15 &#x3bc;m and no greater than 200 &#x3bc;m, and more preferably at least 25 &#x3bc;m and no greater than 50 &#x3bc;m. As a result of the total thickness of the repellent film of the present invention being set to at least 15 &#x3bc;m, the repellent film of the present invention can have increased strength. As a result of the total thickness of the repellent film of the present invention being set to no greater than 200 &#x3bc;m, the repellent film of the present invention can be lightweight.</p>
+<heading id="h-0012" level="2">[Inorganic Filler Layer]</heading>
+<p id="p-0040" num="0040">The inorganic filler layer contains an inorganic filler and a thermoplastic resin. The inorganic filler is dispersed in a matrix constituted by the thermoplastic resin in the inorganic filler layer.</p>
+<p id="p-0041" num="0041">In a case in which the repellent film of the present invention has a multilayer structure, a ratio (100&#xd7;T<sub>N</sub>/T<sub>A</sub>) of a total thickness T<sub>N </sub>of the inorganic filler layer(s) to a total thickness T<sub>A </sub>of the repellent film of the present invention is preferably at least 70% and no greater than 90%.</p>
+<heading id="h-0013" level="2">(Inorganic Filler)</heading>
+<p id="p-0042" num="0042">The inorganic filler includes calcium carbonate particles. Here, the calcium carbonate particles used as the inorganic filler significantly differ in purity depending on where they are obtained. In detail, most of calcium carbonate particles used as an inorganic filler are obtained by directly granulating calcium carbonate ore obtained as a mineral resource without refining. Therefore, calcium carbonate particles significantly differ in purity depending on the place of origin. For example, there are low-purity calcium carbonate particles with a calcium carbonate content of about 70 mass % depending on the place of origin. By contrast, there are high-purity calcium carbonate particles obtained by chemical synthesis as calcium carbonate particles for food use or pharmaceutical use.</p>
+<p id="p-0043" num="0043">The repellent film of the present invention preferably contains calcium carbonate particles with as high a purity as possible. Specifically, the calcium carbonate has a percentage content of preferably at least 90% by mass in the calcium carbonate particles, more preferably at least 95% by mass, and further preferably at least 97% by mass. As a result of the percentage content of the calcium carbonate being set to at least 90% by mass in the calcium carbonate particles, that is, as a result of the purity of the calcium carbonate particles being increased, the following effects can be obtained. The higher the purity of the calcium carbonate particles is, the higher the diffuse reflectance thereof is. Accordingly, the whiteness of the calcium carbonate particles increases as the purity thereof is increased. Thus, effect of repelling flying insects and effect of promoting photosynthesis of crops can be enhanced. The calcium carbonate particles can have more stable pH as the purity thereof is increased. Thus, antimicrobial and anti-fungal properties can be exhibited stably. Furthermore, the impact of the calcium carbonate particles on the human body and the environment can be reduced as the purity thereof is increased.</p>
+<p id="p-0044" num="0044">The calcium carbonate particles preferably have a maximum particle diameter of no greater than 20 &#x3bc;m. As a result of the maximum particle diameter of the calcium carbonate particles being set to no greater than 20 &#x3bc;m, the aforementioned micro-level kenzan structure can be easily formed on the surface of the repellent film of the present invention. As a result, the repellent film of the present invention can further effectively reduce feeding damage by gastropods.</p>
+<p id="p-0045" num="0045">Note that the maximum particle diameter of the calcium carbonate particles can be measured by the following method. First, the particle diameters (major axes) of the calcium carbonate particles at <b>5</b> locations (field of view: 100 &#x3bc;m&#xd7;100 &#x3bc;m) randomly selected from a section of the inorganic filler layer are measured using an electron microscope. Thereafter, the maximum value of the measured particle diameters of the calcium carbonate particles is taken to be the maximum particle diameter of the calcium carbonate particles.</p>
+<p id="p-0046" num="0046">The calcium carbonate particles may be surface treated. Examples of the surface treatment include treatment using a silane coupling agent and treatment using metal soap (e.g., treatment with calcium stearate). When the calcium carbonate particles are surface treated, excessive generation of voids at the boundaries between the calcium carbonate particles and the thermoplastic resin can be inhibited. As a result, the repellent film of the present invention can have increased strength.</p>
+<p id="p-0047" num="0047">In a case in which the repellent film of the present invention has a multilayer structure, the inorganic filler has a percentage content of preferably greater than 50.0% by mass and no greater than 65.0% by mass in the inorganic filler layer, and more preferably greater than 50.0% by mass and no greater than 60.0% by mass. As a result of the content percentage of the inorganic particles being set to greater than 50.0% by mass in the inorganic filler layer, the repellent film of the present invention can further effectively reduce feeding damage by gastropods. As a result of the percentage content of the calcium carbonate particles being set to no greater than 65.0% by mass in the inorganic filler layer, the repellent film of the present invention can have increased strength.</p>
+<p id="p-0048" num="0048">The inorganic filler layers may contain an additional inorganic filler besides the calcium carbonate particles. Examples of the additional inorganic filler include calcium sulfate particles, barium sulfate particles, kaolin particles, mica particles, zinc oxide particles, dolomite particles, glass fibers, hollow glass microbeads, silica particles, chalk particles, talc, pigment particles, titanium dioxide particles, silicon dioxide particles, bentonite, clay, diatomaceous earth, and zeolite particles.</p>
+<p id="p-0049" num="0049">The calcium carbonate particles have a percentage content of preferably at least 90% by mass in the inorganic filler, and more preferably at least 95% by mass.</p>
+<heading id="h-0014" level="2">(Thermoplastic Resin)</heading>
+<p id="p-0050" num="0050">Examples of the thermoplastic resin contained in the inorganic filler layer include polyolefin resins, acrylonitrile-butadiene-styrene (ABS) resins, polyamide resins, polystyrene resins, and polyester resins (e.g., polyethylene terephthalate resin and polybutylene terephthalate resin).</p>
+<p id="p-0051" num="0051">Examples of the polyolefin resins include polyethylene resins and polypropylene resins. Examples of the polyethylene resins include high density polyethylene (HDPE), low density polyethylene (LDPE), medium density polyethylene, and linear low density polyethylene (L-LDPE).</p>
+<p id="p-0052" num="0052">The thermoplastic resin contained in the inorganic filler layer is preferably polyolefin resin, and more preferably polyethylene resin.</p>
+<heading id="h-0015" level="2">(Additional Additive)</heading>
+<p id="p-0053" num="0053">The inorganic filler layer may further contain an additional additive besides the inorganic filler. Examples of the additional additive include a coupling agent, a lubricant, a filler dispersant, an antistatic agent, an antioxidant, a heat stabilizer, an ultraviolet absorbing agent, and a weather stabilizer.</p>
+<p id="p-0054" num="0054">As described above, the inorganic filler layer has a high percentage content of the inorganic filler. Therefore, the inorganic filler layer preferably contains a filler dispersant as the additional additive. As a result of the inorganic filler layer containing a filler dispersant, dispersibility of the inorganic filler can be increased. Examples of the filler dispersant include metal soap (e.g., calcium stearate and magnesium stearate). In a case in which the inorganic filler layer contains an additional additive, the additional additive preferably has a percentage content of at least 0.5% by mass and no greater than 5.0% by mass in the inorganic filler layer.</p>
+<heading id="h-0016" level="2">[Resin Layer]</heading>
+<p id="p-0055" num="0055">The resin layer is a layer containing a thermoplastic resin. The ratio of the thickness of the resin layer to the total thickness of the repellent film of the present invention is at least 2.0% and no greater than 20.0%, and preferably at least 4.0% and no greater than 10.0%. As a result of the ratio of the thickness of the resin layer being set to at least 2.0%, formability of the repellent film of the present invention can be increased. As a result of the ratio of the thickness of the resin layer being set to no greater than 20.0%, the percentage content of the inorganic filler in the repellent film of the present invention can be easily adjusted to greater than 50.0% by mass.</p>
+<p id="p-0056" num="0056">Examples of the thermoplastic resin contained in the resin layer include the same resins as those listed as the examples of the thermoplastic resin contained in the inorganic filler layer. The thermoplastic resin contained in the resin layer is preferably a polyolefin resin, and more preferably polyethylene resin.</p>
+<p id="p-0057" num="0057">The thermoplastic resin has a percentage content of preferably at least 90% by mass in the resin layer, and more preferably at least 95% by mass.</p>
+<p id="p-0058" num="0058">The resin layer preferably contains no inorganic filler, but may contain a trace amount of an inorganic filler. The inorganic filler has a percentage content of preferably at least 0% by mass and no greater than 10% by mass in the resin layer, and more preferably at least 0% by mass and no greater than 5% by mass.</p>
+<heading id="h-0017" level="2">[Production Method]</heading>
+<p id="p-0059" num="0059">The repellent film of the present invention can be produced by inflation, for example. In detail, in a case in which the repellent film of the present invention includes a single layer, a material for inorganic filler layer formation containing an inorganic filler and a thermoplastic resin is prepared as a material for forming the inorganic filler layer. The material for inorganic filler layer formation is extruded using an extruder with a ring-shaped die set therein. Air is sent into the resultant cylindrical extrudate for cooling and the cooled extrudate is cut. A single-layer repellent film of the present invention can be obtained in the manner described above.</p>
+<p id="p-0060" num="0060">In a case in which the repellent film of the present invention includes multiple layers by contrast, a material for resin layer formation containing a thermoplastic resin is prepared as a material for forming the resin layer in addition to preparation of the above-described material for inorganic filler layer formation. The material for inorganic filler layer formation and the material for resin laver formation are extruded together using an extruder with a ring-shaped die set therein. Air is sent into the resultant cylindrical extrudate for cooling and the cooled extrudate is cut. A multi-layer repellent film of the present invention can be obtained in the manner described above.</p>
+<p id="p-0061" num="0061">Voidage of the resultant inorganic filler layer tends to be increased (density tends to be reduced) by extrusion of the material for inorganic filler layer formation by inflation compared to by extrusion of the material for inorganic filler layer formation by another method (e.g., T-die molding). Therefore, the repellent film of the present invention can be easily and reliably obtained by inflation.</p>
+<heading id="h-0018" level="1">Second Embodiment. Plant Cultivation Method</heading>
+<p id="p-0062" num="0062">A plant cultivation method according to a second embodiment of the present invention uses the repellent film according to the first embodiment. The plant cultivation method of the present invention can reduce feeding damage by gastropods. The plant cultivation method of the present invention can be used for cultivating grains, vegetables, and mushrooms. The plant cultivation method of the present invention is suitable as a method for cultivating crops (e.g., strawberries, cabbages, shiitake mushrooms, and asparagus) that are easily damaged by gastropods and that have high commercial value.</p>
+<p id="p-0063" num="0063">The plant cultivation method of the present invention is preferably a method of organic farming. Organic farming is susceptible to feeding damage by gastropods due to limited use of pesticides. When the plant cultivation method of the present invention is implemented in organic farming, reduction of feeding damage by gastropods can be achieved without using pesticides. Note that the organic farming refers to agriculture conducted by an agricultural production method that reduces environmental impacts derived from agricultural production as much as possible, on the basis of non-use of chemically synthesized fertilizers and pesticides and non-use of recombinant DNA technologies.</p>
+<p id="p-0064" num="0064">The following describes one example of usage of the repellent film (in detail, the repellent film <b>10</b> illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>) according to the first embodiment in the plant cultivation method of the present invention. In the example of the use of the repellent film <b>10</b>, the repellent film <b>10</b> is used as a mulching film as illustrated in <figref idref="DRAWINGS">FIG. <b>4</b></figref>. <figref idref="DRAWINGS">FIG. <b>4</b></figref> illustrates a side of soil S on which a ridge R is formed. The ridge R is covered with the repellent film <b>10</b>. A hole is formed in a part of the repellent film <b>10</b> that corresponds to the vicinity of the top of the ridge R. A plant P is growing on the ridge R through the hole formed in the repellent film <b>10</b>. The repellent film <b>10</b> inhibits gastropods living in the surroundings of the soil S from climbing the ridge R and approaching the plant P. As a result, feeding damage by gastropods can be inhibited. Note that the repellent film <b>10</b> also fulfills the role (e.g., adjustment of soil temperature, suppression of weed propagation, and prevention of soil adhesion to crops) required of a general mulching film in addition to the role to inhibit feeding damage by gastropods.</p>
+<p id="p-0065" num="0065">The following describes another example of the use of the repellent film (in detail, the repellent film <b>10</b> illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>) according to the first embodiment in the plant cultivation method of the present invention. In the other example of the use of the repellent film <b>10</b>, soil around a greenhouse G in which a plant is cultivated is covered with a band-shaped repellent film <b>10</b>. In a manner as above, a route I of entry for gastropods from the outside to the inside of the greenhouse G is blocked by covering the soil around the greenhouse G with the band-shaped repellent film <b>10</b>. This can reduce the number of gastropods living in the inside of the greenhouse G to inhibit feeding damage by gastropods. Although an example in which a plant is cultivated in the greenhouse G is described with reference to <figref idref="DRAWINGS">FIG. <b>5</b></figref>, it is sufficient in the use to surround the soil around the plant with the band-shaped repellent film <b>10</b> and the method of the present embodiment is applicable to outdoor cultivation, for example.</p>
+<p id="p-0066" num="0066">The band-shaped repellent film <b>10</b> has a width of preferably at least 100 mm and no greater than 5000 mm, and more preferably at least 500 mm and no greater than 2000 mm.</p>
+<p id="p-0067" num="0067">The use of the repellent film according to the first embodiment is merely an example in the plant cultivation method of the present invention. The use of the plant cultivation method of the present invention is not limited specifically as long as the repellent film of the first embodiment is used. It is probable for example in strawberry cultivation that strawberry fruits are cultivated with the fruits placed on a film. In the cultivation method of the present invention, the repellent film according to the first embodiment can be used as the film. Furthermore, the repellent film according to the first embodiment can be used as a cord (e.g., an inducement cord or a binding cord) that supports a plant or as a sack for wrapping fruits in the plant cultivation method of the present invention.</p>
+<heading id="h-0019" level="1">EXAMPLES</heading>
+<p id="p-0068" num="0068">The following further describes the present invention using examples. However, the present invention is no way limited to the examples.</p>
+<heading id="h-0020" level="2">[Material]</heading>
+<p id="p-0069" num="0069">A masterbatch (calcium carbonate particles 70% by mass) was obtained by chipping after kneading 30 parts by mass of polyethylene resin pellets and 70 parts by mass of calcium carbonate particles using a twin shaft extruder. Next, 75 parts by mass of the masterbatch and 25 parts by mass of polyethylene resin pellets were mixed to obtain a material for inorganic filler formation.</p>
+<p id="p-0070" num="0070">By inflation, a single-layer repellent film including an inorganic filler layer was formed with the above-described material for inorganic filler layer formation. The repellent film had a thickness of 40 &#x3bc;m. The inorganic filler had a percentage content of 52.5% by mass in the repellent film. The inorganic filler had a density of 1.15 g/cm<sup>3 </sup>in the repellent film. The resultant film was taken to be a repellent film of Example 1.</p>
+<p id="p-0071" num="0071">Using the repellent film of Example 1 as a mulching film, a strawberry cultivation test was conducted. The strawberry cultivation test was conducted at a firm in Kasaoka City, Okayama prefecture, Japan, from A.D. March, 2017 to June, 2018. In detail, strawberry seedlings were planted in a ridge formed on the soil in a greenhouse of the aforementioned firm. Next, the ridge was covered with the repellent film of Example 1. Next, a hole was formed in an area of the repellent film of Example 1 where the strawberry seedlings are covered to expose the strawberry seedlings. Strawberries were cultivated in the state as described above and harvested.</p>
+<p id="p-0072" num="0072">Here, strawberries turn green when damaged by slugs. Strawberries that have turned green cannot be shipped. In view of the foregoing, the ratio of the yield of strawberries that had turned green (strawberries damaged by slugs) to the total yield of strawberries was measured and taken to be a &#x201c;loss rate&#x201d;.</p>
+<p id="p-0073" num="0073">When the strawberry cultivation was conducted using the repellent film of Example 1 as a mulching film, the loss rate was almost 0%. By contrast, the loss rate was approximately 15% in strawberry cultivation up to the previous year (A.D. 2016) that had used a typical mulching film. From the above, it is thought that feeding damage by gastropods can be inhibited by using the repellent film of Example 1 as a mulching film.</p>
+<p id="p-0074" num="0074">At the same time, repellant effect by the repellent film of Example 1 (width 1000 mm) processed into a band shape was checked. First, two greenhouses were prepared in which strawberries were cultivated. The band-shaped repellent film of Example 1 was placed on the soil around one greenhouse (also referred to below as greenhouse A) of the greenhouses to surround the greenhouse A. The above work was not done for the other greenhouse (also referred to below as greenhouse B). Next, slugs within each of the greenhouses A and B were removed. One day later, the number of slugs inside each greenhouse was visually checked. As a result, no slug was visually observed in the greenhouse A around which the band-shaped repellent film of Example 1 was placed. By contrast, more than 10 slugs were present per strawberry plant in the greenhouse B. That is, the band-shaped repellent film of Example 1 inhibited slugs from entering the inside from the outside of the greenhouse A.</p>
+<p id="p-0075" num="0075">From the above, it is thought that the repellent film of Example 1 can exert significant effect of repelling gastropods and inhibit feeding damage by gastropods.</p>
+<p id="p-0076" num="0076">Subsequently, the relationship between effect of repelling gastropods and the percentage content of the inorganic filler was studied. First, repellent films of Comparative Examples 1 to 4 and Examples 2 to 4 were produced according to the same method as that for producing the aforementioned repellent film of Example 1 in all aspects other than the following changes. In the production of the repellent films of Comparative Examples 1 to 4 and Examples 2 to 4, the amounts of the polyethylene resin pellets (PE resin pellets) and the masterbatch used were as shown below in Table 1 in preparation of materials for inorganic filler layer formation.</p>
+<p id="p-0077" num="0077">Subsequently, the following repellant effect confirmation test was conducted. First, the surface of moist soil in the shade was covered with any of the repellent films of Comparative Examples 1 to 4 and Examples 2 to 4 each processed into a square shape of 50 cm&#xd7;50 cm. One day later, the repellent film was removed and the number of slugs (slugs that had burrowed under the repellent film) present on the surface of the soil in the area covered with the repellent film was counted. The test was conducted three times on different days. Effect of repelling gastropods was determined to be good if the counted number of slugs (average value of 3 measurements) was no greater than 5 and determined to be poor if it was at least 6. The results are shown below in Table 1.</p>
+<p id="p-0078" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="49pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>PE resin</entry>
+<entry/>
+<entry>Calcium</entry>
+<entry>Number</entry>
+</row>
+<row>
+<entry/>
+<entry>pellet</entry>
+<entry>Masterbatch</entry>
+<entry>carbonate</entry>
+<entry>of</entry>
+</row>
+<row>
+<entry/>
+<entry>[part</entry>
+<entry>[part</entry>
+<entry>particles</entry>
+<entry>slugs</entry>
+</row>
+<row>
+<entry/>
+<entry>by mass]</entry>
+<entry>by mass]</entry>
+<entry>[% by mass]</entry>
+<entry>[count]</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="char" char="."/>
+<colspec colname="3" colwidth="49pt" align="char" char="."/>
+<colspec colname="4" colwidth="42pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Comparative</entry>
+<entry>100</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>15</entry>
+</row>
+<row>
+<entry>Example 1</entry>
+</row>
+<row>
+<entry>Comparative</entry>
+<entry>71</entry>
+<entry>29</entry>
+<entry>20</entry>
+<entry>14</entry>
+</row>
+<row>
+<entry>Example 2</entry>
+</row>
+<row>
+<entry>Comparative</entry>
+<entry>57</entry>
+<entry>43</entry>
+<entry>30</entry>
+<entry>12</entry>
+</row>
+<row>
+<entry>Example 3</entry>
+</row>
+<row>
+<entry>Comparative</entry>
+<entry>43</entry>
+<entry>57</entry>
+<entry>40</entry>
+<entry>11</entry>
+</row>
+<row>
+<entry>Example 4</entry>
+</row>
+<row>
+<entry>Example 2</entry>
+<entry>27</entry>
+<entry>73</entry>
+<entry>51</entry>
+<entry>2</entry>
+</row>
+<row>
+<entry>Example 3</entry>
+<entry>21</entry>
+<entry>79</entry>
+<entry>55</entry>
+<entry>2</entry>
+</row>
+<row>
+<entry>Example 4</entry>
+<entry>14</entry>
+<entry>86</entry>
+<entry>60</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0079" num="0078">As shown in Table 1, the repellent films of Examples 2 to 4 with a percentage content of the calcium carbonate particles of greater than 50% by mass were evaluated as good in effect of repelling gastropods. By contrast, the repellent films of Comparative Examples 1 to 4 with a percentage content of the calcium carbonate particles of no greater than 50% by mass were evaluated as poor in effect of repelling gastropods. The reason why effect of repelling gastropods by the repellent film of each of Comparative Examples 1 to 4 was poor is thought to be that the calcium carbonate particles hardly bled out due to high percentage content of the thermoplastic resin in addition to low percentage content of the calcium carbonate particles being the effective component.</p>
+<p id="p-0080" num="0079">Subsequently, the relationship between effect of repelling gastropods and the density of repellent films was studied. First, repellent films of Comparative Examples 5 to 7 were produced according to the same method as that for producing the repellent films of Comparative Example 2 to 4 in all aspects other than the following changes. In the production of the repellent films of Comparative Examples 5 to 7, the amounts of the polyethylene resin pellets (PE resin pellets) and the masterbatch used were as shown below in Table 2 in preparation of materials for inorganic filler layer formation. Furthermore, in the production of the repellent films of Comparative Examples 5 to 7, single-layer repellent films each including an inorganic filler layer were formed using the material for inorganic filler layer formation by T-die molding (T method) rather than inflation (I method). The repellent films of Comparative Examples 5 to 7 had a thickness of 40 &#x3bc;m. Next, each density of the repellent films of Comparative Examples 5 to 7 and Examples 2 to 4 was measured. Next, the aforementioned repellant effect confirmation test was conducted using the repellent films of Comparative Examples 5 to 7 and Examples 2 to 4. The evaluation results are shown below in Table 2.</p>
+<p id="p-0081" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="offset" colwidth="42pt" align="left"/>
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="left"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="6" rowsep="1">TABLE 2</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Calcium</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>carbonate</entry>
+<entry/>
+<entry/>
+<entry>Number</entry>
+</row>
+<row>
+<entry/>
+<entry>PE resin pellet</entry>
+<entry>Masterbatch</entry>
+<entry>particles</entry>
+<entry/>
+<entry>Density</entry>
+<entry>of slugs</entry>
+</row>
+<row>
+<entry/>
+<entry>[part by mass]</entry>
+<entry>[part by mass]</entry>
+<entry>[% by mass]</entry>
+<entry>Method</entry>
+<entry>[g/m<sup>3</sup>]</entry>
+<entry>[count]</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="6" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="left"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Comparative</entry>
+<entry>27</entry>
+<entry>73</entry>
+<entry>51</entry>
+<entry>T method</entry>
+<entry>1.35</entry>
+<entry>11</entry>
+</row>
+<row>
+<entry>Example 5</entry>
+</row>
+<row>
+<entry>Comparative</entry>
+<entry>21</entry>
+<entry>79</entry>
+<entry>55</entry>
+<entry>T method</entry>
+<entry>1.43</entry>
+<entry>9</entry>
+</row>
+<row>
+<entry>Example 6</entry>
+</row>
+<row>
+<entry>Comparative</entry>
+<entry>14</entry>
+<entry>86</entry>
+<entry>60</entry>
+<entry>T method</entry>
+<entry>1.50</entry>
+<entry>8</entry>
+</row>
+<row>
+<entry>Example 7</entry>
+</row>
+<row>
+<entry>Example 2</entry>
+<entry>27</entry>
+<entry>73</entry>
+<entry>51</entry>
+<entry>I method</entry>
+<entry>1.10</entry>
+<entry>2</entry>
+</row>
+<row>
+<entry>Example 3</entry>
+<entry>21</entry>
+<entry>79</entry>
+<entry>55</entry>
+<entry>I method</entry>
+<entry>1.16</entry>
+<entry>2</entry>
+</row>
+<row>
+<entry>Example 4</entry>
+<entry>14</entry>
+<entry>86</entry>
+<entry>60</entry>
+<entry>I method</entry>
+<entry>1.20</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0082" num="0080">As shown in Table 2, effect of repelling gastropods was evaluated as good for the repellent films of Examples 2 to 4 each of which was produced by inflation and each of which had a density of at least 1.05 g/cm<sup>3 </sup>and no greater than 1.25 g/cm<sup>3</sup>. By contrast, effect of repelling gastropods was evaluated as poor for the repellent films of Comparative Examples 5 to 7 each of which was produced by T-die molding and each of which had a density of greater than 1.25 g/cm<sup>3</sup>. A reason why the repellent films of Comparative Examples 5 to 7 were poor in effect of repelling gastropods is thought to be that the calcium carbonate particles hardly bled out due to not so many voids being present between the calcium carbonate particles and the thermoplastic resin.</p>
+<p id="p-0083" num="0081">From the above, it is concluded that effect of repelling gastropods can be significantly enhanced in a repellent film including an inorganic filler layer by setting the percentage content of the inorganic filler to greater than 50.0% by mass and setting the density of the repellent film to at least 1.05 g/cm<sup>3 </sup>and no greater than 1.25 g/cm<sup>3</sup>.</p>
+<heading id="h-0021" level="1">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0084" num="0082">The repellent film of the present invention can be used for cultivation.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A gastropod repellent film comprising
+<claim-text>at least an inorganic filler layer containing an inorganic filler and a thermoplastic resin, wherein</claim-text>
+<claim-text>the inorganic filler layer is an outermost layer,</claim-text>
+<claim-text>the inorganic filler includes calcium carbonate particles,</claim-text>
+<claim-text>the inorganic filler has a percentage content of greater than 50.0% by mas in the gastropod repellent film, and</claim-text>
+<claim-text>the gastropod repellent film has a density of at least 1.05 g/cm<sup>3 </sup>and no greater than 1.25 g/cm<sup>3</sup>.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The gastropod repellent film according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the thermoplastic resin includes polyolefin resin.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The gastropod repellent film according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the calcium carbonate particles have a maximum particle diameter of no greater than 20 &#x3bc;m.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. A plant cultivation method for cultivating a plant, wherein
+<claim-text>the gastropod repelling film according to <claim-ref idref="CLM-00001">claim 1</claim-ref> is used.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The plant cultivation method according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein
+<claim-text>the gastropod repellent film is used as a mulching film.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The plant cultivation method according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein
+<claim-text>soil around the plant is covered with the gastropod repellent film, the gastropod repellent film being band-shaped.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The plant cultivation method according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein
+<claim-text>the method is a method of organic farming.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

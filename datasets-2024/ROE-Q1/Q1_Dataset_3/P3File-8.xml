@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225382A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225382</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17998953</doc-number>
+<date>20210528</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2020-095597</doc-number>
+<date>20200601</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>27</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>2</main-group>
+<subgroup>56</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>27</main-group>
+<subgroup>84</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>2</main-group>
+<subgroup>56</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">ASTRINGENCY REDUCING AGENT</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>KAO CORPORATION</orgname>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>OZEKI</last-name>
+<first-name>Eri</first-name>
+<address>
+<city>Oyama-shi</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>TAKAMURA</last-name>
+<first-name>Akihiro</first-name>
+<address>
+<city>Haga-gun</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>HASHIZUME</last-name>
+<first-name>Kohjiro</first-name>
+<address>
+<city>Utsunomiya-shi</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>OOKI</last-name>
+<first-name>Yoriko</first-name>
+<address>
+<city>Bunkyo-ku</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>TAKAHASHI</last-name>
+<first-name>Tomoya</first-name>
+<address>
+<city>Chiba-shi</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>KAO CORPORATION</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2021/020386</doc-number>
+<date>20210528</date>
+</document-id>
+<us-371c12-date><date>20221116</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An astringency reducing agent including an arabinogalactan which has a molecular weight of from 10,000 to 1,000,000 and a ratio of 1,3-bound galactose to total galactose of 12 mol % or more, as an active ingredient. A method for reducing astringency, including blending the astringency reducing agent into an oral product including an astringent substance.</p>
+</abstract>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates to an astringency reducing agent which reduces astringency from an astringent substance.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">It is known that polyphenol has an antioxidant action, and is effective for prevention of lifestyle-related diseases such as arteriosclerosis. However, beverages and the like containing high concentration of polyphenol may have excessively strong astringency derived from polyphenol, and thus cause discomfort or disgust.</p>
+<p id="p-0004" num="0003">Various studies have been conducted on means for reducing such offensive astringency, and for example, grapefruit juice or lime juice has been reported to be effective for reduction of astringency derived from apple polyphenol (Patent Literature 1).</p>
+<p id="p-0005" num="0004">It has been reported that gum arabic containing an arabinogalactan protein complex at about 10% is capable of improving taste such as bitterness or astringency in stevia extract, sucralose or Siraitia grosvenorii extract (Patent Literature 2).</p>
+<heading id="h-0003" level="1">CITATION LIST</heading>
+<heading id="h-0004" level="1">Patent Literatures</heading>
+<p id="p-0006" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0005">[Patent Literature 1] JP-A-2002-95450</li>
+    <li id="ul0001-0002" num="0006">[Patent Literature 2] JP-A-2016-187344</li>
+</ul>
+</p>
+<heading id="h-0005" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0007">The present invention relates to the following 1) to 4).</p>
+<p id="p-0008" num="0008">1) An astringency reducing agent comprising an arabinogalactan which has a molecular weight of from 10,000 to 1,000,000 and a ratio of 1,3-bound galactose to total galactose of 12 mol % or more, as an active ingredient.</p>
+<p id="p-0009" num="0009">2) A method for reducing astringency, comprising a step of blending the astringency reducing agent according to 1) into an oral product comprising an astringent substance.</p>
+<p id="p-0010" num="0010">3) Use of an arabinogalactan which has a molecular weight of from 10,000 to 1,000,000 and a ratio of 1,3-bound galactose to total galactose of 12 mol % or more, for producing an astringency reducing agent.</p>
+<p id="p-0011" num="0011">4) Use of an arabinogalactan which has a molecular weight of from 10,000 to 1,000,000 and a ratio of 1,3-bound galactose to total galactose of 12 mol % or more, for reducing astringency.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0012" num="0012">The present invention relates to provision of an astringency reducing agent which effectively reduces astringency from polyphenol or the like.</p>
+<p id="p-0013" num="0013">The present inventors conducted studies on a material capable of reducing offensive astringency from polyphenol or the like, and found that an arabinogalactan having a specific sugar configuration is effective for reduction of astringency.</p>
+<p id="p-0014" num="0014">According to the present invention, it is possible to effectively reduce offensive astringency derived from an astringent substance such as polyphenol. The astringency reducing agent of the present invention is a naturally derived component, has high safety, and therefore can be used in the fields of food and beverage products, medicaments and quasi-pharmaceutical products.</p>
+<p id="p-0015" num="0015">An arabinogalactan according to the present invention has a molecular weight of 10,000 to 1,000,000, and in the arabinogalactan, the ratio of 1,3-bound galactose to total galactose is 12 mol % or more.</p>
+<p id="p-0016" num="0016">The &#x201c;arabinogalactan&#x201d; refers to a polysaccharide containing arabinose and galactose as main components thereof. The arabinogalactan according to the present invention refers to a so-called type II arabinogalactan having 1,3-bound galactose as a main chain, and a side chain branched at position 6 of galactose as a main chain.</p>
+<p id="p-0017" num="0017">In the present invention, the &#x201c;1,3-bound galactose&#x201d; (also referred to as &#x201c;3-Galp&#x201d;) means galactose which is in a bound state and in which only the hydroxy group at position 1 and the hydroxy group at position 3 form an ether bond with the hydroxy groups of other sugar molecules, that is, galactose having a structure of &#x201c;3)-Gal-(1&#x201d;, and the galactose may be present on either the main chain or the side chain.</p>
+<p id="p-0018" num="0018">The &#x201c;main chain&#x201d; refers to a chain which is the longest in the sugar chain molecule, and the &#x201c;side chain&#x201d; refers to a chain which is branched from the main chain and is relatively short.</p>
+<p id="p-0019" num="0019">In the arabinogalactan according to the present invention, the ratio of 1,3-bound galactose to total galactose is 12 mol % or more, preferably 16 mol % or more, more preferably 18 mol % or more, more preferably 20 mol % or more, more preferably 22 mol % or more, and preferably 70 mol % or less, more preferably 60 mol % or less, preferably 50 mol % or less. The ratio is preferably from 12 to 70 mol %, more preferably from 16 to 70 mol %, more preferably from 18 to 70 mol %, more preferably from 20 to 60 mol %, more preferably from 22 to 50 mol %.</p>
+<p id="p-0020" num="0020">In the arabinogalactan according to the present invention, the molar content (%) of 1,3-bound galactose in the sum of galactose and arabinose in the arabinogalactan is 8 mol % or more, more preferably 10 mol % or more, more preferably 12 mol % or more, more preferably 14 mol % or more, and preferably 70 mol % or less, more preferably 50 mol % or less, more preferably 40 mol % or less. The molar content (%) is preferably from 8 to 70 mol %, more preferably from 10 to 70 mol %, more preferably from 12 to 60 mol %, more preferably from 14 to 50 mol %.</p>
+<p id="p-0021" num="0021">A small amount of sugars other than galactose and arabinose, such as glucose, rhamnose, fucose and glucuronic acid, may be present on the side chain of the arabinogalactan according to the present invention. In this case, the molar ratio of sugars other than galactose and arabinose, where the molar amount of galactose is defined as 1, is, for example, 10 or less, preferably 1 or less.</p>
+<p id="p-0022" num="0022">The molecular weight of the arabinogalactan according to the present invention is from 10,000 to 1,000,000, preferably 20,000 or more, 35,000 or more, 50,000 or more, or 65,000 or more, and preferably 500,000 or less, 350,000 or less, or 200,000 or less. The molecular weight is preferably from 10,000 to 500,000, more preferably from 20,000 to 500,000, more preferably from 35,000 to 350,000, more preferably from 50,000 to 350,000, more preferably from 65,000 to 200,000.</p>
+<p id="p-0023" num="0023">Analysis of the composition of the relevant arabinogalactan in a sugar chain binding state can be performed by a method known to those skilled in the art, for example, methylation analysis (F. A. Pettolino et al., Nature Protocols, 2012, 7, 1590-1607). The &#x201c;ratio of 1,3-bound galactose to total galactose&#x201d; in the present invention is also a numerical value calculated by this methylation analysis.</p>
+<p id="p-0024" num="0024">On the other hand, analysis of the &#x201c;simple galactose and arabinose without sugar chain binding state information&#x201d; can be performed by a constituent sugar analysis method combining hydrolysis with an acid such as trifluoroacetic acid and ion chromatography, or the like.</p>
+<p id="p-0025" num="0025">Measurement of the molecular weight can be performed by GPC (gel permeation chromatography) or the like. The molecular weight shown in the present application represents a peak top molecular weight during GPC analysis, and is calculated by comparison with a standard substance Shodex Standard P-82 (Shoko Co., Ltd.).</p>
+<p id="p-0026" num="0026">The arabinogalactan according to the present invention can be acquired by isolation and purification from a plant such as pear, green coffee or radish using known means.</p>
+<p id="p-0027" num="0027">Such a plant can be used as it is or as juice obtained by squeezing the plant, or in the form of a dried product obtained by drying the plant itself, or a pulverized product thereof, or in the form of an extract obtained by extraction therefrom. Examples of the extract include various solvent extracts obtained by extracting plants at normal temperature or elevated temperature or extracting plants using an extracting apparatus such as a Soxhlet extractor, diluted liquids thereof, concentrated liquids thereof, and dried powder thereof.</p>
+<p id="p-0028" num="0028">The solvent used for extraction may be water, a hydrophilic organic solvent, a hydrophobic organic solvent, or a mixture of two or more thereof, and is preferably water. The type of water is not particularly limited, and may be any of pure water, tap water and the like. The water may be subjected to any of normal treatments such as purification, disinfection, sterilization, filtration, osmotic adjustment and buffering, and for example, a buffer solution such as physiological saline or a phosphate buffer solution can also be used as an extracting solvent. Examples of the hydrophilic solvent include known hydrophilic organic solvents such as alcohols such as methyl alcohol, ethyl alcohol, butyl alcohol, glycerin, propylene glycol and 1,3-butylene glycol, acetone, tetrahydrofuran, acetonitrile, 1,4-dioxane, pyridine, dimethylsulfoxide, N,N-dimethylformamide, and acetic acid. Examples of the hydrophobic organic solvent include known hydrophobic organic solvents such as hexane, cyclohexane, carbon tetrachloride, chloroform, dichloromethane, 1,2-dichloroethane, diethyl ether, ethyl acetate, benzene, toluene, n-hexane, and isooctane. The extraction operation may be carried out with the solution pH adjusted by adding an acid or an alkali at the time of extraction.</p>
+<p id="p-0029" num="0029">The extraction means is not particularly limited, and common means such as solid-liquid extraction, liquid-liquid extraction, immersion, decoction, leaching, reflux extraction, Soxhlet extraction, ultrasonic extraction, microwave extraction and stirring.</p>
+<p id="p-0030" num="0030">Examples of the means used for isolation and purification of the arabinogalactan include reprecipitation, recrystallization, enzymatic degradation of contaminating components, acid decomposition, membrane filtration, ultrafiltration, dialysis, gel filtration chromatography, ion-exchange chromatography, affinity chromatography, and high performance liquid chromatography (HPLC). These means may be used alone, or two or more thereof may be used in combination.</p>
+<p id="p-0031" num="0031">The arabinogalactan according to the present invention may be a crude product containing a small amount of contaminants, is preferably free of contaminants detectable by a detection method such as HPLC and a test such as a bioassay, and may be one from which other components such as protein, lipids and carbohydrates have been removed.</p>
+<p id="p-0032" num="0032">The arabinogalactan according to the present invention can be purified from a plant such as pear, green coffee or radish, and may be purified from another plant. Whether or not a plant contains the arabinogalactan according to the present invention can be easily determined by HPLC analysis, ion chromatography analysis, the methylation analysis or the like on an extract or an acid decomposition product of the extract.</p>
+<p id="p-0033" num="0033">The arabinogalactan according to the present invention may be one prepared by a method for chemical synthesis of a polysaccharide which is known to those skilled in the art. Examples of the method for chemical synthesis of a polysaccharide include a staged condensation method, a polycondensation method, and a ring-opening polymerization method.</p>
+<p id="p-0034" num="0034">As shown in Examples described later, the arabinogalactan according to the present invention can reduce astringency from catechins which are one of astringent substances. Therefore, the arabinogalactan according to the present invention can be an astringency reducing agent used for reducing astringency by blending the arabinogalactan into an oral product (for example, a medicament, a quasi-pharmaceutical product or a food product) containing an astringent substance, and can be used for producing the relevant astringency reducing agent.</p>
+<p id="p-0035" num="0035">Here, the &#x201c;astringency&#x201d; refers to a numbness feeling in the mouth which is perceived with shrinkage of the entire mucous membrane in the mouth excluding taste buds and taste cells, different from bitterness perceived by taste receptor, and the astringency is not categorized as a &#x201c;sense of taste&#x201d;.</p>
+<p id="p-0036" num="0036">The astringent substance is not particularly limited as long as it has astringency, and a functional material having astringency is preferable. For example, polyphenol, aluminum ammonium sulfate, aluminum potassium sulfate, aluminum chloride and the like are exemplified.</p>
+<p id="p-0037" num="0037">As typical examples of the polyphenol, flavonoids, phenylpropanoids, hydrolytic tannins, stilbenoids and the like are exemplified. The flavonoids include non-polymeric catechins, condensed tannins, theaflavin, quercetin, rutin, flavangenol and pycnogenol, the phenylpropanoids include chlorogenic acid, coffeic acid, ferulic acid and rosmarinic acid, the hydrolytic tannins include tannic acid, pentagalloylglucose, gallic acid, ellagic acid and ellagitannin, and the stilbenoids include resveratrol.</p>
+<p id="p-0038" num="0038">The &#x201c;non-polymeric catechin&#x201d; is a collective term for non-epiform catechins such as catechin, gallocatechin, catechin gallate and gallocatechin gallate, and epiform catechins such as epicatechin, epigallocatechin, epicatechin gallate and epigallocatechin gallate. The &#x201c;gallate of non-polymeric catechin&#x201d; is a collective term for catechin gallate, gallocatechin gallate, epicatechin gallate, epigallocatechin gallate and the like.</p>
+<p id="p-0039" num="0039">The &#x201c;chlorogenic acid&#x201d; is a collective term for monocaffeoylquinic acids including 3-caffeoylquinic acid, 4-caffeoylquinic acid and 5-caffeoylquinic acid, monoferlaquinic acids including 3-ferlaquinic acid, 4-ferlaquinic acid and 5-ferlaquinic acid, and dicaffeoylquinic acids including 3,4-dicaffeoylquinic acid, 3,5-dicaffeoylquinic acid and 4,5-dicaffeoylquinic acid.</p>
+<p id="p-0040" num="0040">The astringency reducing agent of the present invention can be used as a material or a formulation to be blended into a composition (oral product) containing an astringent substance. That is, the astringency reducing agent may be one consisting of the arabinogalactan according to the present invention, or one containing carriers for formulation such as an excipient, a binder, an extender and a diluent in addition to the arabinogalactan.</p>
+<p id="p-0041" num="0041">The oral product in which the astringency reducing agent of the present invention is used is not particularly limited as long as it contains an astringent substance and is orally ingestible, and the oral product may be liquid or solid. Examples thereof include medicaments, quasi-pharmaceutical products and food products having the astringency. The dosage form of each of the medicament and the quasi-pharmaceutical product is not particularly limited as long as it is a formulation for oral administration, and the dosage form may be any of known dosage forms such as a granule, a tablet, a lozenge and a syrup. As the quasi-pharmaceutical product, for example, toothpastes, mouth washes, mouth rinses and the like are exemplified. The medicament and the quasi-pharmaceutical product can be produced in accordance with conventional methods, and known additives such as an excipient can be included during formulation.</p>
+<p id="p-0042" num="0042">Examples of the food product include food products and beverages containing an astringent substance, and food products and beverages to which an astringent substance has been added. The food product can be produced by a conventional method depending on the type thereof. Examples of the food product and beverage containing an astringent substance include beverages such as green tea, black tea, oolong tea, wine, persimmon tea, guava leaf tea and onion skin tea, and food products containing any of these beverages.</p>
+<p id="p-0043" num="0043">From the viewpoint of being likely to benefit from the effects of the present invention, the oral product is preferably a food product, more preferably a beverage. Examples of the food product include citrus fruits such as grapefruit, orange and lemon, or fruit juices obtained from these fruits; vegetables such as tomato, green pepper, celery, gourd, carrot, potato and asparagus, or vegetable juices obtained from these vegetables; beverages such as coffee, cocoa, green tea, black tea, oolong tea, cold drinks, wine and beer; seasonings such as sauce, soy sauce, soybean paste, hot pepper and umami seasoning; soy food products such as soymilk; emulsified food products such as cream, dressing, mayonnaise and margarine; fishery processed foodstuffs such as fish meat, minced fish and fish eggs; nuts such as peanut; fermented food products such as natto; edible meats or processed food products thereof; pickles; noodles; soups including powdered soup; dairy products such as cheese and cow milk; breads and cakes; and confectioneries such as snack food, biscuit, rice biscuit, chewing gum, chocolate and candy.</p>
+<p id="p-0044" num="0044">The amount of the arabinogalactan according to the present invention used in an oral product is not particularly limited as long as it is an amount effective for reducing astringency, and the amount can be appropriately set depending on the types of astringent substance and oral product, and astringent intensity. For example, the amount of the arabinogalactan used is preferably 0.0005 or more, more preferably 0.001 or more, more preferably 0.0025 or more, and preferably 0.8 or less, more preferably 0.1 or less, more preferably 0.035 or less, or preferably from 0.0005 to 0.8, more preferably from 0.001 to 0.1, more preferably from 0.0025 to 0.035, in terms of mass ratio to the astringent substance [arabinogalactan/astringent substance].</p>
+<p id="p-0045" num="0045">In this case, the content of an astringent substance in the oral product is preferably from 0.001 to 0.8 mass %, more preferably from 0.005 to 0.7 mass %, more preferably from 0.008 to 0.6 mass %, more preferably from 0.03 to 0.4 mass %.</p>
+<p id="p-0046" num="0046">From the viewpoint of reducing astringency, the content of the arabinogalactan according to the present invention in an oral product is preferably 0.0001 mass % or more, more preferably 0.00015 mass % or more, more preferably 0.00025 mass % or more, and preferably 0.08 mass % or less, more preferably 0.01 mass % or less, more preferably 0.005 mass % or less. The content is preferably from 0.0001 to 0.08 mass %, more preferably from 0.00015 to 0.01 mass %, more preferably from 0.00025 to 0.005 mass %.</p>
+<p id="p-0047" num="0047">Regarding the embodiments described above, further the following aspects are disclosed in the present invention.</p>
+<p id="p-0048" num="0000">&#x3c;1&#x3e; An astringency reducing agent comprising an arabinogalactan which has a molecular weight of from 10,000 to 1,000,000, preferably 20,000 or more, 35,000 or more, 50,000 or more, or 65,000 or more, and preferably 500,000 or less, 350,000 or less, or 200,000 or less and in which the ratio of 1,3-bound galactose to total galactose is 12 mol % or more, as an active ingredient.
+<br/>
+&#x3c;2&#x3e; The astringency reducing agent according to &#x3c;1&#x3e;, wherein the ratio of 1,3-bound galactose to total galactose is preferably 16 mol % or more, more preferably 18 mol % or more, more preferably 20 mol % or more, more preferably 22 mol % or more, and preferably 70 mol % or less, more preferably 60 mol % or less, more preferably 50 mol % or less, or preferably from 12 to 70 mol %, more preferably from 16 to 70 mol %, more preferably from 18 to 70 mol %, more preferably from 20 to 60 mol %, more preferably from 22 to 50 mol %.
+<br/>
+&#x3c;3&#x3e; The astringency reducing agent according to &#x3c;1&#x3e; or &#x3c;2&#x3e;, wherein the molecular weight is from 10,000 to 500,000, preferably from 20,000 to 500,000, more preferably from 35,000 to 350,000, more preferably from 50,000 to 350,000, more preferably from 65,000 to 200,000.
+<br/>
+&#x3c;4&#x3e; The astringency reducing agent according to any of &#x3c;1&#x3e; to &#x3c;3&#x3e;, wherein astringency from polyphenol is reduced.
+<br/>
+&#x3c;5&#x3e; The astringency reducing agent according to &#x3c;4&#x3e;, wherein the polyphenol comprises a non-polymeric catechin.
+<br/>
+&#x3c;6&#x3e; A method for reducing astringency, comprising the step of blending the astringency reducing agent according to any of &#x3c;1&#x3e; to &#x3c;5&#x3e; into an oral product comprising an astringent substance.
+<br/>
+&#x3c;7&#x3e; The method according to &#x3c;6&#x3e;, wherein the amount of the arabinogalactan used in the oral product is preferably 0.0005 or more, more preferably 0.001 or more, more preferably 0.0025 or more, and preferably 0.8 or less, more preferably 0.1 or less, more preferably 0.035 or less, or preferably from 0.0005 to 0.8, more preferably from 0.001 to 0.1, more preferably from 0.0025 to 0.035, in terms of mass ratio to an astringent substance [arabinogalactan/astringent substance].
+<br/>
+&#x3c;8&#x3e; The method according to &#x3c;6&#x3e;, wherein the content of an arabinogalactan according to the present invention in the oral product is preferably 0.0001 mass % or more, more preferably 0.00015 mass % or more, more preferably 0.00025 mass % or more, and preferably 0.08 mass % or less, more preferably 0.01 mass % or less, more preferably 0.005 mass % or less, or preferably from 0.0001 to 0.08 mass %, more preferably from 0.00015 to 0.01 mass %, more preferably from 0.00025 to 0.005 mass %.
+<br/>
+&#x3c;9&#x3e; Use of an arabinogalactan which has a molecular weight of from 10,000 to 1,000,000, preferably 20,000 or more, 35,000 or more, 50,000 or more, or 65,000 or more, and preferably 500,000 or less, 350,000 or less, or 200,000 or less and in which the ratio of 1,3-bound galactose to total galactose is 12 mol % or more, for producing an astringency reducing agent.
+<br/>
+&#x3c;10&#x3e; The use according to &#x3c;9&#x3e;, wherein the ratio of 1,3-bound galactose to total galactose is preferably 16 mol % or more, more preferably 18 mol % or more, more preferably 20 mol % or more, more preferably 22 mol % or more, and preferably 70 mol % or less, more preferably 60 mol % or less, more preferably 50 mol % or less, or preferably from 12 to 70 mol %, more preferably from 16 to 70 mol %, more preferably from 18 to 70 mol %, more preferably from 20 to 60 mol %, more preferably from 22 to 50 mol %.
+<br/>
+&#x3c;11&#x3e; The use according to &#x3c;9&#x3e; or &#x3c;10&#x3e;, wherein the molecular weight is from 10,000 to 500,000, preferably from 20,000 to 500,000, more preferably from 35,000 to 350,000, more preferably from 50,000 to 350,000, more preferably from 65,000 to 200,000.
+<br/>
+&#x3c;12&#x3e; The use according to any of &#x3c;9&#x3e; to &#x3c;11&#x3e;, wherein the astringency reducing agent reduces astringency from polyphenol.
+<br/>
+&#x3c;13&#x3e; The use according to &#x3c;12&#x3e;, wherein the polyphenol comprises a non-polymeric catechin.
+<br/>
+&#x3c;14&#x3e; Use of an arabinogalactan which has a molecular weight of from 10,000 to 1,000,000, preferably 20,000 or more, 35,000 or more, 50,000 or more, or 65,000 or more, and preferably 500,000 or less, 350,000 or less, or 200,000 or less and in which the ratio of 1,3-bound galactose to total galactose is 12 mol % or more, for reducing astringency.
+<br/>
+&#x3c;15&#x3e; The use according to &#x3c;14&#x3e;, wherein the ratio of 1,3-bound galactose to total galactose is preferably 16 mol % or more, more preferably 18 mol % or more, more preferably 20 mol % or more, more preferably 22 mol % or more, and preferably 70 mol % or less, more preferably 60 mol % or less, more preferably 50 mol % or less, or preferably from 12 to 70 mol %, more preferably from 16 to 70 mol %, more preferably from 18 to 70 mol %, more preferably from 20 to 60 mol %, more preferably from 22 to 50 mol %.
+<br/>
+&#x3c;16&#x3e; The use according to &#x3c;14&#x3e; or &#x3c;15&#x3e;, wherein the molecular weight is from 10,000 to 500,000, more preferably from 50,000 to 350,000, more preferably from 65,000 to 200,000.
+<br/>
+&#x3c;17&#x3e; The use according to any of &#x3c;14&#x3e; to &#x3c;16&#x3e;, wherein astringency from polyphenol is reduced.
+<br/>
+&#x3c;18&#x3e; The use according to &#x3c;17&#x3e;, wherein the polyphenol comprises a non-polymeric catechin.
+<br/>
+&#x3c;19&#x3e; The use according to any of &#x3c;14&#x3e; to &#x3c;18&#x3e;, wherein the amount of the arabinogalactan used in the oral product is preferably 0.0005 or more, more preferably 0.001 or more, more preferably 0.0025 or more, and preferably 0.8 or less, more preferably 0.1 or less, more preferably 0.035 or less, or preferably from 0.0005 to 0.8, more preferably from 0.001 to 0.1, more preferably from 0.0025 to 0.035, in terms of mass ratio to an astringent substance [arabinogalactan/astringent substance].
+<br/>
+&#x3c;20&#x3e; The use according to any of &#x3c;14&#x3e; to &#x3c;18&#x3e;, wherein the content of the arabinogalactan according to the present invention in the oral product is preferably 0.0001 mass % or more, more preferably 0.00015 mass % or more, more preferably 0.00025 mass % or more, and preferably 0.08 mass % or less, more preferably 0.01 mass % or less, more preferably 0.005 mass % or less, or preferably from 0.0001 to 0.08 mass %, more preferably from 0.00015 to 0.01 mass %, more preferably from 0.00025 to 0.005 mass %.
+</p>
+<heading id="h-0007" level="1">EXAMPLES</heading>
+<heading id="h-0008" level="1">Production Example 1: Purification of Pear Arabinogalactan</heading>
+<p id="p-0049" num="0048">100 mL of pure water was added to 20 g of 6-fold concentrated pear juice (KAKOH CO., LTD.), and the mixture was subjected to ultrafiltration (Amicon from Merck Millipore Corporation) with a UF flat membrane having a molecular weight cutoff of 10 kDa (Ultracel from Merck Millipore Corporation). Water was further added, and the ultrafiltration was repeated three times. The non-passing fractions were collected, freeze-dried, and then purified by gel filtration chromatography (Sephadex G-100, 20&#xd7;280 mm, eluting solution: 0.1% aqueous acetic acid solution) to obtain 13.1 mg of a pear arabinogalactan.</p>
+<heading id="h-0009" level="1">Production Example 2: Green Coffee Arabinogalactan</heading>
+<p id="p-0050" num="0049">2,000 mL of pure water was added to 200 g of pulverized green coffee beans (Brazil Santos #2 obtained from Matsuya Coffee), the mixture was extracted at 100&#xb0; C. for 45 to 60 minutes, and then subjected to filtration with filter paper (ADVANTEC #1) to obtain an extract, and the extract was freeze-dried to obtain 44.34 g of extract powder. This was dissolved again in 440 mL of pure water, 17.6 g of formic acid was then added, the mixture was cooled to 5&#xb0; C., and centrifuged (3,000 rpm, 30 min) to remove the precipitate. To about 500 mL of the obtained liquid part was added 2,500 mL of 99.5% v/v % ethanol, the mixture was then centrifuged to collect the precipitate, and freeze-drying was performed to obtain 4.28 g of a crude polysaccharide fraction.</p>
+<p id="p-0051" num="0050">To 4.28 g of the crude polysaccharide fraction were added 100 mL of a 50 mM aqueous sodium hydroxide solution and 130 mL of a saturated aqueous barium hydroxide solution, and the mixture was left standing at room temperature for 3 hours, and then centrifuged (3,000 rpm, 30 min) to remove the precipitate. The obtained liquid part was adjusted to a pH of 4 by adding 1 N diluted sulfuric acid, the mixture was centrifuged again (3,000 rpm, 30 min) to remove the precipitate. To the liquid part was added 1,450 mL of 99.5 v/v % ethanol to form a precipitate, and this was collected and freeze-dried to obtain 1.18 g of a crude arabinogalactan fraction.</p>
+<p id="p-0052" num="0051">Ion components were removed from the crude arabinogalactan fraction with 100 mL of Dowex Marathon MR-3H+/OH&#x2212; Type, and freeze-drying was then performed to obtain 0.71 g of a green coffee arabinogalactan.</p>
+<heading id="h-0010" level="1">Production Example 3: Purification of Radish Arabinogalactan</heading>
+<p id="p-0053" num="0052">800 mL of pure water was added to 80 g of dry powder of a dried radish root (Kodama Foods Co., Ltd.), and the mixture was heated, and extracted in boiled water for 4 hours. The extract was allowed to cool, and then filtered with filter paper (Kiriyama Filter Paper No. 5A), and the filtrate was freeze-dried to obtain 51.7 g of extract powder. To this was added pure water to a total weight of 220 g to dissolve the powder, 330 mL of 99.5 v/v % ethanol was added, and the mixture was left standing overnight at room temperature. Thereafter, centrifugation was performed (3,000 rpm, 30 min) to remove the supernatant, and the precipitate was washed twice with 250 mL of 70 v/v % ethanol. The obtained precipitate was dissolved in pure water, and the solution was freeze-dried to obtain 3.74 g of a solid. 300 mg of the solid was weighed and taken, and dissolved in 3 mL of pure water. To this was added 0.1 mL of pectinase (SIGMA, Pectinase from <i>Aspergillus aculeatus</i>), and the mixture was incubated at 40&#xb0; C. for 90 minutes, then heated to 90&#xb0; C. or higher to deactivate the pectinase, and allowed to cool. 5 mL of pure water and 12 mL of 99.5 v/v&#xb0; ethanol were added, and the mixture was left standing overnight at &#x2212;20&#xb0; C. This was centrifuged (3,000 rpm, 30 min) to remove the supernatant, and the precipitate was washed twice with 5 mL of 70 v/v % ethanol. The obtained precipitate was dissolved in pure water, and the undissolved precipitate was removed by centrifugation (3,000 rpm, 30 min). The obtained supernatant was freeze-dried to obtain 84.3 mg of a radish arabinogalactan.</p>
+<heading id="h-0011" level="1">Production Example 4: Purification of Larch Arabinogalactan</heading>
+<p id="p-0054" num="0053">94.7 mg of Resist Aid (Lonza K.K.) was dissolved in 3 mL of pure water, and the solution was subjected to electrodialysis (ASTOM, MICRO ACILYZER S1) with a dialytic membrane having a molecular weight cutoff of 300 Da to obtain 86 mg of a larch arabinogalactan.</p>
+<heading id="h-0012" level="1">Production Example 5: Purification of Japanese Pear Arabinogalactan</heading>
+<p id="p-0055" num="0054">1.9 L of pure water was added to 480 g of 5-fold concentrated Japanese pear juice (KAKOH CO., LTD.), and the mixture was subjected to ultrafiltration (Amicon from Merck Millipore Corporation) with a UF flat membrane having a molecular weight cutoff of 10 kDa (Ultracel from Merck Millipore Corporation). Water was further added, and the ultrafiltration was repeated three times. The non-passing fractions were collected, and freeze-dried to obtain 253 mg of a Japanese pear arabinogalactan.</p>
+<heading id="h-0013" level="1">Production Example 6: Purification of Roasted Coffee Arabinogalactan</heading>
+<p id="p-0056" num="0055">90 mL of pure water was added to 10 g of a hot water extract of roasted coffee beans (Kao Corporation), 0.1 mL of pectinase (SIGMA, Pectinase from <i>Aspergillus aculeatus</i>) was added, and the mixture was incubated at 40&#xb0; C. for 90 minutes, then heated to 90&#xb0; C. or higher to deactivate the pectinase, and allowed to cool. 50 mL of the resulting solution was taken, 50 mL of 99.5 v/v % ethanol was added, and the mixture was left standing overnight at &#x2212;20&#xb0; C. This was centrifuged (3,000 rpm, 30 min) to remove the supernatant, and the precipitate was washed twice with 10 mL of 50 v/v % ethanol. The obtained precipitate was dissolved in pure water, and the solution was freeze-dried to obtain 642 mg of a roasted coffee arabinogalactan.</p>
+<heading id="h-0014" level="1">Test Example: Analysis of Arabinogalactan</heading>
+<heading id="h-0015" level="2">1. Measurement of Molecular Weight</heading>
+<p id="p-0057" num="0056">The peak top molecular weights of the arabinogalactans of Production Examples 1 to 6 and gum arabic (CREO GUM #4810 from CREO International Corp.) were determined by GPC-RI analysis.</p>
+<heading id="h-0016" level="2">&#x3c;GPC-RI Analysis Conditions&#x3e;</heading>
+<p id="p-0058" num="0000">
+<ul id="ul0002" list-style="none">
+    <li id="ul0002-0001" num="0000">
+    <ul id="ul0003" list-style="none">
+        <li id="ul0003-0001" num="0057">HPLC system: Chromaster (Hitachi High-Tech Corporation)</li>
+        <li id="ul0003-0002" num="0058">Column: TSKgel GWPWxI 7.8&#xd7;300 mm (TOSOH CORPORATION)</li>
+        <li id="ul0003-0003" num="0059">Guard column: TSKgel PWxI 6&#xd7;40 mm</li>
+        <li id="ul0003-0004" num="0060">Eluting solution: 0.2 M phosphate buffer (pH 6.8)/acetonitrile=9:1</li>
+        <li id="ul0003-0005" num="0061">Flow rate: 1.0 mL/min</li>
+        <li id="ul0003-0006" num="0062">Column temperature: 40&#xb0; C.</li>
+        <li id="ul0003-0007" num="0063">Detection: RI</li>
+        <li id="ul0003-0008" num="0064">Standard substance: Shodex Standard P-82 (Shoko Co., Ltd.)</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0017" level="2">2. Analysis of L-Arabinose and D-Galactose (Constituent Sugar Analysis)</heading>
+<p id="p-0059" num="0065">About 5 mg of each of the arabinogalactans of Production Examples 1 to 6 and gum arabic (CREO GUM #4810 from CREO International Corp.) was weighed and taken in a screw-top test tube, 5 mL of a 2 N methanol hydrochloride solution was added, and the mixture was heated with a block heater at 80&#xb0; C. for 18 hours, allowed to cool, and then concentrated under a nitrogen flow. 1 mL of isopropanol was added, and the mixture was concentrated again.</p>
+<p id="p-0060" num="0066">To this was added 5 mL of a 2 N aqueous trifluoroacetic acid solution, and the mixture was heated with a block heater at 110&#xb0; C. for 1 hour to perform hydrolysis, and allowed to cool. 10 mL of a 1 N aqueous sodium hydroxide solution was then added to perform neutralization and obtain a volume of 20 mL, followed by determination of constituent ratios (mol %) of L-arabinose and D-galactose by ion chromatography analysis.</p>
+<heading id="h-0018" level="2">&#x3c;Ion Chromatography Analysis Conditions&#x3e;</heading>
+<p id="p-0061" num="0000">
+<ul id="ul0004" list-style="none">
+    <li id="ul0004-0001" num="0000">
+    <ul id="ul0005" list-style="none">
+        <li id="ul0005-0001" num="0067">System: Dionex ICS-5000 (Thermo Fisher Scientific K.K.)</li>
+        <li id="ul0005-0002" num="0068">Detector: Dionex ICS-5000 ED Electrochemical detector (Thermo Fisher Scientific K.K.)</li>
+        <li id="ul0005-0003" num="0069">Column: Dionex CarboPac PA1 4&#xd7;250 mm</li>
+        <li id="ul0005-0004" num="0070">Guard column: Dionex CarboPac PA1 4&#xd7;50 mm</li>
+        <li id="ul0005-0005" num="0071">Flow rate: 1 mL/min</li>
+        <li id="ul0005-0006" num="0072">Column temperature: 25&#xb0; C.</li>
+        <li id="ul0005-0007" num="0073">Compartment temperature: 35&#xb0; C.</li>
+        <li id="ul0005-0008" num="0074">Diluting solution A: Ultrapure water</li>
+        <li id="ul0005-0009" num="0075">Diluting solution B: 18 mM aqueous sodium hydroxide</li>
+        <li id="ul0005-0010" num="0076">Diluting solution C: 200 mM aqueous sodium hydroxide</li>
+        <li id="ul0005-0011" num="0077">Diluting solution D: 150 mM sodium acetate and 100 mM sodium hydroxide aqueous solution</li>
+        <li id="ul0005-0012" num="0078">Concentration gradient conditions (vol %): Table 1 below</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0062" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="5" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Eluting</entry>
+<entry>Eluting</entry>
+<entry>Eluting</entry>
+<entry>Eluting</entry>
+</row>
+<row>
+<entry>Time</entry>
+<entry>solution A</entry>
+<entry>solution B</entry>
+<entry>solution C</entry>
+<entry>solution D</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>&#x2002;0 min</entry>
+<entry>95%</entry>
+<entry>0%</entry>
+<entry>5%</entry>
+<entry>0%</entry>
+</row>
+<row>
+<entry>25 min</entry>
+<entry>95%</entry>
+<entry>0%</entry>
+<entry>5%</entry>
+<entry>0%</entry>
+</row>
+<row>
+<entry>26 min</entry>
+<entry>&#x2002;0%</entry>
+<entry>0%</entry>
+<entry>100%&#x2003;</entry>
+<entry>0%</entry>
+</row>
+<row>
+<entry>36 min</entry>
+<entry>&#x2002;0%</entry>
+<entry>0%</entry>
+<entry>100%&#x2003;</entry>
+<entry>0%</entry>
+</row>
+<row>
+<entry>37 min</entry>
+<entry>95%</entry>
+<entry>0%</entry>
+<entry>5%</entry>
+<entry>0%</entry>
+</row>
+<row>
+<entry>47 min</entry>
+<entry>95%</entry>
+<entry>0%</entry>
+<entry>5%</entry>
+<entry>0%</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0019" level="2">3. Methylation Analysis</heading>
+<p id="p-0063" num="0079">The methylation analysis is performed for determining a position at which monosaccharides are bound to each other in a polysaccharide. It is possible to calculate a proportion of monosaccharides having a bond at a certain position in the polysaccharide. The process involves the following four steps:</p>
+<p id="p-0064" num="0000">1) fully methylating a polysaccharide;
+<br/>
+2) hydrolyzing the fully methylated polysaccharide into partially methylated monosaccharides;
+<br/>
+3) acetylating non-methylated hydroxy groups to perform conversion into partially methylated partially acetylated alditol acetates (PMAA) derivatives; and
+<br/>
+4) separating and analyzing the derivatives by GC-MS.
+</p>
+<p id="p-0065" num="0080">For the methylation analysis, a full methylation method using solid sodium hydroxide was used by reference to the protocol by F. A. Pettolino et al. (Nature Protocols, 2012, 7, 1590-1607.). For the full methylation method, a method using a methylsulfinyl carbanion reagent and called a Hakomori method, and the like are also used, and analysis results do not depend on methods.</p>
+<heading id="h-0020" level="2">1) Full Methylation</heading>
+<p id="p-0066" num="0081">About 0.6 mg of each of the arabinogalactans of Production Examples 1 to 6 was weighed and taken in a screw-top test tube, and dissolved in 0.5 mL of dehydrated DMSO, and the inside of the test tube was brought into a nitrogen atmosphere. 0.5 mL of powdered sodium hydroxide dispersed in dehydrated DMSO (120 mg of NaOH/1 mL of DMSO) was added together with the DMSO, and the mixture was subjected to ultrasonic treatment for 30 minutes. To this was added 0.1 mL of methyl iodide, and the mixture was subjected to ultrasonic treatment for 10 minutes. Further, 0.1 mL of methyl iodide was added, and the mixture was subjected to ultrasonic treatment for 10 minutes. Thereafter, the 0.2 mL of methyl iodide was added, and the mixture was subjected to ultrasonic treatment for 20 minutes. Subsequently, 2 mL of ultrapure water and 1.5 mL of dichloromethane were added, and the mixture was vortexed to remove the aqueous layer. The step of adding 2 mL of ultrapure water to the dichloromethane layer and vortexing the mixture to remove the aqueous layer was repeated three times, and the obtained dichloromethane layer was transferred into a screw-top test tube. Nitrogen was sprayed to remove dichloromethane, thereby achieving dryness to obtain a fully methylated polysaccharide.</p>
+<heading id="h-0021" level="2">2) Hydrolysis</heading>
+<p id="p-0067" num="0082">To the obtained fully methylated polysaccharide was added 0.2 mL of ultrapure water to dissolve the fully methylated polysaccharide. 0.2 mL of 4 N TFA was added, and the mixture was heated with a block heater at 120&#xb0; C. for 1 hour to perform hydrolysis, allowed to cool, and concentrated by centrifugation. The step of adding 0.5 mL of ultrapure water and concentrating the mixture by centrifugation was repeated three times to obtain a partially methylated monosaccharide.</p>
+<p id="p-0068" num="0000">3) Conversion into PMAA Derivative</p>
+<p id="p-0069" num="0083">To the obtained partially methylated monosaccharide were added 0.5 mL of 2 M aqueous ammonia and 10 mg of sodium borohydride, and the mixture was reacted at room temperature for two and a half hours. After the reaction, the reaction product was neutralized with 90 &#x3bc;L of acetic acid, and concentrated by centrifugation. The step of adding 250 &#x3bc;L of 5 v/v % of an acetic acid-methanol solution thereto and concentrating the mixture by centrifugation was repeated twice. Further, the step of adding 250 &#x3bc;L of methanol and concentrating the mixture by centrifugation was repeated twice to achieve dryness. Next, 250 &#x3bc;L of acetic anhydride was added, and the mixture was heated with a block heater at 100&#xb0; C. for two and a half hours, and allowed to cool. 2 mL of ultrapure water and 1.5 mL of dichloromethane were added, the resultant was mixed with a test tube mixer, and the aqueous layer was removed. The step of adding 2 mL of ultrapure water to the dichloromethane layer, mixing the resultant with a test tube mixer and removing the aqueous layer was repeated three times, and the obtained dichloromethane layer was transferred into another screw-top test tube. Nitrogen was spraying to remove dichloromethane, thereby obtaining a PMAA derivative.</p>
+<heading id="h-0022" level="2">4) GC-MS Analysis</heading>
+<p id="p-0070" num="0084">The obtained PMAA derivative was dissolved in 50 &#x3bc;L of chloroform, and the solution was analyzed by GCMS.</p>
+<heading id="h-0023" level="2">&#x3c;GCMS Measurement Conditions&#x3e;</heading>
+<p id="p-0071" num="0000">
+<ul id="ul0006" list-style="none">
+    <li id="ul0006-0001" num="0000">
+    <ul id="ul0007" list-style="none">
+        <li id="ul0007-0001" num="0085">GC: Agilent 7890B</li>
+        <li id="ul0007-0002" num="0086">MS: Agilent 5977B</li>
+        <li id="ul0007-0003" num="0087">Column: DB-5 ms+DG (Agilent J &#x26; W, 30 m&#xd7;0.25 mm)</li>
+        <li id="ul0007-0004" num="0088">Injection temperature: 210&#xb0; C.</li>
+        <li id="ul0007-0005" num="0089">Interface temperature: 270&#xb0; C.</li>
+        <li id="ul0007-0006" num="0090">Column temperature: 150&#xb0; C. (5 min)&#x2192;250&#xb0; C. (5&#xb0; C./rain)</li>
+        <li id="ul0007-0007" num="0091">250&#xb0; C. (5 min)</li>
+        <li id="ul0007-0008" num="0092">Carrier gas: Helium
+<br/>
+4. Measurement of astringent intensity
+</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0072" num="0093">10 standard aqueous solutions having different astringent intensities were made by adjusting the addition concentration of a catechin formulation (Teavigo, obtained from DSM Nutrition Japan K.K., containing epigallocatechin gallate at 94 mass % or more) in stages as in Table 2. To a catechin formulation solution at 1.0 g/L, each of the arabinogalactans was added at 0.00025 w/v % to make a test beverage. Four expert panelists selected through sensory evaluation a standard aqueous solution recognized as having an astringent intensity equivalent to that of the test beverage among the 10 standard aqueous solutions. For the astringent intensity of the selected standard aqueous solution, the average across the panelists was determined, and taken as a value of astringent intensity of the test beverage.</p>
+<p id="p-0073" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Standard aqueous solution</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="147pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Astringent</entry>
+<entry>Concentration of catechin</entry>
+</row>
+<row>
+<entry/>
+<entry>intensity</entry>
+<entry>formulation (g/L aq.)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="char" char="."/>
+<colspec colname="2" colwidth="147pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>1</entry>
+<entry>0.1</entry>
+</row>
+<row>
+<entry/>
+<entry>2</entry>
+<entry>0.2</entry>
+</row>
+<row>
+<entry/>
+<entry>3</entry>
+<entry>0.3</entry>
+</row>
+<row>
+<entry/>
+<entry>4</entry>
+<entry>0.4</entry>
+</row>
+<row>
+<entry/>
+<entry>5</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry/>
+<entry>6</entry>
+<entry>0.6</entry>
+</row>
+<row>
+<entry/>
+<entry>7</entry>
+<entry>0.7</entry>
+</row>
+<row>
+<entry/>
+<entry>8</entry>
+<entry>0.8</entry>
+</row>
+<row>
+<entry/>
+<entry>9</entry>
+<entry>0.9</entry>
+</row>
+<row>
+<entry/>
+<entry>10</entry>
+<entry>1.0</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0024" level="1">Example 1 and Comparative Example 1</heading>
+<p id="p-0074" num="0094">Table 3 shows the results of analysis and measurement of astringent intensity for the arabinogalactans of Production Examples 1 to 6 and gum arabic (CREO GUM #4810 from CREO International Corp.). For evaluation criteria on reduction of astringency, a beverage having an astringent intensity of less than 8 was evaluated as having an astringency reducing effect. The results of methylation analysis for gum arabic were prepared on the basis of literature (TALANTA, 1983, 30, 11, 887-893). As is apparent from Table 3, the arabinogalactans used for the evaluation here are type II arabinogalactans containing 3-Galp as a main component, and do not include type I arabinogalactans containing 4-Galp as a main component. Among them, arabinogalactans having an astringency reducing effect have been found to have no characteristic constituent ratios of galactose and arabinose and exhibit an effect when the molar ratio of 3-Galp to total galactose is 12&#xb0; or more (there is little branching from the main chain) and the molecular weight is 10,000 or more.</p>
+<p id="p-0075" num="0095">In methylation analysis, bonding position information on arabinose and galactose which are constituent sugars of arabinogalactans, and all other sugar residues is obtained, and here, the ratio of each galactose residue, where the summed amount of all exclusively galactose residues is defined as 100 mol %, is shown. In the context of reduction of astringency, it is important that there is little branching from the main chain, and in the type II arabinogalactan, the main backbone is composed of galactose, and arabinose and a very small amount of other sugars are all bound to the side chain. Therefore, the comparison was made only on galactose residues.</p>
+<p id="p-0076" num="0096">The roasted coffee arabinogalactan has a high molar ratio of 3-Galp like the green coffee arabinogalactan, but has a small molecular weight and no astringency reducing effect. This may be because the green coffee arabinogalactan had glycoside bonds cleaved by heat from roasting, and thus was formed into small fractions while maintaining the structure. This may attenuate the astringency reducing effect, and therefore it is thought that a molecular weight of 10,000 or more is necessary for exhibition of the effect.</p>
+<p id="p-0077" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="offset" colwidth="112pt" align="left"/>
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<colspec colname="6" colwidth="49pt" align="center"/>
+<colspec colname="7" colwidth="49pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="7" rowsep="1">TABLE 3</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="7" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Comparative</entry>
+<entry>Comparative</entry>
+<entry>Comparative</entry>
+<entry>Comparative</entry>
+</row>
+<row>
+<entry/>
+<entry>Example 1-1</entry>
+<entry>Example 1-2</entry>
+<entry>Example 1-3</entry>
+<entry>Example 1-1</entry>
+<entry>Example 1-2</entry>
+<entry>Example 1-3</entry>
+<entry>Example 1-4</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="7" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="112pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="49pt" align="center"/>
+<colspec colname="7" colwidth="49pt" align="center"/>
+<colspec colname="8" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Arabinogalactan</entry>
+<entry>Pear</entry>
+<entry>Green coffee</entry>
+<entry>Radish</entry>
+<entry>Larch</entry>
+<entry>CREO GUM</entry>
+<entry>Japanese pear</entry>
+<entry>Roasted coffee</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Resist Aid</entry>
+<entry>#4810</entry>
+</row>
+<row>
+<entry>Molecular weight (Mp)</entry>
+<entry>67000</entry>
+<entry>112000</entry>
+<entry>55000</entry>
+<entry>15000</entry>
+<entry>154000</entry>
+<entry>67000</entry>
+<entry>8000</entry>
+</row>
+<row>
+<entry>L-arabinose (mol %)</entry>
+<entry>48</entry>
+<entry>41</entry>
+<entry>7</entry>
+<entry>18</entry>
+<entry>34</entry>
+<entry>46</entry>
+<entry>10</entry>
+</row>
+<row>
+<entry>D-galactose (mol %)</entry>
+<entry>43</entry>
+<entry>56</entry>
+<entry>18</entry>
+<entry>69</entry>
+<entry>40</entry>
+<entry>19</entry>
+<entry>75</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="77pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="left"/>
+<colspec colname="3" colwidth="49pt" align="char" char="."/>
+<colspec colname="4" colwidth="42pt" align="char" char="."/>
+<colspec colname="5" colwidth="49pt" align="char" char="."/>
+<colspec colname="6" colwidth="42pt" align="char" char="."/>
+<colspec colname="7" colwidth="49pt" align="char" char="."/>
+<colspec colname="8" colwidth="49pt" align="char" char="."/>
+<colspec colname="9" colwidth="49pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Methylation analysis*</entry>
+<entry>t-Galp</entry>
+<entry>5.7</entry>
+<entry>5.5</entry>
+<entry>23.1</entry>
+<entry>25.2</entry>
+<entry>6.4</entry>
+<entry>20.4</entry>
+<entry>22.3</entry>
+</row>
+<row>
+<entry>(mol %)</entry>
+<entry>3-Galp</entry>
+<entry>13.2</entry>
+<entry>21.2</entry>
+<entry>27.1</entry>
+<entry>2.9</entry>
+<entry>1.1</entry>
+<entry>5.3</entry>
+<entry>34.6</entry>
+</row>
+<row>
+<entry/>
+<entry>6-Galp</entry>
+<entry>8.6</entry>
+<entry>5.5</entry>
+<entry>5.2</entry>
+<entry>22.6</entry>
+<entry>9.2</entry>
+<entry>3.7</entry>
+<entry>7.8</entry>
+</row>
+<row>
+<entry/>
+<entry>3,6-Galp</entry>
+<entry>36.8</entry>
+<entry>31.8</entry>
+<entry>2.6</entry>
+<entry>35.6</entry>
+<entry>42.0</entry>
+<entry>17.8</entry>
+<entry>22.7</entry>
+</row>
+<row>
+<entry/>
+<entry>t-Araf</entry>
+<entry>12.1</entry>
+<entry>15.1</entry>
+<entry>39.8</entry>
+<entry>5.4</entry>
+<entry>28.0</entry>
+<entry>17.1</entry>
+<entry>4.9</entry>
+</row>
+<row>
+<entry/>
+<entry>3-Araf</entry>
+<entry>1.7</entry>
+<entry>1.1</entry>
+<entry>&#x2014;</entry>
+<entry>8.4</entry>
+<entry>13.2</entry>
+<entry>2.6</entry>
+<entry>1.1</entry>
+</row>
+<row>
+<entry/>
+<entry>5-Araf</entry>
+<entry>21.9</entry>
+<entry>19.8</entry>
+<entry>2.3</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>33.0</entry>
+<entry>6.6</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="112pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="char" char="."/>
+<colspec colname="3" colwidth="42pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<colspec colname="5" colwidth="42pt" align="char" char="."/>
+<colspec colname="6" colwidth="49pt" align="char" char="."/>
+<colspec colname="7" colwidth="49pt" align="char" char="."/>
+<colspec colname="8" colwidth="49pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Astringent intensity</entry>
+<entry>7.6</entry>
+<entry>4.5</entry>
+<entry>7.6</entry>
+<entry>10</entry>
+<entry>10</entry>
+<entry>9.5</entry>
+<entry>8.6</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00001">*Methylation analysis: molar ratio of each type of residue where the summed amount of arabinose residues and galactose residues is defined as 100%</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00002">t-Galp: terminal galactopyranose;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00003">3-Galp: galactopyranose having a bond at positions 1 and 3;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00004">6-Galp: galactopyranose having a bond at positions 1 and 6;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00005">3,6-Galp: galactopyranose having a bond at positions 1, 3 and 6;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00006">t-Araf: terminal arabinofuranose;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00007">3-Araf: arabinofuranose having a bond at positions 1 and 3;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00008">5-Araf: arabinofuranose having a bond at positions 1 and 5</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0025" level="1">Example 2</heading>
+<heading id="h-0026" level="2">(1) Preparation of Beverage</heading>
+<heading id="h-0027" level="2">Test Beverage 2-1</heading>
+<p id="p-0078" num="0097">To an aqueous of theaflavin at a concentration of 1.0 g/L (Theaflavin Powder 1%, obtained from YOKOHAMA OLIS &#x26; FATS INDUSTRY CO., LTD.), a pear arabinogalactan was added at 0.01 w/v % to make a test beverage 2-1.</p>
+<heading id="h-0028" level="2">Test Beverage 2-2</heading>
+<p id="p-0079" num="0098">To an aqueous solution of tannic acid at a concentration of 1.0 g/L (Tannic Acid AL, obtained from FUJI CHEMICAL INDUSTRIES CO., LTD.), a pear arabinogalactan was added at 0.01 w/v % to make a test beverage 2-2.</p>
+<heading id="h-0029" level="2">Test Beverage 2-3</heading>
+<p id="p-0080" num="0099">To tea obtained by decocting four packages of 2 g of guava leaf tea (Bankitocha manufactured by Yuuki Seiyaku K.K.) with 1 L of boiled water for 10 minutes, a pear arabinogalactan was added at 0.01 w/v % to make a test beverage 2-3.</p>
+<heading id="h-0030" level="2">Test Beverage 2-4</heading>
+<p id="p-0081" num="0100">To tea obtained by decocting eight packages of 1 g of onion skin tea (Onion Skin Tea manufactured by Orihiro Plantdew K.K.) with 1 L of boiled water for 10 minutes, a pear arabinogalactan was added at 0.01 w/v&#xb0; to make a test beverage 2-4.</p>
+<heading id="h-0031" level="2">(2) Evaluation on Astringency</heading>
+<p id="p-0082" num="0101">Four expert panelists performed sensory evaluation on the astringency of each of the test beverages 2-1 to 2-4 in accordance with the following evaluation criteria. The panelists made a comparison between astringencies before and after addition of the pear arabinogalactan to evaluate whether the astringency was reduced or not. The beverage was rated as &#x201c;Very Good&#x201d; when the number of panelists who evaluated that the astringency had been reduced was 4. The beverage was rated as &#x201c;Good&#x201d; when the number of such panelists was 3. The beverage was rated as &#x201c;Fair&#x201d; when the number of such panelists was 2. The beverage was rated as &#x201c;Poor&#x201d; when the number of such panelists was 1 or 0.</p>
+<heading id="h-0032" level="2">&#x3c;Evaluation Criteria&#x3e;</heading>
+<p id="p-0083" num="0102">Very Good: Astringency was markedly reduced.
+<br/>
+Good: Astringency was reduced.
+<br/>
+Fair: Astringency was not significantly reduced.
+<br/>
+Poor: Astringency was not reduced.
+</p>
+<p id="p-0084" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="49pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" rowsep="1">TABLE 4</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Example 2-1</entry>
+<entry>Example 2-2</entry>
+<entry>Example 2-3</entry>
+<entry>Example 2-4</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Evaluation on</entry>
+<entry>Very Good</entry>
+<entry>Very Good</entry>
+<entry>Very Good</entry>
+<entry>Good</entry>
+</row>
+<row>
+<entry>astringency</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An astringency reducing agent comprising an arabinogalactan which has a molecular weight of from 10,000 to 1,000,000 and a ratio of 1,3-bound galactose to total galactose of 12 mol % or more, as an active ingredient.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The astringency reducing agent according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the ratio of 1,3-bound galactose to total galactose is from 18 to 70 mol %.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The astringency reducing agent according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the molecular weight is from 10,000 to 500,000.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The astringency reducing agent according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein astringency from polyphenol is reduced.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The astringency reducing agent according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the polyphenol comprises a non-polymeric catechin.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. A method for reducing astringency, comprising blending the astringency reducing agent according to <claim-ref idref="CLM-00001">claim 1</claim-ref> into an oral product comprising an astringent substance.</claim-text>
+</claim>
+<claim id="CLM-07-16" num="07-16">
+<claim-text><b>7</b>-<b>16</b>. (canceled)</claim-text>
+</claim>
+</claims>
+</us-patent-application>

@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225626A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225626</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17742551</doc-number>
+<date>20220512</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>TW</country>
+<doc-number>111102497</doc-number>
+<date>20220120</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>05</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>05</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">NONCONTACT VITAL SIGN SENSING DEVICE</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>National Kaohsiung University of Science and Technology</orgname>
+<address>
+<city>Kaohsiung City</city>
+<country>TW</country>
+</address>
+</addressbook>
+<residence>
+<country>TW</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Peng</last-name>
+<first-name>Kang-Chun</first-name>
+<address>
+<city>Kaohsiung City</city>
+<country>TW</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Horng</last-name>
+<first-name>Tzyy-Sheng</first-name>
+<address>
+<city>Kaohsiung City</city>
+<country>TW</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Wang</last-name>
+<first-name>Fu-Kang</first-name>
+<address>
+<city>Kaohsiung City</city>
+<country>TW</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Sung</last-name>
+<first-name>Meng-Che</first-name>
+<address>
+<city>New Taipei City</city>
+<country>TW</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">In a noncontact vital sign sensing device of the present invention, a gain detector is provided to detect a gain between an oscillation signal and a received signal. Gain detection can cancel out the amplitude noise of an oscillator such that frequency information of vital sign(s) of a subject can be extracted from the gain without null-point issue, and vital sign(s) of the subject located at any position within sensing range can be detected.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="85.26mm" wi="158.75mm" file="US20230225626A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="170.52mm" wi="136.31mm" orientation="landscape" file="US20230225626A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="217.34mm" wi="132.08mm" orientation="landscape" file="US20230225626A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="144.70mm" wi="112.52mm" orientation="landscape" file="US20230225626A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="221.15mm" wi="102.36mm" orientation="landscape" file="US20230225626A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">This invention generally relates to a vital sign sensing device, and more particularly to a noncontact vital sign sensing device.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">There are two types of conventional vital-sign sensor, contact type and noncontact type. The contact type vital-sign sensor has to contact subject's skin for a long time and be connected to electric wire, it causes the subject to feel uncomfortable and inconvenient, thus the noncontact type vital-sign sensor is current research focus. Doppler radar is the wide-used noncontact vital-sign sensor, Subject's body movement causes phase modulation on radar signals, and vital signs of the subject can be detected after phase demodulation of the radar signals. Single channel signals of the Doppler radar are usually phase-demodulated using a small angle approximation, but null detection point may be generated at the position of 4&#x3c0;/&#x3bb;. Although dual-baseband channel demodulation can solve the null-point problem, it may increase the complexity of the software and hardware.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0004" num="0003">One object of the present invention is to detect a gain between an oscillation signal and a received signal using a gain detector, and the gain is provided for sensing vital sign(s) of a subject.</p>
+<p id="p-0005" num="0004">A noncontact vital sign sensing device includes an oscillator, a transmit antenna, a receive antenna, a gain detector and a data acquisition unit. The oscillator outputs an oscillation signal. The transmit antenna is coupled to the oscillator to receive the oscillation signal and transmits the oscillation signal to a subject as a transmitted signal, a reflected signal is reflected from the subject. The receive antenna receives the reflected signal as a received signal. The gain detector is coupled to the oscillator and the receive antenna to receive the oscillation signal and the received signal and detects a gain of the oscillation signal relative to the received signal. The data acquisition unit is electrically connected to the gain detector to receive the gain and outputs a vital sign of the subject according to the gain.</p>
+<p id="p-0006" num="0005">The gain detector of the present invention is provided to detect the gain between the oscillation signal and the received signal so as to prevent the amplitude noise of the oscillator from affecting vital sign detection. Furthermore, the vital sign of the subject can be extracted from the gain directly without the concern of null detection points.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0007" num="0006"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a block diagram illustrating a noncontact vital sign sensing device in accordance with a first embodiment of the present invention.</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a block diagram illustrating a noncontact vital sign sensing device in accordance with a second embodiment of the present invention.</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a circuit diagram illustrating a demodulator of the noncontact vital sign sensing device in accordance with the second embodiment of the present invention.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is spectra measured using the noncontact vital sign sensing device in accordance with the second embodiment of the present invention and a conventional vital-sign sensor.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0011" num="0010">With reference to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, a noncontact vital sign sensing device <b>100</b> in accordance with a first embodiment of the present invention includes an oscillator <b>110</b>, a transmit (Tx) antenna <b>120</b>, a receive (Rx) antenna <b>130</b>, a gain detector <b>140</b>, a data acquisition unit <b>150</b> and a first power splitter <b>160</b>.</p>
+<p id="p-0012" num="0011">In this embodiment, the oscillator <b>110</b> is a voltage-controlled oscillator which receives a control voltage (not shown) to output an oscillation signal S<sub>o </sub>from an output port <b>111</b>. The amplitude of the oscillation signal S<sub>o </sub>can be expressed as</p>
+<p id="p-0013" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>V</i><sub>o</sub>(<i>s</i>)=<i>V</i><sub>osc</sub><i>+V</i><sub>n,osc</sub>(<i>s</i>)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0014" num="0000">where V<sub>o </sub>(s) represents the Laplace transform of the amplitude of the oscillation signal S<sub>o</sub>, V<sub>osc </sub>represents the amplitude of the oscillator <b>110</b>, V<sub>n,osc</sub>(s) represents the Laplace transform of the amplitude noise of the oscillator <b>110</b>. The first power splitter <b>160</b> is electrically connected to the oscillator <b>110</b> to receive the oscillation signal S<sub>o </sub>and is provided to split the oscillation signal S<sub>o </sub>into two parts. The Tx antenna <b>120</b> is electrically connected to the first power splitter <b>160</b> to receive one part of the oscillation signal S<sub>o </sub>and transmits the received oscillation signal S<sub>o </sub>to a subject as a transmitted signal S<sub>T</sub>, and a reflected signal S<sub>R </sub>is reflected from the subject S.</p>
+<p id="p-0015" num="0012">The reflected signal S<sub>R </sub>is received by the Rx antenna <b>130</b> as a received signal S<sub>r</sub>, and the amplitude of the received signal S<sub>r </sub>is expressed as</p>
+<p id="p-0016" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <msub>
+    <mi>V</mi>
+    <mrow>
+     <mi>R</mi>
+     <mo>&#x2062;</mo>
+     <mi>x</mi>
+    </mrow>
+   </msub>
+   <mo>(</mo>
+   <mi>s</mi>
+   <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>V</mi>
+      <mi>O</mi>
+     </msub>
+     <mo>(</mo>
+     <mi>s</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo>&#x2062;</mo>
+    <mfrac>
+     <msub>
+      <mi>G</mi>
+      <mi>a</mi>
+     </msub>
+     <mrow>
+      <msup>
+       <mi>R</mi>
+       <mn>2</mn>
+      </msup>
+      <mo>(</mo>
+      <mi>s</mi>
+      <mo>)</mo>
+     </mrow>
+    </mfrac>
+   </mrow>
+   <mo>=</mo>
+   <mrow>
+    <mrow>
+     <mo>[</mo>
+     <mrow>
+      <msub>
+       <mi>V</mi>
+       <mrow>
+        <mi>o</mi>
+        <mo>&#x2062;</mo>
+        <mi>s</mi>
+        <mo>&#x2062;</mo>
+        <mi>c</mi>
+       </mrow>
+      </msub>
+      <mo>+</mo>
+      <mrow>
+       <msub>
+        <mi>V</mi>
+        <mrow>
+         <mi>n</mi>
+         <mo>,</mo>
+         <mrow>
+          <mi>o</mi>
+          <mo>&#x2062;</mo>
+          <mi>s</mi>
+          <mo>&#x2062;</mo>
+          <mi>c</mi>
+         </mrow>
+        </mrow>
+       </msub>
+       <mo>(</mo>
+       <mi>s</mi>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+     <mo>]</mo>
+    </mrow>
+    <mo>&#x2062;</mo>
+    <mfrac>
+     <msub>
+      <mi>G</mi>
+      <mi>a</mi>
+     </msub>
+     <mrow>
+      <msup>
+       <mi>R</mi>
+       <mn>2</mn>
+      </msup>
+      <mo>(</mo>
+      <mi>s</mi>
+      <mo>)</mo>
+     </mrow>
+    </mfrac>
+   </mrow>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0017" num="0000">where</p>
+<p id="p-0018" num="0000">
+<maths id="MATH-US-00002" num="00002">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mrow>
+    <msub>
+     <mi>G</mi>
+     <mi>a</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+     <mrow>
+      <mi>G</mi>
+      <mo>&#x2062;</mo>
+      <mi>&#x3bb;</mi>
+      <mo>&#x2062;</mo>
+      <msqrt>
+       <mi>&#x3c3;</mi>
+      </msqrt>
+      <mo>&#x2062;</mo>
+      <msup>
+       <mi>F</mi>
+       <mn>2</mn>
+      </msup>
+     </mrow>
+     <mrow>
+      <mn>4</mn>
+      <mo>&#x2062;</mo>
+      <msup>
+       <mi>&#x3c0;</mi>
+       <mrow>
+        <mn>3</mn>
+        <mo>/</mo>
+        <mn>2</mn>
+       </mrow>
+      </msup>
+     </mrow>
+    </mfrac>
+   </mrow>
+   <mtext>   </mtext>
+  </mrow>
+  <mo>&#x2062;</mo>
+  <mtext>
+</mtext>
+  <mrow>
+   <mrow>
+    <mi>R</mi>
+    <mo>&#x2061;</mo>
+    <mo>(</mo>
+    <mi>s</mi>
+    <mo>)</mo>
+   </mrow>
+   <mo>=</mo>
+   <mrow>
+    <mi>L</mi>
+    <mo>+</mo>
+    <mrow>
+     <msub>
+      <mi>x</mi>
+      <mi>b</mi>
+     </msub>
+     <mo>(</mo>
+     <mi>s</mi>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0019" num="0000">V<sub>RX</sub>(s) represents the Laplace transform of the amplitude of the received signal S<sub>r</sub>, G is the gain of the Rx antenna <b>130</b>, A is the wavelength of the received signal S<sub>r</sub>, o is the radar cross section, F is the pattern propagation factor, L is the distance between the subject S and the noncontact vital sign sensing device <b>100</b>, and x<sub>b</sub>(s) represents the Laplace transform of the vibration caused by vital sign(s) of the subject S.</p>
+<p id="p-0020" num="0013">The gain detector <b>140</b> is electrically connected to the first power splitter <b>160</b> and the Rx antenna <b>130</b> so as to receive the other part of the oscillation signal S<sub>o </sub>from the first power splitter <b>160</b> and receive the received signal S<sub>r </sub>from the Rx antenna <b>130</b>. And the gain detector <b>140</b> is provided to detect a gain GD of the oscillation signal S<sub>o </sub>relative to the received signal S<sub>r</sub>, the amplitude of the gain GD obtained by the gain detector <b>140</b> is expressed as</p>
+<p id="p-0021" num="0000">
+<maths id="MATH-US-00003" num="00003">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <msub>
+    <mi>V</mi>
+    <mrow>
+     <mi>G</mi>
+     <mo>&#x2062;</mo>
+     <mi>D</mi>
+    </mrow>
+   </msub>
+   <mo>(</mo>
+   <mi>s</mi>
+   <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+   <mrow>
+    <msub>
+     <mi>K</mi>
+     <mi>gd</mi>
+    </msub>
+    <mo>&#x2062;</mo>
+    <mi>log</mi>
+    <mo>&#x2062;</mo>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mi>V</mi>
+       <mi>O</mi>
+      </msub>
+      <mo>(</mo>
+      <mi>s</mi>
+      <mo>)</mo>
+     </mrow>
+     <mrow>
+      <msub>
+       <mi>V</mi>
+       <mrow>
+        <mi>R</mi>
+        <mo>&#x2062;</mo>
+        <mi>x</mi>
+       </mrow>
+      </msub>
+      <mo>(</mo>
+      <mi>s</mi>
+      <mo>)</mo>
+     </mrow>
+    </mfrac>
+   </mrow>
+   <mo>=</mo>
+   <mrow>
+    <mrow>
+     <mn>2</mn>
+     <mo>&#x2062;</mo>
+     <msub>
+      <mi>K</mi>
+      <mi>gd</mi>
+     </msub>
+     <mo>&#x2062;</mo>
+     <mi>log</mi>
+     <mo>&#x2062;</mo>
+     <mrow>
+      <mi>R</mi>
+      <mo>&#x2061;</mo>
+      <mo>(</mo>
+      <mi>s</mi>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+    <mo>-</mo>
+    <mrow>
+     <msub>
+      <mi>K</mi>
+      <mi>gd</mi>
+     </msub>
+     <mo>&#x2062;</mo>
+     <mi>log</mi>
+     <mo>&#x2062;</mo>
+     <msub>
+      <mi>G</mi>
+      <mi>a</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0022" num="0000">where V<sub>GD </sub>(s) represents the Laplace transform of the amplitude of the gain GD, K<sub>gd </sub>represents the sensitivity of the gain detector <b>140</b>. It can be seen that V<sub>n,osc </sub>(the amplitude of the oscillator <b>110</b>) is cancelled out to get R (s) and G<sub>&#x3b1;</sub>. Accordingly, V<sub>n,osc </sub>(the amplitude of the oscillator <b>110</b>) is prevented from affecting the detection of vital sign(s), and vital sign(s) of the subject S can be obtained using the gain GD.</p>
+<p id="p-0023" num="0014">In this embodiment, the data acquisition unit <b>150</b> is electrically connected to the gain detector <b>140</b> to receive the gain GD and is provided to output a vital sign S<sub>v </sub>of the subject S according to the gain GD. The equation of the vital sign S<sub>v </sub>obtained by the data acquisition unit <b>150</b> is shown as</p>
+<p id="p-0024" num="0000">
+<maths id="MATH-US-00004" num="00004">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <msub>
+    <mi>V</mi>
+    <mrow>
+     <mi>B</mi>
+     <mo>&#x2062;</mo>
+     <mi>B</mi>
+    </mrow>
+   </msub>
+   <mo>(</mo>
+   <mi>s</mi>
+   <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+   <mrow>
+    <mn>1</mn>
+    <mo>&#x2062;</mo>
+    <msup>
+     <mn>0</mn>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>V</mi>
+        <mrow>
+         <mi>G</mi>
+         <mo>&#x2062;</mo>
+         <mi>D</mi>
+        </mrow>
+       </msub>
+       <mo>(</mo>
+       <mi>s</mi>
+       <mo>)</mo>
+      </mrow>
+      <mrow>
+       <mn>2</mn>
+       <mo>&#x2062;</mo>
+       <msub>
+        <mi>K</mi>
+        <mrow>
+         <mi>g</mi>
+         <mo>&#x2062;</mo>
+         <mi>d</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+    </msup>
+   </mrow>
+   <mo>=</mo>
+   <mfrac>
+    <mrow>
+     <mo>[</mo>
+     <mrow>
+      <mi>L</mi>
+      <mo>+</mo>
+      <mrow>
+       <msub>
+        <mi>x</mi>
+        <mi>b</mi>
+       </msub>
+       <mo>(</mo>
+       <mi>s</mi>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+     <mo>]</mo>
+    </mrow>
+    <msqrt>
+     <msub>
+      <mi>G</mi>
+      <mi>a</mi>
+     </msub>
+    </msqrt>
+   </mfrac>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0025" num="0000">where V<sub>BB </sub>(s) represents the Laplace transform of the amplitude of the vital sign S<sub>v</sub>. The vibration caused by vital sign of the subject S is the only variable, and after filtering the dc term of V<sub>BB</sub>(s), frequency information associated with heartbeat and respiration of the subject S can be extracted from signals for vital sign detection.</p>
+<p id="p-0026" num="0015">In this embodiment, the gain GD between the oscillation signal S<sub>o </sub>and the received signal S<sub>r </sub>detected by the gain detector <b>140</b> can be used to eliminate the amplitude noise of the oscillator <b>110</b> during vital sign sensing, and the vital sign S<sub>v </sub>of the subject S can be extracted from the gain GD without null-point issue. Consequently, the vital sign S<sub>v </sub>of the subject S located at any distance from the noncontact vital sign sensing device <b>100</b> can be detected.</p>
+<p id="p-0027" num="0016"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a circuit diagram showing a noncontact vital sign sensing device <b>100</b> of a second embodiment of the present invention. Compared with the first embodiment, the noncontact vital sign sensing device <b>100</b> of the second embodiment further includes a phase detector <b>170</b>, a loop filter <b>180</b>, a demodulator <b>190</b>, a second power splitter <b>210</b> and a third power splitter <b>220</b>. In the second embodiment, the oscillation signal S<sub>o </sub>is received and divided into three parts by the first power splitter <b>160</b> and delivered to the gain detector <b>140</b>, the demodulator <b>190</b> and the second power splitter <b>210</b>, respectively. One part of the oscillation signal S<sub>o </sub>received by the second power splitter <b>210</b> is split into two parts and delivered to the Tx antenna <b>120</b> and the phase detector <b>170</b>, respectively. The third power splitter <b>220</b> electrically connected to the Rx antenna <b>130</b> receives and split the received signal S<sub>r </sub>into two parts. Two parts of the received signal S<sub>r </sub>are delivered to the phase detector <b>170</b> and the gain detector <b>140</b>, respectively.</p>
+<p id="p-0028" num="0017">The phase detector <b>170</b> receives the oscillation signal S<sub>o </sub>and the received signal S<sub>r </sub>from the second power splitter <b>210</b> and the third power splitter <b>220</b> and detects a phase difference between the oscillation signal S<sub>o </sub>and the received signal S<sub>r </sub>to output a phase detection signal Sp. The loop filter <b>180</b>, which is electrically connected to the phase detector <b>170</b>, receives and filter the phase detection signal Sp to output a feedback signal S<sub>fb </sub>to a tuning port <b>112</b> of the oscillator <b>110</b>. The demodulator <b>190</b> receives the oscillation signal S<sub>o </sub>from the first power splitter <b>160</b> and outputs a demodulated signal S<sub>D </sub>to the data acquisition unit <b>150</b>. And the data acquisition unit <b>150</b> outputs the vital sign S<sub>v </sub>according to the gain GD and the demodulated signal S<sub>D</sub>.</p>
+<p id="p-0029" num="0018">As the subject S has body movement(s) with respect to the Tx antenna <b>120</b>, e.g. chest displacement as a result of respiration and heartbeat, the relative motion between the subject S and the Tx antenna <b>120</b> may induce the Doppler effect on the transmitted signal S<sub>T </sub>so as to lead the reflected signal S<sub>R </sub>and the received signal S<sub>r </sub>contain the Doppler phase shift caused by the movement of the subject S. After filtering high-frequency component in the phase detection signal Sp output from the phase detector <b>170</b> by the loop filter <b>180</b>, the feedback signal S<sub>fb </sub>containing low-frequency component is the Doppler phase shift caused by the relative motion between the subject S and the Tx antenna <b>120</b>. The feedback signal S<sub>fb </sub>is fed back into the tuning port <b>112</b> of the oscillator <b>110</b> to cause frequency shift of the oscillator <b>110</b>, accordingly, the body movement of the subject S can be detected by measurement of the frequency shift of the oscillator <b>110</b>. Moreover, due to the oscillator <b>110</b> has high tuning sensitivity, the vital sign S<sub>v </sub>of the subject S located at any position within the sensing range can be detected by phase detection using the phase detector <b>170</b> without null-point issues.</p>
+<p id="p-0030" num="0019">In the second embodiment, the oscillator <b>110</b>, the Tx antenna <b>120</b>, the time delay from the Tx antenna <b>120</b> to the subject S, the time delay from the subject S to the Rx antenna <b>130</b>, the phase detector <b>170</b> and the loop filter <b>180</b> compose a wireless frequency-locked loop, accordingly, the body movement of the subject S can be detected using the frequency shift of the oscillator <b>110</b>. Moreover, the delay of the delay unit in the wireless frequency-locked loop is positively correlative to phase noise suppression so the time delay from the Tx antenna <b>120</b> to the subject S and the time delay from the subject S to the Rx antenna <b>130</b> in this embodiment are used as the delay unit of the wireless frequency-locked loop, and the phase noise suppression is greater as the subject S is farther away from the noncontact vital sign sensing device <b>100</b>. The sensitivity of the noncontact vital sign sensing device <b>100</b> corresponding to the body movement of the subject S will not be decreased obviously even if the distance between the subject S and the noncontact vital signs sensing device <b>100</b> is increased.</p>
+<p id="p-0031" num="0020">With reference to <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref>, the demodulator <b>190</b> is provided to frequency-modulate the oscillation signal S<sub>o </sub>to obtain the vital sign S<sub>v </sub>of the subject S. In the second embodiment, the demodulator <b>190</b> includes a fourth power splitter <b>191</b>, a fifth power splitter <b>192</b>, a delay unit <b>193</b>, a quadrature power splitter <b>192</b>, a first mixer <b>195</b>, a second mixer <b>196</b> and an arctangent demodulation unit <b>197</b>. The fourth power splitter <b>191</b> is electrically connected to the first power splitter <b>160</b> to receive and split the oscillation signal S<sub>o </sub>into two parts. The delay unit <b>193</b> is electrically connected to the fourth power splitter <b>191</b> to receive one part of the oscillation signal S<sub>o </sub>and thus outputs a delayed signal S<sub>dy</sub>. The quadrature power splitter <b>194</b> is electrically connected to the delay unit <b>193</b> to receive the delayed signal S<sub>dy </sub>and is provided to output an in-phase signal 0&#xb0; and a quadrature signal 90&#xb0;. The fifth power splitter <b>192</b> is electrically connected to the fourth power splitter <b>191</b> to receive the other part of the oscillation signal S<sub>o </sub>and is provided to split the received oscillation signal S<sub>o </sub>into two parts. The first mixer <b>195</b> is electrically connected to the fifth power splitter <b>192</b> and the quadrature power splitter <b>194</b> to receive one part of the oscillation signal S<sub>o </sub>and the in-phase signal 0&#xb0; and thus output an in-phase mixed signal I. The second mixer <b>196</b> is electrically connected to the fifth power splitter <b>192</b> and the quadrature power splitter <b>194</b> to receive the other part of the oscillation signal S<sub>o </sub>and the quadrature signal 90&#xb0; and output a quadrature mixed signal Q. The arctangent demodulation unit <b>197</b> is electrically connected to the first mixer <b>195</b> and the second mixer <b>196</b> to receive the in-phase mixed signal I and the quadrature mixed signal Q, and quadrature-demodulates the in-phase signal I and the quadrature mixed signal Q to output the demodulated signal S<sub>D</sub>, which involves the frequency information of the vital sign S<sub>v </sub>of the subject S, to the data acquisition unit <b>150</b>.</p>
+<p id="p-0032" num="0021">With reference to <figref idref="DRAWINGS">FIG. <b>2</b></figref>, both of the gain GD and the demodulated signal S<sub>D </sub>involve the frequency information of the vital sign S<sub>v </sub>of the subject S, accordingly, after receiving the gain GD and the demodulated signal S<sub>D</sub>, the data acquisition unit <b>150</b> superposes the gain GD and the demodulated signal S<sub>D </sub>into the vital sign S<sub>v</sub>. Consequently, the strength of the vital sign S<sub>v </sub>and the noise suppression can be enhanced to enhance the signal-to-noise ratio of the vital sign S<sub>v</sub>.</p>
+<p id="p-0033" num="0022">Preferably, for better signal-to-noise ratio, the data acquisition unit <b>150</b> superposes the gain GD and the demodulated signal S<sub>D </sub>into the vital sign S<sub>v </sub>by applying a cross correlation function (CCF) which is shown as</p>
+<p id="p-0034" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>S</i><sub>&#x3d5;v</sub>(<i>s</i>)=<i>S</i><sub>&#x3d5;,BB</sub>(<i>s</i>)<i>S</i><sub>V,BB</sub>(<i>s</i>)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0035" num="0000">where S<sub>&#x3d5;v </sub>(s) represents the Laplace transform of the power spectrum density (PSD) of the vital sign S<sub>v </sub>obtained by applying a CCF, S<sub>&#x3d5;,BB</sub>(s) represents the Laplace transform of PSD of the demodulated signal S<sub>D</sub>, and S<sub>v,BB</sub>(s) represents PSD of V<sub>BB</sub>(s) after filtering dc term.</p>
+<p id="p-0036" num="0023">Spectra measured using the noncontact vital sign sensing device <b>100</b> of the second embodiment of the present invention and a conventional vital-sign sensor (Vernier GDX-RB chest belt) is shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the subject S was located at a distance of 1.5 m away and talked with others. Speaking caused vibrations in the chest thus remarkable harmonics can be found in the spectrum measured using the wireless frequency-locked loop with phase detector only, by contrast, regardless of the cross correlation function (CCF), there are less harmonics of vital signs in the spectrum obtained by mixing the signals detected by the gain detector <b>140</b> and the phase detector <b>170</b>. The noncontact vital sign sensing device <b>100</b> including the gain detector <b>140</b> and the phase detector <b>170</b> can provide better signal-to-noise ratio of vital sign caused by weak heartbeat than the conventional vital-sign sensor, the noncontact vital sign sensing device <b>100</b> has excellent sensitivity for vital sign detection.</p>
+<p id="p-0037" num="0024">While this invention has been particularly illustrated and described in detail with respect to the preferred embodiments thereof, it will be clearly understood by those skilled in the art that is not limited to the specific features shown and described and various modified and changed in form and details may be made without departing from the spirit and scope of this invention.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20230225626A1-20230720-M00001.NB">
+<img id="EMI-M00001" he="6.35mm" wi="76.20mm" file="US20230225626A1-20230720-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US20230225626A1-20230720-M00002.NB">
+<img id="EMI-M00002" he="10.58mm" wi="76.20mm" file="US20230225626A1-20230720-M00002.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00003" nb-file="US20230225626A1-20230720-M00003.NB">
+<img id="EMI-M00003" he="6.01mm" wi="76.20mm" file="US20230225626A1-20230720-M00003.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00004" nb-file="US20230225626A1-20230720-M00004.NB">
+<img id="EMI-M00004" he="7.79mm" wi="76.20mm" file="US20230225626A1-20230720-M00004.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00005" nb-file="US20230225626A1-20230720-M00005.NB">
+<img id="EMI-M00005" he="6.01mm" wi="76.20mm" file="US20230225626A1-20230720-M00005.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00006" nb-file="US20230225626A1-20230720-M00006.NB">
+<img id="EMI-M00006" he="5.25mm" wi="76.20mm" file="US20230225626A1-20230720-M00006.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A noncontact vital sign sensing device comprising:
+<claim-text>an oscillator configured to output an oscillation signal;</claim-text>
+<claim-text>a transmit antenna coupled to the oscillator and configured to receive and transmit the oscillation signal to a subject as a transmitted signal, a reflected signal is configured to be reflected from the subject;</claim-text>
+<claim-text>a receive antenna configured to receive the reflected signal as a received signal;</claim-text>
+<claim-text>a gain detector coupled to the oscillator and the receive antenna and configured to receive the oscillation signal and the received signal and configured to detect a gain of the oscillation signal relative to the received signal; and</claim-text>
+<claim-text>a data acquisition unit electrically connected to the gain detector and configured to receive the gain and output a vital sign of the subject according to the gain.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The noncontact vital sign sensing device in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the gain is represented by an equation as follows:</claim-text>
+<claim-text>
+<maths id="MATH-US-00005" num="00005">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <msub>
+    <mi>V</mi>
+    <mrow>
+     <mi>G</mi>
+     <mo>&#x2062;</mo>
+     <mi>D</mi>
+    </mrow>
+   </msub>
+   <mo>(</mo>
+   <mi>s</mi>
+   <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+   <msub>
+    <mi>K</mi>
+    <mi>gd</mi>
+   </msub>
+   <mo>&#x2062;</mo>
+   <mi>log</mi>
+   <mo>&#x2062;</mo>
+   <mfrac>
+    <mrow>
+     <msub>
+      <mi>V</mi>
+      <mrow>
+       <mi>T</mi>
+       <mo>&#x2062;</mo>
+       <mi>x</mi>
+      </mrow>
+     </msub>
+     <mo>(</mo>
+     <mi>s</mi>
+     <mo>)</mo>
+    </mrow>
+    <mrow>
+     <msub>
+      <mi>V</mi>
+      <mrow>
+       <mi>R</mi>
+       <mo>&#x2062;</mo>
+       <mi>x</mi>
+      </mrow>
+     </msub>
+     <mo>(</mo>
+     <mi>s</mi>
+     <mo>)</mo>
+    </mrow>
+   </mfrac>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+<claim-text>where V<sub>GD</sub>(s) represents an amplitude of the gain, K<sub>gd </sub>represents a sensitivity of the gain detector, V<sub>TX</sub>(s) represents an amplitude of the oscillation signal, and V<sub>RX</sub>(s) represents an amplitude of the received signal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The noncontact vital sign sensing device in accordance with <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the vital sign obtained by the data acquisition unit is represented by an equation as follows:</claim-text>
+<claim-text>
+<maths id="MATH-US-00006" num="00006">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <msub>
+    <mi>V</mi>
+    <mrow>
+     <mi>B</mi>
+     <mo>&#x2062;</mo>
+     <mi>B</mi>
+    </mrow>
+   </msub>
+   <mo>(</mo>
+   <mi>s</mi>
+   <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+   <mn>1</mn>
+   <mo>&#x2062;</mo>
+   <msup>
+    <mn>0</mn>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mi>V</mi>
+       <mrow>
+        <mi>G</mi>
+        <mo>&#x2062;</mo>
+        <mi>D</mi>
+       </mrow>
+      </msub>
+      <mo>(</mo>
+      <mi>s</mi>
+      <mo>)</mo>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+      <mo>&#x2062;</mo>
+      <msub>
+       <mi>K</mi>
+       <mrow>
+        <mi>g</mi>
+        <mo>&#x2062;</mo>
+        <mi>d</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+   </msup>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+<claim-text>where V<sub>BB</sub>(s) represents an amplitude of the vital sign.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The noncontact vital sign sensing device in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a first power splitter, wherein the first power splitter is electrically connected to the oscillator and configured to receive and split the oscillation signal into two parts, one part of the oscillation signal is configured to be delivered to the transmit antenna and the other part of the oscillation signal is configured to be delivered to the gain detector.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The noncontact vital sign sensing device in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a phase detector, a loop filter and a demodulator, wherein the phase detector is coupled to the oscillator and the receive antenna and configured to detect a phase difference between the oscillation signal and the received signal and output a phase detection signal, the loop filter is electrically connected to the phase detector and configured to receive the phase detection signal and output a feedback signal to a tuning port of the oscillator, the demodulator is coupled to the oscillator and configured to receive the oscillation signal and output a demodulated signal to the data acquisition unit, the data acquisition unit is configured to output the vital sign according the gain and the demodulated signal.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The noncontact vital sign sensing device in accordance with <claim-ref idref="CLM-00005">claim 5</claim-ref> further comprising a first power splitter, a second power splitter and a third power splitter, wherein the first power splitter is electrically connected to the oscillator and configured to receive and split the oscillation signal into three parts, the gain detector, the second power splitter and the demodulator are electrically connected to the first power splitter and configured to receive three parts of the oscillation signal, respectively, the second power splitter is configured to split the received oscillation signal into two parts, the transmit antenna and the phase detector are electrically connected to the second power splitter and configured to receive two parts of the oscillation signal, respectively, the third power splitter is electrically connected to the receive antenna and configured to receive and split the received signal into two parts, the phase detector and the gain detector are electrically connected to the third power splitter and configured to receive two parts of the received signal, respectively.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The noncontact vital sign sensing device in accordance with <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the demodulator includes a delay unit, a quadrature power splitter, a first mixer, a second mixer and an arctangent demodulation unit, the delay unit is coupled to the oscillator and configured to receive the oscillation signal and output a delayed signal, the quadrature power splitter is electrically connected to the delay unit and configured to receive the delayed signal and output an in-phase signal and a quadrature signal, the first mixer is coupled to the oscillator and the quadrature power splitter and configured to receive the oscillation signal and the in-phase signal and output an in-phase mixed signal, the second mixer is coupled to the oscillator and the quadrature power splitter and configured to receive the oscillation signal and the quadrature signal and output a quadrature mixed signal, the arctangent demodulation unit is electrically connected to the first mixer and the second mixer and configured to receive the in-phase mixed signal and the quadrature mixed signal and output the demodulated signal to the data acquisition unit.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The noncontact vital sign sensing device in accordance with <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the demodulator includes a fourth power splitter, a fifth power splitter, a delay unit, a quadrature power splitter, a first mixer, a second mixer and an arctangent demodulation unit, the fourth power splitter is electrically connected to the first power splitter and configured to receive and split the oscillation signal into two parts, the delay unit is coupled to the oscillator and configured to receive the oscillation signal and output a delayed signal, the quadrature power splitter is electrically connected to the delay unit and configured to receive the delayed signal and output an in-phase signal and a quadrature signal, the first mixer is coupled to the oscillator and the quadrature power splitter and configured to receive the oscillation signal and the in-phase signal and output an in-phase mixed signal, the second mixer is coupled to the oscillator and the quadrature power splitter and configured to receive the oscillation signal and the quadrature signal and output a quadrature mixed signal, the arctangent demodulation unit is electrically connected to the first mixer and the second mixer and configured to receive the in-phase mixed signal and the quadrature mixed signal and output the demodulated signal to the data acquisition unit.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

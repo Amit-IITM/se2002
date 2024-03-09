@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225383A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225383</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18009391</doc-number>
+<date>20210609</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>FI</country>
+<doc-number>20205616</doc-number>
+<date>20200612</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>29</main-group>
+<subgroup>30</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>27</main-group>
+<subgroup>30</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>20</main-group>
+<subgroup>163</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>10</main-group>
+<subgroup>30</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>29</main-group>
+<subgroup>30</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>27</main-group>
+<subgroup>33</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160501</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>20</main-group>
+<subgroup>163</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160501</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>K</subclass>
+<main-group>10</main-group>
+<subgroup>30</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">A HARDWOOD-DERIVED CARBOHYDRATE COMPOSITION</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>UPM-KYMMENE CORPORATION</orgname>
+<address>
+<city>Helsinki</city>
+<country>FI</country>
+</address>
+</addressbook>
+<residence>
+<country>FI</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Tamper</last-name>
+<first-name>Juha</first-name>
+<address>
+<city>Levanen</city>
+<country>FI</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Turunen</last-name>
+<first-name>Sami</first-name>
+<address>
+<city>Lappeenranta</city>
+<country>FI</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Laitila</last-name>
+<first-name>Mika</first-name>
+<address>
+<city>Hameenlinna</city>
+<country>FI</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Ventola</last-name>
+<first-name>Meri</first-name>
+<address>
+<city>Leipzig</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>Salminen</last-name>
+<first-name>Jere</first-name>
+<address>
+<city>Lappeenranta</city>
+<country>FI</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>Nissinen</last-name>
+<first-name>Vilho</first-name>
+<address>
+<city>Vehkataipale</city>
+<country>FI</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/FI2021/050429</doc-number>
+<date>20210609</date>
+</document-id>
+<us-371c12-date><date>20221209</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A hardwood-derived carbohydrate composition is disclosed. The hardwood-derived carbohydrate composition comprises monomeric sugars in an amount of 50-80 weight-% based on the total dry matter content of the carbohydrate composition, wherein the monomeric sugars include monomeric glucose and monomeric xylose, the amount of monomeric xylose in the carbohydrate composition being 40-60 weight-% based on the total dry matter content of the carbohydrate composition, and the weight ratio of monomeric glucose to monomeric xylose being 0.067-0.2. Disclosed is also a method for producing a wood-derived carbohydrate composition.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="194.48mm" wi="158.75mm" file="US20230225383A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="226.40mm" wi="165.61mm" file="US20230225383A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present disclosure relates to a hardwood-derived carbohydrate composition comprising monomeric sugars. Further, the present disclosure relates to a method for producing a hardwood-derived carbohydrate composition. Further, the present disclosure relates to the use of the hardwood-derived carbohydrate composition.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Different methods are known for converting biobased raw material, such as lignocellulosic biomass, into a liquid stream of various sugars. Being able to provide sufficiently pure carbohydrate composition with properties suitable for further applications, such a production of mono-ethylene glycol or ethanol, has still remained as a task for researchers.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0004" num="0003">A hardwood-derived carbohydrate composition is disclosed. The hardwood-derived carbohydrate composition may comprise monomeric sugars in an amount of 50-80 weight-% based on the total dry matter content of the carbohydrate composition. The monomeric sugars may include monomeric glucose and monomeric xylose, the amount of monomeric xylose in the carbohydrate composition may be 40-60 weight-% based on the total dry matter content of the carbohydrate composition, and the weight ratio of monomeric glucose to monomeric xylose may be 0.067-0.2.</p>
+<p id="p-0005" num="0004">A method for producing a hardwood-derived carbohydrate composition is also disclosed. The method may comprise:</p>
+<p id="p-0006" num="0005">i) providing a wood-based feedstock originating from wood-based raw material and comprising wood chips, wherein the wood chips are hardwood chips,</p>
+<p id="p-0007" num="0006">ii) subjecting the wood-based feedstock to a pretreatment to form a slurry, wherein the pretreatment comprises:</p>
+<p id="p-0008" num="0007">iia) subjecting the wood-based feedstock to an impregnation treatment with an impregnation liquid comprising sulphuric acid;</p>
+<p id="p-0009" num="0008">iib) subjecting the impregnated wood-based feedstock to steam explosion treatment to form steam-treated wood-based feedstock, wherein the amount of sulphuric acid in the steam explosion treatment is 0.10-0.75 weight-% based on the total dry matter content of the wood-based feedstock;</p>
+<p id="p-0010" num="0009">iic) mixing the steam-treated wood-based feedstock from iib) with a liquid to form the slurry;</p>
+<p id="p-0011" num="0010">iii) separating the slurry into a liquid fraction and a fraction comprising solid cellulose particles by a solid-liquid separation process to recover the liquid fraction as the hardwood-derived carbohydrate composition.</p>
+<p id="p-0012" num="0011">Further is disclosed a hardwood-derived carbohydrate composition obtainable by the method as disclosed in the current specification.</p>
+<p id="p-0013" num="0012">Further is disclosed the use of the hardwood-derived carbohydrate composition as disclosed in the current specification for the production of a fermentation product, a sweetener, or animal feed.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0014" num="0013">The accompanying drawing, which is included to provide a further understanding of the embodiments and constitute a part of this specification, illustrates an embodiment. In the drawing:</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>1</b></figref> presents a flow chart of one embodiment of the method for producing a hardwood-derived carbohydrate composition.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0016" num="0015">A hardwood-derived carbohydrate composition is disclosed. The hardwood-derived carbohydrate composition may comprise monomeric sugars in an amount of 50-80 weight-% based on the total dry matter content of the carbohydrate composition. The monomeric sugars may include monomeric glucose and monomeric xylose, the amount of monomeric xylose in the carbohydrate composition may be 40-60 weight-% based on the total dry matter content of the carbohydrate composition, and the weight ratio of monomeric glucose to monomeric xylose may be 0.067-0.2.</p>
+<p id="p-0017" num="0016">A method for producing a hardwood-derived carbohydrate composition is also disclosed. The method may comprise:</p>
+<p id="p-0018" num="0017">i) providing a wood-based feedstock originating from wood-based raw material and comprising wood chips, wherein the wood chips are hardwood chips,</p>
+<p id="p-0019" num="0018">ii) subjecting the wood-based feedstock to a pretreatment to form a slurry, wherein the pretreatment comprises:</p>
+<p id="p-0020" num="0019">iia) subjecting the wood-based feedstock to an impregnation treatment with an impregnation liquid comprising sulphuric acid;</p>
+<p id="p-0021" num="0020">iib) subjecting the impregnated wood-based feedstock to steam explosion treatment to form steam-treated wood-based feedstock, wherein the amount of sulphuric acid in the steam explosion treatment is 0.10-0.75 weight-% based on the total dry matter content of the wood-based feedstock;</p>
+<p id="p-0022" num="0021">iic) mixing the steam-treated wood-based feedstock from iib) with a liquid to form the slurry;</p>
+<p id="p-0023" num="0022">iii) separating the slurry into a liquid fraction and a fraction comprising solid cellulose particles by a solid-liquid separation process to recover the liquid fraction as the hardwood-derived carbohydrate composition.</p>
+<p id="p-0024" num="0023">Further is disclosed a hardwood-derived carbohydrate composition obtainable by the method as disclosed in the current specification. In one embodiment, the hardwood-derived carbohydrate composition obtainable by the method as disclosed in the current specification is the hardwood-derived carbohydrate composition as disclosed in the current specification. I.e. the hardwood-derived carbohydrate composition disclosed in the current specification may be produced by the method as disclosed in the current specification.</p>
+<p id="p-0025" num="0024">Further is disclosed the use of the hardwood-derived carbohydrate composition as disclosed in the current specification for the production of a fermentation product, a sweetener, or animal feed. The fermentation product may be e.g. ethanol. The sweetener may be e.g. xylitol.</p>
+<p id="p-0026" num="0025">The hardwood-derived carbohydrate composition as disclosed in the current specification relates to a composition that comprises carbohydrates but may also in addition comprise additional components and/or elements e.g. as disclosed in the current specification. Thus, the &#x201c;hardwood-derived carbohydrate composition&#x201d; may be considered as a &#x201c;hardwood-derived carbohydrate-containing composition&#x201d; or a &#x201c;hardwood-derived composition comprising carbohydrates&#x201d;.</p>
+<p id="p-0027" num="0026">In one embodiment, the weight ratio of monomeric glucose to monomeric xylose is 0.08-0.17, or 0.1-0.14. The inventors surprisingly found out that by the method as disclosed in the current specification, one is able to produce a hardwood-derived carbohydrate composition comprising a high content of monomeric C5 sugars and especially a high ratio of monomeric xylose compared to monomeric glucose. By the method as disclosed in the current specification, the C5 sugars may be efficiently recovered as a hardwood-derived carbohydrate composition.</p>
+<p id="p-0028" num="0027">The amount of monomeric sugars, i.e. monomeric C5 sugars and monomeric C6 sugars as well as the amount of oligomeric sugars, i.e. oligomeric C5 sugars and oligomeric C6 sugars, may be determined both qualitatively and quantitatively by high-performance liquid chromatography (HPLC) by comparing to standard samples. Examples of analysis methods can be found in e.g. Sluiter, A., et al., &#x201c;Determination of sugars, byproducts, and degradation products in liquid fraction process samples&#x201d;, Technical Report, National Renewable Energy Laboratory, 2008, and Sluiter, A., et al., &#x201c;Determination of Structural Carbohydrates and Lignin in Biomass&#x201d;, Technical Report, National Renewable Energy Laboratory, revised 2012.</p>
+<p id="p-0029" num="0028">As used herein, any weight-percentages are given as percent of the total dry matter content of the carbohydrate composition unless specified otherwise. Similarly, other fractions of weight (ppm etc.) may also denote a fraction of the total dry matter content of the carbohydrate composition unless specified otherwise.</p>
+<p id="p-0030" num="0029">The expression &#x201c;total dry matter content&#x201d; may refer to the total amount of solids including suspended solids and soluble or dissolved solids. The total dry matter content may be determined after removing the liquid from a sample followed by drying at a temperature of 45&#xb0; C. for 24 hours. The effectiveness of the liquid removal may be assured by weighing the sample, drying for a further two hours at the specified temperature, and reweighing the sample. If the measured weights are essentially the same, the drying has been complete, and the total weight may be recorded.</p>
+<p id="p-0031" num="0030">By the expression &#x201c;C5 sugars&#x201d; should be understood in this specification, unless otherwise stated, as referring to xylose, arabinose, or any mixture or combination thereof. By the expression &#x201c;C6 sugars&#x201d; should be understood in this specification, unless otherwise stated, as referring to glucose, galactose, mannose, fructose, or any mixture or combination thereof. By the expression that the sugar is &#x201c;monomeric&#x201d; should be understood in this specification, unless otherwise stated, as referring to a sugar molecule present as a monomer, i.e. not coupled or connected to any other sugar molecule(s).</p>
+<p id="p-0032" num="0031">In the current specification the amounts of different components/elements in the hardwood-derived carbohydrate composition are presented in weight-% based on the total dry matter content of the carbohydrate composition. In this specification the term &#x201c;total dry matter content of the carbohydrate composition&#x201d; may refer to the weight of the carbohydrate composition as determined after removing any solid particles or material from the carbohydrate composition e.g. by filtering and removing the liquid from the filtrate or pressate followed by drying the at a temperature of 45&#xb0; C. for 24 hours. The effectiveness of the drying may be assured by weighing the sample, drying for a further two hours at the specified temperature, and reweighing the sample. If the measured weights are the same, the drying has been complete, and the total weight may be recorded.</p>
+<p id="p-0033" num="0032">As is clear to the skilled person, the total amount of the different components/elements in the hardwood-derived carbohydrate composition may not exceed 100 weight-%. The amount in weight-% of the different components/elements in the hardwood-derived carbohydrate composition may vary within the given ranges.</p>
+<p id="p-0034" num="0033">In one embodiment, the hardwood-derived carbohydrate composition comprises monomeric sugars in an amount of 60-80 weight-% based on the total dry matter content of the carbohydrate composition.</p>
+<p id="p-0035" num="0034">In one embodiment, the carbohydrate composition comprises monomeric C6 sugars in an amount of at most 15 weight-%, or at most 13 weight-%, or at most 11 weight-%, based on the total dry matter content of the carbohydrate composition.</p>
+<p id="p-0036" num="0035">The monomeric C5 sugars may be xylose and/or arabinose. The monomeric C6 sugars may be glucose, galactose, mannose, and/or fructose.</p>
+<p id="p-0037" num="0036">In one embodiment, the amount of monomeric xylose in the carbohydrate composition is 45-55 weight-% based on the total dry matter content of the carbohydrate composition.</p>
+<p id="p-0038" num="0037">In one embodiment, in the carbohydrate composition, at least 90% or at least 95% of the xylose is in monomeric form.</p>
+<p id="p-0039" num="0038">In one embodiment, the carbohydrate composition comprises monomeric sugars and oligomeric sugars in a total amount of 65-85 weight-% based on the total dry matter content of the carbohydrate composition. In one embodiment, the carbohydrate composition comprises oligomeric sugars in an amount of 1-15 weight-%, or 2-10 weight-% based on the total dry matter content of the carbohydrate composition.</p>
+<p id="p-0040" num="0039">By the expression that the sugar is &#x201c;oligomeric&#x201d; should be understood in this specification, unless otherwise stated, as referring to a sugar molecule consisting of two or more monomers coupled or connected to each other.</p>
+<p id="p-0041" num="0040">The oligomeric C5 sugars may be xylose and/or arabinose. The oligomeric C6 sugars may be glucose, galactose, mannose, and/or fructose.</p>
+<p id="p-0042" num="0041">In one embodiment, the composition comprises one or more of monomeric arabinose, monomeric galactose, monomeric mannose, and monomeric fructose in an amount of 0.5-5 weight-%, or 1-4 weight-% each, based on the total dry matter content of the carbohydrate composition.</p>
+<p id="p-0043" num="0042">The efficiency of the washing that may be carried out in step iii) may be evaluated by analyzing the liquid fraction to determine its composition quantitatively and/or qualitatively. The analysis may be used to determine e.g. the amounts and types of impurities present in the liquid fraction as well as the absolute and relative amounts of C5 sugars and C6 sugars. Non-limiting examples of such a method for determining the presence of various impurities include, but are not limited to, conductivity, optical purity (e.g. color, or turbidity), density of the liquid fraction.</p>
+<p id="p-0044" num="0043">In one embodiment, the conductivity of a 10% aqueous solution of the carbohydrate composition is &#x2212;2.8-3.5 mS/cm, when determined according to SFS-EN 27888 (1994). The value of the conductivity may be used to determine the efficiency of the washing taking place in step iii). I.e. the value of conductivity may be used to determine the amount of soluble lignin present.</p>
+<p id="p-0045" num="0044">The carbohydrate composition may comprise organic impurities (including soluble lignin) in an amount of at most 30 weight-%, or at most 28 weight-%, or at most 26 weight-%, or at most 24 weight-%, or at most 22 weight-%, based on the total dry matter content of the carbohydrate composition. The carbohydrate composition may comprise organic impurities (including soluble lignin) in an amount of 6-30 weight-%, or 8 28 weight-%, or 10-26 weight-%, or 12-24 weight-%, based on the total dry matter content of the carbohydrate composition. The carbohydrate composition may comprise organic impurities in an amount of 6-30 weight-%, or 8-28 weight-%, or 10-26 weight-%, or 12-24 weight-%, based on the total dry matter content of the carbohydrate composition. The carbohydrate composition may comprise inorganic impurities in an amount of 0-6 weight-%, or 0.1-3 weight-%, or 0.2 2 weight-%, or 0.3-1 weight-%, based on the total dry matter content of the carbohydrate composition.</p>
+<p id="p-0046" num="0045">Organic acids can be mentioned as examples of organic impurities. Non-limiting examples of organic impurities are oxalic acid, citric acid, succinic acid, formic acid, acetic acid, levulinic acid, 2-furoic acid, 5-hydroxymethylfurfural (5-HMF), furfural, glycolaldehyde, glyceraldehyde, as well as various acetates, formiates, and other salts or esters. The quality and quantity of organic impurities in the carbohydrate composition may be determined using e.g. a HPLC coupled with e.g. a suitable detector, infrared (IR) spectroscopy, ultraviolet-visible (UV-VIS) spectroscopy, or nuclear magnetic resonance (NMR) spectrometry. Examples of organic impurities that may be present in the carbohydrate composition are listed in below table 1.</p>
+<p id="p-0047" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Organic impurities and their amounts</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="91pt" align="left"/>
+<colspec colname="2" colwidth="112pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Level at most (weight-% of</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>total dry matter content of</entry>
+</row>
+<row>
+<entry/>
+<entry>Impurity</entry>
+<entry>carbohydrate composition)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="91pt" align="left"/>
+<colspec colname="2" colwidth="112pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Oxalic acid</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry/>
+<entry>Citric acid</entry>
+<entry>3</entry>
+</row>
+<row>
+<entry/>
+<entry>Succinic acid</entry>
+<entry>10</entry>
+</row>
+<row>
+<entry/>
+<entry>Formic acid</entry>
+<entry>2</entry>
+</row>
+<row>
+<entry/>
+<entry>Acetic acid</entry>
+<entry>8</entry>
+</row>
+<row>
+<entry/>
+<entry>Levulinic acid</entry>
+<entry>2</entry>
+</row>
+<row>
+<entry/>
+<entry>Total carboxylic acids</entry>
+<entry>26</entry>
+</row>
+<row>
+<entry/>
+<entry>2-Furoic acid</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry/>
+<entry>5-Hydroxymethyl furfural</entry>
+<entry>2</entry>
+</row>
+<row>
+<entry/>
+<entry>Furfural</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry/>
+<entry>Total furans</entry>
+<entry>2</entry>
+</row>
+<row>
+<entry/>
+<entry>Glucuronic acid</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry/>
+<entry>Galacturonic acid</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0048" num="0046">The carbohydrate composition may comprise inorganic impurities. The inorganic impurities may be e.g. a soluble inorganic compound in the form of various salts. The inorganic impurities may be salts of the group of elements consisting of Al, As, B, Ca, Cd, Cl, Co, Cr, Cu, Fe, K, Mg, Mn, Mo, Na, Ni, P, Pb, S, Se, Si, and Zn. The amounts of inorganic impurities in the carbohydrate composition can be analyzed using inductively coupled plasma-optical emission spectroscopy (ICP-OES) according to standard SFS-EN ISO 11885:2009. Examples of organic impurities that may be present in the carbohydrate composition are listed in below table 2.</p>
+<p id="p-0049" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Inorganic impurities and their amounts</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="133pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Level at most (ppm or</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>mg/kg of total dry matter</entry>
+</row>
+<row>
+<entry/>
+<entry>Element</entry>
+<entry>content of composition)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="133pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Aluminium, Al</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry/>
+<entry>Arsenic, As</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry/>
+<entry>Boron, B</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry/>
+<entry>Calcium, Ca</entry>
+<entry>1000</entry>
+</row>
+<row>
+<entry/>
+<entry>Cadmium, Cd</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry/>
+<entry>Chloride, Cl</entry>
+<entry>1000</entry>
+</row>
+<row>
+<entry/>
+<entry>Cobalt, Co</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry/>
+<entry>Chromium, Cr</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry/>
+<entry>Copper, Cu</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry/>
+<entry>Iron, Fe</entry>
+<entry>200</entry>
+</row>
+<row>
+<entry/>
+<entry>Potassium, K</entry>
+<entry>1000</entry>
+</row>
+<row>
+<entry/>
+<entry>Magnesium, Mg</entry>
+<entry>500</entry>
+</row>
+<row>
+<entry/>
+<entry>Manganese, Mn</entry>
+<entry>200</entry>
+</row>
+<row>
+<entry/>
+<entry>Molybdenum, Mo</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry/>
+<entry>Sodium, Na</entry>
+<entry>500</entry>
+</row>
+<row>
+<entry/>
+<entry>Nickel, Ni</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry/>
+<entry>Phosphorus, P</entry>
+<entry>750</entry>
+</row>
+<row>
+<entry/>
+<entry>Lead, Pb</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry/>
+<entry>Sulphur, S</entry>
+<entry>4000</entry>
+</row>
+<row>
+<entry/>
+<entry>Selenium, Se</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry/>
+<entry>Silicon, Si</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry/>
+<entry>Zinc, Zn</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0050" num="0047">In one embodiment, the carbohydrate composition comprises carboxylic acids in an amount of 5-20 weight-%, or 5.5-18 weight-%, or 6-16 weight-%, based on the total dry matter content of the carbohydrate composition.</p>
+<p id="p-0051" num="0048">In one embodiment, the carbohydrate composition comprises 5-hydroxymethylfurfural (5-HMF) in an amount of at most 2 weight-%, or at most 1.5 weight-%, or at most 1.0 weight-%, based on the total dry matter content of the carbohydrate composition</p>
+<p id="p-0052" num="0049">In one embodiment, the carbohydrate composition comprises sulphur in an amount of 250-4000 mg/kg, or 500-3500 mg/kg, or 1000-3000 mg/kg, or 1500-2500 mg/kg, based on the total dry matter content of the carbohydrate composition. The amount of sulphur may be determined according to standard SFS-EN ISO 11885 (2009).</p>
+<p id="p-0053" num="0050">The carbohydrate composition may comprise nitrogen in an amount of at most 0.3 weight-%, or at most 0.2 weight-%, or at most 0.1 weight-%, based on the total dry matter content of the carbohydrate composition when measured as total nitrogen content of the carbohydrate composition. The total amount of nitrogen present in the carbohydrate composition may be determined using any suitable method known to a person skilled in the art, e.g. the Kjeldahl method or catalytic thermal decomposition/chemiluminescence methods.</p>
+<p id="p-0054" num="0051">The carbohydrate composition may comprise soluble lignin in an amount of 5-15 weight-%, or 5.5-14 weight-%, or 6-12 weight-%, based on the total dry matter content of the carbohydrate composition. The presence of soluble lignin in the carbohydrate composition may evidence that the carbohydrate composition is derived from wood.</p>
+<p id="p-0055" num="0052">The amount of soluble lignin may be determined by UV-VIS absorption spectroscopy in the following manner: The amount of soluble lignin present in the carbohydrate composition is determined by diluting a sample of carbohydrate composition so that its absorbance at 205 nm is 0.2-0.7 AU when compared to a reference sample of pure water and using a cuvette with a path length of 1 cm. The soluble lignin content of the sample in mg/l may then be calculated using the following equation</p>
+<p id="p-0056" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+ <mrow>
+  <mi>x</mi>
+  <mo>=</mo>
+  <mrow>
+   <mrow>
+    <mo>(</mo>
+    <mfrac>
+     <mi>A</mi>
+     <mi>a</mi>
+    </mfrac>
+    <mo>)</mo>
+   </mrow>
+   <mo>&#xd7;</mo>
+   <mi>D</mi>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0057" num="0000">where A is absorbance of the sample, a is the absorptivity coefficient 0.110 l/mgcm, and D is a dilution factor.</p>
+<p id="p-0058" num="0053">The total dry matter content of the wood-derived carbohydrate composition may be 5-15 weight-%, or 6-14 weight-%, or 7-13 weight-% when determined after drying at a temperature of 45&#xb0; C. for 24 hours.</p>
+<p id="p-0059" num="0054">The method for producing the hardwood-derived carbohydrate composition may comprise subjecting a wood-based feedstock to pretreatment. By the expression &#x201c;pretreating&#x201d; or &#x201c;pretreatment&#x201d; should be understood in this specification, unless otherwise stated, (a) process(es) conducted to convert wood-based feedstock to a slurry which may be separated into a liquid fraction and a fraction comprising solid cellulose particles. I.e. the liquid fraction may be separated from the fraction comprising solid cellulose particles. The fraction comprising solid cellulose particles may further include an amount of lignocellulose particles as well as lignin particles in free form. Lignocellulose comprises lignin chemically bonded to the cellulose particles.</p>
+<p id="p-0060" num="0055">The wood-based raw material may e.g. originate from beech, birch, ash, oak, maple, chestnut, willow, or poplar. The wood-based raw material may also be any combination or mixture of these.</p>
+<p id="p-0061" num="0056">In general, wood and wood-based raw materials are essentially composed of cellulose, hemicellulose, lignin, and extractives. Cellulose is a polysaccharide consisting of a chain of glucose units. Hemicellulose comprises polysaccharides, such as xylan, mannan, and glucan.</p>
+<p id="p-0062" num="0057">Providing the wood-based feedstock in step i) may comprise subjecting wood-based raw material to a mechanical treatment selected from debarking, chipping, dividing, cutting, beating, grinding, crushing, splitting, screening, and/or washing the wood-based raw material to form the wood-based feedstock.</p>
+<p id="p-0063" num="0058">Thus, providing the wood-based feedstock originating from the wood-based raw material may comprise subjecting the wood-based raw material to a mechanical treatment to form a wood-based feedstock. The mechanical treatment may comprise debarking, chipping, dividing, cutting, beating, grinding, crushing, splitting, screening, and/or washing the wood-based raw material. During the mechanical treatment e.g. wood logs can be debarked and/or wood chips of the specified size and structure can be formed. The formed wood chips can also be washed, e.g. with water, in order to remove e.g. sand, grit, and stone material therefrom. Further, the structure of the wood chips may be loosened before the pretreatment step. The wood-based feedstock may contain a certain amount of bark from the wood logs.</p>
+<p id="p-0064" num="0059">Providing the wood-based feedstock may comprise purchasing the wood-based feedstock. The purchased wood-based feedstock may comprise purchased wood chips or sawdust that originate from wood-based raw material.</p>
+<p id="p-0065" num="0060">Pretreatment in step ii) of the wood-based feedstock may comprise one or more different pretreatment steps. During the different pretreatment steps the wood-based feedstock as such changes. The aim of the pretreatment step(s) is to form a slurry for further processing.</p>
+<p id="p-0066" num="0061">The pretreatment ii) may comprise subjecting the wood-based feedstock to pre-steaming. The pretreatment ii) may comprise subjecting the wood-based feedstock received from the mechanical treatment to pre-steaming. Pretreatment in ii) may comprise, before subjecting to the impregnation treatment, subjecting the wood-based feedstock to pre-steaming to form pre-steamed wood-based feedstock. The pretreatment in ii) may comprise, an impregnation treatment and a steam explosion treatment and comprise, before subjecting the wood-based feedstock to impregnation treatment and thereafter to steam explosion treatment, subjecting the wood-based feedstock to pre-steaming.</p>
+<p id="p-0067" num="0062">In one embodiment, pretreatment in ii) comprises, before subjecting to the impregnation treatment, subjecting the wood-based feedstock to pre-steaming to form pre-steamed wood-based feedstock. The pre-steaming of the wood-based feedstock may be carried out with steam having a temperature of 100-130&#xb0; C. at atmospheric pressure. During the pre-steaming the wood-based feedstock is treated with steam of low pressure. The pre-steaming may be also carried out with steam having a temperature of below 100&#xb0; C., or below 98&#xb0; C., or below 95&#xb0; C. The pre-steaming has the added utility of reducing or removing air from inside of the wood-based feedstock. The pre-steaming may take place in at least one pre-steaming reactor.</p>
+<p id="p-0068" num="0063">The pretreatment in ii) comprises step iia) of subjecting the wood-based feedstock to an impregnation treatment with an impregnation liquid comprising sulphuric acid. The impregnation liquid may consist of sulphuric acid and water. The impregnation liquid may comprise sulphuric acid in an amount of at most 20 weight-% based on the total weight of the impregnation liquid. Subjecting the wood-based feedstock to the impregnation treatment may form an impregnated wood-based feedstock comprising sulphuric acid in an amount of at least 0.5 weight-% based on the total dry matter content of the wood-based feedstock.</p>
+<p id="p-0069" num="0064">The impregnation treatment may be carried out to the wood-based feedstock received from the mechanical treatment and/or from the pre-steaming. The wood-based feedstock may be transferred from the mechanical treatment and/or from the pre-steaming to the impregnation treatment with a feeder. The feeder may be a screw feeder, such as a plug screw feeder. The feeder may compress the wood-based feedstock during the transfer. When the wood-based feedstock is then entering the impregnation treatment, it may become expanded and absorbs the impregnation liquid.</p>
+<p id="p-0070" num="0065">The sulphuric acid may be dilute sulphuric acid. The total amount of acid added to the wood-based feedstock may be 0.3-5.0% w/w, 0.5-3.0% w/w, 0.6-2.5% w/w, 0.7-1.9% w/w, or 1.0-1.6% w/w based on the total dry matter content of the wood-based feedstock. The impregnation liquid may act as a catalyst in affecting the hydrolysis of the hemicellulose in the wood-based feedstock. In one embodiment, the sulphuric acid catalyzes the hydrolysis of the hemicellulose in the wood-based feedstock to monomeric sugars.</p>
+<p id="p-0071" num="0066">The impregnation treatment may be conducted in at least one impregnation reactor or vessel. In one embodiment, two or more impregnation reactors are used. The transfer from one impregnation reactor to another impregnation reactor may be carried out with a screw feeder.</p>
+<p id="p-0072" num="0067">The impregnation treatment may be carried out by conveying the wood-based feedstock through at least one impregnation reactor that is at least partly filled with the impregnation liquid, i.e. the wood-based feedstock may be transferred into the impregnation reactor, where it sinks into the impregnation liquid, and transferred out of the impregnation reactor such that the wood-based feedstock is homogenously impregnated with the impregnation liquid. As a result of the impregnation treatment, impregnated wood-based feedstock is formed. The impregnation treatment may be carried out as a batch process or in a continuous manner.</p>
+<p id="p-0073" num="0068">The residence time of the wood-based feedstock in an impregnation reactor, i.e. the time during which the wood-based feedstock is in contact with the impregnation liquid, may be 1-30 minutes. The temperature of the impregnation liquid may be e.g. 20-99&#xb0; C., or 40-95&#xb0; C., or 60-93&#xb0; C. Keeping the temperature of the impregnation liquid below 100&#xb0; C. has the added utility of hindering or reducing hemicellulose from dissolving. In one embodiment, the impregnation treatment is carried out at a temperature of 80-100&#xb0; C., or 90 99&#xb0; C., for 1-30 minutes.</p>
+<p id="p-0074" num="0069">After the impregnation treatment, the impregnated wood-based feedstock may be allowed to stay in e.g. a storage tank or a silo for a predetermined period of time to allow the impregnation liquid absorbed into the wood-based feedstock to stabilize. This predetermined period of time may be 15-60 minutes, or e.g. about 30 minutes.</p>
+<p id="p-0075" num="0070">In one embodiment, the wood-based feedstock is subjected to an impregnation treatment with dilute sulphuric acid having a concentration of 1.32% w/w and a temperature of 92&#xb0; C.</p>
+<p id="p-0076" num="0071">Pretreatment ii) may comprise subjecting the wood-based feedstock to steam explosion treatment. The wood-based feedstock from the impregnation treatment may be subjected to steam explosion treatment. I.e. pretreatment in ii) may comprise subjecting the impregnated wood-based feedstock to steam explosion treatment to form a steam-treated wood-based feedstock.</p>
+<p id="p-0077" num="0072">In one embodiment, the pretreatment in ii) comprises mechanical treatment of wood-based material to form a wood-based feedstock, the pre-steaming of the wood-based feedstock to form pre-steamed feedstock, impregnation treatment of the pre-steamed wood-based feedstock to form impregnated wood-based feedstock, and the steam explosion treatment of the impregnated wood-based feedstock. In one embodiment, the pretreatment in ii) comprises pre-steaming the wood-based feedstock, impregnation treatment of the pre-steamed wood-based feedstock, and steam explosion treatment of the impregnated wood-based feedstock. In one embodiment, the pretreatment in ii) comprises impregnation treatment of the wood-based feedstock, and steam explosion treatment of the impregnated wood-based feedstock. I.e. the wood-based feedstock having been subjected to the impregnation treatment may thereafter be subjected to the steam explosion treatment. Also, the wood-based feedstock having been subjected to pre-steaming, may then be subjected to the impregnation treatment and thereafter the impregnated wood-based feedstock having been subjected to the impregnation treatment may be subjected to steam explosion treatment.</p>
+<p id="p-0078" num="0073">The wood-based feedstock can be stored in e.g. chip bins or silos between the different treatments. Alternatively, the wood-based feedstock may be conveyed from one treatment to the other in a continuous manner.</p>
+<p id="p-0079" num="0074">The pretreatment in ii) comprises step iib) of subjecting the impregnated wood-based feedstock to steam explosion treatment to form steam-treated wood-based feedstock. The amount of sulphuric acid in the steam explosion treatment may be 0.10-0.75 weight-% based on the total dry matter content of the wood-based feedstock. The steam explosion treatment in iib) may be carried out by treating the impregnated wood-based feedstock with steam having a temperature of 130-240&#xb0; C., or 180-200&#xb0; C., or 185-195&#xb0; C. under a pressure of 0.17-3.25 MPaG followed by a sudden, explosive decompression of the feedstock. The feedstock may be treated with the steam for 1-20 minutes, or 1-20 minutes, or 2-15 minutes, or 4-13 minutes, or 3-10 minutes, or 3-8 minutes, before the sudden, explosive decompression of the steam-treated wood-based feedstock.</p>
+<p id="p-0080" num="0075">In this specification, the term &#x201c;steam explosion treatment&#x201d; may refer to a process of hemihydrolysis in which the feedstock is treated in a reactor (steam explosion reactor) with steam having a temperature of 130-240&#xb0; C., or 180-200&#xb0; C., or 185-195&#xb0; C. under a pressure of 0.17-3.25 MPaG followed by a sudden, explosive decompression of the feedstock that results in the rupture of the fiber structure of the feedstock.</p>
+<p id="p-0081" num="0076">In one embodiment, the amount of sulphuric acid in the steam explosion treatment may be 0.10-0.75 weight-% based on the total dry matter content of the wood-based feedstock. The amount of acid present in the steam explosion treatment may be determined by measuring the sulphur content of the liquid of the steam-treated wood-based feedstock or the liquid part of the steam-treated wood-based feedstock after steam explosion treatment. The amount of sulphuric acid in the steam explosion reactor may be determined by subtracting the amount of sulphur in the wood-based feedstock from the measured amount of total sulphur in the steam-treated wood-based feedstock.</p>
+<p id="p-0082" num="0077">The steam explosion treatment may be conducted in a pressurized reactor. The steam explosion treatment may be carried out in the pressurized reactor by treating the impregnated wood-based feedstock with steam having a temperature of 130-240&#xb0; C., or 180-200&#xb0; C., or 185-195&#xb0; C. under a pressure of 0.17-3.25 MPaG followed by a sudden, explosive decompression of the &#x2212;feedstock. The impregnated wood-based feedstock may be introduced into the pressurized reactor with a compressing conveyor, e.g. a screw feeder. During transportation with the screw feeder, if used, the acid in liquid form is removed, and a part of the impregnation liquid absorbed by the feedstock is removed as a pressate while most of it remains in the feedstock. The impregnated wood-based feedstock may be introduced into the pressurized reactor along with steam and/or gas. The pressure of the pressurized reactor can be controlled by the addition of steam. The pressurized reactor may operate in a continuous manner or as a batch process. The impregnated wood-based feedstock, e.g. the wood-based feedstock that has been subjected to an impregnation treatment, may be introduced into the pressurized reactor at a temperature of 25-140&#xb0; C. The residence time of the feedstock in the pressurized reactor may be 0.5-120 minutes. The term &#x201c;residence time&#x201d; should in this specification, unless otherwise stated, be understood as the time between the feedstock being introduced into or entering e.g. the pressurized reactor and the feedstock being exited or discharged from the same.</p>
+<p id="p-0083" num="0078">As a result of the hemihydrolysis of the wood-based feedstock affected by the steam explosion treatment in the reactor, the hemicellulose present in the wood-based feedstock may become hydrolyzed or degraded into e.g. xylose oligomers and/or monomers. The hemicellulose comprises polysaccharides such as xylan, mannan and glucan. Xylan is thus hydrolyzed into xylose that is a monosaccharide. In one embodiment, 87-95%, or 89-93%, or 90-92%, of xylan present the impregnated wood-based feedstock is converted into xylose in iib).</p>
+<p id="p-0084" num="0079">Thus, steam explosion of the feedstock may result in the formation of an output stream. The output stream from the steam explosion may be subjected to steam separation. The output stream from the steam explosion may be mixed or combined with a liquid, e.g. water. The output stream of the steam explosion may be mixed with a liquid to form a slurry. The liquid may be pure water or water containing C5 sugars. The water containing C5 sugars may be recycled water from separation and/or washing the fraction comprising solid cellulose particles before enzymatic hydrolysis. The output stream may be mixed with the liquid and the resulting mass may be homogenized mechanically to break up agglomerates. Pretreatment in ii) may comprise mixing the steam-treated wood-based feedstock with a liquid. In one embodiment, the method comprises step iic) of mixing the steam-treated wood-based feedstock from iib) with a liquid to form the slurry.</p>
+<p id="p-0085" num="0080">Thus, as a result of the pretreatment ii) a slurry may thus be formed. The slurry may comprise a liquid phase and a solid phase. The slurry may comprise solid cellulose particles. In step iii) the slurry may be separated into a liquid fraction and a fraction comprising solid cellulose particles.</p>
+<p id="p-0086" num="0081">The method comprises iii) of separating a liquid fraction and a fraction comprising solid cellulose particles by a solid-liquid separation process to recover the liquid fraction as the hardwood-derived carbohydrate composition. In one embodiment, the solid-liquid separation process in iii) comprises washing. In one embodiment, the washing in iii) is continued until the amount of soluble organic components in the fraction comprising solid cellulose particles is 0.5-5 weight-%, or 1-4 weight-%, or 1.5-3 weight-% based on the total dry matter content.</p>
+<p id="p-0087" num="0082">In one embodiment, separating the liquid fraction and the fraction comprising solid cellulose particles in iii) is carried out by displacement washing or countercurrent washing. Thus, the solid-liquid separation process may be selected from displacement washing and countercurrent washing.</p>
+<p id="p-0088" num="0083">Displacement washing, or replacement washing as it may also be called, is a method for separating solids and liquid from each other by the use of a rather minor amount of washing liquid. Thus, displacement washing may be considered as an operation by which it is possible to wash solid particles with a minimum amount of washing liquid, such as water.</p>
+<p id="p-0089" num="0084">In countercurrent washing, the movement of the fraction comprising solid cellulose particles in generally in a forward direction, whereas the washing liquid, such as water, flows in the opposite direction. As for the displacement washing, also the countercurrent washing may reduce the consumption of washing liquid to a great extent.</p>
+<p id="p-0090" num="0085">In one embodiment, countercurrent washing comprises at least two solid-liquid separation steps and one dilution in between the steps with washing solution. The washing solution may be clean water. The amount of water needed may vary depending on how many solid-liquid separation steps are performed in total, the total dry matter content in the feed of the solid-liquid separation step and the total dry matter content in the fraction comprising solid cellulose particles after each solid-liquid separation step.</p>
+<p id="p-0091" num="0086">The washing liquid may be fresh washing water or recycled washing water. The washing water may be fresh water, drinking water, or a sugar containing liquid with low sugar content. The conductivity of the washing liquid may be about 0.1 mS/cm.</p>
+<p id="p-0092" num="0087">The ratio of the used washing liquid to the solids in step iii) may be 0.5:1-8:1 (w/w), or 0.5:1-5:1 (w/w), or 0.5:1-3:1 (w/w), or 0.5:1-2:1 (w/w) in the case of displacement washing.</p>
+<p id="p-0093" num="0088">The ratio of the used washing liquid to the solids in step iii) may be 0.5:1-8:1 (w/w), or 0.5:1-5:1 (w/w) in the case of countercurrent washing.</p>
+<p id="p-0094" num="0089">The progression of the displacement washing as well as of the countercurrent washing may be monitored by measuring the conductivity of the liquid fraction recovered from this treatment. Once the conductivity of the liquid fraction is below or equal to a predetermined threshold value of 0.35 mS/cm, one may conclude that that the desired amount of the C5 sugars and other soluble impurities have been removed from the fraction comprising solid cellulose particles and the washing may be concluded. In one embodiment, the washing is continued until the conductivity of the liquid fraction is 0.1-1.0 mS/cm or 0.2-0.5 mS/cm.</p>
+<p id="p-0095" num="0090">Alternatively, the separation in step iii) may be carried out by filtration, decanting, and/or by centrifugal treatment. The filtration may be vacuum filtration, filtration based on the use of reduced pressure, filtration based on the use of overpressure, or filter pressing. The decanting may be repeated in order to improve separation.</p>
+<p id="p-0096" num="0091">The method as disclosed in the current specification has the added utility of providing a wood-derived carbohydrate composition with a high content of monomeric sugars, and especially monomeric xylose. The wood-derived carbohydrate composition has the added utility of fulfilling purity properties required for further use in e.g. a process of catalytic conversion for the production of e.g. mono-ethylene glycol.</p>
+<heading id="h-0006" level="1">EXAMPLES</heading>
+<p id="p-0097" num="0092">Reference will now be made in detail to the embodiments of the present disclosure, an example of which is illustrated in the accompanying drawing.</p>
+<p id="p-0098" num="0093">The description below discloses some embodiments in such a detail that a person skilled in the art is able to utilize the method based on the disclosure. Not all steps of the embodiments are discussed in detail, as many of the steps will be obvious for the person skilled in the art based on this disclosure.</p>
+<p id="p-0099" num="0094">For reasons of simplicity, item numbers will be maintained in the following exemplary embodiments in the case of repeating components.</p>
+<p id="p-0100" num="0095">The enclosed <figref idref="DRAWINGS">FIG. <b>1</b></figref> illustrates an embodiment of a flow chart of the method for producing a hardwood-derived carbohydrate composition in some detail. The method of <figref idref="DRAWINGS">FIG. <b>1</b></figref> for producing a hardwood-derived carbohydrate composition comprises providing a wood-based feedstock originating from wood-based raw material and comprising wood chips, wherein the wood chips are hardwood chips (step i) of <figref idref="DRAWINGS">FIG. <b>1</b></figref>). The provided wood-based feedstock is then subjected to pretreatment to form a slurry (step ii) of <figref idref="DRAWINGS">FIG. <b>1</b></figref>). The pretreatment comprises: iia) of subjecting the wood-based feedstock to an impregnation treatment with an impregnation liquid of sulphuric acid to form an impregnated wood-based feedstock. After the impregnation treatment the impregnated wood-based feedstock is subjected to steam explosion treatment to form steam-treated wood-based feedstock (step iib) of <figref idref="DRAWINGS">FIG. <b>1</b></figref>). In step iic) the steam-treated wood-based feedstock from iib) is mixed with a liquid to form the slurry. Then in step iii) the slurry is separated into a liquid fraction and a fraction comprising solid cellulose particles by a solid-liquid separation process to recover the liquid fraction as the hardwood-derived carbohydrate composition.</p>
+<heading id="h-0007" level="1">Example 1&#x2014;Producing Hardwood-Derived Carbohydrate Composition</heading>
+<p id="p-0101" num="0096">In this example a hardwood-derived carbohydrate composition was prepared.</p>
+<p id="p-0102" num="0097">First a wood-based feedstock comprising chips of beech wood was provided. The wood-based feedstock was then subjected to pretreatment in the following manner:</p>
+<p id="p-0103" num="0098">The wood-based feedstock was subjected to pre-steaming. Pre-steaming of the wood-based feedstock was carried out at atmospheric pressure with steam having a temperature of 100&#xb0; C. for 180 minutes. The pre-steamed feedstock was then subjected to an impregnation treatment with dilute sulphuric acid having a concentration of 1.32% w/w and a temperature of 92&#xb0; C. The pre-steamed wood-based feedstock was allowed to be affected by the impregnation liquid for 30 minutes. The acid-impregnated wood-based feedstock was then subjected to steam explosion treatment. The steam explosion treatment was carried out by treating the impregnated wood-based feedstock with steam having a temperature of 191&#xb0; C. at atmospheric pressure followed by a sudden, explosive decompression of the wood-based feedstock. The amount of sulphuric acid in steam explosion reactor was 0.33 weight-% based on the total dry matter content of the wood-based feedstock. In the determination of the amount of sulphuric acid the sulphur content of wood was 0.02 weight-% based on the total dry matter content of the wood used.</p>
+<p id="p-0104" num="0099">In the pretreatment, the conversion of xylan in the wood-based feedstock into xylose was 91% and the ratio of solubilized glucose to solubilized xylose was 0.14 as determined by HPLC-RI as detailed below. The steam-treated wood-based feedstock was then mixed with water in a mixing vessel.</p>
+<p id="p-0105" num="0100">As a result of the above pretreatment steps, a slurry was formed. The slurry comprised a liquid fraction and a fraction comprising solid cellulose particles. The slurry was then separated into a liquid fraction and a fraction comprising solid cellulose particles by a solid-liquid separation process, which in this example was countercurrent washing. The countercurrent washing was continued until the amount of soluble components in the fraction comprising solid cellulose particles was 2.0 weight-% based on the total dry matter content. The dry solids content of the fraction comprising solid cellulose particles was 32 weight-% after the washing.</p>
+<p id="p-0106" num="0101">The hardwood-derived carbohydrate composition recovered was analyzed by HPLC-RI using a Waters e2695 Alliance Separation module, a Waters 2998 Photodiode Array, and a Waters 2414 Refractive Index detector. Separation was achieved with a Bio-Rad Aminex HPX-87 column with dimensions 300 mm&#xd7;7.8 mm equipped with Micro-Guard Deashing and Carbo-P guard columns in series. Ultrapure water was used as eluent. The results are presented in the below table:</p>
+<p id="p-0107" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="133pt" align="left"/>
+<colspec colname="1" colwidth="84pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Weight-% based on the</entry>
+</row>
+<row>
+<entry/>
+<entry>total dry matter content</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="133pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Monomeric sugars</entry>
+<entry/>
+</row>
+<row>
+<entry>Glucose, HPLC-RI</entry>
+<entry>7.0 weight-%</entry>
+</row>
+<row>
+<entry>Xylose, HPLC-RI</entry>
+<entry>51.5 weight-%&#x2002;</entry>
+</row>
+<row>
+<entry>Galactose, HPLC-RI</entry>
+<entry>1.6 weight-%</entry>
+</row>
+<row>
+<entry>Arabinose, HPLC-RI</entry>
+<entry>2.0 weight-%</entry>
+</row>
+<row>
+<entry>Mannose, HPLC-RI</entry>
+<entry>1.3 weight-%</entry>
+</row>
+<row>
+<entry>Fructose, HPLC-RI</entry>
+<entry>0.1 weight-%</entry>
+</row>
+<row>
+<entry>Oligomeric sugars</entry>
+</row>
+<row>
+<entry>Glucose, acid hydrolysis, HPLC-RI</entry>
+<entry>0.0 weight-%</entry>
+</row>
+<row>
+<entry>Xylose, acid hydrolysis, HPLC-RI</entry>
+<entry>0.0 weight-%</entry>
+</row>
+<row>
+<entry>Galactose, acid hydrolysis, HPLC-RI</entry>
+<entry>1.8 weight-%</entry>
+</row>
+<row>
+<entry>Arabinose, acid hydrolysis, HPLC-RI</entry>
+<entry>0.0 weight-%</entry>
+</row>
+<row>
+<entry>Mannose, acid hydrolysis, HPLC-RI</entry>
+<entry>0.0 weight-%</entry>
+</row>
+<row>
+<entry>Fructose, acid hydrolysis, HPLC-RI</entry>
+<entry>0.0 weight-%</entry>
+</row>
+<row>
+<entry>Olig. carbohydrates total, acid hydrolysis,</entry>
+<entry>1.8 weight-%</entry>
+</row>
+<row>
+<entry>HPLC-RI</entry>
+</row>
+<row>
+<entry>Ash 525&#xb0; C.</entry>
+<entry>0.2 weight-%</entry>
+</row>
+<row>
+<entry>Lignin, soluble, UV 205</entry>
+<entry>6.5 weight-%</entry>
+</row>
+<row>
+<entry>Total nitrogen</entry>
+<entry>0.1 weight-%</entry>
+</row>
+<row>
+<entry>Carboxylic acids, total, HPLC-PDA</entry>
+<entry>7.2 weight-%</entry>
+</row>
+<row>
+<entry>5-HMF</entry>
+<entry>0.2 weight-%</entry>
+</row>
+<row>
+<entry>Sulphur, S, ICP</entry>
+<entry>0.2 weight-%</entry>
+</row>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0108" num="0102">The amount of oligomeric sugars in the sample was determined by hydrolyzing the oligomeric sugars into monomeric sugars using acid hydrolysis, analyzing the acid hydrolyzed sample using HPLC-RI, and comparing the result to those for samples for which the hydrolysis was not performed. By subtracting the amount of monomeric sugars in the untreated sample, the amount of oligomeric sugars was calculated.</p>
+<p id="p-0109" num="0103">It is obvious to a person skilled in the art that with the advancement of technology, the basic idea may be implemented in various ways. The embodiments are thus not limited to the examples described above; instead they may vary within the scope of the claims.</p>
+<p id="p-0110" num="0104">The embodiments described hereinbefore may be used in any combination with each other. Several of the embodiments may be combined together to form a further embodiment. A hardwood-derived carbohydrate composition or a method disclosed herein, may comprise at least one of the embodiments described hereinbefore. It will be understood that the benefits and advantages described above may relate to one embodiment or may relate to several embodiments. The embodiments are not limited to those that solve any or all of the stated problems or those that have any or all of the stated benefits and advantages. It will further be understood that reference to &#x2018;an&#x2019; item refers to one or more of those items. The term &#x201c;comprising&#x201d; is used in this specification to mean including the feature(s) or act(s) followed thereafter, without excluding the presence of one or more additional features or acts.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20230225383A1-20230720-M00001.NB">
+<img id="EMI-M00001" he="5.67mm" wi="76.20mm" file="US20230225383A1-20230720-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A hardwood-derived carbohydrate composition comprising monomeric sugars in an amount of 50-80 weight-% based on the total dry matter content of the carbohydrate composition, wherein the monomeric sugars include monomeric glucose and monomeric xylose, the amount of monomeric xylose in the carbohydrate composition being 40-60 weight-% based on the total dry matter content of the carbohydrate composition, and the weight ratio of monomeric glucose to monomeric xylose being 0.067-0.2.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The hardwood-derived carbohydrate composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the amount of monomeric xylose in the carbohydrate composition being 45-55 weight-% based on the total dry matter content of the carbohydrate composition.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The hardwood-derived carbohydrate composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carbohydrate composition comprises monomeric sugars and oligomeric sugars in a total amount of 65-85 weight-% based on the total dry matter content of the carbohydrate composition.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The hardwood-derived carbohydrate composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the weight ratio of monomeric glucose to monomeric xylose is 0.08-0.17.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The hardwood-derived carbohydrate composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carbohydrate composition comprises soluble lignin in an amount of 5-15 weight-%, based on the total dry matter content of the carbohydrate composition.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The hardwood-derived carbohydrate composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carbohydrate composition comprises carboxylic acids in an amount of 5-20 weight-%, based on the total dry matter content of the carbohydrate composition.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The hardwood-derived carbohydrate composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carbohydrate composition comprises 5-hydroxymethylfurfural (5-HMF) in an amount of at most 2 weight-%, based on the total dry matter content of the carbohydrate composition.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The hardwood-derived carbohydrate composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carbohydrate composition comprises sulphur in an amount of 250-4000 mg/kg, based on the total dry matter content of the carbohydrate composition.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The hardwood-derived carbohydrate composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carbohydrate composition comprises one or more of monomeric arabinose, monomeric galactose, monomeric mannose, and monomeric fructose in an amount of 0.5-5 weight % each, based on the total dry matter content of the carbohydrate composition.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The hardwood-derived carbohydrate composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carbohydrate composition comprises nitrogen in an amount of at most 0.3 weight-%, based on the total dry matter content of the carbohydrate composition when measured as total nitrogen content of the carbohydrate composition.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The hardwood-derived carbohydrate composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the carbohydrate composition comprises monomeric C6 sugars in an amount of at most 15 weight-%, based on the total dry matter content of the carbohydrate composition.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The hardwood-derived carbohydrate composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the conductivity of a 10% aqueous solution of the carbohydrate composition is 2.8-3.5 mS/cm, when determined according to SFS-EN 27888.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. A method for producing a hardwood-derived carbohydrate composition, wherein the method comprises:
+<claim-text>i) providing a wood-based feedstock originating from wood-based raw material and comprising wood chips, wherein the wood chips are hardwood chips,</claim-text>
+<claim-text>ii) subjecting the wood-based feedstock to a pretreatment to form a slurry, wherein the pretreatment comprises
+<claim-text>iia) subjecting the wood-based feedstock to an impregnation treatment with an impregnation liquid comprising sulphuric acid,</claim-text>
+<claim-text>iib) subjecting the impregnated wood-based feedstock to steam explosion treatment to form steam-treated wood-based feedstock, wherein the amount of sulphuric acid in the steam explosion treatment is 0.10-0.75 weight-% based on the total dry matter content of the wood-based feedstock, and</claim-text>
+<claim-text>iic) mixing the steam-treated wood-based feedstock from iib) with a liquid to form the slurry; and</claim-text>
+</claim-text>
+<claim-text>ii) separating the slurry into a liquid fraction and a fraction comprising solid cellulose particles by a solid-liquid separation process to recover the liquid fraction as the hardwood-derived carbohydrate composition.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the impregnation treatment in iia) is carried out at a temperature of 80-100&#xb0; C. for 1-30 minutes.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the steam explosion treatment in iib) is carried out by treating the impregnated wood-based feedstock with steam having a temperature of 130-240, under a pressure of 0.17-3.25 MPaG followed by a sudden, explosive decompression of the wood-based feedstock.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein 87-95% of xylan present the impregnated wood-based feedstock is converted into xylose in iib).</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the pretreatment in ii) comprises, before subjecting to the impregnation treatment, subjecting the wood-based feedstock to pre-steaming to form pre-steamed wood-based feedstock.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the solid-liquid separation process in iii) comprises washing.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The method of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein washing in iii) is continued until the amount of soluble organic components in the fraction comprising solid cellulose particles is 0.5-5 weight-%, based on the total dry matter content.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the separating the liquid fraction and the fraction comprising solid cellulose particles in iii) is carried out by displacement washing or countercurrent washing.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. Use of the hardwood-derived carbohydrate composition <claim-ref idref="CLM-00001">claim 1</claim-ref> for the production of a fermentation product, a sweetener, or animal feed.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

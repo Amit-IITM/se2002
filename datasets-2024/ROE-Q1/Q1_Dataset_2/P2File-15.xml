@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225524A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225524</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18098117</doc-number>
+<date>20230118</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>DE</country>
+<doc-number>10-2022 101 342.1</doc-number>
+<date>20220120</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>F</subclass>
+<main-group>5</main-group>
+<subgroup>08</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>F</subclass>
+<main-group>5</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>B</subclass>
+<main-group>12</main-group>
+<subgroup>40</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>F</subclass>
+<main-group>5</main-group>
+<subgroup>083</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>F</subclass>
+<main-group>5</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>B</subclass>
+<main-group>12</main-group>
+<subgroup>40</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">GOODS PRESENTATION SYSTEM</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>KESSEBOEHMER HOLDING KG</orgname>
+<address>
+<city>BAD ESSEN</city>
+<country>DE</country>
+</address>
+</addressbook>
+<residence>
+<country>DE</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>KETTLER</last-name>
+<first-name>HEIKO</first-name>
+<address>
+<city>BAD ROTHENFELDE</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>WISCHMEYER</last-name>
+<first-name>JENS</first-name>
+<address>
+<city>BAD ESSEN</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>KESSEBOEHMER HOLDING KG</orgname>
+<role>03</role>
+<address>
+<city>BAD ESSEN</city>
+<country>DE</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A goods presentation system includes a pedestal, a wall unit which is releasably secured to the pedestal, and a securing device for securing the wall unit to the pedestal. The securing device is fitted on the pedestal and is secured thereto. The pedestal and the wall unit form an L-shaped cross section or a T-shaped cross section when viewed from a side. At least one base is securable to the wall unit.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="171.53mm" wi="139.95mm" file="US20230225524A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="239.01mm" wi="156.21mm" file="US20230225524A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="242.82mm" wi="156.29mm" file="US20230225524A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="240.37mm" wi="154.52mm" file="US20230225524A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="233.85mm" wi="156.55mm" file="US20230225524A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="249.09mm" wi="155.53mm" file="US20230225524A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="240.45mm" wi="157.73mm" file="US20230225524A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="241.22mm" wi="159.34mm" file="US20230225524A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="236.30mm" wi="158.75mm" file="US20230225524A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="223.27mm" wi="157.06mm" file="US20230225524A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="232.16mm" wi="160.95mm" file="US20230225524A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="233.00mm" wi="159.34mm" file="US20230225524A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="233.93mm" wi="137.33mm" file="US20230225524A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="243.33mm" wi="157.06mm" file="US20230225524A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="199.14mm" wi="149.86mm" file="US20230225524A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="207.86mm" wi="156.29mm" file="US20230225524A1-20230720-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO PRIOR APPLICATIONS</heading>
+<p id="p-0002" num="0001">Priority is claimed to German Patent Application No. DE 10 2022 101 342.1, filed Jan. 20, 2022. The entire disclosure of said application is incorporated by reference herein.</p>
+<heading id="h-0002" level="1">FIELD</heading>
+<p id="p-0003" num="0002">The present invention relates to a goods presentation system for presenting goods, the goods presentation system having a pedestal and a wall unit which is secured to the pedestal so that the pedestal and the wall unit form an L-shaped or a T-shaped cross section when viewed from the side. Bases on which goods can be placed for presentation can be secured to the wall unit.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">In a goods presentation system having an L-shaped cross section, the goods to be presented are typically placed at one side of the wall unit, while in a goods presentation system having a T-shaped cross section, goods can be placed at both sides of the wall unit.</p>
+<p id="p-0005" num="0004">Apparatuses for presenting and/or storing goods are in many applications items of furniture which are not permanently erected in a saleroom, but which must instead be provided as necessary, for example, for a specific sales promotion.</p>
+<p id="p-0006" num="0005">Apparatuses for presenting and/or storing goods have previously been described, for example, in DE 20 2020 106 573 U1.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0007" num="0006">An aspect of the present invention is to provide a goods presentation system which can be provided in a particularly space-saving and consequently cost-effective manner.</p>
+<p id="p-0008" num="0007">In an embodiment, the present invention provides a goods presentation system which includes a pedestal, a wall unit which is configured to be releasably secured to the pedestal, and a securing device for securing the wall unit to the pedestal. The securing device is fitted on the pedestal and is secured thereto. The pedestal and the wall unit form an L-shaped cross section or a T-shaped cross section when viewed from a side. At least one base is securable to the wall unit.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0009" num="0008">The present invention is described in greater detail below on the basis of embodiments and of the drawings in which:</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows an embodiment of the goods presentation system according to the present invention in the assembled state;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a first embodiment of the goods presentation system in a partially exploded illustration;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows a detailed illustration from <figref idref="DRAWINGS">FIG. <b>2</b></figref>;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows the goods presentation system according to <figref idref="DRAWINGS">FIG. <b>2</b></figref> in a partially assembled state;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows a detailed illustration from <figref idref="DRAWINGS">FIG. <b>4</b></figref>;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows the goods presentation system according to <figref idref="DRAWINGS">FIG. <b>2</b></figref> in a completely mounted state;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows a detailed illustration from <figref idref="DRAWINGS">FIG. <b>6</b></figref>;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows a second embodiment of the goods presentation system in a partially exploded illustration;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>9</b></figref> shows a detailed illustration from <figref idref="DRAWINGS">FIG. <b>8</b></figref>;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows the exploded illustration according to <figref idref="DRAWINGS">FIG. <b>2</b></figref> from another perspective;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a detailed illustration from <figref idref="DRAWINGS">FIG. <b>10</b></figref>;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>12</b></figref> shows the goods presentation system according to <figref idref="DRAWINGS">FIG. <b>8</b></figref> in a partially assembled state;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>13</b></figref> shows a detailed illustration from <figref idref="DRAWINGS">FIG. <b>12</b></figref>;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>14</b></figref> shows the goods presentation system according to <figref idref="DRAWINGS">FIG. <b>8</b></figref> in a completely assembled state;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>15</b></figref> shows a detailed illustration from <figref idref="DRAWINGS">FIG. <b>14</b></figref>;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>16</b></figref> shows a third embodiment of the goods presentation system;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>17</b></figref> shows a detailed illustration from <figref idref="DRAWINGS">FIG. <b>16</b></figref>;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>18</b></figref> shows the goods presentation system according to <figref idref="DRAWINGS">FIG. <b>16</b></figref> in an exploded illustration;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>19</b></figref> shows a detailed illustration from <figref idref="DRAWINGS">FIG. <b>18</b></figref>;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>20</b></figref> shows the goods presentation system according to <figref idref="DRAWINGS">FIG. <b>16</b></figref> in a partially assembled state;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>21</b></figref> shows a detailed illustration from <figref idref="DRAWINGS">FIG. <b>20</b></figref>;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>22</b></figref> shows an exploded illustration of the securing device of the goods presentation system according to <figref idref="DRAWINGS">FIG. <b>16</b></figref>;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>23</b></figref> shows a side view of the securing device of the goods presentation system according to <figref idref="DRAWINGS">FIG. <b>16</b></figref>;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>24</b></figref> shows a cross sectional view of the securing device of the goods presentation system according to <figref idref="DRAWINGS">FIG. <b>16</b></figref> along the line X-X of <figref idref="DRAWINGS">FIG. <b>23</b></figref>;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>25</b></figref> shows a top view of the securing device of the goods presentation system according to <figref idref="DRAWINGS">FIG. <b>16</b></figref>;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>26</b></figref> shows the pedestal and securing device of another embodiment of the goods presentation system in an exploded illustration;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>27</b></figref> shows a detailed illustration from <figref idref="DRAWINGS">FIG. <b>26</b></figref>;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. <b>28</b></figref> shows the pedestal and securing device according to <figref idref="DRAWINGS">FIG. <b>26</b></figref> in a partially assembled state;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. <b>29</b></figref> shows a detailed illustration from <figref idref="DRAWINGS">FIG. <b>28</b></figref>;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. <b>30</b></figref> shows the pedestal and securing device according to <figref idref="DRAWINGS">FIG. <b>26</b></figref> in a completely assembled state; and</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. <b>31</b></figref> shows a detailed illustration from <figref idref="DRAWINGS">FIG. <b>30</b></figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0041" num="0040">The present invention provides a goods presentation system which comprises a securing device for securing the wall unit to the pedestal, wherein the securing device is fitted on the pedestal and is secured thereto.</p>
+<p id="p-0042" num="0041">The use of a securing device which can be fitted on the pedestal makes it possible for the pedestal and securing device to be stored or packed separately from each other. A plurality of pedestals can consequently be arranged one on top of the other in a particularly space-saving manner for dispatch. The compact arrangement of the pedestals is not impeded by a securing device which may protrude. Storage costs and dispatch costs for such a goods presentation system are thereby reduced. After delivery, the securing device can be fitted in a simple manner on the pedestal and be secured thereto.</p>
+<p id="p-0043" num="0042">The securing device can, for example, be releasably secured to the pedestal. The term &#x201c;releasably&#x201d; in this instance is intended to be understood to mean that the securing device can be separated from the pedestal in a destruction-free manner so that it can be subsequently releasably secured to the pedestal again. The securing device can then be released from the pedestal again for further transport or in particular for longer-term storage.</p>
+<p id="p-0044" num="0043">The pedestal can, for example, have at least one recess in which the securing device is introduced. The securing device can be fitted on the pedestal by being introduced into the recess. The fact that the securing device can be introduced into at least one recess of the pedestal provides a goods presentation system which can be provided in a simple manner, wherein the wall unit is securely connected to the pedestal via the securing device. The securing device which is introduced into the recess is arranged in a stable manner on the pedestal and can reliably direct the forces which are introduced via the wall unit into the pedestal.</p>
+<p id="p-0045" num="0044">The securing device which is secured to the pedestal can, for example, form a mandrel, and the wall unit can, for example, have a pillar which is in the form of a hollow profile and which is fitted on the securing device which is in the form of a mandrel. In such a goods presentation system, the pedestal and the wall unit can be secured to each other in a particularly simple manner or separated from each other via the securing device by the wall unit being fitted on the securing device which is secured to the pedestal or being removed therefrom. The securing device is in particular formed by a pipe portion, by a shaped portion, or by a joint portion.</p>
+<p id="p-0046" num="0045">The securing device can, for example, be constructed in an H-shaped or a U-shaped manner with two legs. The two legs have in this instance a continuation at the end in each case. The pedestal has two recesses which correspond to the continuations of the H-shaped or U-shaped securing device and in which the respective continuations are introduced. An H-shaped or U-shaped securing device which is secured to the legs via two continuations in two corresponding recesses of the pedestal is particularly stable.</p>
+<p id="p-0047" num="0046">The securing device can, for example, be constructed as a U-shaped, bent sheet metal component. Securing devices which are constructed as a U-shaped, bent sheet metal component can be produced in a simple and cost-effective manner.</p>
+<p id="p-0048" num="0047">The continuations can, for example, each have a wedge receiving member, wherein a wedge which releasably fixes the securing device to the pedestal is introduced into the wedge receiving member. A securing device which is releasably secured to the pedestal can be fixed in a particularly simple manner via such a wedge.</p>
+<p id="p-0049" num="0048">The wedge which is introduced into the wedge receiving members can, for example, be secured to the pedestal via a securing screw. The wedge is secured in the wedge receiving members via such a securing screw. This prevents the wedge and consequently the securing device from being unintentionally released from the pedestal. The wall unit of the goods presentation system is thereby safely secured to the pedestal.</p>
+<p id="p-0050" num="0049">The securing device can, for example, have a threaded rod. The pedestal thereby has a corresponding threaded rod recess through which the threaded rod is guided. The securing device is thereby secured to the pedestal via the threaded rod and a nut which is securely screwed thereto. The securing device can thus be safely and releasably secured to the pedestal in a simple manner.</p>
+<p id="p-0051" num="0050">The securing device can, for example, have an inner thread. The pedestal thereby has a screw recess through which a screw which cooperates with the inner thread of the securing device and via which the securing device is securely screwed to the pedestal is guided. The securing device can thus be safely and releasably secured to the pedestal in a simple manner.</p>
+<p id="p-0052" num="0051">The two above-mentioned embodiments in which the securing device is screwed to the pedestal can be produced with more generous production tolerances and consequently in a more cost-effective manner than the embodiment with a wedge and wedge receiving member. A wedge connection must provide that the wedge receiving members are accessible for the wedge prior to the securing of the securing device and are not partially concealed by any curved surfaces, layers of paint, or ridges in the pedestal. Wedge receiving members which are concealed in this manner are not accessible for a wedge.</p>
+<p id="p-0053" num="0052">The securing device can, for example, be in the form of a U-shaped bent sheet metal component having two legs with continuations which are arranged at the end of the legs and which are introduced into corresponding recesses in the pedestal. The inner thread is thereby in the form of a nut which is arranged between the legs of the securing device which is in the form of a U-shaped, bent sheet metal component and which is in particular welded. A securing device which is constructed as a U-shaped sheet metal component and which is secured via two continuations to the legs in two corresponding recesses of the pedestal is particularly stable. The securing device can be provided with an inner thread in a simple manner via the arrangement of a nut between the legs.</p>
+<p id="p-0054" num="0053">The continuations can, for example, each have sheet metal strip receiving members, wherein a sheet metal strip is introduced into the sheet metal strip receiving members of a securing device. The sheet metal strip distributes the forces which are applied by a screw to the pedestal. The releasable connection of the securing device to the pedestal is particularly stable.</p>
+<p id="p-0055" num="0054">The securing device can, for example, have a wall unit thread via which the wall unit is screwed to the securing device. The wall unit is not only fitted on the securing device, but is also screwed thereto. Such a vertical orientation of the wall unit is thus in particular improved. The goods presentation system is thereby more stable and has a higher load-bearing capacity.</p>
+<p id="p-0056" num="0055">The wall unit thread can, for example, be in the form of a wall unit nut which is arranged between the legs of the U-shaped, bent sheet metal component and which is in particular welded. The wall unit nut may in this instance in particular be arranged in a state rotated through 90&#xb0; with respect to a nut to secure the securing device to the pedestal. The wall unit may be connected to the securing device via a horizontally arranged screw connection, while the securing device can be connected to the pedestal via a vertically arranged screw connection.</p>
+<p id="p-0057" num="0056">The securing device and the pedestal can, for example, form an auxiliary assembly positioning member for a correct assembly of the securing device on the pedestal. This is particularly advantageous when the securing device, in particular a securing device which is in the form of a U-shaped sheet metal component, has a recess in order not to impede bases from being received on a pillar of the wall unit. In this instance, the auxiliary assembly positioning member prevents the securing device from being mounted in an incorrect orientation and, in spite of the recess which is provided on the securing device, impairing the receiving of bases on the pillar of the wall unit. The auxiliary assembly positioning member can in this instance in particular be formed via an asymmetrically arranged wedge receiving members or via sheet metal strip receiving members, wherein a hole in the sheet metal strip or in the wedge through which a screw is intended to be guided only corresponds in the correct assembly position to a corresponding recess in the pedestal. A fixing of the sheet metal strip or a securing of the wedge to the pedestal is in this instance only possible with a correct orientation of the securing device.</p>
+<p id="p-0058" num="0057">Other advantages and details of the present invention can be derived from the following description of the drawings which show exemplary embodiments according to the present invention. Components which are identical or which have a similar function (where appropriate) are thereby given identical reference numerals. Individual technical features of the embodiments described below can be combined with the features of individual embodiments described above to form objects according to the present invention.</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a goods presentation system <b>2</b> having a pedestal <b>4</b> and a wall unit <b>6</b> in an assembled state. The wall unit <b>6</b> has three pillars <b>8</b> which are in the form of a hollow profile, and on which bases (which are not shown in the drawings) can be secured. The pillars <b>8</b> are provided with corresponding recesses therefor. Rollers <b>9</b> are arranged on the pedestal <b>4</b>.</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a first embodiment of the goods presentation system <b>2</b> in an exploded illustration. On the pedestal <b>4</b> are provided three securing devices <b>10</b> which are arranged so as to correspond to the pillars <b>8</b> of the wall unit <b>6</b>. Each securing device <b>10</b> is in the form of a U-shaped sheet metal component. These U-shaped sheet metal components have legs <b>12</b> on the ends of which continuations <b>14</b> are arranged. Corresponding pairs of recesses <b>16</b> for the continuations <b>14</b> are provided on the pedestal <b>4</b>. Wedge receiving members <b>18</b> for a wedge <b>20</b> are arranged in the continuations <b>14</b>. The securing devices <b>10</b> are introduced with the continuations <b>14</b> into the corresponding recesses <b>16</b> on the pedestal <b>4</b> and are thereby fitted on the pedestal <b>4</b>. Each wedge <b>20</b> is guided through a respective wedge receiving member <b>18</b> into the continuations <b>14</b> so as to releasably fix the securing device <b>10</b> to the pedestal <b>4</b>. The wedge <b>20</b> can subsequently be screwed via a securing screw <b>22</b> and a thread which is arranged on the pedestal <b>4</b>.</p>
+<p id="p-0061" num="0060">The securing devices <b>10</b> which are secured to the pedestal <b>4</b> form mandrels which can be introduced into the pillars <b>8</b> of the wall unit <b>6</b> which are in the form of a hollow profile or onto which the wall unit <b>6</b> with the pillars <b>8</b> which are in the form of a hollow profile is fitted.</p>
+<p id="p-0062" num="0061">In <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the pedestal <b>4</b> is formed from hollow profiles which are welded to each other and which are arranged in a plane. Without the securing devices <b>10</b> which are arranged thereon, and in particular without the rollers <b>9</b> which are arranged thereon, the pedestal <b>4</b> can be packed, stored and dispatched in a particularly space-saving manner with additional pedestals <b>4</b>. The goods presentation system <b>2</b> can then be assembled in a simple manner at the destination.</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows a detailed cut-out of <figref idref="DRAWINGS">FIG. <b>2</b></figref> where the cooperating components of the securing device <b>10</b> and the pedestal <b>4</b> are illustrated with the wedge <b>20</b> and the securing screw <b>22</b> to an enlarged scale.</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. <b>4</b></figref> and the associated detailed cut-out of <figref idref="DRAWINGS">FIG. <b>5</b></figref> show the goods presentation system <b>2</b> in a partially assembled state. <figref idref="DRAWINGS">FIGS. <b>6</b> and <b>7</b></figref> show the completely assembled goods presentation system <b>2</b>.</p>
+<p id="p-0065" num="0064"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows a partially exploded illustration of an alternative embodiment of the goods presentation system <b>2</b>. The securing devices <b>10</b> which are also in the form of U-shaped sheet metal components also have continuations <b>14</b>. The securing devices <b>10</b> are fitted on the pedestal <b>4</b> via the continuations <b>14</b> being introduced into the respective recesses <b>6</b> of the pedestal. A nut <b>24</b> is arranged between the legs <b>12</b> of the securing device <b>10</b> in each case, in particular welded. The nut <b>24</b> can be seen in <figref idref="DRAWINGS">FIG. <b>10</b></figref> and the associated detailed illustration of <figref idref="DRAWINGS">FIG. <b>11</b></figref>. Screw recesses <b>26</b> through which a respective screw <b>28</b> is guided are arranged for each securing device <b>10</b> in the pedestal <b>4</b>. The securing device <b>10</b> is screwed to the pedestal <b>4</b> via the screw <b>28</b> and the nut <b>24</b>.</p>
+<p id="p-0066" num="0065">In the continuations <b>14</b> of the legs <b>12</b> of the securing device <b>10</b> are arranged sheet metal strip receiving members <b>30</b> in which a sheet metal strip <b>32</b> is introduced in each case. The sheet metal strip <b>32</b> has a hole through which the screw <b>28</b> is guided. The sheet metal strip <b>32</b> serves to distribute the forces which are applied by the screw <b>28</b> to the pedestal <b>4</b>. The releasable connection between the securing device <b>10</b> and pedestal <b>4</b> is thereby more durable.</p>
+<p id="p-0067" num="0066">The sheet metal strip receiving members <b>30</b> are, with respect to a center plane in a viewing direction of the securing device <b>10</b> from the side, introduced in a state which is offset in an outward direction into the continuations <b>14</b> of the legs <b>12</b>. An auxiliary assembly positioning member is thereby formed. Only when the securing devices <b>10</b> are introduced into the recesses <b>16</b> in a correct orientation can the screw <b>28</b> be guided through the hole in the sheet metal strip <b>32</b> and the corresponding screw recess <b>26</b> in the pedestal <b>4</b> in order to screw the securing devices <b>10</b> to the pedestal <b>4</b>. An assembly of the securing devices <b>10</b> in an incorrect orientation is thereby prevented. An assembly of the securing devices <b>10</b> in a correct orientation is important since the securing devices <b>10</b> which are in the form in the embodiments of U-shaped bent sheet metal components have a lateral recess in the base of the U. This lateral recess is intended to be arranged to face forwards so as to prevent the securing devices <b>10</b> from concealing base recesses which are provided for receiving bases on the pillars <b>8</b> of the wall unit <b>6</b>.</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIGS. <b>12</b> and <b>13</b></figref> show the goods presentation system <b>2</b> in a partially assembled state. <figref idref="DRAWINGS">FIGS. <b>14</b> and <b>15</b></figref> show the completely assembled goods presentation system <b>2</b>.</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIGS. <b>16</b> and <b>17</b></figref> to <figref idref="DRAWINGS">FIGS. <b>20</b> and <b>21</b></figref> show another embodiment of the goods presentation system <b>2</b>. This embodiment is similar to the embodiment according to <figref idref="DRAWINGS">FIGS. <b>8</b> to <b>15</b></figref>. Each securing device <b>10</b> additionally has a wall unit nut <b>34</b>. The pillars <b>8</b> of the wall unit <b>6</b> are provided with a recess <b>38</b>. In the assembled state, a wall unit screw <b>36</b> is guided through the recess <b>38</b>. The wall unit <b>6</b> is screwed thereto via the wall unit screw <b>36</b> and the wall unit nut <b>34</b> of the securing device <b>10</b>. The vertical orientation of the wall unit <b>6</b> is thereby improved. Tilting moments which are introduced to the pillars <b>8</b> on the securing device <b>10</b> are reduced via an improved vertical orientation. The goods presentation system <b>2</b> therefore has a greater load-bearing capacity.</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIGS. <b>22</b> to <b>25</b></figref> show the securing device <b>10</b> of the goods presentation system <b>2</b> according to <figref idref="DRAWINGS">FIGS. <b>9</b> to <b>11</b></figref> in different views. <figref idref="DRAWINGS">FIG. <b>22</b></figref> is an exploded illustration. <figref idref="DRAWINGS">FIGS. <b>23</b> to <b>25</b></figref> show the securing device <b>10</b> with the sheet metal strip <b>32</b> secured thereto and the screw <b>28</b> which is guided through the hole in the sheet metal strip <b>32</b> and which is screwed into an inner thread of the securing device <b>10</b>. The sheet metal strip <b>32</b> is introduced via sheet metal strip receiving members <b>30</b> into the continuations <b>14</b> of the legs <b>12</b> of the securing device <b>10</b> which is in the form of a U-shaped, bent sheet metal component. The wall unit screw <b>36</b> is introduced into the wall unit nut <b>34</b> of the securing device <b>10</b>.</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIGS. <b>26</b> to <b>31</b></figref> show a fourth embodiment of the goods presentation system <b>2</b> in which the securing devices <b>10</b> are secured to the pedestal <b>4</b> in a non-releasable manner. The securing devices <b>10</b> are again in the form of U-shaped, bent sheet metal components having legs <b>12</b> which have continuations <b>14</b>. The continuations <b>14</b> are introduced into recesses <b>16</b> on the pedestal so as to fit the securing device <b>10</b> on the pedestal <b>4</b>. The continuations <b>14</b> also have recesses. These recesses are used in this embodiment to be able to more easily deform portions of the continuations <b>14</b>. As a result of the deformation of the continuations <b>14</b>, the securing device <b>10</b> which are fitted via the introduction into the recesses <b>16</b> of the pedestal <b>4</b> are secured to the pedestal in a non-releasable manner, at least not releasable in a destruction-free manner.</p>
+<p id="p-0072" num="0071">The goods presentation systems <b>2</b> of the embodiments have L-shaped cross sections. These are typically provided with goods at one side of the wall unit <b>6</b>. The goods presentation systems <b>2</b> can readily be produced with a T-shaped cross section, wherein the wall unit <b>6</b> can then be provided with goods at both sides.</p>
+<p id="p-0073" num="0072">The present invention is not limited to embodiments described herein; reference should be had to the appended claims.</p>
+<heading id="h-0007" level="1">LIST OF REFERENCE NUMERALS</heading>
+<p id="p-0074" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0073"><b>2</b> Goods presentation system</li>
+        <li id="ul0002-0002" num="0074"><b>4</b> Pedestal</li>
+        <li id="ul0002-0003" num="0075"><b>6</b> Wall unit</li>
+        <li id="ul0002-0004" num="0076"><b>8</b> Pillar</li>
+        <li id="ul0002-0005" num="0077"><b>9</b> Roller</li>
+        <li id="ul0002-0006" num="0078"><b>10</b> Securing device</li>
+        <li id="ul0002-0007" num="0079"><b>12</b> Leg</li>
+        <li id="ul0002-0008" num="0080"><b>14</b> Continuation (of leg <b>12</b>)</li>
+        <li id="ul0002-0009" num="0081"><b>16</b> Recess</li>
+        <li id="ul0002-0010" num="0082"><b>18</b> Wedge receiving member</li>
+        <li id="ul0002-0011" num="0083"><b>20</b> Wedge</li>
+        <li id="ul0002-0012" num="0084"><b>22</b> Securing screw</li>
+        <li id="ul0002-0013" num="0085"><b>24</b> Nut</li>
+        <li id="ul0002-0014" num="0086"><b>26</b> Screw recess</li>
+        <li id="ul0002-0015" num="0087"><b>28</b> Screw</li>
+        <li id="ul0002-0016" num="0088"><b>30</b> Sheet metal strip receiving member</li>
+        <li id="ul0002-0017" num="0089"><b>32</b> Sheet metal strip</li>
+        <li id="ul0002-0018" num="0090"><b>34</b> Wall unit nut</li>
+        <li id="ul0002-0019" num="0091"><b>36</b> Wall unit screw</li>
+        <li id="ul0002-0020" num="0092"><b>38</b> Recess</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A goods presentation system comprising:
+<claim-text>a pedestal;</claim-text>
+<claim-text>a wall unit which is configured to be releasably secured to the pedestal; and</claim-text>
+<claim-text>a securing device for securing the wall unit to the pedestal,</claim-text>
+<claim-text>wherein,</claim-text>
+<claim-text>the securing device is fitted on the pedestal and is secured thereto,</claim-text>
+<claim-text>the pedestal and the wall unit form an L-shaped cross section or a T-shaped cross section when viewed from a side, and</claim-text>
+<claim-text>at least one base is securable to the wall unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The goods presentation system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the securing device is releasably secured to the pedestal.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The goods presentation system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein,
+<claim-text>the securing device, when secured to the pedestal, forms a mandrel, and</claim-text>
+<claim-text>the wall unit comprises a pillar having a hollow profile form which is configured to be fitted on the mandrel.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The goods presentation system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pedestal comprises a plurality of recesses which are configured to have the securing device be introduced therein.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The goods presentation system as recited in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein,
+<claim-text>the securing device is provided in a form of a U-shaped, bent sheet metal component comprising two legs,</claim-text>
+<claim-text>each of the two legs comprises a continuation arranged at an end thereof, and</claim-text>
+<claim-text>each continuation is configured to be arranged in corresponding one of the plurality of recesses of the pedestal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The goods presentation system as recited in <claim-ref idref="CLM-00005">claim 5</claim-ref>, further comprising:
+<claim-text>a sheet metal strip,</claim-text>
+<claim-text>wherein,</claim-text>
+<claim-text>each continuation of the securing device comprises a sheet metal strip receiving member, and</claim-text>
+<claim-text>the sheet metal strip is configured to be introduced into the sheet metal strip receiving members.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The goods presentation system as recited in <claim-ref idref="CLM-00005">claim 5</claim-ref>, further comprising:
+<claim-text>a wedge,</claim-text>
+<claim-text>wherein,</claim-text>
+<claim-text>each continuation of the security device comprises a wedge receiving member, and</claim-text>
+<claim-text>the wedge is configured to be introduced into the wedge receiving members so as to releasably fix the securing device to the pedestal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The goods presentation system as recited in <claim-ref idref="CLM-00007">claim 7</claim-ref>, further comprising:
+<claim-text>a securing screw which is configured to secure the wedge to the pedestal when the wedge is introduced into the wedge receiving members.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The goods presentation system as recited in <claim-ref idref="CLM-00005">claim 5</claim-ref>, further comprising:
+<claim-text>a screw,</claim-text>
+<claim-text>wherein,</claim-text>
+<claim-text>the securing device comprises an inner thread,</claim-text>
+<claim-text>the pedestal comprises a screw recess, and</claim-text>
+<claim-text>the securing device is secured to the pedestal via the screw being guided through the screw recess in the pedestal and being screwed into the inner thread of the securing device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The goods presentation system as recited in <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the inner thread of the securing device is formed via a nut which is arranged between the two legs of the securing device.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The goods presentation system as recited in <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the nut is welded between the two legs of the securing device.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The goods presentation system as recited in <claim-ref idref="CLM-00009">claim 9</claim-ref>, further comprising:
+<claim-text>a sheet metal strip,</claim-text>
+<claim-text>wherein,</claim-text>
+<claim-text>each continuation of the securing device comprises a sheet metal strip receiving member, and</claim-text>
+<claim-text>the sheet metal strip is configured to be introduced into the sheet metal strip receiving members.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The goods presentation system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a nut,</claim-text>
+<claim-text>wherein,</claim-text>
+<claim-text>the pedestal comprises a threaded rod recess,</claim-text>
+<claim-text>the securing device comprises a threaded rod which is configured to be guided through the threaded rod recess in the pedestal, and</claim-text>
+<claim-text>the securing device is secured to the pedestal via the threaded rod being guided through the threaded rod recess in the pedestal and the nut being screwed onto the threaded rod.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The goods presentation system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the securing device comprises a wall unit nut via which the wall unit is screwed onto the securing device.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The goods presentation system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the securing device and the pedestal form an auxiliary assembly positioning member so as to provide for a correct assembly of the securing device on the pedestal.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

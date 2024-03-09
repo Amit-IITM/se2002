@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225380A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230711" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225380</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18146345</doc-number>
+<date>20221223</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>CN</country>
+<doc-number>202210044684.X</doc-number>
+<date>20220114</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>17</main-group>
+<subgroup>10</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>17</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>P</subclass>
+<main-group>20</main-group>
+<subgroup>25</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>29</main-group>
+<subgroup>269</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>29</main-group>
+<subgroup>256</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>B</subclass>
+<main-group>4</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>17</main-group>
+<subgroup>10</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>B</subclass>
+<main-group>4</main-group>
+<subgroup>068</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>17</main-group>
+<subgroup>70</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>29</main-group>
+<subgroup>256</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>29</main-group>
+<subgroup>271</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>P</subclass>
+<main-group>20</main-group>
+<subgroup>25</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="utzzwi9r394v0">LOW LOSS-OF-SOUP FISH BALL WITH FILLINGS AND THE METHOD OF PREPARING THE SAME</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Jiangnan University</orgname>
+<address>
+<city>Wuxi City</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="01" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Taizhou Anjoy Foods Co., LTD.</orgname>
+<address>
+<city>Xinghua</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>XU</last-name>
+<first-name>Yanshun</first-name>
+<address>
+<city>Wuxi City</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>JIANG</last-name>
+<first-name>Heng</first-name>
+<address>
+<city>Wuxi City</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>FAN</last-name>
+<first-name>Lixin</first-name>
+<address>
+<city>Wuxi City</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>HUANG</last-name>
+<first-name>Jianlian</first-name>
+<address>
+<city>Wuxi City</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>RUAN</last-name>
+<first-name>Dongna</first-name>
+<address>
+<city>Wuxi City</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>LIU</last-name>
+<first-name>Cikun</first-name>
+<address>
+<city>Wuxi City</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="06" designation="us-only">
+<addressbook>
+<last-name>CHEN</last-name>
+<first-name>Xu</first-name>
+<address>
+<city>Wuxi City</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="07" designation="us-only">
+<addressbook>
+<last-name>XIA</last-name>
+<first-name>Wenshui</first-name>
+<address>
+<city>Wuxi City</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="08" designation="us-only">
+<addressbook>
+<last-name>YAO</last-name>
+<first-name>Yuan</first-name>
+<address>
+<city>Wuxi City</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="09" designation="us-only">
+<addressbook>
+<last-name>YU</last-name>
+<first-name>Dawei</first-name>
+<address>
+<city>Wuxi City</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A frozen stuffed fish ball with low soup loss and the method of preparing the same. By combining hydrocolloid and oil pre-emulsification technology, the problems of taste of powder, soup loss of fish balls after freeze-thaw cooking and the taste of frozen stuffed fish balls after freeze-thaw cooking are solved. The use of konjac gum and carrageenan or curdlan respectively, combined with oil pre-emulsification technology, also effectively improves the texture and brightness of the outer skin of fish balls. Compared with a single addition of conventional technology, the hardness, elasticity and brightness are increased, solving loosen structure, brightness and other problems due to freeze-thaw cycle. Further, it may be used in the fish ball processing line for preparing fish ball with fillings and other stuffed surimi products.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="180.51mm" wi="136.48mm" file="US20230225380A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="184.40mm" wi="135.04mm" file="US20230225380A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading level="1" id="h-0001">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention generally relates to the field of aquatic product processing. More specifically the present invention relates to a low-loss-of-soup fish ball with fillings and the method of preparing the same.</p>
+<heading level="1" id="h-0002">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Fish ball with fillings, also known as bao-xin yu wan, has a broad market prospect, and it is favored by consumers for its fresh and juicy taste. When the product is heated and cooked, a small amount of soup in the filling will seep into the outer skin after a long period of frozen storage and circulation. The consequence is a certain degree of soup loss and a poor taste when re-cooked, which seriously affects the business development of the product and the economic benefits. Therefore, the urgent problems in the aquatic product processing industry are as follows: how to control and improve the quality of surimi products in the process of freezing and storing, how to reduce the loss-of-soup after long-term frozen storage, and how to maintain the juicy taste of surimi products. The addressed issue is very important for improving the quality and industrial efficiency of surimi products.</p>
+<p id="p-0004" num="0003">Conventionally, konjac gum, cortisol and carrageenan have been widely used as conditioners to improve the gel strength and quality of surimi products. However, they are all aimed at the quality changes of unfilled surimi products in freezing and storing. There are not many improvement methods in the field to control the loss of soup during freezing and reheating. It is well known that the fillings of the stuffed surimi product are having poor stability after repeated freezing and thawing. Since the oil-water migration problem is serious, it is necessary to enhance the water and oil resistance of the surimi gel through the directional regulation of the surimi gel. The development of the key technology of preservation and quality control of the stuffed surimi products may significantly improve the soup taste and other edible quality of the stuffed fish balls products.</p>
+<p id="p-0005" num="0004">Currently, the processing of the fish ball with fillings product is mainly based on the invention of processing technology and equipment for stuffed fish balls with various characteristics of fillings. No prior arts have disclosed the quality control technology of the cooked fish ball with fillings products after the freezing or thawing process. Therefore, the hydrocolloid combined with pre-emulsification technology may not only reduce the loss of soup in surimi products, but also provide a processing method that is easy-to-use and time-saving, and so forth improve the water and oil barrier performance of surimi gel.</p>
+<heading level="1" id="h-0003">SUMMARY OF THE INVENTION</heading>
+<p id="p-0006" num="0005">The purpose of this part is to outline some aspects of embodiments of the present invention and to briefly describe some preferred embodiments. Some simplifications or omissions may be made in this part and in the summary of the specification and the name of the invention of this application to avoid obscuring the purpose of this part, the summary of the specification and the name of the invention, and such simplifications or omissions cannot be used to limit the scope of the invention.</p>
+<p id="p-0007" num="0006">In view of the above and the problems in the prior art, the present invention is proposed.</p>
+<p id="p-0008" num="0007">Accordingly, it is an objective of the present invention to provide a low-loss-of-soup frozen fish ball with fillings and the method of preparing the same.</p>
+<p id="p-0009" num="0008">In accordance with an aspect of the present invention, the present invention provides the following technical solution: a method for preparing frozen stuffed fish balls with low soup loss, including: Pre-emulsifying the polysaccharide solution with edible oil, adding the surimi and mixing it with tapioca starch and water to obtain the frozen stuffed fish ball outer skin material with low soup loss, and using the outer skin material to wrap the inner filling to prepare fish balls with fillings.</p>
+<p id="p-0010" num="0009">In accordance with one embodiment of the present invention, said polysaccharide solution includes solute and solvent, wherein the solute is a mixture of konjac gum and curdlan or carrageenan. The mass ratio of konjac gum to curdlan or carrageenan is 9~5:5~1, and the solvent is water.</p>
+<p id="p-0011" num="0010">In accordance with another embodiment of the present invention, the mass ratio of solute of said polysaccharide solution to edible oil and surimi is 0.3:15~20:49~50.</p>
+<p id="p-0012" num="0011">In accordance with another embodiment of the present invention, said pre-emulsified oil to water ratio is 3:2.</p>
+<p id="p-0013" num="0012">In accordance with another embodiment of the present invention, the method further includes:</p>
+<p id="p-0014" num="0013">Semi-thawing: Thaw the frozen surimi at 4&#xb0; C. to a central temperature of -5 to -2&#xb0; C.</p>
+<p id="p-0015" num="0014">Air chopping: Cut the semi-thawed surimi into small pieces. Add phosphate and chop.</p>
+<p id="p-0016" num="0015">Salt chopping: Add salt to the air chopped surimi and chop to obtain the treated surimi.</p>
+<p id="p-0017" num="0016">Mix chopping: Dissolve the polysaccharide substance in water, mix with edible oil for pre-emulsification, add to the processed surimi and chop. Chop and mix well with tapioca starch and the remaining water to obtain the crust material for low-soup-loss frozen stuffed fish balls.</p>
+<p id="p-0018" num="0017">Preparing the filling: Chop lean meat into minced meat. Add salt and mix well. Add phosphate, auxiliary ingredients, and green onion and ginger water. Chop until the slurry is uniform and fine to obtain the fish ball with fillings.</p>
+<p id="p-0019" num="0018">Heating and molding: the outer skin material is wrapped around the filling to make fish balls, which are gelatinized and formed by the two-stage heating method.</p>
+<p id="p-0020" num="0019">Cooling and quick-freezing: the heated gelatinized fish balls are placed in cold water for cooling and quick-freezing.</p>
+<p id="p-0021" num="0020">Freezing and storing: Pack and store below -18&#xb0; C.</p>
+<p id="p-0022" num="0021">In accordance with another embodiment of the present invention, said air chopping, further includes, said phosphate being a mixture of sodium tripolyphosphate, sodium hexametaphosphate and sodium pyrophosphate in the mass ratio of 1:1:1. The mass ratio of phosphate to semi-thawed surimi is 0.05 ~ 0.09: 49 ~ 50.</p>
+<p id="p-0023" num="0022">In accordance with another embodiment of the present invention, said salt chopping further includes a mass ratio of table salt to air chopped surimi of 1.5 ~ 2: 49 ~ 50.</p>
+<p id="p-0024" num="0023">In accordance with another embodiment of the present invention, the method includes preparing fillings of stuffed fish balls. Said phosphate is a mixture of sodium tripolyphosphate, sodium hexametaphosphate, sodium pyrophosphate in the mass ratio of 1:1:1; said green onion and ginger water is a mixture of green onion froth, ginger froth and water in the mass ratio of 3:3:4; said auxiliary ingredients are a mixture of lard, soy sauce and thirteen spices in the mass ratio of 20 : 2: 1 mixture; said lean meat, salt, phosphate, auxiliary materials, green onion and ginger water in a mass ratio of 50: 2: 0.03: 23: 25.</p>
+<p id="p-0025" num="0024">In accordance with another embodiment of the present invention, said two-stage heating method is heated at 40&#xb0; C. in a water bath for 30 min, and then heated at 90&#xb0; C. in a water bath for 20 min.</p>
+<p id="p-0026" num="0025">In accordance with another embodiment of the present invention, said cooling and quick-freezing further includes: cooling the fish balls in cold water at 4&#xb0; C. after heating and molding, and quick-freezing the fish balls after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<heading level="1" id="h-0004">Advantages of the Present Invention</heading>
+<p id="p-0027" num="0026">The present invention provides a frozen stuffed fish ball with low soup loss and the method of preparing the same. The invention adopts the technical solution of combining hydrocolloid and oil pre-emulsification technology, which can effectively solve the taste of powdered, reduce the soup loss of fish balls after freeze-thaw cooking, reduce the soup loss rate of stuffed fish balls from 46.05% to 22.00%, and improve the juicy taste of frozen stuffed fish balls after freeze-thaw cooking. The use of konjac gum and carrageenan or curdlan respectively combined with oil pre-emulsification technology, may effectively improve the texture and brightness of the outer skin of fish balls. Compared with a single addition, its hardness is increased by 11.38% ~ 42.23%, elasticity is increased by 4.76% ~ 13.10%, and brightness from 80.19 to 81.06. The present invention is an effective solution to the fish balls due to freeze-thaw cycle leading to loosened structure, brightness, and other problems. Additionally, it effectively solves the problems of loosening structure and decreasing brightness due to freeze-thaw cycle.</p>
+<p id="p-0028" num="0027">The method of the invention is simple and easy to use for conventional fish ball production line without strict requirements. In addition, it may not only be widely applied to the current fish ball with fillings products, but also to other stuffed surimi and minced meat products.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading level="1" id="h-0005">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0029" num="0028">Embodiments of the invention are described in more details hereinafter with reference to the drawings, in which:</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>1</b></figref> depicts a flowchart for preparing a fish ball with fillings in accordance with an embodiment of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading level="1" id="h-0006">DETAILED DESCRIPTION</heading>
+<p id="p-0031" num="0030">In the following description, a low soup-loss frozen fish ball with fillings and the method of preparing the same and the likes are set forth as preferred examples. It will be apparent to those skilled in the art that modifications, including additions and/or substitutions may be made without departing from the scope and spirit of the invention. Specific details may be omitted so as not to obscure the invention; however, the disclosure is written to enable one skilled in the art to practice the teachings herein without undue experimentation.</p>
+<p id="p-0032" num="0031">In order to make the above-mentioned objects, features and advantages of the present invention more obvious and understandable, the following is a detailed description of specific embodiments of the present invention in conjunction with specific examples.</p>
+<p id="p-0033" num="0032">While many specific details are set forth in the following description to facilitate a full understanding of the invention, the invention may be implemented in other ways than those described herein, and similar extensions may be prepared by practitioners skilled in the in the art without contradicting the content of the invention based on the teachings of the present disclosure, so that the invention is not limited by the specific embodiments disclosed below.</p>
+<p id="p-0034" num="0033">Second, by &#x201c;an embodiment&#x201d; or &#x201c;embodiment&#x201d; herein is meant a particular feature, structure or characteristic that may be included in at least one embodiment of the present invention. The words &#x201c;in an embodiment&#x201d; appearing in various places in this specification do not all refer to the same embodiment, nor are they separate or selective from other embodiments that are mutually exclusive.</p>
+<p id="p-0035" num="0034">The frozen freshwater surimi used in the embodiment of the present invention is purchased from Honghu Xinhongye Aquatic Food Co.</p>
+<p id="p-0036" num="0035">The phosphate used in the embodiment of the invention is a mixture of sodium tripolyphosphate: sodium hexametaphosphate: sodium pyrophosphate in the ratio of 1:1:1 by mass.</p>
+<p id="p-0037" num="0036">The preparation method of green onion and ginger water used in the embodiment of the present invention is: green onion froth, ginger froth and water mixed in a mass ratio of 3:3:4.</p>
+<p id="p-0038" num="0037">The model of chopping and grinding machine used is: LZ25Easy235, with chopping speed of 2500-3000 r/min.</p>
+<heading level="1" id="h-0007">Embodiment 1</heading>
+<p id="p-0039" num="0038">(1) Semi-thawing <b>104</b>: frozen freshwater surimi is thawed to a central temperature of -5 to -2&#xb0; C. at 4&#xb0; C.</p>
+<p id="p-0040" num="0039">(2) Air chopping <b>105</b>: cut the semi-thawed surimi into small pieces, add phosphate and chop for 3 min, and control the ambient temperature below 10&#xb0; C. during chopping.</p>
+<p id="p-0041" num="0040">(3) Salt chopping <b>106</b>: add salt and continue chopping for 3 min to obtain the processed surimi.</p>
+<p id="p-0042" num="0041">(4) Mix chopping <b>107</b>: according to the curdlan: konjac gum is 3:7 mass ratio of the configuration of the composite solute, weigh the composite solute dissolved in a small amount of water and lard for pre-emulsification <b>103</b> with oil to water ratio of 3:2, add to the treated surimi, then add tapioca starch and the remaining water. Chop for 5 min, to obtain the outer skin material of the fish ball, where the mass ratio of surimi: water: tapioca starch: lard: salt: phosphate: complex solute is 49~50: 18: 15: 15: 2: 0.09: 0.3.</p>
+<p id="p-0043" num="0042">(5) Preparing the filling: chop lean meat pieces into minced meat, add edible salt and chop, then add phosphate, auxiliary ingredients, green onion and ginger water and chop until the slurry is uniform and delicate, to obtain the filling of the stuffed fish ball filling, where the mass ratio of lean meat, salt, phosphate, auxiliary ingredients, green onion and ginger water is 50:2:0.03:23:25.</p>
+<p id="p-0044" num="0043">(6) Heating and molding <b>108</b>: the outer skin wrapped with the inner filling was made into fish balls, which were heated in a water bath at 40&#xb0; C. for 30 min, and then heat in a water bath at 90&#xb0; C. for 20 min, with a two-stage heating method to gelatinize them.</p>
+<p id="p-0045" num="0044">(7) Cooling and quick-freezing <b>109</b>: the gelatinized fish balls are cooled in cold water at 4&#xb0; C., and then quick-frozen after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<p id="p-0046" num="0045">(8) Freezing and storing <b>110</b>: package and store below -18&#xb0; C.</p>
+<heading level="1" id="h-0008">Embodiment 2</heading>
+<p id="p-0047" num="0046">(1) Semi-thawing <b>104</b>: frozen freshwater surimi is thawed at 4&#xb0; C. to a central temperature of -5~-2&#xb0; C.</p>
+<p id="p-0048" num="0047">(2) Air chopping <b>105</b>: cut the semi-thawed surimi into small pieces, add phosphate and chop for 3 min, control the ambient temperature below 10&#xb0; C. during chopping.</p>
+<p id="p-0049" num="0048">(3) Salt chopping <b>106</b>: add salt and continue chopping for 3 min to obtain the processed surimi.</p>
+<p id="p-0050" num="0049">(4) Mix chopping <b>107</b>: according to the curdlan: konjac gum is 1:9 mass ratio of the configuration of complex solute. Weigh the complex solute dissolved in a small amount of water and lard for pre-emulsification <b>103</b> with oil to water ratio of 3:2, and then add to the treated surimi. Add tapioca starch and the remaining water, chop for 5 min, to obtain the outer skin material of fish balls, where the mass ratio of surimi: water: tapioca starch: lard: salt: phosphate: complex solute is 49~50: 18: 15: 15: 2: 0.09: 0.3.</p>
+<p id="p-0051" num="0050">(5) Preparing the filling: chop lean meat pieces into mince, add edible salt and chopping, then add phosphate, excipients, green onion and ginger water and chop until the slurry is uniform and delicate, to obtain the filling of the fish ball filling, where the mass ratio of lean meat, salt, phosphate, excipients, green onion and ginger water is 50:2:0.03:23:25.</p>
+<p id="p-0052" num="0051">(6) Heating and molding <b>108</b>: the outer skin wrapped with the inner filling was made into fish balls, which were heated in a water bath at 40&#xb0; C. for 30 min, and then heat in a water bath at 90&#xb0; C. for 20 min, with a two-stage heating method to gelatinize them.</p>
+<p id="p-0053" num="0052">(7) Cooling and quick-freezing <b>109</b>: the gelatinized fish balls are cooled in cold water at 4&#xb0; C., and then quick-freeze after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<p id="p-0054" num="0053">(8) Freezing and storing <b>110</b>: package and store below -18&#xb0; C.</p>
+<heading level="1" id="h-0009">Embodiment 3</heading>
+<p id="p-0055" num="0054">(1) Semi-thawing <b>104</b>: frozen freshwater surimi is thawed to a central temperature of -5 - -2&#xb0; C. at 4&#xb0; C.</p>
+<p id="p-0056" num="0055">(2) Air chopping <b>105</b>: cut the semi-thawed surimi into small pieces, add phosphate and chop for 3 min, controlling the ambient temperature below 10&#xb0; C. during chopping.</p>
+<p id="p-0057" num="0056">(3) Salt chopping <b>106</b>: add salt and continue chopping for 3 min to obtain the processed surimi.</p>
+<p id="p-0058" num="0057">(4) Mix chopping <b>107</b>: according to the curdlan: konjac gum is 5:5 mass ratio of the configuration of complex solute, weighed the complex solute dissolved in a small amount of water and lard for pre-emulsification <b>103</b>, oil to water ratio of 3:2, and then add to the treated surimi. Add tapioca starch and the remaining water, chopping for 5 min, to obtain the outer skin material of fish balls, where the mass ratio of surimi: water: tapioca starch: lard: salt: phosphate: complex solute is 49~50: 18: 15: 15: 2: 0.09: 0.3.</p>
+<p id="p-0059" num="0058">(5) Preparing the filling: chop lean meat pieces into mince, add edible salt and chopping, then add phosphate, excipients, green onion and ginger water and chopping until the slurry is uniform and delicate, to obtain the filling of the fish ball filling, where the mass ratio of lean meat, salt, phosphate, excipients, green onion and ginger water is 50:2:0.03:23:25.</p>
+<p id="p-0060" num="0059">(6) Heating and molding <b>108</b>: the outer skin wrapped with the inner filling was made into fish balls, which were heated in a water bath at 40&#xb0; C. for 30 min, and then heated in a water bath at 90&#xb0; C. for 20 min, with a two-stage heating method to gelatinize them.</p>
+<p id="p-0061" num="0060">(7) Cooling and quick-freezing <b>109</b>: the gelatinized fish balls are cooled in cold water at 4&#xb0; C., and then quick-freeze after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<p id="p-0062" num="0061">(8) Freezing and storing <b>110</b>: package and store below -18&#xb0; C.</p>
+<heading level="1" id="h-0010">Embodiment 4</heading>
+<p id="p-0063" num="0062">(1) Semi-thawing <b>104</b>: frozen freshwater surimi is thawed at 4&#xb0; C. to a central temperature of -5 - -2&#xb0; C.</p>
+<p id="p-0064" num="0063">(2) Air chopping <b>105</b>: cut the semi-thawed surimi into small pieces, add phosphate and chop for 3 min, and control the ambient temperature below 10&#xb0; C. during chopping.</p>
+<p id="p-0065" num="0064">(3) Salt chopping <b>106</b>: add salt and continue chopping for 3 min to obtain the processed surimi.</p>
+<p id="p-0066" num="0065">(4) Mix chopping <b>107</b>: according to the mass ratio of carrageenan: konjac gum is 1:9 to configure the compound solute, weigh the compound solute dissolved in a small amount of water and lard for pre-emulsification <b>103</b>, add to the treated surimi with oil to water ratio of 3:2, then add tapioca starch and the remaining water. Chop for 5 min to obtain the outer skin material of fish balls. The mass ratio of surimi: water: tapioca starch: lard: salt: phosphate: complex solute is 49~50: 18: 15: 15: 2: 0.09: 0.3.</p>
+<p id="p-0067" num="0066">(5) Preparing the filling: Chop lean meat pieces into mince, add edible salt and chop, then add phosphate, excipients, green onion and ginger water and chop until the slurry is uniform and delicate. Obtain the filling of the fish ball filling, where the mass ratio of lean meat, salt, phosphate, excipients, green onion and ginger water is 50:2:0.03:23:25.</p>
+<p id="p-0068" num="0067">(6) Heating and molding <b>108</b>: the outer skin wrapped with the inner filling was made into fish balls, which were heated in a water bath at 40&#xb0; C. for 30 min, and then heated in a water bath at 90&#xb0; C. for 20 min, with a two-stage heating method to gelatinize them.</p>
+<p id="p-0069" num="0068">(7) Cooling and quick-freezing <b>109</b>: the gelatinized fish balls are cooled in cold water at 4&#xb0; C., and then quick-freeze after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<p id="p-0070" num="0069">(8) Freezing and storing <b>110</b>: package and store below -18&#xb0; C.</p>
+<heading level="1" id="h-0011">Embodiment 5</heading>
+<p id="p-0071" num="0070">(1) Semi-thawing <b>104</b>: frozen freshwater surimi is thawed at 4&#xb0; C. to a central temperature of -5 to -2&#xb0; C.</p>
+<p id="p-0072" num="0071">(2) Air chopping <b>105</b>: cut the semi-thawed surimi into small pieces, add phosphate and chop for 3 min, and control the ambient temperature below 10&#xb0; C. during chopping.</p>
+<p id="p-0073" num="0072">(3) Salt chopping <b>106</b>: add salt and continue chopping for 3 min to obtain the processed surimi.</p>
+<p id="p-0074" num="0073">(4) Mix chopping <b>107</b>: according to the mass ratio of carrageenan: konjac gum is 3:7 to configure the compound solute, weigh the compound solute dissolved in a small amount of water and lard for pre-emulsification <b>103</b>, oil to water ratio of 3:2, and then add to the treated surimi, then add tapioca starch and the remaining water, chop for 5 min, to obtain the outer skin material of fish balls. The mass ratio of surimi: water: tapioca starch: lard: salt: phosphate: complex solute is 49~50: 18: 15: 15: 2: 0.09: 0.3.</p>
+<p id="p-0075" num="0074">(5) Preparing the filling: chop lean meat pieces into mince, add edible salt and chopping, then add phosphate, excipients, green onion and ginger water and chop until the slurry is uniform and delicate, to obtain the filling of the fish ball filling, where the mass ratio of lean meat, salt, phosphate, excipients, green onion and ginger water is 50:2:0.03:23:25.</p>
+<p id="p-0076" num="0075">(6) Heating and molding <b>108</b>: the outer skin wrapped with the inner filling was made into fish balls, which were heated in a water bath at 40&#xb0; C. for 30 min, and then heat in a water bath at 90&#xb0; C. for 20 min, with a two-stage heating method to gelatinize them.</p>
+<p id="p-0077" num="0076">(7) Cooling and quick-freezing <b>109</b>: the gelatinized fish balls are cooled in cold water at 4&#xb0; C., and then quick-freeze after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<p id="p-0078" num="0077">(8) Freezing and storing <b>110</b>: package and store below -18&#xb0; C.</p>
+<heading level="1" id="h-0012">Embodiment 6</heading>
+<p id="p-0079" num="0078">(1) Semi-thawing <b>104</b>: frozen freshwater surimi is thawed at 4&#xb0; C. to a central temperature of -5 to -2&#xb0; C.</p>
+<p id="p-0080" num="0079">(2) Air chopping <b>105</b>: cut the semi-thawed surimi into small pieces, add phosphate and chop for 3 min, control the ambient temperature below 10&#xb0; C. during chopping.</p>
+<p id="p-0081" num="0080">(3) Salt chopping <b>106</b>: add salt and continue chopping for 3 min to obtain the processed surimi.</p>
+<p id="p-0082" num="0081">(4) Mix chopping <b>107</b>: according to the mass ratio of carrageenan: konjac gum is 5:5 to configure the compound solute, weigh the compound solute dissolved in a small amount of water and lard for pre-emulsification <b>103</b>, oil to water ratio of 3:2. Add to the treated surimi, then add tapioca starch and the remaining water. Chop for 5 min to obtain the outer skin material of fish balls, where the mass ratio of surimi: water: tapioca starch: lard: salt: phosphate: complex solute is 49~50: 18: 15: 15: 2: 0.09: 0.3.</p>
+<p id="p-0083" num="0082">(5) Preparing the filling: chop lean meat pieces into mince, add edible salt and chopping, then add phosphate, excipients, green onion and ginger water and chop until the slurry is uniform and delicate to obtain the filling of the fish ball filling, where the mass ratio of lean meat, salt, phosphate, excipients, green onion and ginger water is 50:2:0.03:23:25.</p>
+<p id="p-0084" num="0083">(6) Heating and molding <b>108</b>: the outer skin wrapped with the inner filling was made into fish balls, which were heated in a water bath at 40&#xb0; C. for 30 min, and then heated in a water bath at 90&#xb0; C. for 20 min, with a two-stage heating method to gelatinize them.</p>
+<p id="p-0085" num="0084">(7) Cooling and quick-freezing <b>109</b>: the gelatinized fish balls are cooled in cold water at 4&#xb0; C., and then quick-frozen after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<p id="p-0086" num="0085">(8) Freezing and storing <b>110</b>: package and store below -18&#xb0; C.</p>
+<heading level="1" id="h-0013">Counter Example 1</heading>
+<p id="p-0087" num="0086">(1) Semi-thawing <b>104</b>: frozen freshwater surimi is thawed at 4&#xb0; C. until the central temperature is -5~-2&#xb0; C.</p>
+<p id="p-0088" num="0087">(2) Air chopping <b>105</b>: cut the semi-thawed surimi into small pieces, add phosphate and chop for 3 min, control the ambient temperature below 10&#xb0; C. during chopping.</p>
+<p id="p-0089" num="0088">(3) Salt chopping <b>106</b>: add salt and continue chopping for 3 min to obtain the processed surimi.</p>
+<p id="p-0090" num="0089">(4) Mix chopping <b>107</b>: weigh the konjac gum dissolved in a small amount of water and lard for pre-emulsification <b>103</b>, oil to water ratio of 3:2, and then add to the treated surimi. Add tapioca starch and the remaining water, chop for 5 min to obtain the outer skin material of fish balls, where the mass ratio of surimi: water: tapioca starch: lard: salt: phosphate: konjac gum is 49~50: 18: 15: 15: 2: 0.09: 0.3.</p>
+<p id="p-0091" num="0090">(5) Preparing the filling: lean meat pieces chopped into minced, add edible salt, then add phosphate, auxiliary ingredients, green onion and ginger water. Chop until the slurry is uniform and delicate, to obtain the filling of the fish ball filling, where the lean meat, salt, phosphate, auxiliary ingredients, green onion and ginger water has a mass ratio of 50: 2: 0.03: 23: 25.</p>
+<p id="p-0092" num="0091">(6) Heating and molding <b>108</b>: the outer skin wrapped with the inner filling is made into fish balls, which were heated in a water bath at 40&#xb0; C. for 30 min, and then heated in a water bath at 90&#xb0; C. for 20 min, with a two-stage heating method to gelatinize them.</p>
+<p id="p-0093" num="0092">(7) Cooling and quick-freezing <b>109</b>: the gelatinized fish balls are cooled in cold water at 4&#xb0; C., and then quick-frozen after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<p id="p-0094" num="0093">(8) Freezing and storing <b>110</b>: package and store below -18&#xb0; C.</p>
+<heading level="1" id="h-0014">Counter Example 2</heading>
+<p id="p-0095" num="0094">(1) Semi-thawing <b>104</b>: frozen freshwater surimi is thawed at 4&#xb0; C. until the central temperature is -5~2&#xb0; C.</p>
+<p id="p-0096" num="0095">(2) Air chopping <b>105</b>: cut the semi-thawed surimi into small pieces, add phosphate and chop for 3 min, and control the ambient temperature below 10&#xb0; C. during chopping.</p>
+<p id="p-0097" num="0096">(3) Salt chopping <b>106</b>: add salt and continue chopping for 3 min to obtain the processed surimi.</p>
+<p id="p-0098" num="0097">(4) Mix chopping <b>107</b>: Weigh the curdlan dissolved in a small amount of water and lard for pre-emulsification <b>103</b>, oil to water ratio of 3:2, and then add to the treated surimi. Add tapioca starch and the remaining water. Chop and mix for 5 min to obtain the fish ball with fillings crust material, where the mass ratio of surimi: water: tapioca starch: lard: salt: phosphate: curdlan is 49~50: 18: 15: 15: 2: 0.09: 0.4.</p>
+<p id="p-0099" num="0098">(5) Preparing the filling: lean meat pieces chopped into minced, add edible salt chopped, and then add phosphate, auxiliary ingredients, green onion and ginger water and chop until the slurry is uniform and delicate to obtain the filling of fish ball filling, where the mass ratio of lean meat, salt, phosphate, auxiliary ingredients, green onion and ginger water is 50:2:0.03:23:25.</p>
+<p id="p-0100" num="0099">(6) Heating and molding <b>108</b>: the outer skin wrapped with the inner filling is made into fish balls, which are heated in a water bath at 40&#xb0; C. for 30 min, and then heat in a water bath at 90&#xb0; C. for 20 min, with a two-stage heating method to gelatinize them.</p>
+<p id="p-0101" num="0100">(7) Cooling and quick-freezing <b>109</b>: the gelatinized fish balls are cooled in cold water at 4&#xb0; C., and then quick-frozen after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<p id="p-0102" num="0101">(8) Freezing and storing <b>110</b>: package and store below -18&#xb0; C.</p>
+<heading level="1" id="h-0015">Counter Example 3</heading>
+<p id="p-0103" num="0102">(1) Semi-thawing <b>104</b>: frozen freshwater surimi is thawed at 4&#xb0; C. until the central temperature is -5~-2&#xb0; C.</p>
+<p id="p-0104" num="0103">(2) Air chopping <b>105</b>: cut the semi-thawed surimi into small pieces, add phosphate and chop for 3 min, control the ambient temperature below 10&#xb0; C. during chopping.</p>
+<p id="p-0105" num="0104">(3) Salt chopping <b>106</b>: add salt and continue chopping for 3 min to obtain the processed surimi.</p>
+<p id="p-0106" num="0105">(4) Mix chopping <b>107</b>: weigh carrageenan dissolved in a small amount of water and lard for pre-emulsification <b>103</b> with oil to water ratio of 3:2, and add to the treated surimi. Add tapioca starch and the remaining water, chopping for 5 min, to obtain the outer skin material of the fish ball with fillings. where the mass ratio of surimi: water: tapioca starch: lard: salt: phosphate: carrageenan is 49~50: 18: 15: 15: 2: 0.09: 0.3.</p>
+<p id="p-0107" num="0106">(5) Preparing the filling: lean meat pieces are chopped into minced. Add edible salt chopped, and then add phosphate, auxiliary ingredients, green onion and ginger water chopped until the slurry is uniform and delicate, to obtain the filling of the fish ball filling, where the mass ratio of lean meat, salt, phosphate, auxiliary ingredients, green onion and ginger water is 50:2:0.03:23:25.</p>
+<p id="p-0108" num="0107">(6) Heating and molding <b>108</b>: the outer skin wrapped with the inner filling was made into fish balls, which were heated in a water bath at 40&#xb0; C. for 30 min, and then heated in a water bath at 90&#xb0; C. for 20 min, with a two-stage heating method to gelatinize them.</p>
+<p id="p-0109" num="0108">(7) Cooling and quick-freezing <b>109</b>: the gelatinized fish balls are cooled in cold water at 4&#xb0; C., and then quick-frozen after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<p id="p-0110" num="0109">(8) Freezing and storing <b>110</b>: package and store below -18&#xb0; C.</p>
+<heading level="1" id="h-0016">Counter Example 4</heading>
+<p id="p-0111" num="0110">(1) Semi-thawing <b>104</b>: frozen freshwater surimi is thawed to a central temperature of -5~-2&#xb0; C. at 4&#xb0; C.</p>
+<p id="p-0112" num="0111">(2) Air chopping: cut the semi-thawed surimi into small pieces, add phosphate, and chop for 3 min. Control the ambient temperature below 10&#xb0; C. during chopping.</p>
+<p id="p-0113" num="0112">(3) Salt chopping <b>106</b>: add salt and continue chopping for 3 min to obtain the processed surimi.</p>
+<p id="p-0114" num="0113">(4) Mix chopping <b>107</b>: weigh konjac gum and directly add to the treated surimi, then add lard, tapioca starch and water. Chop for 5 min to obtain the outer skin material of the fish ball with fillings. The mass ratio of surimi: water: tapioca starch: lard: salt: phosphate: konjac gum is 49~50: 18: 15: 15: 2: 0.09: 0.3.</p>
+<p id="p-0115" num="0114">(5) Preparing the filling: lean meat pieces chopped into minced, add edible salt chopped, and then add phosphate, auxiliary ingredients, green onion and ginger water. Chop until the slurry is uniform and delicate, to obtain the filling of the fish ball filling, where the lean meat, salt, phosphate, auxiliary ingredients, green onion and ginger water mass ratio of 50: 2: 0.03: 23: 25.</p>
+<p id="p-0116" num="0115">(6) Heating and molding <b>108</b>: the outer skin wrapped with the inner filling was made into fish balls, which were heated in a water bath at 40&#xb0; C. for 30 min, and then heat in a water bath at 90&#xb0; C. for 20 min, with a two-stage heating method to gelatinize them.</p>
+<p id="p-0117" num="0116">(7) Cooling and quick-freezing <b>109</b>: the gelatinized fish balls are cooled in cold water at 4&#xb0; C. and quick-frozen after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<p id="p-0118" num="0117">(8) Freezing and storing <b>110</b>: package and store below -18&#xb0; C.</p>
+<heading level="1" id="h-0017">Counter Example 5</heading>
+<p id="p-0119" num="0118">(1) Semi-thawing <b>104</b>: frozen freshwater surimi is thawed to a central temperature of -5~-2&#xb0; C. at 4&#xb0; C.</p>
+<p id="p-0120" num="0119">(2) Air chopping <b>105</b>: cut the semi-thawed surimi into small pieces, add phosphate, and chop for 3 min. Control the ambient temperature below 10&#xb0; C. during chopping.</p>
+<p id="p-0121" num="0120">(3) Salt chopping <b>106</b>: add salt and continue chopping for 3 min to obtain the processed surimi.</p>
+<p id="p-0122" num="0121">(4) Mix chopping <b>107</b>: Weighing and adding cortisone directly into the treated surimi, then adding lard, tapioca starch and water. Chopping and mixing for 5 min to obtain the fish ball with fillings crust material. The mass ratio of surimi: water: tapioca starch: lard: salt: phosphate: curdlan is 49~50: 18: 15: 15: 2: 0.09: 0.3.</p>
+<p id="p-0123" num="0122">(5) Preparing the filling: lean meat pieces are chopped into minced. Add edible salt chopped, and then add phosphate, auxiliary ingredients, green onion and ginger water chopped until the slurry is uniform and delicate, to obtain the filling of fish ball filling, where the mass ratio of lean meat, salt, phosphate, auxiliary ingredients, green onion and ginger water is 50:2:0.03:23:25.</p>
+<p id="p-0124" num="0123">(6) Heating and molding <b>108</b>: the outer skin wrapped with the inner filling was made into fish balls, which were heated in a water bath at 40&#xb0; C. for 30 min, and then heated in a water bath at 90&#xb0; C. for 20 min, with a two-stage heating method to gelatinize them.</p>
+<p id="p-0125" num="0124">(7) Cooling and quick-freezing <b>109</b>: the gelatinized fish balls are cooled in cold water at 4&#xb0; C., and then quick-frozen after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<p id="p-0126" num="0125">(8) Freezing and storing <b>110</b>: package and store below -18&#xb0; C.</p>
+<heading level="1" id="h-0018">Counter Example 6</heading>
+<p id="p-0127" num="0126">(1) Semi-thawing <b>104</b>: frozen freshwater surimi is thawed to a central temperature of -5~-2&#xb0; C. at 4&#xb0; C.</p>
+<p id="p-0128" num="0127">(2) Air chopping <b>105</b>: cut the semi-thawed surimi into small pieces, add phosphate, chop for 3 min, and control the ambient temperature below 10&#xb0; C. during chopping.</p>
+<p id="p-0129" num="0128">(3) Salt chopping <b>106</b>: add salt and continue chopping for 3 min to obtain the processed surimi.</p>
+<p id="p-0130" num="0129">(4) Mix chopping <b>107</b>: weigh carrageenan and add it directly into the treated surimi, then adding lard, tapioca starch and water, chopping for 5 min to obtain the outer skin material of the fish ball with fillings, where the mass ratio of surimi: water: tapioca starch: lard: salt: phosphate: carrageenan is 49~50: 18: 15: 15: 2: 0.09: 0.3.</p>
+<p id="p-0131" num="0130">(5) Preparing the filling: lean meat pieces chopped into minced, add edible salt chopped, and then add phosphate, auxiliary ingredients, green onion and ginger water chopped until the slurry is uniform and delicate, to obtain the filling of the fish ball filling, where the mass ratio of lean meat, salt, phosphate, auxiliary ingredients, green onion and ginger water is 50:2:0.03:23:25.</p>
+<p id="p-0132" num="0131">(6) Heating and molding <b>108</b>: the outer skin wrapped with the inner filling was made into fish balls, which were heated in a water bath at 40&#xb0; C. for 30 min, and then heated in a water bath at 90&#xb0; C. for 20 min, with a two-stage heating method to gelatinize them.</p>
+<p id="p-0133" num="0132">(7) Cooling and quick-freezing <b>109</b>: the gelatinized fish balls are cooled in cold water at 4&#xb0; C., and then quick-frozen after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<p id="p-0134" num="0133">(8) Freezing and storing <b>110</b>: package and store below -18&#xb0; C.</p>
+<heading level="1" id="h-0019">Counter Example 7</heading>
+<p id="p-0135" num="0134">(1) Semi-thawing <b>104</b>: frozen freshwater surimi is thawed to a central temperature of -5~-2&#xb0; C. at 4&#xb0; C.</p>
+<p id="p-0136" num="0135">(2) Air chopping <b>105</b>: cut the semi-thawed surimi into small pieces, add phosphate, chop for 3 min, and control the ambient temperature below 10&#xb0; C. during chopping.</p>
+<p id="p-0137" num="0136">(3) Salt chopping <b>106</b>: add salt and continue chopping for 3 min to obtain the processed surimi.</p>
+<p id="p-0138" num="0137">(4) Mix chopping <b>107</b>: add edible oil to the treated surimi, then add water, chopping for 5 min to obtain the fish ball with fillings outer crust material, where the mass ratio of surimi: water: tapioca starch: lard: salt: phosphate: is 49-50: 18: 15: 15: 2: 0.09.</p>
+<p id="p-0139" num="0138">(5) Preparing the filling: lean meat pieces chopped into minced, add edible salt chopped, and then add phosphate, auxiliary ingredients, green onion and ginger water chopped until the slurry is uniform and delicate, to obtain the filling of the fish ball filling, where the mass ratio of lean meat, salt, phosphate, auxiliary ingredients, green onion and ginger water is 50: 2: 0.03: 23: 25.</p>
+<p id="p-0140" num="0139">(6) Heating and molding <b>108</b>: the outer skin wrapped with the inner filling was made into fish balls, which were heated in a water bath at 40&#xb0; C. for 30 min, and then heated in a water bath at 90&#xb0; C. for 20 min, with a two-stage heating method to gelatinize them.</p>
+<p id="p-0141" num="0140">(7) Cooling and quick-freezing <b>109</b>: the gelatinized fish balls are cooled in cold water at 4&#xb0; C., and then quick-frozen after cooling until the central temperature of the fish balls is below 10&#xb0; C.</p>
+<p id="p-0142" num="0141">(8) Freezing and storing <b>110</b>: package and store below -18&#xb0; C.</p>
+<heading level="1" id="h-0020">Embodiment 7</heading>
+<heading level="2" id="h-0021">Methods for Testing</heading>
+<heading level="2" id="h-0022">1. Soup Loss Rate Test</heading>
+<p id="p-0143" num="0142">Frozen fish balls are cut in half and the fillings are scooped out. Determine the filling moisture. Take another frozen fish balls and boil them for 15 min, absorb the visible water and grease on the surface of the fish balls with absorbent paper, cut the fish balls in half and scoop out the filling, and measure the filling moisture. Each group of samples was measured 10 times in parallel. It was found that the main component of soup loss was water, and this method was used to assess the soup loss by the rate of water loss in the filling before and after steaming, and to simplify the calculation. The dry base content of the fish ball filling before and after steaming is constant. Soup loss rate is calculated according to the following formula.</p>
+<p id="p-0144" num="0143">Soup loss rate </p>
+<p id="p-0145" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math id="MATH_1" overflow="scroll" alttext="(1)">
+<mrow>
+<mfenced>
+<mi>%</mi>
+</mfenced>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<msub>
+<mi>W</mi>
+<mn>1</mn>
+</msub>
+<mo>&#x2212;</mo>
+<msub>
+<mi>W</mi>
+<mn>2</mn>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>W</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</mfrac>
+<mo>&#xd7;</mo>
+<mn>100</mn>
+<mi>%</mi>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0146" num="0144">Where W1 is the moisture content of the filling before steaming, recorded in the dry filling basis.</p>
+<p id="p-0147" num="0145">W2 - the moisture content of the filling after steaming, recorded on the dry filling basis.</p>
+<heading level="2" id="h-0023">2. Texture Test</heading>
+<p id="p-0148" num="0146">The gel of the filling was cut into 1 cm* 1.5 cm pieces, and the texture and shear force were tested by physical property analyzer. The test conditions for hardness, elasticity and chewiness of fish balls were cylindrical test probe p/25; pre-test speed: 5 mm/s; test speed: 1 mm/s; post-test speed: 5 mm/s; compression deformation: 50%; trigger force: 5 g.</p>
+<heading level="2" id="h-0024">3. Color Difference Test</heading>
+<p id="p-0149" num="0147">The outer skin gel of the produced stuffed fish balls is cut into thin slices in a thickness of 2 cm and measured in a spectrophotometer at room temperature with three parallel values for each sample.</p>
+<p id="p-0150" num="0148">The rate of soup loss and brightness of the embodiments 1~6 and the counter examples 1~7 of the present invention, are shown in Table 1.</p>
+<p id="p-0151" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table colsep="0" frame="topbot">
+<title>TABLE 1</title>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="194pt"/>
+<colspec colname="col2" colsep="0" colwidth="202pt"/>
+<colspec colname="col3" colsep="0" colwidth="164pt"/>
+<thead>
+<row rowsep="1" valign="bottom">
+<entry align="center" nameend="col3" namest="col1" valign="bottom">Results of loss-of-soup reduction rate and brightness</entry>
+</row>
+<row rowsep="1" valign="bottom">
+<entry align="left" colname="col1" valign="bottom"/>
+<entry align="center" colname="col2" valign="bottom">Soup loss rate (%)</entry>
+<entry align="center" colname="col3" valign="bottom">Brightness</entry>
+</row>
+</thead>
+<tbody>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Embodiment 1</entry>
+<entry align="center" colname="col2" valign="top">22.00&#xb1;2.40</entry>
+<entry align="center" colname="col3" valign="top">81.06&#xb1;2.19</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Embodiment 2</entry>
+<entry align="center" colname="col2" valign="top">28.80&#xb1;1.31</entry>
+<entry align="center" colname="col3" valign="top">80.68&#xb1;1.33</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Embodiment 3</entry>
+<entry align="center" colname="col2" valign="top">33.10&#xb1;0.64</entry>
+<entry align="center" colname="col3" valign="top">79.92&#xb1;0.74</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Embodiment 4</entry>
+<entry align="center" colname="col2" valign="top">34.87&#xb1;0.13</entry>
+<entry align="center" colname="col3" valign="top">78.67&#xb1;1.83</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Embodiment 5</entry>
+<entry align="center" colname="col2" valign="top">30.97&#xb1;1.45</entry>
+<entry align="center" colname="col3" valign="top">80.17&#xb1;2.21</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Embodiment 6</entry>
+<entry align="center" colname="col2" valign="top">26.44&#xb1;0.67</entry>
+<entry align="center" colname="col3" valign="top">80.72&#xb1;1.28</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 1</entry>
+<entry align="center" colname="col2" valign="top">35.92&#xb1;0.57</entry>
+<entry align="center" colname="col3" valign="top">80.19&#xb1;1.46</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 2</entry>
+<entry align="center" colname="col2" valign="top">34.30&#xb1;1.50</entry>
+<entry align="center" colname="col3" valign="top">81.35&#xb1;1.37</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 3</entry>
+<entry align="center" colname="col2" valign="top">37.81&#xb1;0.47</entry>
+<entry align="center" colname="col3" valign="top">80.69&#xb1;0.72</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 4</entry>
+<entry align="center" colname="col2" valign="top">38.72&#xb1;0.36</entry>
+<entry align="center" colname="col3" valign="top">81.66&#xb1;0.64</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 5</entry>
+<entry align="center" colname="col2" valign="top">39.40&#xb1;0.19</entry>
+<entry align="center" colname="col3" valign="top">80.02&#xb1;2.80</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 6</entry>
+<entry align="center" colname="col2" valign="top">41.53&#xb1;1.42</entry>
+<entry align="center" colname="col3" valign="top">78.17&#xb1;1.89</entry>
+</row>
+<row rowsep="1" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 7</entry>
+<entry align="center" colname="col2" valign="top">46.05&#xb1;2.07</entry>
+<entry align="center" colname="col3" valign="top">76.38&#xb1;1.52</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0152" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table colsep="0" frame="topbot">
+<title>TABLE 2</title>
+<tgroup cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="120pt"/>
+<colspec colname="col2" colsep="0" colwidth="124pt"/>
+<colspec colname="col3" colsep="0" colwidth="94pt"/>
+<colspec colname="col4" colsep="0" colwidth="127pt"/>
+<colspec colname="col5" colsep="0" colwidth="96pt"/>
+<thead>
+<row rowsep="1" valign="bottom">
+<entry align="center" nameend="col5" namest="col1" valign="bottom">Results of texture test</entry>
+</row>
+<row rowsep="1" valign="bottom">
+<entry align="left" colname="col1" valign="bottom"/>
+<entry align="center" colname="col2" valign="bottom">Hardness /g</entry>
+<entry align="center" colname="col3" valign="bottom">Elasticity</entry>
+<entry align="center" colname="col4" valign="bottom">Cohesiveness/g</entry>
+<entry align="center" colname="col5" valign="bottom">Resilience</entry>
+</row>
+</thead>
+<tbody>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Embodiment 1</entry>
+<entry align="center" colname="col2" valign="top">1815.99&#xb1;102.80</entry>
+<entry align="center" colname="col3" valign="top">0.91&#xb1;0.09</entry>
+<entry align="center" colname="col4" valign="top">1435.69&#xb1;134.55</entry>
+<entry align="center" colname="col5" valign="top">0.43&#xb1;0.02</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Embodiment 2</entry>
+<entry align="center" colname="col2" valign="top">1421.59&#xb1;155.40</entry>
+<entry align="center" colname="col3" valign="top">0.95&#xb1;0.04</entry>
+<entry align="center" colname="col4" valign="top">121.63&#xb1;74.71</entry>
+<entry align="center" colname="col5" valign="top">0.44&#xb1;0.02</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Embodiment 3</entry>
+<entry align="center" colname="col2" valign="top">1543.87&#xb1;70.10</entry>
+<entry align="center" colname="col3" valign="top">0.94&#xb1;0.05</entry>
+<entry align="center" colname="col4" valign="top">1219.65&#xb1;97.80</entry>
+<entry align="center" colname="col5" valign="top">0.47&#xb1;0.02</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Embodiment 4</entry>
+<entry align="center" colname="col2" valign="top">1488.04&#xb1;133.30</entry>
+<entry align="center" colname="col3" valign="top">0.88&#xb1;0.02</entry>
+<entry align="center" colname="col4" valign="top">1175.79&#xb1;100.54</entry>
+<entry align="center" colname="col5" valign="top">0.42&#xb1;0.01</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Embodiment 5</entry>
+<entry align="center" colname="col2" valign="top">1810.82&#xb1;95.43</entry>
+<entry align="center" colname="col3" valign="top">0.93&#xb1;0.02</entry>
+<entry align="center" colname="col4" valign="top">1430.19&#xb1;55.18</entry>
+<entry align="center" colname="col5" valign="top">0.44&#xb1;0.01</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Embodiment 6</entry>
+<entry align="center" colname="col2" valign="top">1435.09&#xb1;109.53</entry>
+<entry align="center" colname="col3" valign="top">0.94&#xb1;0.03</entry>
+<entry align="center" colname="col4" valign="top">1115.46&#xb1;97.13</entry>
+<entry align="center" colname="col5" valign="top">0.41&#xb1;0.01</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 1</entry>
+<entry align="center" colname="col2" valign="top">1413.80&#xb1;53.36</entry>
+<entry align="center" colname="col3" valign="top">0.84&#xb1;0.04</entry>
+<entry align="center" colname="col4" valign="top">1371.02&#xb1;48.85</entry>
+<entry align="center" colname="col5" valign="top">0.30&#xb1;0.05</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 2</entry>
+<entry align="center" colname="col2" valign="top">1276.76&#xb1;82.52</entry>
+<entry align="center" colname="col3" valign="top">0.91&#xb1;0.03</entry>
+<entry align="center" colname="col4" valign="top">1027.80&#xb1;98.28</entry>
+<entry align="center" colname="col5" valign="top">0.36&#xb1;0.03</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 3</entry>
+<entry align="center" colname="col2" valign="top">1476.73&#xb1;104.00</entry>
+<entry align="center" colname="col3" valign="top">0.91&#xb1;0.05</entry>
+<entry align="center" colname="col4" valign="top">980.92&#xb1;102.69</entry>
+<entry align="center" colname="col5" valign="top">0.35&#xb1;0.02</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 4</entry>
+<entry align="center" colname="col2" valign="top">1394.33&#xb1;112.35</entry>
+<entry align="center" colname="col3" valign="top">0.76&#xb1;0.05</entry>
+<entry align="center" colname="col4" valign="top">1033.50&#xb1;207.08</entry>
+<entry align="center" colname="col5" valign="top">0.32&#xb1;0.04</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 5</entry>
+<entry align="center" colname="col2" valign="top">1114.98&#xb1;50.72</entry>
+<entry align="center" colname="col3" valign="top">0.88&#xb1;0.04</entry>
+<entry align="center" colname="col4" valign="top">962.16&#xb1;177.76</entry>
+<entry align="center" colname="col5" valign="top">0.376&#xb1;0.02</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 6</entry>
+<entry align="center" colname="col2" valign="top">1346.88&#xb1;133.90</entry>
+<entry align="center" colname="col3" valign="top">0.92&#xb1;0.03</entry>
+<entry align="center" colname="col4" valign="top">975.26&#xb1;100.54</entry>
+<entry align="center" colname="col5" valign="top">0.35&#xb1;0.02</entry>
+</row>
+<row rowsep="1" valign="top">
+<entry align="left" colname="col1" valign="top">Counter Example 7</entry>
+<entry align="center" colname="col2" valign="top">1028.38&#xb1;140.79</entry>
+<entry align="center" colname="col3" valign="top">0.83&#xb1;0.02</entry>
+<entry align="center" colname="col4" valign="top">763.50&#xb1;88.08</entry>
+<entry align="center" colname="col5" valign="top">0.33&#xb1;0.04</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0153" num="0149">According to Table 1, the processed fish balls with fillings treated in the embodiments can significantly reduce the soup loss, with the single pre-emulsification <b>103</b> group (counter examples 1 to 3) being the second highest and the single group (counter examples 4 to 6) having the highest soup loss rate. 34.30% of the soup loss rate in the 0.4% cortisol pre-emulsification <b>103</b> group (counter example 2) was reduced by 25.52% relative to the control group (counter example 7), which is still lower than most of the embodiments. The soup loss of the fish balls (Embodiment 1) made by pre-emulsification <b>103</b> of curdlan and konjac gum in the ratio of 3:7 was reduced by 52.22% compared to the control group (counter example 7).</p>
+<p id="p-0154" num="0150">Thus, although the soup loss rate of fish balls made by single emulsification group (counter examples 1 to 3) can be effectively improved, the effect of compound pre-emulsification <b>103</b> group (Embodiments 1 to 6) is better. This may be, on the one hand, due to the fact that konjac gum can synergize with carrageenan and curdlan, which in turn improves the quality of surimi gel. On the other hand, carrageenan, konjac gum and curdlan may have emulsified with the oil to form emulsified oil droplets with myosin in the surimi, and the emulsified oil droplets filled into the rougher gel network structure formed by myosin, making the structure more delicate and denser, thus reducing the loss of broth.</p>
+<p id="p-0155" num="0151">The change in quality of the stuffed fish balls by pre-emulsification <b>103</b> is assessed according to hardness and elasticity. The stuffed fish balls of the compound pre-emulsification <b>103</b> group (Embodiments 1-6) had the highest hardness values, followed by the single pre-emulsification <b>103</b> group (counter examples 1 to 3) and the single group (counter examples 4 to 6) had the lowest hardness values. According to Table 2, the trend of soup loss rate and hardness variation are basically the same.</p>
+<p id="p-0156" num="0152">As shown in Table 2, the addition of different hydrocolloids (counter examples 4~6) all had different degrees of effect on the hardness of the outer skin of fish balls. Among them, pair ratio 4 had the greatest effect on the surimi products. In addition to this, although the single group (counter examples 4~6) improved the hardness, elasticity to some extent, the single pre-emulsification <b>103</b> group (counter examples 1~3) is significantly better than the addition of single group (counter examples 4~6) in enhancing the outer cortical structure of fish balls.</p>
+<p id="p-0157" num="0153">With the change of the ratio of konjac gum with carrageenan and curdlan compound, the hardness of the example of surimi products showed a trend of first increase and then decrease, compared with the counter examples, the examples have a higher hardness, elasticity, and significantly improve the quality of stuffed fish balls, indicating that within a certain degree, the hydrocolloid compound with surimi protein formed a more dense network structure, and there is a synergistic effect with starch.</p>
+<p id="p-0158" num="0154">As can be seen from Table 1, the brightness of the group with the addition of carrageenan (counter example 3) and curdlan (counter example 2) was higher than that of the group with the addition of konjac gum (counter example 1), probably due to the fact that carrageenan fills the pores of the protein gel during the gelation of surimi, increasing the level of the gel and thus leading to a higher brightness of the surimi. Konjac gum itself is colorless and transparent, added to the surimi gel to improve the transparency of the composite gel, but to a certain extent reduces the brightness of the surimi gel. And the compounding of embodiments 1~6 not only reduces the juice loss, but also increases the brightness.</p>
+<p id="p-0159" num="0155">The present invention provides a low soup loss frozen stuffed fish ball and its preparation method. The present invention adopts the technical solution of combining hydrocolloid and oil pre-emulsification <b>103</b> technology, which can effectively solve the taste of powdered, reduce the soup loss of fish balls after freeze-thaw cooking, reduce the soup loss rate of stuffed fish balls from 46.05% to 22.00%, and improve the juicy taste of frozen stuffed fish balls after freeze-thaw cooking. The use of konjac gum and carrageenan or curdlan respectively, combined with oil pre-emulsification <b>103</b> technology, can also effectively improve the texture and brightness of the outer skin of fish balls, compared with a single addition, its hardness increased by 11.38% ~ 42.23%, elasticity increased by 4.76% ~ 13.10%, brightness from 80.19 to 81.06, effectively solve the fish balls due to freeze-thaw cycle leading to loosed structure, brightness and other problems. It effectively solves the problems of loosening structure and decreasing brightness due to freeze-thaw cycle.</p>
+<p id="p-0160" num="0156">The method of the invention is simple and easy to use, and can be realized in conventional fish ball production workshops without strict requirements. In addition, it can be widely applied to the current fish ball with fillings products, and can also be applied to other stuffed surimi and minced meat products.</p>
+<p id="p-0161" num="0157">All or portions of the methods in accordance to the embodiments may be executed in one or more fish ball with fillings, surimi, and other processed aquatic food products.</p>
+<p id="p-0162" num="0158">The foregoing description of the present invention has been provided for the purposes of illustration and description. It is not intended to be exhaustive or to limit the invention to the precise forms disclosed. Many modifications and variations will be apparent to the practitioner skilled in the art.</p>
+<p id="p-0163" num="0159">The embodiments were chosen and described in order to best explain the principles of the invention and its practical application, thereby enabling others skilled in the art to understand the invention for various embodiments and with various modifications that are suited to the particular use contemplated.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20230225380A1-20230720-M00001.NB">
+<img id="EMI-M00001" he="5.67mm" wi="21.67mm" file="US20230225380A1-20230720-M00001.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method for preparing a low loss-of-soup frozen fish ball with fillings, the method comprising:
+<claim-text>pre-emulsifying a polysaccharide solution with edible oil;</claim-text>
+<claim-text>adding a surimi and mixing with tapioca starch and water to obtain a fish ball outer skin with low soup loss; and</claim-text>
+<claim-text>using the fish ball outer skin to wrap fillings to make the low loss-of-soup frozen fish ball with fillings.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said polysaccharide solution further comprises solute and solvent;
+<claim-text>wherein the solute is a mixture of konjac gum and curdlan or carrageenan;</claim-text>
+<claim-text>wherein the solute for konjac gum to curdlan or carrageenan having a mass ratio of 9 ~ 5: 5 ~ 1;</claim-text>
+<claim-text>wherein the solvent is water.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising: a mass ratio, polysaccharide solution: tapioca starch: edible oil: water: surimi, of 0.3:15~20:15~20:18:49~50.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising: said pre-emulsifying having an oil to water ratio of 3:2.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>semi-thawing: thawing the frozen surimi at 4&#xb0; C. to a central temperature of -5 to -2&#xb0; C.;</claim-text>
+<claim-text>air chopping: cutting the semi-thawed surimi into small pieces, adding a phosphate and chopping;</claim-text>
+<claim-text>salt chopping: adding salt to the air chopped surimi and chopping to obtain the treated surimi;</claim-text>
+<claim-text>mix chopping: dissolving the polysaccharide substance in water, mixing with edible oil for pre-emulsification, adding to the treated surimi, chopping and mixing well with tapioca starch and the remaining water to obtain the outer skin for low- loss-of-soup frozen fish ball;</claim-text>
+<claim-text>preparing the filling: chopping lean meat into minced meat, adding salt, and mixing well, then adding a phosphate, a plurality of auxiliary ingredients, green onion and ginger water and chopping until the slurry is uniform and fine to obtain a stuffed fish ball filling;</claim-text>
+<claim-text>heating and molding: the outer skin material is wrapped around the filling to prepare fish balls, gelatinized and formed by the two-stage heating method;</claim-text>
+<claim-text>cooling and quick-freezing: the heated gelatinized fish balls are placed in cold water for cooling and quick-freezing; and</claim-text>
+<claim-text>freezing and storing: freezing and storing below -18&#xb0; C. after package.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein said phosphate of said air chopping is a mixture of sodium tripolyphosphate, sodium hexametaphosphate and sodium pyrophosphate in a mass ratio of 1:1:1, wherein the mass ratio of phosphate to semi-thawed surimi is 0.05 ~ 0.09:49 ~ 50.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein said salt chopping further comprises salt and air chopped surimi has a mass ratio of 1.5 ~ 2: 49 ~ 50.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein said phosphate in preparing the filling is a mixture of sodium tripolyphosphate, sodium hexametaphosphate, sodium pyrophosphate, wherein the mixture has a mass ratio of 1:1:1;
+<claim-text>wherein said green onion and ginger water is a mixture of green onion foam, ginger foam, water in a mass ratio of 3:3:4;</claim-text>
+<claim-text>wherein said plurality of auxiliary ingredients are lard, soy sauce, Chinese 13 Spice Seasoning in a mass ratio of 20:2:1:1;</claim-text>
+<claim-text>wherein said lean meat, said salt, said phosphate, said plurality of auxiliary ingredients, said green onion and ginger water has a mass ratio of 50: 2: 0.03: 23: 25.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein said two-stage heating method of said heating and molding comprises heating at 40&#xb0; C. in a water bath for 30 min, and heating at 90&#xb0; C. in a water bath for 20 min.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein said cooling and quick-freezing comprises placing in 4&#xb0; C. cold water and cooling until the central of the fish balls reach below 10&#xb0; C. and quick-freezing.</claim-text>
+</claim>
+</claims>
+</us-patent-application>
