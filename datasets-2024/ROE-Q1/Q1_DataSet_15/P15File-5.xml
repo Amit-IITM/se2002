@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225331A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225331</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17822349</doc-number>
+<date>20220825</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>63</main-group>
+<subgroup>27</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>12</class>
+<subclass>N</subclass>
+<main-group>1</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>63</main-group>
+<subgroup>27</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>N</subclass>
+<main-group>1</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">Plant Endophytic Bacteria And Methods To Control Plant Pathogens And Pests</invention-title>
+<us-related-documents>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>PCT/US2021/019847</doc-number>
+<date>20210226</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17822349</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62981705</doc-number>
+<date>20200226</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Pebble Labs, Inc.</orgname>
+<address>
+<city>Los Alamos</city>
+<state>NM</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Zhang</last-name>
+<first-name>Shujian</first-name>
+<address>
+<city>Chapel Hill</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>DeRose</last-name>
+<first-name>Rick</first-name>
+<address>
+<city>Santa Fe</city>
+<state>NM</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Otero</last-name>
+<first-name>Rosa</first-name>
+<address>
+<city>Los Alamos</city>
+<state>NM</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The inventive technology generally relates to novel plant endophytic bacterial strains that may colonize discrete plant tissues, and in particular the roots of a plant and may further be engineered to express and deliver interfering RNA molecules throughout the plant.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="65.53mm" wi="158.75mm" file="US20230225331A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="172.64mm" wi="194.82mm" file="US20230225331A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="187.28mm" wi="154.01mm" file="US20230225331A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="197.53mm" wi="136.57mm" file="US20230225331A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="183.64mm" wi="161.63mm" file="US20230225331A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="208.62mm" wi="129.03mm" orientation="landscape" file="US20230225331A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="165.18mm" wi="146.81mm" file="US20230225331A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<p id="p-0002" num="0001">This application is a continuation-in-part which claims priority to, and the benefit of International PCT Application PCT/US2021/019847, filed Feb. 26, 2021, claims the benefit of and priority to U.S. Provisional Application No. 62/981,705, filed Feb. 26, 2020, which is incorporated herein by reference in its entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">SEQUENCE LISTING</heading>
+<p id="p-0003" num="0002">The instant application contains contents of the electronic sequence listing submitted electronically as a Standard ST.26 compliant XML file, entitled &#x201c;58198-US.xml,&#x201d; created on Feb. 28, 2023, as 10,587 bytes in size, the content of which is herein incorporated by reference in its entirety.</p>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0004" num="0003">The inventive technology generally relates to novel plant endophytic bacterial strains that may colonize discrete plant tissues, and in particular the roots of a plant and may further be engineered to express and deliver interfering RNA molecules throughout the plant.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0005" num="0004">A major limiting factor in the development of genetically modified plants has been the difficult and extended process required for making safe, effective, and importantly, stable transgenic expression systems. To develop even one transgenic crop plant may take up to ten years and requires significant financial investment. For example, the development of a transgenic strain may be limited by the ability to successfully reproduce seeds or allow the natural outgrowth and spread of the transgenic plant species in any given environment. In addition, significant social pressures have arisen in opposition to the use of transgenic plants. Movements in Western and European countries have sought to prevent the use of transgenic plants in food stuffs. Additionally, new markets for organic and non-transgenic products have concurrently arisen in the last decade which allows non-transgenic plants to be sold at a market premium. Finally, many transgenic plants are controlled by large agricultural conglomerates making supply of seeds for transgenic plants limited, and thereby inhibiting their widespread use in many third-world countries, as one example. In an effort to address some of the limitations, plant-based microorganisms, such as endophytes and the like, have been proposed as delivery vectors for beneficial genes, as well as genetic inhibition of undesirable genes, such as genes expressed by plant pathogens.</p>
+<p id="p-0006" num="0005">As will be discussed in more detail below, the current inventive technology includes the novel use endophytic bacteria to provide a vehicle for stable and continuous non-integrative transformation of a plant host cell through the continual delivery of select molecules, such as RNA molecules configured to induce an endogenous RNA interference response, as well as mRNAs produced in prokaryotic organisms that are configured to be translated in a plant host cell.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">One aspect of the current invention includes isolation and identification of novel botanically compatible plant botanically compatible endophytic bacteria. As used herein, the term &#x201c;botanically compatible&#x201d; means a plant endophyte that is culturable, transformable, and persists in at least one discrete tissue of a target plant, such as the roots. In one preferred embodiment, the current invention includes isolation and identification of novel botanically compatible plant botanically compatible endophytic bacteria persists in the roots of a target plant host.</p>
+<p id="p-0008" num="0007">Another aspect of the current invention includes isolation and identification of novel botanically compatible plant botanically compatible endophytic bacteria. In one preferred aspect, the current invention includes isolation and identification of novel botanically compatible plant botanically compatible endophytic bacteria that persists in the roots of a target plant host, and not any other discrete plant tissues, such as the leaves, stems, flowers, or fruit. One aim of the current invention includes isolation and identification of plant endophyte which could be culturable transformable. In one aspect, the invention may include plant endophytes <i>Pseudomonas </i>sp. Csr-7 as deposited with the ATCC, and Csr-8 as deposited with the ATCC.</p>
+<p id="p-0009" num="0008">Another aspect of the current invention related to plant endophytic bacteria or bacterial combinations that may be used in methods to control plant pathogens, nematodes, and pests. In one aspect, the inventive technology includes endophytic bacteria that may selectively colonize one or more plant tissues. In one preferred aspect, the botanically compatible endophytic bacteria may selectively colonize the plant roots only.</p>
+<p id="p-0010" num="0009">In another aspect, the present invention relates to novel systems, methods and compositions for the biocontrol of plant pathogens and pests. In one preferred aspect, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, which can be engineered to express one or more heterologous inhibitory RNA molecules that may be delivered to the target host plant.</p>
+<p id="p-0011" num="0010">In another aspect, the inventive technology may include compositions and methods of use for the endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7 and <i>Pseudomonas </i>sp. Csr-8. In one aspect, endophytic bacterial strains Csr-7 and Csr-8 may be genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter sequence, encoding an inhibitory RNA molecule. In this preferred aspect, endophytic bacterial strains Csr-7 and Csr-8 may be genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter sequence, encoding one or more double stranded RNA (dsRNA) molecules directed to initiate a DICER-mediated RNA interference (RNAi) response causing the destruction of specifically targeted pathogen, nematode, or pest mRNA molecules that may be present within a plant host. In further aspects, the endophytic bacteria such as <i>Pseudomonas </i>sp. Csr-7 and Csr-8 may be localized in the roots of a plant, such that the dsRNAs are delivered to the target plant host and distributed throughout the plant's intracellular architecture such as the plant's the leaves, fruit, and stems.</p>
+<p id="p-0012" num="0011">In another aspect, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, which can be used to deliver one or more heterologous dsRNA molecules thereby initiating an RNAi response in a target host plant. In one preferred aspect, the plant endophytes, and preferably <i>Pseudomonas </i>sp. Csr-7 and Csr-8, may be configured to express a heterologous dsRNA configured to inhibit expression of one or more essential genes of a plant or plant pathogen. The plant endophytes, and preferably <i>Pseudomonas </i>sp. Csr-7 and Csr-8, may be further configured to express a heterologous engineered RNase III enzyme configured to processes double-strand RNA (dsRNA) almost exclusively into small RNAs (sRNAs) comprising of 22 and 23 nt. These sRNAs may be transported from the bacterial strains and initiate a DICER-independent RNAi response in a target host plant. In one preferred aspect, the engineered RNase III may include an engineered RNase III having the following mutations E38A/R107A/R108A (RNase III N3XT&#x2122; or mc) which was demonstrated to processes double-strand RNA (dsRNA) almost exclusively into sRNAs (sRNAs) comprising of 22 and 23 nt (such systems, methods and compositions, being included in Sayre et al., PCT/US2019/025261, the specification, sequences 1-121, examples, and figures related to the generation of siRNAs in a DICER independent manner are herein incorporated in their entirety by reference).</p>
+<p id="p-0013" num="0012">In another aspect, <i>Pseudomonas </i>sp. Csr-7 and Csr-8 expressing an dsRNA targeting one or more essential genes in a plant pathogen, nematode or pest, and an engineered RNase III mutant having the following mutations E38A/R107A/R108A can be useful for the treatment of plants which are susceptible to pathogens such as viral pathogens, fungal pathogens, and bacterial pathogens as well as nematodes and insects. The plants could be those commercial crops like potato, corn, soybean, potato and citrus and even treatment on the seeds of the above crops.</p>
+<p id="p-0014" num="0013">The present invention related to plant endophytic bacteria or bacterial combinations that may be used in methods to inhibit expression of one or more endogenous plant genes. In one aspect the, inventive technology includes endophytic bacteria that may selectively colonize one or more plant tissues. In one preferred aspect, the botanically compatible endophytic bacteria may selectively colonize the plant roots only and that may further be configured to inhibit expression of one or more endogenous plant genes throughout the entire plant. In one preferred aspect, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, which can be used to deliver one or more heterologous inhibitory RNA molecules to the plant that are configured to inhibit expression of one or more endogenous plant genes.</p>
+<p id="p-0015" num="0014">In another aspect, the inventive technology may include compositions and methods of use for the endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7 and <i>Pseudomonas </i>sp. Csr-8. In one aspect, endophytic bacterial strains Csr-7 and Csr-8 may be genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter sequence, encoding an inhibitory RNA molecule. In this preferred aspect, endophytic bacterial strains Csr-7 and Csr-8 may be genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter sequence, encoding one or more double stranded RNA (dsRNA) molecules directed to initiate a DICER-mediated RNA interference (RNAi) response causing the destruction of specifically targeted endogenous mRNA molecules within the plant host. In further aspects, the endophytic bacteria such as <i>Pseudomonas </i>sp. Csr-7 and Csr-8 may be localized in the roots of a plant, such that the siRNAs are delivered to the target host plant and distributed throughout the plant's intracellular architecture such as the plant's leaves, fruit, and stems.</p>
+<p id="p-0016" num="0015">In another aspect, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, which can be used to deliver one or more heterologous dsRNA molecules thereby initiating an RNAi response directed to an endogenous gene in a target host plant. In one preferred aspect, the plant endophytes, and preferably <i>Pseudomonas </i>sp. Csr-7 and Csr-8, may be configured to express a heterologous dsRNA configured to inhibit expression of one or more endogenous host genes. The plant endophytes, and preferably <i>Pseudomonas </i>sp. Csr-7 and Csr-8, may be further configured to express a heterologous engineered RNase III enzyme configured to processes double-strand RNA (dsRNA) almost exclusively into small RNAs (sRNAs) comprising of 22 and 23 nt. These sRNAs may be transported from the bacterial strains and initiate a DICER-independent RNAi response directed to an endogenous gene in a target host plant, or a gene of a plant pathogen.</p>
+<p id="p-0017" num="0016">In another aspect, the present invention may include plant endophytic bacteria, or bacterial combinations, that may be engineered to express one or more RNA transcripts that may be delivered and translated in a target plant host. In one preferred aspect, plant endophytic bacteria may be configured to produce eukaryotic-like mRNA that may be introduced to, and translated in a plant host, for example as generally described by Sayre et al in PCT/US2019/040747 (the specification, figures, and sequences SEQ ID NOs. 1-37 being specifically incorporated herein by reference).</p>
+<p id="p-0018" num="0017">In one aspect, the inventive technology includes endophytic bacteria configured to produce eukaryotic-like mRNA that may be introduced to and translated in a plant host that may selectively colonize one or more plant tissues. In one preferred aspect, the botanically compatible endophytic bacteria may selectively colonize the plant roots only and that may further be configured to produce eukaryotic-like mRNA that may be introduced to and translated throughout the entire plant. In one preferred aspect, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, which can be used to express and deliver one or more eukaryotic-like mRNA to the plant that are configured to be translated by the plant such that the eukaryotic-like mRNA may introduce a novel heterologous protein into the plant, or in other aspect, increase production of an endogenous protein.</p>
+<p id="p-0019" num="0018">In another aspect, the inventive technology may include compositions and methods of use for the endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7 and <i>Pseudomonas </i>sp. Csr-8. In one aspect, endophytic bacterial strains Csr-7 and Csr-8 may be genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter sequence, encoding one or more eukaryotic-like mRNA. In this preferred aspect, endophytic bacterial strains Csr-7 and Csr-8 may be genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter sequence, encoding one or more eukaryotic-like mRNA that may be transported and translated throughout the plant host. In further aspects, the endophytic bacteria such as <i>Pseudomonas </i>sp. Csr-7 and Csr-8 may be localized in the roots of a plant, such that the one or more eukaryotic-like mRNAs may be distributed throughout the plant's intracellular architecture for example, to the plant's leaves, fruit, and stems.</p>
+<p id="p-0020" num="0019">In another aspect, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, which can be used to deliver one or more heterologous dsRNA molecules thereby initiating an RNAi response directed to a pathogen gene, or endogenous gene in a target host plant, and a eukaryotic-like mRNA that may be introduced to and translated in the plant host. In one preferred aspect, the plant endophytes, and preferably <i>Pseudomonas </i>sp. Csr-7 and Csr-8, may be configured to express a heterologous dsRNA configured to inhibit expression of a pathogen gene, or endogenous gene in a target host plant, and a eukaryotic-like mRNA that may be introduced to and translated in the plant host. The plant endophytes, and preferably <i>Pseudomonas </i>sp. Csr-7 and Csr-8, may be further configured to express a heterologous engineered RNase III enzyme configured to processes double-strand RNA (dsRNA) almost exclusively into small RNAs (sRNAs) comprising of 22 and 23 nt. These sRNAs may be transported from the bacterial strains and initiate a DICER-independent RNAi response directed to an endogenous gene in a target host plant or a gene of a plant pathogen.</p>
+<p id="p-0021" num="0020">Another aspect of the invention may include the isolated bacteria <i>Pseudomonas </i>sp. Csr-7, and Csr-8.</p>
+<p id="p-0022" num="0021">In one aspect, the present invention relates to novel systems, methods and compositions for the biocontrol of a plant viral pathogen. In one preferred aspect, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, which can be used in the biocontrol of a plant viral pathogen through the delivery of heterologous inhibitory RNA molecules.</p>
+<p id="p-0023" num="0022">Another aspect of the current invention includes the expression and delivery of inhibitory RNAs homologous to the viral genome to efficiently down-regulate or eliminate viral replication and translation of viral proteins of a plant viral pathogen. In one preferred aspect, the inhibitory RNAs may be dsRNA configured to initiate a DICER-mediated RNA interference response in the target plant. In another preferred aspect, the inhibitory RNAs may be dsRNA, further processed in a bacterial host cell by an engineered RNaseIII configured to generate siRNAs that may be delivered to the target plant and initiate a DICER-independent RNA interference response in the target plant. In another aspect of the current invention, an engineered RNaseIII configured to generate siRNAs may include novel <i>E. coli </i>RNase III having the following mutations E38A/R107A/R108A (RNase III N3XT&#x2122;), which in this preferred aspect may be expressed in planta endophytic bacteria and deliver 22-23 nt siRNAs to a target plant host. In this preferred aspect, the 22-23 nt interfering RNAs may be generated from a co-expressed dsRNA molecules.</p>
+<p id="p-0024" num="0023">Another aspect of the current invention includes isolation and identification of novel botanically compatible plant endophytic bacteria which may be culturable, transformable, and persists only in roots of a plant and that further express one or more heterologous inhibitory RNA molecules, such as a double stranded RNA (dsRNA) molecule that may be configured to initiate an RNA interference response in a target plant host. In this preferred aspect, the genetically engineered plant endophytic bacteria may persist in the plant's roots and express and transport dsRNA molecules that may be configured to initiate an RNA interference response in a target plant. The dsRNA molecules may preferably be hairpin RNA (hpRNA) molecules that may be produced by the endophytic bacteria in the roots and distributed to the rest of the plant through the plant's intracellular architecture.</p>
+<p id="p-0025" num="0024">Another aspect of the current invention includes methods of against, and/or treating a pathogen in a plant, or seed. In one preferred aspect, this method may include the isolation and identification of novel botanically compatible plant endophytic bacteria which may be culturable, transformable, and persists only in roots of a plant and that further express one or more heterologous inhibitory RNA molecules, such as a double stranded RNA (dsRNA) molecule that may be configured to initiate an RNA interference response in a target plant host. In this preferred aspect, the genetically engineered plant endophytic bacteria may persist in the plant's roots and express and transport dsRNA molecules that may be configured to initiate an RNA interference response in a target plant. The dsRNA molecules may preferably be hairpin RNA (hpRNA) molecules that may be produced by the endophytic bacteria in the roots and distributed to the rest of the plant through the plant's intracellular architecture.</p>
+<p id="p-0026" num="0025">Another aspect of the current invention includes methods of inoculating against, and/or treating a pathogen in a plant, or seed. In one preferred aspect, this method may include the isolation and identification of novel botanically compatible plant endophytic bacteria which may be culturable, transformable, and persists in a discrete plant tissue and that further express one or more heterologous inhibitory RNA molecules, such as a double stranded RNA (dsRNA) molecule that may be configured to initiate an RNA interference response in a target plant host. In this preferred aspect, the genetically engineered plant endophytic bacteria may persist in the plant express and transport dsRNA molecules that may be configured to initiate an RNA interference response in a target plant. The dsRNA molecules may preferably be hairpin RNA (hpRNA) molecules that may be produced the endophytic bacteria in, or on, the plant and distributed to the rest of the plant through the plant's intracellular architecture. Another aspect of the current invention includes the production and isolation of dsRNAs, or siRNAs produced by an engineered RNase enzyme as herein described and administered to a plant that is susceptible to or infected with a plant viral pathogen.</p>
+<p id="p-0027" num="0026">In another aspect, a plant may be inoculated at the root level and remain free of genetically modified organisms throughout the rest of the plant, such as the stems, leaves and fruit. In another aspect, a plant may be inoculated at the root level and remain free of genetically modified organisms throughout the rest of the plant, such as the stems, leaves and fruit, but the entire plant may be treated or inoculated against a viral pathogen, such as a plant viral pathogen, through the distribution of dsRNA molecules throughout the plant. In this manner, the plant may be treated or inoculated against a viral pathogen, such as a plant viral pathogen, without requiring the stable genetic transformation and propagation of the plant. This non-GMO strategy may allow the present solution to the treatment of a plant viral pathogen to employ a non-GMO aspect, as well as the ability to rapidly modify one or more dsRNA constructs to adapt to any changes in the target essential genes sequence.</p>
+<p id="p-0028" num="0027">In another aspect, a plant may be inoculated with a genetically modified endophytic bacteria that expresses a heterologous RNA interference molecule, such as a hpRNA, directed to one or more a plant viral pathogen genes, and a heterologous engineered RNaseIII enzyme configured to process the hpRNA molecules into 22-23 nt small interfering RNAs in the bacteria. In this aspect, the genetically modified endophytic bacteria may be configured to, or naturally be maintained, at the root level such that the remaining tissues of the plant, such as the plant, such as the stems, leaves and fruit, remain free of genetically modified organisms throughout the lifecycle of the plant. In another aspect, a plant may be inoculated at the root level and there express one or more heterologous RNA interference molecule, such as a hpRNA, directed to one or more a plant viral pathogen genes, and a heterologous engineered RNaseIII enzyme configured to process the hpRNA molecules into 22-23 nt siRNAs in the bacteria that may be delivered to the target plant's roots, and distributed through the rest of the plant. In this preferred aspect, the non-root plant tissues may remain free of genetically modified organisms, such as the stems, leaves and fruit, but the entire plant may be treated or inoculated against a pathogen, such as a viral pathogen or pest, through the production and distribution of siRNA molecules generated by the engineered RNaseIII and delivered throughout the plant from the root tissues. In this manner, the plant may be treated or inoculated against a viral pathogen, such as a plant viral pathogen, and/or pest, without requiring the stable genetic transformation and propagation of the plant.</p>
+<p id="p-0029" num="0028">Another aspect of the current invention includes methods of against, and/or treating a pathogen or pest in a plant, or seed. In one preferred aspect, this method may include the identification of novel botanically compatible plant endophytic bacteria that may express one or more heterologous inhibitory RNA molecules, such as a double stranded RNA (dsRNA) molecule that may be configured to initiate an RNA interference response in a target plant host, as well as a heterologous engineered RNaseIII enzyme configured to process the dsRNA molecules into 22-23 nt interfering RNAs in the bacteria that may further be delivered to the tissues of a plant and initiate an RNAi response, and preferably an RNAi response targeting one or more essential genes in a pathogen or pest.</p>
+<p id="p-0030" num="0029">Another aspect of the current invention includes methods of inoculating against, and/or treating a pathogen or pest in a plant, or seed. In one preferred aspect, this method may include the inoculating a plant susceptible to, or infected with a pathogen or pest with a genetically modified endophytic bacteria that expresses a heterologous RNA interference molecule, such as a hpRNA, directed to one or more pathogen or pest genes, and a heterologous engineered RNaseIII enzyme configured to process the hpRNA molecules into 22-23 nt small interfering RNAs in the bacteria that may be delivered to the plant or seed thereby initiating a DICER-independent RNAi response targeting one or more essential genes in a pathogen or pest in the plant or seed. The siRNA molecules may preferably be distributed to the rest of the plant through the plant's intracellular architecture.</p>
+<p id="p-0031" num="0030">In this preferred aspect, the genetically engineered plant endophytic bacteria may persist in the plant's roots and be vertically and/or horizontally transferred to its progeny or other plants where the genetically engineered plant endophytic bacteria may express and transport dsRNA molecules that may be configured to initiate an RNA interference response in a target plant host. The dsRNA molecules may preferably be hairpin RNA (hpRNA) molecules and may further be processed an engineered RNaseIII protein as generally described herein to generate siRNA that may initiate a DICER-independent RNA interference response in a target plant.</p>
+<p id="p-0032" num="0031">In this preferred aspect, the genetically engineered plant endophytic bacteria may persist in the plant's roots and be vertically and/or horizontally transferred to its progeny or other plants where the genetically engineered plant endophytic bacteria may express and transport dsRNA molecules that may be configured to initiate an RNA interference response in a target plant. The dsRNA molecules may preferably be hairpin RNA (hpRNA) molecules and may further be processed an engineered RNaseIII protein as generally described herein to generate siRNA that may initiate a DICER-independent RNA interference response in a target plant.</p>
+<p id="p-0033" num="0032">Additional aspects of the invention may become evident in light of the figures and disclosure provided below.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE FIGURES</heading>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>1</b></figref>. The colonies of Csr-7/GFP were re-isolated from potato roots but from potato tubers at 82 days post inoculation (dpi). The concentration of Csr-7/GFP reached to 2.09&#xd7;10<sup>3 </sup>cfu/g tissue.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>2</b></figref>. The colonies of Csr-7/GFP were re-isolated from the roots of potato &#x201c;Moneymaker&#x201d; 117 days post inoculation (dpi). The concentration of Csr-7/GFP reached to 7.7&#xd7;10<sup>2 </sup>cfu/g tissue. The bacteria were not found in stems, upper branches, flower or fruits.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>3</b></figref>. The colonies of Csr-8/GFP were re-isolated from the roots of potato &#x201c;Russet Burbank&#x201d; at 105 days post inoculation (dpi). The bacteria were not found in stems, upper branches, flower or fruits.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. <b>4</b></figref>. Structural model of two <i>E. coli </i>E38A/R107A/R108A mutant RNase III dimers (green and blue cartoons) separated by 22 nt along a dsRNA target. Note that at this separation, both dimers are not showing steric clashes with each other, as indicated by the absence of any overlaps between their van der Waals (i.e., molecular) surfaces. Yellow and red RNA strands represent the 22-nt long dsRNA cleavage product, while white RNA strands denote the rest of the dsRNA target.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. <b>5</b></figref>. API 20NE test strip after 48-hrs for Csr-7 (A) and Csr-8 (B). Results correspond to Table 1</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. <b>6</b></figref>. Oxidase test results: positive reactions for both Csr-7 and Csr-8 are indicated by purple color.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0040" num="0039">The present invention includes isolation and identification of novel botanically compatible endophytic bacteria. Another embodiment of the current invention related to plant endophytic bacteria or bacterial combinations that may be used in methods to control plant pathogens, nematodes, and pests. In one embodiment the inventive technology includes endophytic bacteria that may selectively colonize one or more plant tissues. In another preferred embodiment, the botanically compatible endophytic bacteria may selectively colonize the plant roots only. In another embodiment, the present invention relates to novel systems, methods and compositions for the biocontrol of plant pathogens and pests. In one preferred embodiment, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, that can be used to deliver one or more heterologous inhibitory RNA molecules to the plant.</p>
+<p id="p-0041" num="0040">In another embodiment, the inventive technology may include compositions and methods of use for the endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7 and <i>Pseudomonas </i>sp. Csr-8. In one embodiment, endophytic bacterial strains Csr-7 and Csr-8 may be genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter sequence, encoding an inhibitory RNA molecule. In this preferred embodiment, endophytic bacterial strains Csr-7 and Csr-8 may be genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter sequence, encoding one or more double stranded RNA (dsRNA) molecules directed to initiate a DICER-mediated RNA interference (RNAi) response causing the destruction of specifically targeted pathogen, nematode, or pest mRNA molecules that may be present within a target plant host or in a pest or herbivore that consumes the target plant host. In further embodiments, the endophytic bacteria such as <i>Pseudomonas </i>sp. Csr-7 and Csr-8 may be localized in the roots of a plant, such that the dsRNAs are delivered to the target plant and distributed throughout the plant's intracellular architecture such as the plant's leaves, fruit, and stems.</p>
+<p id="p-0042" num="0041">In another embodiment, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, which can be used to deliver one or more heterologous dsRNA molecules thereby initiating an RNAi response in a target host plant. In one preferred embodiment, the plant endophytes, and preferably <i>Pseudomonas </i>sp. Csr-7 and Csr-8, may be configured to express a heterologous dsRNA configured to inhibit expression of one or more essential genes of a plant pathogen. The plant endophytes, and preferably <i>Pseudomonas </i>sp. Csr-7 and Csr-8, may be further configured to express a heterologous engineered RNase III enzyme configured to processes double-strand RNA (dsRNA) almost exclusively into small RNAs (sRNAs) comprising of 22 and 23 nt. These sRNAs may be transported from the bacterial strains and initiate a DICER-independent RNAi response in a target host plant, nematode, pest, or herbivore that may consume the target plant host. In one preferred embodiment, the engineered RNase III may include an engineered RNase III having the following mutations E38A/R107A/R108A (RNase III N3XT&#x2122; or mc) which was demonstrated to processes double-strand RNA (dsRNA) almost exclusively into sRNAs (sRNAs) comprising of 22 and 23 nt (such systems, methods and compositions, being included in Sayre et al., PCT/US2019/025261, the specification, sequences 1-121, examples, and figures related to the generation of siRNAs in a DICER independent manner are herein incorporated in their entirety by reference).</p>
+<p id="p-0043" num="0042">In another embodiment, <i>Pseudomonas </i>sp. Csr-7 and Csr-8 expressing an dsRNA targeting one or more essential genes in a plant pathogen, nematode, pest, or herbivore, and an engineered RNase III mutant having the following mutations E38A/R107A/R108A can be usefully for the treatment of plants which are susceptible to pathogens such as viral pathogens, fungal pathogens, and bacterial pathogens as well as nematodes and insects. The plants could be those commercial crops like potato, corn, soybean, potato and citrus and even treatment on the seeds of the above crops.</p>
+<p id="p-0044" num="0043">The present invention related to plant endophytic bacteria or bacterial combinations that may be used in methods to inhibit expression of one or more endogenous plant genes. In one embodiment the inventive technology includes endophytic bacteria that may selectively colonize one or more plant tissues. In one preferred embodiment, the botanically compatible endophytic bacteria may selectively colonize the plant roots only and that may further be configured to inhibit expression of one or more endogenous plant genes throughout the entire plant. In one preferred embodiment, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, which can be used to deliver one or more heterologous inhibitory RNA molecules to the plant that are configured to inhibit expression of one or more endogenous plant genes.</p>
+<p id="p-0045" num="0044">In another embodiment, the inventive technology may include compositions and methods of use for the endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7 and <i>Pseudomonas </i>sp. Csr-8. In one embodiment, endophytic bacterial strains Csr-7 and Csr-8 may be genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter sequence, encoding an inhibitory RNA molecule. In this preferred embodiment, endophytic bacterial strains Csr-7 and Csr-8 may be genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter sequence, encoding one or more double stranded RNA (dsRNA) molecules directed to initiate a DICER-mediated RNA interference (RNAi) response causing the destruction of specifically targeted endogenous mRNA molecules within the plant host. In further embodiments, the endophytic bacteria such as <i>Pseudomonas </i>sp. Csr-7 and Csr-8 may be localized in the roots of a plant, such that the siRNAs are delivered to the target host plant and distributed throughout the plant's intracellular architecture such as the plant's leaves, fruit, and stems.</p>
+<p id="p-0046" num="0045">In another embodiment, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, which can be used to deliver one or more heterologous dsRNA molecules thereby initiating an RNAi response directed to an endogenous gene in a target host plant. In one preferred embodiment, the plant endophytes, and preferably <i>Pseudomonas </i>sp. Csr-7 and Csr-8, may be configured to express a heterologous dsRNA configured to inhibit expression of one or more endogenous host genes. The plant endophytes, and preferably <i>Pseudomonas </i>sp. Csr-7 and Csr-8, may be further configured to express a heterologous engineered RNase III enzyme configured to processes double-strand RNA (dsRNA) almost exclusively into small RNAs (sRNAs) comprising of 22 and 23 nt. These sRNAs may be transported from the bacterial strains and initiate a DICER-independent RNAi response directed to an endogenous gene in a target host plant.</p>
+<p id="p-0047" num="0046">The present invention related to plant endophytic bacteria or bacterial combinations that may be used to express one or more RNA transcripts that may be translated in a target plant host. In one preferred embodiment, plant endophytic bacteria may be configured to produce eukaryotic-like mRNA that may be introduced to and translated in a plant host (as generally described by Sayre et al in PCT/US2019/040747, the specification, figures, and sequences SEQ ID NOs. 1-37 being specifically incorporated herein by reference).</p>
+<p id="p-0048" num="0047">In one embodiment the inventive technology includes endophytic bacteria configured to produce eukaryotic-like mRNA that may be introduced to and translated in a plant host that may selectively colonize one or more plant tissues. In one preferred embodiment, the botanically compatible endophytic bacteria may selectively colonize the plant roots only and that may further be configured to produce eukaryotic-like mRNA that may be introduced to and translated throughout the entire plant. In one preferred embodiment, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, which can be used to express and deliver one or more eukaryotic-like mRNA to the plant that are configured to be translated by the plant such that the eukaryotic-like mRNA may introduce a novel heterologous protein into the plant, or in other embodiment, increase production of an endogenous protein.</p>
+<p id="p-0049" num="0048">In another embodiment, the inventive technology may include compositions and methods of use for the endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7 and <i>Pseudomonas </i>sp. Csr-8. In one embodiment, endophytic bacterial strains Csr-7 and Csr-8 may be genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter sequence, encoding one or more eukaryotic-like mRNA. In this preferred embodiment, endophytic bacterial strains Csr-7 and Csr-8 may be genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter sequence, encoding one or more eukaryotic-like mRNA that may be transported and translated throughout the plant host. In further embodiments, the endophytic bacteria such as <i>Pseudomonas </i>sp. Csr-7 and Csr-8 may be localized in the roots of a plant, such that the one or more eukaryotic-like mRNAs may be distributed throughout the plant's intracellular architecture for example, to the plant's leaves, fruit, and stems.</p>
+<p id="p-0050" num="0049">In another embodiment, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, which can be used to deliver one or more heterologous dsRNA molecules thereby initiating an RNAi response directed to a pathogen gene, or endogenous gene in a target host plant, and a eukaryotic-like mRNA that may be introduced to and translated in the plant host. In one preferred embodiment, the plant endophytes, and preferably <i>Pseudomonas </i>sp. Csr-7 and Csr-8, may be configured to express a heterologous dsRNA configured to inhibit expression of a pathogen gene, or endogenous gene in a target host plant, and a eukaryotic-like mRNA that may be introduced to and translated in the plant host. The plant endophytes, and preferably <i>Pseudomonas </i>sp. Csr-7 and Csr-8, may be further configured to express a heterologous engineered RNase III enzyme configured to processes double-strand RNA (dsRNA) almost exclusively into small RNAs (sRNAs) comprising of 22 and 23 nt. These sRNAs may be transported from the bacterial strains and initiate a DICER-independent RNAi response directed to an endogenous gene in a target host plant.</p>
+<p id="p-0051" num="0050">Another embodiment of the invention may include isolated bacteria <i>Pseudomonas </i>sp. Csr-7, and Csr-8.</p>
+<p id="p-0052" num="0051">In one embodiment, the present invention relates to novel systems, methods and compositions for the biocontrol of Potato Virus Y (PVY). In one preferred embodiment, the present invention may include novel genetically modified plant endophytic bacteria, or novel bacterial combinations, which can be used in the biocontrol of PVY through the delivery of heterologous inhibitory RNA molecules.</p>
+<p id="p-0053" num="0052">Another embodiment of the current invention includes the expression and delivery of inhibitory RNAs homologous to the viral genome to efficiently down-regulate or eliminate viral replication and translation of viral proteins of a pathogen or pest. In one preferred embodiment, the inhibitory RNAs may be dsRNA configured to initiate a DICER-mediated RNA interference response in the target plant. In another preferred embodiment, the inhibitory RNAs may be dsRNA, further processed in a bacterial host cell by an engineered RNaseIII configured to generate siRNAs that may be delivered to the target plant and initiate a DICER-independent RNA interference response in the target plant. In another embodiment of the current invention, an engineered RNaseIII configured to generate siRNAs may include novel <i>E. coli </i>RNase III mutant E38A/R107A/R108A (RNase III N3XT&#x2122;), which in this preferred embodiment may be expressed in planta endophytic bacteria and deliver 22-23 nt interfering RNAs to plants. In this preferred embodiment, the 22-23 nt interfering RNAs may be generated from a co-expressed dsRNA molecules.</p>
+<p id="p-0054" num="0053">Another aim of the current invention includes systems, methods and compositions for the generation of novel botanically compatible plant endophytic bacteria which may be culturable, transformable, and persists only in roots of a plant and that further generate sRNA molecules from co-expressed heterologous dsRNA molecules using RNase III mutants to produce a DICER-independent RNAi response directed to a pathogen or pest in a host plant.</p>
+<p id="p-0055" num="0054">Another aim of the current invention includes systems, methods and compositions for the generation of novel botanically compatible plant endophytic bacteria which may be culturable, transformable, and persists only in roots of a plant and that further generate heterologous dsRNA molecules configured to produce a DICER-dependent RNAi response directed to a pathogen or pest in a host plant.</p>
+<p id="p-0056" num="0055">Another aim of the current invention includes systems, methods and compositions for the generation of novel botanically compatible plant endophytic bacteria which may be culturable, transformable, and persists only in roots of a plant and that further generate sRNA molecules from co-expressed heterologous dsRNA molecules using RNase III mutants to produce a DICER-independent RNAi response directed to a pathogen or pest in a host plant.</p>
+<p id="p-0057" num="0056">Another aim of the current invention includes systems, methods and compositions for the generation of novel botanically compatible plant endophytic bacteria which may be culturable, transformable, and persists only in roots of a plant and that further generate heterologous dsRNA molecules configured to produce a DICER-dependent RNAi response directed to a pathogen or pest in a host plant.</p>
+<p id="p-0058" num="0057">Another embodiment of the current invention includes isolation and identification of novel botanically compatible plant endophytic bacteria which may be culturable, transformable, and persists only in roots of a plant and that further express one or more heterologous inhibitory RNA molecules, such as a double stranded RNA (dsRNA) molecule that may be configured to initiate an RNA interference response in a target plant host. In this preferred embodiment, the genetically engineered plant endophytic bacteria may persist in the plant's roots and express and transport dsRNA molecules that may be configured to initiate an RNA interference response in a target plant. The dsRNA molecules may preferably be hairpin RNA (hpRNA) molecules that may be produced by the endophytic bacteria in the roots and distributed to the rest of the plant through the plant's intracellular architecture.</p>
+<p id="p-0059" num="0058">Another embodiment of the current invention includes methods of against, and/or treating a pathogen or pest in a plant, or seed. In one preferred embodiment, this method may include the isolation and identification of novel botanically compatible plant endophytic bacteria which may be culturable, transformable, and persists only in roots of a plant and that further express one or more heterologous inhibitory RNA molecules, such as a double stranded RNA (dsRNA) molecule that may be configured to initiate an RNA interference response in a target plant host. In this preferred embodiment, the genetically engineered plant endophytic bacteria may persist in the plant's roots and express and transport dsRNA molecules that may be configured to initiate an RNA interference response in a target plant. The dsRNA molecules may preferably be hairpin RNA (hpRNA) molecules that may be produced by the endophytic bacteria in the roots and distributed to the rest of the plant through the plant's intracellular architecture.</p>
+<p id="p-0060" num="0059">Another embodiment of the current invention includes methods of inoculating against, and/or treating a pathogen or pest in a plant, or seed. In one preferred embodiment, this method may include the isolation and identification of novel botanically compatible plant endophytic bacteria which may be culturable, transformable, and persists in a plant and that further express one or more heterologous inhibitory RNA molecules, such as a double stranded RNA (dsRNA) molecule that may be configured to initiate an RNA interference response in a target plant host. In this preferred embodiment, the genetically engineered plant endophytic bacteria may persist in the plant express and transport dsRNA molecules that may be configured to initiate an RNA interference response in a target plant. The dsRNA molecules may preferably be hairpin RNA (hpRNA) molecules that may be produced the endophytic bacteria in, or on, the plant and distributed to the rest of the plant through the plant's intracellular architecture. Another embodiment of the current invention includes the production and isolation of dsRNAs, or siRNAs produced by an engineered RNase enzyme as herein described and administered to a plant that is susceptible to or infected with a pathogen or pest.</p>
+<p id="p-0061" num="0060">In another embodiment, a plant may be inoculated at the root level and remain free of genetically modified organisms throughout the rest of the plant, such as the stems, leaves and fruit. In another embodiment, a plant may be inoculated at the root level and remain free of genetically modified organisms throughout the rest of the plant, such as the stems, leaves and fruit, but the entire plant may be treated or inoculated against a viral pathogen, such as a pathogen or pest, through the distribution of dsRNA molecules throughout the plant. In this manner, the plant may be treated or inoculated against a viral pathogen, such as a pathogen or pest, without requiring the stable genetic transformation and propagation of the plant. This non-GMO strategy may allow the present solution to the treatment of a pathogen or pest to employ a non-GMO embodiment, as well as the ability to rapidly modify one or more dsRNA constructs to adapt to any changes in the target essential genes sequence.</p>
+<p id="p-0062" num="0061">Another embodiment of the current invention includes isolation and identification of novel botanically compatible plant endophytic bacteria that may express one or more heterologous inhibitory RNA molecules, such as a double stranded RNA (dsRNA) molecule that may be configured to initiate an RNA interference response in a target plant host, as well as a heterologous engineered RNaseIII enzyme configured to process the dsRNA molecules into 22-23 nt interfering RNAs in the bacteria that may further be delivered to the tissues of a plant and initiate an RNAi response, and preferably an RNAi response targeting one or more essential genes in a pathogen or pest.</p>
+<p id="p-0063" num="0062">In another embodiment, a plant may be inoculated with a genetically modified endophytic bacteria that expresses a heterologous RNA interference molecule, such as a hpRNA, directed to one or more a pathogen or pest genes, and a heterologous engineered RNaseIII enzyme configured to process the hpRNA molecules into 22-23 nt small interfering RNAs in the bacteria. In this embodiment, the genetically modified endophytic bacteria may be configured to, or naturally be maintained, at the root level such that the remaining tissues of the plant, such as the plant, such as the stems, leaves and fruit, remain free of genetically modified organisms throughout the lifecycle of the plant. In another embodiment, a plant may be inoculated at the root level and there express one or more heterologous RNA interference molecule, such as a hpRNA, directed to one or more a pathogen or pest genes, and a heterologous engineered RNaseIII enzyme configured to process the hpRNA molecules into 22-23 nt siRNAs in the bacteria that may be delivered to the target plant's roots, and distributed through the rest of the plant. In this preferred embodiment, the non-root plant tissues may remain free of genetically modified organisms, such as the stems, leaves and fruit, but the entire plant may be treated or inoculated against a viral pathogen, such as a pathogen or pest, through the production and distribution of siRNA molecules generated by the engineered RNaseIII and delivered throughout the plant from the root tissues. In this manner, the plant may be treated or inoculated against a viral pathogen, such as a pathogen or pest, without requiring the stable genetic transformation and propagation of the plant.</p>
+<p id="p-0064" num="0063">Another embodiment of the current invention includes methods of against, and/or treating a pathogen or pest in a plant, or seed. In one preferred embodiment, this method may include the identification of novel botanically compatible plant endophytic bacteria that may express one or more heterologous inhibitory RNA molecules, such as a double stranded RNA (dsRNA) molecule that may be configured to initiate an RNA interference response in a target plant host, as well as a heterologous engineered RNaseIII enzyme configured to process the dsRNA molecules into 22-23 nt interfering RNAs in the bacteria that may further be delivered to the tissues of a plant and initiate an RNAi response, and preferably an RNAi response targeting one or more essential genes in a pathogen or pest in the plant or seed.</p>
+<p id="p-0065" num="0064">Another embodiment of the current invention includes methods of inoculating against, and/or treating a pathogen or pest in a plant, or seed. In one preferred embodiment, this method may include the inoculating a plant susceptible to, or infected with a pathogen or pest with a genetically modified endophytic bacteria that expresses a heterologous RNA interference molecule, such as a hpRNA, directed to one or more a pathogen or pest genes, and a heterologous engineered RNaseIII enzyme configured to process the hpRNA molecules into 22-23 nt small interfering RNAs in the bacteria that may be delivered to the plant or seed thereby initiating a DICER-independent RNAi response targeting one or more essential genes in a pathogen or pest in the plant or seed. The siRNA molecules may preferably be distributed to the rest of the plant through the plant's intracellular architecture.</p>
+<p id="p-0066" num="0065">In this preferred embodiment, the genetically engineered plant endophytic bacteria may persist in the plant's roots and be vertically and/or horizontally transferred to its progeny or other plants where the genetically engineered plant endophytic bacteria may express and transport dsRNA molecules that may be configured to initiate an RNA interference response in a target plant. The dsRNA molecules may preferably be hairpin RNA (hpRNA) molecules and may further be processed an engineered RNaseIII protein as generally described herein to generate siRNA that may initiate a DICER-independent RNA interference response in a target plant.</p>
+<p id="p-0067" num="0066">In this preferred embodiment, the genetically engineered plant endophytic bacteria may persist in the plant's roots and be vertically and/or horizontally transferred to its progeny or other plants where the genetically engineered plant endophytic bacteria may express and transport dsRNA molecules that may be configured to initiate an RNA interference response in a target plant. The dsRNA molecules may preferably be hairpin RNA (hpRNA) molecules and may further be processed an engineered RNaseIII protein as generally described herein to generate siRNA that may initiate a DICER-independent RNA interference response in a target plant.</p>
+<p id="p-0068" num="0067">Another embodiment of the invention may include isolated polynucleotide sequences encoding an RNA interference molecule, and preferably a hpRNA molecule, directed to a gene of a pathogen or pest.</p>
+<p id="p-0069" num="0068">Another embodiment of the invention may include isolated polynucleotide sequences encoding an RNA interference molecule, and preferably a hpRNA molecule, directed to nucleotide sequence according to SEQ ID NO. 1.</p>
+<p id="p-0070" num="0069">Another embodiment of the invention may include isolated polynucleotide sequences encoding an RNA interference molecule, and preferably a hpRNA molecule, that may be processed to by an engineered RNaseIII enzyme into siRNAs directed to a gene of a pathogen or pest.</p>
+<p id="p-0071" num="0070">Another embodiment of the invention may include isolated polynucleotide sequences encoding an RNA interference molecule, and preferably a hpRNA molecule, that may be processed to by an engineered RNaseIII enzyme into siRNAs directed to nucleotide sequence according to SEQ ID NO. 1.</p>
+<p id="p-0072" num="0071">Another embodiment of the invention may include isolated polynucleotide sequences according to SEQ ID NOs. 2, 4 and 6. Another embodiment of the invention may include one or more of the isolated polynucleotide sequences according to SEQ ID NOs. 2, 4, and 6, operably linked to a promoter, forming an expression vector. Another embodiment of the invention may include one or more bacteria transformed by one or more expression vector configured to express one or more polynucleotide sequences according to SEQ ID NOs. 2, 4, and 6.</p>
+<p id="p-0073" num="0072">Another embodiment of the invention may include isolated polynucleotide sequences according to SEQ ID NO. 2, 4, and 6, and a sequence encoding a heterologous dsRNA. Another embodiment of the invention may include one or more of the isolated polynucleotide sequences according to SEQ ID NO. 2, 4, and 6, and a sequence encoding a heterologous dsRNA operably linked to a promoter forming an expression vector. Another embodiment of the invention may include one or more bacteria transformed by one or more expression vector configured to express one or more polynucleotide sequences according to SEQ ID NO. 2, 4, and 6, and a sequence encoding a heterologous dsRNA. Another embodiment of the invention may include one or more bacteria transformed by one or more expression vector configured to express one or more polypeptide sequences according to amino acid sequences SEQ ID NOs. 3, 5, and 7.</p>
+<p id="p-0074" num="0073">Another embodiment include endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7 or and <i>Pseudomonas </i>sp. Csr-8. In one preferred embodiment, endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7, or <i>Pseudomonas </i>sp. Csr-8 may be genetically modified to express one or more polynucleotide sequences according to SEQ ID NO. 2, 4, and 6, and a sequence encoding a heterologous dsRNA, wherein the nucleotide sequences are operably linked to a promoter.</p>
+<p id="p-0075" num="0074">Another embodiment include endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7, or <i>Pseudomonas </i>sp. Csr-8. In one preferred embodiment, endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7, or <i>Pseudomonas </i>sp. Csr-8 may be genetically modified to express one or more polynucleotide sequences according to SEQ ID NO. 2, 4, and 6, and a sequence encoding a heterologous dsRNA, wherein the nucleotide sequences are operably linked to a promoter, and wherein endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7 or and <i>Pseudomonas </i>sp. Csr-8, have been further genetically modified to delete, or disrupt their endogenous or wild type RNaseIII enzymes respectively.</p>
+<p id="p-0076" num="0075">Another embodiment include a plant or seed inoculated with endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7, or <i>Pseudomonas </i>sp. Csr-8. In one preferred embodiment, the endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7, or <i>Pseudomonas </i>sp. Csr-8 may be genetically modified to express one or more polynucleotide sequences according to SEQ ID NO. 2, 4, and 6, and a sequence encoding a heterologous dsRNA, wherein the nucleotide sequences are operably linked to a promoter, and wherein endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7 or and <i>Pseudomonas </i>sp. Csr-8, have been further genetically modified to delete, or disrupt their endogenous or wild type RNaseIII enzymes respectively.</p>
+<p id="p-0077" num="0076">Another embodiment include a pathogen or pest resistant plant, or seed inoculated with endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7, or <i>Pseudomonas </i>sp. Csr-8. In one preferred embodiment, the endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7, or <i>Pseudomonas </i>sp. Csr-8 may be genetically modified to express one or more polynucleotide sequences according to SEQ ID NO. 2, 4, and 6, and a sequence encoding a heterologous dsRNA, wherein the nucleotide sequences are operably linked to a promoter, and wherein endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7 or and <i>Pseudomonas </i>sp. Csr-8, have been further genetically modified to delete, or disrupt their endogenous or wild type RNaseIII enzymes respectively.</p>
+<p id="p-0078" num="0077">Another embodiment include a plant or seed inoculated with endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7, or <i>Pseudomonas </i>sp. Csr-8. In one preferred embodiment, the endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7, or <i>Pseudomonas </i>sp. Csr-8 may be genetically modified to express one or more polynucleotide sequences according to SEQ ID NO. 2, 4, and 6, and a sequence encoding a heterologous dsRNA, wherein the nucleotide sequences are operably linked to a promoter, and wherein endophytic bacterial strains <i>Pseudomonas </i>sp. Csr-7 or and <i>Pseudomonas </i>sp. Csr-8, have been further genetically modified to delete, or disrupt their endogenous or wild type RNaseIII enzymes respectively, and which further expresses one or more heterologous helper genes to enhance dsRNA production, stabilization, export and/or delivery Another embodiment may include introducing one or more of the genetically modified endophyte bacteria to a plant, and preferably a plant, through one or more of the methods selected from the group consisting of: through one or more drenching, soaking, spraying, injecting, aerosolized disbursement, environmental aerosolized disbursement, environmental aerosolized disbursement in water sources, lyophilized, freeze-dried, microencapsulated, desiccated, in an aqueous carrier, in a solution, brushing, dressing, dripping, and coating.</p>
+<p id="p-0079" num="0078">As used herein and in the appended claims, the singular forms &#x201c;a&#x201d;, &#x201c;an&#x201d;, and &#x201c;the&#x201d; include plural referents unless the context clearly dictates otherwise. Thus, for example, reference to &#x201c;a plant&#x201d; includes a plurality of such plants; reference to &#x201c;a cell&#x201d; includes one or more cells and equivalents thereof known to those skilled in the art, and so forth. Similarly, the word &#x201c;or&#x201d; is intended to include &#x201c;and&#x201d; unless the context clearly indicates otherwise. Hence &#x201c;comprising A or B&#x201d; means including A, or B, or A and B. Furthermore, the use of the term &#x201c;including&#x201d;, as well as other related forms, such as &#x201c;includes&#x201d; and &#x201c;included&#x201d;, is not limiting.</p>
+<p id="p-0080" num="0079">The term &#x201c;about&#x201d; as used herein is a flexible word with a meaning similar to &#x201c;approximately&#x201d; or &#x201c;nearly&#x201d;. The term &#x201c;about&#x201d; indicates that exactitude is not claimed, but rather a contemplated variation. Thus, as used herein, the term &#x201c;about&#x201d; means within 1 or 2 standard deviations from the specifically recited value, or &#xb1;a range of up to 20%, up to 15%, up to 10%, up to 5%, or up to 4%, 3%, 2%, or 1% compared to the specifically recited value.</p>
+<p id="p-0081" num="0080">The term &#x201c;comprising&#x201d; as used in a claim herein is open-ended and means that the claim must have all the features specifically recited therein, but that there is no bar on additional features that are not recited being present as well. The term &#x201c;comprising&#x201d; leaves the claim open for the inclusion of unspecified ingredients even in major amounts. The term &#x201c;consisting essentially of in a claim means that the invention necessarily includes the listed ingredients and is open to unlisted ingredients that do not materially affect the basic and novel properties of the invention.</p>
+<p id="p-0082" num="0081">A &#x201c;consisting essentially of claim occupies a middle ground between closed claims that are written in a closed &#x201c;consisting of format and fully open claims that are drafted in a &#x201c;comprising format&#x201d;. These terms can be used interchangeably herein if, and when, this may become necessary. Furthermore, the use of the term &#x201c;including&#x201d;, as well as other related forms, such as &#x201c;includes&#x201d; and &#x201c;included&#x201d;, is not limiting. Notably, where the specification or other parts of this application refer to a polynucleotide sequence, it may also refer to the corresponding protein sequence and vice versa. The term &#x201c;derived&#x201d; means an RNase III that was mutated to generate an RNase III mutant.</p>
+<p id="p-0083" num="0082">&#x201c;RNase III&#x201d; refers to a naturally occurring enzyme or its recombinant form. The RNase III family of dsRNA-specific endonucleases is characterized by the presence of a highly conserved 9 amino acid stretch in their catalytic center known as the RNaseIII signature motif. Mutants and derivatives are included in the definition. The utility of bacterial RNase III described herein to achieve silencing in mammalian cells further supports the use of RNases from eukaryotes, prokaryotes viruses or archaea in the present embodiments based on the presence of common characteristic consensus sequences. The designations for the mutants are assigned by an amino acid position in a particular RNaseIII isolate. These amino acid positions may vary between RNase III enzymes from different sources. For example, E38 in <i>E. coli </i>corresponds to E37 in Aquifex aeolicus. The positions E38 in <i>E. coli </i>and E37 in <i>A. aeolicus </i>correspond to the first amino acid position of the consensus sequence described above and determined by aligning RNaseIII amino acid sequences from the public databases by their consensus sequences. Embodiments of the invention are not intended to be limited to the actual number designation. Preferred embodiments refer to relative position of the amino acid in the RNaseIII consensus sequence(s). In particular, the invention includes residues 38, 65, 107 and 108 and their corresponding residues across various homologous bacterial RNase III proteins, or homologs.</p>
+<p id="p-0084" num="0083">Mutations in the RNaseIII refer to any of point mutations, additions, deletions (though preferably not in the cleavage domain), and rearrangements (preferably in the domain linking regions). Mutations may be at a single site or at multiple sites in the RNaseIII protein. Mutations can be generated by standard techniques including random mutagenesis, targeted genetics and other methods know by those of ordinary skill in the art.</p>
+<p id="p-0085" num="0084">A further aspect of the invention relates to the use of DNA editing compositions and methods to inhibit, alter, disrupt expression and/or replace one or more target genes, for example through homologous recombination. In various embodiments, one or more target genes may be altered through CRISPR/Cas-9, TALAN or Zinc (Zn2+) finger nuclease systems. In some embodiments, the agent for altering gene expression is CRISPR-Cas9, or a functional equivalent thereof, together with an appropriate RNA molecule arranged to target one or more target genes, such as RNaseIII or any homolog/orthologs thereof. For example, one embodiment of the present invention may include the introduction of one or more guide RNAs (gRNAs) to be utilized by CRISPR/Cas9 system to disrupt, replace, or alter the expression or activity of one or more target genes.</p>
+<p id="p-0086" num="0085">In this context, the gene-editing CRISPR/cas-9 technology is an RNA-guided gene-editing platform that makes use of a bacterially derived protein (Cas9) and a synthetic guide RNA to introduce a double strand break at a specific location within the genome. Editing is achieved by transfecting a cell or a subject with the Cas9 protein along with a specially designed guide RNA (gRNA) that directs the cut through hybridization with its matching genomic sequence. By making use of this technology, it is possible to introduce specific genetic alterations in one or more target genes. In some embodiments, this CRISPR/cas-9 may be utilized to replace one or more existing wild-type genes with a modified version, while additional embodiments may include the addition of genetic elements that alter, reduce, increase or knock-out the expression of a target gene such as endogenous RNaseIII in Csr-7 or Csr-8.</p>
+<p id="p-0087" num="0086">In some embodiments, the agent for altering gene expression is a zinc finger, or zinc finger nuclease or other equivalent. The term &#x201c;zinc finger nuclease&#x201d; or &#x201c;zinc finger nuclease as used herein, refers to a nuclease comprising a nucleic acid cleavage domain conjugated to a binding domain that comprises a zinc finger array. In some embodiments, the cleavage domain is the cleavage domain of the type II restriction endonuclease Fokl. Zinc finger nucleases can be designed to target virtually any desired sequence in a given nucleic acid molecule for cleavage, and the possibility to design zinc finger binding domains to bind unique sites in the context of complex genomes allows for targeted cleavage of a single genomic site in living cells, for example, to achieve a targeted genomic alteration of therapeutic value. Targeting a double-strand break to a desired genomic locus can be used to introduce frame-shift mutations into the coding sequence of a gene due to the error-prone nature of the non-homologous DNA repair pathway. Zinc finger nucleases can be generated to target a site of interest by methods well known to those of skill in the art. For example, zinc finger binding domains with a desired specificity can be designed by combining individual zinc finger motifs of known specificity. The structure of the zinc finger protein Zif268 bound to DNA has informed much of the work in this field and the concept of obtaining zinc fingers for each of the 64 possible base pair triplets and then mixing and matching these modular zinc fingers to design proteins with any desired sequence specificity has been described (Pavletich N P, Pabo Colo. (May 1991). &#x201c;Zinc finger-DNA recognition: crystal structure of a Zif268-DNA complex at 2.1 A&#x201d;. Science 252 (5007): 809-17, the entire contents of which are incorporated herein). In some embodiments, separate zinc fingers that each recognizes a 3 base pair DNA sequence are combined to generate 3-, 4-, 5-, or 6-finger arrays that recognize target sites ranging from 9 base pairs to 18 base pairs in length. In some embodiments, longer arrays are contemplated. In other embodiments, 2-finger modules recognizing 6-8 nucleotides are combined to generate 4-, 6-, or 8-zinc finger arrays. In some embodiments, bacterial or phage display is employed to develop a zinc finger domain that recognizes a desired nucleic acid sequence, for example, a desired nuclease target site of 3-30 bp in length.</p>
+<p id="p-0088" num="0087">Zinc finger nucleases, in some embodiments, comprise a zinc finger binding domain and a cleavage domain fused or otherwise conjugated to each other via a linker, for example, a polypeptide linker. The length of the linker determines the distance of the cut from the nucleic acid sequence bound by the zinc finger domain. If a shorter linker is used, the cleavage domain will cut the nucleic acid closer to the bound nucleic acid sequence, while a longer linker will result in a greater distance between the cut and the bound nucleic acid sequence. In some embodiments, the cleavage domain of a zinc finger nuclease has to dimerize in order to cut a bound nucleic acid. In some such embodiments, the dimer is a heterodimer of two monomers, each of which comprise a different zinc finger binding domain. For example, in some embodiments, the dimer may comprise one monomer comprising zinc finger domain A conjugated to a Fokl cleavage domain, and one monomer comprising zinc finger domain B conjugated to a Fokl cleavage domain. In this non-limiting example, zinc finger domain A binds a nucleic acid sequence on one side of the target site, zinc finger domain B binds a nucleic acid sequence on the other side of the target site, and the dimerize Fokl domain cuts the nucleic acid in between the zinc finger domain binding sites.</p>
+<p id="p-0089" num="0088">The term &#x201c;zinc finger,&#x201d; as used herein, refers to a small nucleic acid-binding protein structural motif characterized by a fold and the coordination of one or more zinc ions that stabilize the fold. Zinc fingers encompass a wide variety of differing protein structures (see, e.g., Klug A, Rhodes D (1987). &#x201c;Zinc fingers: a novel protein fold for nucleic acid recognition&#x201d;. Cold Spring Harb. Symp. Quant. Biol. 52: 473-82, the entire contents of which are incorporated herein by reference). Zinc fingers can be designed to bind a specific sequence of nucleotides, and zinc finger arrays comprising fusions of a series of zinc fingers, can be designed to bind virtually any desired target sequence. Such zinc finger arrays can form a binding domain of a protein, for example, of a nuclease, e.g., if conjugated to a nucleic acid cleavage domain. Different types of zinc finger motifs are known to those of skill in the art, including, but not limited to, Cys2His2, Gag knuckle, Treble clef, Zinc ribbon, Zn2/Cys6, and TAZ2 domain-like motifs (see, e.g., Krishna S, Majumdar I, Grishin N V (January 2003). &#x201c;Structural classification of zinc fingers: survey and summary&#x201d;. Nucleic Acids Res. 31 (2): 532-50). Typically, a single zinc finger motif binds 3 or 4 nucleotides of a nucleic acid molecule. Accordingly, a zinc finger domain comprising 2 zinc finger motifs may bind 6-8 nucleotides, a zinc finger domain comprising 3 zinc finger motifs may bind 9-12 nucleotides, a zinc finger domain comprising 4 zinc finger motifs may bind 12-16 nucleotides, and so forth. Any suitable protein engineering technique can be employed to alter the DNA-binding specificity of zinc fingers and/or design novel zinc finger fusions to bind virtually any desired target sequence from 3-30 nucleotides in length (see, e.g., Pabo C O, Peisach E, Grant RA (2001). &#x201c;Design and selection of novel cys2H is2 Zinc finger proteins&#x201d;. Annual Review of Biochemistry 70: 313-340; Jamieson A C, Miller J C, Pabo C O (2003). &#x201c;Drug discovery with engineered zinc-finger proteins&#x201d;. Nature Reviews Drug Discovery 2 (5): 361-368; and Liu Q, Segal D J, Ghiara J B, Barbas C F (May 1997). &#x201c;Design of polydactyl zinc-finger proteins for unique addressing within complex genomes&#x201d;. Proc. Natl. Acad. Sci. U.S.A. 94 (11); the entire contents of each of which are incorporated herein by reference).</p>
+<p id="p-0090" num="0089">Fusions between engineered zinc finger arrays and protein domains that cleave a nucleic acid can be used to generate a &#x201c;zinc finger nuclease.&#x201d; A zinc finger nuclease typically comprises a zinc finger domain that binds a specific target site within a nucleic acid molecule, and a nucleic acid cleavage domain that cuts the nucleic acid molecule within or in proximity to the target site bound by the binding domain. Typical engineered zinc finger nucleases comprise a binding domain having between 3 and 6 individual zinc finger motifs and binding target sites ranging from 9 base pairs to 18 base pairs in length. Longer target sites are particularly attractive in situations where it is desired to bind and cleave a target site that is unique in a given genome.</p>
+<p id="p-0091" num="0090">In some embodiments, the agent for altering the target gene is a TALEN system or its equivalent. The term TALEN or &#x201c;Transcriptional Activator-Like Element Nuclease&#x201d; or &#x201c;TALE nuclease&#x201d; as used herein, refers to an artificial nuclease comprising a transcriptional activator like effector DNA binding domain to a DNA cleavage domain, for example, a Fokl domain. A number of modular assembly schemes for generating engineered TALE constructs have been reported (Zhang, Feng; et. al. (February 2011). &#x201c;Efficient construction of sequence-specific TAL effectors for modulating mammalian transcription&#x201d;. Nature Biotechnology 29 (2): 149-53; Geibler, R.; Scholze, H.; Hahn, S.; Streubel, J.; Bonas, U.; Behrens, S. E.; Boch, J. (2011), Shiu, Shin-Han. ed. &#x201c;Transcriptional Activators of Human Genes with Programmable DNA-Specificity&#x201d;. PLoS ONE 6 (5): e19509; Cermak, T.; Doyle, E. L.; Christian, M.; Wang, L.; Zhang, Y.; Schmidt, C; Bailer, J. A.; Somia, N. V. et al. (2011). &#x201c;Efficient design and assembly of custom TALEN and other TAL effector-based constructs for DNA targeting&#x201d;. Nucleic Acids Research; Morbitzer, R.; Elsaesser, J.; Hausner, J.; Lahaye, T. (2011). &#x201c;Assembly of custom TALE-type DNA binding domains by modular cloning&#x201d;. Nucleic Acids Research; Li, T.; Huang, S.; Zhao, X.; Wright, D. A.; Carpenter, S.; Spalding, M. H.; Weeks, D. P.; Yang, B. (2011). &#x201c;Modularly assembled designer TAL effector nucleases for targeted gene knockout and gene replacement in eukaryotes&#x201d;. Nucleic Acids Research.; Weber, E.; Gruetzner, R.; Werner, S.; Engler, C; Marillonnet, S. (2011). Bendahmane, Mohammed, ed. &#x201c;Assembly of Designer TAL Effectors by Golden Gate Cloning&#x201d;. PLoS ONE 6 (5): e19722; each of which is incorporated herein by reference). Those of skill in the art will understand that TALE nucleases can be engineered to target virtually any genomic sequence with high specificity, and that such engineered nucleases can be used in embodiments of the present technology to manipulate the genome of a cell, e.g., by delivering the respective TALEN via a method or strategy disclosed herein under circumstances suitable for the TALEN to bind and cleave its target sequence within the genome of the cell. In some embodiments, the delivered TALEN targets a gene, such as an endogenous RNaseIII.</p>
+<p id="p-0092" num="0091">In some embodiments, the target gene of a cell, tissue, organ or organism is altered by a nuclease delivered to the cell via a strategy or method disclosed herein, e.g., CRISPR/cas-9, a TALEN, or a zinc-finger nuclease, or a plurality or combination of such nucleases. In some embodiments, a single- or double-strand break is introduced at a specific site within the genome by the nuclease, resulting in a disruption of the target genomic sequence.</p>
+<p id="p-0093" num="0092">In some embodiments, the target genomic sequence is a nucleic acid sequence within the coding region of a target gene. In some embodiments, the strand break introduced by the nuclease leads to a mutation within the target gene that impairs the expression of the encoded gene product.</p>
+<p id="p-0094" num="0093">In some embodiments, a nucleic acid is co-delivered to the cell with the nuclease. In some embodiments, the nucleic acid comprises a sequence that is identical or homologous to a sequence adjacent to the nuclease target site. In some such embodiments, the strand break affected by the nuclease is repaired by the cellular DNA repair machinery to introduce all or part of the co-delivered nucleic acid into the cellular DNA at the break site, resulting in a targeted insertion of the co-delivered nucleic acid, or part thereof. In some embodiments, the insertion results in the disruption or repair of the undesired allele. In some embodiments, the nucleic acid is co-delivered by association to a supercharged protein. In some embodiments, the supercharged protein is also associated to the functional effector protein, e.g., the nuclease. In some embodiments, the delivery of a nuclease to a target cell results in a clinically or therapeutically beneficial alteration of the function of a gene.</p>
+<p id="p-0095" num="0094">In some embodiments, cells from a subject are obtained and a nuclease or other effector protein is delivered to the cells by a system or method provided herein ex vivo. In some embodiments, the treated cells are selected for those cells in which a desired nuclease-mediated genomic editing event has been affected. In some embodiments, treated cells carrying a desired genomic mutation or alteration are returned to the subject they were obtained from.</p>
+<p id="p-0096" num="0095">According to the present invention &#x201c;sRNA&#x201d; is small RNA, in particular RNA of a length of 200 nucleotides or less that is not translated into a protein. sRNA may be an RNA molecules digested by one or more of the RNase III mutants described herein. sRNA may include siRNA mRNA, or even dsRNA molecules that may be generated by or initiate an RNAi pathway response which may result in the downregulation of a target gene. &#x201c;RNAi&#x201d; refers to gene downregulation or inhibition that is induced by the introduction of a double-stranded RNA molecule.</p>
+<p id="p-0097" num="0096">As used herein, RNA interference (RNAi) is a biological mechanism which leads to post transcriptional gene silencing (PTGS) triggered by double-stranded RNA (dsRNA) molecules, for example provided by hpRNA, to prevent the expression of specific genes. For example, RNA interference may be accomplished as short hpRNA molecules may be imported directly into the cytoplasm, anneal together to form a dsRNA, and then cleaved to short fragments by the DICER enzyme. This enzyme DICER may process the dsRNA into &#x2212;21-22-nucleotide fragment with a 2-nucleotide overhang at the 3&#x2032; end, small interfering RNAs (siRNAs). The antisense strand of siRNA become specific to endonuclease-protein complex, RNA-induced silencing complex (RISC), which then targets the homologous RNA and degrades it at specific site that results in the knock-down of protein expression. Endophytic bacteria that may transmit hpRNA, dsRNA, shRNA, siRNA and microRNA species to plants. In one preferred embodiment, endophytic, entophytic, or any bacteria that may infect or otherwise colonize a plant or live in its surface leaf, stem or root, may be transformed with artificially created genetic constructs, such as plasmids or chromosomal integration, that may generate the inhibitory RNA molecules. In this preferred embodiment, one or more select inhibitory RNA molecules, and preferably hpRNA molecules directed to one or more essential genes of ToBRFV or/and TSWV that, may be expressed in an endophytic bacteria such as <i>Pseudomonas </i>sp. Csr-7 and Csr-8, that further include an engineered <i>E. coli </i>RNase III mutant E38A/R107A/R108A (mc) gene configured to generate siRNAs in a DICER-independent pathway the bacteria was added to the hpRNA expression constructs. In this embodiment, the hpRNA are processed into siRNA molecules that may be delivered to a target, which in a preferred embodiment may be a tomato plant, and down-regulate or eliminate viral replication and translation of viral proteins of ToBRFV or/and TSWV. In further embodiments, the endophytic bacteria such as <i>Pseudomonas </i>sp. Csr-7 and Csr-8 may be localized in the roots of a plant, such that the siRNAs are delivered to the target tomato plant and distributed throughout the plant's intracellular architecture such as the plant's leaves, fruit, and stems. In this manner, the expression of hpRNA, and engineered mc protein, and the production and delivery of siRNAs to the tomato plant may be done without genetically modifying the tomato plant.</p>
+<p id="p-0098" num="0097">Such plasmids may be constructed to be transferrable to other bacteria through conjugation which may allow for widespread environmental inoculation in some instances, as well as vertical transmission among offspring of the plant and any pest or herbivore that ingests the plant matter as an example.</p>
+<p id="p-0099" num="0098">In still other embodiments of the invention, inhibition of the expression of one or more pathogen gene products by RNAi may be obtained through a dsRNA-mediated RNAi action and/or a form of dsRNA known as a hairpin RNA (hpRNA) interference or intron-containing hairpin RNA (ihpRNA) interference. For hpRNA interference, the expression cassette is designed to express an RNA molecule that hybridizes with itself to form a hairpin structure that comprises a single-stranded loop region and a base-paired stem. The base-paired stem region comprises a sense sequence corresponding to all or part of the endogenous messenger RNA encoding the gene product whose expression is to be inhibited, in this case, a pathogen essential gene described herein, and an antisense sequence that is fully or partially complementary to the sense sequence. Alternatively, the base-paired stem region may correspond to a portion of a promoter sequence controlling expression of the gene encoding the target polypeptide to be inhibited. Thus, the base-paired stem region of the molecule generally determines the specificity of the RNA interference. HpRNA molecules are highly efficient at inhibiting the expression of endogenous genes, and the RNA interference they induce is inherited by subsequent generations of plants. See, for example, Chuang and Meyerowitz (2000) Proc. Natl. Acad. Sci. USA 97:4985-4990; Stoutjesdijk et al. (2002) Plant Physiol. 129: 1723-1731; and Waterhouse and Helliwell (2003) Nat. Rev. Genet. 4:29-38. Methods for using hpRNA interference to inhibit or silence the expression of genes are described, for example, in Chuang and Meyerowitz (2000) Proc. Natl. Acad. Sci. USA 97:4985-4990; Stoutjesdijk et al. (2002) Plant Physiol. 129: 1723-1731; Waterhouse and Helliwell (2003) Nat. Rev. Genet. 4:29-38; Pandolfmi et al. BMC Biotechnology 3:7, and U.S. Patent Publication No. 20030175965; each of which is herein incorporated by reference. A transient assay for the efficiency of hpRNA constructs to silence gene expression in vivo has been described by Panstruga et al. (2003) Mol. Biol. Rep. 30:135-140, herein incorporated by reference.</p>
+<p id="p-0100" num="0099">For ihpRNA, the interfering molecules have the same general structure as for hpRNA, but the RNA molecule additionally comprises an intron that is capable of being spliced in the cell in which the ihpRNA is expressed. The use of an intron minimizes the size of the loop in the hairpin RNA molecule following splicing, and this increases the efficiency of interference. See, for example, Smith et al. (2000) Nature 407:319-320. In fact, Smith et al. show 100% suppression of endogenous gene expression using ihpRNA-mediated interference. Methods for using ihpRNA interference to inhibit the expression of endogenous plant genes are described, for example, in Smith et al. (2000) Nature 407:319-320; Wesley et al. (2001) Plant J 27:581-590; Wang and Waterhouse (2001) Curr. Opin. Plant Biol. 5: 146-150; Waterhouse and Helliwell (2003) Nat. Rev. Genet. 4:29-38; Helliwell and Waterhouse (2003) Methods 30:289-295, and U.S. Patent Publication No. 20030180945, each of which is herein incorporated by reference.</p>
+<p id="p-0101" num="0100">The term &#x201c;gene&#x201d; or &#x201c;gene sequence&#x201d; refers to a coding region operably joined to appropriate regulatory sequences capable of regulating the expression of the gene product (e.g., a polypeptide or a functional RNA) in some manner. A gene includes untranslated regulatory regions of DNA (e.g., promoters, enhancers, repressors, etc.) preceding (up-stream) and following (down-stream) the coding region (open reading frame, ORF) as well as, where applicable, intervening sequences (e.g., introns) between individual coding regions (e.g., exons). The term &#x201c;structural gene&#x201d; as used herein is intended to mean a DNA sequence that is transcribed into mRNA which is then translated into a sequence of amino acids characteristic of a specific polypeptide.</p>
+<p id="p-0102" num="0101">As used herein, &#x201c;inhibit, &#x201c;inhibition,&#x201d; &#x201c;suppress,&#x201d; &#x201c;downregulate&#x201d; or &#x201c;silencing&#x201d; refers to partial or complete loss-of-function through targeted inhibition of gene expression in a cell and may also be referred to as &#x201c;knock down,&#x201d; preferably through an RNAi pathway response.</p>
+<p id="p-0103" num="0102">Depending on the circumstances and the biological problem to be addressed, it may be preferable to partially reduce gene expression. Alternatively, it might be desirable to reduce gene expression as much as possible. The extent of silencing may be determined by any method known in the art, some of which are summarized in International Publication No. WO 99/32619, incorporated herein by reference. As used herein, &#x201c;&#x201c;inhibit, &#x201c;inhibition,&#x201d; &#x201c;&#x201c;suppress,&#x201d; &#x201c;downregulate,&#x201d; or &#x201c;silencing&#x201d; of the level or activity of an agent, such as, for example, a preRNA, mRNA, rRNA, tRNA, snoRNA, snRNA expressed by the target gene, and/or of the protein product encoded by it, means that the amount is reduced by 10% or more, for example, 20% or more, preferably 30% or more, more preferably 50% or more, even more preferably 70% or more, most preferably 80% or more, for example, 90%, relative to a cell or organism lacking a dsRNA molecule of the disclosure.</p>
+<p id="p-0104" num="0103">&#x201c;Large double-stranded RNA&#x201d; refers to any dsRNA or hairpin having a double-stranded region greater than about 40 base pairs (bp) for example, larger than 100 bp, or more, particularly larger than 300 bp. The sequence of a large dsRNA may represent one or more segments of one or more mRNAs or the entire mRNAs. The maximum size of the large dsRNA is not limited herein. The dsRNA may include modified bases where the modification may be to the phosphate sugar backbone or to the nucleotide. Such modifications may include a nitrogen or sulfur heteroatom, or any other modification known in the art. The dsRNA may be made enzymatically, by recombinant techniques, and/or by chemical synthesis or using commercial kits such as MEGASCRIPT&#xae; (Ambion, Austin, Tex.) and methods known in the art. An embodiment of the invention utilizes HiScribe&#x2122; (New England Biolabs, Inc., Beverly, Mass.) for making large dsRNA. Other methods for making and storing large dsRNA are described in International Publication No. WO 99/32619. The double-stranded structure may be formed by a self-complementary RNA strand such as occurs for a hairpin or a micro RNA, or by annealing of two distinct complementary RNA strands. As used herein a &#x201c;wild type&#x201d; means a cell or organism that does not contain the heterologous recombinant DNA that expressed a protein or element that imparts an enhanced trait as described herein.</p>
+<p id="p-0105" num="0104">&#x201c;Expression&#x201d; or &#x201c;expressing&#x201d; refers to production of a functional product, such as, the generation of an RNA transcript from an introduced construct, an endogenous DNA sequence, or a stably incorporated heterologous DNA sequence. A nucleotide encoding sequence may comprise intervening sequence (e.g., <i>intrans</i>) or may lack such intervening non-translated sequences (e.g., as in cDNA). Expressed genes include those that are transcribed into mRNA and then translated into protein and those that are transcribed into RNA but not translated (for example, siRNA, transfer RNA, and ribosomal RNA). The term may also refer to a polypeptide produced from an mRNA generated from any of the above DNA precursors. Thus, expression of a nucleic acid fragment, such as a gene or a promoter region of a gene, may refer to transcription of the nucleic acid fragment (e.g., transcription resulting in mRNA or other functional RNA) and/or translation of RNA into a precursor or mature protein (polypeptide), or both.</p>
+<p id="p-0106" num="0105">An &#x201c;expression cassette or &#x201c;expression vector&#x201d; or &#x201c;vector&#x201d; refers to a nucleic acid construct, which when introduced into a host cell, results in transcription and/or translation of an RNA or polypeptide, respectively. More specifically, the term &#x201c;vector&#x201d; refers to some means by which DNA, RNA, a protein, or polypeptide can be introduced into a host. The polynucleotides, protein, and polypeptide which are to be introduced into a host can be therapeutic or prophylactic in nature; can encode or be an antigen; can be regulatory in nature, etc. There are various types of vectors including virus, plasmid, bacteriophages, cosmids, and bacteria. Again, more specifically, &#x201c;expression vector&#x201d; is nucleic acid capable of replicating in a selected host cell or organism. An expression vector can replicate as an autonomous structure, or alternatively can integrate, in whole or in part, into the host cell chromosomes or the nucleic acids of an organelle, or it is used as a shuttle for delivering foreign DNA to cells, and thus replicate along with the host cell genome. Thus, an expression vector are polynucleotides capable of replicating in a selected host cell, organelle, or organism, e.g., a plasmid, virus, artificial chromosome, nucleic acid fragment, and for which certain genes on the expression vector (including genes of interest) are transcribed and translated into a polypeptide or protein within the cell, organelle or organism; or any suitable construct known in the art, which comprises an &#x201c;expression cassette.&#x201d; In contrast, as described in the examples herein, a &#x201c;cassette&#x201d; is a polynucleotide containing a section of an expression vector of this invention. The use of the cassettes assists in the assembly of the expression vectors. An expression vector is a replicon, such as plasmid, phage, virus, chimeric virus, or cosmid, and which contains the desired polynucleotide sequence operably linked to the expression control sequence(s). A polynucleotide sequence is operably linked to an expression control sequence(s) (e.g., a promoter and, optionally, an enhancer) when the expression control sequence controls and regulates the transcription and/or translation of that polynucleotide sequence.</p>
+<p id="p-0107" num="0106">The term &#x201c;genome&#x201d; encompasses not only chromosomal DNA found within the nucleus, but organelle DNA found within subcellular components (e.g., mitochondrial, plastid) of the cell. As used herein, the term &#x201c;genome&#x201d; refers to the nuclear genome unless indicated otherwise.</p>
+<p id="p-0108" num="0107">As used herein, the term &#x201c;eukaryotic-like RNA&#x201d; or &#x201c;eukaryotic-like mRNA&#x201d; refers to an RNA molecule expressed in a prokaryotic or other non-eukaryotic systems that is competent to be expressed in a recipient eukaryotic cell.</p>
+<p id="p-0109" num="0108">Notably, all DNA sequences provided may encompass all RNA and amino acid sequences, and vice versa as would be ascertainable by those of ordinary skill in the art, for example through Uracil substitutions as well as redundant codons. Additionally, all sequences include codon-optimized embodiments as would be ascertainable by those of ordinary skill in the art. As such, the term &#x201c;encoding&#x201d; or &#x201c;coding sequence&#x201d; or &#x201c;coding&#x201d; means both encoding a nucleotide and/or amino acid sequence and vice versa.</p>
+<p id="p-0110" num="0109">The term &#x201c;heterologous&#x201d; refers to a nucleic acid fragment or protein that is foreign to its surroundings. In the context of a nucleic acid fragment, this is typically accomplished by introducing such fragment, derived from one source, into a different host. Heterologous nucleic acid fragments, such as coding sequences that have been inserted into a host organism, are not normally found in the genetic complement of the host organism. As used herein, the term &#x201c;heterologous&#x201d; also refers to a nucleic acid fragment derived from the same organism, but which is located in a different, e.g., non-native, location within the genome of this organism. Thus, the organism can have more than the usual number of copy(ies) of such fragment located in its(their) normal position within the genome and in addition, in the case of plant cells, within different genomes within a cell, for example in the nuclear genome and within a plastid or mitochondrial genome as well. A nucleic acid fragment that is heterologous with respect to an organism into which it has been inserted or transferred is sometimes referred to as a &#x201c;transgene.&#x201d;</p>
+<p id="p-0111" num="0110">&#x201c;Host cell&#x201d; means a cell which contains an expression vector and supports the replication and/or expression of that vector. The term &#x201c;introduced&#x201d; means providing a nucleic acid (e.g., an expression construct) or protein into a cell. &#x201c;Introduced&#x201d; includes reference to the incorporation of a nucleic acid into a eukaryotic or prokaryotic cell where the nucleic acid may be incorporated into the genome of the cell and includes reference to the transient provision of a nucleic acid or protein to the cell. &#x201c;Introduced&#x201d; includes reference to stable or transient transformation methods, as well as sexually crossing. Thus, &#x201c;introduced&#x201d; in the context of inserting a nucleic acid fragment (e.g., a recombinant DNA construct/expression construct) into a cell, can mean &#x201c;transfection&#x201d; or &#x201c;transformation&#x201d; or &#x201c;transduction&#x201d;, and includes reference to the incorporation of a nucleic acid fragment into a eukaryotic or prokaryotic cell where the nucleic acid fragment may be incorporated into the genome of the cell (e.g., chromosome, plasmid, plastid, or mitochondrial DNA), converted into an autonomous replicon, or transiently expressed (e.g., transfected mRNA).</p>
+<p id="p-0112" num="0111">As used herein, &#x201c;nucleic acid&#x201d; or &#x201c;nucleotide sequence&#x201d; means a polynucleotide (or oligonucleotide), including single or double-stranded polymers of deoxyribonucleotides or ribonucleotide bases, and unless otherwise indicated, encompasses naturally occurring and synthetic nucleotide analogues having the essential nature of natural nucleotides in that they hybridize to complementary single stranded nucleic acids in a manner similar to naturally occurring nucleotides. Nucleic acids may also include fragments and modified nucleotide sequences. Nucleic acids disclosed herein can either be naturally occurring, for example genomic nucleic acids, or isolated, purified, nongenomic nucleic acids, including synthetically produced nucleic acid sequences such as those made by solid phase chemical oligonucleotide synthesis, enzymatic synthesis, or by recombinant methods, including for example, cDNA, codon-optimized sequences for efficient expression in different transgenic plants reflecting the pattern of codon usage in such plants, nucleotide sequences that differ from the nucleotide sequences disclosed herein due to the degeneracy of the genetic code but that still encode the protein(s) of interest disclosed herein, nucleotide sequences encoding the presently disclosed protein(s) comprising conservative (or non-conservative) amino acid substitutions that do not adversely affect their normal activity, PCR-amplified nucleotide sequences, and other non-genomic forms of nucleotide sequences familiar to those of ordinary skill in the art.</p>
+<p id="p-0113" num="0112">The term &#x201c;sequence identity&#x201d; or &#x201c;identity,&#x201d; as used herein in the context of two nucleic acid or polypeptide sequences, refers to the residues in the two sequences that are the same when aligned for maximum correspondence over a specified comparison window.</p>
+<p id="p-0114" num="0113">As used herein, the term &#x201c;percentage of sequence identity&#x201d; may refer to the value determined by comparing two optimally aligned sequences (e.g., nucleic acid sequences) over a comparison window, wherein the portion of the sequence in the comparison window may comprise additions or deletions (e.g., gaps) as compared to the reference sequence (which does not comprise additions or deletions) for optimal alignment of the two sequences. The percentage is calculated by determining the number of positions at which the identical nucleotide or amino acid residue occurs in both sequences to yield the number of matched positions, dividing the number of matched positions by the total number of positions in the comparison window, and multiplying the result by 100 to yield the percentage of sequence identity. A sequence that is identical at every position in comparison to a reference sequence is said to be 100% identical to the reference sequence, and vice-versa. Methods for aligning sequences for comparison are well-known in the art. Various programs and alignment algorithms are described in, for example: Smith and Waterman (1981) Adv. Appl. Math. 2:482; Needleman and Wunsch (1970) J. Mol. Biol. 48:443; Pearson and Lipman (1988) Proc. Natl. Acad. Sci. U.S.A. 85:2444; Higgins and Sharp (1988) Gene 73:237-44; Higgins and Sharp (1989) CABIOS 5:151-3; Corpet et al. (1988) Nucleic Acids Res. 16:10881-90; Huang et al. (1992) Comp. Appl. Biosci. 8:155-65; Pearson et al. (1994) Methods Mol. Biol. 24:307-31; Tatiana et al. (1999) FEMS Microbiol. Lett. 174:247-50. A detailed consideration of sequence alignment methods and homology calculations can be found in, e.g., Altschul et al. (1990) J. Mol. Biol. 215:403-10. The National Center for Biotechnology information (NCBI) Basic Local Alignment Search Tool (BLAST&#x2122;; Altschul et al. (1990)) is available from several sources, including the National Center for Biotechnology Information (Bethesda, Md.), and on the internet, for use in connection with several sequence analysis programs. A description of how to determine sequence identity using this program is available on the internet under the &#x201c;help&#x201d; section for BLAST&#x2122;. For comparisons of nucleic acid sequences, the &#x201c;Blast 2 sequences&#x201d; function of the BLAST&#x2122; (Blastn) program may be employed using the default BLOSUM62 matrix set to default parameters. Nucleic acid sequences with even greater similarity to the reference sequences will show increasing percentage identity when assessed by this method.</p>
+<p id="p-0115" num="0114">&#x201c;Nucleic acid construct&#x201d; or &#x201c;construct&#x201d; refers to an isolated polynucleotide which can be introduced into a host cell, for example a plasmid. This construct may comprise any combination of deoxyribonucleotides, ribonucleotides, and/or modified nucleotides. This construct may comprise an expression cassette that can be introduced into and expressed in a host cell.</p>
+<p id="p-0116" num="0115">&#x201c;Operably linked&#x201d; refers to a functional arrangement of elements. A first nucleic acid sequence is operably linked with a second nucleic acid sequence when the first nucleic acid sequence is placed in a functional relationship with the second nucleic acid sequence. For instance, a promoter is operably linked to a coding sequence if the promoter effects the transcription or expression of the coding sequence. The control elements need not be contiguous with the coding sequence, so long as they function to direct the expression thereof. Thus, for example, intervening untranslated yet transcribed sequences can be present between a promoter and the coding sequence and the promoter can still be considered &#x201c;operably linked&#x201d; to the coding sequence.</p>
+<p id="p-0117" num="0116">The terms &#x201c;peptide&#x201d;, &#x201c;polypeptide&#x201d;, and &#x201c;protein&#x201d; are used to refer to polymers of amino acid residues. These terms are specifically intended to cover naturally occurring biomolecules, as well as those that are recombinantly or synthetically produced, for example by solid phase synthesis.</p>
+<p id="p-0118" num="0117">The term &#x201c;promoter&#x201d; or &#x201c;regulatory element&#x201d; refers to a region or nucleic acid sequence located upstream or downstream from the start of transcription and which is involved in recognition and binding of RNA polymerase and/or other proteins to initiate transcription of RNA. Promoters need not be of plant or algal origin. For example, promoters derived from plant viruses, such as the CaMV35S promoter, or from other organisms, can be used in variations of the embodiments discussed herein. Promoters useful in the present methods include, for example, constitutive, strong, weak, tissue-specific, cell-type specific, seed-specific, inducible, repressible, and developmentally regulated promoters. Examples of suitable promoters for gene suppressing cassettes include, but are not limited to, T7 promoter, bla promotor, U6 promoter, pol II promoter, Ell promoter, and CMV promoter and the like.</p>
+<p id="p-0119" num="0118">A &#x201c;cell type-specific&#x201d; promoter primarily drives expression in certain cell types in one or more organs. An &#x201c;inducible&#x201d; promoter may be a promoter which may be under environmental control or induced by a secondary molecule or compound Tissue-specific, tissue-preferred, cell type specific, and inducible promoters constitute the class of &#x201c;non-constitutive&#x201d; promoters. A &#x201c;constitutive&#x201d; promoter is a promoter which may be active under most environmental conditions or in most cell or tissue types.</p>
+<p id="p-0120" num="0119">As used herein, the term &#x201c;transformation&#x201d; or &#x201c;genetically modified&#x201d; refers to the transfer of one or more nucleic acid molecule(s) into a cell. A microorganism is &#x201c;transformed&#x201d; or &#x201c;genetically modified&#x201d; by a nucleic acid molecule transduced into the bacteria when the nucleic acid molecule becomes stably replicated by the bacteria. As used herein, the term &#x201c;transformation&#x201d; or &#x201c;genetically modified&#x201d; encompasses all techniques by which a nucleic acid molecule can be introduced into, such as a bacterium.</p>
+<p id="p-0121" num="0120">As used herein, a &#x201c;genetically modified plant or &#x201c;transgenic plant&#x201d; is one whose genome has been altered by the incorporation of exogenous genetic material, e.g. by transformation as described herein. The term &#x201c;transgenic plant&#x201d; is used to refer to the plant produced from an original transformation event, or progeny from later generations or crosses of a transgenic plant so long as the progeny contains the exogenous genetic material in its genome. By &#x201c;exogenous&#x201d; is meant that a nucleic acid molecule, for example, a recombinant DNA, originates from outside the plant into which it is introduced. An exogenous nucleic acid molecule may comprise naturally or non-naturally occurring DNA and may be derived from the same or a different plant species than that into which it is introduced.</p>
+<p id="p-0122" num="0121">&#x201c;Stable transformation&#x201d; is intended to mean that the nucleotide construct introduced into a host and integrates into the genome of the plant and is capable of being inherited by the progeny thereof. The nucleic acid molecule can be transiently expressed or non-stably maintained in a functional form in the cell for less than three months e.g. is transiently expressed.</p>
+<p id="p-0123" num="0122">The terms &#x201c;plant&#x201d; or &#x201c;plants&#x201d; that can be used in the present methods broadly include the classes of higher and lower plants amenable to transformation techniques, including angiosperms (monocotyledonous and dicotyledonous plants), Gymnosperms, ferns, and unicellular and multicellular algae. The term &#x201c;plant&#x201d; also includes plants which have been modified by breeding, mutagenesis, or genetic engineering (transgenic and non-transgenic plants). It includes plants of a variety of ploidy levels, including aneuploid, polyploid, diploid, haploid, and hemizygous. The plant may be in any form including suspension cultures, embryos, meristematic regions, callus tissue, gametophytes, sporophytes, pollen, microspores, whole plants, shoot vegetative organs/structures (e.g. leaves, stems and tubers), roots, flowers and floral organs/structures, seed (including embryo, endosperm, and seed coat) and fruit, plant tissue (e.g. vascular tissue, ground tissue, and the like) and cells, and progeny of same.</p>
+<p id="p-0124" num="0123">In one embodiment, the plant is a monocot, or a cell of a monocot plant. For example, the monocot plant is in the gramineae and cereal groups. Non-limiting exemplary monocot species include grains, tropical fruits and flowers, bananas, maize, rice, barley, duckweed, gladiolus, sugar cane, pineapples, dates, onions, rice, sorghum, turfgrass and wheat. In another embodiment, the plant is a dicot, or a cell of a monocot plant. For example, the dicot plant is selected from the group consisting of Anacardiaceae (e.g., cashews, pistachios), Asteraceae (e.g., asters and all the other composite flowers), Brassicaceae (e.g., cabbage, turnip, and other mustards), Cactaceae (e.g., cacti), Cucurbitaceae (e.g., watermelon, squashes), Euphorbiaceae (e.g., cassaya (manioc)), Fabaceae (e.g., beans and all the other legumes), Fagaceae (e.g., oaks), Geraniales (e.g., geraniums), Juglandaceae (e.g., pecans), Linaceae (e.g., flax), Malvaceae (e.g., cotton), Oleaceae (e.g., olives, ashes, lilacs), Rosaceae (e.g., roses, apples, peaches, strawberries, almonds), Rubiaceae (e.g., coffee), Rutaceae (e.g., oranges and other citrus fruits), Solanaceae (e.g., potatoes, tomatoes, tobacco), Theaceae (e.g., tea), and Vitaceae (e.g., grapes). The term &#x201c;plant&#x201d; or &#x201c;target plant&#x201d; includes any plant sustainable to a pathogen. It further includes whole plants, plant organs, progeny of whole plants or plant organs, embryos, somatic embryos, embryo-like structures, protocorms, protocorm-like bodies (PLBs), and suspensions of plant cells. Plant organs comprise, e.g., shoot vegetative organs/structures (e.g., leaves, stems and tubers), roots, flowers and floral organs/structures (e.g., bracts, sepals, petals, stamens, carpels, anthers and ovules), seed (including embryo, endosperm, and seed coat) and fruit (the mature ovary), plant tissue (e.g., vascular tissue, ground tissue, and the like) and cells (e.g., guard cells, egg cells, trichomes and the like). The class of plants that can be used in the method of the invention is generally as broad as the class of higher and lower plants amenable to the molecular biology and plant breeding techniques described herein, specifically angiosperms (monocotyledonous (monocots) and dicotyledonous (dicots) plants including eudicots. It includes plants of a variety of ploidy levels, including aneuploid, polyploid, diploid, haploid and hemizygous. The genetically altered plants described herein can be monocot crops, such as, sorghum, maize, wheat, rice, barley, oats, rye, millet, and triticale. The invention may also include Cannabaceae and other <i>Cannabis </i>strains, such as <i>C. sativa </i>generally. Examples of additional plants species of interest include, but are not limited to, corn (<i>Zea mays</i>), <i>Brassica </i>sp. (e.g., <i>B. napus, B. rapa, B. juncea</i>), particularly those <i>Brassica </i>species useful as sources of seed oil, alfalfa (<i>Medicago sativa</i>), rice (<i>Oryza sativa</i>), rye (<i>Secale cereale</i>), sorghum [<i>Sorghum bicolor, Sorghum vulgare</i>), millet (e.g., pearl millet (<i>Pennisetum glaucum</i>), proso millet (<i>Panicum miliaceum</i>), foxtail millet (<i>Setaria italica</i>), finger millet (<i>Eleusine coracana</i>), sunflower (<i>Helianthus annuus</i>), safflower (<i>Carthamus tinctorius</i>), wheat (<i>Triticum aestivum</i>), soybean (<i>Glycine max</i>), tobacco (<i>Nicotiana tabacum</i>), potato (<i>Solarium tuberosum</i>), peanuts (<i>Arachis hypogaea</i>), cotton (<i>Gossypium barbadense, Gossypium hirsutum</i>), sweet potato (<i>Ipomoea batatus</i>), cassava (<i>Manihot esculenta</i>), coffee (<i>Coffea </i>spp.), coconut (<i>Cocos nucifera</i>), pineapple (<i>Ananas comosus</i>), citrus trees (<i>Citrus </i>spp.), cocoa (<i>Theobroma cacao</i>), tea (<i>Camellia sinensis</i>), banana (<i>Musa </i>spp), avocado (<i>Persea americana</i>), fig (<i>Ficus casica</i>), guava (<i>Psidium guajava</i>), mango (<i>Mangifera indica</i>), olive (<i>Olea europaea</i>), <i>papaya </i>(<i>Carica papaya</i>), cashew (<i>Anacardium occidentale</i>), macadamia (<i>Macadamia integrifolid</i>), almond (<i>Prunus </i>amygdalus), sugar beets (<i>Beta vulgaris</i>), sugarcane (<i>Saccharum </i>spp.), oats, barley; vegetables, ornamentals, and conifers. Vegetables include tomatoes (<i>Lycopersicon esculentum</i>), lettuce (e.g., <i>Lactuca sativa</i>), green beans (<i>Phaseolus vulgaris</i>), lima beans (<i>Phaseolus limensis</i>), peas (<i>Lathyrus </i>spp.), and members of the genus <i>Cucumis</i>, such as cucumbers (<i>C. sativus</i>), cantaloupe (<i>C. cantalupensis</i>), and musk melon (<i>C. melo</i>). Ornamentals include azalea (<i>Rhododendron </i>spp), <i>hydrangea </i>(<i>Macrophylla hydrangea</i>), hibiscus (<i>Hibiscus rosasanensis</i>), roses (<i>Rosa </i>spp.), tulips (<i>Tulipa </i>spp.), daffodils (<i>Narcissus </i>spp), petunias (<i>Petunia hybrida</i>), carnations (<i>Dianthus </i>caryophyllus), poinsettias (<i>Euphorbia pukherrima</i>), and chrysanthemums. Conifers that may be employed in practicing the present invention include, for example, pines such as loblolly pine (<i>Finns taeda</i>), slash pine (<i>Pinus </i>elUoiii), <i>ponderosa </i>pine (<i>Pinus ponderosa</i>), lodgepole pine (<i>Finns contorta</i>), and Monterey pine (<i>Pinus radiata</i>), Douglas-fir (<i>Pseudotsuga menziesii</i>), Western hemlock (<i>Tsuga canadensis</i>), Sitka spruce (<i>Picea glauca</i>), redwood (<i>Sequoia sempervirens</i>), true firs such as silver fir (<i>Abies amabilis</i>) and balsam fir (<i>Abies balsamea</i>), and cedars such as Western red cedar (<i>Thuja plicatd</i>) and Alaska yellow-cedar (<i>Chamaecyparis nootkatensis</i>). In specific embodiments, plants of the present invention are crop plants (for example, as noted above, corn, alfalfa, sunflower, <i>Brassica</i>, soybean, cotton, safflower, peanut, sorghum, wheat, millet, tobacco, etc.).</p>
+<p id="p-0125" num="0124">Any gene being expressed in a cell (preferably a plant cell) can be targeted. A gene that is expressed in the cell is one that is transcribed to yield RNA (e.g., miRNA) and, optionally, a protein. The target gene can be an endogenous gene or an exogenous or foreign gene (i.e., a transgene or a pathogen gene). For example, a transgene that is present in the genome of a cell as a result of genomic integration of the viral delivery construct can be regulated using inhibitory RNA according to the invention. The foreign gene can be integrated into the host genome (preferably the chromosomal DNA), or it may be present on an extra-chromosomal genetic construct such as a plasmid or a cosmid. For example, the target gene may be present in the genome of the cell into which the interfering RNA is introduced through the novel trans-kingdom method described herein, or similarly in the genome of a pathogen, such as a virus, a bacterium, a fungus or a protozoan, which is capable of infecting such organism or cell.</p>
+<p id="p-0126" num="0125">Preferably the target gene is an endogenous gene of the cell or a heterologous gene relative to the genome of the cell, such as a pathogen gene. Preferably, the gene of a pathogen is from a pathogen capable of infecting a eukaryotic organism. Most preferably, said pathogen is selected from the group of virus, bacteria, fungi and nematodes as noted above. By expressing the inhibitory RNA of the invention in plants, not only plant genes can function as target genes for gene silencing, but also genes of organisms which infect plants or eat plants (as food or feed). Thus, the target gene can also be a gene of an animal or plant pathogen. The target gene is preferably selected from the group consisting of genes in a plant or of a plant infecting pathogen. Preferably, the expression of the target gene (as measured by the expressed RNA or protein) is reduced, inhibited or attenuated by at least 10%, preferably at least 30% or 40%, preferably at least 50% or 60%, more preferably at least 80%, most preferably at least 90% or 95% or 100%.</p>
+<p id="p-0127" num="0126">The levels of target products such as transcripts or proteins may be decreased throughout an organism such as a plant, pest or herbivore, or such decrease in target products may be localized in one or more specific organs or tissues of the organism. For example, the levels of products may be decreased in one or more of the tissues and organs of a plant including without limitation: roots, tubers, stems, leaves, stalks, fruit, berries, nuts, bark, pods, seeds and flowers. A preferred organ is a seed of a plant. A broad variety of target genes can be modulated by using the method of the invention, including genes in a plant but also genes or plant infecting or eating pathogens, animals, or even human. Preferably, the target gene is selected from the group consisting of plant endogenous, transgenes, or genes from a plant infecting pathogen. More preferably the plant infecting pathogen is selected from the group consisting of viruses, fungi, bacteria, insects, and nematodes.</p>
+<p id="p-0128" num="0127">In the case of pathogens, the target or essential gene may, for example, be a housekeeping or other gene, which is essential for viability or proliferation of the pathogen. The attenuation or silencing of the target gene may have various effects (also depending on the nature of the target gene). Preferably, silencing or attenuating said target gene results in loss or reduction or the pathogen's harmful effects, i.e., pathogenicity, or an agronomic trait. Said agronomic trait may preferably be selected from the group consisting of disease resistance, herbicide resistance, resistance against biotic or abiotic stress, and improved nutritional value. In this context, the target gene may, for example, be preferably selected from the group consisting of genes involved in the synthesis and/or degradation of proteins, peptides, fatty acids, lipids, waxes, oils, starches, sugars, carbohydrates, flavors, odors, toxins, carotenoids, hormones, polymers, flavinoids, storage proteins, phenolic acids, alkaloids, lignins, tannins, celluloses, glycoproteins, and glyco lipids. All these sequences are well known to the person skilled in the art and can be easily obtained from DNA data bases by those of ordinary skill in the art (e.g., GenBank).</p>
+<p id="p-0129" num="0128">In certain embodiments, the novel trans-kingdom delivery of inhibitory RNA molecules, namely the methods and means of the invention may be especially suited for obtaining pathogen (e.g., virus or nematode) resistance, in eukaryotic cells or organisms, particularly in plant cells and plants. It is expected that the inhibitory RNA molecules (or the dsRNA molecules derived therefrom) produced by transcription in a host organism (e.g., a plant), can spread systemically throughout the organism. Thus, it is possible to reduce the phenotypic expression of a nucleic acid in cells of a non-transgenic scion of a plant grafted onto a transgenic stock comprising the genes of the invention (or vice versa) a method which may be important in horticulture, viticulture or in fruit production. A resistance to plant pathogens such as arachnids, fungi, insects, nematodes, protozoans, viruses, bacteria and diseases can be achieved by reducing the gene expression of genes which are essential for the growth, survival, certain developmental stages (for example pupation), or the multiplication of a certain pathogen. A suitable reduction can bring about a complete inhibition of the above steps, but also a delay of one or more steps. This may include plant genes which, for example, allow the pathogen to enter, but may also be pathogen-homologous genes. Preferably, the inhibitory RNA (such as hpRNA or the dsRNA derived therefrom) is directed against genes of the pathogen. For example, plants can be treated with suitable formulations of above mentioned agents, for example sprayed or dusted; the plants themselves, however, may also comprise the agents in the form of a transgenic organism and pass them on to the pathogens, for example in the form of a stomach poison. Various essential genes of a variety of pathogens are known to those of ordinary skill in the art (for example for nematode resistance: WO 93/10251, WO 94/17194). Another aspect of methods of the novel trans-kingdom delivery of inhibitory RNA molecules described here provides a method where the target gene for suppression encodes a protein in a plant pathogen (e.g., an insect or nematode). In this aspect, a method comprises introducing into the genome of a pathogen-targeted plant a nucleic acid construct comprising DNA, such as a plasmid, which is transcribed into a inhibitory RNA, such as a hpRNA, that forms at least one dsRNA molecule which is effective for reducing expression of a target gene within the pathogen when the pathogen (e.g., insect or nematode) ingests or infects cells from said plant. In a preferred embodiment, the gene suppression is fatal to the pathogen. Most preferred as a pathogen are fungal pathogens, to the extent not already listed elsewhere, such as <i>Phytophthora infestans, Fusarium nivale, Fusarium graminearum, Fusarium culmorum, Fusarium oxysporum, Blumeria graminis, Magnaporthe grisea, Sclerotinia sclerotium, Septoria nodorum, Septoria tritici, Alternaria brassicae, Phoma lingam</i>, and nematodes such as <i>Globodera rostochiensis, G. pallida, Heterodera schachtii, Heterodera avenae, Ditylenchus dipsaci, Anguma tritici </i>and <i>Meloidogyne hapla. </i></p>
+<p id="p-0130" num="0129">Resistance to pathogenic viruses can be obtained for example by reducing the expression of a viral coat protein, a viral replicase, a viral protease, a, a structural protein, a toxin and the like. A large number of plant viruses, and suitable target genes are known to those of ordinary skill in the art. The methods and compositions of the present invention are especially useful to obtain nematode resistant plants (for target genes see e.g., WO 92/21757, WO 93/10251, WO 94/17194).</p>
+<p id="p-0131" num="0130">A &#x201c;plant pathogen&#x201d; or &#x201c;pathogen&#x201d; refers to an organism (bacteria, virus, protist, algae or fungi) that infects plants or plant components. Examples include molds, fungi and rot that typically use spores to infect plants or plant components (e.g. fruits, vegetables, grains, stems, roots). A &#x201c;plant pathogen&#x201d; also includes all genes necessary for the pathogenicity or pathogenic effects in the plant, or that by their suppression or elimination, such effects are reduced or eliminated.</p>
+<p id="p-0132" num="0131">In one preferred embodiment, the present invention may be applied to one or more of the following non-limiting group of plant viruses, including pathogen gene targets, generally referred to as gene targets, or essential genes, which would be recognized and available to those of ordinary skill in the art without undue experimentation identified in Sayre et al, PCT/US2017/064977, at 26-30, being incorporated herein by reference)</p>
+<p id="p-0133" num="0132">In one embodiment, a donor endophyte may be engineered to synthesize and/or deliver eukaryotic-like mRNAs that are engineered to produce proteins that are configured to generate a phenotypic, biochemical, metabolic, or other directed modulations in a recipient eukaryotic organism. For example, in one preferred embodiment, a donor prokaryotic organi sin may be engineered to synthesize and deliver eukaryotic-like mRNAs, or mRNAs to a eukaryotic host that, when translated, may induce a new phenotype. In one embodiment, such a phenotypic change may include increases in one or more metabolic or other growth pathways. Additional phenotypic changes may include physical, and/or biochemical changes not previously present in the wild-type host. Additional phenotypic changes may include enhanced, or even new, metabolic processes, or even the production of a non-naturally occurring compounds or other molecules of interest. Examples of such compounds and molecules, of interest may include vaccine or other disease resistant molecules that may provide enhanced pathogen resistance in the eukaryotic host. Additional examples may include the production of one or more toxins or other compounds that may be lethal to a specific pathogen, insect, or other pest.</p>
+<p id="p-0134" num="0133">The term &#x201c;prokaryotic&#x201d; is meant to include all bacteria, archaea, and/or cyanobacteria which can be transformed or transfected with a nucleic acid and express a eukaryotic-like RNA of the invention. Prokaryotic hosts may include gram negative as well as gram positive bacteria. The term &#x201c;eukaryotic&#x201d; is meant to include yeast, algae, plants, higher plants, insect, and mammalian cells.</p>
+<p id="p-0135" num="0134">&#x201c;Target&#x201d; or &#x201c;essential gene&#x201d; refers to any gene or mRNA of interest. Indeed, any of the genes previously identified by genetics or by sequencing may represent a target. Target genes or mRNA may include developmental genes and regulatory genes as well as metabolic or structural genes or genes encoding enzymes. The target gene may be expressed in those cells in which a phenotype is being investigated or in an organism in a manner that directly or indirectly impacts a phenotypic characteristic. The target gene may be endogenous or exogenous. An &#x201c;essential gene,&#x201d; for example may be a gene necessary for survival, replication or pathogenicity in a pathogen. Such cells include any cell in the body of an adult or embryonic animal or plant including gamete or any isolated cell such as occurs in an immortal cell line or primary cell culture.</p>
+<p id="p-0136" num="0135">As used herein &#x201c;resistance&#x201d; or &#x201c;improved resistance&#x201d; in a plant to disease conditions is an indication that the plant is more able to reduce disease burden than a non-resistant or less resistant plant. Resistance is a relative term, indicating that a &#x201c;resistant&#x201d; plant is more able to reduce disease burden compared to a different (less resistant) plant (e.g., a different plant variety) grown in similar disease conditions. One of skill will appreciate that plant resistance to disease conditions varies widely and can represent a spectrum of more-resistant or less-resistant phenotypes. However, by simple observation, one of skill can generally determine the relative resistance of different plants, plant varieties, or plant families under disease conditions, and furthermore, will also recognize the phenotypic gradations of &#x201c;resistant.&#x201d;</p>
+<p id="p-0137" num="0136">Unless otherwise stated, nucleic acid sequences in the text of this specification are given, when read from left to right, in the 5&#x2032; to 3&#x2032; direction. Nucleic acid sequences may be provided as DNA or as RNA, as specified; disclosure of one necessarily defines the other, as is known to one of ordinary skill in the art and is understood as included in embodiments where it would be appropriate. Nucleotides may be referred to by their commonly accepted single-letter codes.</p>
+<p id="p-0138" num="0137">Unless otherwise indicated, amino acid sequences are written left to right in amino to carboxyl orientation, respectively. Amino acids may be referred to herein by either their commonly known three letter symbols or by the one-letter symbols as generally understood by those skilled in the relevant art.</p>
+<p id="p-0139" num="0138">Regarding disclosed ranges, the endpoints of all ranges directed to the same component or property are inclusive and independently combinable (e.g., ranges of &#x201c;about 25%, or, more, about 5% to about 20 wt. %,&#x201d; is inclusive of the endpoints and all intermediate values of the ranges of &#x201c;about 5% to about 25%,&#x201d; etc.). Numeric ranges recited with the specification are inclusive of the numbers defining the range and include each integer within the defined range. Notably, all peptides disclosed in specifically encompass peptides having conservative amino acid substitutions. As used herein, &#x201c;conservative amino acid substitutions&#x201d; means the manifestation that certain amino acids can be substituted for other amino acids in a protein structure without appreciable loss of biochemical or biological activity. Since it is the interactive capacity and nature of a protein that defines that protein's biological functional activity, certain amino acid sequence substitutions can be made in a protein sequence, and, of course, the underlying DNA coding sequence, and nevertheless obtain a protein with like properties. Thus, various changes can be made in the amino acid sequences disclosed herein, or in the corresponding DNA sequences that encode these amino acid sequences, without appreciable loss of their biological utility or activity.</p>
+<p id="p-0140" num="0139">Examples of amino acid groups defined in this manner include: a &#x201c;charged polar group,&#x201d; consisting of glutamic acid (Glu), aspartic acid (Asp), asparagine (Asn), glutamine (Gln), lysine (Lys), arginine (Arg) and histidine (His); an &#x201c;aromatic, or cyclic group,&#x201d; consisting of proline (Pro), phenylalanine (Phe), tyrosine (Tyr) and tryptophan (Trp); and an &#x201c;aliphatic group&#x201d; consisting of glycine (Gly), alanine (Ala), valine (Val), leucine (Leu), isoleucine (Ile), methionine (Met), serine (Ser), threonine (Thr) and cysteine (Cys).</p>
+<p id="p-0141" num="0140">In a further embodiment, a composition including a genetically modified bacteria configured to express one or more RNase III mutants that produce sRNA may be formulated as feed, such as a plant feed, and/or a water dispersible granule or powder that may further be configured to be dispersed into the environment. In yet a further embodiment, the compositions of the present invention may also comprise a wettable powder, spray, emulsion, colloid, aqueous or organic solution, dust, pellet, or colloidal concentrate. Dry forms of the compositions may be formulated to dissolve immediately upon wetting, or alternatively, dissolve in a controlled-release, sustained-release, or other time-dependent manner. Alternatively, or additionally, the composition may comprise an aqueous solution. Such aqueous solutions or suspensions may be provided as a concentrated stock solution which is diluted prior to application, or alternatively, as a diluted solution ready-to-apply. Such compositions may be formulated in a variety of ways. They may be employed as wettable powders, granules or dusts, by mixing with various inert materials, such as inorganic minerals (silicone or silicon derivatives, phyllosilicates, carbonates, sulfates, phosphates, and the like) or botanical materials (powdered corncobs, rice hulls, walnut shells, and the like). The formulations or compositions containing genetically modified bacteria may include spreader-sticker adjuvants, stabilizing agents, other pesticidal additives, or surfactants. Liquid formulations may be employed as foams, suspensions, emulsifiable concentrates, or the like. The ingredients may include Theological agents, surfactants, emulsifiers, dispersants, or polymers.</p>
+<p id="p-0142" num="0141">As mentioned, the sRNA of the invention may be administered as a naked sRNA. Alternatively, the sRNA of the invention may be conjugated to a carrier known to one of skill in the art, such as a transfection agent e.g. PEI or chitosan or a protein/lipid carrier or coupled to nanoparticles. The compositions may be formulated prior to administration in an appropriate means such as lyophilized, freeze-dried, microencapsulated, desiccated, or in an aqueous carrier, medium or suitable diluent, such as saline or another buffer. Suitable agricultural carriers can be solid, semi-solid or liquid and are well known in the art. Such compositions may be considered &#x201c;agriculturally-acceptable carriers&#x201d;, which may cover all adjuvants, e.g., inert components, dispersants, surfactants, tackifiers, binders, etc. that are ordinarily used in pesticide formulation technology.</p>
+<p id="p-0143" num="0142">The invention now being generally described will be more readily understood by reference to the following examples, which are included merely for the purposes of illustration of certain embodiments of the embodiments of the present invention. The examples are not intended to limit the invention, as one of skill in the art would recognize from the above teachings and the following examples that other techniques and methods can satisfy the claims and can be employed without departing from the scope of the claimed invention. Indeed, while this invention has been particularly shown and described with references to preferred embodiments thereof, it will be understood by those skilled in the art that various changes in form and details may be made therein without departing from the scope of the invention encompassed by the appended claims</p>
+<heading id="h-0007" level="1">EXAMPLES</heading>
+<heading id="h-0008" level="1">Example 1: Plant Endophyte Isolation and Identification</heading>
+<p id="p-0144" num="0143">Endophytic bacterial strains were isolated from the roots of healthy hemp (<i>Cannabis Sativa</i>) plants. To ensure the purity of the emergent microorganisms, bacterial colonies from sterilized tissues will be passed through three rounds of single-colony isolation via streaking on lysogeny broth (LB) plates amended with filter-sterilized, antifungal agent benomyl (10 mg&#xb7;L-1; Sigma-Aldrich). The purified cultures were grown together on either media by single colony spotting to identify the distinct colony types, thus, to avoid duplications. Stock cultures of pure bacteria were prepared from overnight LB broth mixed with 25% glycerol stock at 1:1 ratio and stored at &#x2212;80&#xb0; C.</p>
+<p id="p-0145" num="0144">The identity of the organisms was be established through 16S rRNA gene sequence-based homology analysis. For example, in one embodiment bacterial DNA was be isolated employing Bacterial Genomic DNA Miniprep kit in house and 16S rDNA gene amplification was be performed through PCR using universal bacterial primers [1]:</p>
+<p id="p-0146" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0" tabstyle="monospace">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="56pt" align="left"/>
+<colspec colname="1" colwidth="161pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>27F-AGAGTTTGATCCTGGCTCAG</entry>
+</row>
+<row>
+<entry/>
+<entry>and</entry>
+</row>
+<row>
+<entry/>
+<entry> </entry>
+</row>
+<row>
+<entry/>
+<entry>534R-Y-GGTTACCTTGTTACGACT</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0147" num="0145">The thermocycling conditions included initial one denaturation step of 94&#xb0; C. for 5 min followed by 35 amplification cycles of 94&#xb0; C. for 30 s, 55&#xb0; C. for 40 s, 72&#xb0; C. for 40 s followed by a final extension at 72&#xb0; C. for 5 min. After confirming PCR amplification in a 1% agarose gel and column purification of the PCR product, the 16SrRNA gene were double end-sequenced using 27F and 534R primers. The identity of the organisms was determined by megablast analysis at the NCBI Gen Bank database and was validated through Seqmatch search at the Ribosomal Database Project. The 16s rDNA sequences analysis showed that the strains Csr-7 shared 99% homology with <i>Pseudomonas mediterranea </i>strain G10-2 (Accession No. MN712327.1) and <i>Pseudomonas putida </i>strain KDSF9 (Accession No. KF364489.1).</p>
+<p id="p-0148" num="0146">Phenotypic analysis was further performed on <i>Pseudomonas </i>sp. Csr-7 and Csr-8. Specifically, API 20 NE (V7.0, Biomerieux) analysis was performed on both Csr-7 and Csr-8 according to the company's protocol. Two technical replicates were completed for each strain. Additional oxidase tests were completed with OxiStrips (Hardy Diagnostics) according to the manufacturer's instructions. The results were as follows:</p>
+<p id="p-0149" num="0147">Csr-7: API generated number code: 1057555. The closest match to Csr-7 is <i>Pseudomonas fluorescens</i>. Csr-7 mismatches the expected results for <i>P. fluorescens </i>on 1 of the 21 biochemical tests (ADH; arginine dihydrolase) (95%). However, in-house sequence analysis suggests that Csr-7 is <i>Pseudomonas mediterranea</i>. Sequence results are typically considered more accurate methodology for species prediction. The API tests are limited by the database of tested bacterial species (<i>P. mediterranea </i>is not is their database). (See Table 1)</p>
+<p id="p-0150" num="0148">Csr-8: API generated number code: 0142457. The closest match in the API database is <i>Pseudomonas putida</i>. Csr-8 and <i>P. putida </i>match on 21 of the 21 (100%) biochemical tests. These data agree with our 16S ribosomal sequence data which also identified Csr-8 as <i>P. putida</i>. (See Table 1)</p>
+<p id="p-0151" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Results from API 20NE test strips for Csr-7 </entry>
+</row>
+<row>
+<entry>and Csr-8 after 48-hour incubation period.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="112pt" align="left"/>
+<colspec colname="3" colwidth="70pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>RESULTS (48 hrs)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="112pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>TESTS</entry>
+<entry>REACTION/ENZYMES</entry>
+<entry>Csr-7</entry>
+<entry>Csr-8</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>NO<sub>3</sub></entry>
+<entry>Reduction of nitrates to nitrites</entry>
+<entry>+</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Reduction of nitrates to nitrogen</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry>TRP</entry>
+<entry>Indole production</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry>GLU</entry>
+<entry>Fermentation (glucose)</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry>ADH</entry>
+<entry>Arginine dihydrolase</entry>
+<entry>&#x2212;</entry>
+<entry>+</entry>
+</row>
+<row>
+<entry>URE</entry>
+<entry>Urease</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry>ESC</entry>
+<entry>Hydrolysis (B-glucosidase)</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry>GEL</entry>
+<entry>Hydrolysis (protease)</entry>
+<entry>+</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry>PNPG</entry>
+<entry>B-galactosidase</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry>GLU</entry>
+<entry>Assimilation (glucose)</entry>
+<entry>+</entry>
+<entry>+</entry>
+</row>
+<row>
+<entry>ARA</entry>
+<entry>Assimilation (arabinose)</entry>
+<entry>+</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry>MNE</entry>
+<entry>Assimilation (mannose)</entry>
+<entry>+</entry>
+<entry>+</entry>
+</row>
+<row>
+<entry>MAN</entry>
+<entry>Assimilation (mannitol)</entry>
+<entry>+</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry>NAG</entry>
+<entry>Assimilation (N-Acetyl-</entry>
+<entry>+</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry/>
+<entry>Glucosamine)</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>MAL</entry>
+<entry>Assimilation (maltose)</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry>GNT</entry>
+<entry>Assimilation (potassium gluconate)</entry>
+<entry>+</entry>
+<entry>+</entry>
+</row>
+<row>
+<entry>CAP</entry>
+<entry>Assimilation (capric acid)</entry>
+<entry>+</entry>
+<entry>+</entry>
+</row>
+<row>
+<entry>ADI</entry>
+<entry>Assimilation (adipic acid)</entry>
+<entry>&#x2212;</entry>
+<entry>&#x2212;</entry>
+</row>
+<row>
+<entry>MLT</entry>
+<entry>Assimilation (malate)</entry>
+<entry>+</entry>
+<entry>+</entry>
+</row>
+<row>
+<entry>CIT</entry>
+<entry>Assimilation (trisodium citrate)</entry>
+<entry>+</entry>
+<entry>+</entry>
+</row>
+<row>
+<entry>PAC</entry>
+<entry>Assimilation (phenylacetic acid)</entry>
+<entry>&#x2212;</entry>
+<entry>+</entry>
+</row>
+<row>
+<entry>OX</entry>
+<entry>Cytochrome oxidase</entry>
+<entry>+</entry>
+<entry>+</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0152" num="0149">Notably, the API 20 NE system cannot be used to identify any microorganisms not specifically in the API database (see below) or to exclude their presence. <i>Pseudomonas </i>species in database:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0150"><i>P. aeruginosa </i></li>
+        <li id="ul0002-0002" num="0151"><i>P. fluorescens </i></li>
+        <li id="ul0002-0003" num="0152"><i>P. luteola </i></li>
+        <li id="ul0002-0004" num="0153"><i>P. mendocina </i></li>
+        <li id="ul0002-0005" num="0154"><i>P. oryzihabitans </i></li>
+        <li id="ul0002-0006" num="0155"><i>P. putida </i></li>
+        <li id="ul0002-0007" num="0156"><i>P. stutzeri </i></li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0009" level="1">Example 2: Bacterial Colonization of Multiple Plant Hosts</heading>
+<p id="p-0153" num="0157">In one embodiment, <i>Pseudomonas </i>sp. Csr-7 and Csr-8 were transformed with a plasmid carrying green fluorescent protein (GFP) to determine its colonization patterns in multiple plant hosts. Single colony of Csr-7 expressing GFP was introduced into a 500 mL flask containing LB with a selection antibiotic and allowed to grow at 30&#xb0; C. 16-18 hours. The cultures were transferred into 175 mL conical tubes and cell pellets were collect with centrifugation at 4000 rpm for 10 minutes. The cell pellets were washed by suspending in 175 mL 1&#xd7;PBS (phosphate buffered saline) and submitted to a second centrifugation at 4000 rpm for 10 minutes. The cell pellets were suspended in 200 mL 1&#xd7;PBS and having an optical density (OD) absorbance 600 nm to 1.0. The bacterial suspensions were applied as a soil drench on the young seedings in the exemplary plants. Bacteria were re-isolated from surface sterilized roots, stems and leaves and plated on LB plates with a selection antibiotic with a serial dilution on a regular monthly basis. The colonies were observed on an epifluorescence microscope and submitted for 16s rDNA gene sequencing to confirm the identity of the colonies expressing GFP. The Csr-7 expressing GFP were found to colonize only in the roots on multiple exemplary plants for more than 100 days.</p>
+<p id="p-0154" num="0158">As shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, Csr-7 colonies were present in potato roots, but not in the tubers at 82 days post inoculation (dpi). In potato, Csr-7 colonies were present in roots at 117 dpi with a concentration of 7.7&#xd7;10<sup>2 </sup>cfu/g root tissue (<figref idref="DRAWINGS">FIG. <b>2</b></figref>), but not stems, upper branches, flowers or fruits. Csr-7 could also colonize in the roots of hemp &#x201c;Sandia Haze&#x201d; at 100 dpi and in tobacco roots at least for 74 days. Csr-8 could colonize in the roots of tobacco (at least 65 dpi) and potato plants (105 dpi). Neither Csr-7 nor Csr-8 caused any adverse symptoms on the target hosts or affected the growth and development of the plants.</p>
+<heading id="h-0010" level="1">Example 3: Engineered Endophyte Provides Protection Against Plant Pathogen Infection</heading>
+<p id="p-0155" num="0159">Two hairpin RNA constructs were developed targeting 522 base pairs of Potato Virus Y (PVY) coat protein (CP) gene and they are hpPVY-CP and hpPVY-CP-RNase III E38A-R107A-R108A. These two constructs were transformed into endophyte Csr-7. RNase III E38A-R107A-R108A gene was integrated into Csr-7 bacteria genome and designated as Csr-7::RNase III E38A-R107A-R108A. Hairpin RNA construct hpPVY-CP was transformed into Csr-7:RNase III E38A-R107A-R108A. The abovementioned three strains together with wild type Csr-7 and buffer control were included in the efficacy assays using potato-PVY pathogen.</p>
+<p id="p-0156" num="0160">Potato (Russet Burbank) cuttings, or clones, were made from cutting from the healthy and largest apical shoots of the mother plant. Angled cuts are made (to allow as much surface area for rooting as possible) and treated with rooting hormone (bottom 2 cm) and set to root in pre-hydrated jiffy peat pellets. Once roots have developed, 10-20 days old potato cuttings were separated into treatments and inoculated with bacteria as described in Example 1. Prior to PVY infection, bacteria were confirmed colonizing in potato roots at 14-21 days after bacteria inoculation. Five grams of PVY infected tobacco leaf tissue were ground with 10 mL of inoculation buffer (1M MES pH 5.7, 0.1M Aceto, 1M CaCl<sub>2</sub>), 1M MgSO<sub>4</sub>) to create the inoculum and aliquoted into 200 ul to be used to inoculate each individual plant. The upper three leaves were chosen for inoculation and marked with Wite-Out&#xae; correction fluid. Three leaflets at the end of each leaf were dusted and carborundum for making abrasions on leaf surface and rubbed gently with inoculum. Carborundum was rinsed from each leaflet and plants were placed back in incubator for recovery.</p>
+<p id="p-0157" num="0161">Treatments of plants were fall into 6 categories: 1) control potato plants treated with 1&#xd7;PBS, 2) PVY inoculation on control plants, 3) potato plants pre-inoculated with control endophytic bacterial strain Csr-7, 4) PVY inoculated plants pre-inoculated with Csr-7, 5) potato plants pre-inoculated with the endophytic bacterial strain Csr-7/hpPVY-CP, Csr-7/hpPVY-CP-RNase III E38A-R107A-R108A, and Csr-7::RNase III E38A-R107A-R108A/hpPVY-CP, respectively, and 6). PVY inoculation on plants pre-inoculated with the endophytic bacterial strains carrying each construct as described in category 5. Eight plants from each treatment were chosen for viral inoculation.</p>
+<p id="p-0158" num="0162">Plant leaf tissues were collected for 3 timepoints at 2-week intervals following PVY inoculation. Approximately 0.1 g of potato leaf tissue was collected into Qiagen PowerBead Tubes with 1.4 mm ceramic beads. Samples were immediately stored at &#x2212;80&#xb0; C. Sample tubes were placed in liquid nitrogen and then processed on the Qiagen TissueLyser II for 5 minutes at 30 Hz. Following tissue destruction, 600 &#x3bc;l of TRIzol Reagent (Invitrogen) was added to each tube, mixed well, and incubated for 5 minutes at room temperature. Then the Direct-zol Miniprep Plus kit (Zymo Research) was used to extract total RNA following the manufacturer's protocol. The in-column DNase I treatment was utilized, and the final RNA was resuspended in 50 &#x3bc;l water. To remove impurities from RNA, the OneStep PCR Inhibitor Removal kit (Zymo Research) was used following manufacturer's instructions. Concentrations were measured on the Nanodrop 2000c (Thermo Scientific), and approximately 4 &#x3bc;g of purified total RNA was used for cDNA synthesis. Following the company provided protocol, Takara EcoDry Premix (double primed) was utilized for cDNA synthesis. The resulting cDNA was used to quantify the relative expression of PVY against the internal potato actin gene via the comparative &#x394;&#x394;Ct method. qPCR reactions were setup with 10 &#x3bc;l iTaq Universal SYBR Green Supermix (Bio-Rad), 1 &#x3bc;l forward primer (10 &#x3bc;M), 1 &#x3bc;l reverse primer (10 &#x3bc;M), 7 &#x3bc;l sterile water, and 1 &#x3bc;l cDNA.</p>
+<p id="p-0159" num="0000">Primers used for potato actin [2] were:</p>
+<p id="p-0160" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0" tabstyle="monospace">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="91pt" align="left"/>
+<colspec colname="2" colwidth="126pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Potato_Actin97_F:</entry>
+<entry>AGTATGACGAATCTGGTCCTTCTATTG</entry>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>Potato_Actin97_R:</entry>
+<entry>ACCCAACAATCAACTCTGCCCTCTC</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+<br/>
+Primers used for PVY detection [3] were:
+</p>
+<p id="p-0161" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0" tabstyle="monospace">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="119pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>PVY_O_F:</entry>
+<entry>TGGATGGGAATGAACAAGTTGA</entry>
+</row>
+<row>
+<entry/>
+<entry> </entry>
+</row>
+<row>
+<entry/>
+<entry>PVY_O_R:</entry>
+<entry>TGCCTAAGGGTTGGTTTTGC</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0162" num="0163">Samples were processed on the Stratagene Mx3005P (Agilent Technologies) under the following conditions: 1&#xd7;: 95&#xb0; C. for 5 minutes; 40&#xd7;: 95&#xb0; C. for 10s, 60&#xb0; C. for 20s, 72&#xb0; C. for 20s; 1&#xd7;: 95&#xb0; C. for 60s, 55&#xb0; C. for 30s, 95&#xb0; C. for 30s.</p>
+<p id="p-0163" num="0164">Potato plants pre-inoculated with Csr-7/hpPVY-CP-RNase III E38A-R107A-R108A, or Csr-7: RNase III E38A-R107A-R108A/hpPVY-CP both exhibited reduced level of PVY coat protein compared with plants pre-inoculated with Csr-7/hpPVY-CP. These results indicated that modified strain with RNase III E38A-R107A-R108A either in bacteria genome or in a plasmid is more efficient than wild type strain Csr-7/hpPVY-CP at silencing the target gene of PVY.</p>
+<heading id="h-0011" level="1">Example 4: Materials and Methods</heading>
+<p id="p-0164" num="0165">Preparation and use of Electrocompetent <i>Pseudomonas </i>species Csr-7 and Csr-8<i>: Pseudomonas </i>species were streaked to isolation on LB agar. A single, well isolated colony was inoculated into LB growth media in a polypropylene cap with vent holes and a 0.22 &#x3bc;m hydrophobic membrane to allow for gas exchange. Cells were then grown for 16 hours at 30&#xb0; C. to stationary phase. The following day 7 mL of the stationary phase culture was inoculated into a 150 mL sterile Erlenmeyer flask with 50 mL LB growth media and grown at 30&#xb0; C. to optimal density at 600 nm of 0.75-0.85. Once the target optimal density is reached the cells are retained on ice and centrifugation steps be performed at 4&#xb0; C. Cells are transferred to sterile 50 mL tubes in 25 mL volumes are harvested at 4000 rpm for 10 minutes. The growth media is decanted from the tube and cells are suspended gently by pipetting with ice-cold 10% sterile Glycerol solution. The cells are harvested at 4000 rpm for 10 minutes and solution decanted, followed by an additional wash with 10% Glycerol solution. After the second wash, the cells are gently resuspended in a total of 0.8 mL 10% Glycerol. The cells are aliquoted into pre-chilled sterile 1.5 mL microcentrifuge tubes. The cells may be used immediately for electroporation with plasmid or flash frozen in liquid nitrogen and immediately stored at &#x2212;80&#xb0; C.</p>
+<p id="p-0165" num="0166">Electroporation of Electrocompetent <i>Pseudomonas </i>species Csr-7 and Csr-8: 1 &#x3bc;g plasmid DNA (to not exceed a volume of more than 15 &#x3bc;L) is added to 50 &#x3bc;l of electrocompetent cells. The mixture is homogenized by gently mixing with pipette three times. The DNA cell homogenate is transferred to a pre-chilled 2 mm electroporation cuvette retained on ice. The moisture is quickly wiped from the cuvette prior to insertion into the Electroporation device. Pulse is delivered at 2,400 V, 200 &#x3a9;, 25 &#x3bc;F, 5 ms time constant. The time constant should be between 5.0-5.3. The cell homogenate is immediately transferred to 1 mL tryptic soy broth in a 5 mL culture tube with a two-position cap with cap loose for aerobic culturing. Incubate 2 hours at 30&#xb0; C. to allow the antibiotic resistance of the plasmid to be expressed. The cell culture is plated on LB agar containing antibiotic selection using sterile glass beads at 50 and 100 &#x3bc;L.</p>
+<heading id="h-0012" level="1">DEPOSIT INFORMATION</heading>
+<p id="p-0166" num="0167">The bacterial strains <i>Pseudomonas </i>sp. Csr-7 (ATCC Patent Deposit No. PTA-126973) and Csr-8 (ATCC Patent Deposit No. PTA-126974) have been deposited in an international depository under conditions that assure that access to the culture will be available during the pendency of this patent application and any patent(s) issuing therefrom to one determined by the Commissioner of Patents and Trademarks to be entitled thereto under 37 C.F.R. 1.14 and 35 U.S.C. 122. These strains have been deposited in the American Type Culture Collection (ATCC), at 10801 University Boulevard, Manassas, Va., 20110-2209 United States of America. The date of deposit was Mar. 24, 2021.</p>
+<heading id="h-0013" level="1">REFERENCES</heading>
+<p id="p-0167" num="0000">
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0168">[1] Scott, M., Rani, M., Samsatly, J., Charron, J. B. and Jabaji, S., 2018. Endophytes of industrial hemp (<i>Cannabis sativa </i>L.) cultivars: identification of culturable bacteria and fungi in leaves, petioles, and seeds. <i>Canadian journal of microbiology, </i>64(999), pp. 1-17.</li>
+    <li id="ul0003-0002" num="0169">[2] Zhu, X., Richael, C.. Chamberlain, P., Busse, I S., Bussan, A. J., Jiang, J. and Bethke, P. C., 2014. Vacuolar invertase gene silencing in potato (<i>Solanum tuberosum </i>L.) improves processing quality by decreasing the frequency of sugar-end defects. <i>PloS one, </i>9(4).</li>
+    <li id="ul0003-0003" num="0170">[3] Kogov&#x161;ek, P., Gow, L., Pompe-Novak, M., Gruden, K., Foster, G. D., Boonham, N. and Ravnikar, M., 2008. Single-step RT real-time PCR for sensitive detection and discrimination of Potato virus Y isolates. <i>Journal of virological methods, </i>149(1), pp. 1-11.</li>
+</ul>
+</p>
+<p id="p-0168" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0" tabstyle="monospace">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>SEQUENCE&#x2003;LISTING</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>SEQ&#x2003;ID&#x2003;NO.&#x2003;1</entry>
+</row>
+<row>
+<entry>DNA</entry>
+</row>
+<row>
+<entry>PVY&#x2003;coat&#x2003;protein&#x2003;(CP)&#x2003;sequence</entry>
+</row>
+<row>
+<entry>Potato&#x2003;Virus&#x2003;Y</entry>
+</row>
+<row>
+<entry>GGAAATGACACAATTGATGCAGGAGGAAGCACTAAGAAGGATGCAAAAC</entry>
+</row>
+<row>
+<entry>AAGAGCTAGGTAGCATTCAACCAAATCTCAACAAGGAAAAGGAAAAGGA</entry>
+</row>
+<row>
+<entry>CGTGAATGTTGGAACATCTGGAACTCATACTGTGCCACGAATTAAAGCT</entry>
+</row>
+<row>
+<entry>ATCACGTCCAAAATGAGAATGCCCAAGAGTAAAGGTGCAACTGTACTAA</entry>
+</row>
+<row>
+<entry>ATTTGGAACACTTACTCGAGTATGCTCCACAGCAAATTGACATCTCAAA</entry>
+</row>
+<row>
+<entry>TACTCGAGCAACTCAATCACAGTTTGATACGTGGTATGAAGCGGTACAA</entry>
+</row>
+<row>
+<entry>CTTGCATACGGCATAGGAGAAACTGAAATGCCAACTGTGATGAATGGGC</entry>
+</row>
+<row>
+<entry>TTATGGTTTGGTGCATTGAAAATGGAACCTCGCCAAACATCAACGGAGT</entry>
+</row>
+<row>
+<entry>TTGGGTTATGATGGATGGAGATGAACAAGTCGAATACCCACTGAAACCA</entry>
+</row>
+<row>
+<entry>ATCGTTGAGAATGCAAAACCAACACTTAGGCAAATCATGGCACATTTCT</entry>
+</row>
+<row>
+<entry>CAGATGTTGCAGAAGCGTATATAGAAATGCGCAACAAAAAGGAACCATA</entry>
+</row>
+<row>
+<entry>TATGCCACGATATGGTTTAGTTCGTAATCTGCGCGATGGAAGTTTGGCT</entry>
+</row>
+<row>
+<entry>CGCTATGCTTTTGACTTTTATGAGGTCACATCACGAACACCAGTGAGGG</entry>
+</row>
+<row>
+<entry>CTAGGGAAGCGCACATTCAAATGAAGGCCGCAGCATTGAAATCAGCCCA</entry>
+</row>
+<row>
+<entry>ACCTCGACTTTTCGGGTTGGACGGTGGCATCAGTACACAAGAGGAGAAC</entry>
+</row>
+<row>
+<entry>ACAGAGAGGCACACCACCGAGGATGTTTCTCCAAGTATGCATACTCTAC</entry>
+</row>
+<row>
+<entry>TTGGAGTCAAGAACATGT</entry>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>SEQ&#x2003;ID&#x2003;NO.&#x2003;2</entry>
+</row>
+<row>
+<entry>DNA</entry>
+</row>
+<row>
+<entry>RNaseIII-(rcn)-HT115-E38A-R107A-R108A</entry>
+</row>
+<row>
+<entry><i>E.&#x2003;coli</i></entry>
+</row>
+<row>
+<entry>ATGAACCCCATCGTAATTAATCGGCTTCAACGGAAGCTGGGCTACACTT</entry>
+</row>
+<row>
+<entry>TTAATCATCAGGAACTGTTGCAGCAGGCATTAACTCATCGTAGTGCCAG</entry>
+</row>
+<row>
+<entry>CAGTAAACACAATGCCCGCTTGGAATTTTTAGGCGACTCTATTCTGAGC</entry>
+</row>
+<row>
+<entry>TACGTTATCGCCAATGCGCTTTATCACCGTTTCCCTCGTGTGGATGAAG</entry>
+</row>
+<row>
+<entry>GCGATATGAGCCGGATGCGCGCCACGCTGGTCCGTGGCAATACGCTGGC</entry>
+</row>
+<row>
+<entry>GGAACTGGCGCGCGAATTTGAGTTAGGCGAGTGCTTACGTTTAGGGCCA</entry>
+</row>
+<row>
+<entry>GGTGAACTTAAAAGCGGTGGATTTGCCGCCGAGTCAATTCTCGCCGACA</entry>
+</row>
+<row>
+<entry>CCGTCGAAGCATTAATTGGTGGCGTATTCCTCGACAGTGATATTCAAAC</entry>
+</row>
+<row>
+<entry>CGTCGAGAAATTAATCCTCAACTGGTATCAAACTCGTTTGGACGAAATT</entry>
+</row>
+<row>
+<entry>AGCCCAGGCGATAAACAAAAAGATCCGAAAACGCGCTTGCAAGAATATT</entry>
+</row>
+<row>
+<entry>TGCAGGGTCGCCATCTGCCGCTGCCGACTTATCTGGTAGTCCAGGTACG</entry>
+</row>
+<row>
+<entry>TGGCGAAGCGCACGATCAGGAATTTACTATCCACTGCCAGGTCAGCGGC</entry>
+</row>
+<row>
+<entry>CTGAGTGAACCGGTGGTTGGCACAGGTTCAAGCCGTCGTAAGGCTGAGC</entry>
+</row>
+<row>
+<entry>AGGCTGCCGCCGAACAGGCGTTGAAAAAACTGGAGCTGGAATGA</entry>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>SEQ&#x2003;ID&#x2003;NO.&#x2003;3</entry>
+</row>
+<row>
+<entry>Amino&#x2003;Acid</entry>
+</row>
+<row>
+<entry>RNaseIII-(rcn)-HT115-E38A-R107A-R108A-aa</entry>
+</row>
+<row>
+<entry><i>E.&#x2003;coli</i></entry>
+</row>
+<row>
+<entry>MNPIVINRLQRKLGYTFNHQELLQQALTHRSASSKHNARLEFLGDSILS</entry>
+</row>
+<row>
+<entry>YVIANALYHRFPRVDEGDMSRMRATLVRGNTLAELAREFELGECLRLGP</entry>
+</row>
+<row>
+<entry>GELKSGGFAAESILADTVEALIGGVFLDSDIQTVEKLILNWYQTRLDEI</entry>
+</row>
+<row>
+<entry>SPGDKQKDPKTRLQEYLQGRHLPLPTYLVVQVRGEAHDQEFTIHCQVSG</entry>
+</row>
+<row>
+<entry>LSEPVVGTGSSRRKAEQAAAEQALKKLELE</entry>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>SEQ&#x2003;ID&#x2003;NO.&#x2003;4</entry>
+</row>
+<row>
+<entry>DNA</entry>
+</row>
+<row>
+<entry>RNaseIII-(rcn)-HT115-Ag001-E38A-R107A-R108A</entry>
+</row>
+<row>
+<entry><i>Enterobacteriaceae</i>&#x2003;Ag001</entry>
+</row>
+<row>
+<entry>ATGAATCCCATCGTAATAAATAGGCTGCAGCGTAAGCTGGGCTACACTT</entry>
+</row>
+<row>
+<entry>TTCAACATCAGGATCTGTTGCAACAGGCATTAACCCATCGGAGTGCCAG</entry>
+</row>
+<row>
+<entry>CAGCAAGCATAATGCCCGCTTGGAGTTTTTGGGTGACTCCATTCTCAGT</entry>
+</row>
+<row>
+<entry>TATGTCATCGCGAATGCGCTGTATCATCGTTTTCCTCGCGTAGATGAAG</entry>
+</row>
+<row>
+<entry>GCGACATGAGCCGCATGCGTGCGACGCTGGTGCGCGGCAATACGCTGGC</entry>
+</row>
+<row>
+<entry>GGAAATCGCCCGCGAGTTCGAACTGGGTGAGTGTCTGCGTCTTGGGCCG</entry>
+</row>
+<row>
+<entry>GGTGAACTGAAAAGTGGCGGTTTCGCCGCCGAGTCGATTCTTGCTGATA</entry>
+</row>
+<row>
+<entry>CCGTGGAAGCGTTGATCGGTGGCGTCTTCCTCGACAGCGACATTCAGAA</entry>
+</row>
+<row>
+<entry>CGTTGAGCGTTTGATTCTCTCGTGGTATCAGACCCGTCTCGACGAAATC</entry>
+</row>
+<row>
+<entry>AGTCCAGGCGACAAGCAAAAAGATCCGAAAACGCGTCTGCAGGAGTACC</entry>
+</row>
+<row>
+<entry>TGCAGGGTCGCCATCTGCCGCTGCCGTCGTATCTGGTGGTGCAGGTGCG</entry>
+</row>
+<row>
+<entry>TGGTGAAGCGCACGATCAAGAATTTACCATTCACTGTCAGGTGAGTGGC</entry>
+</row>
+<row>
+<entry>CTGCCTGAGCCTGTCGTAGGGACGGGCTCAAGCCGCCGTAAAGCGGAAC</entry>
+</row>
+<row>
+<entry>AGGCTGCGGCTGAGCAGGCACTGAAAAAGCTGGAGCTGGAATGA</entry>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>SEQ&#x2003;ID&#x2003;NO.&#x2003;5</entry>
+</row>
+<row>
+<entry>Amino&#x2003;Acid</entry>
+</row>
+<row>
+<entry>RNaseIII-(rcn)-HT115-Ag001-E38A-R107A-R108A-aa</entry>
+</row>
+<row>
+<entry><i>Enterobacteriaceae</i>&#x2003;Ag001</entry>
+</row>
+<row>
+<entry>MNPIVINRLQRKLGYTFQHQDLLQQALTHRSASSKHNARLEFLGDSILS</entry>
+</row>
+<row>
+<entry>YVIANALYHRFPRVDEGDMSRMRATLVRGNTLAEIAREFELGECLRLGP</entry>
+</row>
+<row>
+<entry>GELKSGGFAAESILADTVEALIGGVFLDSDIQNVERLILSWYQTRLDEI</entry>
+</row>
+<row>
+<entry>SPGDKQKDPKTRLQEYLQGRHLPLPSYLVVQVRGEAHDQEFTIHCQVSG</entry>
+</row>
+<row>
+<entry>LPEPVVGTGSSRRKAEQAAAEQALKKLELE</entry>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>SEQ&#x2003;ID&#x2003;NO.&#x2003;6</entry>
+</row>
+<row>
+<entry>DNA</entry>
+</row>
+<row>
+<entry>RNaseIII-(rcn)-HT115-Ae003-E38A-R107A-R108A</entry>
+</row>
+<row>
+<entry><i>Enterobacter</i>&#x2003;Ae003</entry>
+</row>
+<row>
+<entry>ATGAACCCCATCGTAATTAATCGGCTTCAACGGAAGCTGGGCTACACTT</entry>
+</row>
+<row>
+<entry>TTCATCATCAGGAGTTGTTGCAACAGGCATTAACCCACCGCAGTGCCAG</entry>
+</row>
+<row>
+<entry>CAGCAAGCACAACGCCCGCCTGGAGTTTTTAGGCGACTCTATTTTAAGT</entry>
+</row>
+<row>
+<entry>TTCGTGATTGCGAATGCGCTTTATCATCGTTTCCCGCGCGTGGATGAAG</entry>
+</row>
+<row>
+<entry>GTGATATGAGCCGCATGCGTGCCACGCTGGTTCGGGGTAACACCCTTGC</entry>
+</row>
+<row>
+<entry>GGAAATCGCGCGCGAATTTGAACTGGGCGAATGTCTGCGTCTTGGGCCG</entry>
+</row>
+<row>
+<entry>GGTGAACTGAAAAGCGGCGGCTTCGCCGCCGAATCTATTCTTGCCGATA</entry>
+</row>
+<row>
+<entry>CGGTCGAAGCATTAATTGGTGGTGTGTTCCTGGACAGCGATATCCAGAC</entry>
+</row>
+<row>
+<entry>CGTCGAAAAGCTGATCCTGAACTGGTATCAGACCCGTCTGGACGAAATC</entry>
+</row>
+<row>
+<entry>AGCCCGGGCGATAAACAAAAAGATCCCAAAACGCGTCTGCAGGAATATT</entry>
+</row>
+<row>
+<entry>TGCAGGGCCGTCATCTGCCGCTGCCATCTTATCTGGTGGTGCAGGTTCG</entry>
+</row>
+<row>
+<entry>TGGCGAAGCGCACGATCAGGAATTTACCATCCATTGCCAGGTCAGTGGC</entry>
+</row>
+<row>
+<entry>CTGAGTGAACCGGTGGTGGGCACAGGTTCAAGCCGTCGTAAGGCTGAAC</entry>
+</row>
+<row>
+<entry>AGGCTGCCGCCGAACAGGCGTTAAAAATGCTGGAGCTGGAATGA</entry>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>SEQ&#x2003;ID&#x2003;NO.&#x2003;7</entry>
+</row>
+<row>
+<entry>Amino&#x2003;Acid</entry>
+</row>
+<row>
+<entry>RNaseIII-(rcn)-HT115-Ae003-E38A-R107A-R108A-aa</entry>
+</row>
+<row>
+<entry>Enterobacter&#x2003;Ae003</entry>
+</row>
+<row>
+<entry>MNPIVINRLQRKLGYTFHHQELLQQALTHRSASSKHNARLEFLGDSILS</entry>
+</row>
+<row>
+<entry>FVIANALYHRFPRVDEGDMSRMRATLVRGNTLAEIAREFELGECLRLGP</entry>
+</row>
+<row>
+<entry>GELKSGGFAAESILADTVEALIGGVFLDSDIQTVEKLILNWYQTRLDEI</entry>
+</row>
+<row>
+<entry>SPGDKQKDPKTRLQEYLQGRHLPLPSYLVVQVRGEAHDQEFTIHCQVSG</entry>
+</row>
+<row>
+<entry>LSEPVVGTGSSRRKAEQAAAEQALKMLELE</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-sequence-list-doc id="SEQLST-1">
+<sequence-list file="US20230225331A1-20230720-S00001.XML" carriers="internal-electronic" seq-file-type="ST.26"/>
+</us-sequence-list-doc>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A <i>Pseudomonas </i>bacterial strain selected from the group consisting of: Csr-7 (ATCC Patent Deposit No. PTA-126973); and Csr-8 (ATCC Patent Deposit No. PTA-126974).</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. A culture broth of the <i>Pseudomonas </i>bacterial strain of <claim-ref idref="CLM-00001">claim 1</claim-ref>, a concentrate thereof, or a dry product thereof.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The bacterial strain of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the bacterial strain is genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter, encoding a eukaryotic-like mRNA.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The bacterial strain of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the bacterial strain is genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter, encoding an inhibitory RNA molecule that inhibits expression of at least one of the following:
+<claim-text>an endogenous gene in a plant host;</claim-text>
+<claim-text>a gene of a plant host pathogen;</claim-text>
+<claim-text>a gene of a pest of a plant host; and</claim-text>
+<claim-text>a gene of nematode of a plant host.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The bacterial strain of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the heterologous nucleotide sequence encoding an inhibitory RNA molecule comprises a nucleotide sequence according to SEQ ID NO. 1.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The bacterial strain of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the bacterial strain is genetically engineered to express a heterologous nucleotide sequence, operably linked to a promoter, encoding one or more of the following:
+<claim-text>a heterologous double stranded RNA (dsRNA) molecule configured to inhibit expression of at least one target gene; and</claim-text>
+<claim-text>a heterologous engineered RNaseIII enzyme having one or more mutations that enhance generation of small interfering RNAs (siRNAs) from catalytic cutting of the dsRNA molecule; and</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The bacterial strain of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the heterologous nucleotide sequence encoding an engineered RNaseIII enzyme comprises a polynucleotide sequence selected from the group consisting of: SEQ ID NO. 2, 4, and 6.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The bacterial strain of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein said target gene comprises at least one of the following:
+<claim-text>an endogenous gene in a plant host;</claim-text>
+<claim-text>a gene of a plant host pathogen;</claim-text>
+<claim-text>a gene of a pest of a plant host; and</claim-text>
+<claim-text>a gene of nematode of a plant host.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The bacterial strain of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein bacterial strain colonizes a target host plant.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The bacterial strain of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein bacterial strain colonizes the roots of the target host plant.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The bacterial strain of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein bacterial strain persists in the roots of a target host plant.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The bacterial strain of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the dsRNA or siRNAs are produced by the bacterial strain in the roots of a target host plant and distributed through the plant's intracellular architecture initiating an RNAi response in non-root tissues of the plant.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The bacterial strain of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein said target host plant is selected from the group consisting of: a dicot plant, or a monocot plant.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The bacterial strain of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein said dicot plant, or monocot plant is selected from the group consisting of: grains, corn, wheat, rice, barley, rye, oats, sorghum, millet, sunflower, safflower, cannabis, cotton, soy, canola, alfalfa, <i>Arabidopsis</i>, cannabis, potato, <i>Brassica</i>, peanut, tobacco, tropical fruits and flowers, banana, duckweed, gladiolus, sugar cane, pineapples, dates, onions, pineapple, cashews, pistachios, flowers, ornamentals, conifers, deciduous, grapes, citrus, roses, apples, peaches, strawberries, almonds, coffee, oaks, beans, legumes, watermelon, squashes, cabbage, turnip, mustard, cacti, pecans, flax, sweet potato, soybean, coconut, avocado, maize beets, cantaloupe and vegetables.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225433A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225433</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18008085</doc-number>
+<date>20210602</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>13</main-group>
+<subgroup>11</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>31</main-group>
+<subgroup>30</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>32</class>
+<subclass>B</subclass>
+<main-group>27</main-group>
+<subgroup>16</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>13</main-group>
+<subgroup>1192</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20190201</date></cpc-version-indicator>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>31</main-group>
+<subgroup>305</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>32</class>
+<subclass>B</subclass>
+<main-group>27</main-group>
+<subgroup>16</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>32</class>
+<subclass>B</subclass>
+<main-group>2571</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>32</class>
+<subclass>B</subclass>
+<main-group>2255</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>32</class>
+<subclass>B</subclass>
+<main-group>2535</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>32</class>
+<subclass>B</subclass>
+<main-group>2307</main-group>
+<subgroup>724</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20230501</date></cpc-version-indicator>
+<section>B</section>
+<class>32</class>
+<subclass>B</subclass>
+<main-group>2307</main-group>
+<subgroup>7376</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>32</class>
+<subclass>B</subclass>
+<main-group>2305</main-group>
+<subgroup>026</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">ANTIVIRAL MASK AND ANTIVIRAL FILTER MADE FROM A BREATHABLE MICROPOROUS POLYMERIC MEMBRANE</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63033277</doc-number>
+<date>20200602</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63034057</doc-number>
+<date>20200603</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>University of Kentucky Research Foundation</orgname>
+<address>
+<city>Lexington</city>
+<state>KY</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Bhattacharyya</last-name>
+<first-name>Dibakar</first-name>
+<address>
+<city>Lexington</city>
+<state>KY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Hastings</last-name>
+<first-name>J. Todd</first-name>
+<address>
+<city>Lexington</city>
+<state>KY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Dziubla</last-name>
+<first-name>Thomas D.</first-name>
+<address>
+<city>Lexington</city>
+<state>KY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Wei</last-name>
+<first-name>Yinan</first-name>
+<address>
+<city>Lexington</city>
+<state>KY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>Mills</last-name>
+<first-name>Rollie</first-name>
+<address>
+<city>Lexington</city>
+<state>KY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>Vogler</last-name>
+<first-name>R.J.</first-name>
+<address>
+<city>Lexington</city>
+<state>KY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="06" designation="us-only">
+<addressbook>
+<last-name>Bernard</last-name>
+<first-name>Matthew</first-name>
+<address>
+<city>Lexington</city>
+<state>KY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="07" designation="us-only">
+<addressbook>
+<last-name>Concolino</last-name>
+<first-name>Jacob</first-name>
+<address>
+<city>Lexington</city>
+<state>KY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="08" designation="us-only">
+<addressbook>
+<last-name>Baldridge</last-name>
+<first-name>Kevin C.</first-name>
+<address>
+<city>Lexington</city>
+<state>KY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/US2021/035470</doc-number>
+<date>20210602</date>
+</document-id>
+<us-371c12-date><date>20221202</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An antiviral mask and antiviral filter include a thin breathable, microporous polymeric membrane. That membrane may include a plurality of pores functionalized with a proteolytic enzyme, an antibody or a combination thereof. The antiviral mask and antiviral filter may also include a coating of graphene oxide, lignin sulfonate or a combination thereof and/or a fluorescent virus tagging agent.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="50.46mm" wi="158.75mm" file="US20230225433A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="230.29mm" wi="105.16mm" orientation="landscape" file="US20230225433A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="205.99mm" wi="165.69mm" orientation="landscape" file="US20230225433A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="100.33mm" wi="166.96mm" file="US20230225433A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="94.91mm" wi="106.26mm" file="US20230225433A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="227.08mm" wi="103.63mm" orientation="landscape" file="US20230225433A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="154.60mm" wi="143.59mm" file="US20230225433A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="225.04mm" wi="99.06mm" orientation="landscape" file="US20230225433A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="126.83mm" wi="154.01mm" file="US20230225433A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="146.39mm" wi="136.14mm" file="US20230225433A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="235.46mm" wi="107.19mm" orientation="landscape" file="US20230225433A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="188.81mm" wi="166.71mm" orientation="landscape" file="US20230225433A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="233.26mm" wi="86.70mm" orientation="landscape" file="US20230225433A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="136.31mm" wi="138.18mm" file="US20230225433A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="136.99mm" wi="143.26mm" file="US20230225433A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="188.47mm" wi="160.70mm" orientation="landscape" file="US20230225433A1-20230720-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="194.82mm" wi="125.48mm" orientation="landscape" file="US20230225433A1-20230720-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="195.92mm" wi="138.85mm" orientation="landscape" file="US20230225433A1-20230720-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="142.66mm" wi="146.73mm" file="US20230225433A1-20230720-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="145.12mm" wi="148.84mm" file="US20230225433A1-20230720-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="129.20mm" wi="167.98mm" file="US20230225433A1-20230720-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="133.77mm" wi="167.05mm" file="US20230225433A1-20230720-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="88.14mm" wi="167.81mm" file="US20230225433A1-20230720-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="157.40mm" wi="140.80mm" file="US20230225433A1-20230720-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application claims priority to U.S. Provisional Patent Application Ser. No. 63/033,277 filed on Jun. 2, 2020 and U.S. Provisional Patent Application Ser. No. 63/034,057 filed on Jun. 3, 2020, all of which are hereby incorporated by reference in their entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">This document relates generally to antiviral masks and antiviral filters made from a thin, breathable, microporous polymeric materials.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">The spread of coronaviruses, such as SARS-CoV-2, through human contact and aerosol exhalation/inhalation could be significantly reduced by advancing membrane filter-based simple enzymatic deactivation techniques. Respiratory coronaviruses are being extensively studied in the research community, due to the high seasonal fatalities globally caused by the common influenza, but the danger of new emergent coronaviruses has become apparent with the current wide-spread nature of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). This virus, which started a global pandemic in the early half of 2020, has caused more than 2.2 million total Coronavirus Disease 2019 (COVID-19) deaths and infected more than 100 million humans.</p>
+<p id="p-0005" num="0004">With the large-scale infection of this virus, the use of respiratory face masks (N95, surgical, home-made) has become vital to prevent the continuation of the pandemic, as it has been proven to prevent both the infection of the individual and the virus transmittance from the host via the capture of respiratory droplets. Unfortunately, in non-health care and health care workers, the use of respiratory face masks reduced the rate of infection by a respiratory virus by only about 50% and 80%, respectively, thus showing the immense need for novel technological improvements in the field of mask research and development. The development of smart filtration materials with lower air flow resistance to remove airborne nanoparticles and virus particles will provide immense human health and industrial work-place benefits.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0006" num="0005">In accordance with the purposes and benefits set forth herein, a new and improved antiviral mask is provided. That antiviral mask or filter comprises a body including a breathable, microporous polymeric membrane and a securing strap connected to the body and adapted to secure the antiviral mask in place over the nose and mouth of a user or wearer.</p>
+<p id="p-0007" num="0006">The polymeric membrane may have a thickness of between about 30 microns and about 500 microns, a porosity of between about 20% and about 80% and an average pore size of between about 15 nm and about 300 nm. The polymeric membrane may also have a pressure drop of less than about 5 psi or 34.47 kPa.</p>
+<p id="p-0008" num="0007">The polymeric membrane may be made from a material selected from a group consisting of polyvinylidene difluoride, polysulfone, polypropylene, cellulose, poly (methacrylic acid) functionalized polyvinylidene difluoride, poly (methacrylic acid) functionalized polysulfone, poly (methacrylic acid) functionalized polypropylene (PP), poly (methacrylic acid) functionalized cellulose and combinations thereof.</p>
+<p id="p-0009" num="0008">In one or more of the many possible embodiments of the antiviral mask, the polymeric membrane includes a plurality of pores functionalized with a proteolytic enzyme, a virus denaturing agent and combinations thereof. The proteolytic enzyme may be selected from a group consisting of subtilisin, trypsin, papain, proteinase K, chymotrypsin, elastase and combinations thereof. The virus denaturing agent may be selected from a group consisting of an antibody, a chemical agent that reduces a disulfide bond to an &#x2014;SH group, dithiothreitol, tris (2-carboxyethyl) phosphine (TLEP), a RBD (receptor-binding domain)/ACE2 interaction inhibitor, heparin, glycyrrhizic acid and combinations thereof.</p>
+<p id="p-0010" num="0009">In one or more of the many possible embodiments of the antiviral mask, the antiviral mask further includes a coating of graphene oxide, lignin sulfonate or combinations thereof on the polymeric membrane. In one or more of the many possible embodiments of the antiviral mask, the antiviral mask includes an antiviral agent in the coating. The antiviral agent may be selected from a group consisting of a quaternary amine, an essential oil derivative having antiviral properties, copper nanoparticles, gold nanoparticles and combinations thereof.</p>
+<p id="p-0011" num="0010">In one or more of the many possible embodiments of the antiviral mask, the antiviral mask includes a fluorescent virus tagging agent of a type known in the art.</p>
+<p id="p-0012" num="0011">In one or more of the many possible embodiments of the antiviral mask, the antiviral mask includes an air permeable outer layer covering the polymeric membrane. In one or more of the many possible embodiments of the antiviral mask, the antiviral mask includes an air permeable, inner support layer whereby the polymeric membrane is sandwiched between the air permeable outer layer and the air permeable inner support layer. In still other embodiments, the antiviral mask includes the polymeric membrane and the air permeable inner support layer without the air permeable outer layer.</p>
+<p id="p-0013" num="0012">In accordance with yet another aspect, a new and improved antiviral air filter is provided. Such an air filter may be used to establish a virus-protected, enclosed environment system. That antiviral air filter comprises a low pressure drop (i.e. less than about 5 psi or 34.47 kPa), microporous polymeric membrane wherein the polymeric membrane has a thickness of between about 30 microns and about 500 microns, a porosity of between about 20% and about 80% and an average pore size of between about 15 nm and about 300 nm.</p>
+<p id="p-0014" num="0013">The polymeric membrane may be made from a material selected from a group consisting of polyvinylidene difluoride, polysulfone, polypropylene, cellulose, poly (methacrylic acid) functionalized polyvinylidene difluoride, poly (methacrylic acid) functionalized polysulfone, poly (methacrylic acid) functionalized polypropylene (PP) (poly/methacrylic acid) functionalized cellulose and combinations thereof. In one or more of the many possible embodiments of the antiviral; filter, the polymeric membrane includes a plurality of pores functionalized with a proteolytic enzyme, a virus denaturing agent and combinations thereof as noted elsewhere in this document.</p>
+<p id="p-0015" num="0014">In one or more of the many possible embodiments of the antiviral filter, the antiviral filter includes a coating of graphene oxide, lignin sulfonate or combinations thereof on the polymeric membrane. In one or more of the many possible embodiments of the antiviral filter, the antiviral filter includes a fluorescent virus tagging agent. The antiviral filter may be used for air filtration in an enclosed air filtration system.</p>
+<p id="p-0016" num="0015">In the following description, there are shown and described several preferred embodiments of the antiviral mask and antiviral filter. As it should be realized, the mask and filter are capable of other, different embodiments and their several details are capable of modification in various, obvious aspects all without departing from the method as set forth and described in the following claims. Accordingly, the drawings and descriptions should be regarded as illustrative in nature and not as restrictive.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWING FIGURES</heading>
+<p id="p-0017" num="0016">The accompanying drawing figures incorporated herein and forming a part of the patent specification, illustrate several aspects of the antiviral masks and antiviral filters and together with the description serve to explain certain principles thereof.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a schematic illustration of one possible embodiment of the antivirus mask.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is an overall graphical abstract.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is an SEM cross-section image of PVDF400 commercial membrane, composed of a PVDF layer and a polyester support layer.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>4</b></figref> are SEM images of N95 layers A, B, C, and D. In mask orientation, layer A is exposed to the open environment and layer D is exposed to the inside of the mask.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>5</b></figref> illustrates the experimental relationship between dry-air permeability and (A) the inverse of membrane thickness (via PVDF400 stacking to increase thickness) and (B) pore radius squared (via Durapore membranes with varying pore size) for water filtration membranes. Data were collected via dry air filtration using in-line flow cell with an area of 9.23 cm<sup>2</sup>. Measured flow rate measurements normalized at STP.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is an experimentally-determined linear relationship between air permeability and membrane property variable factor. PVDF400 (only PVDF layer), Durapore (diameter: 100 nm) and Durapore (diameter: 220 nm) were used to determine the linear relationship. Based on linear relationship and membrane variable factor, Isopore membrane air permeability was calculated and compared to experimental. All experiments were conducted using ultra-pure grade dry air. Measured flow rate measurements normalized at STP. X axis is overall membrane property parameter.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is (A) Water and (B) dry-air (0% RH) flux results for PVDF400 (MF), PS35 (UF), and NF270 (NF) membranes as a function of pressure. Water flux results were obtained using a dead-end cell with a membrane of 13.2 cm<sup>2</sup>. Air flux data were collected using in-line flow cell with an area of 9.23 cm<sup>2</sup>. Error bars represent standard deviations of triplicate data. Both horizontal axis (left and right) apply for all data displayed. Flow rate measurements normalized at STP.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is the dependence of dry-air flowrate and feed-pressure for surgical and N95 masks, a membrane support (polyester backing), and a PMAA-functionalized PVDF membrane. The PVDF PMAA membrane was tested in two orientations: with the surface facing the feed side (PVDF-PMAA) and the surface facing the permeate side (PVDF-PMAA Reverse). Data were collected using in-line flow cell with an area of 9.23 cm<sup>2</sup>. Flow-rate data were also collected without a membrane in the flow cell as a control. Flow rate measurements normalized at STP.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a PSL particle size distribution at 22.7&#xb0; C. at an atomizer inlet pressure of 0.7 bar and a relative humidity of 68%. Particle size quantified using DLS (volume-weighted measurements).</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is (A) PSL-COOH and PSL-GFP particle count per liter of feed and permeate air for a PVDF400 membrane after &#x2dc;50 min of filtration and (B) Volumetric air flux drop through PVDF400 membrane (caused by PSL-COOH and PSL-GFP capture/fouling) with respect to time of filtration at a relative humidity of 16-22%. Feed air concentration of particles are same as <figref idref="DRAWINGS">FIG. <b>10</b></figref>-A. Particle count measured using Met One Instruments' GT-<b>526</b>S particle counter. Flow rate measurements normalized at STP.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is (A) Schematic of ambient air filtration testing of membrane and mask material. Ambient air flux through PMAA-PVDF membrane (normal and reverse orientation), N95 commercial mask (forward orientation), and N95 separating layer under a consistent pressure with (B) continuous flow mode and (C) sinusoidal flow mode (30 seconds with flow on, 30 seconds with flow off). Beginning air flux was set at 7.50&#xb1;0.50 LMH (average breathing flux). Flow rate measurements normalized at STP.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is (A) Product concentration vs. time (B) Michaelis-Menten plot (C) Lineweaver-Burk plot for polypeptide (N-succinyl-Ala-Ala-Pro-Phe-p-nitroanilide) proteolysis by Subtilisin A enzyme. Initial substrate concentration was &#x2dc;0.8 mM with an enzyme concentration of 0.12 mg/L. Reaction was conducted at 37&#xb0; C. and a consistent pH of 7.8. pH was maintained by using a 50 mM Phosphate buffer. K<sub>M </sub>and V<sub>max </sub>were calculated to be 0.186 mM and 0.0362 mM/min, respectively.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a subtilisin A functionalization of PMAA-PVDF and unfunctionalized PVDF400 membranes with batch and convective mode. Membrane area was 9.32 cm<sup>2 </sup>and 100 mL of 0.1 mg/mL enzyme solution was used for immobilization process.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is an air permeability decrease of PVDF400 membrane after PMAA (1.5-3%) and Subtilisin functionalization with batch and convective immobilization method. Flow rate measurements normalized at STP.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a DSC thermograph of SGP solutions (1.5-2 mg/mL) with no treatment, heat treatment (70&#xb0; C. for 60 minutes), and Subtilisin treatment (1 mg/mL) at a heating rate of 0.5&#xb0; C./min. BSA (10% solution) native and heat treatment available as reference/standard.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is an average fluorescent emission (RFU) of SGP before and after 30 second exposure to Subtilisin-functionalized PMAA-PVDF membrane in the presence of hydrophobic-binding fluorescent dye, Sypro Orange. Analyzed using Synergy H1 Hydrid Reader. Minimum hydration of membrane with 1.35 &#x3bc;l of solution per mm<sup>2 </sup>of membrane surface during denaturation process.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is a schematic of aerosol generation and filter testing module utilized in testing aerosolized particle filtration through membrane filters. Schematic of Aerosol Generator (TSI, Model 3076) provided from TSI manual.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is the water contact angle of PVDF 400 and PMAA-PVDF membranes as a function of time. The sessile-drop method was used to measure contact angle and the water pH was &#x2dc;6. The PMAA-PVDF membranes had weight gain of 3.3% with PMAA functionalization. Error bars represent the standard deviation of 3 measurements taken at different locations on the samples.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>19</b></figref> shows the effect of relative humidity on membrane air permeability of PMAA-PVDF400 membranes. Dry air was introduced from an ultra-pure dry air tank and air with relative humidity of 68% was produced using a bubbler. Measured flow rate measurements normalized at STP.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. <b>20</b></figref> is an SEM image of (A) blank PVDF400 membrane and (B) a PVDF400 membrane after PSL aerosol filtration for 10 minutes. Average size of aerosol particles was 100 nm in diameter and the relative humidity of feed stream was 68%. Testing was done with an aerosol generator inlet pressure of 2.1 bar.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. <b>21</b></figref> is an SEM image of PVDF400 membrane after (A) PSL-COOH aerosol filtration of &#x2dc;50 minutes and (B) PSL-GFP aerosol filtration for &#x2dc;50 minutes. Average size of aerosol particles was 100 nm in diameter and the relative humidity of feed stream was 16-22%.</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. <b>22</b></figref> is a membrane fouling of PMAA-PVDF400 membrane after &#x2dc;500 L of ambient air filtration around 7.5 L/min with (A) 1 &#x3bc;m scalebar and (B) 5 &#x3bc;m scalebar.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. <b>23</b></figref> is an FTIR spectra of a PVDF 400 membrane, a PMAA-PVDF membrane, a Subt-PMAA-PVDF that underwent batch enzyme functionalization, and a Subt-PMAA-PVDF membrane that underwent convective functionalization. All functionalized membranes had a PMAA weight gain of 3.4%. Subt-PMAA-PVDF samples were analyzed after the flow of dry air through the membrane. All spectra are an average of 32 scans with a resolution of 4 cm<sup>&#x2212;1</sup>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0041" num="0040">Reference will now be made in detail to the present preferred embodiments of the antiviral masks and antiviral filters, examples of which are illustrated in the accompanying drawing figures.</p>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0042" num="0041">Reference is now made to <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref> which illustrate a new and improved antiviral mask <b>10</b>. Antiviral mask <b>10</b> includes a body <b>12</b> that includes an air permeable outer layer <b>14</b>, an air permeable inner support layer <b>16</b> and a breathable, microporous polymeric membrane <b>18</b> sandwiched between the inner and outer layers. Two securing straps <b>20</b> are connected to the body <b>12</b>. In the illustrated embodiment, one securing strap <b>20</b> extends from each side of the body <b>12</b> so as to be adapted to wrap around the ears and secure the antiviral mask <b>10</b> in place over the nose and mouth of the user in a manner consistent with state of the art face masks.</p>
+<p id="p-0043" num="0042">The outer layer <b>14</b> may be made from any appropriate material including, but not necessarily limited to woven or nonwoven cellulose, cellulose acetate, cellulose triacetate, polyester, polypropylene and PVDF. The inner layer <b>16</b> may be made from any appropriate material including, but not necessarily limited to woven or nonwoven polyester, cotton, cellulose, polysulfone, polypropylene and nylon.</p>
+<p id="p-0044" num="0043">In some embodiments of the antiviral mask and filter <b>10</b>, the polymeric membrane <b>18</b> and the inner, support layer <b>16</b> may be made as a single monolithic structure. In some embodiments of the antiviral mask and filter <b>10</b>, there is no outer layer <b>14</b> and the mask and filter consists of only the polymeric membrane <b>18</b> and the inner support layer <b>16</b>. In some embodiments of the mask and filter <b>10</b>, the mask and filter only consists of the outer layer <b>14</b> and the polymeric membrane <b>18</b>. In some embodiments of the mask and filter <b>10</b>, the mask and filter consists only of the polymeric membrane <b>18</b>.</p>
+<p id="p-0045" num="0044">The polymeric membrane <b>18</b> has a thickness of between about 30 microns and about 500 microns, a porosity of between about 20% and about 90%, an average pore size of between about 15 nm and about 300 nm and a water contact angle of between about 20&#xb0; and about 115&#xb0;. In some embodiments, the polymeric membrane <b>18</b> has a thickness of between about 100 microns and about 150 microns, a porosity of between about 20% and about 80%, an average pore size of between about 40 nm and about 200 nm and a water contact angle of between about 50 and about 100. In one particularly useful embodiment, the polymeric membrane <b>18</b> has a thickness of between about 50 microns and about 100 microns, a porosity of between about 40% and about 80%, an average pore size of between about 50 nm and about 150 nm and a water contact angle of between about 50 and about 180. The polymeric membrane <b>18</b> may have asymmetric pores and a low pressure drop across the membrane of less than about 5 psi or 34.47 kPa.</p>
+<p id="p-0046" num="0045">The polymeric membrane may be made from any appropriate polymeric material adapted to trap a virus and filter a virus from breathable air passing through the mask <b>10</b>, including the membrane <b>18</b>. Appropriate materials include, but are not necessarily limited to polyvinylidene difluoride, polysulfone, polypropylene, cellulose, poly (methacrylic acid) functionalized polyvinylidene difluoride, poly (methacrylic acid) functionalized polysulfone, poly (methacrylic acid) functionalized polypropylene (PP), poly (methacrylic acid) functionalized cellulose and combinations thereof.</p>
+<p id="p-0047" num="0046">Such polymeric membranes include a plurality of pores <b>22</b> of a size to allow the passage of breathable air while providing virus filtering activity. In the illustrated embodiment, at least one face (the upstream face <b>24</b> (note action arrow A showing air flow direction through mask)) and the internal walls <b>26</b> of the pores <b>22</b> are functionalized with a proteolytic enzyme, a virus denaturing agent and combinations thereof. Advantageously, the pores <b>22</b> provide a confined space within the internal pore walls <b>26</b> that promotes contact between any virus not captured on the upstream surface <b>24</b> of the membrane <b>22</b> and the proteolytic enzyme and/or virus denaturing agent <b>25</b> carried on the internal wall thereby denaturing that virus.</p>
+<p id="p-0048" num="0047">Substantially any proteolytic enzyme suitable for the intended purpose may be used for functionalization of the polymeric membrane including, but not necessarily limited to subtilisin, trypsin, papain, proteinase K, chymotrypsin, elastase and combinations thereof. Similarly, substantially any virus denaturing agent suitable for the intended purpose may be used for functionalization of the polymeric membrane including, but not necessarily limited to an antibody, a chemical agent that reduces a disulfide bond of the virus to an &#x2014;SH group, a RBD (receptor-binding domain)/ACE2 interaction inhibitor, heparin, glycyrrhizic acid and combinations thereof. Useful chemical agents for reducing disulfide bonds of a virus include, for example, dithiothreitol and tris (2-carboxyethyl) phosphine (TCEP).</p>
+<p id="p-0049" num="0048">One or more embodiments of the antiviral mask or filter <b>10</b>, may include a coating <b>28</b> of graphene oxide, lignin sulfate or combinations thereof which functions to provide added protections with known antiviral and antimicrobial properties. The coating <b>28</b> may include an antiviral agent. Appropriate antiviral agents included in the coating <b>28</b> include, but are not necessarily limited to quaternary amine, an essential oil derivative having antiviral properties, copper nanoparticles, gold nanoparticles and combinations thereof.</p>
+<p id="p-0050" num="0049">Such a coating may be provided on any or all of the surfaces of the outer layer <b>14</b>, the inner layer <b>16</b> and the polymeric membrane <b>18</b> so long as the pores <b>22</b> of the membrane remain open sufficiently to allow the wearer of the antiviral mask <b>10</b> to breath as necessary.</p>
+<p id="p-0051" num="0050">Substantially any embodiment of the antiviral mask and filter <b>10</b> may also include a fluorescent virus tagging agent <b>30</b> for the purpose of confirming the denaturing of the virus by the proteolytic enzymes or antibodies provided on the antiviral mask <b>10</b>. Substantially any fluorescent virus tagging agent known in the art to be useful for this purpose may be used including, for example, Sypro Orange, a hydrophobic-binding fluorescent dye.</p>
+<p id="p-0052" num="0051">It should be appreciated that the antiviral mask and antiviral filter <b>10</b> of this document may provide general protection against airborne viral infections. In addition, the antiviral mask and antiviral filter may be tailored, tuned or customized to provide protection against airborne viral infection from a specific virus. An antiviral mask or filter specifically targeting the SARS-CoV-2 virus is described in the following Experimental section of this document.</p>
+<heading id="h-0007" level="1">EXPERIMENTAL</heading>
+<p id="p-0053" num="0052">1. Introduction</p>
+<p id="p-0054" num="0053">The SARS-CoV-2 virus is a single strand RNA-enveloped &#x3b2;-coronavirus and is transmittable via close contact with an infected subject, primarily through the emission of hydrated aerosol particles. This virus, with an average size of 29.9 kb (2.99&#xd7;10<sup>&#x2212;6 </sup>nm<sup>2</sup>), contains several primary structural proteins, consisting of the small envelope glycoprotein (E), the nucleocapsid protein (N), the spike glycoprotein (S) and the membrane glycoprotein (M). The spike glycoprotein (SGP), with a molecular weight of roughly 150 kDa, has become the focus of SARS-CoV-2 research, as it facilitates the infection of the host cells via this transmembrane protein's proteolytic cleavage. After cleavage, the two primary subunits of the SGP facilitate viral host entry by attaching to the ACE2 receptor (S1 subunit) and initiating membrane fusion by uncovering the hydrophobic amino acid side chains for membrane fusion (S2 subunit). Based on this process, it could be hypothesized that the disruption/denaturing of the SGP would lead to the loss of the virus' transmissibility.</p>
+<p id="p-0055" num="0054">Proteins denaturation is a process that often consists of the unraveling or change in conformation of the protein's secondary and tertiary structure. This process results in the loss of the native protein configuration and functionality, which often exposes the protected hydrophobic regions of the protein as well. There are several methods for protein denaturation, such as heat treatment, urea treatment, acidic or basic pH treatment, and alcohol treatment, that denature mainly via the disruption of the protein's hydrogen or/and disulfide bonds. However, proteins' functionality is very sensitive to the conformation of the protein itself, thus indicating that other milder protein denaturation options could be available to result in protein function loss. Studies have indicated that enzyme treatment could be one such method, as it can possibly denature proteins by causing a small conformation change, such as a minute change in the dihedral angles of the amino acid residues. A serine protease enzyme with high stability, such as Subtilisin Carlsberg (used in laundry detergent industry), could be ideal for process, as the enzyme is stable under non-ideal conditions, the enzyme's functionality is well understood, and substrate-binding modifications are highly studied. Additionally, Subtilisin's flexible enzymatic process has been proven to be independent of the primary structure of the substrate's cleavage site, thus indicating that the enzyme should interact with a wide range of substrates, such as the SGP of SARS-CoV-2.</p>
+<p id="p-0056" num="0055">The efficacy of respiratory masks has been extensively investigated in recent years, due to the SARS-CoV-2 pandemic. The N95 mask, which primarily consist of multi-layered non-woven polypropylene (PP), is the most commonly-used mask in the healthcare industry, yet it does not offer consistent prevention of virus transmission. Lee et al. found that only 70% of the 45 tested N95 masks (4 different models) offered greater than 90% rejection of NaCl aerosol particles of coronavirus-like size (40-200 nm), thus showing a large potential danger for virus transmission. Polymeric membranes, such as poly(vinylidene fluoride) (PVDF), could be appropriate to mitigate this danger and offer greater aerosol particle capture than N95 masks, due to the ability to precisely control the membrane pore size and structure. PVDF membranes with exact variables (thickness, porosity, pore size) could be developed for appropriate air permeability and pressure drop, as well as consistently high capture of SARS-CoV-2 virus-size particles (60-140 nm). Additionally, further transmission protection could be incorporated via enzyme functionalization of membrane surface and pores. This functionalization process could allow for inactivation of SARS-CoV-2 droplets that reach the membrane filter surface via SGP denaturation.</p>
+<p id="p-0057" num="0056">The enzyme immobilization limit and strength can be further enhanced with the addition of a non-toxic polymer, such as poly(methacrylic acid) (PMAA) with a pKa of &#x2dc;5, via surface and pore functionalization. Due to this polymer's negative charge above its pKa for the carboxylic acid groups, PMAA is able to electrostatically attract Subtilisin A enzymes, which are positively charged below their isoelectric point (pI) of 9.4. A similar method has been used in the past to incorporate negatively-charged enzymes into membranes after the addition of positively-charged poly(allylamine hydrochloride) into a membrane domain containing carboxylic acid groups. Furthermore, the presence of water has been proven to be necessary for enzyme structure and function, thus functionalization with PMAA, which has the ability to retain water, could enhance the stability and function longevity of the immobilized enzymes.</p>
+<p id="p-0058" num="0057">This Experimental section relates to the development of a membrane mask and air filter with enhanced aerosol particle capture, as well as the ability to inactivate coronaviruses (specifically, SARS-CoV-2) through enzyme functionalization, greatly reducing both individual transmissibility of the virus and the disease spread. Specific membrane variables (thickness, porosity, pore size) appropriate for mask and air filtration applications were developed and compared to commercially available respiratory masks. The immobilization of various enzymes (Subtilisin, Trypsin) onto PVDF and PMAA-PVDF surfaces was analyzed with different functionalization methods (batch, convective flow). The membrane's enhanced particle filtration and capture (based on particle size) abilities were tested and compared to commercial N95 masks. The denaturation of the SGP of SARS-CoV-2 (wild type) by enzyme-functionalized membranes was tested at low hydration.</p>
+<p id="p-0059" num="0058">2. Materials and Methods</p>
+<p id="p-0060" num="0059">2.1. Chemicals, Masks and Membranes</p>
+<p id="p-0061" num="0060">Full-sized commercial polyvinylidene fluoride microfiltration membranes (PVDF-400, porosity: 0.4, thickness: 165 &#x3bc;m, average pore diameter: 100 nm), polysulfone ultrafiltration membranes (PS35, porosity: 0.035, thickness: 224 &#x3bc;m, average pore diameter: 15-20 nm), and thin-film composite nanofiltration membranes (NF270, thickness: 152 &#x3bc;m, average pore diameter: 0.8 nm) were provided by Solecta, Inc., Oceanside, Calif. Polycarbonate Isopore membranes (diameter-100 nm) were purchased from Millipore Sigma (GTTP04700). Hydrophilic PVDF Durapore membranes were purchased from Millipore Sigma (100 nm: VVLP09050, 220 nm: GVWP09050). NIOSH-approved N95 masks were purchased from Fastenal (SKU: 1049938) and surgical masks were purchased from Yantai Fushuntai Biotechnology Co.</p>
+<p id="p-0062" num="0061">Subtilisin A/Carlsberg was purchased from Sigma Aldrich (P5380) and N-Succinyl-Ala-Ala-Pro-Phe p-nitroanilide, a polypeptide that has a product (4-nitroanaline) which is easily measured via UV-Visible spectroscopy, was purchased from Sigma Aldrich (S7388). 4-nitroanaline (to make standard curve for concentration analysis to test enzyme activity) was purchased from Millipore Sigma (185310). For membrane and pore functionalization, potassium persulfate (Acros Organics, CAS: 7727-21-1), methacrylic acid (stab. with 250 ppm 4-methoxyphenol, Alfa Aesar, CAS: 79-41-4), and N,N&#x2032;-Methylenebisacrylamide (Alfa Aesar, CAS: 110-26-9) were purchased. Technical-grade ISOPAR-G was bought from Univar. Sypro Orange fluorescent gel dye was purchased from Sigma Aldrich (S5692). Spike glycoprotein of SARS-CoV-2 was made by plasmid transfection into mammalian cells and purchased from Dr. Kee-Yuen Martin Chow from the College of Medicine at the University of Kentucky. Unfunctionalized polystyrene latex nanoparticles (average diameter: 100 nm) were purchased from Sigma Aldrich (LB1) and COOH-functionalized polystyrene latex nanoparticles (average diameter: 100 nm) were purchased from Bangs Laboratories (PCO2004). Green fluorescent protein (GFP) with 6-histidene tagging at the N-terminus was made in Dr. Yinan Wei's lab from the Department of Chemistry at the University of Kentucky. For nickel functionalization of PSL-COOH particles for his-tag attachment, nickel (II) chloride hexahydrate was purchased from Sigma Aldrich (7791-20-0).</p>
+<p id="p-0063" num="0062">2.2 Membrane Functionalization</p>
+<p id="p-0064" num="0063">2.2.1 PMAA Functionalization of PVDF</p>
+<p id="p-0065" num="0064">PMAA was introduced into the commercial PVDF 400 membranes using a technique similar to one detailed previously for the creation of membranes containing PAA or PMAA. PVDF 400 membranes were weighed before this process. A polymerization solution in deoxygenated water (pH of 5.3-6.5) was then created from methacrylic acid (MAA; monomer), N,N&#x2032;-Methylenebisacrylamide (MBA; crosslinker), and potassium persulfate (KPS; initiator). To limit polymerization before the introduction of the solution into the membrane pores, MAA and MBA were dissolved initially in a separate solution from the initiator; the two solutions were combined prior to being exposed to the membranes. The weight fraction of MAA in the final solution varied from 0.06-0.15 and the amount of MBA and initiator were each equivalent to 1 mol % relative to MAA. Using vacuum filtration, solutions were drawn through the pores of the membrane multiple times through the top of the membrane and a few through the back. As a result, PMAA was polymerized into the walls of the pores where it could subsequently immobilize Subtilisin Carlsberg within the pores. To limit the polymerization on the surface, residual solution was wiped away from the membrane. Membranes were then wrapped in a plastic wrapping, clamped between Teflon plates, and heated under a vacuum (P&#x2dc;0.6-0.7 bar vacuum) for 1.5-1.7 hours. After this time, the wrapped membranes were removed from between the plates and heated again under vacuum or at atmospheric pressure for &#x2dc;30 minutes. Lastly, membranes were removed from the plastic wrappings and placed in the oven under vacuum or at atmospheric pressure for 15-30 min. During the time in the oven, membranes were heated to &#x2dc;80&#xb0;-90&#xb0; C. After these reaction steps, membranes were cooled, rinsed with DI water, and dried. A final mass value was recorded to determine the amount of PMAA added to each membrane.</p>
+<p id="p-0066" num="0065">2.2.2 Enzyme Immobilization/Functionalization</p>
+<p id="p-0067" num="0066">Both PVDF 400 and PMAA-PVDF membranes were convectively immobilized with Subtilisin Carlsberg. For batch immobilization mode, 100 mL of 0.1 mg/mL solution of Subtilisin was stirred in a water filtration cell for 60 minutes. For convective immobilization mode, membranes were compacted once with a basic solution of sodium hydroxide in deionized water (pH=9) at 1 mL/min for 60 minutes and then again with deionized water at 1 mL/min for 60 minutes. The membranes were rinsed and immobilized with a 0.1 mg/mL solution of Subtilisin Carlsberg at approximately 0.67 ml/min for 60 minutes. Mass of enzyme immobilized was determined by analyzing the Subtilisin concentration of the functionalizing solution before and after the immobilization process with the UV-6300PC Double Beam Spectrophotometer (VWR) at a wavelength of 280 nm.</p>
+<p id="p-0068" num="0067">2.3 Air Filtration</p>
+<p id="p-0069" num="0068">2.3.1 Dry Air Filtration</p>
+<p id="p-0070" num="0069">Dry air filtration experiments were conducted using applied pressure from compressed extra dry grade air (Catalog Number: 11, American Welding &#x26; Gas). The humidity of the compressed dry air was confirmed using an in-line wireless humidity sensor (SensoNODE Blue-Parker). Polycarbonate in-line filter holders (In-Line Filter Holders, 47 mm, Pall Laboratory) were used as membrane/mask filtration cells. Air flow rate through the membrane was measured at various applied pressures using a digital in-line flowmeter (TSI 4043) to calculate membrane permeability. For commercial membranes (PVDF 400, PS35, NF270, Durapore, Isopore), air flow rate experiments were conducted in normal and reverse orientations. For example, normal orientation for PVDF is the thin PVDF layer exposed to the air inlet side, while the open polyethylene (PE) support layer is exposed to the outlet side, and vice versa for the reverse orientations. For commercial masks, air flow rate experiments were conducted in a normal orientation as well, meaning that the side of the mask that would be exposed to the ambient environment was the air inlet side, while the side of the mask that would be exposed to the human's mouth and nose was the air outlet side. The pressure drop (&#x394;P) across the membranes/masks were measured using a pressure manometer (Catalog Number: 33500-086, Manometer Pressure/Vacuum Gauge-VWR International) connected directly before and after the filter holder cell.</p>
+<p id="p-0071" num="0070">2.3.2 Ambient Air Filtration</p>
+<p id="p-0072" num="0071">The membrane/mask was placed in a filter holder (In-Line Filter Holders, 47 mm, Pall Laboratory) for the air flow inlet and air flow was generated using a vacuum pump (HCPS-Copley). A Next Generation Impactor (NGI) was included to mimic human lung pressure drop. A steady air flow rate of approximately 7.5 L/min was initially set using a critical flow controller (TPK2000-Copley) at a temperature of 23.5&#xb0; C. and the decrease in air flow through the membrane/mask was monitored using the digital flow meter. Sinusoidal on/off flow rate testing was done over 1-minute intervals (30 seconds with flow on, 30 seconds with flow off).</p>
+<p id="p-0073" num="0072">2.4 Aerosol Particle Generation, Size Analysis, and Particle Count</p>
+<p id="p-0074" num="0073">Aerosolized PSL particles were generated using the TSI 3076, a collision-type aerosol generator that introduces PSL from a solution to a polydisperse aerosol. 2.1 bar of applied pressure was fed into the generator for aerosolization. The size of PSL particles were quantified using a dynamic light scattering (DLS) particle analyzer (Litesizer 500-Anton Paar). For permeate size distribution readings, 3 mL samples of the permeate were taken after bubbled into DI water (<figref idref="DRAWINGS">FIG. <b>17</b></figref>) and size measurements were volume-weighted with confirmed baseline within 1.000&#xb1;0.01. A run time of 10 minutes was allowed to ensure adequate capture of PSL aerosol particles in the bubbled water. Met-One Instruments' GT-<b>526</b>S particle counter was used to count concentration of aerosolized PSL particles in air, categorized into different particle sizes. The membrane permeate after aerosol feed flow was captured in a closed-off module to allow for accurate particle count.</p>
+<p id="p-0075" num="0074">2.5 Enzyme Reactions</p>
+<p id="p-0076" num="0075">2.5.1 Solution Phase Reaction</p>
+<p id="p-0077" num="0076">The activity of the Subtilisin enzyme was tested in a solution phase with a polypeptide (N-succinyl-Ala-Ala-Pro-Phe-p-nitroanilide) that, upon proteolysis, releases 4-nitroanaline, which absorbs light at wavelength of 410 nm. Initial substrate concentration was 0.8 mM with an enzyme concentration of 0.12 mg/L. The reaction was conducted at 37&#xb0; C. and a consistent pH of 7.8. pH was maintained by using a 50 mM Phosphate buffer. Activity was characterized with calculated values of K<sub>M </sub>and V<sub>max</sub>. Wavelength readings were obtained using the UV-6300PC Double Beam Spectrophotometer (UV-Vis).</p>
+<p id="p-0078" num="0077">2.5.2 SGP Denaturation (Heat, Enzyme) Via Dynamic Scanning Calorimetry (DSC)</p>
+<p id="p-0079" num="0078">The confirmation of the proteins (denatured versus native) was determined by obtaining thermographs of protein solutions using a dynamic scanning calorimeter (DSC-Q200 by TA Instruments). The existence of a thermograph peak (temperature value confirmed by literature) indicated that the protein was active before DSC analysis, while the absence of a specific peak indicated that the protein was denatured before DSC analysis via a denaturing treatment method.</p>
+<p id="p-0080" num="0079">BSA protein solutions were initially tested to determine if this method was appropriate for determining protein denture by comparing the thermographs of a stock BSA solution with a heat-treated BSA solution. The heat treatment of BSA consisted of heating the solution to 90&#xb0; C. for 60 minutes. SGP solutions of 1-2 mg/mL were tested to determine if Subtilisin denatures the protein in a similar manner as heat or alcohol treatment does. The thermograph of the SGP stock solution was compared to thermographs of a heat-treated SGP solution, a subtilisin-treated SGP solution (1 mg Subtilisin/mL), and an alcohol-treated SGP solution (50% alcohol). Heat treatment of SGP was conducted at 70&#xb0; C. for 60 minutes. The lower limit of protein concentration in the sample is 0.5 mg/mL.</p>
+<p id="p-0081" num="0080">2.5.3 Enzyme-Functionalized Membrane Reaction (Solution Phase)-Sypro Orange</p>
+<p id="p-0082" num="0081">Sypro Orange, a dye that produces a fluorescent signal upon hydrophobic-domain interaction, was utilized to identify SGP denaturation. For thermal denaturation, SGP in 20 mM HEPES ((4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid) buffer was heated at 70&#xb0; C. for 30 minutes. After the heating process, the solution was allowed to return to ambient temperature (23&#xb0; C.) and was then combined with Sypro Orange. The heated sample was compared to an unheated sample of SGP combined with Sypro Orange in the same HEPES buffer. For each sample, 6 &#x3bc;L of 0.3 mg/mL SGP was combined with 30 &#x3bc;L of 20 mM HEPES buffer and 4 &#x3bc;L of 50&#xd7; Sypro Orange solution. The fluorescent intensity was measured using a BioTek Synergy 96 well plate reader. 40 &#x3bc;L total volume was used with an excitation and emission wavelength of 483 nm and 568 nm, respectively, at 25&#xb0; C.</p>
+<p id="p-0083" num="0082">In enzymatic denaturation of SGP, Subtilisin Carlsberg, a commonly used non-selective serine protease, was used to denature the SGP. To prevent the quenching interaction of Sypro Orange with hydrophobic segments of Subtilisin, membrane bound subtilisin was used such that SGP could be introduced in a liquid drop onto the surface of the membrane and interact with the enzyme without allowing the Subtilisin to enter the solution. As Subtilisin is held to the membrane with hydrogen bonding (not covalently bound), it is expected that there will be minor diffusion of Subtilisin into a water droplet on the membrane surface. To investigate the denaturation event while controlling for the diffusion of subtilisin into the water droplet, four different samples were made. Sample 1: 6 &#x3bc;L of 50&#xd7; Sypro Orange solution (stock 5000&#xd7;) in 34 &#x3bc;L of 1&#xd7; Phosphate Buffered Saline (PBS) buffer. Sample 2: 6 &#x3bc;L of 50&#xd7;Sypro Orange solution in 34 &#x3bc;L of 1&#xd7;PBS buffer that had been placed on a Subtilisin immobilized PMAA-PVDF400 membrane for 30 seconds. Sample 3: 4 &#x3bc;L of 0.3 mg/mL Subtilisin (in PBS) that had been placed on a Subtilisin immobilized PMAA-PVDF400 membrane for 30 seconds, 6 &#x3bc;L of 50&#xd7;Sypro Orange solution, and 30 &#x3bc;L of 1&#xd7;PBS buffer. Sample 4: 4 &#x3bc;L of 0.3 mg/mL Subtilisin (in PBS) that had not contacted Subtilisin, 6 &#x3bc;L of 50&#xd7;Sypro Orange solution, and 30 &#x3bc;L of 1&#xd7;PBS buffer.</p>
+<p id="p-0084" num="0083">3. Results and Discussion</p>
+<p id="p-0085" num="0084">3.1. Membrane Characterization</p>
+<p id="p-0086" num="0085">Water filtration membranes are used for a variety of purposes, ranging from suspended solid separation (microfiltration-MF) and colloidal macromolecule filtration (ultrafiltration-UF) to the separation of low molecular weight molecules and monovalent salts (nanofiltration-NF). These different types of water filtration membranes are utilized for varying purposes, due to their unique flow profiles, transfer mechanisms, and pore size range. Each membrane type has a flow profile that is controlled by its respective membrane properties (porosity, pore diameter, thickness), which were experimentally quantified for the commercial membranes of this research to better understand the fluid/air flow regime through these membranes (Table 1).</p>
+<p id="p-0087" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>The classification, surface porosity, thickness, and mean pore diameter</entry>
+</row>
+<row>
+<entry>of three types of commercial membranes used in this study.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Thickness</entry>
+<entry>Mean Pore</entry>
+</row>
+<row>
+<entry>Membrane</entry>
+<entry>Membrane Type</entry>
+<entry>Porosity</entry>
+<entry>(&#x3bc;m)</entry>
+<entry>Diameter (nm)</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="49pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>PVDF400</entry>
+<entry>Microfiltration (MF)</entry>
+<entry>0.4</entry>
+<entry>165</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry>PS35</entry>
+<entry>Ultrafiltration (UF)</entry>
+<entry>0.03</entry>
+<entry>224</entry>
+<entry>15</entry>
+</row>
+<row>
+<entry>NF270</entry>
+<entry>Nanofiltration (NF)</entry>
+<entry>NA</entry>
+<entry>152</entry>
+<entry>0.8</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0088" num="0086">Many water filtration membranes are composed of two layers: a thin selective layer that is utilized for the separation/filtration process and an open support structure with a higher thickness. This design allows for (1) reduction of applied pressure needed for flow and (2) a support layer to reduce the probability of pore structure disruption during high-pressure filtration. The commercial MF membrane, PVDF400, follows this structure and is composed of a PVDF separating layer (thickness&#x2dc;40 &#x3bc;m) and a polyester support layer (thickness-125 &#x3bc;m), which was confirmed with SEM imaging (<figref idref="DRAWINGS">FIG. <b>3</b></figref>).</p>
+<p id="p-0089" num="0087">Contact angle is an important measure of membrane fouling rate and a common test for mask material. Mask material should have a relatively high hydrophobicity to allow a high rate of material drying, which is directly correlated to a lower virus transmission rate. The contact angle of blank PVDF400 was relatively high, starting at 86.2&#xb0;&#xb1;0.5&#xb0; (t=2 seconds) and staying over 80&#xb0;, indicating hydrophobic behavior (<figref idref="DRAWINGS">FIG. S<b>1</b></figref>). Upon PMAA functionalization, though, the membrane exhibits a high contact angle initially (72.2&#xb0;&#xb1;3.2&#xb0;), but dissipates to 27.6&#xb0;&#xb1;11.8&#xb0; within 38 seconds of drop deposition, indicating that PMAA functionalization introduces hydrophilic behavior into the membrane system. The hydrophilic/hydrophobic balance may be important for viral deactivation aspects.</p>
+<p id="p-0090" num="0088">3.2. Effect of Membrane Characteristics on Flow Rate</p>
+<p id="p-0091" num="0089">The air and particle flow through respiratory face mask have been extensively studied to understand aerosol particle filtration efficiency and pressure drop across the transport medium with the goal of determining a protection factor (PF) for the respective material. N95 respiratory masks and surgical masks are most commonly fabricated from multi-layer non-woven polypropylene (PP) (<figref idref="DRAWINGS">FIG. <b>4</b></figref>), and, due to the random nature of this non-woven system, the effects of certain mask variables (e.g. thickness) are more challenging to predict. Kumar and Lee reported that the complex flow of air through these mask materials can be characterized by complex mass transfer equation, derived from the system's momentum balances.</p>
+<p id="p-0092" num="0090">Fluid flow through a porous microfiltration or ultrafiltration membrane can be expressed in simpler terms than existing respiratory face masks, due to the sieving transport flow occurring through pores of similar and controlled diameter. Due to this membrane structure, the effect of membrane variables (thickness, porosity, pore size) on flow can be predicted more accurately than that of mask materials. Convective flow of an incompressible fluid through a porous membrane, due to a differential pressure driving force, can be expressed by the Hagan Poiseuille equation, applied to a pressure-driven pore flow membrane model:</p>
+<p id="p-0093" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+ <mtable>
+  <mtr>
+   <mtd>
+    <mrow>
+     <mi>J</mi>
+     <mo>=</mo>
+     <mrow>
+      <mfrac>
+       <mrow>
+        <mi>&#x3b5;</mi>
+        <mo>&#x2062;</mo>
+        <msubsup>
+         <mi>r</mi>
+         <mi>p</mi>
+         <mn>2</mn>
+        </msubsup>
+       </mrow>
+       <mrow>
+        <mn>8</mn>
+        <mo>&#x2062;</mo>
+        <mi>&#x3bc;</mi>
+       </mrow>
+      </mfrac>
+      <mo>&#xd7;</mo>
+      <mfrac>
+       <mrow>
+        <mi>&#x394;</mi>
+        <mo>&#x2062;</mo>
+        <mi>P</mi>
+       </mrow>
+       <mi>&#x3b4;</mi>
+      </mfrac>
+     </mrow>
+    </mrow>
+   </mtd>
+   <mtd>
+    <mrow>
+     <mo>(</mo>
+     <mn>1</mn>
+     <mo>)</mo>
+    </mrow>
+   </mtd>
+  </mtr>
+ </mtable>
+</math>
+</maths>
+</p>
+<p id="p-0094" num="0091">where J is volumetric flux, &#x3b5; is membrane porosity, &#x3bc; is the dynamic viscosity of the flowing liquid, r<sub>p </sub>is the average pore radius, &#x394;P is pressure difference across the membrane, and &#x3b4; is the thickness of the membrane. From this equation, a positive relationship between flux and porosity, as well as pore radius, can be established, while a negative relationship between flux and thickness is observed.</p>
+<p id="p-0095" num="0092">Air flow through a porous membrane, though, cannot be expressed using the Hagan Poiseuille equation, as it does not state flow as a function of density. The density of air, as a compressible fluid, is affected by different variables, such as temperature, pressure, and relative humidity, which can vary significantly in pressure-drive flow systems. Air flow through porous membranes must take density into account, similarly to Kumar and Lee's momentum balance, thus one can use Ergun-type equations (commonly used for packed bed column pressure drop calculations) could be applied to membrane air permeation situations.</p>
+<p id="p-0096" num="0093">The creation of a membrane-based air filter is highly dependent on the breathability and air flow through that material and must be comparable to the respective values of commercially-available face masks. To reach these values, the control of certain membrane variables can be utilized to obtain predictable flux changes, such as a change in membrane thickness resulting in a proportionate change in volumetric/mass flow rate through the membrane (Eqn. 1 and 2). To test the permeability control by membrane variables, as well as the validity of the Ergun equation, the linear relationship between membrane permeability and certain variables (thickness, pore radius) were tested experimentally for commercial water filtration membranes. The relationship of thickness was tested by only changing the thickness of PVDF400 membranes (via membrane stacking) while retaining consistent porosity and mean pore size (<figref idref="DRAWINGS">FIG. <b>5</b>A</figref>), while the relationship of pore size was tested by testing two different commercial PVDF Durapore membranes of varying pore size, but same porosity and thickness (<figref idref="DRAWINGS">FIG. <b>5</b>B</figref>). The obtained R<sup>2 </sup>value of 0.9995 and 0.9088 for inverse thickness and pore radius squared, respectively, indicate a strong linear relationship between these variables and air permeability, thus confirming the ability to control the air permeability of water filtration membranes with changes in membrane parameters.</p>
+<p id="p-0097" num="0094">MF membranes are often characterized by their water or air permeability, but there has not been work on mathematically determining the air permeability of a porous commercial water filtration membrane, such as PVDF400. The relationship (resulting in precise control of air permeability) can be utilized to predict the air flow through almost any porous membrane material with the availability of accurate values for porosity, pore radius, and thickness. The tortuosity of membranes will have an effect on the air permeability, but, due to the complexity of obtaining values for tortuosity, its effect will not be considered. The air permeability of various MF membranes was experimentally determined and normalized with respect to porosity, pore radius, and thickness to estimate the air permeability of a Polycarbonate Isopore membrane (porosity: 0.138, pore diameter: 220 nm, thickness: 45 &#x3bc;m) (<figref idref="DRAWINGS">FIG. <b>6</b></figref>). Based on a linear relationship between air permeability (kg/m<sup>2</sup>/hour) and a correlation factor for membrane variables (porosity, pore radius, thickness), the Isopore membrane was estimated to have an air permeability of 1921 kg/m<sup>2</sup>/hour. This, compared to the experimental Isopore permeability of 2206&#xb1;45 kg/m<sup>2</sup>/hour, indicates that the air permeability of a porous water filtration membrane can be accurately estimated using membrane variable of porosity, pore radius, and membrane thickness.</p>
+<p id="p-0098" num="0095">3.3 Comparison Between Membrane and Mask Performance&#x2014;Flow and Aerosol</p>
+<p id="p-0099" num="0096">Filtration</p>
+<p id="p-0100" num="0097">Commercial water filtration membranes, containing hydrophobic or hydrophilic characteristics, have been extensively studied for virus particle separation/capture in liquid media, but their efficiency for aerosol separation/capture in air phase has not been previously investigated. The dry air flux behavior of commercial PVDF400 (MF), PS35 (UF), and NF270 (NF) membranes were experimentally determined and compared to their corresponding water fluxes (<figref idref="DRAWINGS">FIG. <b>7</b></figref>). Similar trends were observed in the dry air flux to that of the water flux, such as MF membranes having the highest permeability and a linear correlation between applied pressure and air flux, thus indicating that these water filtration membranes could be appropriate for transition from water to air flow and aerosol capture applications.</p>
+<p id="p-0101" num="0098">The PVDF400 MF membrane was determined to be optimal for mask usage because of its superior air permeability (compared to that of UF and NF membranes) without having an average pore size greater than 100 nm and because PVDF membranes have been proven to have high aerosol filtration capabilities upon proper design. The dry air permeability of this MF membrane, along with only the polyester support, was experimentally compared to commercial respiratory facemasks (surgical mask, N95) (<figref idref="DRAWINGS">FIG. <b>8</b></figref>). These experiments were done with dry air and it was proven that the change of air permeability of PVDF membranes using air of different RH values was proven to be negligible (within standard deviation) (<figref idref="DRAWINGS">FIG. <b>19</b></figref>). The air permeability of the N95 and surgical mask are superior to that of the commercial PVDF400 membrane, indicating that a PVDF membrane with different properties would be ideal to match the capabilities of these commercial masks.</p>
+<p id="p-0102" num="0099">It has been proven that PVDF membranes can be fabricated specifically to have high gas permeabilities, indicating that PVDF400 performance is not the upper limitation of this material's air permeability. Using previously-determined relationships (<figref idref="DRAWINGS">FIG. <b>5</b></figref> &#x26; <figref idref="DRAWINGS">FIG. <b>6</b></figref>) and membrane variables from existing commercial membranes (Table S1), mathematical modelling was conducted in order to determine values for the membrane variables of a PVDF membrane that can match the air flux of commercial N95 masks at the average human breathing pressure of 0.08 bar. Two different membrane designs are proposed: one with no pore size change (optimal for SARS-CoV-2 virus capture) and one including pore size change (Table 2). The air flow rates of these proposed membranes indicate that PVDF MF membranes can be easily fabricated to have comparable air fluxes to that of respiratory face masks at human breathing pressures.</p>
+<p id="p-0103" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Proposed membrane variables for calculated membrane air flux</entry>
+</row>
+<row>
+<entry>at 0.08 bar. Commercial N95 mask found to be 1.14E+06</entry>
+</row>
+<row>
+<entry>LMH at 0.08 bar. Thickness stated does not include polyester</entry>
+</row>
+<row>
+<entry>support layer. Flow rate measurements normalized at STP.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>PVDF</entry>
+<entry/>
+<entry>Thickness</entry>
+<entry>Mean Pore</entry>
+<entry>Air flux</entry>
+</row>
+<row>
+<entry>Membrane</entry>
+<entry>Porosity</entry>
+<entry>(&#x3bc;m)</entry>
+<entry>Diameter (nm)</entry>
+<entry>at 0.08 bar</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="42pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Calculated</entry>
+<entry>0.7</entry>
+<entry>12.5</entry>
+<entry>100</entry>
+<entry>6.00E+05</entry>
+</row>
+<row>
+<entry>Membrane A</entry>
+</row>
+<row>
+<entry>Calculated</entry>
+<entry>0.7</entry>
+<entry>12.5</entry>
+<entry>220</entry>
+<entry>1.01E+06</entry>
+</row>
+<row>
+<entry>Membrane B</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0104" num="0100">Aerosolized particles are the primary means of transport from one individual to another for the SARS-CoV-2 virus and can be captured by a material via four main mechanisms: inertial impaction, direction interception, diffusional interception, and electrostatic effects. The mechanism that occurs can vary greatly, as it is affected by the size of particle, type/composition of material, and, in the instances of membranes, which pore the particle is entering through. For respiratory face masks, aerosol filtration and capture are crucial for the protection of the wearer and has been highly research in recent years. For such testing, aerosolized polystyrene latex (PSL) and sodium chloride (NaCl) particles are commonly used.</p>
+<p id="p-0105" num="0101">In this research, PVDF400 membranes were functionalized with PMAA in order to increase the enzyme functionalization capacity of the membrane system. Prior to enzyme testing, PSL particles with a size similar to the SARS-CoV-2 virus (diameter-100 nm) were utilized to test the aerosol filtration efficiency of the membrane material. More specifically, the permeate size distribution of aerosolized PSL particles through PMAA-PVDF membranes were experimentally determined and compared to commercial N95 and surgical masks (<figref idref="DRAWINGS">FIG. <b>9</b></figref>). PMAA-PVDF membranes in normal orientation were observed to have a significantly lower particle size distribution than that of commercial N95 and surgical masks, while the same membrane in reverse orientation was observed to have similar permeate particle size distributions as that of N95 masks. This indicates that PMAA-PVDF membranes could offer greater protection to the individual from coronavirus (ex. SARS-CoV-2) particles than N95 and surgical masks, due to its more selective filtration in regard to particle size. The commercial surgical mask displayed a permeate particle size distribution similar to that of the feed, indicating that surgical masks offer little to no protection from SARS-CoV-2 particles, which has been observed in other studies. Material surface and cross-section characterization was conducted before and after aerosol testing using SEM (<figref idref="DRAWINGS">FIG. <b>20</b></figref>).</p>
+<p id="p-0106" num="0102">The SARS-CoV-2 virus particle has several surface proteins, which could negatively affect the filtration efficiency and mask performance by giving the particles a &#x201c;sticky&#x201d; nature, thus fouling the membrane more easily. The permeate particle count of PSL particles with COOH groups was experimentally determined through a PVDF400 membrane and compared to the particle count of PSL particles functionalized with GFP (His-Tag attachment) (<figref idref="DRAWINGS">FIG. <b>10</b>A</figref>). It was found that, even after processing approximately 150,000 100-nm PSL-COOH particles/L for 50 minutes, the permeate air was detected to contain virtually no 100 nm particles (less than 10). The particle counter is limited in that the lowest reported size is 300 nm particles, but the feed readings (150,000 100-nm particles/L) indicate that this level of measurement can be utilized to compare 100-nm particle concentrations. There was no statistically significant difference found between permeate particle count between PSL-COOH and PSL-GFP particles, indicating that, at these conditions, surface proteins do not negatively affect particle filtration efficiency (count-based) of PVDF-based filters or simply that there are not enough surface proteins to see an effect. The air flux of the membrane over time of processing aerosolized PSL-COOH and PSL-GFP particles was also investigated (<figref idref="DRAWINGS">FIG. <b>10</b>B</figref>). The air flux drop of membranes that treated PSL-COOH particle air was found to be slightly greater than that of PSL-GFP-treated membranes. Both findings are strong indications that PVDF membranes can be utilized for respiratory face masks and closed-environment air filters for high-efficiency treatment of air with large concentrations of virus-based aerosol contaminants. Particles captured by the surface of the membrane were characterized by SEM (<figref idref="DRAWINGS">FIGS. <b>21</b></figref>-A and <b>21</b>-B).</p>
+<p id="p-0107" num="0103">In realistic scenarios, the feed air will not contain PSL particles of similar size, but more complex particles of varying sizes and shape. To test the membrane's longevity of use as an aerosol filter material, an ambient air testing module with controlled air flow rate was utilized (<figref idref="DRAWINGS">FIG. <b>11</b></figref>-A). Using the critical flow controller with no breathing pattern, the flow rate though PMAA-PVDF and N95 material was set to an average breathing flow rate of humans (calculated from literature) and was monitored over time when passing ambient air using a vacuum pump (<figref idref="DRAWINGS">FIG. <b>11</b></figref>-B). Severe fouling of the N95 mask was observed with a 33.7% decrease in flow rate after 1273 L of ambient air filtration, while the PMAA-PVDF membrane showed minimal drop at normal and reverse orientation with 6.3% and 0.4% decrease in flow rate for normal and reverse orientation, respectively, after about 1200 L of ambient air filtration. This information can be utilized to estimate the longevity of use in a mask application with exhalation valve (inlet flow only). With an average breathing rate of 18 breaths/min, a 70-kg individual with an average tidal volume of 500 mL per breath could wear a PMAA-PVDF mask for multiple days (2 hours of daily use) without showing a significant drop in mask breathability, while the N95 mask could become difficult to use after a single day of use. This indicates that PMAA-PVDF masks could be used for longer periods before disposal, thus helping combat higher levels of plastic pollution that is present during periods of increased PPE usage. This equipment's critical flow controller can run for precise sinusoidal-like time frames to mimic inhalation breathing patterns, which was utilized to measure material air flux drop over time and compare to continuous flow mode (<figref idref="DRAWINGS">FIG. <b>11</b></figref>-C). PMAA-PVDF membranes displayed a slight flow rate drop during sinusoidal on/off cycles (30 second intervals), similar to continuous flow, while the separating layer of the N95 mask displayed a significantly lower flow drop during on/off cycles than that of continuous flow mode. Ambient particle fouling of membrane and mask material was characterized using SEM (<figref idref="DRAWINGS">FIG. <b>22</b></figref>).</p>
+<p id="p-0108" num="0104">Facilitating a greater understanding of how aerosolized particles are captured and retained in the membrane filters allows for predictions of long-term use and the upper-limitations of processing concentrations. Spherical particles, such as the PSL particles, can pack in different orientations, such as hexagonal lattice or face-centered cubic (FCC). The void fraction of PVDF400 and PMAA-PVDF400 membranes were determined experimentally (Table S2, Eqn. S1) and utilized to predict the maximum number of PSL particles (100 nm) at these two different packing structures (Table 3), indicating that the membrane filters have a high treatment capacity before needing to be replaced and that PMAA functionalization does not severely impede the membranes' particle capture abilities.</p>
+<p id="p-0109" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Maximum number of aerosolized 100-nm PSL particles captured</entry>
+</row>
+<row>
+<entry>by a blank and PMAA-functionalized PVDF400 membrane</entry>
+</row>
+<row>
+<entry>at two different particle packing structures.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="91pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Maximum Number</entry>
+</row>
+<row>
+<entry/>
+<entry>Packing Structure</entry>
+<entry>Membrane</entry>
+<entry>Particles Captured/cm<sup>2</sup></entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Hexagonal Lattice</entry>
+<entry>PV400</entry>
+<entry>1.34E+08</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>PMAA-PV400</entry>
+<entry>1.31E+08</entry>
+</row>
+<row>
+<entry/>
+<entry>FCC</entry>
+<entry>PV400</entry>
+<entry>1.64E+08</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>PMAA-PV400</entry>
+<entry>1.61E+08</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0110" num="0105">3.4. Synthesis and Performance of Enzyme-Functionalized Membranes</p>
+<p id="p-0111" num="0106">Subtilisin A, a stable protease enzyme, has the potential to disrupt the spike glycoprotein (SGP) of the SARS-CoV-2 virus, as the enzyme could attack the protein's peptide bonds. The rate of enzymatic activity can be quantified using the Michaelis-Menten equation for enzymatic rate (Eqn. 3).</p>
+<p id="p-0112" num="0000">
+<maths id="MATH-US-00002" num="00002">
+<math overflow="scroll">
+ <mtable>
+  <mtr>
+   <mtd>
+    <mrow>
+     <msub>
+      <mi>v</mi>
+      <mi>o</mi>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>V</mi>
+        <mi>max</mi>
+       </msub>
+       <mo>[</mo>
+       <mi>S</mi>
+       <mo>]</mo>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>K</mi>
+        <mi>M</mi>
+       </msub>
+       <mo>+</mo>
+       <mrow>
+        <mo>[</mo>
+        <mi>S</mi>
+        <mo>]</mo>
+       </mrow>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mtd>
+   <mtd>
+    <mrow>
+     <mo>(</mo>
+     <mn>2</mn>
+     <mo>)</mo>
+    </mrow>
+   </mtd>
+  </mtr>
+ </mtable>
+</math>
+</maths>
+</p>
+<p id="p-0113" num="0107">where &#x3c5;<sub>0 </sub>is the reaction rate, [S] is the substrate concentration, V<sub>max </sub>is the maximum reaction rate, and K<sub>M </sub>is the Michaelis-Menten constant.</p>
+<p id="p-0114" num="0108">Prior to enzyme functionalization, the activity of Subtilisin A was tested to ensure high enzymatic activity with a known polypeptide substrate via a Michaelis-Menten and Lineweaver-Burk plot (<figref idref="DRAWINGS">FIG. <b>11</b></figref>). In a solution phase reaction, the K<sub>M </sub>and V<sub>max </sub>values for this enzyme was determined to be 0.186 mM and 0.0362 mM/min, respectively, which agrees with literature sources.</p>
+<p id="p-0115" num="0109">Enzymatic functionalization of membranes has been commonly researched, both with site-directed and random enzyme immobilization. PMAA has the capabilities to enhance this process, as it introduces a charge interaction between the system (membrane) and the enzyme during functionalization. PMAA has a deprotonated carboxylic acid group at a pH above its pKa value of 4.8 and Subtilisin A has an isoelectric point (pI) of 9.4 (provided by Sigma Aldrich), which allows PMAA to attract Subtilisin A via electrostatic interactions in a solution of 4.8&#x3c;pH&#x3c;9.4. PVDF400 membranes were first functionalized with PMAA, resulting in 1.5-3% weight gain functionalization of the total membrane. The resulting PMAA-PVDF membranes were further functionalized with Subtilisin A in a batch and convective immobilization method (<figref idref="DRAWINGS">FIG. <b>12</b></figref>). The presence of PMAA in batch and convective immobilization mode yielded 84% and 125% more enzymes immobilized, respectively, than unfunctionalized PVDF400 membranes (by mass). This confirms that PMAA can enhance the enzymatic load immobilized on the membrane, which can allow for membrane masks and filters to treat higher concentrations of virus-contaminated air more effectively. PMAA and Subtilisin A functionalization was confirmed using FTIR (<figref idref="DRAWINGS">FIG. <b>23</b></figref>).</p>
+<p id="p-0116" num="0110">The stability of functionalized enzymes is vital to the long-term performance of the membrane system, especially with only random immobilization, which can be less stable than site-specific immobilization. To desorb any non-stable enzyme molecules in the system, convective water filtration through Subtilisin-PMAA-PVDF membranes was utilized. About 0-10% of Subtilisin A was observed to desorb from the functionalized membrane system for batch mode. This indicates that the majority of enzymes functionalized on the membrane system are stable and will not further desorb via membrane usage.</p>
+<p id="p-0117" num="0111">For the development of a mask or filter material, any functionalization, ideally, would not significantly affect the permeability of the material, as this can decrease how fast the material can treat a certain volume, negatively affect the breathability of a mask, and increase the costs associated with the generation of applied pressure for flow through the material. The effect of PMAA and Subtilisin functionalization on the air permeability of PVDF400 membranes were investigated upon surface/pore functionalization (<figref idref="DRAWINGS">FIG. <b>13</b></figref>). The amount of PMAA and enzyme functionalized can affect the drop in membrane permeability, but, in most cases, PMAA functionalization decreased the air permeability by roughly 13.41% on average. The enzyme immobilization in convective mode decreased the air permeability of the PMAA-PVDF membrane by about 8.82%, while the batch mode immobilization showed a more severe decrease of 29.73%. This shows that there is a minor permeability drop with PMAA and enzyme functionalization, and that convective immobilization may be optimal for reduction of permeability drop. The effect of this minor permeability drop, though, could be mitigated with fabrication of PVDF membrane with specific variables for higher air flow than PVDF400, as previously mentioned.</p>
+<p id="p-0118" num="0112">3.5. Deactivation of SGP with Enzymes and Functionalized Membranes</p>
+<p id="p-0119" num="0113">Proteins can be denatured in a variety of methods (pH, thermal treatment, urea treatment) and is not exclusive to just protein cleavage, but can also constitute as a simple conformation change. As previously mentioned, the SGP of the SARS-CoV-2 facilities host cell infection, thus the denaturation of this protein would most likely render the virus inactive. DSC has been used to detect protein denaturation in previous studies, as the energy involved in the denaturation process is measured and displayed as a peak in the equipment's generated thermographs. DSC was utilized in this research to determine if Subtilisin A is appropriate to denature the SGP by comparing the thermograph of SGP and Subtilisin to that of native SGP and thermally-denatured SGP (<figref idref="DRAWINGS">FIG. <b>14</b></figref>). A known protein, BSA, was utilized as a standard to ensure proper DSC usage and results that match with previous literature reports. The native SGP thermograph displayed a distinct peak at approximately 40&#xb0; C., indicating that SGP is denatured in an environment of that temperature. The heat-treated SGP displayed no thermograph peak, indicating that the heat treatment already denatured the protein prior to DSC analysis. The enzyme-treated SGP showed no peak, similar to the heat-treatment signal, thus indicating that Subtilisin A denatured SGP similarly to high temperature-treatment, proving Subtilisin has the ability to denature native SGP.</p>
+<p id="p-0120" num="0114">Upon denaturation, the cleavage and/or unraveling of the protein has been proven to expose the hydrophobic domains that would otherwise be protected on the inside of the native protein. Sypro Orange, a hydrophobic-binding fluorescent dye, has been proven for protein denaturation studies, and was investigated to determine if the fluorescent intensity change was significant to identify SGP denaturation. After SGP thermal denaturation (70&#xb0; C. for 30 minutes), the Sypro Orange compound showed a 25% increase in fluorescent intensity, showing RFU of 333 and 417 with standard deviations of 32 and 26 for native and thermally denatured, respectively. This increase in fluorescent intensity indicates that the hydrophobic regions of the SGP were exposed to Sypro Orange via heat denaturation and can be identified utilizing this compound.</p>
+<p id="p-0121" num="0115">Sypro Orange was utilized in this research to identify if Subtilisin-functionalized PMAA-PVDF membranes could denature SGP with minimum system hydration (1.35 &#x3bc;l/mm<sup>2 </sup>of membrane surface) (<figref idref="DRAWINGS">FIG. <b>15</b></figref>). An increase in fluorescent intensity of SGP with the presence of membrane-immobilized enzyme (compared to SGP with no enzyme presence) was observed, showing that Subt-PMAA-PVDF400 membranes can denature SGP with minimal hydration. This indicates that the immobilized enzymes in the membrane system will maintain SGP denaturation activity in low-humidity respiratory face mask or indoor filter applications.</p>
+<p id="p-0122" num="0116">4. Additional Supporting Information</p>
+<p id="p-0123" num="0117">4.1. Contact Angle of Functionalized Membranes</p>
+<p id="p-0124" num="0118">To assess how the water intake of the membranes' changes with membrane functionalization, the contact angle was measured for PVDF 400 and PMAA-PVDF membrane samples over time. Prior to measurements, membranes were rinsed with deionized water and dried in a convection oven. Dried samples were taped onto glass slides and placed into a DSA 100 (KR&#xdc;SS Scientific Instruments, Inc.). The sessile-drop method was selected for contact angle measurements. This method was carried out by manually drawing and dosing a 3 &#x3bc;L DI water droplet (pH&#x2dc;6) and using the instrument to deposit the drop onto the membrane surface. Data collection was started (time=0) immediately after the deposition of the drop. Data were collected every 2 seconds for up to 84 seconds following the drop deposition. Three runs were done for each type of membrane. Drops with contact angles above 20&#xb0; were fitted using the Young Laplace method while drops with contact angles below 20&#xb0; were fitted as circles. These contact angles are shown over time in <figref idref="DRAWINGS">FIG. <b>18</b></figref>.</p>
+<p id="p-0125" num="0119">The average contact angle of PVDF 400 stayed nearly constant, only dropping from 86.2&#xb0;&#xb1;0.5&#xb0; at a time of 2 seconds to 84.0&#xb0;&#xb1;0.5&#xb0; at 38 seconds. In contrast, the average contact angle of the PMAA-PVDF membrane samples sharply decreased from 72.2&#xb0;&#xb1;3.2&#xb0; to 27.6&#xb0;&#xb1;11.8&#xb0; over the same time span. This decrease is due to the intake of water from the PMAA hydrogel present in the membrane. The ability of the PVDF-PMAA membranes to soak in water could potentially translate to enhanced enzyme performance under air conditions where humidity is present. Further work could be pursued to determine the ability of these functionalized membranes to retain water from humid air.</p>
+<p id="p-0126" num="0120">4.2. Membrane Variables of Commercial Water-filtration Membranes</p>
+<p id="p-0127" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE S1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Key membrane variables (porosity, thickness, mean pore</entry>
+</row>
+<row>
+<entry>diameter, and air permeability) of various commercial</entry>
+</row>
+<row>
+<entry>membranes. Flow rate measurements normalized at STP.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="56pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Thickness</entry>
+<entry>Mean pore</entry>
+<entry>Air Permeability</entry>
+</row>
+<row>
+<entry>Membrane</entry>
+<entry>Porosity</entry>
+<entry>(&#x3bc;m)</entry>
+<entry>diameter (nm)</entry>
+<entry>(single layer)</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="char" char="."/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<colspec colname="5" colwidth="56pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>PV400</entry>
+<entry>0.4</entry>
+<entry>165</entry>
+<entry>100</entry>
+<entry>1.70 &#xd7; 10<sup>6 </sup>&#xb1;</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>1.29 &#xd7; 10<sup>5</sup></entry>
+</row>
+<row>
+<entry>Polycarbonate</entry>
+<entry>0.138</entry>
+<entry>25</entry>
+<entry>200</entry>
+<entry>1.80 &#xd7; 10<sup>6 </sup>&#xb1;</entry>
+</row>
+<row>
+<entry>Isopore</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>3.71 &#xd7; 10<sup>4</sup></entry>
+</row>
+<row>
+<entry>Durapore1</entry>
+<entry>0.7</entry>
+<entry>125</entry>
+<entry>100</entry>
+<entry>6.49 &#xd7; 10<sup>5 </sup>&#xb1;</entry>
+</row>
+<row>
+<entry>(PVDF)</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>3.61 &#xd7; 10<sup>3</sup></entry>
+</row>
+<row>
+<entry>Durapore2</entry>
+<entry>0.7</entry>
+<entry>125</entry>
+<entry>220</entry>
+<entry>1.16 &#xd7; 10<sup>6 </sup>&#xb1;</entry>
+</row>
+<row>
+<entry>(PVDF)</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>7.38 &#xd7; 10<sup>3</sup></entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0128" num="0121">Scanning Electron Microscope (SEM-FIB)</p>
+<p id="p-0129" num="0122">Membrane surfaces and cross-sectional areas were characterized with the FEI Helios 660 Scanning Electron Microscope (SEM)/Focused Ion Beam (FIB) to identify porosity, pore diameter distribution, and general topography. An ultra-thin layer of silver (Ag) was applied on the membrane surfaces via sputter coating to give the polymeric material conductance for the electron imaging.</p>
+<p id="p-0130" num="0123">Void Fraction</p>
+<p id="p-0131" num="0124">The measurement of solvent uptake by PVDF 400 membranes was used to determine their void fraction. PVDF 400 membrane samples were cut into disks with an area of 19.6 cm2; multiple thickness measurements on each of these samples were taken with a micrometer to allow for the calculation of the membrane volume. ISOPAR-G was selected as the solvent because it was observed to thoroughly wet PVDF 400 membranes. Membrane samples were weighed, soaked in ISOPAR-G for about 2 hours, and then weighed again. Porosity values from each trial could then be calculated using Equation S1.</p>
+<p id="p-0132" num="0000">
+<maths id="MATH-US-00003" num="00003">
+<math overflow="scroll">
+ <mtable>
+  <mtr>
+   <mtd>
+    <mrow>
+     <mi>&#x3d5;</mi>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>m</mi>
+        <mi>solv</mi>
+       </msub>
+       <mo>/</mo>
+       <msub>
+        <mi>&#x3c1;</mi>
+        <mi>solv</mi>
+       </msub>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>A</mi>
+        <mi>mem</mi>
+       </msub>
+       <mo>&#x22c6;</mo>
+       <msub>
+        <mi>&#x3b4;</mi>
+        <mi>mem</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mtd>
+   <mtd>
+    <mrow>
+     <mo>(</mo>
+     <mi>S1</mi>
+     <mo>)</mo>
+    </mrow>
+   </mtd>
+  </mtr>
+ </mtable>
+</math>
+</maths>
+</p>
+<p id="p-0133" num="0125">where m<sub>solv </sub>is the difference in mass between the wet and dry membranes, &#x3c1;<sub>solv </sub>is the solvent density, A<sub>mem</sub>, is the area of the membrane surface, and &#x3b4;<sub>mem</sub>, is the measured thickness of the membrane. Table S2 shows the calculated void fractions and pore volumes (m<sub>solv</sub>/&#x3c1;<sub>solv</sub>) for PVDF 400 and PMAA-PVDF membranes.</p>
+<p id="p-0134" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE S2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Experimentally-determined void fraction and estimated</entry>
+</row>
+<row>
+<entry>total pore volume of blank and PMAA-PVDF and PVDF</entry>
+</row>
+<row>
+<entry>400 membranes with an area 19.6 cm2. PMAA-PVDF</entry>
+</row>
+<row>
+<entry>membranes had a weight gain of 1.2%-2.9%.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="84pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Total Pore</entry>
+</row>
+<row>
+<entry/>
+<entry>Membrane</entry>
+<entry>Void Fraction</entry>
+<entry>Volume (cm<sup>3</sup>)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>PVDF 400</entry>
+<entry>0.466 &#xb1; 0.013</entry>
+<entry>0.163 &#xb1; 0.005</entry>
+</row>
+<row>
+<entry/>
+<entry>PMAA-PVDF</entry>
+<entry>0.454 &#xb1; 0.030</entry>
+<entry>0.159 &#xb1; 0.010</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0135" num="0126">It can be seen that the PVDF 400 and PMAA-PVDF membranes had similar void fractions and pore volumes, indicating that the addition of PMAA did not greatly affect the amount of free space in the porous structure. This negligible difference in void fraction could be the reason that the decrease in air flow rate with the addition of PMAA into a PVDF 400 is low (13.4%), as seen <figref idref="DRAWINGS">FIG. <b>14</b></figref>.</p>
+<p id="p-0136" num="0127">4.3 Fourier-Transform Infrared Spectroscopy (FTIR) on Functionalized Membranes</p>
+<p id="p-0137" num="0128">FTIR spectroscopy was carried out on PVDF 400, PMAA-PVDF, and Subt-PMAA-PVDF membranes to verify the functionalization of the membranes with Subtilisin Carlsberg enzymes. Spectral data was collected with a Nicolet&#x2122; iS50 FTIR Spectrometer (Thermo Scientific&#x2122;) at a resolution of 4 cm&#x2212;1; reported spectra were averages of 32 scans. Subt-PMAA-PVDF membranes were analyzed after the filtration of ultra-pure dry air. <figref idref="DRAWINGS">FIG. <b>22</b></figref> compares the FTIR spectra of PVDF 400, PMAA-PVDF, and Subt-PMAA-PVDF samples.</p>
+<p id="p-0138" num="0129">All membranes showed the CF/CF<sub>2 </sub>peak at &#x2dc;1,175 cm<sup>&#x2212;1 </sup>corresponding to PVDF 400 base membrane. As expected, the PMAA-PVDF membrane showed the broad &#x2014;OH peak (&#x2dc;3600 cm<sup>&#x2212;1 </sup>to 2400 cm<sup>&#x2212;1</sup>) and the C&#x2550;O (1,710 cm<sup>&#x2212;1</sup>) corresponding to the carboxylic acid groups of PMAA. The Amide I and Amide II peaks on the spectra for the Subt-PMAA-PVDF samples at &#x2dc;1,655 cm<sup>&#x2212;1 </sup>and &#x2dc;1,540 cm<sup>&#x2212;1</sup>, respectively, verified the incorporation of enzymes in batch and convective mode.</p>
+<p id="p-0139" num="0130">5. Conclusion</p>
+<p id="p-0140" num="0131">This Experimental Section demonstrates the development of a membrane-based respiratory face mask and enclosed-environment filter that can denature the spike glycoproteins of coronaviruses, specifically SARS-CoV-2, and lead to virus deactivation. The air permeability of water-filtration PVDF400 membranes were compared to commercial N95 and surgical masks, and theoretical modelling of a PVDF membrane (by varying porosity, pore size, and thickness) proved that this material can be fabricated into a membrane of comparable air permeability to that of commercial masks. The air permeability of a commercial Isopore MF water-filtration membrane was accurately estimated, based on its porosity, thickness, and pore size, as well as air permeability data of other water-filtration MF membranes.</p>
+<p id="p-0141" num="0132">Aerosol capture of MF membranes were experimentally investigated and compared to face masks (N95, surgical), as this is an important aspect of a mask or filter, due to aerosolized particles being the main means of coronavirus transmission. PVDF400 membranes were determined to offer extremely high particle capture and rejection of both PSL-COOH and PSL-GFP particles (permeate-8 PSL-GFP particles/L compared to the feed concentration of 37,175 particles/L after 50 minutes of filtration), indicating that this is a suitable material for mask and air filter. PVDF400 membranes were successfully functionalized with PMAA (1.5-3% weight gain after polymerization) to increase the enzyme functionalization capacity of the membrane system. The average permeate aerosol size of unfunctionalized nano-sized PSL particles through PMAA-PVDF membranes was significantly smaller than that of N95 and surgical masks, indicating that PMAA-PVDF membranes can offer better protection from coronavirus aerosolized particles than commercial respiratory face masks.</p>
+<p id="p-0142" num="0133">To test realistic conditions, the fouling and air flow reduction of a PMAA-PVDF membrane with ambient environmental air filtration was quantified with an obtained air flow reduction of 6.3% and 0.4% for normal and reverse orientation, respectively, after about 1200 L of ambient air filtration in continuous flow mode, which was minute compared to the N95's 33.7% decrease after 1273 L of air filtration in continuous flow mode. In sinusoidal flow mode, PMAA-PV and N95's separating layer displayed similar minute decreases of air flow after 10 minutes of ambient air filtration. This result indicates that PMAA-PVDF membranes could possibly last longer than commercial N95 masks before needing to be replaced, but further testing (inlet-forward and outlet-backwards flow cycles) should be done.</p>
+<p id="p-0143" num="0134">PMAA functionalization of PVDF membranes was proven to enhance the membrane functionalization with Subtilisin Carlsberg enzyme by 84% and 125% for batch and convective mode, respectively. Subtilisin Carlsberg was determined to be an appropriate enzyme for SGP denaturation of the SARS-CoV-2 virus with the lack of peak presence of the enzyme-treated SGP DSC thermograph, comparted to a 40&#xb0; C. peak on native SGP's thermograph. Subtilisin-functionalized PMAA-PVDF membranes, in turn, were proven to denature SGP with minimal membrane hydration (1.35 &#x3bc;l/cm<sup>2 </sup>of membrane surface using a hydrophobic-binding fluorescent dye that displayed an average SGP fluorescent emission of 540 with 30 seconds of membrane contact and 213 without membrane contact. In low humidity environments, Subtilisin-functionalized PMAA-PVDF membranes have been proven to be a promising system of advancement towards the new generation of respiratory face masks and enclosed-environment filters that can significantly reduce coronavirus transmission by virus protein deactivation.</p>
+<p id="p-0144" num="0135">The disclosure may be considered to relate to the following items:</p>
+<p id="p-0145" num="0136">1. An antiviral mask, comprising:</p>
+<p id="p-0146" num="0137">a body having a breathable, microporous polymeric membrane with a thickness of between about 30 microns and about 500 microns; and</p>
+<p id="p-0147" num="0138">a securing strap connected to the body and adapted to secure the antiviral mask in place over the nose and mouth of a user.</p>
+<p id="p-0148" num="0139">2. The antiviral mask of item 1, wherein the polymeric membrane has a pressure drop of less than about 34.47 kPa.</p>
+<p id="p-0149" num="0140">3. The antiviral mask of item 1, wherein the polymeric membrane has a porosity of between about 20% and about 80%.</p>
+<p id="p-0150" num="0141">4. The antiviral mask of item 1, wherein the polymeric membrane has an average pore size of between about 15 nm and about 300 nm.</p>
+<p id="p-0151" num="0142">5. The antiviral mask of item 1, wherein the polymeric membrane has a thickness of between about 30 micron and about 500 micron, a porosity of between about 20% and about 80% and an average pore size of between about 15 nm and about 300 nm.</p>
+<p id="p-0152" num="0143">6. The antiviral mask of item 5, wherein the polymeric membrane is made from a material selected from a group consisting of polyvinylidene difluoride, polysulfone, poly (methacrylic acid) functionalized polyvinylidene difluoride, poly (methacrylic acid) functionalized polysulfone, poly (methacrylic acid) functionalized polypropylene (PP) and combinations thereof.</p>
+<p id="p-0153" num="0144">7. The antiviral mask of item 6, wherein the polymeric membrane includes a plurality of pores functionalized with a proteolytic enzyme, an antibody and combinations thereof.</p>
+<p id="p-0154" num="0145">8. The antiviral mask of item 7, wherein the proteolytic enzyme is selected from a group consisting of subtilisin, trypsin, papain, proteinase K, chymotrypsin, elastase and combinations thereof.</p>
+<p id="p-0155" num="0146">9. The antiviral mask of item 7, wherein the antibody is selected from a group consisting of a RBD (receptor-binding domain)/ACE2 interaction inhibitor, heparin, glycyrrhizic acid and combinations thereof.</p>
+<p id="p-0156" num="0147">10. The antiviral mask of item 7, further including a coating of graphene oxide, lignin sulfonate or combinations thereof on the polymeric membrane.</p>
+<p id="p-0157" num="0148">11. The antiviral mask of item 10, further including an antiviral agent in the coating.</p>
+<p id="p-0158" num="0149">12. The antiviral mask of item 11, wherein the antiviral agent is selected from a group consisting of a quaternary amine, an essential oil derivative having antiviral properties, copper nanoparticles, gold nanoparticles and combinations thereof.</p>
+<p id="p-0159" num="0150">13. The antiviral mask of item 10, further including a fluorescent virus tagging agent.</p>
+<p id="p-0160" num="0151">14. The antiviral mask of any of items 1-4, wherein the polymeric membrane is made from a material selected from a group consisting of polyvinylidene difluoride, polysulfone, poly (methacrylic acid) functionalized polyvinylidene difluoride, poly (methacrylic acid) functionalized polysulfone, poly (methacrylic acid) functionalized polypropylene (PP) and combinations thereof.</p>
+<p id="p-0161" num="0152">15. The antiviral mask of item 14, wherein the polymeric membrane includes a plurality of pores functionalized with a proteolytic enzyme, an antibody and combinations thereof.</p>
+<p id="p-0162" num="0153">16. The antiviral mask of item 15, wherein the proteolytic enzyme is selected from a group consisting of subtilisin, trypsin, papain, proteinase K, chymotrypsin, elastase and combinations thereof</p>
+<p id="p-0163" num="0154">17. The antiviral mask of item 15, wherein the antibody is selected from a group consisting of a RBD (receptor-binding domain)/ACE2 interaction inhibitor, heparin, glycyrrhizic acid and combinations thereof.</p>
+<p id="p-0164" num="0155">18. The antiviral mask of item 14, further including a coating of graphene oxide, lignin sulfonate or combinations thereof on the polymeric membrane.</p>
+<p id="p-0165" num="0156">19. The antiviral mask of item 18, further including an antiviral agent in the coating.</p>
+<p id="p-0166" num="0157">20. The antiviral mask of item 19, wherein the antiviral agent is selected from a group consisting of a quaternary amine, an essential oil derivative having antiviral properties, copper nanoparticles, gold nanoparticles and combinations thereof.</p>
+<p id="p-0167" num="0158">21. The antiviral mask of item 10, further including a fluorescent virus tagging agent.</p>
+<p id="p-0168" num="0159">22. The antiviral mask of any of items 1-13, further including an air permeable outer layer covering the polymeric membrane.</p>
+<p id="p-0169" num="0160">23. The antiviral mask of item 22, further including an air permeable, inner support layer whereby the polymeric membrane is sandwiched between the air permeable outer layer and the air permeable inner support layer.</p>
+<p id="p-0170" num="0161">24. The antiviral mask of item 23, wherein the fluorescent virus tagging agent is provided on the air permeable, inner support layer.</p>
+<p id="p-0171" num="0162">25. The antiviral mask of any of items 1-13, further including an air permeable, inner support layer between the polymeric membrane and a face of a wearer of said antiviral mask.</p>
+<p id="p-0172" num="0163">26. The antiviral mask of item 25, wherein the fluorescent virus tagging agent is provided on the air permeable, inner support layer.</p>
+<p id="p-0173" num="0164">27. The antiviral mask of any of items 1-13, wherein the polymeric membrane has a water contact angle of between about 20&#xb0; and about 115&#xb0;.</p>
+<p id="p-0174" num="0165">28. The antiviral mask of any of items 1-6, further including a coating of graphene oxide, lignin sulfonate or combinations thereof on the polymeric membrane.</p>
+<p id="p-0175" num="0166">29. The antiviral mask of any of items 1-9, further including a fluorescent virus tagging agent carried on said antiviral mask.</p>
+<p id="p-0176" num="0167">30. An antiviral air filter, comprising: a breathable, microporous polymeric membrane wherein the polymeric membrane has a thickness of between about 30 micron and about 500 micron, a porosity of between about 20% and about 80% and an average pore size of between about 15 nm and about 300 nm.</p>
+<p id="p-0177" num="0168">31. The antiviral air filter of item 30, wherein the polymeric membrane is made from a material selected from a group consisting of polyvinylidene difluoride, polysulfone, poly (methacrylic acid) functionalized polyvinylidene difluoride, poly (methacrylic acid) functionalized polysulfone, poly (methacrylic acid) functionalized polypropylene (PP) and combinations thereof.</p>
+<p id="p-0178" num="0169">32. The antiviral filter of item 30, wherein the polymeric membrane includes a plurality of pores functionalized with a proteolytic enzyme, an antibody and combinations thereof.</p>
+<p id="p-0179" num="0170">33. The antiviral filter of item 32, wherein the proteolytic enzyme is selected from a group consisting of subtilisin, trypsin, papain, proteinase K, chymotrypsin, elastase and combinations thereof.</p>
+<p id="p-0180" num="0171">34. The antiviral filter of item 33, wherein the antibody is selected from a group consisting of a RBD (receptor-binding domain)/ACE2 interaction inhibitor, heparin, glycyrrhizic acid and combinations thereof.</p>
+<p id="p-0181" num="0172">35. The antiviral filter of item 34, further including a coating of graphene oxide, lignin sulfonate or combinations thereof on the polymeric membrane.</p>
+<p id="p-0182" num="0173">36. The antiviral filter of item 35, further including an antiviral agent in the coating.</p>
+<p id="p-0183" num="0174">37. The antiviral filter of item 36, wherein the antiviral agent is selected from a group consisting of a quaternary amine, an essential oil derivative having antiviral properties, copper nanoparticles, gold nanoparticles and combinations thereof.</p>
+<p id="p-0184" num="0175">38. The antiviral filter of item 37, further including a fluorescent virus tagging agent.</p>
+<p id="p-0185" num="0176">39. The antiviral filter of any of items 30-33, further including a coating of graphene oxide, lignin sulfonate or combinations thereof on the polymeric membrane.</p>
+<p id="p-0186" num="0177">40. The antiviral filter of item 39, further including an antiviral agent in the coating.</p>
+<p id="p-0187" num="0178">41. The antiviral filter of item 40, wherein the antiviral agent is selected from a group consisting of a quaternary amine, an essential oil derivative having antiviral properties, copper nanoparticles, gold nanoparticles and combinations thereof.</p>
+<p id="p-0188" num="0179">42. The antiviral filter of item 41, further including a fluorescent virus tagging agent.</p>
+<p id="p-0189" num="0180">43. The antiviral filter of any of items 30-33, further including a fluorescent virus tagging agent.</p>
+<p id="p-0190" num="0181">44. The antiviral filter of any of items 30-38, further including an air permeable outer layer covering the polymeric membrane.</p>
+<p id="p-0191" num="0182">45. The antiviral filter of item 44, further including an air permeable, inner support layer whereby the polymeric membrane is sandwiched between the air permeable outer layer and the air permeable, inner support layer.</p>
+<p id="p-0192" num="0183">46. The antiviral filter of item 45, wherein the virus tagging agent is provided on the air permeable, inner support layer.</p>
+<p id="p-0193" num="0184">47. The antiviral filter of any of items 30-38, further including an air permeable, inner support layer between the polymeric membrane and a face of a wearer of said antiviral mask.</p>
+<p id="p-0194" num="0185">48. The antiviral filter of item 47, wherein the virus tagging agent is provided on the air permeable, inner support layer.</p>
+<p id="p-0195" num="0186">49. The antiviral filter of any of items 30-38, wherein the polymeric membrane has a water contact angle of between about 20&#xb0; and about 115&#xb0;.</p>
+<p id="p-0196" num="0187">50. The antiviral filter of any of items 30-33, further including a coating of graphene oxide, lignin sulfonate or a combination thereof on the polymeric membrane.</p>
+<p id="p-0197" num="0188">51. The antiviral filter of any of items 30-36, further including a fluorescent tagging agent.</p>
+<p id="p-0198" num="0189">52. The antiviral filter of any of claims <b>30</b>-<b>36</b>, wherein the polymeric membrane has a pressure drop of less than about 34.47 kPa.</p>
+<p id="p-0199" num="0190">Each of the following terms: &#x201c;includes&#x201d;, &#x201c;including&#x201d;, &#x201c;has&#x201d;, &#x201c;having&#x201d;, &#x201c;comprises&#x201d;, and &#x201c;comprising&#x201d;, and, their linguistic/grammatical variants, derivatives, or/and conjugates, as used herein, means &#x201c;including, but not limited to&#x201d;, and is to be taken as specifying the stated component(s), feature(s), characteristic(s), parameter(s), integer(s), or step(s), and does not preclude addition of one or more additional component(s), feature(s), characteristic(s), parameter(s), integer(s), step(s), or groups thereof. Each of the phrases &#x201c;consisting of&#x201d; and &#x201c;consists of&#x201d;, as used herein, means &#x201c;including and limited to&#x201d;. The phrase &#x201c;consisting essentially of&#x201d; means that the stated entity or item (system, system unit, system sub-unit device, assembly, sub-assembly, mechanism, structure, component element or, peripheral equipment utility, accessory, or material, method or process, step or procedure, sub-step or sub-procedure), which is an entirety or part of an exemplary embodiment of the disclosed invention, or/and which is used for implementing an exemplary embodiment of the disclosed invention, may include at least one additional feature or characteristic being a system, unit system, sub-unit device, assembly, sub-assembly, mechanism, structure, component or element or, peripheral equipment utility, accessory, or material, step or procedure, sub-step or sub-procedure, but only if each such additional feature or characteristic does not materially alter the basic novel and inventive characteristics or special technical features, of the claimed item.</p>
+<p id="p-0200" num="0191">Terms of approximation, such as the terms about, substantially, approximately, etc., as used herein, refers to &#xb1;10% of the stated numerical value.</p>
+<p id="p-0201" num="0192">The foregoing has been presented for purposes of illustration and description. It is not intended to be exhaustive or to limit the embodiments to the precise form disclosed. Obvious modifications and variations are possible in light of the above teachings. All such modifications and variations are within the scope of the appended claims when interpreted in accordance with the breadth to which they are fairly, legally and equitably entitled.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20230225433A1-20230720-M00001.NB">
+<img id="EMI-M00001" he="6.69mm" wi="76.20mm" file="US20230225433A1-20230720-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US20230225433A1-20230720-M00002.NB">
+<img id="EMI-M00002" he="6.01mm" wi="76.20mm" file="US20230225433A1-20230720-M00002.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00003" nb-file="US20230225433A1-20230720-M00003.NB">
+<img id="EMI-M00003" he="6.35mm" wi="76.20mm" file="US20230225433A1-20230720-M00003.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An antiviral mask, comprising:
+<claim-text>a body having a breathable, microporous polymeric membrane with a thickness of between about 30 microns and about 500 microns; and</claim-text>
+<claim-text>a securing strap connected to the body and adapted to secure the antiviral mask in place over the nose and mouth of a user.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The antiviral mask of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the polymeric membrane has a pressure drop of less than about 34.47 kPa.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The antiviral mask of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the polymeric membrane has a porosity of between about 20% and about 80%.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The antiviral mask of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the polymeric membrane has an average pore size of between about 15 nm and about 300 nm.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The antiviral mask of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the polymeric membrane has a thickness of between about 30 micron and about 500 micron, a porosity of between about 20% and about 80% and an average pore size of between about 15 nm and about 300 nm.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The antiviral mask of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the polymeric membrane is made from a material selected from a group consisting of polyvinylidene difluoride, polysulfone, poly (methacrylic acid) functionalized polyvinylidene difluoride, poly (methacrylic acid) functionalized polysulfone, poly (methacrylic acid) functionalized polypropylene (PP) and combinations thereof.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The antiviral mask of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the polymeric membrane includes a plurality of pores functionalized with a proteolytic enzyme, an antibody and combinations thereof.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The antiviral mask of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the proteolytic enzyme is selected from a group consisting of subtilisin, trypsin, papain, proteinase K, chymotrypsin, elastase and combinations thereof.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The antiviral mask of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the antibody is selected from a group consisting of a RBD (receptor-binding domain)/ACE2 interaction inhibitor, heparin, glycyrrhizic acid and combinations thereof.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The antiviral mask of <claim-ref idref="CLM-00007">claim 7</claim-ref>, further including a coating of graphene oxide, lignin sulfonate or combinations thereof on the polymeric membrane.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The antiviral mask of <claim-ref idref="CLM-00010">claim 10</claim-ref>, further including an antiviral agent in the coating.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The antiviral mask of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the antiviral agent is selected from a group consisting of a quaternary amine, an essential oil derivative having antiviral properties, copper nanoparticles, gold nanoparticles and combinations thereof.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The antiviral mask of <claim-ref idref="CLM-00010">claim 10</claim-ref>, further including a fluorescent virus tagging agent.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The antiviral mask of <claim-ref idref="CLM-00013">claim 13</claim-ref>, further including an air permeable, inner support layer between the polymeric membrane and a face of a wearer of said antiviral mask.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The antiviral mask of <claim-ref idref="CLM-00025">claim 25</claim-ref>, wherein the fluorescent virus tagging agent is provided on the air permeable, inner support layer.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. The antiviral mask of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the polymeric membrane has a water contact angle of between about 20&#xb0; and about 115&#xb0;.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. The antiviral mask of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further including a coating of graphene oxide, lignin sulfonate or combinations thereof on the polymeric membrane.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. The antiviral mask of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further including a fluorescent virus tagging agent carried on said antiviral mask.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. An antiviral air filter, comprising: a breathable, microporous polymeric membrane wherein the polymeric membrane has a thickness of between about 30 micron and about 500 micron, a porosity of between about 20% and about 80% and an average pore size of between about 15 nm and about 300 nm.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text><b>31</b>. The antiviral air filter of <claim-ref idref="CLM-00030">claim 30</claim-ref>, wherein the polymeric membrane is made from a material selected from a group consisting of polyvinylidene difluoride, polysulfone, poly (methacrylic acid) functionalized polyvinylidene difluoride, poly (methacrylic acid) functionalized polysulfone, poly (methacrylic acid) functionalized polypropylene (PP) and combinations thereof.</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text><b>32</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text><b>33</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00034" num="00034">
+<claim-text><b>34</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00035" num="00035">
+<claim-text><b>35</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00036" num="00036">
+<claim-text><b>36</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00037" num="00037">
+<claim-text><b>37</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00038" num="00038">
+<claim-text><b>38</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00039" num="00039">
+<claim-text><b>39</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00040" num="00040">
+<claim-text><b>40</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00041" num="00041">
+<claim-text><b>41</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00042" num="00042">
+<claim-text><b>42</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00043" num="00043">
+<claim-text><b>43</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00044" num="00044">
+<claim-text><b>44</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00045" num="00045">
+<claim-text><b>45</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00046" num="00046">
+<claim-text><b>46</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00047" num="00047">
+<claim-text><b>47</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00048" num="00048">
+<claim-text><b>48</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00049" num="00049">
+<claim-text><b>49</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00050" num="00050">
+<claim-text><b>50</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00051" num="00051">
+<claim-text><b>51</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00052" num="00052">
+<claim-text><b>52</b>. (canceled)</claim-text>
+</claim>
+</claims>
+</us-patent-application>

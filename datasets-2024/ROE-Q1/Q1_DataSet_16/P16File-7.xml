@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225375A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225375</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18010504</doc-number>
+<date>20210617</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EP</country>
+<doc-number>20180858.1</doc-number>
+<date>20200618</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>3</main-group>
+<subgroup>005</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>3</main-group>
+<subgroup>03</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>2</main-group>
+<subgroup>48</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>3</main-group>
+<subgroup>005</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>3</main-group>
+<subgroup>03</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>2</main-group>
+<subgroup>48</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">Process and Reactor for Heating at Least One Fluid by Magnetic Induction</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>ETH Zurich</orgname>
+<address>
+<city>Z&#xfc;rich</city>
+<country>CH</country>
+</address>
+</addressbook>
+<residence>
+<country>CH</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Blattmann</last-name>
+<first-name>Christoph Oliver</first-name>
+<address>
+<city>Richterswil</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Buchmann</last-name>
+<first-name>Leandro Silvano Guido</first-name>
+<address>
+<city>Winterthur</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Mathys</last-name>
+<first-name>Alexander</first-name>
+<address>
+<city>Z&#xfc;rich</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Hug</last-name>
+<first-name>Dominik</first-name>
+<address>
+<city>Pf&#xe4;ffikon</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2021/066355</doc-number>
+<date>20210617</date>
+</document-id>
+<us-371c12-date><date>20221215</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Provided is a process for heating at least one fluid by magnetic induction using at least one metal as a heat transfer medium. The metal is incorporated into the fluid to be heated as a packed bed. A high frequency alternating magnetic field (AC-field) of at least 50 kHz is applied for generating heat in at least a (thin) interfacial layer of the metal and the generated heat is subsequently transferred to the fluid to be heated.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="128.52mm" wi="147.66mm" file="US20230225375A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="165.35mm" wi="144.70mm" orientation="landscape" file="US20230225375A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="181.19mm" wi="144.86mm" orientation="landscape" file="US20230225375A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is the United States national phase of International Patent Application Number PCT/EP2021/066355, filed Jun. 17, 2021, and claims priority to European Patent Application No. 20180858.1, filed Jun. 18, 2020, the disclosures of which are hereby incorporated by reference in their entireties.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<heading id="h-0003" level="1">Field of the Invention</heading>
+<p id="p-0003" num="0002">The disclosure relates to a process for heating at least one fluid by magnetic induction and a reactor for carrying out such as process.</p>
+<heading id="h-0004" level="1">Description of Related Art</heading>
+<p id="p-0004" num="0003">Industry still seeks a less destructive solution for processing of pumpable heat sensitive fluids, such as fluids in the food processing industry, but also chemical, biotech or pharmaceutical industry. More explicitly, that means treating the liquid product, such a beverage, in order to make it safe for consumers to drink by removing spoilage-causing pathogens without diminishing quality. By traditional means this is achieved by thermal pasteurization and sterilization during which the liquid is heated above a threshold for sufficient duration (Kessler, H. G. &#x26; Horak, F. P. <i>Milchwissenschaft </i>39, 451-454, 1984). The hereby sought consumer safety comes with a catch: not only are spoilage-causing pathogens removed, but nutrition, taste, appearance and consistency undergo change as well (Kessler H G. <i>Food and Bio Process Engineering: Dairy Technology</i>. Muenchen, Germany: Verlag A. Kessler, 2002). Such product degradation is foreseeable considering constituent stability during high temperature exposure. As a result, higher temperature-time during sterilization elevates product degradation compared to pasteurization.</p>
+<p id="p-0005" num="0004">Food safety is a pursuit of liquid food processors. However, many consumers are becoming more demanding. They expect safety and want a product that otherwise resembles the raw good with superior organoleptic properties: no burnt flavor from Maillard reactions, no degradation of  nutrients, such as vitamins and antioxidants, and no appearance change in particular in colorful fruit juices. Naturalness without health risks is trendy.</p>
+<p id="p-0006" num="0005">In order to satisfy consumers, researchers are proposing alternative processing technologies with likewise safety but superior &#x201c;naturalness&#x201d;. This has led to the development of technologies like high pressure processing (HPP), pulsed electric field (PEF) processing, ultra-sonication, and electron-beam treatment. None of these technology-challengers have yet mastered to replace traditional thermal processing on broad industrial scales. The field remains open for introducing a new, different means of pathogen decimation. In this context, processes encompassing a conventional temperature rise may be more attractive for uptake by industry as the efficacy of heat is more readily accepted and consumers exhibit less aversion.</p>
+<p id="p-0007" num="0006">Improving product quality while maintaining high safety may be possible thermally through ultra-short pasteurization/sterilization (USP and USS, respectively). USP and USS require extremely rapid heating and subsequent cooling in order to ensure millisecond-range holding times (Morgan, A. I., Radewonuk, E. R. &#x26; Scullen, O. J. <i>J Food Sci </i>61, 1216-1218, 1996). Key for liquids is a large heat exchange area usually associated with microreactors (Mathys, A. <i>Front. Nutr. </i>5, 24, 2018). Achieving these process conditions for liquids is an ambitious endeavor and, thus, making efficacy rather unexplored. Correspondingly, enabling technology first needs to be developed.</p>
+<p id="p-0008" num="0007">So far liquid food thermal processing by inductive heating has received little attention (Martel, R., Pouliot, Y. &#x26; Charette, A. <i>Lait </i>72, 297-306, 1992) and applicability for USP/USS was disregarded fully. However, tubular packed bed (PB) reactors for liquid heating by induction have been proposed on the macro (Duquenne, P., Deltour, A. &#x26; Lacoste, G. <i>Int. J. Heat Mass Transf. </i>36, 2473-2477, 1993) and micro scale (Ceylan, S., Friese, C., Lammel, C., Mazac, K. &#x26; Kirschning, A. <i>Angew. Chem. </i>47, 8950-8953, 2008). The latter being an attractive solution for rapid, efficient heating of reactions occurring at high temperatures. In that work &#x2018;rapid&#x2019; still pertains to much longer durations than required for USP/USS (Mathys, A. <i>Front. Nutr. </i>5, 24, 2018). Nano-sized and macro-scale particles have been applied in larger reactors. Neither size enable achieving USP/USS conditions (i.e. temperature, time) demanding a priori optimization for attaining strived pursuits. Regulating flow velocity and induction system settings (e.g., electrical current, power and frequency) are effective means for regulating the final fluid outlet temperature during operation. The former influences the residence time at high temperatures that crucially influences possible local overheating. Between operation sequences exchange of metallic heat transfer  medium (e.g., dimensions, composition) or coil (e.g., dimensions, number of turns) are viable options for optimizing. Fine-tuning these requires more expertise but may deliver better output quality.</p>
+<p id="p-0009" num="0008">Thermal processing by heat transfer can be distinguished with or without a phase transition. The latter is of particular importance for liquid food processing. Heating is characterized by three consecutive stages: heating, holding, and cooling. Due to the applied temperature-time windows, current thermal processing achieves the desired result at the cost of unwanted biochemical and physical alterations of the product. The relation between wanted and unwanted effects is temperature-time dependent where higher temperatures for shorter times in milliseconds is expected to move the relation towards more wanted/targeted and less unwanted effects. If so, this enables greater product quality.</p>
+<heading id="h-0005" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">It was, therefore, an object of underlying the proposed solution to provide a process that allows heating fluids at high temperatures for shorter times that overcomes the disadvantages of known processes.</p>
+<p id="p-0011" num="0010">Accordingly, a process for (indirect) heating of at least one fluid is provided, wherein the heating is caused by magnetic induction using at least one metal, preferably of ferritic composition, as heat transfer medium, wherein the metal is incorporated into the fluid to be heated as a packed bed, and wherein a high frequency alternating magnetic field (AC-field) of at least 50 kHz is applied for generating heat in at least a (thin) interfacial layer of the metal. The generated heat subsequently is transferred to the fluid to be heated. The magnetic induction of the metal allows for a homogenous heating of the adjacent fluid.</p>
+<p id="p-0012" num="0011">The fluid to be heated may be a fluid, such as a fluid food, in particular a beverage, like milk or juice. The fluid to be heated also may be a fluid used in the chemical industry, pharmaceutical industry or biotech industry.</p>
+<p id="p-0013" num="0012">The present process allows for ultra-short thermal pasteurization and sterilization of liquids. Inductive heating of a ferritic metal in a tubular reactor enables heating of a passing fluid within fractions of a second. Such ultra-short processing can act as an alternative to current industrial  standards that, however, in addition to pathogenic safety should provide more natural taste, appearance and consistency as well as enhanced nutrition by retaining potentially relevant heat sensitive functional ingredients. For example, when heating raw milk certain peptides lose their functionality when heated at certain temperature-time combinations. Furthermore, ultra-short processing reduces, due to short residence times, the formation of certain chemical reactions and their undesirable products, for example Hydroxymethylfurtural (1-1MF) in several food.</p>
+<p id="p-0014" num="0013">In an embodiment of the present process the metal comprises or is made of particles such as spheres with an average diameter between 0.1 and 10 mm, preferably between 0.5 and 8 mm, more preferably between 1 and 4 mm.</p>
+<p id="p-0015" num="0014">The metal may comprise ferritic steel, i.e. a ferritic steel that ideally exhibits high magnetic permeability and low electrical conductivity, in particular a chemically inert ferritic steel with a high chromium and low carbon content.</p>
+<p id="p-0016" num="0015">It is also possible, to use metal particles that are at least partially coated for preventing oxidation and electrical insulation. The coating may be preferably a thin coating in order not to reduce the heat transfer efficiency between metal and the fluid to be heated.</p>
+<p id="p-0017" num="0016">In a further embodiment of the present process the particle packed bed of the at least one metallic material is at least one flat packed bed, resembling, for example, a cone shaped packed bed or a hollow diamond like shaped packed bed (antenna like). By arranging the metallic particles in a packed bed a porous structure is provided and thereby the fluid-exposed specific surface area is increased. It is also possible to provide particles or spheres with an enhanced particle surface roughness.</p>
+<p id="p-0018" num="0017">It is also possible that the packed bed comprises packed metallic particles intermixed with inductively inert ones made of, for example, ceramics, polymers or quartz glasses. Intermixed particles can be of different shape or dimension than metallic particles. Intermixed particles enable electrical insulation between metallic ones. It is conceivable that intermixed inductively inert particles provide a supporting structure (by loose stacking or sintering) for the metallic ones. This in turn allows for a geometrically advantageous arrangement of the metallic particles and can lead to a beneficial penetration of the magnetic field within the packed bed and thus a more favorable and uniform inductive heating. Guiding the flow through and along additional non-metallic  structures further facilitates optimization of the fluid's residence time through the packed bed. Thus, in an embodiment the packed be may comprise metallic particles that are either intermixed with inert particles or are embedded into the inert particles.ln yet another embodiment of the present process the flow velocity of the fluid through the packed bed is 1-10 cm/s, preferably 3-8 cm/s, more preferably 5 cm/s, while the residence time of the fluid is between 10 ms and 1 s, preferably 10 ms and 100 ms, when passing the packed bed.</p>
+<p id="p-0019" num="0018">The fluid is heated to a temperature between 80 and 200&#xb0; C., preferably between 90 and 180&#xb0; C., more preferably between 95 and 160&#xb0; C.</p>
+<p id="p-0020" num="0019">As mentioned above a high frequency alternating magnetic field (AC-field) of at least 50 kHz is applied for generating heat in at least a thin interfacial layer of the metallic particles. The AC field is applied by using at least one induction coil with a coil number of 3-25, preferably 5-10. The material of the induction coil is preferably copper with low electrical resistance and the current flow through the induction coil is at least 1.5 kA (AC with 50 kHz frequency).</p>
+<p id="p-0021" num="0020">The present process is conducted in a reactor comprising at least one packed bed of at least one metal as heat transfer medium and at least one alternating magnetic field source associated for inducing inductive heating of at least one metal in the packed bed.</p>
+<p id="p-0022" num="0021">In an embodiment the casing of the reactor is made of material inert to magnetic induction, such as quartz glass, ceramics, plastics, in order to selectively heat the metallic constituents of the packed bed and must resist (local) pressure/temperature conditions and might be of transparent nature for process control. The induction coil as magnetic source may be arranged such that the coil surrounds the outer side of the reactor.</p>
+<p id="p-0023" num="0022">The reactor may also comprise means for controlling the magnetic field strength a) by deflecting the magnetic field towards the tube axis or b) restricting the fluid flow in the tube to a narrow gap concentric to the coil. An antenna-like shape of the metallic packed bed may function as flux guide. The reactor is operated such that a high fluid flow rate, rapid heat transfer and distribution of thermal energy is achieved by high Reynold's number and short heat transfer distances, in particular turbulent flow in narrow channels. </p>
+<p id="p-0024" num="0023">The process and reactor according to the proposed solution allow for sub-second homogeneous heating. This is achieved by preparing an interface with high specific surface area and heating it evenly in the present reactor, e.g. microreactors or flow reactors of inductively heated packed-beds of, e.g., nanoparticles. Product temperatures between 70-190&#xb0; C. during millisecond holding times is the process window of the solution.</p>
+<p id="p-0025" num="0024">Heating the liquid by magnetic induction has been mostly applied for melting and hardening of metals. It enables efficient (&#x3e;90% efficiency) transfer of electrical energy to heat. Poor electrical conductivity and low magnetic permeability of fluid foods prevent heating the liquid directly. So, heating occurs indirectly by incorporating a metallic heat transfer medium in the liquid, e.g., nanoparticles or particle packed beds. Its interface is heated through magnetic induction. High frequency alternating magnetic fields (e.g., 50 kHz) enable confining heat generation to a thin interfacial layer in metals. Thus, ferritic steel (i.e. high-chromium and low carbon content) with large magnetic permeability proves itself as beneficial. Its inferior electrical conductivity in comparison to copper or iron, for example, provides further benefit for greater heat generation. The composition of the reactor casing/tube must be inert to magnetic induction (e.g., quartz glass, ceramics, plastics), in order to selectively heat the metallic heat transfer medium. Regulating fluid flow velocity and induction system settings (e.g., electrical current, power and frequency) are effective means for regulating the final fluid outlet temperature during operation. The former influences the residence time at high temperatures. Too low flow may result in local overheating of the fluid. Between operation sequences exchange of metallic heat transfer medium (e.g., dimensions, composition) or coil (e.g., dimensions, number of turns) are viable options for optimizing the process.</p>
+<p id="p-0026" num="0025">In order to achieve high temperatures without local overheating, operation of inductively heated reactor must allow high fluid flow rate and rapid transfer and distribution of thermal energy. The latter is achieved with high Reynold's numbers and short heat transfer distances, or more explicitly, turbulent flow in narrow channels. Correspondingly, homogeneous liquid heating (including both temperature-time and residence time distribution) requires means to control the magnetic field strength by either deflection of the magnetic field towards the tube axis or restriction of fluid flow in the tube to a narrow gap concentric to the coil. An antenna-like shape of the metallic heat transfer medium, e.g., packed bed, enables the former because of its ability to function as flux guide. Practical implementations, such as packed beds of steel spheres or slender tubes with a concentric rod, lead to fluid flow to pass through narrow gaps. In conventional thermal  processing narrow gaps can be detrimental for continuous high performance due to fouling and gradual clogging. However, sufficiently short high-temperature residence times, should markedly decrease fouling as inferred from lower expected protein denaturation (i.e. greater nutrient retention). Nonetheless, removing fouling deposits and clogging particulate matter is possible by backwards flushing as well as controllably heating the metallic heat transfer medium, e.g., packed bed, in the absence of liquids through magnetic induction. The latter chars adhering organics that are removed during subsequent flushing.</p>
+<p id="p-0027" num="0026">By ensuring high modularity of the setup, quick exchange of the packed bed and tube allow for easy cleanability as well as process analysis, e.g. quantification of fouling. This feature also offers the opportunity of changing the setup alignment or sequence of the individual parts, depending on e.g. packed bed geometry, flow characteristics and downstream components.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0006" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0028" num="0027">The solution will be explained in the following in more detail with reference to the figures.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref> show a schematic views of surface magnetization and fluid heating ability of a packed bed (PB) according to the solution.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0007" level="1">DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref> (parts a-j) illustrates various embodiments of a PB according to the solution. A PB of ferritic metal spheres in a tubular reactor (one eighth section) are heated inductively from an alternating (50 kHz) electrical current (1.5 kA) through the surrounding coil (8 turns).</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref> show computed magnetization of a flat (<figref idref="DRAWINGS">FIG. <b>1</b></figref> part a), cone-like (<figref idref="DRAWINGS">FIG. <b>1</b></figref> part b), hollow diamond-like (<figref idref="DRAWINGS">FIG. <b>1</b></figref> part c), a random intermixed (with inert particles) (<figref idref="DRAWINGS">FIG. <b>2</b></figref> part g), and an embedded (in inert particles) (<figref idref="DRAWINGS">FIG. <b>2</b></figref> part i). Increasing PB thickness is ineffective due to magnetization mostly being confined to the external interface as indicted by black arrows in <figref idref="DRAWINGS">FIG. <b>1</b></figref> part a. Magnetization is more homogeneously distributed for antenna-like PB (<figref idref="DRAWINGS">FIG. <b>1</b></figref> parts b and c). A fluid (water) flowing (5 cm s<sup>&#x2212;1</sup>, yellow arrow) through the PB is heated. Temperature maps of a cross-section are shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref> parts d, e, f, and <figref idref="DRAWINGS">FIG. <b>2</b></figref> parts h and j. Homogeneity and magnitude of fluid temperature depends on PB morphology. </p>
+<p id="p-0032" num="0031">Increasing the specific surface area of the inductively heated metal, such as by opting for a porous structure (e.g., PB), is an intuitive approach for increasing the heat exchange area. However, inductive heating of the pore interfaces within the metal is not effective for non-isolated and touching PB building blocks due to exponential decay of the internal magnetic field strength (Zinn, S., Semiantin, S. L., Harry, I. L. &#x26; Jeffress, R. D. <i>Elements of Induction Heating: Design, Control, and Applications</i>. Carnes Publication Services Inc., 1988) (see <figref idref="DRAWINGS">FIG. <b>1</b></figref> part a). Thick PB structures exhibit no benefit over thin ones. On the contrary, they prolong high-temperature residence time and increase pressure drop.</p>
+<p id="p-0033" num="0032">Realizing high-specific surface area with small particles also exhibits worse heating performance than larger ones due to inferior ability to confine the magnetic field into the particle. A more viable approach for increasing sought high interfacial area is by enhancing particle surface roughness.</p>
+<p id="p-0034" num="0033">In order to achieve high temperatures (<figref idref="DRAWINGS">FIG. <b>1</b></figref> parts d, e f, and <figref idref="DRAWINGS">FIG. <b>2</b></figref> parts h and j without local overheating, operation of inductively heated reactor must allow high fluid flow rate and rapid transfer and distribution of thermal energy. The latter is achieved with high Reynold's numbers and short heat transfer distances, or more explicitly, turbulent flow in narrow channels. Here, a tubular reactor like in Duquenne et al. is investigated (<figref idref="DRAWINGS">FIG. <b>1</b></figref> parts a, b, c, and <figref idref="DRAWINGS">FIG. <b>2</b></figref> parts g and i). The reactor tube composition must be inert to magnetic induction (e.g., quartz glass, ceramics, plastics), in order to selectively heat the metallic heat transfer medium. This assembly exhibits the greatest exerted magnetic field strength at the inner wall of the tube because of its decay towards the coil axis. Correspondingly, homogeneous liquid heating (i.e. temperature and residence time) requires either deflection of the magnetic field towards the tube axis or restriction of fluid flow in the tube to a narrow gap concentric to the coil. An antenna-like shape of the PB (<figref idref="DRAWINGS">FIG. <b>1</b></figref> parts b and c) enables the former because of its ability to function as flux guide (Kondo, T. &#x26; Itozaki, H. <i>Physica C </i>392-396, 1401-1405, 2003). Computational results suggest effectivity in regards to fluid temperature homogeneity and magnitude (<figref idref="DRAWINGS">FIG. <b>1</b></figref> parts d, e, f, and <figref idref="DRAWINGS">FIG. <b>2</b></figref> parts h and j). A centered metallic rod or wire can form a narrow gap between the tube inner wall. </p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A process for heating at least one fluid by magnetic induction using at least one metal as heat transfer medium,
+<claim-text>wherein the metal is incorporated into the fluid to be heated as a packed bed, and</claim-text>
+<claim-text>wherein a high frequency alternating magnetic field (AC-field) of at least 50 kHz is applied for generating heat in at least a layer of the metal and the generated heat is subsequently transferred to the fluid to be heated.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the fluid to be heated is a fluid food, in particular a beverage, like milk or juice, or a fluid used in the chemical industry, pharmaceutical industry or biotech industry.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the metal comprises spheres with an average diameter between 0.1 and 10 mm, preferably between 0.5 and 8 mm, and more preferably between 1 and 4 mm.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the metal comprises ferritic steel, in particular a chemically inert ferritic steel with a high chromium and low carbon content, with high magnetic permeability and low electrical conductivity.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the metal is coated for preventing oxidation and electrical insulation.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The process according <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the particle packed bed comprises of metallic particles intermixed with inductively inert particles for providing electrical insulation between metallic particles.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein packed the particle packed bed comprises metallic particles that are intermixed with inert particles or are embedded into inert particles.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the packed bed of the at least one material is at least one flat packed bed, a cone-like shaped packed bed or a hollow diamond-like shaped packed bed.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the flow velocity of the fluid through the packed bed is 1-10 cm/s, preferably 3-8 cm/s, more preferably 5 cm/s.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the fluid is heated to a temperature between 80 and 200&#xb0; C., preferably between 90 and 180&#xb0; C., more preferably between 95 and 160&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the residence time of the fluid is between 10 ms and 1 s, preferably 10 ms and 100 ms, when passing the packed bed.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the alternating magnetic field is applied by using at least one induction coil with a coil number of 3-25, preferably 5-10.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. A reactor for heating at least one fluid in a process according to <claim-ref idref="CLM-00001">claim 1</claim-ref> comprising at least one packed bed of at least one metal as heat transfer medium and at least one alternating magnetic field source associated with the reactor for inductive heating of the at least one metal in the packed bed.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The reactor according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the reactor casing is made of material inert to magnetic induction, such as glass, ceramics, plastics, in order to selectively heat the metallic heat transfer medium.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The reactor according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the magnetic source is an induction coil surrounding the outer side of the reactor.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The reactor according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein a centered metallic rod or wire is provided for forming a narrow gap between the tube inner wall.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

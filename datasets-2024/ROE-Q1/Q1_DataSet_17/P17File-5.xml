@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225333A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225333</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18002079</doc-number>
+<date>20210617</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>GB</country>
+<doc-number>2009314.2</doc-number>
+<date>20200618</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>65</main-group>
+<subgroup>22</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>30</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>P</subclass>
+<main-group>17</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>65</main-group>
+<subgroup>22</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>30</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20210801</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>P</subclass>
+<main-group>17</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">PEST CONTROL COMPOSITION</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>RECKITT BENCKISER LLC</orgname>
+<address>
+<city>Parsippany</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>DIURO</last-name>
+<first-name>Kyle</first-name>
+<address>
+<city>Montvale</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>SINGH</last-name>
+<first-name>Bikramjit</first-name>
+<address>
+<city>Montvale</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/GB2021/051544</doc-number>
+<date>20210617</date>
+</document-id>
+<us-371c12-date><date>20221216</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention relates to a pest control composition comprising one or more linear sulphated polysaccharides, one or more surfactants, one or more alkali metal salts of a carboxylic acid, and one or more active ingredients, wherein the composition comprises at least 40 wt. % water, based on the total weight of the composition and wherein the composition has a melting point higher than 30&#xb0; C. The invention also relates to a pest control product comprising the pest control composition according to the invention and a container in which the composition is contained. The invention relates to a method for preparing said pest control product. Finally, the invention relates to the use of the composition, the product, or the product obtained by the method, as a rodent repellent.</p>
+</abstract>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<p id="p-0002" num="0001">The present invention relates to a pest control composition, to a pest control product, to a method for preparing the pest control product, and to the use of the composition, the product or the product obtained by the method as a rodent repellent.</p>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Existing products such as rodent repellent products are almost exclusively trigger sprays or spreadable granules. Triggers have concern about their overall longevity and the residues they may leave when they are applied. Granules meanwhile have concerns over their safety as they need to be spread over a large area in which they can come in contact with children and pets. Other product formats such as gels are designed to work together with an applicator which heats up the gel formulation to diffuse the actives.</p>
+<p id="p-0004" num="0003">Therefore, there is a need of a composition comprising one or more active ingredients capable of diffusing said active ingredients without the need of an applicator. This means that the formulation should diffuse one or more active ingredients when exposed to air at room temperature. Furthermore, the composition should diffuse said one or more active ingredients during a defined amount of time, meaning that the one or more active ingredients are controlled released.</p>
+<p id="p-0005" num="0004">Furthermore, there is a need of a composition comprising one or more active ingredients that melts at temperatures higher than room temperature, i.e. temperature higher than about 15&#xb0; C. to 25&#xb0; C., and that gels at room temperature. This allows for a composition that can be poured into a container and subsequently gels to form a product that provides for a controlled release of said active(s).</p>
+<p id="p-0006" num="0005">It will be understood that the gel must be stable at temperatures higher than, for example, 30&#xb0; C., because this will allow the gel to be used in various climates and a wide temperature range.</p>
+<p id="p-0007" num="0006">The present disclosure solves the problems associated with spreadable granules or trigger sprays by providing a composition that releases the odour of one or more active ingredients; e.g. essential oils, slowly over several weeks. The composition does not need to be applied or spread; instead it just needs to be exposed to the air in order to start diffusing the active(s).</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">In a first aspect, the present invention relates to a pest control composition comprising one or more linear sulphated polysaccharides, one or more surfactants, one or more alkali metal salts of a carboxylic acid, and one or more active ingredients, wherein the composition comprises at least 40 wt. % water, based on the total weight of the composition and wherein the composition has a melting point higher than 30&#xb0; C.</p>
+<p id="p-0009" num="0008">In one embodiment, the composition comprises at least 50 wt. % water, based on the total weight of the composition, preferably at least 60 wt. %, more preferably at least 70 wt. %, even more preferably at least 80 wt. %.</p>
+<p id="p-0010" num="0009">In another embodiment, the weight ratio water:linear sulphated polysaccharide is at least 50:1, preferably at least 60:1, more preferably at least 70:1 even more preferably at least 80:1.</p>
+<p id="p-0011" num="0010">The one or more linear sulphated polysaccharides may comprise or consist of one or more carrageenans.</p>
+<p id="p-0012" num="0011">The one or more alkali metal salts of a carboxylic acid may comprise or consist of one or more alkali salts of one or more monocarboxylic acids, preferably one or more alkali salts of one or more monocarboxylic acids having less than 5 carbon atoms, more preferably one or more alkali salts of acetic acid.</p>
+<p id="p-0013" num="0012">The one or more active ingredients may comprise one or more essential oils, preferably selected from the group consisting of peppermint oil, cornmint oil and combinations thereof.</p>
+<p id="p-0014" num="0013">In an embodiment, the composition has a melting point between 30&#xb0; C. and 60&#xb0; C., preferably between 40&#xb0; C. and 50&#xb0; C., more preferably between 40&#xb0; C. and 45&#xb0; C.</p>
+<p id="p-0015" num="0014">In another embodiment, the composition comprises at least 0.1 wt. % of the one or more linear sulphated polysaccharides, based on the total weight of the composition, preferably at least 0.5 wt. %, more preferably between 0.5 wt. % and 5 wt. %, even more preferably between 0.5 wt. % and 2.5 wt. %, most preferably between 0.5 wt. % and 2.0 wt. %.</p>
+<p id="p-0016" num="0015">In another embodiment, the weight ratio one or more linear sulphated polysaccharides:one or more alkali metal salts of a carboxylic acid is between 0.25:1 and 2:1, preferably between 0.5:1 and 1.5:1, more preferably between 0.75:1 and 1.25:1, even more preferably about 1:1.</p>
+<p id="p-0017" num="0016">The one or more surfactants may comprise or consist of anionic surfactants, preferably selected from the group consisting of alkali metal salts of fatty acids, alkali metal salts of C8-20 alkyl sulphates, sulfonated monoglycerides of C8-20 fatty acids, sarcosinates, taurates, and combinations thereof, more preferably selected from the group consisting of alkali metal salts of ricinoleic acid, alkali metal salts of dodecyl hydrogen sulphate, and combinations thereof.</p>
+<p id="p-0018" num="0017">In an embodiment, the alkali metal in the alkali metal salts of fatty acids, preferably selected from the group consisting of alkali metal salts of ricinoleic acid, is the same alkali metal in the one or more alkali metal salts of a carboxylic acid, preferably wherein said alkali metal is sodium.</p>
+<p id="p-0019" num="0018">In another embodiment, the composition is a rodent repellent composition.</p>
+<p id="p-0020" num="0019">In a second aspect, the invention relates to a pest control product comprising the pest control composition according to the first aspect and a container in which the composition is contained.</p>
+<p id="p-0021" num="0020">In a third aspect, the invention relates to a method for preparing the pest control product according to the second aspect, wherein said method comprises the steps of:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0021">a) preparing the pest control composition according to the first aspect by mixing all components at a temperature of at least 30&#xb0; C., preferably at least 40&#xb0; C., more preferably at least 50&#xb0; C., even more preferably at least 60&#xb0; C., most preferably at least 70&#xb0; C.;</li>
+        <li id="ul0002-0002" num="0022">b) pouring the liquid composition obtained in step a) into a container;</li>
+        <li id="ul0002-0003" num="0023">c) allowing the liquid composition in the container to gel at a temperature lower than 30&#xb0; C.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0022" num="0024">In a fourth aspect, the invention relates to the use of the composition according to the first aspect or the product according to the second aspect or the product obtained by the method according to the third aspect as a rodent repellent.</p>
+<heading id="h-0003" level="1">Definitions</heading>
+<p id="p-0023" num="0025">The following definitions are used in the present application.</p>
+<p id="p-0024" num="0026">&#x201c;Pest control composition&#x201d; as used in the present patent application means, a composition comprising at least one active ingredient, which is used as a means for directly or indirectly controlling, destroying, attracting or repelling a pest, for example, rodents.</p>
+<p id="p-0025" num="0027">&#x201c;Pest control product&#x201d; as used in the present patent application means, a product comprising a pest control composition, which is used as a means for directly or indirectly controlling, destroying, attracting or repelling a pest, for example, rodents.</p>
+<p id="p-0026" num="0028">&#x201c;Active ingredient&#x201d; as used in the present patent application means, a component of a pest control composition or product to which the intended effect(s) of the composition or product is(are) attributed, such as controlling, destroying, attracting or repelling a pest.</p>
+<p id="p-0027" num="0029">&#x201c;Carrageenans&#x201d; as used in the present application means, linear sulphated polysaccharides extracted from red edible seaweeds. The backbone of carrageenans is composed of d-galactose units linked alternately to &#x3b1;-(1&#x2192;3) and &#x3b2;-(1&#x2192;4).</p>
+<p id="p-0028" num="0030">&#x201c;Gel&#x201d; as used in the present application means, three-dimensional network which behaves like a solid and that exhibits no flow in the steady-state. A gel has a yield stress, meaning that this material does not flow until a certain shear-stress threshold is overcome.</p>
+<p id="p-0029" num="0031">&#x201c;Gelling start temperature&#x201d; as used in the present application means, temperature at which the first signs of gelling are observed in a composition that initially was in a liquid state. This is achieved by bringing a formulation or composition from a high temperature at which the formulation or composition is completely melted to a lower temperature at which the first signs of gelling are observed.</p>
+<p id="p-0030" num="0032">&#x201c;Gelling finish temperature&#x201d; as used in the present patent application means, temperature at which a formulation or composition is in a gel state. This is achieved by bringing a formulation or composition from the gelling start temperature to a lower temperature at which the formulation completely gels.</p>
+<p id="p-0031" num="0033">&#x201c;Melting start temperature&#x201d; as used in the present patent application means, temperature at which a formulation that is in a gel state starts melting. This is achieved by bringing a formulation or composition from a low temperature at which the formulation or composition is in a gel state to a higher temperature at which the first signs of melting are observed.</p>
+<p id="p-0032" num="0034">&#x201c;Melting finish temperature&#x201d; or &#x201c;Melting point&#x201d; as used in the present patent application means, temperature at which a formulation or composition is in a liquid state, i.e. melted. This is achieved by bringing a formulation or composition from the melting start temperature to a higher temperature at which the formulation completely melts.</p>
+<p id="p-0033" num="0035">&#x201c;Essential oils&#x201d; as used in the present patent application means, volatile and aromatic liquids which are isolated by a physical or chemical process from an odoriferous plant of a single botanical species. The oil bears the name of the plant from which it is derived; for example, rose oil or lavender oil. These essential oils obtained from plants may be extracted by distillation, steam distillation, expression or by extraction with fats or organic solvents.</p>
+<p id="p-0034" num="0036">&#x201c;Aroma chemicals&#x201d; as used in the present patent application means, natural isolates or synthetics which have an aroma. The natural isolates are removed as essential oil. The isolates are further modified. For example, rose and lavender oils may be distilled to produce linalool, which may then be acetylated to make linalyl acetate. Aroma chemicals are the main constituents of essential oils. These constituents are generally monoterpenes and sesquiterpenes, including but not limited to alcohols, aldehydes, ketones, esters, oxides and hydrocarbons.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0035" num="0037">In a first aspect, the present invention relates to a composition comprising one or more linear sulphated polysaccharides, one or more surfactants, one or more alkali metal salts of a carboxylic acid, and one or more active ingredients, wherein the composition comprises at least 40 wt. % water, based on the total weight of the composition and wherein the composition has a melting point higher than 30&#xb0; C.</p>
+<p id="p-0036" num="0038">Preferably said one or more linear sulphated polysaccharides comprise or consist of one or more carrageenans. Carrageenans are obtained from red seaweeds and it has different types depending on the way method used for their extraction. Examples of carrageenans are iota-carrageenan, kappa-carrageenan, lambda-carrageenan, furcellaran, refined and semi-refined carrageenans.</p>
+<p id="p-0037" num="0039">It is known that carrageenans can be used as thickening and stabilizing agents. However, gels based only on carrageenans are unstable and have low melting point.</p>
+<p id="p-0038" num="0040">The present inventors have observed that by adding one or more alkali metal salts of a carboxylic acid, e.g. calcium acetate or sodium acetate, to a composition comprising one or more linear sulphated polysaccharides, e.g. carrageenans, gels are obtained, which are more stable, have higher melting temperatures and have a higher strength. This aids in the slow release of the one or more active ingredients, prolonging the composition's usage time. A higher strength will be seen as a gel having a higher yield stress or a higher shear modulus. Without wishing to be bound to any theory the present inventors believe that the alkali metal salts of a carboxylic acid form strong bonds with the linear sulphated polysaccharides, e.g. carrageenans, which leads to a gel having a high melting point and a high strength.</p>
+<p id="p-0039" num="0041">The present inventors have observed that a composition according to the invention, in which preferably said one or more linear sulphated polysaccharides comprise or consist of one or more carrageenans, allows for a controlled release of the one or more actives. The composition just needs to be exposed to the air at room temperature, i.e. between 15&#xb0; C. and 25&#xb0; C., to start diffusing the actives.</p>
+<p id="p-0040" num="0042">The composition may comprise at least 0.1 wt. % of the one or more linear sulphated polysaccharides, based on the total weight of the composition, preferably at least 0.5 wt. %, more preferably between 0.5 wt. % and 5 wt. %, even more preferably between 0.5 wt. % and 2.5 wt. %, most preferably between 0.5 wt. % and 2.0 wt. %.</p>
+<p id="p-0041" num="0043">The one or more active ingredients may comprise one or more essential oils or one or more aroma chemicals. Examples of essential oils are rose oil, lavender oil, peppermint oil, citronella oil, clove oil, geranium oil, mint oil, lemon grass oil, garlic oil, thyme oil, cedar oil, cornmint oil and cinnamon oil. Preferably, the at least one or more essential oils are selected from the group consisting of peppermint oil, cornmint oil and combinations thereof. Peppermint oil, cornmint oil and combinations thereof are preferred because of their efficacy as rodent repellents.</p>
+<p id="p-0042" num="0044">The composition may comprise at least 50 wt. % water, based on the total weight of the composition, preferably at least 60 wt. %, more preferably at least 70 wt. %, even more preferably at least 80 wt. %. Even at such a high water concentration the composition is in a gel state at a temperature lower than 30&#xb0; C.</p>
+<p id="p-0043" num="0045">The weight ratio water:linear sulphated polysaccharide may be at least 50:1, preferably at least 60:1, more preferably at least 70:1 even more preferably at least 80:1.</p>
+<p id="p-0044" num="0046">The composition according to the invention has a melting point higher than 30&#xb0; C. This melting point corresponds to the melting finish temperature. The composition may have a melting point of, for example, between 30&#xb0; C. and 60&#xb0; C., preferably between 40&#xb0; C. and 50&#xb0; C., more preferably between 40&#xb0; C. and 45&#xb0; C. A composition with such a melting point can be sued in various climates and in a wider temperature range that a gel based only on carragennans.</p>
+<p id="p-0045" num="0047">Different alkali metal salts of a carboxylic acid influence the melting temperatures, opacity and strength of the compositions. These salts do not however weaken the resulting controlled release of the one or more active ingredients; the active ingredients are still released in a slow, constant, and controlled manner over the life of the product.</p>
+<p id="p-0046" num="0048">Preferably the one or more alkali metal salts of a carboxylic acid comprise or consist of one or more alkali salts of one or more monocarboxylic acids, preferably one or more alkali salts of one or more monocarboxylic acids having less than 5 carbon atoms, more preferably one or more alkali salts of acetic acid.</p>
+<p id="p-0047" num="0049">The weight ratio of the one or more linear sulphated polysaccharides:one or more alkali metal salts of a carboxylic acid may be between 0.25:1 and 2:1, preferably between 0.5:1 and 1.5:1, more preferably between 0.75:1 and 1.25:1, even more preferably about 1:1.</p>
+<p id="p-0048" num="0050">The composition according to the invention comprises one or more surfactants. Examples of surfactants include but are not limited to any one or a combination of anionic, cationic, zwitterionic, nonionic and polymeric surfactants.</p>
+<p id="p-0049" num="0051">Preferably the one or more surfactants comprise or consist of anionic surfactants, preferably selected from the group consisting of alkali metal salts of fatty acids, alkali metal salts of C<sub>8-20 </sub>alkyl sulphates, sulfonated monoglycerides of C<sub>8-20 </sub>fatty acids, sarcosinates, taurates, and combinations thereof, more preferably selected from the group consisting of alkali metal salts of ricinoleic acid, alkali metal salts of dodecyl sulphate, and combinations thereof. Specially preferred are sodium ricinoleate and sodium dodecyl sulphate.</p>
+<p id="p-0050" num="0052">Anionic surfactants have a polar group selected from the group comprising carboxylates, sulphates, sulfonates and phosphates, and an alkyl or aralkyl hydrophobic chain. Anionic surfactants include alkylbenzene sulfonates, metal salts of fatty acids, lauryl sulphate, di-alkyl sulfosuccinate, lignosulfonates etc.</p>
+<p id="p-0051" num="0053">In a preferred embodiment, the alkali metal in the alkali metal in the alkali metal salts of fatty acids, preferably selected from the group consisting of alkali metal salts of ricinoleic acid, is the same alkali metal in the one or more alkali metal salts of a carboxylic acid, preferably wherein said alkali metal is sodium. The present inventors have observed that when the alkali metal in the surfactant is the same alkali metal in the alkali metal salt of the carboxylic acid, the obtained composition is transparent. For example, when the one or more surfactants are sodium ricinoleate and the alkali metal salts of a carboxylic acid is sodium acetate, the composition has a high melting point and it is transparent.</p>
+<p id="p-0052" num="0054">The pest control composition is preferably a rodent repellent composition.</p>
+<p id="p-0053" num="0055">In an embodiment the pest control composition is in the form of a gel.</p>
+<p id="p-0054" num="0056">In a preferred embodiment, the pest control composition comprises one or more carrageenans, one or more anionic surfactants, one or more alkali salts of acetic acid, and one or more essential oils, wherein:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0057">the composition comprises at least 40 wt. % water, based on the total weight of the composition,</li>
+        <li id="ul0004-0002" num="0058">the composition has a melting point higher than 30&#xb0; C., and</li>
+        <li id="ul0004-0003" num="0059">the essential oils are selected from the group consisting of peppermint oil, cornmint oil and combinations thereof.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0055" num="0060">In another preferred embodiment, the pest control composition comprises one or more carrageenans, one or more anionic surfactants, one or more alkali salts of acetic acid, and one or more essential oils, wherein:
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0000">
+    <ul id="ul0006" list-style="none">
+        <li id="ul0006-0001" num="0061">the one or more anionic surfactants are selected from the group consisting of alkali metal salts of ricinoleic acid, alkali metal salts of dodecyl hydrogen sulphate, and combinations thereof, preferably sodium salts of ricinoleic acid, sodium salts of dodecyl hydrogen sulphate, and combinations thereof;</li>
+        <li id="ul0006-0002" num="0062">the composition comprises at least 40 wt. % water, based on the total weight of the composition,</li>
+        <li id="ul0006-0003" num="0063">the composition has a melting point higher than 30&#xb0; C., and</li>
+        <li id="ul0006-0004" num="0064">the essential oils are selected from the group consisting of peppermint oil, cornmint oil and combinations thereof.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0056" num="0065">In another preferred embodiment, the pest control composition comprises one or more carrageenans, one or more anionic surfactants, sodium acetate, and one or more essential oils, wherein:
+<ul id="ul0007" list-style="none">
+    <li id="ul0007-0001" num="0000">
+    <ul id="ul0008" list-style="none">
+        <li id="ul0008-0001" num="0066">the one or more anionic surfactants comprise sodium ricinoleate;</li>
+        <li id="ul0008-0002" num="0067">the composition comprises at least 40 wt. % water, based on the total weight of the composition,</li>
+        <li id="ul0008-0003" num="0068">the composition has a melting point higher than 30&#xb0; C., and</li>
+        <li id="ul0008-0004" num="0069">the essential oils are selected from the group consisting of peppermint oil, cornmint oil and combinations thereof.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0057" num="0070">In another preferred embodiment, the pest control composition comprises one or more carrageenans, one or more anionic surfactants, potassium acetate, and one or more essential oils, wherein:
+<ul id="ul0009" list-style="none">
+    <li id="ul0009-0001" num="0000">
+    <ul id="ul0010" list-style="none">
+        <li id="ul0010-0001" num="0071">the one or more anionic surfactants comprise sodium lauryl sulphate;</li>
+        <li id="ul0010-0002" num="0072">the composition comprises at least 40 wt. % water, based on the total weight of the composition,</li>
+        <li id="ul0010-0003" num="0073">the composition has a melting point higher than 30&#xb0; C., and</li>
+        <li id="ul0010-0004" num="0074">the essential oils are selected from the group consisting of peppermint oil, cornmint oil and combinations thereof.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0058" num="0075">In a second aspect, the invention relates to a product comprising the composition according to the first aspect and a container in which said composition contained.</p>
+<p id="p-0059" num="0076">The container may be made of glass, plastic, ceramic, a polymer, a metal, a post-transition metal, or any other material that is solid at a temperature of at least 80&#xb0; C.</p>
+<p id="p-0060" num="0077">The product comprising the composition according to the invention starts diffusing said one or more actives once it is exposed to the air. The one or more active ingredients start working and an effect is achieved.</p>
+<p id="p-0061" num="0078">In an embodiment the pest control product is a rodent repellent product.</p>
+<p id="p-0062" num="0079">In a third aspect, the invention relates to a method for preparing the product according to the second aspect, said method comprising the steps of:
+<ul id="ul0011" list-style="none">
+    <li id="ul0011-0001" num="0000">
+    <ul id="ul0012" list-style="none">
+        <li id="ul0012-0001" num="0080">a) preparing the pest control composition according to the first aspect by mixing all components at a temperature of at least 30&#xb0; C., preferably at least 40&#xb0; C., more preferably at least 50&#xb0; C., even more preferably at least 60&#xb0; C., most preferably at least 70&#xb0; C.,</li>
+        <li id="ul0012-0002" num="0081">b) pouring the liquid composition obtained in step a) into a container,</li>
+        <li id="ul0012-0003" num="0082">c) allowing the liquid composition in the container to gel at a temperature lower than 30&#xb0; C.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0063" num="0083">The temperature reached in step a) should be of at least the finish melting temperature of the composition. Conversely, the temperature in step c) should be at most that of the finish gelling temperature of the composition.</p>
+<p id="p-0064" num="0084">The temperature in step a) needs to be high enough to allow all ingredients, e.g. carrageenan, essential oils, and metal salts, to dissolve in water, which leads to a transparent, translucent or opaque liquid composition.</p>
+<p id="p-0065" num="0085">In a fourth aspect, the invention relates to the use of the composition according to the first aspect or the product according to the second aspect or the product obtained by the method according to the third aspect as a rodent repellent.</p>
+<p id="p-0066" num="0086">The invention will be further described, by way of example, with the reference to the following non-limiting embodiments.</p>
+<heading id="h-0005" level="1">EXAMPLES</heading>
+<p id="p-0067" num="0087">Formulations</p>
+<p id="p-0068" num="0088">Several formulations were prepared by mixing the ingredients shown in Table 1 at a temperature of 75&#xb0; C. The mixture was subsequently poured into a container, e.g. a glass jar. The product formed by the mixture in the container was brought to room temperature, i.e. about 25&#xb0; C. At this temperature the composition behaved like a gel. Formulation A is a comparative formulation.</p>
+<p id="p-0069" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Formulations</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="56pt" align="left"/>
+<colspec colname="1" colwidth="161pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Formulation</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Ingredient</entry>
+<entry>A</entry>
+<entry>1</entry>
+<entry>2</entry>
+<entry>3</entry>
+<entry>4</entry>
+<entry>5</entry>
+<entry>6</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="21pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<colspec colname="6" colwidth="21pt" align="char" char="."/>
+<colspec colname="7" colwidth="21pt" align="char" char="."/>
+<colspec colname="8" colwidth="21pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Carrageenan</entry>
+<entry>1.95</entry>
+<entry>0.95</entry>
+<entry>0.95</entry>
+<entry>0.95</entry>
+<entry>0.95</entry>
+<entry>0.95</entry>
+<entry>0.95</entry>
+</row>
+<row>
+<entry>Water</entry>
+<entry>90.03</entry>
+<entry>90.05</entry>
+<entry>90.05</entry>
+<entry>90.05</entry>
+<entry>90.05</entry>
+<entry>90.05</entry>
+<entry>90.05</entry>
+</row>
+<row>
+<entry>Cornmint oil</entry>
+<entry>3.00</entry>
+<entry>3.00</entry>
+<entry>3.00</entry>
+<entry>3.00</entry>
+<entry>3.00</entry>
+<entry>3.00</entry>
+<entry>3.00</entry>
+</row>
+<row>
+<entry>Sodium Lauryl</entry>
+<entry>2.00</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>2.00</entry>
+<entry>2.00</entry>
+<entry>2.00</entry>
+</row>
+<row>
+<entry>Sulphate 30%</entry>
+</row>
+<row>
+<entry>Sodium</entry>
+<entry/>
+<entry>2.00</entry>
+<entry>2.00</entry>
+<entry>2.00</entry>
+</row>
+<row>
+<entry>Ricinoleate</entry>
+</row>
+<row>
+<entry>Calcium</entry>
+<entry/>
+<entry>1.00</entry>
+<entry/>
+<entry/>
+<entry>1.00</entry>
+</row>
+<row>
+<entry>Acetate</entry>
+</row>
+<row>
+<entry>Sodium</entry>
+<entry/>
+<entry/>
+<entry>1.00</entry>
+<entry/>
+<entry/>
+<entry>1.00</entry>
+</row>
+<row>
+<entry>Acetate</entry>
+</row>
+<row>
+<entry>Potassium</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>1.00</entry>
+<entry/>
+<entry/>
+<entry>1.00</entry>
+</row>
+<row>
+<entry>Acetate</entry>
+</row>
+<row>
+<entry>Glycerol</entry>
+<entry>3.00</entry>
+<entry>3.00</entry>
+<entry>3.00</entry>
+<entry>3.00</entry>
+<entry>3.00</entry>
+<entry>3.00</entry>
+<entry>3.00</entry>
+</row>
+<row>
+<entry>Additives</entry>
+<entry>0.02</entry>
+<entry>0.00</entry>
+<entry>0.00</entry>
+<entry>0.00</entry>
+<entry>0.00</entry>
+<entry>0.00</entry>
+<entry>0.00</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0070" num="0089">Performance Tests</p>
+<p id="p-0071" num="0090">The performance of the formulations in Table 1 was evaluated by measuring the gelling start temperature, the gelling finish temperature, the melting start temperature, the melting finish temperature and the opacity.</p>
+<p id="p-0072" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="259pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Performance of different formulations</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Gelling</entry>
+<entry/>
+<entry>Melting</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Gelling start</entry>
+<entry>finish</entry>
+<entry>Melting start</entry>
+<entry>finish</entry>
+</row>
+<row>
+<entry/>
+<entry>temperature</entry>
+<entry>temperature</entry>
+<entry>temperature</entry>
+<entry>temperature</entry>
+</row>
+<row>
+<entry>Formulation</entry>
+<entry>(&#xb0; C.)</entry>
+<entry>(&#xb0; C.)</entry>
+<entry>(&#xb0; C.)</entry>
+<entry>(&#xb0; C.)</entry>
+<entry>Opacity</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>A</entry>
+<entry>35</entry>
+<entry>30</entry>
+<entry>35</entry>
+<entry>42</entry>
+<entry>Opaque</entry>
+</row>
+<row>
+<entry>1</entry>
+<entry>42</entry>
+<entry>32</entry>
+<entry>45</entry>
+<entry>55</entry>
+<entry>Opaque</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>30</entry>
+<entry>25</entry>
+<entry>35</entry>
+<entry>41</entry>
+<entry>Transparent</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>35</entry>
+<entry>28</entry>
+<entry>43</entry>
+<entry>55</entry>
+<entry>Translucent</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>41</entry>
+<entry>31</entry>
+<entry>44</entry>
+<entry>55</entry>
+<entry>Opaque</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>37</entry>
+<entry>32</entry>
+<entry>40</entry>
+<entry>49</entry>
+<entry>Opaque</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>50</entry>
+<entry>45</entry>
+<entry>53</entry>
+<entry>58</entry>
+<entry>Opaque</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0073" num="0091">Table 2 clearly shows that formulation A, not according to the invention as it does not contain any alkali metal salt of a carboxylic acid, has a gelling start temperature that is the same as the melting start temperature. Furthermore, the obtained composition is opaque.</p>
+<p id="p-0074" num="0092">Formulations 1 to 6, which are according to the invention, release the active ingredient in a controlled manner over time and melt at a temperature that is higher than the gelling temperature, ensuring that these formulations or compositions are stable at any condition in a home setting. Furthermore, formulation 2 is transparent.</p>
+<p id="p-0075" num="0093">Hence one or more objects of the present invention are achieved by the present which is further elucidated in the appended claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A pest control composition comprising:
+<claim-text>one or more linear sulphated polysaccharides;</claim-text>
+<claim-text>one or more surfactants;</claim-text>
+<claim-text>one or more alkali metal salts of a carboxylic acid; and</claim-text>
+<claim-text>one or more active ingredients,</claim-text>
+<claim-text>wherein the pest control composition comprises at least 40 wt. % water, based on the total weight of the pest control composition and wherein the pest control composition has a melting point higher than 30&#xb0; C.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pest control composition comprises at least 50 wt. % water, based on the total weight of the pest control composition, preferably at least 60 wt. %, more preferably at least 70 wt. %, even more preferably at least 80 wt. %.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the weight ratio of the water to the linear sulphated polysaccharide is at least 50:1, preferably at least 60:1, more preferably at least 70:1 even more preferably at least 80:1.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the one or more linear sulphated polysaccharides comprise or consist of one or more carrageenans.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the one or more alkali metal salts of a carboxylic acid comprise or consist of one or more alkali salts of one or more monocarboxylic acids, preferably one or more alkali salts of one or more monocarboxylic acids having less than 5 carbon atoms, more preferably one or more alkali salts of acetic acid.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the one or more active ingredients comprise one or more essential oils, preferably selected from the group consisting of peppermint oil, cornmint oil and combinations thereof.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pest control composition has a melting point between 30&#xb0; C. and 60&#xb0; C., preferably between 40&#xb0; C. and 50&#xb0; C., more preferably between 40&#xb0; C. and 45&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pest control composition comprises at least 0.1 wt. % of the one or more linear sulphated polysaccharides, based on the total weight of the pest control composition, preferably at least 0.5 wt. %, more preferably between 0.5 wt. % and 5 wt. %, even more preferably between 0.5 wt. % and 2.5 wt. %, most preferably between 0.5 wt. % and 2.0 wt. %.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the weight ratio of the one or more linear sulphated polysaccharides to the one or more alkali metal salts of a carboxylic acid is between 0.25:1 and 2:1, preferably between 0.5:1 and 1.5:1, more preferably between 0.75:1 and 1.25:1, even more preferably about 1:1.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the one or more surfactants comprise or consist of anionic surfactants, preferably selected from the group consisting of alkali metal salts of fatty acids, alkali metal salts of C<sub>8-20 </sub>alkyl sulphates, sulfonated monoglycerides of C<sub>8-20 </sub>fatty acids, sarcosinates, taurates, and combinations thereof, more preferably selected from the group consisting of alkali metal salts of ricinoleic acid, alkali metal salts of dodecyl hydrogen sulphate, and combinations thereof.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The pest control composition according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the alkali metal in the alkali metal salts of fatty acids, preferably selected from the group consisting of alkali metal salts of ricinoleic acid, is the same alkali metal in the one or more alkali metal salts of a carboxylic acid, preferably wherein said alkali metal is sodium.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pest control composition is a rodent repellent composition.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. A pest control product comprising the pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref> and a container in which the pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref> composition is contained.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. A method for preparing the pest control product according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein said method comprises the steps of:
+<claim-text>a) preparing the pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref> by mixing all components at a temperature of at least 30&#xb0; C., preferably at least 40&#xb0; C., more preferably at least 50&#xb0; C., even more preferably at least 60&#xb0; C., most preferably at least 70&#xb0; C.;</claim-text>
+<claim-text>b) pouring the liquid composition obtained in step a) into a container; and</claim-text>
+<claim-text>c) allowing the liquid composition in the container to gel at a temperature lower than 30&#xb0; C.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. A method of using the pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref> or a product comprising the pest control composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref> and a container in which the pest control composition is contained.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

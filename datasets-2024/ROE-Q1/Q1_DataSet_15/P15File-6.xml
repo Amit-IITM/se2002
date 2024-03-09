@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225353A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225353</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17996377</doc-number>
+<date>20210304</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>G</subclass>
+<main-group>3</main-group>
+<subgroup>48</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>G</subclass>
+<main-group>3</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>B</subclass>
+<main-group>25</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>75</main-group>
+<subgroup>32</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>75</main-group>
+<subgroup>58</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>G</subclass>
+<main-group>3</main-group>
+<subgroup>48</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>G</subclass>
+<main-group>3</main-group>
+<subgroup>0252</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>B</subclass>
+<main-group>25</main-group>
+<subgroup>005</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>75</main-group>
+<subgroup>326</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>75</main-group>
+<subgroup>5805</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>2215</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">METHOD AND SYSTEM FOR MAKING A PACKAGED CONFECTIONERY PRODUCT</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62985173</doc-number>
+<date>20200304</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>FONG</last-name>
+<first-name>Sonny</first-name>
+<address>
+<city>Pointe-Claire</city>
+<country>CA</country>
+</address>
+</addressbook>
+<residence>
+<country>CA</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>FONG</last-name>
+<first-name>Sonny</first-name>
+<address>
+<city>Pointe-Claire</city>
+<country>CA</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/CA2021/050283</doc-number>
+<date>20210304</date>
+</document-id>
+<us-371c12-date><date>20221017</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A system and method for the continuous packaging of a confectionary product, such as cannabinoid confectionary products, by providing a packaging tray comprising a plurality of cavities, depositing a liquid confectionary product in each of the plurality of cavities, and overlaying a lidding material over the confectionary products to form a plurality of packaged confectionary products. The deposited confectionary product may be cooled or cured before or after overlaying the lidding material.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="141.05mm" wi="113.11mm" file="US20230225353A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="209.04mm" wi="131.57mm" orientation="landscape" file="US20230225353A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="115.15mm" wi="161.29mm" orientation="landscape" file="US20230225353A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="111.93mm" wi="154.18mm" orientation="landscape" file="US20230225353A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="119.97mm" wi="160.61mm" orientation="landscape" file="US20230225353A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="213.70mm" wi="119.89mm" orientation="landscape" file="US20230225353A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="167.22mm" wi="137.58mm" orientation="landscape" file="US20230225353A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention pertains to the field of systems and methods for forming and packaging food items, and more specifically to systems and methods for forming cannabinoid confectionery products directly in their final sealed packaging.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">In known confectionery production systems and methods, the confectionery products are first formed in a mold and then must be sufficiently cooled, crystallized and/or solidified (i.e., set or cured) to facilitate removal from the mold before the final packaging steps can occur. This increases the length of the production line and time required for producing the final packaged product, resulting in higher production costs. The steps of removing the confectionery product from the mold and transferring the molded product to the final packaging cannot be carried out before the confectionery product has reached a sufficiently solidified state or the product risks being damaged during the transfer. Confectionery products may also require additional processing and handling steps after removal from the mold such as dusting with starch or powdered sugars to minimize stickiness to facilitate subsequent transfer to and storage in the final packaging materials. Conventional production systems thus place both time and quality control constraints on a producer due to concerns about product integrity during de-molding and final packaging steps.</p>
+<p id="p-0004" num="0003">The increased interest in confectionery products containing cannabinoids has led to the additional concern of providing packaging systems that minimize opportunities for tampering with the final packaged products, while also providing increased security against access to the packaged product by children.</p>
+<p id="p-0005" num="0004">Therefore there is a need for improved systems and methods that overcome the quality control and security drawbacks of prior art packaging systems.</p>
+<p id="p-0006" num="0005">This background information is provided to reveal information believed by the applicant to be of possible relevance to the present invention. No admission is necessarily intended, nor should be construed, that any of the preceding information constitutes prior art against the present invention.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">An object of the present invention is to provide a method and system for making a packaged confectionery product. In accordance with an aspect of the present invention, there is provided a method of making a packaged cannabinoid confectionery product, the method comprising the steps of: providing a packaging tray having a plurality of packaging cavities formed therein; depositing a prepared liquid cannabinoid confectionery product in each of the plurality of packaging cavities to form a plurality of molded cannabinoid confectionery products; and overlaying a lidding material over the plurality of molded cannabinoid confectionery products in the packaging tray to form a plurality of packaged confectionery products.</p>
+<p id="p-0008" num="0007">In accordance with another aspect of the present invention, there is provided a system for the continuous preparation of packaged confectionery products, the system comprising: a tray preparation station, adapted to prepare a packaging tray having a plurality of packaging cavities formed therein; a depositor station, adapted to deposit a prepared liquid cannabinoid confectionery product in each of the plurality of packaging cavities to form a plurality of molded cannabinoid confectionery products; and a lidding station, adapted to overlay a lidding material over the plurality of molded cannabinoid confectionery products in the packaging tray to form a plurality of packaged confectionery products.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE FIGURES</heading>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. <b>1</b></figref> illustrates a comparison of the method of the present invention with methods of the prior art.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a flowchart of a method for making a packaged confectionery product, in accordance with one embodiment of the present invention.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a flowchart of a method for making a packaged confectionery product, in accordance with one embodiment of the present invention.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a flowchart of a method for making a packaged confectionery product, in accordance with one embodiment of the present invention.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a perspective view of a packaged product prepared using a method in accordance with one embodiment of the present invention.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a perspective view of an array of cartoned products, in accordance with one embodiment of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0015" num="0014">The term &#x201c;confectionery product&#x201d; is used to define food items that contain sugar or other sweetening agents. In the context of the present invention, confectionery products include chocolate-based confectionery products and gelatin-based confectionery products. The term &#x201c;gelatin-based confectionery product&#x201d; is used to describe generally any sweet chewable candy in which a primary ingredient is gelatin or pectin, in addition to other optional ingredients such as food sweeteners, flavorings, colorants and functional ingredients such as dietary supplements, nutrients (for example vitamins, minerals or peptides) and/or pharmaceutically active or psychoactive substances. The terms &#x201c;gummy candy&#x201d;, &#x201c;gummies&#x201d; and &#x201c;jelly-type candies&#x201d; are provided as non-limiting descriptors of gelatin-based confectionery products that can be produced and packaged using the processes of the present invention.</p>
+<p id="p-0016" num="0015">The term &#x201c;chocolate-based confectionery product&#x201d; is used to describe a confectionery product in which a primary ingredient is chocolate or cocoa solids, in addition to other optional ingredients such as food sweeteners, flavorings, colorants and functional ingredients such as dietary supplements, nutrients (for example vitamins, minerals or peptides) and/or pharmaceutically active or psychoactive substances.</p>
+<p id="p-0017" num="0016">The term &#x201c;cannabinoid confectionery product&#x201d; is used to define confectionery products that contain one or more cannabinoid compounds as a functional ingredient. In the context of the present invention, cannabinoid confectionery products include chocolate-based cannabinoid confectionery products and gelatin-based cannabinoid confectionery products.</p>
+<p id="p-0018" num="0017">The term &#x201c;cannabinoid compound&#x201d; refers to psychoactive compounds that are extracted from the cannabis plant, and which include, but are not limited to, tetrahydrocannabinol (THC) and cannabidiol (CBD).</p>
+<p id="p-0019" num="0018">As used herein, the term &#x201c;about&#x201d; refers to a +/&#x2212;10% variation from the nominal value. It is to be understood that such a variation is always included in a given value provided herein, whether or not it is specifically referred to.</p>
+<p id="p-0020" num="0019">Unless defined otherwise, all technical and scientific terms used herein have the same meaning as commonly understood by one of ordinary skill in the art to which this invention belongs.</p>
+<p id="p-0021" num="0020">The methods of the present invention for packaging cannabinoid confectionery products are particularly suitable for packaging cannabinoid confectionery products that are in a liquid state prior to formation into the final cannabinoid confectionery product by providing a convenient way to package the cannabinoid confectionery products directly in their final package. The methods of the present invention therefore do not require a step of removing a hardened product from a mold prior to incorporation into a final packaging material since the confectionery product is formed directly in the final packaging material. This allows the product to be packaged without loss or degradation of product through unnecessary handling steps.</p>
+<p id="p-0022" num="0021">In one embodiment, the packaging methods of the present invention allow the step of sealing the product into its respective packaging cavity to be carried out before the confectionery product has reached its final solidified or cured state. This results in an expedited packaging process, while also minimizing handling steps.</p>
+<p id="p-0023" num="0022">The present system can be operated in a continuous manner to provide the final packaged confectionery product without interruption between the different steps in the packaging method. <figref idref="DRAWINGS">FIG. <b>1</b></figref> schematically depicts the method of the present invention depicted within the dashed line box <b>10</b>, and prior art steps are shown outside the dashed line box.</p>
+<p id="p-0024" num="0023">In accordance with the present invention, the method of making a packaged cannabinoid confectionery product is carried out using a packaging tray suitable for receiving the liquid confectionery products. The packaging tray has a plurality of packaging cavities formed therein, and is used as both the mold for forming the confectionery product and as the final packaging material.</p>
+<p id="p-0025" num="0024">In accordance with the present invention, the method of making the packaged confectionery product also comprises a step of depositing a prepared liquid confectionery product in each of the plurality of packaging cavities in the packaging tray.</p>
+<p id="p-0026" num="0025">In the case of chocolate confectionery products, the deposited liquid confectionery product is typically a molten chocolate product, which is allowed to set in place in the packaging tray. In the case of gelatin-based confectionery products, the deposited liquid confectionery product is typically a liquid gelatin-based mixture, which is allowed to set/gel in place in the packaging tray to provide the final hardened gummy or jelly-type product.</p>
+<p id="p-0027" num="0026">The present methods are particularly useful for manufacturing packaged gelatin-based confectionery products such as gummies and jelly-type edible products, which by nature tend to be sticky, thus presenting particular handling and packaging challenges, typically requiring an additional step of coating the confectionery product with starch or sugars to facilitate subsequent packing steps. The methods of the present invention do not necessitate de-molding or handling of the solidified product prior to packaging, allowing elimination of the prior art step of coating the product.</p>
+<p id="p-0028" num="0027">Elimination of the de-molding step allows the packaging process to be carried out with only a single point of product contact from fill to package, which significantly decreases the number of product manipulation steps, and which reduces the risk of exposure to potential contaminants or product identification/labeling errors.</p>
+<p id="p-0029" num="0028">The elimination of the de-molding step also optimizes process efficiencies by minimizing the possible loss of or damage to the final confectionery product that can result during the additional handling steps associated with subsequent packaging of the de-molded products.</p>
+<p id="p-0030" num="0029">In one embodiment, the packaging tray is provided as a preformed rigid or semi-rigid tray having one or more packaging cavities. In one embodiment, the packaging tray can be formed from preformed polymeric materials.</p>
+<p id="p-0031" num="0030">The polymeric materials used to form the packaging tray include, but are not limited to, polyethylene (PE), polyvinylchloride (PVC), polyvinylidene chloride (PVDC), chlorotrifluoroethylene (CTFE), polychlorotrofluororethylene (PCTFE), polystyrene (PS), and polyethylene terephthalate (PET) and combinations thereof. In one embodiment, the packaging tray is formed from a film comprising a blend of polymers. In one embodiment, the packaging tray is formed from polymeric materials provided as a laminate of two or more polymeric films. In one embodiment, the packaging tray is formed from a PVDC/PE/PVC laminate film.</p>
+<p id="p-0032" num="0031">In one embodiment, the packaging tray can be formed from preformed metallic materials. In one embodiment, the metallic material is an aluminum based alloy material. In one embodiment, the packaging tray is formed from a laminate comprising at least one layer of a metallic material.</p>
+<p id="p-0033" num="0032">In one embodiment, the packaging tray is provided as a layer of packaging film overlaid on a molding tray having one or more packaging cavities, wherein the packaging film conforms to the shape of the underlying molding tray.</p>
+<p id="p-0034" num="0033">In one embodiment, the packaging tray is formed of a thermoplastic material through a thermoforming process in which a thermoformable packaging film is overlaid on a molding tray and having one or more packaging cavities, wherein the packaging film conforms to the shape of the underlying molding tray upon heating, and hardens to a rigid or semi-rigid packaging tray upon cooling.</p>
+<p id="p-0035" num="0034">Suitable thermoformable materials range from soft materials to semi-rigid materials, and include, but are not limited to, polypropylene (PP), polyethylene (PE), polyamide/polyethylene (PA/PE), polycarbonate/polyethylene (PC/PE), glycol modified polyethylene terephthalate (PET), and polyvinyl chloride (PVC).</p>
+<p id="p-0036" num="0035">Many different materials and material gauges (thicknesses) are available for use as packaging films. Preferred thicknesses are between about 65 micrometers and about 300 micrometers.</p>
+<p id="p-0037" num="0036">Once the confectionery product has been deposited in the packaging cavities, a lidding material is provided to cover the deposited confectionery to provide the packaged cannabinoid confectionery product in its final hermetically-sealed packaged state.</p>
+<p id="p-0038" num="0037">In one embodiment, the lidding material is laid over the plurality of molded cannabinoid confectionery products in the packaging tray to form a plurality of packaged cannabinoid confectionery products.</p>
+<p id="p-0039" num="0038">The material used for lidding material can have similar characteristics to the material used for the packaging film (i.e., for forming the film cavities), or the sealing films can be thinner since there is no need to thermoform the sealing film.</p>
+<p id="p-0040" num="0039">In one embodiment, the lidding material is formed from a foil material.</p>
+<p id="p-0041" num="0040">In one embodiment, the lidding material is a &#x201c;push-through&#x201d; seal. In such an embodiment, the confectionery product is removed from the packaging cavity by pushing the product through the lidding material.</p>
+<p id="p-0042" num="0041">In one embodiment, the lidding material is provided as a childproof or child resistant resistant seal.</p>
+<p id="p-0043" num="0042">Childproof or child resistant seals can be provided in a number of configurations. In one embodiment, the childproof seal is provided as a multilayer laminate seal that requires multiple steps to remove the the confectionery product from the packaging cavity. In one embodiment, the lidding material is provided as a laminate comprising a combination of two or more layers of polymeric material, foil and/or paper.</p>
+<p id="p-0044" num="0043">In one embodiment, the lidding material is a &#x201c;tear-open&#x201d; seal that requires the consumer to tear the lidding material at a notch to provide access to the packaged confectionery product.</p>
+<p id="p-0045" num="0044">In one embodiment, the lidding material is a &#x201c;peel-open&#x201d; seal that requires the consumer to peel off an outer layer (e.g., a PET, or PET/paper laminate) to reveal the confectionery product.</p>
+<p id="p-0046" num="0045">In one embodiment, the lidding material is a &#x201c;peel-push&#x201d; multilayer seal that requires the consumer to peel off an outer layer (e.g., a PET, or PET/paper laminate) to reveal a further layer (e.g., a foil layer) that can be broken by pushing through the confectionery product.</p>
+<p id="p-0047" num="0046">In one embodiment, the lidding material is a &#x201c;peel-peel-push&#x201d; multilayer seal that requires the consumer to sequentially peel off two outer layers to reveal a further layer (e.g., a foil layer) that can be broken by pushing through the confectionery product.</p>
+<p id="p-0048" num="0047">In one embodiment, the lidding material is formed from a PET/Aluminum/PET-Paper laminate film as the child resistant lidding.</p>
+<p id="p-0049" num="0048">In one embodiment, after the lidding material has been applied, the plurality of packaged confectionery products is cut to provide a smaller set of packaged confectionery products.</p>
+<p id="p-0050" num="0049">In one embodiment, after the lidding material has been applied, the plurality of packaged confectionery products is cut into individually packaged confectionery products.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a schematic depiction of one embodiment of the packaging process of the present invention. In this embodiment, the packaging tray is provided as a preformed tray having a plurality of packaging cavities (<b>21</b>). The liquid confectionery product is deposited in the cavities (<b>22</b>) followed by overlaying of a lidding material on the packaging tray (<b>23</b>). The confectionery product is then allowed to cure (<b>24</b>), and the packaging tray is optionally cut into individual packaged products (<b>25</b>).</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a schematic depiction of one embodiment of the packaging process of the present invention. In this embodiment, the process includes the step of forming the packaging tray having a plurality of packaging cavities (<b>31</b>). The liquid confectionery product is deposited in the cavities (<b>32</b>) followed by cooling and/or curing confectionery product (<b>33</b>). The lidding material is overlaid on the packaging tray (<b>34</b>). The packaging tray is then optionally cut into individual packaged products (<b>35</b>).</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a schematic depiction of one embodiment of the packaging process of the present invention. In this embodiment, the packaging tray is provided as a preformed tray having a plurality of packaging cavities (<b>41</b>). The liquid confectionery product is deposited in the cavities (<b>42</b>) followed by overlaying of a lidding material on the packaging tray (<b>43</b>). The packaging tray is optionally cut into individual packaged products (<b>44</b>), and the individual packaged products are allowed to cure (<b>45</b>).</p>
+<p id="p-0054" num="0053">The embodiments depicted in <figref idref="DRAWINGS">FIGS. <b>2</b> to <b>4</b></figref> are not intended to be limiting, and may be modified. For example, the process depicted in <figref idref="DRAWINGS">FIG. <b>3</b></figref> may be modified by changing the first step to providing a preformed packaging tray. As another example of modifications that fall within the scope of the present invention, the processes depicted in <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>4</b></figref> may also include a cooling step before or after the lidding step.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. <b>5</b></figref> depicts a single unit packaging tray <b>50</b>, in accordance with one embodiment of the invention. In this embodiment, the tray includes packaging cavity <b>55</b>, lidding material <b>52</b>, and tray supports <b>51</b> located at each corner of the packaging tray to provide stability to the packaging tray within the carton.</p>
+<p id="p-0056" num="0055">The liquid confectionery product to be packaged may be prepared in accordance with preparation methods as are known in the art. For example, a chocolate-based confectionery product may be prepared by carrying out preparation steps including, but not limited to, the combining and blending of ingredients, followed by conching and/or tempering steps as required, to provide a liquid chocolate-based confectionery product. In a similar manner, a gelatin-based confectionery product may be prepared by carrying out preparation steps including, but not limited to, the combining and blending of ingredients to provide a liquid gelatin-based confectionery product.</p>
+<p id="p-0057" num="0056">The present invention also provides systems suitable for carrying out the methods of making the packaged confectionery products of the present invention, comprising a sequence of stations, each station being adapted to carry out one or more steps of the packaging process.</p>
+<p id="p-0058" num="0057">The selection and arrangement of stations in the production line is based on the particular characteristics and components of the confectionery which is being produced on the production line, and can be implemented using methods and equipment known in the art.</p>
+<p id="p-0059" num="0058">In one embodiment, the systems of the present invention can be adapted to manufacture and package both chocolate- and gelatin-based cannabinoid confectionery products.</p>
+<p id="p-0060" num="0059">The present packaging systems and processes are also adaptable to continuous-flow manufacturing processes, and can be appended in place of conventional packaging processes that are typically employed in processes and systems for producing confectionery products as are known in the art.</p>
+<p id="p-0061" num="0060">In one embodiment, the packaging process is carried out using a conveyor belt on which the packaging tray is carried and conveyed from station to station in the production line through the different steps of forming and packaging the cannabinoid confectionery product. In a preferred embodiment, the use of the conveyor belt facilitates the continuous nature of the packaging process.</p>
+<p id="p-0062" num="0061">In one embodiment, the first station in the system is a tray preparation station used to provide and prepare the packaging tray to receive the cannabinoid confectionery product.</p>
+<p id="p-0063" num="0062">Where the packaging tray employed in the packaging process is provided as a preformed tray, the tray preparation station may simply involve placement of the preformed packaging tray in the production line to be conveyed through the sequence of stations.</p>
+<p id="p-0064" num="0063">In one embodiment in which the packaging tray employed in the packaging process is formed in situ as part of the packaging process, the tray preparation station of the present invention comprises a forming station.</p>
+<p id="p-0065" num="0064">In one embodiment, the packaging tray is formed on a molding tray by overlaying a packaging film, unwound from a reel under tension, onto the molding tray.</p>
+<p id="p-0066" num="0065">In one embodiment, the molding tray comprises a plurality of vacuum holes through the one or more mold cavities of the molding tray, allowing the packaging film to be stretched and drawn into each of the mold cavities in a conforming manner, thus forming a packaging cavity within each of the mold cavities in the molding tray.</p>
+<p id="p-0067" num="0066">In one embodiment, the packaging film is a thermoplastic film, and the forming station is a thermoforming station in which the one or more packaging cavities are formed in a thermoplastic packaging film using a thermoforming process. In this embodiment, the molding tray is supported above or below a heater element which is provided to soften the thermoplastic film. In one embodiment, the heating element is an infrared heater. Once the thermoplastic film has been sufficiently softened by radiant heat from the heater, a vacuum is applied to evacuate air from between the film and the molding tray, thus compelling the film to conform to the molding tray through formation of a vacuum-tight seal between the film and the upper side of the molding tray.</p>
+<p id="p-0068" num="0067">In an alternative embodiment, pressure forming could be used instead of vacuum forming to conform the film to the molding tray.</p>
+<p id="p-0069" num="0068">In an embodiment of the process in which a plurality of packaging trays is formed in the production line on a series of molding trays, the packaging film is unwound from the reel and overlaid on the series of molding trays.</p>
+<p id="p-0070" num="0069">In one embodiment, the formed film is retained in place on the molding tray and is conveyed to the next stage in the production line on the carrier plate.</p>
+<p id="p-0071" num="0070">In one embodiment, the thermoplastic film is cut approximately to the size of the carrier plate(s) before the conforming step is carried out. In one embodiment, the excess thermoplastic film is cut after the conforming step has been carried out.</p>
+<p id="p-0072" num="0071">Once the packaging cavities have been formed, the molding tray is lowered away from the heater and the film is allowed to cool. Once the packaging cavities have been formed, the resulting packaging tray is then passed through the remaining stations of the production line to continue with preparation of the packaged confectionery product.</p>
+<p id="p-0073" num="0072">In one embodiment, each packaging cavity remains nested in a respective one of the mold cavities until at least after the molded confectionery product has been prepared.</p>
+<p id="p-0074" num="0073">In one embodiment, the molding tray is carried on a movable carrier plate. In such an embodiment, the packaging process is carried out by carrying and conveying the carrier plate from station to station in the production line through the different steps of forming and packaging the confectionery product. In a preferred embodiment, the carrier plate is conveyed on a conveyor belt.</p>
+<p id="p-0075" num="0074">In one embodiment, the carrier plate doubles as a molding tray on which the packaging tray is formed by overlaying a packaging film over the molding tray. In this embodiment, the packaging film is conformed to the shape of the molding cavities in the carrier plate/molding tray to form the packaging tray.</p>
+<p id="p-0076" num="0075">In one embodiment, the carrier plates are transported from station to station. In one embodiment, the production line is operated in a continuous manner. In one embodiment, the carrier plate is conveyed between stations on a conveyor belt. In one embodiment, the production line is operated in a non-continuous manner. A non-continuous carrier plate based production line allows for independent control at each of the stations, with the individual carrier plate used as carrying supports at every stage of the packaging process.</p>
+<p id="p-0077" num="0076">The system of the present invention further comprises a depositor station at which the liquid confectionery (e.g., molten chocolate or liquid gelatin mixture) is deposited into the plurality of packaging cavities.</p>
+<p id="p-0078" num="0077">In one embodiment, the depositor station further comprises means for agitating or vibrating the liquid cannabinoid confectionery in one or more planes as required to spread the cannabinoid confectionary in the packaging cavities and/or to remove air from the liquid cannabinoid confectionery product.</p>
+<p id="p-0079" num="0078">The system of the present invention further comprises a lidding station. Once the molded confectionery product has been prepared, the packaging tray is then moved to the lidding station, where a lidding material is used to seal each of the plurality of packaging cavities, thus defining the internal volume encasing and hermetically sealing the packaged cannabinoid confectionery product.</p>
+<p id="p-0080" num="0079">In one embodiment, the plurality of packaging cavities is sealed by attaching a lidding material at a lidding station, thereby forming a sealed, filled package that holds a plurality of molded cannabinoid confectionery products.</p>
+<p id="p-0081" num="0080">In one embodiment, the lidding material is a thermoplastic material and may be comprised of the same material as the packaging film.</p>
+<p id="p-0082" num="0081">In one embodiment, the lidding material could be thinner and/or less rigid, or thicker and/or more rigid than the packaging film used to form the packaging tray.</p>
+<p id="p-0083" num="0082">For those embodiments in which a thermoplastic material is employed as the lidding material, the sealing step may be carried out by applying a heating element at the contact surfaces of the packaging film and the lidding material.</p>
+<p id="p-0084" num="0083">In further alternate embodiments, the lidding material could be formed from non-thermoplastic material such as a laminate material, a metallic foil material, or a laminate material comprising at least one layer of a metallic foil.</p>
+<p id="p-0085" num="0084">For those embodiments in which a non-thermoplastic material is employed as the lidding material, the sealing step may be carried out by applying an adhesive at the contact surfaces of the packaging film and the lidding material.</p>
+<p id="p-0086" num="0085">In one embodiment, the lidding material is provided as a childproof seal.</p>
+<p id="p-0087" num="0086">In one embodiment, each packaging cavity remains nested in a respective one of the mold cavities until at least after sealing step has been performed in the sealing station.</p>
+<p id="p-0088" num="0087">The system of the present invention may also comprise a cooling station and/or a curing station. If necessary, the deposited product can be further cooled at the cooling station or cured at the curing station for a time sufficient to ensure that the confectionery product has solidified/gelled into a molded cannabinoid confectionery product.</p>
+<p id="p-0089" num="0088">In a preferred embodiment, the curing station is provided after the lidding station.</p>
+<p id="p-0090" num="0089">In one embodiment, the system of the present invention further comprises a cutting station.</p>
+<p id="p-0091" num="0090">Once the array of filled-in, sealed packaged confectionery products has been created, the array may be transferred to the cutting station. The cutting station comprises a cutter element that is configured to cut through the layers of packaging materials to provide individual or multi-packs of packaged confectionery products as desired. In one embodiment, the cutter element is a rotary cutter that functions by rolling along a cutter plate. In one embodiment, the cutter element may be a plate-style cutter or could comprise one or more anvil-style linear or grid-like cutting blades, in a configuration appropriate to the arrangement of the array of sealed packaged confectionery products.</p>
+<p id="p-0092" num="0091">In one embodiment, the plurality of packaged confectionery products is cut to provide a smaller set of packaged confectionery products.</p>
+<p id="p-0093" num="0092">In one embodiment, the plurality of packaged confectionery products is cut into individually packaged confectionery products.</p>
+<p id="p-0094" num="0093">In one embodiment, the system of the present invention further comprises a cartoning station. In such an embodiment, the packaged confectionery products (cut or uncut) can be transferred to a cartoning station, where they can be cartoned for end use, display, and/or transport. In one embodiment, the cartoned product may be further bundled, banded, shrink-wrapped, cased and/or palletized as required for transport or storage.</p>
+<p id="p-0095" num="0094"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows an array of cartoned products <b>60</b>, showing a packaged multi-unit product <b>65</b> partially extending out of carton <b>63</b>. Also shown is the laminate lidding material, including the foil under layer <b>62</b> and the childproof over layer <b>61</b>.</p>
+<p id="p-0096" num="0095">The invention will now be described with reference to specific examples. It will be understood that the following examples are intended to describe embodiments of the invention and are not intended to limit the invention in any way.</p>
+<heading id="h-0006" level="1">EXAMPLES</heading>
+<heading id="h-0007" level="1">Example 1</heading>
+<heading id="h-0008" level="1">Chocolate Confectionery Products</heading>
+<p id="p-0097" num="0096">For preparation of the chocolate confectionery products, the stock bulk solutions/slurries were prepared according to the recipes in Tables 1 and 2, and combined in a heated kettle fitted with a mixer. Stirring continued at 45&#xb0; C. until the mixture became homogenous, at which point the heat was lowered to 32&#xb0; C. Once cooled, the liquid chocolate confectionery mixture was transferred to the product depositor/packaging system for packaging.</p>
+<p id="p-0098" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>10 mg THC Belgian Chocolate Recipe</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="21pt" align="left"/>
+<colspec colname="1" colwidth="98pt" align="left"/>
+<colspec colname="2" colwidth="98pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Ingredient</entry>
+<entry>Quantity</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Preconched Belgium chocolate</entry>
+<entry>387.125 kg&#x2003;&#x2003;</entry>
+</row>
+<row>
+<entry/>
+<entry>Coconut oil</entry>
+<entry>1.1 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Liquid soy lecithin</entry>
+<entry>0.4 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>THC Cannabis Oil</entry>
+<entry>1.385 kg&#x2003;</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0099" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>25 mg CBD Belgian Chocolate Recipe</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="21pt" align="left"/>
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="91pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Ingredient</entry>
+<entry>Quantity</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Preconched Belgium chocolate</entry>
+<entry>383.112 kg&#x2003;</entry>
+</row>
+<row>
+<entry/>
+<entry>Coconut oil</entry>
+<entry>&#x2003;2.5 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Liquid soy lecithin</entry>
+<entry>0.950 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>CBD Cannabis Oil</entry>
+<entry>3.438 kg</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0100" num="0097">The individual chocolate confectionery products were deposited in a packaging tray in 3.9 g quantities, followed by an immediate application of the lidding material, followed by an immediate cut to form to provide single unit sealed chocolate confectionery products in the shape of hemispherical cups, followed by an immediate cartoning of each single unit, followed by an immediate casing of 96 single units per case, which are then palletized. The finished packaged palletized products were then allowed to rest/cure undisturbed for approximately 12-24 hours before shipment. The packaging tray was formed from PVDC/PE/PVC laminate film and the child resistant lidding was formed from PET/Al/PET-Paper laminate film.</p>
+<heading id="h-0009" level="1">Example 2</heading>
+<heading id="h-0010" level="1">Gummy Confectionery Products</heading>
+<p id="p-0101" num="0098">For preparation of the gummy confectionery products, the stock bulk solutions/slurries were prepared according to the recipes in Tables 3 and 4, and combined in a heated kettle fitted with a mixer. Stirring continued at 65&#xb0; C. until the mixture became homogenous, at which point the heat was lowered to 45&#xb0; C. Once cooled, the liquid gummy confectionery mixture was transferred to the product depositor/packaging system for packaging.</p>
+<p id="p-0102" num="0099">The individual gummy confectionery products were deposited in a packaging tray in 3.9 g quantities, followed by an immediate application of the lidding material, followed by an immediate cut to form to provide single unit sealed chocolate confectionery products in the shape of hemispherical cups, followed by an immediate cartoning of each single unit, followed by an immediate casing of 96 single units per case, which are then palletized. The finished packaged palletized products were then allowed to rest/cure undisturbed for approximately 12-24 hours before shipment. The finished packaged palletized product was then allowed to rest/cure undisturbed for approximately 12-24 hours before shipment. The packaging tray was formed from PVDC/PE/PVC laminate film and the child resistant lidding was formed from PET/Al/PET-Paper laminate film</p>
+<p id="p-0103" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>10 mg THC Gummy</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="119pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Ingredient</entry>
+<entry>Quantity</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Gelatin</entry>
+<entry>&#x2002;75.0 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Sugar</entry>
+<entry>79.45 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Corn Syrup</entry>
+<entry>73.265 kg&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry>Flavour</entry>
+<entry>19.931 kg&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry>Dye</entry>
+<entry>0.399 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Citric Acid</entry>
+<entry>0.598 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Coconut Oil</entry>
+<entry>&#x2003;1.1 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Liquid Soy Lecithin</entry>
+<entry>&#x2003;0.4 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>THC Cannabis Oil</entry>
+<entry>1.385 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Water</entry>
+<entry>138.482 kg&#x2003;</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0104" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>25 mg CBD Gummy</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="119pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Ingredient</entry>
+<entry>Quantity</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Gelatin</entry>
+<entry>&#x2002;75.0 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Sugar</entry>
+<entry>78.64 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Corn Syrup</entry>
+<entry>70.887 kg&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry>Flavour</entry>
+<entry>19.828 kg&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry>Dye</entry>
+<entry>0.397 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Citric Acid</entry>
+<entry>0.595 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Coconut Oil</entry>
+<entry>&#x2003;2.5 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Liquid Soy Lecithin</entry>
+<entry>&#x2002;0.95 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>CBD Cannabis Oil</entry>
+<entry>3.438 kg</entry>
+</row>
+<row>
+<entry/>
+<entry>Water</entry>
+<entry>137.766 kg&#x2003;</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0105" num="0100">It is obvious that the foregoing embodiments of the invention are examples and can be varied in many ways. Such present or future variations are not to be regarded as a departure from the spirit and scope of the invention, and all such modifications as would be obvious to one skilled in the art are intended to be included within the scope of the following claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>We claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method of making a packaged cannabinoid confectionery product, the method comprising the steps of:
+<claim-text>providing a packaging tray having a plurality of packaging cavities formed therein;</claim-text>
+<claim-text>depositing a prepared liquid cannabinoid confectionery product in each of the plurality of packaging cavities to form a plurality of molded cannabinoid confectionery products; and</claim-text>
+<claim-text>overlaying a lidding material over the plurality of molded cannabinoid confectionery products in the packaging tray to form a plurality of packaged confectionery products.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a step of cooling the liquid cannabinoid confectionery product after depositing.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> or <claim-ref idref="CLM-00002">2</claim-ref>, further comprising a step of curing the liquid cannabinoid confectionery product to form the plurality of molded cannabinoid confectionery products, wherein the cannabinoid confectionery product is allowed to cure after the step of overlaying the lidding material.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> or <claim-ref idref="CLM-00002">2</claim-ref>, further comprising a step of curing the liquid cannabinoid confectionery product to form the plurality of molded cannabinoid confectionery products, wherein the cannabinoid confectionery product is allowed to cure prior to the step of overlaying the lidding material.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method of any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00004">4</claim-ref>, wherein the cannabinoid confectionery product is a gelatin-based confectionery product.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method of any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00004">4</claim-ref>, wherein the cannabinoid confectionery product is a chocolate-based confectionery product.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The method of any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00006">6</claim-ref>, wherein the packaging tray is a preformed tray.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The method of any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00006">6</claim-ref>, wherein the packaging tray is formed by overlaying a packaging film over a molding tray having a plurality of molding cavities formed therein, and conforming the packaging film to the shape of the molding cavities.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The method of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the packaging film is a thermoplastic film.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the packaging film comprises polypropylene (PP), polyethylene (PE), polyamide/polyethylene (PA/PE), polycarbonate/polyethylene (PC/PE), glycol modified polyethylene terephthalate (PETg), polyvinylidene chloride (PVDC), chlorotrifluoroethylene (CTFE), polychlorotrofluororethylene (PCTFE), polystyrene (PS), or polyvinyl chloride (PVC).</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method of any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00010">10</claim-ref>, wherein the lidding material provides a child proof lidding.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method of any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00010">10</claim-ref>, wherein the lidding material is formed from a foil material.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00010">10</claim-ref>, wherein the lidding material is formed from a polymeric material.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of claim any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00013">13</claim-ref>, further comprising the step of cutting the plurality of packaged cannabinoid confectionery products into a smaller set of packaged confectionery products.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method of any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00013">13</claim-ref>, further comprising the step of cutting the plurality of packaged confectionery products into a plurality of individually packaged cannabinoid confectionery products.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method of any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00015">15</claim-ref>, wherein the packaged cannabinoid confectionery product is a hermetically sealed packaged cannabinoid confectionary product.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. A system for the continuous preparation of packaged cannabinoid confectionery products, the system comprising:
+<claim-text>a tray preparation station, adapted to prepare a packaging tray having a plurality of packaging cavities formed therein;</claim-text>
+<claim-text>a depositor station, adapted to deposit a prepared liquid cannabinoid confectionery product in each of the plurality of packaging cavities to form a plurality of molded cannabinoid confectionery products; and</claim-text>
+<claim-text>a lidding station, adapted to overlay a lidding material over the plurality of molded cannabinoid confectionery products in the packaging tray to form a plurality of packaged confectionery products.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The system of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the cannabinoid confectionery product is a gelatin-based confectionery product.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The system of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the cannabinoid confectionery product is a chocolate-based confectionery product.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The system of any one of <claim-ref idref="CLM-00017">claims 17</claim-ref> to <claim-ref idref="CLM-00019">19</claim-ref>, further comprising a cooling station.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The system of any one of <claim-ref idref="CLM-00017">claims 17</claim-ref> to <claim-ref idref="CLM-00020">20</claim-ref>, wherein the tray preparation station is adapted to prepare the packaging tray by overlaying a packaging film over a molding tray having a plurality of molding cavities formed therein, and conforming the packaging film to the shape of the molding cavities.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The system of any one of <claim-ref idref="CLM-00017">claims 17</claim-ref> to <claim-ref idref="CLM-00020">20</claim-ref>, wherein the tray preparation station is a thermoforming station.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The system of any one of <claim-ref idref="CLM-00017">claims 17</claim-ref> to <claim-ref idref="CLM-00022">22</claim-ref>, further comprising a cutting station, adapted to cut the plurality of packaged confectionery products into a plurality of individually packaged cannabinoid confectionery products.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The system of any one of <claim-ref idref="CLM-00017">claims 17</claim-ref> to <claim-ref idref="CLM-00023">23</claim-ref>, further comprising a cartoning station, adapted to place the plurality of packaged confectionery products into cartons.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The system of any one of <claim-ref idref="CLM-00017">claims 17</claim-ref> to <claim-ref idref="CLM-00024">24</claim-ref>, further comprising a curing station, adapted to cure the liquid cannabinoid confectionery product to form the plurality of molded cannabinoid confectionery products.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The system of <claim-ref idref="CLM-00025">claim 25</claim-ref>, wherein the curing station is provided after the lidding station.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. The system of <claim-ref idref="CLM-00025">claim 25</claim-ref>, wherein the curing station is provided after the cartoning station.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

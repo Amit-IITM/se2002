@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225616A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225616</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18183432</doc-number>
+<date>20230314</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>9</main-group>
+<subgroup>02091</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>02</class>
+<subclass>B</subclass>
+<main-group>17</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>02</class>
+<subclass>B</subclass>
+<main-group>27</main-group>
+<subgroup>09</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>0084</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>0066</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>9</main-group>
+<subgroup>02091</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>02</class>
+<subclass>B</subclass>
+<main-group>17</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>02</class>
+<subclass>B</subclass>
+<main-group>27</main-group>
+<subgroup>0911</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>02007</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">MICRO-MOLDED ANAMORPHIC REFLECTOR LENS FOR IMAGE GUIDED THERAPEUTIC/DIAGNOSTIC CATHETERS</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>17347419</doc-number>
+<date>20210614</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11627881</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18183432</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16801047</doc-number>
+<date>20200225</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11033190</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17347419</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>15741928</doc-number>
+<date>20180104</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>10568520</doc-number>
+</document-id>
+</parent-grant-document>
+<parent-pct-document>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/US2016/042152</doc-number>
+<date>20160713</date>
+</document-id>
+</parent-pct-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>16801047</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62191956</doc-number>
+<date>20150713</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62191986</doc-number>
+<date>20150713</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Avinger, Inc.</orgname>
+<address>
+<city>Redwood City</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>PATEL</last-name>
+<first-name>Himanshu N.</first-name>
+<address>
+<city>San Jose</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>KANKARIA</last-name>
+<first-name>Manish</first-name>
+<address>
+<city>Fremont</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>CHAN</last-name>
+<first-name>Kin F.</first-name>
+<address>
+<city>Los Gatos</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A catheter system for optical coherence tomography includes an elongate catheter body, an optical fiber in the elongate catheter body, and an anamorphic lens assembly coupled with a distal end of the optical fiber. The optical fiber and the lens assembly are together configured to provide a common path for optical radiation reflected from a target and from a reference interface between the distal end of the optical fiber and the lens assembly.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="78.49mm" wi="158.75mm" file="US20230225616A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="225.55mm" wi="165.44mm" orientation="landscape" file="US20230225616A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="227.75mm" wi="177.21mm" orientation="landscape" file="US20230225616A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="216.15mm" wi="185.59mm" orientation="landscape" file="US20230225616A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="195.66mm" wi="125.81mm" orientation="landscape" file="US20230225616A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="191.18mm" wi="110.83mm" orientation="landscape" file="US20230225616A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="226.40mm" wi="174.67mm" orientation="landscape" file="US20230225616A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="188.81mm" wi="99.99mm" orientation="landscape" file="US20230225616A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="243.50mm" wi="158.33mm" orientation="landscape" file="US20230225616A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="199.05mm" wi="86.19mm" orientation="landscape" file="US20230225616A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="106.17mm" wi="112.10mm" orientation="landscape" file="US20230225616A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="179.49mm" wi="132.08mm" orientation="landscape" file="US20230225616A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="189.40mm" wi="168.49mm" orientation="landscape" file="US20230225616A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="187.62mm" wi="168.49mm" orientation="landscape" file="US20230225616A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="188.30mm" wi="132.33mm" orientation="landscape" file="US20230225616A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation of U.S. patent application Ser. No. 17/347,419, filed on Jun. 14, 2021, titled &#x201c;MICRO-MOLDED ANAMORPHIC REFLECTOR LENS FOR IMAGE GUIDED THERAPEUTIC/DIAGNOSTIC CATHETERS,&#x201d; now U.S. Patent Application Publication No. 2022/0031168, which is a continuation of U.S. patent application Ser. No. 16/801,047, filed on Feb. 25, 2020, titled &#x201c;MICRO-MOLDED ANAMORPHIC REFLECTOR LENS FOR IMAGE GUIDED THERAPEUTIC/DIAGNOSTIC CATHETERS,&#x201d; now U.S. Pat. No. 11,033,190, which is a continuation of U.S. patent application Ser. No. 15/741,928, filed on Jan. 4, 2018, titled &#x201c;MICRO-MOLDED ANAMORPHIC REFLECTOR LENS FOR IMAGE GUIDED THERAPEUTIC/DIAGNOSTIC CATHETERS,&#x201d; now U.S. Pat. No. 10,568,520 which is a U.S. National Phase Application Under 35 U.S.C. &#xa7; 371 of International Application No. PCT/US2016/42152, filed on Jul. 13, 2016, titled &#x201c;MICRO-MOLDED ANAMORPHIC REFLECTOR LENS FOR IMAGE GUIDED THERAPEUTIC/DIAGNOSTIC CATHETERS,&#x201d; now International Publication No. WO 2017/011587, which claims priority to U.S. Provisional Patent Application No. 62/191,956, filed Jul. 13, 2015, titled &#x201c;MICRO-MOLDED ANAMORPHIC REFLECTOR LENS FOR IMAGE GUIDED THERAPEUTIC/DIAGNOSTIC CATHETERS,&#x201d; and U.S. Provisional Patent Application No. 62/191,986, filed Jul. 13, 2015 and titled &#x201c;CARBON DIOXIDE CARTRIDGE FOR BALLOON CATHETER,&#x201d; each of which is incorporated by reference in its entirety.</p>
+<p id="p-0003" num="0002">This application may be related to U.S. patent application Ser. No. 14/400,140, filed on Nov. 10, 2014, titled &#x201c;OPTICAL COHERENCE TOMOGRAPHY WITH GRADED INDEX FIBER FOR BIOLOGICAL IMAGING,&#x201d; now U.S. Pat. No. 9,557,156, which is incorporated by reference in its entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">INCORPORATION BY REFERENCE</heading>
+<p id="p-0004" num="0003">All publications and patent applications mentioned in this specification are herein incorporated by reference in their entirety to the same extent as if each individual publication or patent application was specifically and individually indicated to be incorporated by reference.</p>
+<heading id="h-0003" level="1">FIELD</heading>
+<p id="p-0005" num="0004">Described herein are imaging devices and systems for use in biological probes. In particular, described herein are catheter-based imaging systems using Optical Coherence Tomography (OCT) having a molded lens adapted to minimize parasitic back-reflections and provide superior distance imaging and beam diameter characteristics.</p>
+<heading id="h-0004" level="1">BACKGROUND</heading>
+<p id="p-0006" num="0005">A number of vascular diseases, such as coronary artery disease and peripheral vascular disease, are caused by the build-up of atherosclerotic deposits (plaque) in the arteries, which limit blood flow to the tissues that are supplied by that particular artery. Disorders caused by occluded body vessels, including coronary artery disease (CAD) and peripheral artery disease (PAD), may be debilitating and life-threatening. Chronic Total Occlusion (CTO) can result in limb gangrene, requiring amputation, and may lead to other complications and eventually death. Increasingly, treatment of such blockages may include interventional procedures in which a guidewire is inserted through a catheter into the diseased artery and threaded to the blocked region. There the blockage may be either expanded into a more open position, for example, by pressure from an inflated catheter balloon (e.g., balloon angioplasty) and/or the blocked region may be held open by a stent. Treatment of such blockages can also include using a catheter to surgically remove the plaque from the inside of the artery (e.g., an atherectomy).</p>
+<p id="p-0007" num="0006">There is medical interest in equipping catheters with sensors that can help direct the catheter for atherectomy, occlusion-crossing, and/or other surgical procedures. For example, it would be useful to have sensors that can give the surgeon immediate visual feedback as to whether a particular tissue is diseased and/or how far away the cutting portion of a catheter is from the boundary of a particular blood vessel layer to minimize the risk of accidental damage. Conventional radiological imaging methods and ultrasound imaging systems have been attempted for such surgical procedures. However, neither ultrasound nor radiological imaging methods have enough resolution to help guide the operation of the catheter through small dimensions. Moreover, standard radiological techniques cannot easily discriminate between healthy tissue and diseased tissue unless the tissue has become heavily calcified. Further, the components of an ultrasound system are generally too large to implement on a small scale, such as with a system configured to be used within blood vessels.</p>
+<p id="p-0008" num="0007">Optical Coherence Tomography (OCT) has been proposed as one technique that may be particularly helpful for imaging regions of tissue, including within a body lumen such as a blood vessel. At a basic level, OCT relies on the fact that light traveling from a source and scattering from more distant objects takes longer to travel back than light scattering from nearby objects. Due to the wave nature of light, very small timing differences caused by light signals traveling different distances on the micron scale can cause constructive or destructive interference with reference light signals. OCT systems measure the resulting interference to obtain an image of the target. A typical OCT system requires one or more interferometers to distinguish the signal from the applied light. In addition, most known OCT systems, when applied to catheters, include a fiber that is rotated (often at high rates) within the catheter in order to scan the lumen and a second, large reference arm.</p>
+<p id="p-0009" num="0008">A typical OCT device includes a target arm and a reference arm to generate a reference signal. In order to provide the interference reference signal, the OCT device will split an illuminating light signal from the source in two equal or unequal parts, send part of the illuminating light to the target of interest through one target optical &#x201c;target arm&#x201d; and send the other part of the illuminating light down a separate reference arm. Light from the separate reference arm reflects off of a mirror, and then returns and interferes with the scattered light that is returning from the target optical arm after bouncing off of the target. In a traditional OCT device, the reference arm length is engineered to be exactly the same length as the target arm so that the interference effect is maximized. The resulting interference between the two beams creates interference that can be measured to extract depth information related to the target. Using this depth information, an image of the object can be generated. A typical OCT device can further include a focusing lens in the target arm, such as a graded index (GRIN) lens, configured to focus the light coming out of the optical fiber into the tissue.</p>
+<p id="p-0010" num="0009">These traditional OCT systems, however, are large and cumbersome due to the required reference arm and are therefore generally ineffective for use in a medical catheter, particularly for use with a low cost and disposable catheter. Using a common path OCT system, i.e., a system without a separate reference arm, is one way to eliminate the cost and size of such an imaging catheter. There are several challenges, however, associated with developing a catheter having common path OCT. For example, a common path OCT system requires that the reference reflection be formed within the same optical conduit as the target reflection. This reference reflection must be finely tuned to avoid noise in the system, requiring that the path from the light source to the reflection interface be free of unnecessary components, such as focusing elements that could interfere with the reference reflection. Further, the common path system must have components that are small enough to fit inside of a single small catheter, making it difficult to include additional components. Finally, for common path OCT, it is desirable to have the reference reflection as close to the tissue as possible to maintain the imaging range within the coherence length of the source and avoid data processing burden, as data processed for the distance between the reference and the start of the imaging is not useful. Accordingly, a common path OCT system that solves some of these problems is desired.</p>
+<p id="p-0011" num="0010">The distal imaging tip of a common-path OCT catheter should perform two main functions: (1) direct the beam towards the imaging object and (2) focus the beam on the imaging object for improved image quality. In addition, for common path OCT, the geometry and properties of the distal imaging assembly should be such that it introduces only one primary source of back-reflection (reference reflection) and avoid any other parasitic reflection which could causes artifacts in the images.</p>
+<p id="p-0012" num="0011">One way to address these needs that has been proposed (see, e.g., US-2015-0099984) which uses a common-path OCT system with a graded index (GRIN) fiber attached to the distal tip of a single mode optical fiber in the catheter so as to act as a lens for focusing light. Unfortunately, this solution has proven problematic. For example, the addition of any lens (e.g., a graded index (GRIN) lens) is difficult and results in potential failure modes. <figref idref="DRAWINGS">FIG. <b>1</b></figref> illustrates a prior-art device <b>100</b>, such as a catheter, having housing <b>109</b> holding a graded index (GRIN) fiber <b>103</b> at the end of an optical fiber <b>110</b>, forming a grins lens assembly. In this example, deflection and focusing of the beam is accomplished using two separate components. First, a mirror <b>101</b> is mounted at <b>45</b> degrees to the axis of the optical fiber <b>110</b> to deflect the beam perpendicular to axis of the catheter, as shown by beam <b>113</b>. Second, the graded index fiber <b>103</b> is spliced to the optical fiber <b>110</b>, which is a single mode fiber (SMF) assembly, in order to focus the beam. The GRIN fiber <b>103</b> is spliced in front of the SMF fiber <b>110</b> and then cleaved to precise length and angle to meet the focusing and reference reflection requirements in conjunction with the epoxy <b>102</b> used to secure the GRIN fiber <b>103</b> at the distal tip. The precision splicing and cleaving requirements for this SMF-GRIN assembly makes it an expensive component for the device <b>100</b>.</p>
+<p id="p-0013" num="0012">Further, the manufacturing processes required to make these SMF-GRIN assemblies, such as that in device <b>100</b>, is often difficult and requires precision alignment. Moreover, in order to splice the GRIN fiber <b>103</b> in front of the SMF fiber <b>110</b>, the SMF fiber must be stripped to certain length (see stripped section <b>105</b> in <figref idref="DRAWINGS">FIG. <b>1</b></figref>). Stripping of the fiber SMF fiber, especially polyimide fibers, typically renders a long fragile portion <b>132</b> of fiber. The total length of the fragile portion <b>132</b> of the SMF-GRIN assembly may be greater than 2.5 mm. This fragile portion <b>132</b> often must be encapsulated inside a solid hypo tube, to prevent the distal portion from breaking while subjected to stress/strain while imaging in tortuous anatomy. The presence of the long (e.g., &#x3e;2.5 mm) hypo tube in the device <b>100</b> reduces the flexibility of the distal tip. Thus, when the device <b>100</b> is part of a catheter, such as an atherectomy catheter, this reduced flexibility can make it difficult to access the tortuous section of the anatomy.</p>
+<p id="p-0014" num="0013">Moreover, focusing length may be sacrificed by using a GRIN fiber <b>103</b> and separate mirror <b>101</b>. The focusing capability of the GRIN fiber <b>103</b> is a function of the diameter of the fiber. Using 125 micron GRIN fiber <b>103</b>, to match the diameter of the SMF <b>110</b>, the focus point is limited to 1-1.5 mm from the tip of the fiber. In imaging catheters where the fiber is deployed in the middle of the catheter, significant portion of the Rayleigh range of the beam could be lying inside the catheter. This reduces the imaging depth within which the imaging catheter is able to maintain high resolution.</p>
+<p id="p-0015" num="0014">Described herein are apparatuses, including tip assemblies for OCT (common path) imaging systems, and methods of making an using them, that may address the issues raised above.</p>
+<heading id="h-0005" level="1">SUMMARY OF THE DISCLOSURE</heading>
+<p id="p-0016" num="0015">In general, described herein are OCT apparatuses (including devices and systems) that include a lens assembly that is, or is capable of being, positioned at distal tip of an optical fiber to provide common-path OCT imaging. The lens assembly is typically an anamorphic lens assembly.</p>
+<p id="p-0017" num="0016">In some embodiments, the anamorphic lens assembly has a lens body, and a first surface coupled to the optical fiber through which light from the optical fiber may pass into the lens body so that it can be reflected from a second, reflective, surface at an angle, to direct light out of the lens assembly and into a tissue (e.g., at a 45 degree angle). The second, reflective, surface may have a compound radius so that the beam profile of the light beam from the optical fiber is made approximately circular as it exits the lens assembly (e.g., out of a third, flat, surface that is perpendicular to the direction of the beam) reflected from the second surface).</p>
+<p id="p-0018" num="0017">In other embodiments, the anamorphic lens assembly has a concave proximal surface that is reflective and includes a compound surface to reflect light therefrom.</p>
+<p id="p-0019" num="0018">The lens assemblies described herein may be used as part of a catheter capable of OCT imaging. For example, a catheter for optical coherence tomography (OCT) may include: an elongate catheter body extending distally to proximally, an optical fiber in the elongate catheter body, and a lens assembly optically coupled with a distal end of the optical fiber, the lens assembly, wherein the optical fiber and the lens assembly are together configured to provide a common path for optical radiation reflected from a target and from a reference interface between the distal end of the optical fiber and the first surface.</p>
+<p id="p-0020" num="0019">As mentioned, the lens assembly may be an anamorphic lens assembly, refractive or reflective, e.g., having non-uniform or different magnifications or radii of curvatures along the two axes perpendicular to each other (e.g., the axis perpendicular to the path of light traveling through the lens body). In some variations, the anamorphic lens may refer specifically to the compound radii of curvature of the mirror portion. In other variations, the anamorphic lens may refer to a mirror having continuously changing or different radii of curvature between the two perpendicular axes.</p>
+<p id="p-0021" num="0020">In any of the variations described herein, the lens assembly (e.g., the first surface of the lens assembly) may be connected to the distal end of the optical fiber by a layer of epoxy.</p>
+<p id="p-0022" num="0021">In general, some embodiments, the first surface (the surface immediately opposite the distal end of the optical fiber) may be at an angle relative to the distal end (out of which the light passes) of between about 2 degrees and 40 degrees relative to the distal end of the optical fiber, e.g., the angle may be between about 5 degrees and 13 degrees, between about 2 degrees and 20 degrees, between 6 degrees and 10 degrees, about 8 degrees, etc.). Further, the second (reflective, or mirrored) surface is angled relative to the distal end of the optical fiber, so that light traveling to/from the distal end of the optical fiber, after passing the first surface of the lens body, is reflected by the second surface and directed laterally out of the lens. For example, the second surface may be at an angle of between about 10 degrees and about 60 degrees (e.g., 20 degrees and 50 degrees, 30 degrees and 50 degrees, 40 degrees and 50 degrees, about 45 degrees, etc.) relative to the distal end of the optical fiber.</p>
+<p id="p-0023" num="0022">In some embodiments, the reflective proximal surface can be angled relative to the distal end of the optical fiber, so that light traveling to/from the distal end of the optical fiber and impinging on the proximal surface is reflected and directed laterally out of the lens. For example, the proximal surface may be at an angle of between about 10 degrees and about 60 degrees (e.g., 20 degrees and 50 degrees, 30 degrees and 50 degrees, 40 degrees and 50 degrees, about 45 degrees, etc.) relative to the distal end of the optical fiber</p>
+<p id="p-0024" num="0023">The reflective second surface may be formed by coating (and/or attaching) a reflective material to the outer face of the second surface. The reflective material coating the second surface may be coated at a thickness that is configured to reflect more than 70% (e.g., more than 75%, more than 80%, more than 85%, more than 90%, more than 95%, etc.) of light. Any appropriate reflective material may be used. For example, the reflective material may comprise gold, silver, platinum, etc.</p>
+<p id="p-0025" num="0024">In general, the reflective surfaces may comprise a compound radius, e.g., a compound radius having a different radius in an x and a y axis. The compound radius may be configured so that light (e.g., a beam of light) reflecting off of the second surface has a beam profile that is more circular when it exits the lens body than when it entered the lens body.</p>
+<p id="p-0026" num="0025">The lens (e.g., the lens body) may be formed of any material, particularly materials that may be molded. For example, the lens body may be formed of a polycarbonate material having a refractive index that is mismatched relative to the refractive index of the optical fiber. Thus, for example, a secondary reflection of optical radiation from an interface between the optical fiber and the lens assembly may be less than &#x2212;60 dB. Further, the reference interface may provide a reference reflection of between about &#x2212;28 and about &#x2212;42 dB.</p>
+<p id="p-0027" num="0026">Any of the lens apparatuses, and/or any of the catheters including such lens apparatuses, described herein may be configured as a system including a light source and receiving electronics which may include a processor for generating OCT images. For example, a system for optical coherence tomography (OCT) may include: a source of optical radiation, an optical fiber extending distally to proximally, and a lens assembly optically coupled with a distal end of the optical fiber, wherein the optical fiber and the lens assembly are together configured to provide a common path for optical radiation reflected from a reference interface between the distal end of the optical fiber and the first surface, and from a target. The system can further include receiving electronics configured to receive the optical radiation reflected from the reference interface and the target and a processor to generate an image of the target based upon the optical radiation received by the receiving electronics.</p>
+<p id="p-0028" num="0027">Also described herein are method of takin OCT images including passing light from an optical fiber and into or off of a lens apparatus as described herein, The method can include creating minimal (e.g., less than &#x2212;55 dB) secondary reflection results. The method may also include reflecting the light (beam) from the reflective surface at an angle of between about 30 degrees and 60 degrees (e.g., approximately 45 degrees) so that it projects laterally out of the device and into the tissue, then collecting light returning from the tissue and passing it back through the lens body and into the fiber optic, where it can be collected and processed (e.g., using a receiver and/or processor) to form an optical coherence tomographic image.</p>
+<p id="p-0029" num="0028">In general, in one embodiment, a catheter system for optical coherence tomography (OCT) includes an elongate catheter body extending distally to proximally, an optical fiber in the elongate catheter body, and a lens assembly optically coupled with a distal end of the optical fiber. The lens assembly includes a lens body having a first surface that is opposite from and at an angle relative to the distal end of the optical fiber and a second surface distal to the first surface. The second surface is coated with a reflective material so that light passing from the distal end of the optical fiber, through the first surface, and into the lens body reflects off of the second surface and out of the lens body. The optical fiber and the lens assembly are together configured to provide a common path for optical radiation reflected from a target and from a reference interface between the distal end of the optical fiber and the first surface.</p>
+<p id="p-0030" num="0029">In general, in one embodiment, a catheter system for optical coherence tomography (OCT) includes an elongate catheter body extending distally to proximally, an optical fiber in the elongate catheter body, and a lens assembly optically coupled with a distal end of the optical fiber. The lens assembly includes a lens body having a first surface that is opposite from and at an angle relative to the distal end of the optical fiber and a second surface distal to the first surface. The second surface has a compound radius having a first radius along a first axis that is different from a second radius along a second axis. That light passing from the distal end of the optical fiber, through the first surface, and into the lens body reflects off of the second surface and out of the lens body. The optical fiber and the lens assembly are together configured to provide a common path for optical radiation reflected from a target and from a reference interface between the distal end of the optical fiber and the first surface.</p>
+<p id="p-0031" num="0030">In general, in one embodiment, a catheter system for optical coherence tomography (OCT) includes an elongate catheter body extending distally to proximally, an optical fiber in the elongate catheter body, and a lens assembly having a first refractive index optically coupled with a distal end of the optical fiber by an interface medium. The interface medium has a second refractive index. The first refractive index and the second refractive index differ by 0.02 or less. The lens assembly includes a lens body having a first surface that is opposite from the distal end of the optical fiber and a second surface distal to the first surface. Light passing from the distal end of the optical fiber through the first surface and into the lens body reflects off of the second surface and out of the lens body. The optical fiber and the lens assembly are together configured to provide a common path for optical radiation reflected from a target and from a reference interface between the distal end of the optical fiber and the interface medium.</p>
+<p id="p-0032" num="0031">These and other embodiments can include one or more of the following features. The lens assembly can be an anamorphic lens assembly. The catheter system can further include an interface medium connecting the distal end of the optical fiber and the first surface. The interface medium can be an epoxy. The lens assembly can have a first refractive index and the interface medium can have a second refractive index, wherein the first refractive index and the second refractive index can differ by 0.02 or less. The first surface can be at an angle of 8 degrees or more relative to the distal end of the optical fiber. A tangent of the second surface can be at an angle of between about 40 degrees and 50 degrees relative to a longitudinal axis of the fiber. The catheter system can further include a reflective coating on the second surface. The reflective coating can have a thickness that is configured to reflect more than 80% of light. The reflective coating can be gold. The reflective material can be dielectric. The second surface can include a compound radius. The second surface can include a compound radius having a first radius along a first axis that is different than a second radius along a second axis. The lens body can include a polycarbonate material. A secondary reflection of optical radiation from an interface between the optical fiber and the lens assembly can be less than &#x2212;60 dB. The reference interface can provide a reference reflection of between &#x2212;28 and &#x2212;42 dB. The second surface can be concave relative to the light passing from the distal end of the optical fiber. An exit surface of the lens assembly can be angled by 8 degrees or more relative to a central longitudinal axis of the optical fiber. The reflective coating can have an optical density of greater than or equal to 3.0. A radius of curvature of the second surface can be between 0.2 mm and 1.5 mm. The catheter system can further include a source of optical radiation configured to provide the light, and a reflective coating on the second surface can have a thickness of at least &#x2159; of an excitation wavelength of the source of optical radiation. The catheter system can further include a source of optical radiation, receiving electronics configured to receive optical radiation reflected from the reference interface and the target, and a processor to generate an image of the target based upon the optical radiation received by the receiving electronics.</p>
+<p id="p-0033" num="0032">In general, in one embodiment, a catheter for optical coherence tomography (OCT) includes an elongate catheter body extending distally to proximally, an optical fiber in the elongate catheter body, and a lens assembly optically coupled with a distal end of the optical fiber by an interface medium. The lens assembly includes a lens body having a concave proximal surface that is opposite from and at an angle relative to the distal end of the optical fiber. The proximal surface has a compound radius having first radius along a first axis that is different from a second radius along a second axis. The proximal surface includes a reflective material configured to so that at least 90% light passing from the distal end of the optical fiber through the lens assembly reflects off of the proximal surface. The optical fiber and the lens assembly are together configured to provide a common path for optical radiation reflected from a target and from a reference interface between the distal end of the optical fiber and the proximal surface.</p>
+<p id="p-0034" num="0033">This and other embodiments can include one or more of the following features. The interface medium can be an epoxy. A tangent of the proximal surface can be at an angle of between about 40 degrees and 50 degrees relative to a longitudinal axis of the fiber. The reflective material can include a reflective coating on the proximal surface. The reflective coating can be gold. The reflective material can be dielectric. The lens body can include a polycarbonate material. A secondary reflection of optical radiation from an interface between the optical fiber and the lens assembly can be less than &#x2212;60 dB. The reference interface can provide a reference reflection of between &#x2212;28 and &#x2212;42 dB. The reflective coating can have an optical density of greater than 3.0. A radius of curvature of the proximal surface can be between 0.2 mm and 1.5 mm. The catheter system can further include a source of optical radiation configured to provide the light, wherein a reflective coating on the proximal surface can have a thickness of at least &#x2159; of an excitation wavelength of the source of optical radiation. The catheter system can further include a source of optical radiation, receiving electronics configured to receive optical radiation reflected from the reference interface and the target, and a processor to generate an image of the target based upon the optical radiation received by the receiving electronics.</p>
+<p id="p-0035" num="0034">In general, in one embodiment, a catheter for optical coherence tomography (OCT) includes an elongate catheter body extending distally to proximally, an optical fiber in the elongate catheter body, and a lens assembly optically coupled with a distal end of the optical fiber. The lens assembly includes a lens body having a first surface that is opposite from and at an angle relative to the distal end of the optical fiber and a second surface distal to the first surface. The second surface is uncoated such that light passing from the distal end of the optical fiber, through the first surface, and into the lens body reflects off of the second surface by total internal reflection and out of the lens body. The optical fiber and the lens assembly are together configured to provide a common path for optical radiation reflected from a target and from a reference interface between the distal end of the optical fiber and the first surface.</p>
+<p id="p-0036" num="0035">In general, in one embodiment, a catheter for optical coherence tomography (OCT) includes an elongate catheter body extending distally to proximally, an optical fiber in the elongate catheter body, and a lens assembly optically coupled with a distal end of the optical fiber by an interface medium. The lens assembly includes a lens body having a concave proximal surface that is opposite from and at an angle relative to the distal end of the optical fiber. The proximal surface has a compound radius having first radius along a first axis that is different from a second radius along a second axis. The proximal surface is uncoated such that light passing from the distal end of the optical fiber, through the first surface, and into the lens body reflects off of the second surface by total internal reflection and out of the lens body. The optical fiber and the lens assembly are together configured to provide a common path for optical radiation reflected from a target and from a reference interface between the distal end of the optical fiber and the proximal surface.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0006" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0037" num="0036">The novel features of the invention are set forth with particularity in the claims that follow. A better understanding of the features and advantages of the present invention will be obtained by reference to the following detailed description that sets forth illustrative embodiments, in which the principles of the invention are utilized, and the accompanying drawings of which:</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is an example of a prior art apparatus including a separate lens (an optical fiber configured as a GRIN lens) coupled to the distal end of an optical fiber, embedded in epoxy into which a separate mirror element has also be embedded.</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is an example of a catheter including a lens assembly as described herein.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. <b>3</b>A</figref> is a schematic of a lens assembly within a portion of a catheter. <figref idref="DRAWINGS">FIG. <b>3</b>B</figref> shows a side sectional view through the lens of <figref idref="DRAWINGS">FIG. <b>3</b>A</figref>. <figref idref="DRAWINGS">FIG. <b>3</b>C</figref> shows a side sectional view from the opposite side as <figref idref="DRAWINGS">FIG. <b>3</b>B</figref>. <figref idref="DRAWINGS">FIG. <b>3</b>D</figref> shows a sectional view from the end of <figref idref="DRAWINGS">FIG. <b>3</b>A</figref>.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows another example of a catheter including a lens assembly as described herein.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. <b>5</b>A and <b>5</b>B</figref> show perspective views of an exemplary lens assembly. <figref idref="DRAWINGS">FIG. <b>3</b>A</figref> shows the proximal surface while <figref idref="DRAWINGS">FIG. <b>3</b>B</figref> shows the distal surface.</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. <b>6</b>A</figref> shows another embodiment of a catheter including a lens assembly as described herein. <figref idref="DRAWINGS">FIGS. <b>6</b>B and <b>6</b>C</figref> show perspective views of a lens assembly similar to that in <figref idref="DRAWINGS">FIG. <b>6</b>A</figref>.</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. <b>7</b>A</figref> shows an catheter with an exemplary pocket for placement of a lens assembly.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. <b>7</b>B</figref> shows a lens assembly built into a hypotube.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a graph illustrating the relative distances from the imaging tip versus beam diameter for each of a standard optical fiber, GRIN fiber and the improved lens apparatus as described herein, relative to beam diameter. As shown the beam diameter is much finer (smaller) for a much larger range of imaging tip distances, as compared to the prior art (GRIN) devices and devices without any lenses.</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. <b>9</b></figref> shows an exemplary carbon dioxide cartridge.</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows another embodiment of an exemplary carbon dioxide cartridge.</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. <b>11</b></figref> shows an exemplary OCT system for use with a lens assembly as described herein.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0007" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0050" num="0049">Described herein are lens assemblies for use with an imaging device. Any of the lens assemblies described herein may be anamorphic lens assemblies (i.e., lens assemblies that are circularly nonsymmetric and have or produce unequal magnifications along two different axes, i.e., two different axes that are perpendicular to one another). The anamorphic lens, for example, can include two different radii along two different axes. The lens assemblies described herein may be used as part of any optical coherence tomography (OCT) device, and particularly as part of a common path OCT device, which may be included as part of a catheter or other device. The lens assembly may be, for example, placed in and/or on a distal tip of a catheter to: (1) direct the beam towards the imaging object and (2) focus the beam on the imaging object for improved image quality.</p>
+<p id="p-0051" num="0050">The lens assemblies described herein may be formed, e.g., using a mold. Thus, any of the lens assemblies may also be referred to as &#x201c;molds&#x201d; or &#x201c;mold assemblies.&#x201d; In some embodiments, the lens assemblies described herein may be made from polycarbonate material, such as Makrolon 2558. In some embodiments, the refractive index of the lens assembly can be close to the refractive index of the interface medium (e.g., epoxy) used to connect the lens assembly to the distal end of the imaging fiber optic.</p>
+<p id="p-0052" num="0051">Referring to <figref idref="DRAWINGS">FIG. <b>2</b></figref>, an imaging device <b>200</b> can include an optical fiber <b>215</b>, e.g., an SMF fiber, used as part of a common path OCT system. The device <b>200</b> further includes an anamorphic lens <b>210</b> attached to the distal end <b>212</b> of the optical fiber <b>215</b> with an interface medium <b>202</b> (e.g., an adhesive or epoxy). The index of refraction of the core of the optical fiber <b>215</b> and the index of refraction of the interface medium <b>202</b> can be mismatched as described in U.S. patent application Ser. No. 14/400,140, filed on Nov. 10, 2014 (titled &#x201c;OPTICAL COHERENCE TOMOGRAPHY WITH GRADED INDEX FIBER FOR BIOLOGICAL IMAGING&#x201d;), the entirety of which is incorporated by reference herein. Further, the index of refraction of the lens <b>210</b> and the interface medium <b>202</b> can be closely matched (e.g., within 0.02, such as within 0.01 or within 0.001).</p>
+<p id="p-0053" num="0052">The distal surface <b>221</b> of the lens can have a compound radius (e.g., a different radius along the x-axis than along the y-axis). Further, the outer portion of the distal surface <b>221</b> can be convex (i.e., such that light hits the concave inner portion). The distal surface <b>221</b> can have a radius of curvature, for example, of between 0.2 mm and 1.5 mm.</p>
+<p id="p-0054" num="0053">Further, the distal surface <b>221</b> can include a mirror <b>201</b> attached or coated thereon. Thus, the mirror <b>201</b> can include a coating and/or attached layer on the distal surface <b>221</b> of the lens <b>210</b>. The mirror can have a thickness that is configured to reflect more than 70% (e.g., more than 75%, more than 80%, more than 85%, more than 90%, more than 95%, etc.) of light. In one example, the mirror or coating can have a thickness of greater than or equal to 100 nm, such as greater than or equal to 200 nm or greater than or equal to 250 nm in thickness. In some embodiments, the mirror or coating can have an optical density of 3.0 or greater, such as 3.5 or greater. Any appropriate reflective material may be used for the mirror or coating. For example, the reflective material may include gold, silver, or platinum. Further, the mirror <b>201</b> can be angled at approximately 45 degrees, where the angle is defined as the angle off the intersection of the fiber optical axis the second surface (i.e., the angle between the optical axis and the tangent to the compound second surface at the intersection with the second surface).</p>
+<p id="p-0055" num="0054">In this embodiment, the proximal surface <b>211</b> of the lens <b>210</b> can be oriented substantially parallel to the distal surface <b>212</b> of the optical fiber. Further, the outer surface <b>217</b> of the lens <b>210</b> can be substantially parallel to the axis of the fiber <b>215</b> (and therefore substantially perpendicular to the proximal surface <b>211</b> of the lens and the distal surface <b>212</b> of the optical fiber). In one embodiment, surfaces <b>211</b>, <b>217</b> can be substantially flat. In another embodiment, the surfaces can be slightly curved with a radius of curvature of 0.1 inches or more.</p>
+<p id="p-0056" num="0055">In use, light from the light source can pass through the optical fiber <b>215</b>. At the interface of the distal end <b>212</b> of the optical fiber and the interface medium <b>202</b>, some of the light will be reflected back so as to create the reference reflection. The rest of the light can pass from the distal end <b>212</b> of the optical fiber through the interface medium <b>202</b>, and through the proximal surface <b>211</b> of the lens. Because the indices of refraction of the fiber and the interface medium are closely matched, only a minimal amount (e.g., less than &#x2212;55 dB) of light will be reflected back from the surface <b>211</b>. The light can thus travel through the lens <b>210</b> and impinge on the mirror <b>201</b>. Because of the 45 degree angle and the compound surface of the mirror <b>201</b>, the light can be reflected perpendicular to the longitudinal axis of the fiber <b>315</b> with a beam profile <b>213</b> that is close to circular when it exits the outer surface <b>217</b> of the lens <b>210</b>.</p>
+<p id="p-0057" num="0056">As shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the fiber <b>215</b> can include a stripped section <b>205</b> (i.e., a section that does not include a coating, such as a polyimide coating). In contrast to the prior art designs (e.g., device <b>100</b> of <figref idref="DRAWINGS">FIG. <b>1</b></figref>), the device <b>200</b> can include a much smaller fragile section that is made only of the stripped section <b>205</b> (i.e., it does not include a GRIN lens). Further, in contrast to the device <b>100</b>, the device <b>200</b> can include a combined lens and reflecting element (i.e., both can be built into lens <b>210</b>).</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIGS. <b>3</b>A-<b>3</b>D</figref> illustrate another device <b>300</b> including an anamorphic lens <b>310</b>. The lens <b>310</b> is similar to lens <b>210</b> except that the proximal surface <b>311</b> is lens is angled 2-20 degrees, such as greater than or equal to 8 degrees, relative to the distal end <b>311</b> of the optical fiber <b>315</b>. The relative angle can be obtained by cleaving the distal end of the fiber at an angle and/or by cutting the proximal surface <b>311</b> at an angle. Because the surface <b>311</b> is angled relative to the distal end <b>311</b> of the optical fiber, the refractive indices of the interface medium <b>302</b> and the lens <b>310</b> can be chosen to be further apart from one another (i.e., can be greater than 0.01 or 0.02). The angle between the distal end of the optical fiber and the proximal surface <b>311</b> can ensure that only a minimal amount (e.g., less than &#x2212;55 dB) of light will be reflected back from the surface <b>311</b> while allowing flexibility in the choice of interface medium (e.g., adhesive or epoxy) used to attach the lens <b>310</b> to the optical fiber <b>315</b>.</p>
+<p id="p-0059" num="0058">Referring to <figref idref="DRAWINGS">FIGS. <b>3</b>C-<b>3</b>D</figref>, in an exemplary embodiment of a lens <b>310</b>, a first radius (R1) of the anamorphic lens can be 0.0433 inches while a second radius (R2) of the anamorphic lens can be 0.0229 inches. The angle of the proximal surface <b>311</b> can be 8 degrees relative to a distal end of the fiber while an angle of the outer surface <b>317</b> can be 8 degrees relative to an axis that is parallel with the longitudinal axis of the fiber. In another embodiment, R1 can be 0.0276 inches, and R2 can be 0.0269 inches, which can result in focusing the beam closer within the target. Further, as shown, the distal surface <b>321</b> can be angled at approximately 45 degrees relative to the longitudinal axis of the optical fiber (i.e., the angle between the optical axis and the tangent to the compound second surface at the intersection with the second surface).</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. <b>4</b></figref> illustrates yet another device <b>400</b> including an anamorphic lens <b>410</b>. The lens <b>410</b> is similar to lens <b>310</b> except that the outer surface <b>417</b> is angled relative to the longitudinal axis of the fiber. That is, the outer surface <b>417</b> can have an angle of between 2-20 degrees, such as 8 degrees or more, relative to an axis that is parallel to the axis of the fiber <b>417</b>. Angling the surface <b>417</b> by 8 degrees or more advantageously ensures that a minimal secondary reflection is created by the surface <b>417</b> during imaging. In some embodiments, the surface <b>417</b> can be angled so as to make a 90 degree angle with the proximal surface <b>411</b>. In other embodiments, the surface <b>417</b> can be angled in the opposite direction and/or can be angled by a different amount than the proximal surface <b>411</b> so as to prevent the formation of a 90 degree angle (thereby helping to prevent back-reflection into the optical fiber <b>415</b>).</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIGS. <b>5</b>A-<b>5</b>B</figref> show an embodiment of an anamorphic lens <b>510</b> similar to lens <b>410</b>. In this embodiment, however, a circle <b>599</b><i>a</i>, <b>599</b><i>b </i>is drawn on each surface <b>521</b>, <b>511</b>, to show a focal area of each of the surfaces <b>521</b>, <b>511</b>. The circles <b>599</b><i>a,b </i>thus indicate the desired position of the beam when it hits the surfaces <b>521</b>, <b>511</b>. Ideally, the beam hits within circle <b>599</b><i>b </i>at an intersection of both optical axes (e.g., along R1 and R2). Further, the circles <b>599</b><i>a,b </i>can have a larger diameter than the diameter of the fiber to provide tolerance for placement of the fiber relative to the lens <b>510</b>. For example, the circles <b>599</b><i>a,b </i>can have a diameter of 10-100 microns. The optical density and/or thickness of the coating can be configured so as to provide the desired reflections regardless of where the light beam is positioned within circle <b>599</b><i>b</i>. Accordingly, the placement of the optical fiber relative to the lens assembly <b>510</b> can be within a set tolerance, such as to allow movement within 50 microns of center of the circle <b>599</b><i>b. </i></p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIGS. <b>6</b>A-<b>6</b>C</figref> illustrate another device <b>600</b> including an anamorphic lens <b>610</b>. The lens <b>610</b> includes a proximal surface <b>611</b> that is both coated with a reflective coating, such as gold (as described above) and that has compound radii (i.e., is anamorphic). During use of this embodiment, the light thus does not travel through the lens, but instead immediately reflects off of the surface <b>611</b>. The surface <b>611</b> can be concave and can have radii and/or a radius of curvature that are approximately the same as described above with respect to the distal surface <b>321</b>.</p>
+<p id="p-0063" num="0062">Thus, as discussed above, the SMF-GRIN and mirror assembly required for many prior art devices can be replaced with a single anamorphic lens assembly as described herein.</p>
+<p id="p-0064" num="0063">In some embodiments, the anamorphic lenses described herein can be made of polycarbonate.</p>
+<p id="p-0065" num="0064">Further, in some embodiments, the lens assemblies described herein can be molded. Molding a material, such as a polycarbonate, can be relatively inexpensive and easy to make, simplifying the manufacturing process and lowering the cost for making imaging assemblies.</p>
+<p id="p-0066" num="0065">Referring to <figref idref="DRAWINGS">FIG. <b>7</b>A</figref>, in some embodiments, the formed lens assembly can be dropped into a crevice <b>777</b> or hole in the device housing <b>709</b>, and the hole can then be filled with the interface medium. Referring to <figref idref="DRAWINGS">FIG. <b>7</b>B</figref>, in some embodiments, the formed lens assembly can be integral with a hypotube <b>787</b> having an elongate channel <b>788</b> extending therethrough. The optical fiber can then be placed within the channel <b>788</b> and the interface medium used to attach the fiber to the lens <b>710</b>.</p>
+<p id="p-0067" num="0066">The interface mediums described herein can be, for example, an epoxy, such as a UV-curing epoxy.</p>
+<p id="p-0068" num="0067">As mentioned and illustrated, the use of the anamorphic lens assemblies described herein may shorten the length of the distal tip of the devices in which the assemblies are used. The length of the stripped section of the fiber may be much smaller, so the distal imaging and therapeutic housing can be made much smaller.</p>
+<p id="p-0069" num="0068">The lens assemblies described herein can have significantly better focusing capability suited to the geometry of a catheter. For example, the radius of curvature of the anamorphic lens structures described herein may be such that the focus is a preferred (further) distance away from the housing. <figref idref="DRAWINGS">FIG. <b>8</b></figref> shows examples of a range of beam diameters relative to the distance from the imaging tip for an OCT catheter without a lens <b>801</b>, with a GRIN fiber lens <b>803</b>, and with the anamorphic lens apparatuses described herein <b>805</b>. In this example, the beam diameter with 0 being the edge of the housing.</p>
+<p id="p-0070" num="0069">In some embodiments, the lens assemblies described herein can themselves cause the reflection of the light beam into the tissue. That is, the reflective surfaces can be uncoated, and the reflection can be caused by a total internal reflection resulting from the mismatch of the refractive indices between the lens material and the interface medium and/or air surrounding the lens. In such embodiments, the refractive index of the lens material can be high, such as 1.0 or greater, 1.2 or greater, 1.5 or greater, or 1.7 or greater. Further, in embodiments where light travels through the lens, the distal surface of the lens can be bordered by air to ensure total internal reflection.</p>
+<p id="p-0071" num="0070">In some embodiments, the reference reflection can be made by a surface other than the optical fiber/interface medium surface. For example, the reference reflection can be made by the proximal or distal surfaces of the lens assembly and/or by the outer surface of the lens assembly. In such an embodiment, the indices of refraction of the interface medium and the core of the optical fiber can be closely matched (e.g., within 0.02) in order to provide only minimal secondary reflection at that interface.</p>
+<p id="p-0072" num="0071">The lens assemblies described herein can be used with a variety of different imaging catheters. For example, the lens assemblies can be used with: U.S. patent application Ser. No. 12/829,277, filed Jul. 1, 2010, titled &#x201c;ATHERECTOMY CATHETER WITH LATERALLY-DISPLACEABLE TIP,&#x201d; now U.S. Patent Application Publication No. 2011/0004107; U.S. patent application Ser. No. 12/829,267, filed Jul. 1, 2010, titled &#x201c;CATHETER-BASED OFF-AXIS OPTICAL COHERENCE TOMOGRAPHY IMAGING SYSTEM,&#x201d; now U.S. Pat. No. 9,125,562; U.S. patent application Ser. No. 13/175,232, filed Jul. 1, 2011, titled &#x201c;ATHERECTOMY CATHETERS WITH LONGITUDINALLY DISPLACEABLE DRIVE SHAFTS,&#x201d; now U.S. Pat. No. 9,345,510; U.S. patent application Ser. No. 13/433,049, filed Mar. 28, 2012, titled &#x201c;OCCLUSION-CROSSING DEVICES, IMAGING, AND ATHERECTOMY DEVICES,&#x201d; now U.S. Pat. No. 8,644,913; U.S. patent application Ser. No. 14/401,175, filed Nov. 14, 2014, titled &#x201c;ATHERECTOMY CATHETERS WITH IMAGING,&#x201d; now U.S. Patent Application Publication No. 2016/0141816; U.S. patent application Ser. No. 14/424,277, filed Feb. 26, 2015, titled &#x201c;BALLOON ATHERECTOMY CATHETERS WITH IMAGING,&#x201d; now U.S. Patent Application Publication No. 2015/0208922; U.S. patent application Ser. No. 14/776,750, filed Sep. 15, 2015, titled &#x201c;CHRONIC TOTAL OCCLUSION CROSSING DEVICES WITH IMAGING, now U.S. Patent Application Publication No. 2016/0029902; U.S. patent application Ser. No. 15/072,272, filed Mar. 16, 2016, titled &#x201c;ATHERECTOMY CATHETERS DEVICES HAVING MULTI-CHANNEL BUSHINGS,&#x201d; now U.S. Patent Application Publication No. 2016/0192962; U.S. patent application Ser. No. 15/076,568, filed Feb. 5, 2015, titled &#x201c;ATHERECTOMY CATHETERS AND OCCLUSION CROSSING DEVICES;&#x201d; and International Patent Application No. PCT/US2015/039585, filed Jul. 8, 2015, titled &#x201c;HIGH SPEED CHRONIC TOTAL OCCLUSION CROSSING DEVICES,&#x201d; now International Patent Publication No. WO 2016/007652, the entireties of which are incorporated by reference.</p>
+<p id="p-0073" num="0072">The lens assemblies described herein can be used, for example, as part of an optical coherence tomography (OCT) system. Referring to <figref idref="DRAWINGS">FIG. <b>11</b></figref>, the system <b>1100</b> can therefore include a source of optical radiation <b>1122</b>, a common path optical fiber <b>1115</b> (e.g., extending through a catheter elongate body), the lens assembly <b>1110</b>, the interface medium or epoxy <b>1102</b>, and a detector <b>1130</b> configured to receive the optical radiation reflected from the reference interface and the target <b>1114</b>. The system <b>1100</b> can further include a processor to generate an image of the target based upon the optical radiation received by the receiving electronics. As is further shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>, a Faraday isolation device <b>1112</b>, such as a Faraday Effect optical circulator, can be used to separate the paths of the outgoing light source signal and the target and reference signals returning from the distal end of the fiber. Exemplary OCT systems with which the lens assembly can be used are further described in U.S. patent application Ser. No. 14/400,140, filed on Nov. 10, 2014 (titled &#x201c;OPTICAL COHERENCE TOMOGRAPHY WITH GRADED INDEX FIBER FOR BIOLOGICAL IMAGING&#x201d;), the entirety of which is incorporated by reference herein.</p>
+<p id="p-0074" num="0073">In some embodiments, a secondary reflection of optical radiation from an interface between the optical fiber and the lens assembly is less than &#x2212;60 dB. Further, in some embodiments, the reference interface provides a reference reflection of between &#x2212;28 and &#x2212;42 dB.</p>
+<p id="p-0075" num="0074">Also described herein are carbon dioxide supply cartridges that can be used, for example, to inflate a balloon of a balloon catheter.</p>
+<p id="p-0076" num="0075"><figref idref="DRAWINGS">FIG. <b>9</b></figref> shows a single-use carbon dioxide supply cartridge or device <b>900</b>. The device <b>900</b> includes a cylinder <b>901</b> filled with carbon dioxide and a valve assembly <b>903</b>. In one embodiment, the cylinder <b>901</b> and the valve assembly <b>903</b> can be twisted relative to one another in order to open the cylinder and pressure the valve assembly <b>903</b>. For example, the cylinder <b>901</b> can have a threaded male portion <b>905</b> while the valve assembly <b>903</b> can include a threaded female portion <b>907</b>. The valve assembly <b>903</b> can further include a piercing element, such as a needle, configured to break a seal on the cylinder <b>901</b> when the threaded portions <b>905</b>, <b>907</b> are connected together. The valve assembly <b>903</b> can further include a rotational valve <b>919</b> configured to control or restrict flow of the gas therethrough. Further, a check valve <b>911</b> can be configured to control the maximum inflation pressure. For example, the check valve <b>911</b> can limit the inflation pressure to 15 psi. A catheter connection <b>909</b> can mechanically connect to the catheter and provide a flow path for the carbon dioxide from the device <b>900</b> to the balloon.</p>
+<p id="p-0077" num="0076"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows another embodiment of a single-use carbon dioxide supply device <b>1000</b> with similar features as device <b>900</b>.</p>
+<p id="p-0078" num="0077">The carbon dioxide supply devices <b>900</b>, <b>1000</b> can be used with a variety of different balloon catheters. For example, the devices <b>900</b>, <b>1000</b> can be used with balloon atherectomy catheters, such as those described in International Patent Application No. PCT/US2013/032494, filed Mar. 15, 2013, titled &#x201c;BALOON ATHERECTOMY CATHETERS WITH IMAGING,&#x201d; and International Patent Application No. PCT/US2015/014613, filed Feb. 5, 2015, titled &#x201c;ATHERECTOMY CATHETERS AND OCCLUSION CROSSING DEVICES,&#x201d; incorporated by reference herein in their entireties. The carbon dioxide supply device <b>100</b> can further be used, for example, with balloon angioplasty catheters. Advantageously, the carbon dioxide supply devices <b>900</b>,<b>1000</b> can be a single-use sterile product.</p>
+<p id="p-0079" num="0078">Although described as a carbon dioxide supply, other inflation gases can be used in devices <b>900</b>, <b>1000</b>.</p>
+<p id="p-0080" num="0079">When a feature or element is herein referred to as being &#x201c;on&#x201d; another feature or element, it can be directly on the other feature or element or intervening features and/or elements may also be present. In contrast, when a feature or element is referred to as being &#x201c;directly on&#x201d; another feature or element, there are no intervening features or elements present. It will also be understood that, when a feature or element is referred to as being &#x201c;connected&#x201d;, &#x201c;attached&#x201d; or &#x201c;coupled&#x201d; to another feature or element, it can be directly connected, attached or coupled to the other feature or element or intervening features or elements may be present. In contrast, when a feature or element is referred to as being &#x201c;directly connected&#x201d;, &#x201c;directly attached&#x201d; or &#x201c;directly coupled&#x201d; to another feature or element, there are no intervening features or elements present. Although described or shown with respect to one embodiment, the features and elements so described or shown can apply to other embodiments. It will also be appreciated by those of skill in the art that references to a structure or feature that is disposed &#x201c;adjacent&#x201d; another feature may have portions that overlap or underlie the adjacent feature.</p>
+<p id="p-0081" num="0080">Terminology used herein is for the purpose of describing particular embodiments only and is not intended to be limiting of the invention. For example, as used herein, the singular forms &#x201c;a&#x201d;, &#x201c;an&#x201d; and &#x201c;the&#x201d; are intended to include the plural forms as well, unless the context clearly indicates otherwise. It will be further understood that the terms &#x201c;comprises&#x201d; and/or &#x201c;comprising,&#x201d; when used in this specification, specify the presence of stated features, steps, operations, elements, and/or components, but do not preclude the presence or addition of one or more other features, steps, operations, elements, components, and/or groups thereof. As used herein, the term &#x201c;and/or&#x201d; includes any and all combinations of one or more of the associated listed items and may be abbreviated as &#x201c;/&#x201d;.</p>
+<p id="p-0082" num="0081">Spatially relative terms, such as &#x201c;under&#x201d;, &#x201c;below&#x201d;, &#x201c;lower&#x201d;, &#x201c;over&#x201d;, &#x201c;upper&#x201d; and the like, may be used herein for ease of description to describe one element or feature's relationship to another element(s) or feature(s) as illustrated in the figures. It will be understood that the spatially relative terms are intended to encompass different orientations of the device in use or operation in addition to the orientation depicted in the figures. For example, if a device in the figures is inverted, elements described as &#x201c;under&#x201d; or &#x201c;beneath&#x201d; other elements or features would then be oriented &#x201c;over&#x201d; the other elements or features. Thus, the exemplary term &#x201c;under&#x201d; can encompass both an orientation of over and under. The device may be otherwise oriented (rotated 90 degrees or at other orientations) and the spatially relative descriptors used herein interpreted accordingly. Similarly, the terms &#x201c;upwardly&#x201d;, &#x201c;downwardly&#x201d;, &#x201c;vertical&#x201d;, &#x201c;horizontal&#x201d; and the like are used herein for the purpose of explanation only unless specifically indicated otherwise.</p>
+<p id="p-0083" num="0082">Although the terms &#x201c;first&#x201d; and &#x201c;second&#x201d; may be used herein to describe various features/elements, these features/elements should not be limited by these terms, unless the context indicates otherwise. These terms may be used to distinguish one feature/element from another feature/element. Thus, a first feature/element discussed below could be termed a second feature/element, and similarly, a second feature/element discussed below could be termed a first feature/element without departing from the teachings of the present invention.</p>
+<p id="p-0084" num="0083">As used herein in the specification and claims, including as used in the examples and unless otherwise expressly specified, all numbers may be read as if prefaced by the word &#x201c;about&#x201d; or &#x201c;approximately,&#x201d; even if the term does not expressly appear. The phrase &#x201c;about&#x201d; or &#x201c;approximately&#x201d; may be used when describing magnitude and/or position to indicate that the value and/or position described is within a reasonable expected range of values and/or positions. For example, a numeric value may have a value that is +/&#x2212;0.1% of the stated value (or range of values), +/&#x2212;1% of the stated value (or range of values), +/&#x2212;2% of the stated value (or range of values), +/&#x2212;5% of the stated value (or range of values), +/&#x2212;10% of the stated value (or range of values), etc. Any numerical range recited herein is intended to include all sub-ranges subsumed therein.</p>
+<p id="p-0085" num="0084">Although various illustrative embodiments are described above, any of a number of changes may be made to various embodiments without departing from the scope of the invention as described by the claims. For example, the order in which various described method steps are performed may often be changed in alternative embodiments, and in other alternative embodiments one or more method steps may be skipped altogether. Optional features of various device and system embodiments may be included in some embodiments and not in others. Therefore, the foregoing description is provided primarily for exemplary purposes and should not be interpreted to limit the scope of the invention as it is set forth in the claims.</p>
+<p id="p-0086" num="0085">The examples and illustrations included herein show, by way of illustration and not of limitation, specific embodiments in which the subject matter may be practiced. As mentioned, other embodiments may be utilized and derived there from, such that structural and logical substitutions and changes may be made without departing from the scope of this disclosure. Such embodiments of the inventive subject matter may be referred to herein individually or collectively by the term &#x201c;invention&#x201d; merely for convenience and without intending to voluntarily limit the scope of this application to any single invention or inventive concept, if more than one is, in fact, disclosed. Thus, although specific embodiments have been illustrated and described herein, any arrangement calculated to achieve the same purpose may be substituted for the specific embodiments shown. This disclosure is intended to cover any and all adaptations or variations of various embodiments. Combinations of the above embodiments, and other embodiments not specifically described herein, will be apparent to those of skill in the art upon reviewing the above description.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A catheter device for optical coherence tomography (OCT) imaging, comprising:
+<claim-text>a lens assembly coupled to an optical fiber, the lens assembly comprising:
+<claim-text>a housing comprising a side-facing hole; and</claim-text>
+<claim-text>a lens body positioned within the side-facing hole, the lens body attached to and optically coupled with a distal end of the optical fiber by an interface medium,</claim-text>
+<claim-text>wherein the optical fiber and the lens body are together configured to provide a common path for optical radiation reflected from a target and from a reference interface formed by the interface medium.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the lens body includes a concave proximal surface that is opposite from and at an angle relative to the distal end of the optical fiber.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the interface medium is within a channel of the housing.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the lens body is characterized as having a first refractive index, and the interface medium has a second refractive index that is different than the first refractive index.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The device of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the first refractive index and the second refractive index differ by 0.02 or less.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the lens body has a refractive index that is mismatched relative to a refractive index of the optical fiber.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the lens assembly further comprises a hypotube coupled to the lens body, wherein the optical fiber is positioned within a channel of the hypotube.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the lens body includes concave proximal surface having a compound radius, wherein the compound radius includes a first radius along a first axis that is different from a second radius along a second axis.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the reference interface provides a reference reflection of between &#x2212;28 and &#x2212;42 dB.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a reflective coating on the lens body.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The device of <claim-ref idref="CLM-00010">claim 10</claim-ref>, further comprising a source of optical radiation, wherein the reflective coating has a thickness of at least &#x2159; of an excitation wavelength of the source of optical radiation.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. A catheter device for optical coherence tomography (OCT) imaging, comprising:
+<claim-text>an elongate catheter body;</claim-text>
+<claim-text>an optical fiber in the elongate catheter body; and</claim-text>
+<claim-text>a lens assembly comprising:
+<claim-text>a housing comprising a side-facing hole; and</claim-text>
+<claim-text>a lens body positioned within the side-facing hole, the lens body attached to and optically coupled with a distal end of the optical fiber by an interface medium,</claim-text>
+<claim-text>wherein the optical fiber and the lens body are together configured to provide a common path for optical radiation reflected from a target and from a reference interface formed by the interface medium.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The device of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the optical fiber is configured to rotate relative to the elongate catheter body.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The device of <claim-ref idref="CLM-00012">claim 12</claim-ref>, further comprising a source of optical radiation, receiving electronics configured to receive optical radiation reflected from the reference interface and a target, and a processor to generate an image of the target based upon the optical radiation received by the receiving electronics.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The device of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the lens body includes a concave proximal surface that is opposite from and at an angle relative to the distal end of the optical fiber.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The device of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein a radius of curvature of the concave proximal surface is between 0.2 mm and 1.5 mm.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The device of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein a tangent of the concave proximal surface is at an angle of between about 40 degrees and 50 degrees relative to a longitudinal axis of the optical fiber.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The device of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the interface medium is an epoxy.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The device of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the lens body comprises a polycarbonate material.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The device of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein lens body comprises a reflective material configured so that at least 90% of light reaching the lens body from the distal end of the optical fiber reflects off of the lens body.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

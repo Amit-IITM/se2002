@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225415A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225415</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18011418</doc-number>
+<date>20211112</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>KR</country>
+<doc-number>10-2021-0041624</doc-number>
+<date>20210331</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>48</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>44</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>05</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>50</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>48</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>44</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>05</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20200101</date></cpc-version-indicator>
+<section>A</section>
+<class>24</class>
+<subclass>F</subclass>
+<main-group>40</main-group>
+<subgroup>50</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">AEROSOL GENERATION DEVICE AND CONTROL METHOD THEREOF</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>KT&#x26;G CORPORATION</orgname>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+<residence>
+<country>KR</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>JANG</last-name>
+<first-name>Chul Ho</first-name>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>GO</last-name>
+<first-name>Gyoung Min</first-name>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>BAE</last-name>
+<first-name>Hyung Jin</first-name>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>SEO</last-name>
+<first-name>Jang Won</first-name>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>JEONG</last-name>
+<first-name>Min Seok</first-name>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>JEONG</last-name>
+<first-name>Jong Seong</first-name>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="06" designation="us-only">
+<addressbook>
+<last-name>JUNG</last-name>
+<first-name>Jin Chul</first-name>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>KT&#x26;G CORPORATION</orgname>
+<role>03</role>
+<address>
+<city>Daejeon</city>
+<country>KR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/KR2021/016505</doc-number>
+<date>20211112</date>
+</document-id>
+<us-371c12-date><date>20221219</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An aerosol generation device and a control method thereof are provided. The aerosol generation device according to some embodiments of the present disclosure may include a liquid supply part configured to supply a liquid aerosol-forming substrate, a vaporization element configured to vaporize the supplied liquid aerosol-forming substrate to generate an aerosol in a vaporization space, and an airflow path configured to allow the aerosol generated in the vaporization space to move toward a mouthpiece. Here, the vaporization element, an inlet of the airflow path, and an outlet of the airflow path may be formed in a nonlinear structure, and accordingly, a droplet discharge phenomenon and an airflow path blockage phenomenon may be prevented.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="179.92mm" wi="56.98mm" file="US20230225415A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="124.04mm" wi="104.73mm" file="US20230225415A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="195.07mm" wi="70.78mm" file="US20230225415A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="177.63mm" wi="52.66mm" file="US20230225415A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="72.81mm" wi="105.24mm" file="US20230225415A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="157.40mm" wi="103.04mm" file="US20230225415A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="163.49mm" wi="98.72mm" file="US20230225415A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="158.67mm" wi="88.48mm" file="US20230225415A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="172.47mm" wi="88.98mm" file="US20230225415A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="189.40mm" wi="100.58mm" file="US20230225415A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="160.19mm" wi="104.90mm" file="US20230225415A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="184.74mm" wi="130.13mm" file="US20230225415A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="151.05mm" wi="104.39mm" file="US20230225415A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="148.59mm" wi="131.66mm" file="US20230225415A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="85.26mm" wi="90.59mm" file="US20230225415A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present disclosure relates to an aerosol generation device and a control method thereof, and more particularly, to an aerosol generation device having a structure capable of preventing a droplet discharge phenomenon and an airflow path blockage phenomenon, and a control method performed in the device.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">In recent years, demand for alternative methods that overcome the disadvantages of general cigarettes has increased. For example, demand for devices that heat a liquid aerosol-forming substrate to generate an aerosol (e.g., liquid-type electronic cigarettes) has increased. Accordingly, active research has been carried out on liquid-type aerosol generation devices.</p>
+<p id="p-0004" num="0003">Recently, a device that vaporizes a liquid through ultrasonic vibrations to generate an aerosol has been proposed. For example, as illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, a device in which a liquid (L) stored in a liquid reservoir (<b>2</b>) is absorbed through a wick (<b>3</b>) and the absorbed liquid (L) is vaporized through a vibrator (<b>4</b>) to generate an aerosol has been proposed.</p>
+<p id="p-0005" num="0004">However, as illustrated, a phenomenon in which droplets (<b>6</b>) formed during vaporization bounce out of a vaporization space (<b>5</b>) may frequently occur in the proposed device. For example, as bubbles formed inside the liquid (L) absorbed into the wick (<b>3</b>) rapidly grow and explode, the droplets (<b>6</b>) may bounce out of the vaporization space (<b>5</b>). The droplets (<b>6</b>) may be discharged to the outside of a mouthpiece (<b>1</b>) due to a negative pressure momentarily formed by a puff and cause considerable discomfort to a smoker or may form a liquid film on an inner wall of an airflow path (<b>7</b>) and block the airflow path (<b>7</b>).</p>
+<heading id="h-0003" level="1">DISCLOSURE</heading>
+<heading id="h-0004" level="1">Technical Problem</heading>
+<p id="p-0006" num="0005">Some embodiments of the present disclosure are directed to providing an aerosol generation device to which structural design capable of preventing a droplet discharge phenomenon and an airflow path blockage phenomenon is applied and a control method performed in the device.</p>
+<p id="p-0007" num="0006">Objectives of the present disclosure are not limited to the above-mentioned objective, and other unmentioned objectives should be clearly understood by those of ordinary skill in the art to which the present disclosure pertains from the description below.</p>
+<heading id="h-0005" level="1">Technical Solution</heading>
+<p id="p-0008" num="0007">Some embodiments of the present disclosure provide an aerosol generation device including a liquid supply part configured to supply a liquid aerosol-forming substrate, a vaporization element configured to vaporize the supplied liquid aerosol-forming substrate to generate an aerosol in a vaporization space, and an airflow path configured to allow the aerosol generated in the vaporization space to move toward a mouthpiece, wherein the vaporization element, an inlet of the airflow path, and an outlet of the airflow path may be formed in a nonlinear structure.</p>
+<p id="p-0009" num="0008">In some embodiments, the liquid supply part may include a wick configured to absorb the liquid aerosol-forming substrate and supply the absorbed liquid aerosol-forming substrate into the vaporization space, and the vaporization element, the wick, and the inlet of the airflow path may be formed in a nonlinear structure.</p>
+<p id="p-0010" num="0009">In some embodiments, the liquid supply part may include a wick configured to absorb the liquid aerosol-forming substrate and deliver the absorbed liquid aerosol-forming substrate into the vaporization space, the vaporization element may vaporize the supplied liquid aerosol-forming substrate through ultrasonic vibrations, and the vaporization element may be disposed in contact with the wick.</p>
+<p id="p-0011" num="0010">In some embodiments, the wick may be disposed at a central portion of the vaporization element, and a contact area between the wick and the vaporization element may be smaller than a cross-sectional area of the vaporization element.</p>
+<p id="p-0012" num="0011">In some embodiments, a liquid absorber may be disposed on an inner wall of the airflow path.</p>
+<p id="p-0013" num="0012">In some embodiments, a mesh element may be disposed inside the airflow path.</p>
+<p id="p-0014" num="0013">In some embodiments, an obstacle configured to impede movement of the generated aerosol may be disposed inside the airflow path.</p>
+<p id="p-0015" num="0014">In some embodiments, surface treatment for increasing wettability may be performed on at least a partial region of an inner wall of the airflow path.</p>
+<p id="p-0016" num="0015">In some embodiments, the aerosol generation device may further include a controller configured to control power supplied to the vaporization element, and the controller may estimate a degree to which droplets are formed in the vaporization space, and on the basis of a result of the estimation, control the power supplied to the vaporization element.</p>
+<heading id="h-0006" level="1">Advantageous Effects</heading>
+<p id="p-0017" num="0016">According to some embodiments of the present disclosure, a vaporization element and an inlet and outlet of an airflow path may be formed in a nonlinear structure. For example, the vaporization element and the inlet of the airflow path may not be disposed on a vertical line, or the inlet and outlet of the airflow path may not be disposed on a vertical line. In this case, since droplets formed in the vaporization element are effectively prevented from being introduced through the inlet of the airflow path or being discharged through the outlet of the airflow path, a droplet discharge phenomenon and an airflow path blockage phenomenon can be significantly mitigated.</p>
+<p id="p-0018" num="0017">Also, a wick having a size smaller than a vibration element may be disposed at a central portion of the vibration element. In this case, since vaporization intensively occurs at the central portion of the vibration element, droplets may be mostly formed in the vicinity of the central portion of the vibration element. Accordingly, it is possible to effectively prevent the formed droplets from being introduced through the inlet of the airflow path.</p>
+<p id="p-0019" num="0018">Also, a liquid absorber may be disposed on an inner wall of the airflow path. The liquid absorber may serve as a drainage channel that absorbs a liquid adhered to the inner wall of the airflow path and discharges the absorbed liquid in the direction of gravity. In this way, the droplet discharge phenomenon and the airflow path blockage phenomenon can be effectively prevented.</p>
+<p id="p-0020" num="0019">Also, surface treatment for increasing wettability may be performed on the inner wall of the airflow path. The surface treatment may suppress adhesion of the liquid to the inner wall of the airflow path. In this way, the droplet discharge phenomenon and the airflow path blockage phenomenon can be effectively prevented.</p>
+<p id="p-0021" num="0020">Also, an obstacle or a mesh element may be disposed inside the airflow path. The obstacle or mesh element can effectively prevent discharge of droplets through the outlet of the airflow path.</p>
+<p id="p-0022" num="0021">In addition, power supplied to the vaporization element may be dynamically controlled on the basis of a result of estimating a degree to which droplets are formed. Accordingly, the droplet discharge phenomenon and the airflow path blockage phenomenon can be more effectively prevented.</p>
+<p id="p-0023" num="0022">The advantageous effects according to the technical spirit of the present disclosure are not limited to those mentioned above, and other unmentioned advantageous effects should be clearly understood by those of ordinary skill in the art from the description below.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0007" level="1">DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is an exemplary view for describing a problem caused by a droplet bouncing phenomenon.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref> are exemplary configuration diagrams schematically illustrating an aerosol generation device according to some embodiments of the present disclosure.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is an exemplary view for describing the arrangement relationship between a wick and a vibration element according to some embodiments of the present disclosure.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref> are exemplary views for describing a vaporization structure of the aerosol generation device according to some embodiments of the present disclosure.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is an exemplary view for describing an aerosol generation device according to some other embodiments of the present disclosure.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIGS. <b>8</b> and <b>9</b></figref> are exemplary views for describing a wick having a multilayer structure according to some embodiments of the present disclosure.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is an exemplary view illustrating an internal form of an airflow path according to a first embodiment of the present disclosure.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIGS. <b>11</b> and <b>12</b></figref> are exemplary views illustrating an internal form of an airflow path according to a second embodiment of the present disclosure.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is an exemplary view illustrating an internal form of an airflow path according to a third embodiment of the present disclosure.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is an exemplary view illustrating an internal form of an airflow path according to a fourth embodiment of the present disclosure.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is an exemplary flowchart illustrating a control method according to some embodiments of the present disclosure.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0008" level="1">MODES OF THE INVENTION</heading>
+<p id="p-0035" num="0034">Hereinafter, exemplary embodiments of the present disclosure will be described in detail with reference to the accompanying drawings. Advantages and features of the present disclosure and methods of achieving the same should become clear from embodiments described in detail below with reference to the accompanying drawings. However, the technical spirit of the present disclosure is not limited to the following embodiments and may be implemented in various different forms. The following embodiments only make the technical spirit of the present disclosure complete and are provided to completely inform those of ordinary skill in the art to which the present disclosure pertains of the scope of the disclosure. The technical spirit of the present disclosure is defined only by the scope of the claims.</p>
+<p id="p-0036" num="0035">In assigning reference numerals to components of each drawing, it should be noted that the same reference numerals are assigned to the same components where possible even when the components are illustrated in different drawings. Also, in describing the present disclosure, when detailed description of a known related configuration or function is deemed as having the possibility of obscuring the gist of the present disclosure, the detailed description thereof will be omitted.</p>
+<p id="p-0037" num="0036">Unless otherwise defined, all terms including technical or scientific terms used in this specification have the same meaning as commonly understood by those of ordinary skill in the art to which the present disclosure pertains. Terms defined in commonly used dictionaries should not be construed in an idealized or overly formal sense unless expressly so defined herein. Terms used in this specification are for describing the embodiments and are not intended to limit the present disclosure. In this specification, a singular expression includes a plural expression unless the context clearly indicates otherwise.</p>
+<p id="p-0038" num="0037">Also, in describing components of the present disclosure, terms such as first, second, A, B, (a), and (b) may be used. Such terms are only used for distinguishing one component from another component, and the essence, order, sequence, or the like of the corresponding component is not limited by the terms. In a case in which a certain component is described as being &#x201c;connected,&#x201d; &#x201c;coupled,&#x201d; or &#x201c;linked&#x201d; to another component, it should be understood that, although the component may be directly connected or linked to the other component, still another component may also be &#x201c;connected,&#x201d; &#x201c;coupled,&#x201d; or &#x201c;linked&#x201d; between the two components.</p>
+<p id="p-0039" num="0038">The terms &#x201c;comprises&#x201d; and/or &#x201c;comprising&#x201d; used herein do not preclude the possibility of presence or addition of one or more components, steps, operations, and/or devices other than those mentioned.</p>
+<p id="p-0040" num="0039">First, some terms used in various embodiments of the present disclosure will be clarified.</p>
+<p id="p-0041" num="0040">In the following embodiments, &#x201c;aerosol-forming substrate&#x201d; may refer to a material that is able to form an aerosol. The aerosol may include a volatile compound. The aerosol-forming substrate may be a solid or liquid. For example, solid aerosol-forming substrates may include tobacco materials based on tobacco raw materials such as reconstituted tobacco leaves, shredded tobacco (e.g., shredded tobacco leaves, shredded reconstituted tobacco leaves, etc.), and reconstituted tobacco, and liquid aerosol-forming substrates may include liquid compositions based on various combinations of nicotine, tobacco extracts, propylene glycol, vegetable glycerin, and/or various flavoring agents. However, the scope of the present disclosure is not limited to the above-listed examples. In the following embodiments, unless mentioned otherwise, &#x201c;liquid&#x201d; may refer to a liquid aerosol-forming substrate.</p>
+<p id="p-0042" num="0041">In the following embodiments, &#x201c;aerosol generation device&#x201d; may refer to a device that generates an aerosol using an aerosol-forming substrate in order to generate an aerosol that can be inhaled directly into the user's lungs through the user's mouth.</p>
+<p id="p-0043" num="0042">In the following embodiments, &#x201c;puff&#x201d; refers to inhalation by a user, and the inhalation may be a situation in which a user draws smoke into his or her oral cavity, nasal cavity, or lungs through the mouth or nose.</p>
+<p id="p-0044" num="0043">Prior to the detailed description of embodiments of the present disclosure, in order to provide convenience of understanding, a droplet discharge phenomenon and an airflow path blockage phenomenon will be briefly described.</p>
+<p id="p-0045" num="0044">The droplet discharge phenomenon may be a phenomenon in which droplets formed in a vaporization space (that is, a space around a vaporization element where vaporization is performed) are discharged to the outside of an aerosol generation device through a mouthpiece. For example, the droplets may be formed due to rapid growth and explosion of bubbles formed in a liquid and may be discharged to the outside of the aerosol generation device due to a momentary negative pressure formed by a puff. When the discharged droplets are inhaled by a user through the oral region of the user, the user may feel considerable discomfort. Thus, it may be preferable to apply design for preventing the droplet discharge phenomenon to the aerosol generation device.</p>
+<p id="p-0046" num="0045">Also, the airflow path blockage phenomenon may be a phenomenon in which droplets introduced into an airflow path are adhered to an inner wall of the airflow path and form a liquid film and the formed liquid film blocks at least a portion of the airflow path. Here, a condensate formed due to condensation of an aerosol inside the airflow path may also accelerate the formation and growth of the liquid film. The airflow path blockage phenomenon may significantly decrease an inhaling sensation and vapor production. Thus, it may be preferable to apply design for preventing the airflow path blockage phenomenon to an aerosol generation device.</p>
+<p id="p-0047" num="0046">Hereinafter, various embodiments of an aerosol generation device to which structural design capable of preventing the above-described droplet discharge phenomenon and airflow path blockage phenomenon is applied will be described in detail with reference to the accompanying drawings.</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref> are exemplary configuration diagrams schematically illustrating an aerosol generation device <b>10</b> according to some embodiments of the present disclosure. Specifically, <figref idref="DRAWINGS">FIG. <b>2</b></figref> mainly illustrates internal components of the aerosol generation device <b>10</b>, and <figref idref="DRAWINGS">FIG. <b>3</b></figref> mainly illustrates the exterior of the aerosol generation device <b>10</b>.</p>
+<p id="p-0049" num="0048">As illustrated in <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref>, the aerosol generation device <b>10</b> according to the present embodiment may be a device that generates an aerosol through ultrasonic vibrations. That is, a vaporization element <b>17</b> of the aerosol generation device <b>10</b> may be a vibration element that vaporizes a liquid through ultrasonic vibrations.</p>
+<p id="p-0050" num="0049">As illustrated, the aerosol generation device <b>10</b> may include a mouthpiece <b>11</b>, an upper case <b>12</b>, a liquid reservoir <b>13</b>, a wick holder <b>14</b>, a wick <b>15</b>, a control main body case <b>16</b>, the vibration element <b>17</b>, a battery <b>19</b>, and a controller <b>18</b>. However, this is only a preferred embodiment for achieving the objectives of the present disclosure, and, of course, some components may be added or omitted as necessary. Hereinafter, each component of the aerosol generation device <b>10</b> will be described.</p>
+<p id="p-0051" num="0050">The mouthpiece <b>11</b> may be disposed at one end of the aerosol generation device <b>10</b> and comes into contact with the oral region of the user. The user may inhale an aerosol generated by the vibration element <b>17</b> through the mouthpiece <b>11</b>. Although the mouthpiece <b>11</b> is illustrated as being configured as a separate structure in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the mouthpiece <b>11</b> may be implemented as a portion of the upper case <b>12</b> or may be implemented in other ways.</p>
+<p id="p-0052" num="0051">Next, the upper case <b>12</b> may form an exterior of an upper portion of the aerosol generation device <b>12</b>. The upper case <b>12</b> may be made of a material suitable for protecting the internal components. Also, the upper case <b>12</b> may form an airflow path for allowing the aerosol generated by the vibration element <b>17</b> to move toward the mouthpiece <b>11</b>. However, in some cases, the airflow path may be formed using a separate tubular structure. In the following description, the term &#x201c;airflow path&#x201d; collectively refers to a path space along which air flows and a structure forming the path space.</p>
+<p id="p-0053" num="0052">In some embodiments, the upper portion of the aerosol generation device <b>10</b> may be implemented in the form of a cartridge that is coupled to a control main body (that is, a lower portion). In this case, the upper case <b>12</b> may also be referred to as &#x201c;cartridge case,&#x201d; and the mouthpiece <b>11</b>, the upper case <b>12</b>, the liquid reservoir <b>13</b>, the wick holder <b>14</b>, and the wick <b>15</b> may also constitute the cartridge. Here, the vibration element <b>17</b> may be disposed at the control main body side. This may be understood to serve to reduce a cartridge replacement cost by excluding the vibration element <b>17</b>, which is a relatively expensive component, from the cartridge. For reference, the term &#x201c;cartridge&#x201d; may be interchangeably used with the term &#x201c;cartomizer,&#x201d; &#x201c;atomizer,&#x201d; or &#x201c;vaporizer&#x201d; in the art.</p>
+<p id="p-0054" num="0053">Next, the liquid reservoir <b>13</b> may have a predetermined space formed therein and may store a liquid aerosol-forming substrate in the corresponding space. Also, the liquid reservoir <b>13</b> may supply the stored liquid to the vibration element <b>17</b> through the wick <b>15</b>.</p>
+<p id="p-0055" num="0054">The wick holder <b>14</b> may be a structure that supports or surrounds the wick <b>15</b>. The wick holder <b>14</b> may also serve to guide the liquid stored in the liquid reservoir <b>13</b> to move toward the wick <b>15</b>. Preferably, the wick holder <b>14</b> may be made of a material whose physical and chemical deformation due to liquid contact, vibration, heating, etc. is small. For example, the wick holder <b>14</b> may be made of a silicone material, but the material of the wick holder <b>14</b> is not limited thereto. In some embodiments, the wick holder <b>14</b> may be omitted.</p>
+<p id="p-0056" num="0055">Next, the wick <b>15</b> may absorb the liquid stored in the liquid reservoir <b>13</b> and supply the absorbed liquid to the vibration element <b>17</b> in the vaporization space. The wick <b>15</b> may be implemented using any material capable of absorbing the liquid of the liquid reservoir <b>13</b>. For example, the wick <b>15</b> may be made of cotton, silica, fibers, a porous structure (e.g., a bead assembly), etc., but the material of the wick <b>15</b> is not limited thereto.</p>
+<p id="p-0057" num="0056">In some embodiments, the wick <b>15</b> may be manufactured in a size smaller than the vibration element <b>17</b> and disposed in contact with the vibration element <b>17</b>. The sizes and arrangement relationship will be described below with reference to <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0058" num="0057">The liquid reservoir <b>13</b>, the wick holder <b>14</b>, and the wick <b>15</b> all serve to supply the liquid to the vibration element <b>17</b> and thus may be collectively referred to as &#x201c;liquid supply part.&#x201d;</p>
+<p id="p-0059" num="0058">Meanwhile, although <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref> illustrate a case in which the liquid supply part includes the wick <b>15</b>, the liquid supply part may be implemented in another form. For example, the liquid supply part may be implemented to supply the liquid of the liquid reservoir <b>13</b> to the vibration element <b>17</b> through a liquid supply path without including the wick <b>15</b>.</p>
+<p id="p-0060" num="0059">Hereinafter, components constituting the control main body of the aerosol generation device <b>10</b> will be described.</p>
+<p id="p-0061" num="0060">The control main body case <b>16</b> may form the exterior of the control main body. In some cases, the control main body case <b>16</b> may form the entire exterior of the aerosol generation device <b>10</b>. The control main body case <b>16</b> may be made of a material suitable for protecting the components inside the control main body.</p>
+<p id="p-0062" num="0061">Next, the vibration element <b>17</b> may generate vibrations (ultrasonic vibrations) to vaporize the liquid supplied into the vaporization space. For example, the vibration element <b>17</b> may be implemented using a piezoelectric element capable of converting electrical energy into mechanical energy and may generate vibrations according to control of the controller <b>18</b>. Since those of ordinary skill in the art should clearly understand the operational principle of the piezoelectric element, further description thereof will be omitted. The vibration element <b>17</b> may be electrically connected to the controller <b>18</b> and the battery <b>19</b>.</p>
+<p id="p-0063" num="0062">In some embodiments, as illustrated in <figref idref="DRAWINGS">FIG. <b>4</b></figref> and so on, the vibration element <b>17</b> and the wick <b>15</b> may be disposed in contact with each other. In this way, vibrations generated in the vibration element <b>17</b> may be transmitted without loss to the wick <b>15</b>, and vaporization may easily occur. Also, the wick <b>15</b> may be disposed at a central portion of the vibration element <b>17</b>, and a diameter of the wick <b>15</b> (e.g., a diameter of a contact surface) may be smaller than a diameter of the vibration element <b>17</b>. That is, a contact area between the wick <b>15</b> and the vibration element <b>17</b> may be smaller than a cross-sectional area of the vibration element <b>17</b>. In this way, droplets are intensively formed only in the vicinity of the central portion of the vibration element <b>17</b>, and thus it is possible to effectively prevent the formed droplets from reaching an inlet of the airflow path. In the present embodiment, for example, the term &#x201c;diameter&#x201d; may refer to the shortest length, the longest length, or an average length of a straight line passing through the center.</p>
+<p id="p-0064" num="0063">In the previous embodiments, a diameter D<b>1</b> of the wick <b>15</b> or the contact portion may be in a range of about 2.0 mm to 8.0 mm, preferably, about 2.5 mm to 7.0 mm, about 3.0 mm to 6.0 mm, or about 3.0 mm to 5.0 mm. Within such numerical ranges, sufficient vapor production may be guaranteed through a suitable vaporization area, and a margin of a periphery portion (that is, a non-contact portion) may be sufficiently secured in consideration of a typical size of the vibration element <b>17</b>. As a result, it is possible to effectively prevent the formed droplets from being entering the inlet of the airflow path.</p>
+<p id="p-0065" num="0064">Also, in some embodiments, a distance D<b>2</b> from the edge of the wick <b>15</b> to the edge of the vibration element <b>17</b> may be about 1 mm or more, preferably, about 1.2 mm or more, about 1.5 mm or more, about 1.7 mm or more, about 2.0 mm or more, or about 2.5 mm or more. Within such numerical ranges, the margin of the periphery portion (that is, the non-contact portion) may be sufficiently secured, and thus it is possible to effectively prevent the formed droplets from being introduced through the inlet of the airflow path.</p>
+<p id="p-0066" num="0065">Meanwhile, in some embodiments, the vibration element <b>17</b> may be disposed at the upper portion of the aerosol generation device <b>10</b> instead of being disposed at the control main body side.</p>
+<p id="p-0067" num="0066">Description will now continue with reference back to <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref>.</p>
+<p id="p-0068" num="0067">Although not clearly illustrated in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, a fixing member (e.g., a damper) disposed to fix the periphery of the vibration element <b>17</b> may be further included inside the control main body. The fixing member may serve to absorb vibrations while protecting the vibration element <b>17</b> so that vibrations generated by the vibration element <b>17</b> are not transmitted to the outside of the control main body case <b>16</b>. Therefore, preferably, the fixing member may be made of a material that can absorb vibrations well such as silicone. Also, the fixing member may be made of a waterproof or moisture-proof material and serve to seal a gap between the vibration element <b>17</b> and the control main body case <b>16</b>. In this case, a problem in which a failure occurs in the control main body due to leakage of a liquid (e.g., a liquid aerosol-forming substrate) or gas (e.g., aerosol) through the gap between the control main body case <b>16</b> and the vibration element <b>17</b> may be significantly alleviated. For example, electric components such as the controller <b>18</b> may be prevented from being damaged or malfunctioning due to moisture.</p>
+<p id="p-0069" num="0068">Next, the battery <b>19</b> may supply power used to operate the aerosol generation device <b>10</b>. For example, the battery <b>19</b> may supply power to allow the vibration element <b>17</b> to generate ultrasonic vibrations and may also supply power necessary to operate the controller <b>18</b>.</p>
+<p id="p-0070" num="0069">Also, the battery <b>19</b> may supply power necessary to operate electric components such as a display (not illustrated), a sensor (not illustrated), a motor (not illustrated), and an input device (not illustrated) that are installed in the aerosol generation device <b>10</b>.</p>
+<p id="p-0071" num="0070">Next, the controller <b>18</b> may control the overall operation of the aerosol generation device <b>10</b>. For example, the controller may control the operation of the vibration element <b>17</b> and the battery <b>19</b> and may also control the operation of other components included in the aerosol generation device <b>10</b>. The controller may control the power supplied by the battery <b>19</b>, the operation of the vibration element <b>17</b>, and the like. Also, the controller may check a state of each of the components of the aerosol generation device <b>10</b> and determine whether the aerosol generation device <b>10</b> is in an operable state.</p>
+<p id="p-0072" num="0071">In some embodiments, the controller <b>18</b> may estimate a degree to which droplets are formed in the vaporization space, and on the basis of a result of the estimation, control the power supplied to the vibration element <b>17</b>. In this way, the droplet discharge phenomenon and the airflow path blockage phenomenon may be further mitigated. The present embodiment will be described in detail below with reference to <figref idref="DRAWINGS">FIG. <b>15</b></figref>.</p>
+<p id="p-0073" num="0072">The controller may be implemented with at least one processor. The processor may also be implemented with an array of a plurality of logic gates or implemented with a combination of a general-purpose microprocessor and a memory which stores a program that may be executed by the microprocessor. Also, those of ordinary skill in the art to which the present disclosure pertains should understand that the controller may also be implemented with other forms of hardware.</p>
+<p id="p-0074" num="0073">Hereinafter, in order to further provide convenience of understanding, a vaporization structure of the aerosol generation device <b>10</b> according to some embodiments of the present disclosure will be described with reference to <figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref>.</p>
+<p id="p-0075" num="0074"><figref idref="DRAWINGS">FIG. <b>5</b></figref> illustrates an aerosol movement path in a cross-section of the aerosol generation device <b>10</b> according to some embodiments of the present disclosure, and <figref idref="DRAWINGS">FIG. <b>6</b></figref> illustrates an outside air inflow path. Specifically, <figref idref="DRAWINGS">FIG. <b>6</b></figref> illustrates a cross-section taken in another direction of the aerosol generation device <b>10</b> (e.g., a cross-section viewed from a side). It may be understood that the movement of an aerosol A and an inflow of outside air occur through different airflow paths <b>121</b> and <b>123</b>.</p>
+<p id="p-0076" num="0075">As illustrated in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, the vibration element <b>17</b> and an inlet <b>121</b>A and outlet <b>121</b>B of the airflow path <b>121</b> may be formed in a nonlinear structure. Alternatively, the vibration element <b>17</b>, the wick <b>15</b>, and the inlet of the airflow path <b>121</b> may be formed in a nonlinear structure. For example, as illustrated, the inlet <b>121</b>A of the airflow path <b>121</b> may be disposed in a direction that is not perpendicular to the vibration element <b>17</b>, or the outlet <b>121</b>B of the airflow path <b>121</b> may be disposed in a direction that is not perpendicular to the inlet <b>121</b>A. In this way, it is possible to effectively prevent droplets <b>122</b> formed in the vaporization space from being introduced through the inlet <b>121</b>A of the airflow path <b>121</b> or being discharged through the outlet <b>121</b>B of the airflow path <b>121</b>.</p>
+<p id="p-0077" num="0076">Also, as mentioned above, the wick <b>15</b> having a size smaller than the vibration element <b>17</b> may be disposed at the central portion of the vibration element <b>17</b>, and thus the inflow of the droplets <b>122</b> through the inlet <b>121</b>A of the airflow path <b>121</b> may be more effectively prevented. For example, as illustrated, even when the formed droplets <b>122</b> bounce around the wick <b>15</b>, most of the formed droplets (e.g., <b>122</b>) may fail to reach the inlet <b>121</b>A of the airflow path <b>121</b> due to a marginal space between the wick <b>15</b> and the airflow path <b>121</b>.</p>
+<p id="p-0078" num="0077">Arrows in <figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref> may be referenced for a supply path of a liquid L, a movement path of the aerosol A, and an inflow path of outside air. However, <figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref> only illustrate some examples of the present disclosure, and thus the scope of the present disclosure is not limited thereto.</p>
+<p id="p-0079" num="0078">The aerosol generation device <b>10</b> according to some embodiments of the present disclosure has been described above with reference to <figref idref="DRAWINGS">FIGS. <b>2</b> to <b>6</b></figref>. Hereinafter, an aerosol generation device <b>20</b> according to some other embodiments of the present disclosure will be described with reference to <figref idref="DRAWINGS">FIGS. <b>7</b> to <b>9</b></figref>.</p>
+<p id="p-0080" num="0079"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is an exemplary view for describing the aerosol generation device <b>20</b> according to some other embodiments of the present disclosure. <figref idref="DRAWINGS">FIG. <b>7</b></figref> illustrates only an upper portion of the aerosol generation device <b>20</b> as an example. Hereinafter, description will be given with reference to <figref idref="DRAWINGS">FIG. <b>7</b></figref>, and for clarity of the present disclosure, description of content overlapping with the previous embodiments will be omitted.</p>
+<p id="p-0081" num="0080">As illustrated in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the aerosol generation device <b>20</b> according to the present embodiment may be a device that generates an aerosol through heating. That is, a vaporization element <b>26</b> of the aerosol generation device <b>10</b> may be a heating element that vaporizes a liquid through heating.</p>
+<p id="p-0082" num="0081">As illustrated, the aerosol generation device <b>20</b> may include a mouthpiece <b>21</b>, an upper case <b>22</b>, a liquid reservoir <b>23</b>, a wick housing <b>24</b>, a wick <b>25</b>, and the heating element <b>26</b>. Also, although not illustrated, the aerosol generation device <b>20</b> may further include a controller (not illustrated), a battery (not illustrated), and a control main body case (not illustrated). However, this is only a preferred embodiment for achieving the objectives of the present disclosure, and, of course, some components may be added or omitted as necessary. Hereinafter, each component of the aerosol generation device <b>20</b> will be described.</p>
+<p id="p-0083" num="0082">The mouthpiece <b>21</b>, the upper case <b>22</b>, and the liquid reservoir <b>23</b> may respectively correspond to the mouthpiece <b>11</b>, the upper case <b>12</b>, and the liquid reservoir <b>13</b> illustrated in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, and thus descriptions thereof will be omitted.</p>
+<p id="p-0084" num="0083">Next, the wick housing <b>24</b> may be a housing that surrounds at least a portion of the wick <b>25</b>. In some embodiments, the wick housing <b>24</b> may be omitted.</p>
+<p id="p-0085" num="0084">Next, the wick <b>25</b> may absorb a liquid L stored in the liquid reservoir <b>23</b> and supply the absorbed liquid L to the heating element <b>26</b>. The wick <b>25</b> may be implemented using any material capable of absorbing the liquid L of the liquid reservoir <b>23</b>. For example, the wick <b>25</b> may be made of cotton, silica, fibers, a porous structure (e.g., a bead assembly), etc., but the material of the wick <b>25</b> is not limited thereto.</p>
+<p id="p-0086" num="0085">In some embodiments, the wick <b>25</b> may be formed in a multilayer structure. The wick <b>25</b> formed in a multilayer structure may effectively suppress droplet formation. A specific structure of the wick <b>25</b> and the principle of how the wick <b>25</b> suppresses droplet formation will be described in detail below with reference to <figref idref="DRAWINGS">FIGS. <b>8</b> and <b>9</b></figref>.</p>
+<p id="p-0087" num="0086">The liquid reservoir <b>23</b>, the wick housing <b>24</b>, and the wick <b>25</b> all serve to store and supply the liquid L. Thus, these components may be collectively referred to as &#x201c;liquid supply part.&#x201d;</p>
+<p id="p-0088" num="0087">Next, the heating element <b>26</b> may heat the liquid L supplied through the wick <b>25</b> to generate an aerosol. As illustrated, the heating element <b>26</b> may be implemented using a coil that surrounds at least a portion of the wick <b>25</b>, but the method of implementing the heating element <b>26</b> is not limited thereto, and the heating element <b>26</b> may be implemented using any other method as long as the heating element <b>26</b> can vaporize the liquid L through heating.</p>
+<p id="p-0089" num="0088">In some embodiments, the wick <b>25</b> may be implemented to be integrated with the heating element <b>26</b>. For example, the wick <b>25</b> may be implemented as an element that can simultaneously absorb and heat the liquid L, like a porous assembly made of metal foam and metal beads.</p>
+<p id="p-0090" num="0089">Meanwhile, as illustrated, the heating element <b>26</b> (or the wick <b>25</b>) and an inlet <b>221</b>A and outlet <b>221</b>B of an airflow path <b>221</b> may be formed in a nonlinear structure. For example, as illustrated, the inlet <b>221</b>A of the airflow path <b>221</b> may be disposed in a direction that is not perpendicular to the heating element <b>26</b>, or the outlet <b>221</b>B of the airflow path <b>221</b> may be disposed in a direction that is not perpendicular to the inlet <b>221</b>A. In this way, it is possible to effectively prevent droplets formed in the vaporization space from being introduced through the inlet <b>221</b>A of the airflow path <b>221</b> or being discharged through the outlet <b>221</b>B of the airflow path <b>221</b>.</p>
+<p id="p-0091" num="0090">Hereinafter, the wick <b>25</b> having a multilayer structure according to some embodiments of the present disclosure will be described with reference to <figref idref="DRAWINGS">FIGS. <b>8</b> and <b>9</b></figref>.</p>
+<p id="p-0092" num="0091"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is an exemplary view illustrating the wick <b>25</b> having a multilayer structure according to some embodiments of the present disclosure. For convenience of understanding, <figref idref="DRAWINGS">FIG. <b>8</b></figref> illustrates an example in which the wick <b>25</b> is formed in a double-layer structure. However, the wick <b>25</b> may also be formed in a structure that consists of three or more layers.</p>
+<p id="p-0093" num="0092">As illustrated in <figref idref="DRAWINGS">FIG. <b>8</b></figref>, the wick <b>25</b> may be configured to include a core part <b>251</b> and an outer cover part <b>252</b>. Each of the core part <b>251</b> and the outer cover part <b>252</b> may be formed in a single-layer structure or a multilayer structure.</p>
+<p id="p-0094" num="0093">The core part <b>251</b> may mainly serve to absorb a liquid. In other words, the core part <b>251</b> may play a leading role of smoothly supplying the liquid to pores inside the wick <b>25</b>.</p>
+<p id="p-0095" num="0094">For this role, the core part <b>251</b> according to some embodiments may be implemented to have a transfer ability superior to that of the outer cover part <b>252</b>. For example, the core part <b>251</b> may have a lower density or higher porosity than the outer cover part <b>252</b>. As another example, the core part <b>251</b> may be made of a material with higher wettability than the outer cover part <b>252</b>.</p>
+<p id="p-0096" num="0095">For example, the core part <b>251</b> may be made of materials such as cotton, silica, fibers, or a bead assembly. However, the material of the core part <b>251</b> is not limited thereto.</p>
+<p id="p-0097" num="0096">Next, the outer cover part <b>252</b> may serve to prevent droplet formation and transmit heat of the heating element <b>26</b> to the core part <b>251</b> to guarantee smooth vaporization. For example, the outer cover part <b>252</b> may suppress droplet formation in the wick <b>25</b> by suppressing the absorbed liquid from being rapidly pushed out of the wick <b>25</b> due to rapid growth of bubbles inside the core part <b>251</b>. Also, the outer cover part <b>252</b> may protect the core part <b>251</b> from high temperatures of the heating element <b>26</b>.</p>
+<p id="p-0098" num="0097">For this role, the outer cover part <b>252</b> according to some embodiments may be implemented to have a transfer ability inferior to that of the core part <b>251</b>. For example, the outer cover part <b>252</b> may have a higher density or lower porosity than the core part <b>251</b>. As such, it is possible to effectively suppress the absorbed liquid from being pushed out of the wick <b>25</b> due to rapid growth of bubbles, and heat of the heating element <b>26</b> may also be transferred to the core part <b>251</b> well. As another example, the outer cover part <b>252</b> may be made of a material with lower wettability than the core part <b>251</b>. In this case, a problem in which vapor production is decreased due to the liquid vaporized in the core part <b>251</b> being condensed again in the outer cover part <b>252</b> may be mitigated. Further, a thin liquid film, which is a cause of bubble formation, is prevented from being formed on the outer cover part <b>252</b>, and thus droplet formation during vaporization may also be significantly reduced.</p>
+<p id="p-0099" num="0098">For example, the outer cover part <b>252</b> may be made of materials such as cotton, silica, fibers, a bead assembly, a membrane, or a nonwoven fabric. However, the material of the outer cover part <b>252</b> is not limited thereto.</p>
+<p id="p-0100" num="0099">Meanwhile, physical dimensions (e.g., thickness) and/or materials of the core part <b>251</b> and the outer cover part <b>252</b> may vary and may be appropriately selected in comprehensive consideration of vapor production and droplet formation.</p>
+<p id="p-0101" num="0100">In some embodiments, a thickness of the outer cover part <b>252</b> may be less than or equal to about 5 mm, preferably, less than or equal to about 4 mm or 3 mm, and more preferably, less than or equal to about 2 mm or 1 mm. Within such numerical ranges, a problem in which vapor production is decreased due to the outer cover part <b>252</b> may be significantly mitigated.</p>
+<p id="p-0102" num="0101">Also, in some embodiments, the core part <b>251</b> may be made of a different material from the outer cover part <b>252</b>. For example, the core part <b>251</b> may be made of a material with higher wettability than the outer cover part <b>252</b>. In this case, a decrease in vapor production due to condensation of the vaporized liquid, and formation of a thin liquid film on the outer cover part <b>252</b> which causes formation of bubbles (or droplets) may be suppressed. However, in some other embodiments, the core part <b>251</b> may be made of the same material as the outer cover part <b>252</b>. For example, the core part <b>251</b> may be made of the same fiber material as the outer cover part <b>252</b>.</p>
+<p id="p-0103" num="0102">The arrangement form of the core part <b>251</b> and the outer cover part <b>252</b> may also vary and may be appropriately selected in comprehensive consideration of vapor production and droplet formation.</p>
+<p id="p-0104" num="0103">In some embodiments, the outer cover part <b>252</b> may be arranged in a form that covers (e.g., surrounds) the entire core part <b>251</b>. In this case, a phenomenon in which droplets bounce from the wick <b>25</b> may be significantly mitigated.</p>
+<p id="p-0105" num="0104">In some other embodiments, the outer cover part <b>252</b> may be arranged in a form that covers a partial region of the core part <b>251</b>. For example, the outer cover part <b>252</b> may be disposed to cover only a region of the core part <b>251</b> where the heating element <b>26</b> is disposed. In this case, the problem in which vapor production is decreased may be somewhat mitigated, and an effect of saving material costs may be achieved. As another example, as illustrated in <figref idref="DRAWINGS">FIG. <b>9</b></figref>, the outer cover part <b>252</b> may be disposed to cover only a region of the core part <b>251</b> which is in contact with the heating element <b>26</b>. In other words, the outer cover part <b>252</b> may be disposed to cover only a region where the wick <b>25</b> and the heating element <b>26</b> are in contact. In this case, vaporization may be promoted in a region not in contact with the heating element <b>26</b> (e.g., a gap between windings), and thus the problem in which vapor production is decreased may be significantly mitigated. Further, since the contact region where vaporization and the droplet bouncing phenomenon intensively occur is covered by the outer cover part <b>252</b>, droplet formation may also be effectively suppressed.</p>
+<p id="p-0106" num="0105">The aerosol generation device <b>20</b> according to some other embodiments of the present disclosure has been described above with reference to <figref idref="DRAWINGS">FIGS. <b>7</b> to <b>9</b></figref>. Hereinafter, various embodiments of airflow paths <b>30</b>-<b>1</b> to <b>30</b>-<b>4</b> to which structural design for preventing the droplet discharge phenomenon and/or the airflow path blockage phenomenon is applied will be described with reference to <figref idref="DRAWINGS">FIG. <b>10</b></figref> and so on. The various embodiments described below may be applied, without limitations, to the above-described airflow paths <b>121</b> and <b>221</b> of the aerosol generation devices <b>10</b> and <b>20</b>.</p>
+<p id="p-0107" num="0106">First, <figref idref="DRAWINGS">FIG. <b>10</b></figref> is an exemplary view illustrating an internal form of an airflow path <b>30</b>-<b>1</b> according to a first embodiment of the present disclosure.</p>
+<p id="p-0108" num="0107">As illustrated in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, a liquid absorber <b>32</b> may be disposed on an inner wall <b>31</b> of the airflow path <b>30</b>-<b>1</b> according to the present embodiment. <figref idref="DRAWINGS">FIG. <b>10</b></figref> illustrates an example in which a single liquid absorber <b>32</b> is disposed, but of course, the number of liquid absorbers <b>32</b> may also be two or more.</p>
+<p id="p-0109" num="0108">The liquid absorber <b>32</b> may absorb a liquid <b>333</b> adhered to the inner wall <b>31</b> of the airflow path <b>30</b>-<b>1</b> and discharge the absorbed liquid <b>333</b> in the direction of gravity to prevent formation or growth of a liquid film on the inner wall <b>31</b> of the airflow path <b>30</b>-<b>1</b>. More specifically, the liquid absorber <b>32</b> may serve as a kind of drainage channel in the airflow path <b>30</b>-<b>1</b> and may prevent a liquid film from growing toward the center of the airflow path <b>30</b>-<b>1</b> and allow the incoming droplets <b>331</b> and a condensate <b>332</b> of an aerosol A to be rapidly discharged in the direction of gravity without being adhered to the inner wall <b>31</b>. As formation of a liquid film is suppressed by the liquid absorber <b>32</b>, the droplet discharge phenomenon and the airflow path blockage phenomenon may also be naturally mitigated.</p>
+<p id="p-0110" num="0109">Preferably, the liquid absorber <b>32</b> may be made of a material that facilitates liquid absorption. For example, the liquid absorber <b>32</b> may be made of a hydrophilic material or a porous material. Examples of such materials may include filter paper, fibers, or the like, but the scope of the present disclosure is not limited thereto.</p>
+<p id="p-0111" num="0110">Meanwhile, the arrangement position, arrangement region, and/or arrangement form of the liquid absorber <b>32</b> may be designed to vary.</p>
+<p id="p-0112" num="0111">In some embodiments, as illustrated in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, the liquid absorber <b>32</b> may be disposed to extend in the direction of gravity from a specific position on the inner wall <b>31</b> of the airflow path <b>30</b>-<b>1</b>. In this case, since the liquid <b>333</b> absorbed into the liquid absorber <b>32</b> is discharged along the liquid absorber <b>32</b> due to gravity, a drainage function may be further strengthened.</p>
+<p id="p-0113" num="0112">Hereinafter, an internal form of an airflow path <b>30</b>-<b>2</b> according to a second embodiment of the present disclosure will be described with reference to <figref idref="DRAWINGS">FIGS. <b>11</b> and <b>12</b></figref>.</p>
+<p id="p-0114" num="0113"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a view illustrating the internal form of the airflow path <b>30</b>-<b>2</b> according to some other embodiments of the present disclosure.</p>
+<p id="p-0115" num="0114">In the present embodiment, for a purpose similar to the purpose of the liquid absorber <b>32</b> (that is, prevention of the airflow path blockage phenomenon and the droplet discharge phenomenon), surface treatment for increasing wettability may be performed on an inner wall <b>31</b> of the airflow path <b>30</b>-<b>2</b>. This is because, when the wettability of the inner wall is increased, adhesion of droplets may be suppressed, and thus formation and growth of a liquid film may be prevented.</p>
+<p id="p-0116" num="0115">Specifically, as illustrated in <figref idref="DRAWINGS">FIG. <b>11</b></figref>, surface treatment for increasing wettability may be performed on at least a partial region <b>312</b> of the inner wall <b>31</b> of the airflow path <b>30</b>-<b>2</b>. The surface treatment may prevent a liquid film from growing toward the center of the airflow path <b>30</b>-<b>2</b> and allow droplets <b>334</b> flowing in and a condensate <b>335</b> of an aerosol A to be rapidly discharged in the direction of gravity without being adhered to the inner wall <b>31</b>.</p>
+<p id="p-0117" num="0116">Examples of the surface treatment may include plating (e.g., electroplating), hydrophilic coating, etc., but the scope of the present disclosure is not limited thereto. Also, plating may be performed using a metal such as gold, silver, nickel, or copper, but the scope of the present disclosure is not limited thereto.</p>
+<p id="p-0118" num="0117">In some embodiments, the surface treatment may be performed so that an angle of contact is less than or equal to about 30&#xb0;, preferably, less than or equal to about 20&#xb0; or 10&#xb0;, and more preferably, close to 0&#xb0;. This is because the higher the wettability, the higher the extent to which the formation and growth of a liquid film on the inner wall <b>31</b> of the airflow path <b>30</b>-<b>2</b> is suppressed.</p>
+<p id="p-0119" num="0118">Meanwhile, the surface treatment may be performed on a portion of the inner wall <b>31</b> or the entire region thereof, and a region on which the surface treatment is performed may be designed and selected in various ways.</p>
+<p id="p-0120" num="0119">In some embodiments, a region on which the surface treatment is performed may include a part or all of a lower region of the inner wall <b>31</b> of the airflow path <b>30</b>-<b>2</b>. For example, the surface treatment may be performed only on the lower region of the inner wall <b>31</b> of the airflow path <b>30</b>-<b>2</b>, in consideration of the fact that a liquid film is mostly formed at a lower portion of the inner wall <b>31</b>. As another example, the surface treatment may be performed on both the lower region and an upper region of the inner wall <b>31</b> of the airflow path <b>30</b>-<b>2</b> in such a way that wettability is higher in the lower region than in the upper region.</p>
+<p id="p-0121" num="0120">Also, in some embodiments, the liquid absorber <b>32</b> may be disposed in a region on which the surface treatment is performed. For example, as illustrated in <figref idref="DRAWINGS">FIG. <b>12</b></figref>, in a case in which the surface treatment is performed on a plurality of first regions (e.g., <b>312</b>-<b>1</b> and <b>312</b>-<b>2</b>) formed at predetermined intervals (or in a case where the surface treatment is performed so that wettability is higher in the first regions (e.g., <b>312</b>-<b>1</b> and <b>312</b>-<b>2</b>) than in second regions (e.g., <b>313</b>-<b>1</b> and <b>313</b>-<b>2</b>) between the first regions (e.g., <b>312</b>-<b>1</b> and <b>312</b>-<b>2</b>)), liquid absorbers (e.g., <b>32</b>-<b>1</b> and <b>32</b>-<b>2</b>) may be disposed in the plurality of first regions (e.g., <b>312</b>-<b>1</b> and <b>312</b>-<b>2</b>). In this case, since the liquid absorbers (e.g., <b>32</b>-<b>1</b> and <b>32</b>-<b>2</b>) is arranged on a drainage path, a drainage function of the inner wall <b>31</b> of the airflow path <b>30</b>-<b>2</b> may be further strengthened. Also, accordingly, the droplet discharge phenomenon and the airflow path blockage phenomenon may be further mitigated.</p>
+<p id="p-0122" num="0121">Hereinafter, an airflow path <b>30</b>-<b>3</b> according to a third embodiment of the present disclosure will be described with reference to <figref idref="DRAWINGS">FIG. <b>13</b></figref>.</p>
+<p id="p-0123" num="0122"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is an exemplary view illustrating an internal form of the airflow path <b>30</b>-<b>3</b> according to the third embodiment of the present disclosure.</p>
+<p id="p-0124" num="0123">As illustrated in <figref idref="DRAWINGS">FIG. <b>13</b></figref>, in the present embodiment, an obstacle <b>34</b> that may impede movement of an aerosol A may be disposed inside the airflow path <b>30</b>-<b>3</b>. That is, a specific structure <b>34</b> may be disposed in a form that may impede the movement of the aerosol A. As illustrated, one or more obstacles <b>34</b> may be disposed inside the airflow path <b>30</b>-<b>3</b>, and the lengths, arrangement intervals, and the like of the obstacles <b>34</b> may be designed to vary.</p>
+<p id="p-0125" num="0124">When the obstacle <b>34</b> is disposed, during the movement of the aerosol A, a condensate of the aerosol or droplets <b>336</b> may be formed downward (that is, in a direction opposite to the mouthpiece) on a lower portion of the obstacle <b>34</b>. Since the formed condensate or droplets <b>336</b> may be naturally discharged in the direction of gravity, it is possible to effectively prevent discharge of the droplets <b>336</b> through an outlet of the airflow path <b>30</b>-<b>3</b> or formation of a liquid film inside the airflow path <b>30</b>-<b>3</b>.</p>
+<p id="p-0126" num="0125">The obstacle <b>34</b> may be made of various materials that can impede the movement of the aerosol A. In some embodiments, the obstacle <b>34</b> may be made of a porous material, a mesh material, or a membrane material. In this case, impeding the movement of the aerosol A is minimized, and thus a problem in which vapor production is decreased or an inhaling sensation is degraded due to the obstacle <b>34</b> may be significantly alleviated.</p>
+<p id="p-0127" num="0126">Hereinafter, an airflow path <b>30</b>-<b>4</b> according to a fourth embodiment of the present disclosure will be described with reference to <figref idref="DRAWINGS">FIG. <b>14</b></figref>.</p>
+<p id="p-0128" num="0127"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is an exemplary view illustrating an internal form of the airflow path <b>30</b>-<b>4</b> according to the fourth embodiment of the present disclosure.</p>
+<p id="p-0129" num="0128">As illustrated in <figref idref="DRAWINGS">FIG. <b>14</b></figref>, a mesh element <b>35</b> that can limit movement of droplets <b>337</b> may be disposed inside the airflow path <b>30</b>-<b>4</b> according to the present embodiment. The mesh element <b>35</b> may be a structure including a plurality of holes, such as a mesh plate (or a porous plate). The plurality of holes may have a size that allows the holes to pass an aerosol A while limiting the movement of the droplets <b>337</b>. In some embodiments, a membrane that selectively transmits only the aerosol A therethrough may be disposed in place of the mesh element <b>35</b>.</p>
+<p id="p-0130" num="0129">The mesh element <b>35</b> may be disposed at an inlet or an intermediate portion of the airflow path <b>30</b>-<b>4</b> or may be disposed at an outlet thereof. Also, as illustrated, the mesh element <b>35</b> may have a size that blocks the entire airflow path <b>30</b>-<b>4</b> or may have a size that blocks only a portion of the airflow path <b>30</b>-<b>4</b> (refer to the obstacle <b>34</b> in <figref idref="DRAWINGS">FIG. <b>13</b></figref>).</p>
+<p id="p-0131" num="0130">The airflow paths <b>30</b>-<b>1</b> to <b>30</b>-<b>4</b> according to the first to fourth embodiments of the present disclosure have been described above with reference to <figref idref="DRAWINGS">FIGS. <b>10</b> to <b>14</b></figref>. Each embodiment has been separately described, but this is only to provide convenience of understanding, and the above-described first to fourth embodiments may be combined in various forms. For example, the surface treatment for increasing wettability may be performed on an inner wall of an airflow path, and the mesh element (e.g., <b>35</b>) may be disposed at an inlet of the airflow path.</p>
+<p id="p-0132" num="0131">Hereinafter, a control method according to some embodiments of the present disclosure will be described with reference to <figref idref="DRAWINGS">FIG. <b>15</b></figref>.</p>
+<p id="p-0133" num="0132">Each step of the control method which will be described below may be performed by a controller (e.g., <b>19</b>) of an aerosol generation device (e.g., <b>10</b> or <b>20</b>), and in a case in which the controller (e.g., <b>19</b>) is implemented using a processor, each step of the control method may be implemented using one or more instructions that may be executed by the processor. Therefore, in the following description, when the subject of a specific step or operation is omitted, the specific step or operation may be understood as being performed by the controller (e.g., <b>19</b>).</p>
+<p id="p-0134" num="0133"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is an exemplary flowchart illustrating the control method according to some embodiments of the present disclosure. However, this is only a preferred embodiment for achieving the objectives of the present disclosure, and, of course, some steps may be added or omitted as necessary.</p>
+<p id="p-0135" num="0134">As illustrated in <figref idref="DRAWINGS">FIG. <b>15</b></figref>, the control method may begin by estimating a degree to which droplets are formed (e.g., the number of droplets formed per puff, the number of droplets formed during a certain amount of time, etc.) (S<b>10</b>). In this step, the degree to which droplets are formed may be estimated using various specific methods, and the method may vary according to embodiments.</p>
+<p id="p-0136" num="0135">In some embodiments, the controller may estimate the degree to which droplets are formed on the basis of changes in a temperature, current, resistance, or a voltage of a vaporization element (e.g., a vibration element or a heating element). Specifically, when droplets bounce from a wick (e.g., when bubbles rapidly grow inside), the wick momentarily reaches an unsaturated state, and thus the temperature of the vaporization element around the wick may rapidly increase, or the current and resistance of the vaporization element or a voltage applied thereto may rapidly change. Therefore, the degree to which droplets are formed may be estimated on the basis of changes in the temperature, current, resistance, or a voltage. For example, in a case in which a change value or a slope of the temperature, current, resistance, or a voltage is a threshold value or more, the controller may determine that the number of formed droplets has increased.</p>
+<p id="p-0137" num="0136">In some other embodiments, the controller may estimate the degree to which droplets are formed on the basis of a change in an airflow in an airflow path. The change in an airflow may be sensed by an airflow sensor, but the present disclosure is not limited thereto. Since the higher the vaporization speed, the higher the extent to which formation of droplets is accelerated, a rapid increase in an airflow may be an indicator that indicates an increase in droplets. Therefore, the controller may estimate the degree to which droplets are formed on the basis of a change in an airflow.</p>
+<p id="p-0138" num="0137">In step S<b>20</b>, the controller may, on the basis of a result of the estimation, control power supplied to the vaporization element. For example, in response to determining that the degree to which droplets are formed is a reference value or more (e.g., an estimated value of the number of formed droplets is a reference value or more or an estimated value of an increasing slope of the number of formed droplets is a reference value or more), the controller may decrease the power supplied to the vaporization element. As another example, in response to determining that the degree to which droplets are formed is less than the reference value, the controller may increase the power supplied to the vaporization element. In this case, vaporization may be accelerated, and vapor production may be increased.</p>
+<p id="p-0139" num="0138">In step S<b>20</b>, a range of control (that is, a range of increase or decrease) of the supplied power may be a variable value that changes according to a situation, or a preset fixed value, and the range may be set in various ways.</p>
+<p id="p-0140" num="0139">In some embodiments, the range of increase and the range of decrease of the supplied power may be set as the same value. In this case, power control may be performed with a balanced consideration of the degree to which droplets are formed and vapor production.</p>
+<p id="p-0141" num="0140">In some other embodiments, the range of increase of the supplied power may be set as a larger value than the range of decrease. In this case, since power rapidly increases and then gradually decreases, power control may be performed with more focus on vapor production.</p>
+<p id="p-0142" num="0141">In still some other embodiments, the range of decrease of the supplied power may be set as a larger value than the range of increase. In this case, since power rapidly decreases and then gradually increases, power control may be performed with more focus on preventing formation of droplets.</p>
+<p id="p-0143" num="0142">Also, in some embodiments, the range of control (the range of increase or range of decrease) of the supplied power may be changed on the basis of a result (that is, feedback) of power control. For example, when the degree to which droplets are formed does not decrease much even though the supplied power is lowered, the range of decrease may be set to a larger value. In the opposite case, the range of decrease may be set as a smaller value.</p>
+<p id="p-0144" num="0143">Meanwhile, steps S<b>10</b> and S<b>20</b> may be repeatedly performed in a feedback manner during operation of an aerosol generation device (e.g., during smoking).</p>
+<p id="p-0145" num="0144">The control method according to some embodiments of the present disclosure has been described above with reference to <figref idref="DRAWINGS">FIG. <b>15</b></figref>. According to the above-described method, through dynamic power control according to the degree to which droplets are formed, the droplet discharge phenomenon and the airflow path blockage phenomenon may be significantly mitigated, and suitable vapor production may also be guaranteed. Accordingly, a user's satisfaction with the aerosol generation device may be significantly improved.</p>
+<p id="p-0146" num="0145">The technical spirit of the present disclosure or the content related to the operation of the controller described above with reference to <figref idref="DRAWINGS">FIG. <b>15</b></figref> may be implemented with computer-readable code on computer-readable recording media. Examples of the computer-readable recording media may include removable recording media (a compact disc (CD), a digital versatile disc (DVD), a Blu-Ray disk, a Universal Serial Bus (USB) storage device, or a removable hard disk) or non-removable recording media (a read-only memory (ROM), a random access memory (RAM), or a built-in hard disk). Computer programs recorded in the computer-readable recording media may be sent to other computing devices through a network, such as the Internet, and installed on the other computing devices to be used in the other computing devices.</p>
+<p id="p-0147" num="0146">The embodiments of the present disclosure have been described above with reference to the accompanying drawings, but those of ordinary skill in the art to which the present disclosure pertains should understand that the present disclosure may be embodied in other specific forms without changing the technical spirit or essential features thereof. Therefore, the embodiments described above should be understood as being illustrative, instead of limiting, in all aspects. The scope of the present disclosure should be interpreted according to the claims below, and any technical spirit within the scope equivalent to the claims should be interpreted as falling within the scope of the technical spirit defined by the present disclosure.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An aerosol generation device comprising:
+<claim-text>a liquid supply part configured to supply a liquid aerosol-forming substrate;</claim-text>
+<claim-text>a vaporization element configured to vaporize the supplied liquid aerosol-forming substrate to generate an aerosol in a vaporization space; and</claim-text>
+<claim-text>an airflow path configured to allow the aerosol generated in the vaporization space to move toward a mouthpiece,</claim-text>
+<claim-text>wherein the vaporization element, an inlet of the airflow path, and an outlet of the airflow path are formed in a nonlinear structure.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The aerosol generation device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the inlet of the airflow path is disposed in a direction that is not perpendicular to the vaporization element.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The aerosol generation device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the liquid supply part includes a wick configured to absorb the liquid aerosol-forming substrate and supply the absorbed liquid aerosol-forming substrate into the vaporization space; and</claim-text>
+<claim-text>the vaporization element, the wick, and the inlet of the airflow path are formed in the nonlinear structure.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The aerosol generation device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the liquid supply part includes a wick configured to absorb the liquid aerosol-forming substrate and deliver the absorbed liquid aerosol-forming substrate into the vaporization space;</claim-text>
+<claim-text>the vaporization element vaporizes the supplied liquid aerosol-forming substrate through ultrasonic vibrations; and</claim-text>
+<claim-text>the vaporization element is disposed in contact with the wick.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The aerosol generation device of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein:
+<claim-text>the wick is disposed at a central portion of the vaporization element; and</claim-text>
+<claim-text>a contact area between the wick and the vaporization element is smaller than a cross-sectional area of the vaporization element.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The aerosol generation device of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein a diameter of the wick or a diameter of a contact area between the wick and the vaporization element is in a range of 2.0 mm to 6.0 mm.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The aerosol generation device of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein a distance from an edge of the wick to an edge of the vaporization element is 1.5 mm or more.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The aerosol generation device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the vaporization element heats the supplied liquid aerosol-forming substrate to generate the aerosol.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The aerosol generation device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a liquid absorber is disposed on an inner wall of the airflow path.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The aerosol generation device of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein:
+<claim-text>surface treatment for increasing wettability is performed on a specific region of the inner wall of the airflow path; and</claim-text>
+<claim-text>the liquid absorber is disposed in the specific region.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The aerosol generation device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a mesh element is disposed inside the airflow path.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The aerosol generation device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an obstacle configured to impede movement of the generated aerosol is disposed inside the airflow path.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The aerosol generation device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein surface treatment for increasing wettability is performed on at least a partial region of an inner wall of the airflow path.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The aerosol generation device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a controller configured to control power supplied to the vaporization element,
+<claim-text>wherein the controller estimates a degree to which droplets are formed in the vaporization space, and controls the power supplied to the vaporization element based on the estimated degree.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

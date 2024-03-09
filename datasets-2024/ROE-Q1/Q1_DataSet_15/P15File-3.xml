@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225290A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230628" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225290</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17647063</doc-number>
+<date>20220105</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>15</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>N</subclass>
+<main-group>20</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>15</main-group>
+<subgroup>021</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20190101</date></cpc-version-indicator>
+<section>G</section>
+<class>06</class>
+<subclass>N</subclass>
+<main-group>20</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="kndum86o3s0qv">OPERATING AN AUTOMATED AND ADAPTIVE ANIMAL BEHAVIORAL TRAINING SYSTEM USING MACHINE LEARNING</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>INTERNATIONAL BUSINESS MACHINES CORPORATION</orgname>
+<address>
+<city>Armonk</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Lau Caruso</last-name>
+<first-name>Jenna</first-name>
+<address>
+<city>Holland Landing</city>
+<country>CA</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Madhavan</last-name>
+<first-name>Samaya</first-name>
+<address>
+<city>Euless</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Haertel</last-name>
+<first-name>Stephen</first-name>
+<address>
+<city>Ajax</city>
+<country>CA</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>KOLA</last-name>
+<first-name>Geetha</first-name>
+<address>
+<city>Bangalore</city>
+<country>IN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>Bennett</last-name>
+<first-name>Laura Jane</first-name>
+<address>
+<city>Alameda</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>Aronovich</last-name>
+<first-name>Lior</first-name>
+<address>
+<city>Thornhill</city>
+<country>CA</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A computer-implemented system and method operate an automatic and adaptive animal behavioral system. The system receives user configuration and feedback, and generates a training set based on online animal behavior patterns and received user feedback. The system trains one or multiple models based on the training set, if the training set is sufficiently large. It then validates the models, and provides system generated classifications and action types and levels for animal&#x2019;s behavior patterns, if the models&#x2019; accuracy rate is above a threshold.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="227.41mm" wi="152.99mm" file="US20230225290A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="233.68mm" wi="143.51mm" file="US20230225290A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="176.78mm" wi="168.99mm" file="US20230225290A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="229.11mm" wi="165.86mm" file="US20230225290A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="174.75mm" wi="167.30mm" file="US20230225290A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="224.54mm" wi="151.64mm" file="US20230225290A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="220.13mm" wi="163.07mm" file="US20230225290A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="174.50mm" wi="117.18mm" file="US20230225290A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="207.09mm" wi="87.71mm" file="US20230225290A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="212.51mm" wi="154.69mm" file="US20230225290A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="219.63mm" wi="162.64mm" file="US20230225290A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="229.02mm" wi="171.20mm" file="US20230225290A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading level="1" id="h-0001">BACKGROUND</heading>
+<p id="p-0002" num="0001">Disclosed herein is a system and related method for automated and adaptive animal behavioral training using machine learning (ML).</p>
+<p id="p-0003" num="0002">Training an animal such as a pet improves an owner&#x2019;s life in addition to the life of the animal itself. Yet, animal training can be difficult, especially if it is the owner&#x2019;s first one. Pet animals, such as dogs, may have certain problematic tendencies, such as jumping to greet a person, barking, digging, and chewing. It is beneficial that owners teach their pets important skills that enable them to live harmoniously in a human household. Many owners do not like to, or are unable to, keep pets outside. Therefore, it is desirable to provide discipline training early in a pet&#x2019;s life to establish rules and boundaries. In addition to a pet use case, large open natural areas with animals are often monitored for animal behavior. Examples of these situations include farms, ranches, and national parks, where certain animal populations are controlled. In all of these cases, animal behavior is important to those responsible for maintaining a desired balance of healthy animals who behave in predictable ways.</p>
+<heading level="1" id="h-0002">SUMMARY</heading>
+<p id="p-0004" num="0003">According to one aspect disclosed herein, a computer-implemented method is provided for automatic animal behavior training, comprising, using a computer processor, receiving user configuration information and user feedback information from a user regarding a specific animal, receiving input from sensors for the specific animal, and determining a mapping between the input and a set of positive and negative training actions to apply for the animal.</p>
+<p id="p-0005" num="0004">A system comprising a processor and a memory are also provided to implement the method, as is a computer program product that contains instructions that are, accessible from a computer-usable or computer-readable medium providing program code for use, by, or in connection, with a computer or any instruction execution system. For the purpose of this description, a computer-usable or computer-readable medium may be any apparatus that may contain a mechanism for storing, communicating, propagating or transporting the program for use, by, or in connection, with the instruction execution system, apparatus, or device.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading level="1" id="h-0003">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0006" num="0005">Various embodiments are described herein with reference to different subject-matter. In particular, some embodiments may be described with reference to methods, whereas other embodiments may be described with reference to apparatuses and systems. However, a person skilled in the art will gather from the above and the following description that, unless otherwise notified, in addition to any combination of features belonging to one type of subject-matter, also any combination between features relating to different subject-matter, in particular, between features of the methods, and features of the apparatuses and systems, are considered as to be disclosed within this document.</p>
+<p id="p-0007" num="0006">The aspects defined above, and further aspects disclosed herein, are apparent from the examples of one or more embodiments to be described hereinafter and are explained with reference to the examples of the one or more embodiments, but to which the invention is not limited. Various embodiments are described, by way of example only, and with reference to the following drawings:</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. <b>1</b>A</figref> is a block diagram of a data processing system (DPS) according to one or more embodiments disclosed herein.</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. <b>1</b>B</figref> is a pictorial diagram that depicts a cloud computing environment according to an embodiment disclosed herein.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. <b>1</b>C</figref> is a pictorial diagram that depicts abstraction model layers according to an embodiment disclosed herein.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. <b>1</b>D</figref> is a block diagram illustrating a classifying neural network, according to one or more embodiments disclosed herein.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a high level diagram of the disclosed method and system.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a high-level architecture diagram of the system.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>4</b></figref> illustrates an overview of the ML mechanism in the system.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>5</b></figref> and related text describe a proposed method for configuring, initializing, training, validating and using the proposed animal training system.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>6</b></figref> illustrates a way that various monitoring devices can be used in the system.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is an example of the animal owner interface, to illustrate how a pet owner can interact with the system.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a plan diagram of an apartment used to illustrate a use case.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading level="1" id="h-0004">DETAILED DESCRIPTION</heading>
+<p id="p-0019" num="0018">The following general acronyms may be used below:</p>
+<p id="p-0020" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table colsep="0" frame="topbot">
+<title>TABLE 1</title>
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="69pt"/>
+<colspec colname="col2" colsep="0" colwidth="298pt"/>
+<thead>
+<row rowsep="1" valign="bottom">
+<entry align="left" nameend="col2" namest="col1" valign="bottom">General Acronyms</entry>
+</row>
+</thead>
+<tbody>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">API</entry>
+<entry align="left" colname="col2" valign="top">application program interface</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">ARM</entry>
+<entry align="left" colname="col2" valign="top">advanced RISC machine</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">CD-</entry>
+<entry align="left" colname="col2" valign="top">compact disc ROM</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">ROM</entry>
+<entry align="left" colname="col2" valign="top"/>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">CPU</entry>
+<entry align="left" colname="col2" valign="top">central processing unit</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">DPS</entry>
+<entry align="left" colname="col2" valign="top">data processing system</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">DVD</entry>
+<entry align="left" colname="col2" valign="top">digital versatile disk</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">EPROM</entry>
+<entry align="left" colname="col2" valign="top">erasable programmable read-only memory</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">FPGA</entry>
+<entry align="left" colname="col2" valign="top">field-programmable gate arrays</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">HA</entry>
+<entry align="left" colname="col2" valign="top">high availability</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">IaaS</entry>
+<entry align="left" colname="col2" valign="top">infrastructure as a service</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">I/O</entry>
+<entry align="left" colname="col2" valign="top">input/output</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">IPL</entry>
+<entry align="left" colname="col2" valign="top">initial program load</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">ISP</entry>
+<entry align="left" colname="col2" valign="top">Internet service provider</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">ISA</entry>
+<entry align="left" colname="col2" valign="top">instruction-set-architecture</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">LAN</entry>
+<entry align="left" colname="col2" valign="top">local-area network</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">LPAR</entry>
+<entry align="left" colname="col2" valign="top">logical partition</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">PaaS</entry>
+<entry align="left" colname="col2" valign="top">platform as a service</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">PDA</entry>
+<entry align="left" colname="col2" valign="top">personal digital assistant</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">PLA</entry>
+<entry align="left" colname="col2" valign="top">programmable logic arrays</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">RAM</entry>
+<entry align="left" colname="col2" valign="top">random access memory</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">RISC</entry>
+<entry align="left" colname="col2" valign="top">reduced instruction set computer</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">ROM</entry>
+<entry align="left" colname="col2" valign="top">read-only memory</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">SaaS</entry>
+<entry align="left" colname="col2" valign="top">software as a service</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">SLA</entry>
+<entry align="left" colname="col2" valign="top">service level agreement</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">SRAM</entry>
+<entry align="left" colname="col2" valign="top">static random-access memory</entry>
+</row>
+<row rowsep="1" valign="top">
+<entry align="left" colname="col1" valign="top">WAN</entry>
+<entry align="left" colname="col2" valign="top">wide-area network</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading level="1" id="h-0005">Data Processing System in General</heading>
+<p id="p-0021" num="0019"><figref idref="DRAWINGS">FIG. <b>1</b>A</figref> is a block diagram of an example DPS according to one or more embodiments. In this illustrative example, the DPS <b>10</b> may include communications bus <b>12</b>, which may provide communications between a processor unit <b>14</b>, a memory <b>16</b>, persistent storage <b>18</b>, a communications unit <b>20</b>, an I/O unit <b>22</b>, and a display <b>24</b>.</p>
+<p id="p-0022" num="0020">The processor unit <b>14</b> serves to execute instructions for software that may be loaded into the memory <b>16</b>. The processor unit <b>14</b> may be a number of processors, a multi-core processor, or some other type of processor, depending on the particular implementation. A number, as used herein with reference to an item, means one or more items. Further, the processor unit <b>14</b> may be implemented using a number of heterogeneous processor systems in which a main processor is present with secondary processors on a single chip. As another illustrative example, the processor unit <b>14</b> may be a symmetric multi-processor system containing multiple processors of the same type.</p>
+<p id="p-0023" num="0021">The memory <b>16</b> and persistent storage <b>18</b> are examples of storage devices <b>26</b>. A storage device may be any piece of hardware that is capable of storing information, such as, for example without limitation, data, program code in functional form, and/or other suitable information either on a temporary basis and/or a permanent basis. The memory <b>16</b>, in these examples, may be, for example, a random access memory or any other suitable volatile or nonvolatile storage device. The persistent storage <b>18</b> may take various forms depending on the particular implementation.</p>
+<p id="p-0024" num="0022">For example, the persistent storage <b>18</b> may contain one or more components or devices. For example, the persistent storage <b>18</b> may be a hard drive, a flash memory, a rewritable optical disk, a rewritable magnetic tape, or some combination of the above. The media used by the persistent storage <b>18</b> also may be removable. For example, a removable hard drive may be used for the persistent storage <b>18</b>.</p>
+<p id="p-0025" num="0023">The communications unit <b>20</b> in these examples may provide for communications with other DPSs or devices. In these examples, the communications unit <b>20</b> is a network interface card. The communications unit <b>20</b> may provide communications through the use of either or both physical and wireless communications links.</p>
+<p id="p-0026" num="0024">The input/output unit <b>22</b> may allow for input and output of data with other devices that may be connected to the DPS <b>10</b>. For example, the input/output unit <b>22</b> may provide a connection for user input through a keyboard, a mouse, and/or some other suitable input device. Further, the input/output unit <b>22</b> may send output to a printer. The display <b>24</b> may provide a mechanism to display information to a user.</p>
+<p id="p-0027" num="0025">Instructions for the operating system, applications and/or programs may be located in the storage devices <b>26</b>, which are in communication with the processor unit <b>14</b> through the communications bus <b>12</b>. In these illustrative examples, the instructions are in a functional form on the persistent storage <b>18</b>. These instructions may be loaded into the memory <b>16</b> for execution by the processor unit <b>14</b>. The processes of the different embodiments may be performed by the processor unit <b>14</b> using computer implemented instructions, which may be located in a memory, such as the memory <b>16</b>. These instructions are referred to as program code <b>38</b> (described below) computer usable program code, or computer readable program code that may be read and executed by a processor in the processor unit <b>14</b>. The program code in the different embodiments may be embodied on different physical or tangible computer readable media, such as the memory <b>16</b> or the persistent storage <b>18</b>.</p>
+<p id="p-0028" num="0026">The DPS <b>10</b> may further comprise an interface for a network <b>29</b>. The interface may include hardware, drivers, software, and the like to allow communications over wired and wireless networks <b>29</b> and may implement any number of communication protocols, including those, for example, at various levels of the Open Systems Interconnection (OSI) seven layer model.</p>
+<p id="p-0029" num="0027"><figref idref="DRAWINGS">FIG. <b>1</b>A</figref> further illustrates a computer program product <b>30</b> that may contain the program code <b>38</b>. The program code <b>38</b> may be located in a functional form on the computer readable media <b>32</b> that is selectively removable and may be loaded onto or transferred to the DPS <b>10</b> for execution by the processor unit <b>14</b>. The program code <b>38</b> and computer readable media <b>32</b> may form a computer program product <b>30</b> in these examples. In one example, the computer readable media <b>32</b> may be computer readable storage media <b>34</b> or computer readable signal media <b>36</b>. Computer readable storage media <b>34</b> may include, for example, an optical or magnetic disk that is inserted or placed into a drive or other device that is part of the persistent storage <b>18</b> for transfer onto a storage device, such as a hard drive, that is part of the persistent storage <b>18</b>. The computer readable storage media <b>34</b> also may take the form of a persistent storage, such as a hard drive, a thumb drive, or a flash memory, that is connected to the DPS <b>10</b>. In some instances, the computer readable storage media <b>34</b> may not be removable from the DPS <b>10</b>.</p>
+<p id="p-0030" num="0028">Alternatively, the program code <b>38</b> may be transferred to the DPS <b>10</b> using the computer readable signal media <b>36</b>. The computer readable signal media <b>36</b> may be, for example, a propagated data signal containing the program code <b>38</b>. For example, the computer readable signal media <b>36</b> may be an electromagnetic signal, an optical signal, and/or any other suitable type of signal. These signals may be transmitted over communications links, such as wireless communications links, optical fiber cable, coaxial cable, a wire, and/or any other suitable type of communications link. In other words, the communications link and/or the connection may be physical or wireless in the illustrative examples.</p>
+<p id="p-0031" num="0029">In some illustrative embodiments, the program code <b>38</b> may be downloaded over a network to the persistent storage <b>18</b> from another device or DPS through the computer readable signal media <b>36</b> for use within the DPS <b>10</b>. For instance, program code stored in a computer readable storage medium in a server DPS may be downloaded over a network from the server to the DPS <b>10</b>. The DPS providing the program code <b>38</b> may be a server computer, a client computer, or some other device capable of storing and transmitting the program code <b>38</b>.</p>
+<p id="p-0032" num="0030">The different components illustrated for the DPS <b>10</b> are not meant to provide architectural limitations to the manner in which different embodiments may be implemented. The different illustrative embodiments may be implemented in a DPS including components in addition to or in place of those illustrated for the DPS <b>10</b>.</p>
+<heading level="1" id="h-0006">Cloud Computing in General</heading>
+<p id="p-0033" num="0031">It is to be understood that although this disclosure includes a detailed description on cloud computing, implementation of the teachings recited herein are not limited to a cloud computing environment. Rather, embodiments of the present invention are capable of being implemented in conjunction with any other type of computing environment now known or later developed.</p>
+<p id="p-0034" num="0032">Cloud computing is a model of service delivery for enabling convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, network bandwidth, servers, processing, memory, storage, applications, virtual machines, and services) that can be rapidly provisioned and released with minimal management effort or interaction with a provider of the service. This cloud model may include at least five characteristics, at least three service models, and at least four deployment models.</p>
+<heading level="2" id="h-0007">Characteristics Are as Follows</heading>
+<p id="p-0035" num="0033">On-demand self-service: a cloud consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with the service&#x2019;s provider.</p>
+<p id="p-0036" num="0034">Broad network access: capabilities are available over a network and accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms (e.g., mobile phones, laptops, and PDAs).</p>
+<p id="p-0037" num="0035">Resource pooling: the provider&#x2019;s computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically assigned and reassigned according to demand. There is a sense of location independence in that the consumer generally has no control or knowledge over the exact location of the provided resources but may be able to specify location at a higher level of abstraction (e.g., country, state, or datacenter).</p>
+<p id="p-0038" num="0036">Rapid elasticity: capabilities can be rapidly and elastically provisioned, in some cases automatically, to quickly scale out and rapidly released to quickly scale in. To the consumer, the capabilities available for provisioning often appear to be unlimited and can be purchased in any quantity at any time.</p>
+<p id="p-0039" num="0037">Measured service: cloud systems automatically control and optimize resource use by leveraging a metering capability at some level of abstraction appropriate to the type of service (e.g., storage, processing, bandwidth, and active user accounts). Resource usage can be monitored, controlled, and reported, providing transparency for both the provider and consumer of the utilized service.</p>
+<heading level="2" id="h-0008">Service Models Are as Follows</heading>
+<p id="p-0040" num="0038">Software as a Service (SaaS): the capability provided to the consumer is to use the provider&#x2019;s applications running on a cloud infrastructure. The applications are accessible from various client devices through a thin client interface such as a web browser (e.g., web-based e-mail). The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, storage, or even individual application capabilities, with the possible exception of limited user-specific application configuration settings.</p>
+<p id="p-0041" num="0039">Platform as a Service (PaaS): the capability provided to the consumer is to deploy onto the cloud infrastructure consumer-created or acquired applications created using programming languages and tools supported by the provider. The consumer does not manage or control the underlying cloud infrastructure including networks, servers, operating systems, or storage, but has control over the deployed applications and possibly application hosting environment configurations.</p>
+<p id="p-0042" num="0040">Infrastructure as a Service (IaaS): the capability provided to the consumer is to provision processing, storage, networks, and other fundamental computing resources where the consumer is able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, storage, deployed applications, and possibly limited control of select networking components (e.g., host firewalls).</p>
+<heading level="2" id="h-0009">Deployment Models Are as Follows</heading>
+<p id="p-0043" num="0041">Private cloud: the cloud infrastructure is operated solely for an organization. It may be managed by the organization or a third party and may exist on-premises or off-premises.</p>
+<p id="p-0044" num="0042">Community cloud: the cloud infrastructure is shared by several organizations and supports a specific community that has shared concerns (e.g., mission, security requirements, policy, and compliance considerations). It may be managed by the organizations or a third party and may exist on-premises or off-premises.</p>
+<p id="p-0045" num="0043">Public cloud: the cloud infrastructure is made available to the general public or a large industry group and is owned by an organization selling cloud services.</p>
+<p id="p-0046" num="0044">Hybrid cloud: the cloud infrastructure is a composition of two or more clouds (private, community, or public) that remain unique entities but are bound together by standardized or proprietary technology that enables data and application portability (e.g., cloud bursting for load-balancing between clouds).</p>
+<p id="p-0047" num="0045">A cloud computing environment is service oriented with a focus on statelessness, low coupling, modularity, and semantic interoperability. At the heart of cloud computing is an infrastructure that includes a network of interconnected nodes.</p>
+<p id="p-0048" num="0046">Referring now to <figref idref="DRAWINGS">FIG. <b>1</b>B</figref>, illustrative cloud computing environment <b>52</b> is depicted. As shown, cloud computing environment <b>52</b> includes one or more cloud computing nodes <b>50</b> with which local computing devices used by cloud consumers, such as, for example, personal digital assistant (PDA) or cellular telephone 54A, desktop computer 54B, laptop computer 54C, and/or automobile computer system 54N may communicate. Nodes <b>50</b> may communicate with one another. They may be grouped (not shown) physically or virtually, in one or more networks, such as Private, Community, Public, or Hybrid clouds as described hereinabove, or a combination thereof. This allows cloud computing environment <b>52</b> to offer infrastructure, platforms and/or software as services for which a cloud consumer does not need to maintain resources on a local computing device. It is understood that the types of computing devices 54AN shown in <figref idref="DRAWINGS">FIG. <b>1</b>B</figref> are intended to be illustrative only and that computing nodes <b>50</b> and cloud computing environment <b>52</b> can communicate with any type of computerized device over any type of network and/or network addressable connection (e.g., using a web browser).</p>
+<p id="p-0049" num="0047">Referring now to <figref idref="DRAWINGS">FIG. <b>1</b>C</figref>, a set of functional abstraction layers provided by cloud computing environment <b>52</b> (<figref idref="DRAWINGS">FIG. <b>1</b>B</figref>) is shown. It should be understood in advance that the components, layers, and functions shown in <figref idref="DRAWINGS">FIG. <b>1</b>C</figref> are intended to be illustrative only and embodiments of the invention are not limited thereto. As depicted, the following layers and corresponding functions are provided:</p>
+<p id="p-0050" num="0048">Hardware and software layer <b>60</b> includes hardware and software components. Examples of hardware components include: mainframes <b>61</b>; RISC (Reduced Instruction Set Computer) architecture based servers <b>62</b>; servers <b>63</b>; blade servers <b>64</b>; storage devices <b>65</b>; and networks and networking components <b>66</b>. In some embodiments, software components include network application server software <b>67</b> and database software <b>68</b>.</p>
+<p id="p-0051" num="0049">Virtualization layer <b>70</b> provides an abstraction layer from which the following examples of virtual entities may be provided: virtual servers <b>71</b>; virtual storage <b>72</b>; virtual networks <b>73</b>, including virtual private networks; virtual applications and operating systems <b>74</b>; and virtual clients <b>75</b>.</p>
+<p id="p-0052" num="0050">In one example, management layer <b>80</b> may provide the functions described below. Resource provisioning <b>81</b> provides dynamic procurement of computing resources and other resources that are utilized to perform tasks within the cloud computing environment. Metering and Pricing <b>82</b> provide cost tracking as resources are utilized within the cloud computing environment, and billing or invoicing for consumption of these resources. In one example, these resources may include application software licenses. Security provides identity verification for cloud consumers and tasks, as well as protection for data and other resources. User portal <b>83</b> provides access to the cloud computing environment for consumers and system administrators. Service level management <b>84</b> provides cloud computing resource allocation and management such that required service levels are met. Service Level Agreement (SLA) planning and fulfillment <b>85</b> provide pre-arrangement for, and procurement of, cloud computing resources for which a future requirement is anticipated in accordance with an SLA.</p>
+<p id="p-0053" num="0051">Workloads layer <b>90</b> provides examples of functionality for which the cloud computing environment may be utilized. Examples of workloads and functions which may be provided from this layer include: mapping and navigation <b>91</b>; software development and lifecycle management <b>92</b>; virtual classroom education delivery <b>93</b>; data analytics processing <b>94</b>; transaction processing <b>95</b>; and mobile desktop <b>96</b>.</p>
+<p id="p-0054" num="0052">Any of the nodes <b>50</b> in the computing environment <b>52</b> as well as the computing devices 54A-N may be a DPS <b>10</b>.</p>
+<p id="p-0055" num="0053">As discussed in more detail herein, it is contemplated that some or all of the operations of some of the embodiments of methods described herein may be performed in alternative orders or may not be performed at all; furthermore, multiple operations may occur at the same time or as an internal part of a larger process.</p>
+<heading level="1" id="h-0010">Computer Readable Media</heading>
+<p id="p-0056" num="0054">The present invention may be a system, a method, and/or a computer readable media at any possible technical detail level of integration. The computer program product may include a computer readable storage medium (or media) having computer readable program instructions thereon for causing a processor to carry out aspects of the present invention.</p>
+<p id="p-0057" num="0055">The computer readable storage medium can be a tangible device that can retain and store instructions for use by an instruction execution device. The computer readable storage medium may be, for example, but is not limited to, an electronic storage device, a magnetic storage device, an optical storage device, an electromagnetic storage device, a semiconductor storage device, or any suitable combination of the foregoing. A non-exhaustive list of more specific examples of the computer readable storage medium includes the following: a portable computer diskette, a hard disk, a random access memory (RAM), a read-only memory (ROM), an erasable programmable read-only memory (EPROM or Flash memory), a static random access memory (SRAM), a portable compact disc read-only memory (CD-ROM), a digital versatile disk (DVD), a memory stick, a floppy disk, a mechanically encoded device such as punch-cards or raised structures in a groove having instructions recorded thereon, and any suitable combination of the foregoing. A computer readable storage medium, as used herein, is not to be construed as being transitory signals per se, such as radio waves or other freely propagating electromagnetic waves, electromagnetic waves propagating through a waveguide or other transmission media (e.g., light pulses passing through a fiber-optic cable), or electrical signals transmitted through a wire.</p>
+<p id="p-0058" num="0056">Computer readable program instructions described herein can be downloaded to respective computing/processing devices from a computer readable storage medium or to an external computer or external storage device via a network, for example, the Internet, a local area network, a wide area network and/or a wireless network. The network may comprise copper transmission cables, optical transmission fibers, wireless transmission, routers, firewalls, switches, gateway computers and/or edge servers. A network adapter card or network interface in each computing/processing device receives computer readable program instructions from the network and forwards the computer readable program instructions for storage in a computer readable storage medium within the respective computing/processing device.</p>
+<p id="p-0059" num="0057">Computer readable program instructions for carrying out operations of the present invention may be assembler instructions, instruction-set-architecture (ISA) instructions, machine instructions, machine dependent instructions, microcode, firmware instructions, state-setting data, configuration data for integrated circuitry, or either source code or object code written in any combination of one or more programming languages, including an object oriented programming language such as Smalltalk, C++, or the like, and procedural programming languages, such as the &#x201c;C&#x201d; programming language or similar programming languages. The computer readable program instructions may execute entirely on the user&#x2019;s computer, partly on the user&#x2019;s computer, as a stand-alone software package, partly on the user&#x2019;s computer and partly on a remote computer or entirely on the remote computer or server. In the latter scenario, the remote computer may be connected to the user&#x2019;s computer through any type of network, including a local area network (LAN) or a wide area network (WAN), or the connection may be made to an external computer (for example, through the Internet using an Internet Service Provider). In some embodiments, electronic circuitry including, for example, programmable logic circuitry, field-programmable gate arrays (FPGA), or programmable logic arrays (PLA) may execute the computer readable program instructions by utilizing state information of the computer readable program instructions to personalize the electronic circuitry, in order to perform aspects of the present invention.</p>
+<p id="p-0060" num="0058">Aspects of the present invention are described herein with reference to flowchart illustrations and/or block diagrams of methods, apparatus (systems), and computer program products according to embodiments of the invention. It will be understood that each block of the flowchart illustrations and/or block diagrams, and combinations of blocks in the flowchart illustrations and/or block diagrams, can be implemented by computer readable program instructions.</p>
+<p id="p-0061" num="0059">These computer readable program instructions may be provided to a processor of a general purpose computer, special purpose computer, or other programmable data processing apparatus to produce a machine, such that the instructions, which execute via the processor of the computer or other programmable data processing apparatus, create means for implementing the functions/acts specified in the flowchart and/or block diagram block or blocks. These computer readable program instructions may also be stored in a computer readable storage medium that can direct a computer, a programmable data processing apparatus, and/or other devices to function in a particular manner, such that the computer readable storage medium having instructions stored therein comprises an article of manufacture including instructions which implement aspects of the function/act specified in the flowchart and/or block diagram block or blocks.</p>
+<p id="p-0062" num="0060">The computer readable program instructions may also be loaded onto a computer, other programmable data processing apparatus, or other device to cause a series of operational steps to be performed on the computer, other programmable apparatus or other device to produce a computer implemented process, such that the instructions which execute on the computer, other programmable apparatus, or other device implement the functions/acts specified in the flowchart and/or block diagram block or blocks.</p>
+<p id="p-0063" num="0061">The flowchart and block diagrams in the Figures illustrate the architecture, functionality, and operation of possible implementations of systems, methods, and computer program products according to various embodiments of the present invention. In this regard, each block in the flowchart or block diagrams may represent a module, segment, or portion of instructions, which comprises one or more executable instructions for implementing the specified logical function(s). In some alternative implementations, the functions noted in the blocks may occur out of the order noted in the Figures. For example, two blocks shown in succession may, in fact, be executed substantially concurrently, or the blocks may sometimes be executed in the reverse order, depending upon the functionality involved. It will also be noted that each block of the block diagrams and/or flowchart illustration, and combinations of blocks in the block diagrams and/or flowchart illustration, can be implemented by special purpose hardware-based systems that perform the specified functions or acts or carry out combinations of special purpose hardware and computer instructions.</p>
+<heading level="1" id="h-0011">Neural Networks</heading>
+<p id="p-0064" num="0062"><figref idref="DRAWINGS">FIG. <b>1</b>D</figref> depicts an example neural network (NN) <b>100</b> representative of one or more artificial NNs, consistent with various embodiments of the present disclosure. The NN <b>100</b> is made up of a plurality of layers. The network <b>100</b> includes an input layer <b>110</b> (the input layer <b>110</b> refers to the input neurons <b>110</b>-<b>1</b>, <b>110</b>-<b>2</b>, <b>110</b>-<b>3</b>, <b>110</b>-<b>4</b>, ..., <b>110</b>-<i>n</i> that collectively comprise it; also the input neurons may be referred to generically as <b>110</b>-<i>x</i>), a hidden section <b>120</b>, and an output layer <b>130</b> (the output layer <b>130</b> refers to the output neurons <b>130</b>-<b>1</b>, <b>130</b>-<b>2</b>, <b>130</b>-<b>3</b>, ..., <b>130</b>-<i>n</i> that collectively comprise it; also the input neurons may be referred to generically as <b>130</b>-<i>x</i>)). Though network <b>100</b> depicts a feed-forward NN, other NNs layouts may also be utilized, such as a recurrent NN layout (not depicted). In some embodiments, the NN <b>100</b> may be a design-and-run NN and the layout depicted may be created by a computer programmer. In some embodiments, the NN <b>100</b> may be a design-by-run NN, and the layout depicted may be generated by the input of data and by the process of analyzing that data according to one or more defined heuristics. The NN <b>100</b> may operate in a forward propagation by receiving an input and outputting a result of the input. The NN <b>100</b> may adjust the values of various components of the NN by a backward propagation (back propagation).</p>
+<p id="p-0065" num="0063">The input layer <b>110</b> includes a series of input neurons <b>110</b>-<b>1</b>, <b>110</b>-<b>2</b>, up to <b>110</b>-<i>n</i> (collectively, <b>110</b>) and a series of input connections <b>112</b>-<b>1</b>, <b>112</b>-<b>2</b>, <b>112</b>-<b>3</b>, <b>112</b>-<b>4</b>, etc. (collectively, <b>112</b>). The input layer <b>110</b> represents the input from data that the NN is supposed to analyze. Each input neuron <b>110</b> may represent a subset of the input data. For example, the NN <b>100</b> may be provided with a series of values from a data source, and the series of values may be represented by, e.g., a series of floating-point numbers.</p>
+<p id="p-0066" num="0064">In another example, by way of illustration only, the input neuron <b>110</b>-<b>1</b> may be the first pixel of a picture, input neuron <b>110</b>-<b>2</b> may be the second pixel of the picture, etc. The number of input neurons <b>110</b> may correspond to the size of the input. For example, when the NN <b>100</b> is designed to analyze images that are <b>256</b> pixels by <b>256</b> pixels, the NN layout may include a series of <b>65</b>,536 input neurons. The number of input neurons <b>110</b> may correspond to the type of input. For example, when the input is a color image that is <b>256</b> pixels by <b>256</b> pixels, the NN layout may include a series of 196,608 input neurons (65,536 input neurons for each of the red, green, and blue values of each pixel). The type of input neurons <b>110</b> may correspond to the type of input. In a first example, an NN may be designed to analyze images that are black and white, and each of the input neurons may be a decimal value between 0.00001 and 1 representing the grayscale shades of the pixel (where 0.00001 represents a pixel that is completely white and where 1 represents a pixel that is completely black). In a second example, an NN may be designed to analyze images that are color, and each of the input neurons may be a three-dimensional vector to represent the color values of a given pixel of the input images (where the first component of the vector is a red whole-number value between 0 and 255, the second component of the vector is a green whole-number value between 0 and 255, and the third component of the vector is a blue whole-number value between 0 and 255).</p>
+<p id="p-0067" num="0065">The input connections <b>112</b> represent the output of the input neurons <b>110</b> to the hidden section <b>120</b>. Each of the input connections <b>112</b> varies depending on the value of each input neuron <b>110</b>-<i>x</i> and based upon a plurality of weights (not depicted). For example, the first input connection <b>112</b>-<b>1</b> has a value that is provided to the hidden section <b>120</b> based on the input neuron <b>110</b>-<b>1</b> and a first weight. Continuing the example, the second input connection <b>112</b>-<b>2</b> has a value that is provided to the hidden section <b>120</b> based on the input neuron <b>110</b>-<b>1</b> and a second weight. Further continuing the example, the third input connection <b>112</b>-<b>3</b> based on the input neuron <b>110</b>-<b>2</b> and a third weight, etc. Alternatively stated, the input connections <b>112</b>-<b>1</b> and <b>112</b>-<b>2</b> share the same output component of input neuron <b>110</b>-<b>1</b> and the input connections <b>112</b>-<b>3</b> and <b>112</b>-<b>4</b> share the same output component of input neuron <b>110</b>-<b>2</b>; all four input connections <b>112</b>-<b>1</b>, <b>112</b>-<b>2</b>, <b>112</b>-<b>3</b>, and <b>112</b>-<b>4</b> may have output components of four different weights. Though the NN <b>100</b> may have different weightings for each connection <b>112</b>, some embodiments may contemplate weights that are similar. In some embodiments, each of the values of the input neurons <b>110</b> and the connections <b>112</b> may be stored in memory.</p>
+<p id="p-0068" num="0066">The hidden section <b>120</b> includes one or more layers that receive inputs and produce outputs. The hidden section <b>120</b> may include a first hidden layer of calculation neurons <b>122</b>-<b>1</b>, <b>122</b>-<b>2</b>, <b>122</b>-<b>3</b>, <b>122</b>-<b>4</b>, up to <b>122</b>-<i>n</i> (collectively, <b>122</b>); a second hidden layer of calculation neurons <b>126</b>-<b>1</b>, <b>126</b>-<b>2</b>, <b>126</b>-<b>3</b>, <b>126</b>-<b>4</b>, <b>126</b>-<b>5</b>, up to <b>126</b>-<i>n</i> (collectively <b>126</b>); and a series of hidden connections <b>124</b> coupling the first hidden layer <b>122</b> and the second hidden layer <b>126</b>. The NN <b>100</b> only depicts one of many NNs consistent with some embodiments of the disclosure. Consequently, the hidden section <b>120</b> may be configured with more or fewer hidden layers, which may, in some cases extend to hundreds or more&#x2014;two hidden layers are depicted for example purposes.</p>
+<p id="p-0069" num="0067">The first hidden layer includes the calculation neurons <b>122</b>-<b>1</b>, <b>122</b>-<b>2</b>, <b>122</b>-<b>3</b>, <b>122</b>-<b>4</b>, up to <b>122</b>-<i>n</i>. Each calculation neuron <b>122</b>-<i>x</i> of the first hidden layer <b>122</b> may receive as input one or more of the connections <b>112</b>-<i>x</i>. For example, calculation neuron <b>122</b>-<b>1</b> receives input connection <b>112</b>-<b>1</b> and input connection <b>112</b>-<b>2</b>. Each calculation neuron <b>122</b>-<i>x</i> of the first hidden layer <b>112</b> also provides an output. The output is represented by the dotted lines of hidden connections <b>124</b> flowing out of the first hidden layer <b>122</b>. Each of the calculation neurons <b>122</b>-<i>x</i> performs an activation function during forward propagation. In some embodiments, the activation function may be a process of receiving several binary inputs, and calculating a single binary output (e.g., a perceptron). In some embodiments, the activation function may be a process of receiving several non-binary inputs (e.g., a number between 0 and 1, a number between -0.5 and 0.5, etc.) and calculating a single non-binary output (e.g., a number between 0 and 1, a number between -0.5 and 0.5, etc.). Various functions may be performed to calculate the activation function (e.g., a sigmoid neurons or other logistic functions, tanh neurons, softplus functions, softmax functions, rectified linear units, etc.). In some embodiments, each of the calculation neurons <b>122</b>-<i>x</i> also contains a bias (not depicted). The bias may be used to decide the likelihood or valuation of a given activation function. In some embodiments, each of the values of the biases for each of the calculation neurons is stored in memory.</p>
+<p id="p-0070" num="0068">The NN <b>100</b> may include the use of a sigmoid neuron for the activation function of a calculation neuron <b>122</b>-<b>1</b>. An equation (Equation 1, stated below) may represent the activation function of calculation neuron <b>110</b>-<b>1</b> as f(neuron). The logic of calculation neuron <b>122</b>-<b>1</b> may be the summation of each of the input connections that feed into calculation neuron <b>122</b>-<b>1</b> (i.e., input connection <b>112</b>-<b>1</b> and input connection <b>112</b>-<b>3</b>) which are represented in Equation 1 as j. For each j, the weight w is multiplied by the value x of the given connected input neuron <b>110</b>. The bias of the calculation neuron <b>122</b>-<b>1</b> is represented as b. Once each input connection j is summed the bias b is subtracted. Finalizing the operations of this example as follows: given a larger positive number of results from the summation and bias in activation f(neuron), the output of calculation neuron <b>122</b>-<b>1</b> approaches approximately 1; given a larger negative number of results from the summation and bias in activation f(neuron), the output of calculation neuron <b>122</b>-<b>1</b> approaches approximately 0; and given a number somewhere in between a larger positive number and a larger negative number of results from the summation and bias in activation f(neuron), the output varies slightly as the weights and biases vary slightly.</p>
+<p id="p-0071" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math id="MATH_1" overflow="scroll" alttext="Equation 1">
+<mrow>
+<mi>f</mi>
+<mfenced>
+<mrow>
+<mi>n</mi>
+<mi>e</mi>
+<mi>u</mi>
+<mi>r</mi>
+<mi>o</mi>
+<mi>n</mi>
+</mrow>
+</mfenced>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mi>exp</mi>
+<mfenced>
+<mrow>
+<mo>&#x2212;</mo>
+<mstyle displaystyle="true">
+<msub>
+<mo>&#x2211;</mo>
+<mi>j</mi>
+</msub>
+<mrow>
+<msub>
+<mi>w</mi>
+<mi>j</mi>
+</msub>
+<msub>
+<mi>x</mi>
+<mi>j</mi>
+</msub>
+<mo>&#x2212;</mo>
+<mi>b</mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfenced>
+</mrow>
+</mfrac>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0072" num="0069">The second hidden layer <b>126</b> includes the calculation neurons <b>126</b>-<b>1</b>, <b>126</b>-<b>2</b>, <b>126</b>-<b>3</b>, <b>126</b>-<b>4</b>, <b>126</b>-<b>5</b>, up to <b>126</b>-<i>n</i>. In some embodiments, the calculation neurons <b>126</b>-<i>x</i> of the second hidden layer <b>126</b> may operate similarly to the calculation neurons <b>122</b>-<i>x</i> of the first hidden layer. For example, the calculation neurons <b>126</b>-<b>1</b> to <b>126</b>-<i>n</i> may each operate with a similar activation function as the calculation neurons <b>122</b>-<b>1</b> to <b>122</b>-<i>n</i>. In some embodiments, the calculation neurons <b>126</b>-<i>x</i> of the second hidden layer may operate differently to the calculation neurons <b>122</b>-<i>x</i> of the first hidden layer <b>122</b>. For example, the calculation neurons <b>126</b>-<b>1</b> to <b>126</b>-<i>n</i> may have a first activation function, and the calculation neurons <b>122</b>-<b>1</b> to <b>122</b>-<i>n</i> may have a second activation function.</p>
+<p id="p-0073" num="0070">Similarly, the connectivity to, from, and between the various layers of the hidden section <b>120</b> may also vary. For example, the input connections <b>112</b>-<i>x</i> may be fully connected to the first hidden layer and hidden connections <b>124</b>-<i>x</i> may be fully connected from the first hidden layer <b>122</b> to the second hidden layer <b>126</b>. In some embodiments, fully connected means that each neuron of a given layer may be connected to all the neurons of a previous layer. In some embodiments, fully connected means that each neuron of a given layer may function completely independently and may not share any connections. In a second example, the input connections <b>112</b>-<i>x</i> may not be fully connected to the first hidden layer and the hidden connections <b>124</b>-<i>x</i> may not be fully connected from the first hidden layer to the second hidden layer <b>126</b>.</p>
+<p id="p-0074" num="0071">Further, the parameters to, from, and between the various layers of the hidden section <b>120</b> may also vary. In some embodiments, the parameters may include the weights and the biases. In some embodiments, there may be more or fewer parameters than the weights and biases. For purposes of example, NN <b>100</b> may be in the form of a convolutional NN or convolution NN. The convolutional NN may include a sequence of heterogeneous layers (e.g., an input layer <b>110</b>, a convolution layer <b>122</b>, a pooling layer <b>126</b>, and an output layer <b>130</b>). In such an NN <b>100</b>, and by way of example, the input layer may hold the raw pixel data of an image in a three-dimensional volume of width, height, and color. The convolutional layer <b>122</b> of such an NN <b>100</b> may output from connections that are local to the input layer to identify a feature in a small section of the image (e.g., an eyebrow from a face of a first subject in a picture depicting four subjects, a front fender of a vehicle in a picture depicting a truck, etc.). Given this example, the convolutional layer may include weights and biases, as well as additional parameters (e.g., depth, stride, and padding). The pooling layers <b>126</b> of such an NN <b>100</b> may take as input the output of the convolutional layers <b>122</b> but perform a fixed function operation (e.g., an operation that does not take into account any weight or bias). Also in this example, the pooling layer <b>126</b> may not contain any convolutional parameters and may also not contain any weights or biases (e.g., performing a down-sampling operation).</p>
+<p id="p-0075" num="0072">The output layer <b>130</b> includes a series of output neurons <b>130</b>-<b>1</b>, <b>130</b>-<b>2</b>, <b>130</b>-<b>3</b>, up-to <b>130</b>-<i>n</i> (representatively <b>130</b>-<i>x</i>). The output layer <b>130</b> holds a result of the analyzation of the NN <b>100</b>. In some embodiments, the output layer <b>130</b> may be a categorization layer used to identify a feature of the input to the NN <b>100</b>. For example, the NN <b>100</b> may be a classification NN trained to identify Arabic numerals. In such an example, the NN <b>100</b> may include ten output neurons <b>130</b> corresponding to which Arabic numeral the NN <b>100</b> has identified (e.g., output neuron <b>130</b>-<b>2</b> having a higher activation value than output neurons <b>130</b> may indicate the NN determined an image contained the number &#x2018;1&#x2019;). In some embodiments, the output layer <b>130</b> may be a real-value target (e.g., trying to predict a result when an input is a previous set of results) and there may be only a singular output neuron (not depicted). The output layer <b>130</b> is fed from an output connections <b>128</b>-<i>x</i>. Output connections <b>128</b> provide the activations from the hidden section <b>120</b>. In some embodiments, the output connections <b>128</b> may include weights and the output neurons <b>130</b> may include biases.</p>
+<p id="p-0076" num="0073">Training the NN <b>100</b> may include performing back propagation. Back propagation is different from forward propagation. Forward propagation may include feeding of data into the input neurons <b>110</b>; performing the calculations of the connections <b>112</b>, <b>124</b>, <b>128</b>; and performing the calculations of the calculation neurons <b>122</b> and <b>126</b>. The forward propagation may also be the layout of a given NN (e.g., recurrence, number of layers, number of neurons in one or more layers, layers being fully connected or not to other layers, etc.). Back propagation may be used to determine an error of the parameters (e.g., the weights and the biases) in the NN <b>100</b> by starting with the output neurons <b>130</b> and propagating the error backward through the various connections <b>128</b>, <b>124</b>, <b>112</b> and layers <b>126</b>, <b>122</b>, respectively.</p>
+<p id="p-0077" num="0074">Back propagation includes performing one or more algorithms based on one or more training data to reduce the difference between what a given NN determines from an input and what the given NN should determine from the input. The difference between an NN determination and the correct determination may be called the objective function (alternatively, the cost function). When a given NN is initially created and data is provided and calculated through a forward propagation, the result or determination may be an incorrect determination. For example, NN <b>100</b> may be a classification NN; may be provided with a <b>128</b> pixel by <b>250</b> pixel image input that contains the number &#x2018;3&#x2019;; and may determine that the number is most likely &#x201c;9&#x201d; and is second most likely &#x201c;2&#x201d; and is third most likely &#x201c;3&#x201d; (and so on with the other Arabic numerals). Continuing the example, performing a back propagation may alter the values of the weights of connections <b>112</b>, <b>124</b>, and <b>128</b>; and may alter the values of the biases of the first layer of calculation neurons <b>122</b>, the second layer of calculation neurons <b>126</b>, and the output neurons <b>130</b>. Further continuing the example, the performance of the back propagation may yield a future result that is a more accurate classification of the same <b>128</b> pixel by <b>250</b> pixel image input that contains the number &#x201c;3&#x201d; (e.g., more closely ranking &#x201c;9&#x201d;, &#x201c;2&#x201d;, then &#x201c;3&#x201d; in order of most likely to least likely, ranking &#x201c;9&#x201d;, then &#x201c;3&#x201d;, then &#x201c;2&#x201d; in order of most likely to least likely, ranking &#x201c;3&#x201d; the most likely number, etc.).</p>
+<p id="p-0078" num="0075">Equation 2 provides an example of the objective function (&#x201c;example function&#x201d;) in the form of a quadratic cost function (e.g., mean squared error)&#x2014;other functions may be selected, and the mean squared error is selected for example purposes. In Equation 2, all of the weights may be represented by w and biases may be represented by b of NN <b>100</b>. The NN <b>100</b> is provided a given number of training inputs n in a subset (or entirety) of training data that have input values x. The NN <b>100</b> may yield output a from x and should yield a desired output y(x) from x. Back propagation or training of the NN <b>100</b> should be a reduction or minimization of the objective function &#x2018;O(w,b)&#x2019; via alteration of the set of weights and biases. Successful training of NN <b>100</b> should not only include the reduction of the difference between the answer a and the correct answers y(x) for the input values x, but given new input values (e.g., from additional training data, from validation data, etc.).</p>
+<p id="p-0079" num="0000">
+<maths id="MATH-US-00002" num="00002">
+<math id="MATH_2" overflow="scroll" alttext="Equation 2">
+<mrow>
+<mi>O</mi>
+<mfenced>
+<mrow>
+<mi>w</mi>
+<mo>,</mo>
+<mi>b</mi>
+</mrow>
+</mfenced>
+<mo>&#x2261;</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>2</mn>
+<mi>n</mi>
+</mrow>
+</mfrac>
+<mstyle displaystyle="true">
+<msub>
+<mo>&#x2211;</mo>
+<mi>x</mi>
+</msub>
+<mrow>
+<msup>
+<mrow>
+<mfenced close="&#x2016;" open="&#x2016;">
+<mrow>
+<mi>y</mi>
+<mfenced>
+<mi>x</mi>
+</mfenced>
+<mo>&#x2212;</mo>
+<mi>a</mi>
+</mrow>
+</mfenced>
+</mrow>
+<mn>2</mn>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0080" num="0076">Many options may be utilized for back propagation algorithms in both the objective function (e.g., mean squared error, cross-entropy cost function, accuracy functions, confusion matrix, precision-recall curve, mean absolute error, etc.) and the reduction of the objective function (e.g., gradient descent, batch-based stochastic gradient descent, Hessian optimization, momentum-based gradient descent, etc.). Back propagation may include using a gradient descent algorithm (e.g., computing partial derivatives of an objective function in relation to the weights and biases for all of the training data). Back propagation may include determining a stochastic gradient descent (e.g., computing partial derivatives of a subset the training inputs in a subset or batch of training data). Additional parameters may be involved in the various back propagation algorithms (e.g., the learning rate for the gradient descent). Large alterations of the weights and biases through back propagation may lead to incorrect training (e.g., overfitting to the training data, reducing towards a local minimum, reducing excessively past a global minimum, etc.). Consequently, modification to objective functions with more parameters may be used to prevent incorrect training (e.g., utilizing objective functions that incorporate regularization to prevent overfitting). Also consequently, the alteration of the NN <b>100</b> may be small in any given iteration. Back propagation algorithms may be repeated for many iterations to perform accurate learning as a result of the necessitated smallness of any given iteration.</p>
+<p id="p-0081" num="0077">For example, NN <b>100</b> may have untrained weights and biases, and back propagation may involve the stochastic gradient descent to train the NN over a subset of training inputs (e.g., a batch of ten training inputs from the entirety of the training inputs). Continuing the example, the NN <b>100</b> may continue to be trained with a second subset of training inputs (e.g., a second batch of ten training input from the entirety other than the first batch), which can be repeated until all of the training inputs have been used to calculate the gradient descent (e.g., one epoch of training data). Stated alternatively, if there are 10,000 training images in total, and one iteration of training uses a batch size of 100 training inputs, 1,000 iterations would complete an epoch of the training data. Many epochs may be performed to continue training of an NN. There may be many factors that determine the selection of the additional parameters (e.g., larger batch sizes may cause improper training, smaller batch sizes may take too many training iterations, larger batch sizes may not fit into memory, smaller batch sizes may not take advantage of discrete GPU hardware efficiently, too little training epochs may not yield a fully trained NN, too many training epochs may yield overfitting in a trained NN, etc.). Further, NN <b>100</b> may be evaluated to quantify the performance of evaluating a dataset, such as by use of an evaluation metric (e.g., mean squared error, cross-entropy cost function, accuracy functions, confusion matrix, precision-recall curve, mean absolute error, etc.).</p>
+<heading level="1" id="h-0012">Operating an Automated and Adaptive Animal Behavioral Training System Using Machine Learning</heading>
+<p id="p-0082" num="0078">The following application-specific acronyms may be used below:</p>
+<p id="p-0083" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table colsep="0" frame="topbot">
+<title>TABLE 2</title>
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="58pt"/>
+<colspec colname="col2" colsep="0" colwidth="197pt"/>
+<thead>
+<row rowsep="1" valign="bottom">
+<entry align="center" nameend="col2" namest="col1" valign="bottom">Application-Specific Acronyms</entry>
+</row>
+</thead>
+<tbody>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">AI</entry>
+<entry align="left" colname="col2" valign="top">artificial intelligence</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">GPS</entry>
+<entry align="left" colname="col2" valign="top">global positioning system</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top">ML</entry>
+<entry align="left" colname="col2" valign="top">machine learning</entry>
+</row>
+<row rowsep="1" valign="top">
+<entry align="left" colname="col1" valign="top">MLM</entry>
+<entry align="left" colname="col2" valign="top">machine learning model</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0084" num="0079">One of the major challenges associated with training an animal is maintaining behavioral consistency at all times. This includes consistency of discipline and praise from all people that the animal interacts with, as well as consistency of discipline and praise at all times. Maintaining such consistency may be difficult and becomes impossible if nobody is around at a time when the animal requires disciplining. For example, a cat may scratch the furniture only when nobody is in the room.</p>
+<p id="p-0085" num="0080">Several animal training systems exist today, including: a) crate training which confines a pet&#x2014;this challenges a pet because animals typically do not urinate or defecate in the same place as they sleep; b) leash training; c) shock collars with an ability to define a property perimeter; d) apps that integrate with collars&#x2014;these add an ability to do things like sound training (i.e., prevent a reaction to negative sounds, such as fireworks and thunder); e) clicker training (for cats); or f) other form of training that is based on data that comes from an animal&#x2019;s own responses from training.</p>
+<p id="p-0086" num="0081">The challenges with these methodologies include: a) a high investment time in training; b) a lack of consistency across members of a household, which typically results in frustration and long delays in successful results; c) a lack of consistency across all times of day, especially when no member of the household is home with the pet; d) requirement that a person must be present for training; and e) limited training abilities&#x2014;each existing training method has limitations in behavior aspects such that it is not applicable for training.</p>
+<p id="p-0087" num="0082">According to various embodiments disclosed herein, an artificial intelligence (AI)-infused animal training system generates models that learn over time and can provide training that is adaptive and tailored for each specific animal and owner, in an automated way, as animal behaviors change, and new training commands or techniques become necessary. This system also enforces consistency during the training process, as the system itself provides the training, and the training is not based on a set of different people with varying tolerance levels and training abilities. The subjectivity of human variation is removed from the equation, leading to a trained pet in a faster and more efficient way, and a happier household.</p>
+<p id="p-0088" num="0083">Existing products are limited to train pets for a specific purpose, such as to reinforce commands and stop unwanted behaviors such as jumping, digging, and chasing. For example, pet collars with global positioning system (GPS) trackers provide only negative reinforcement in regards to the pet&#x2019;s location. There are also products that are limited for tracking pets&#x2019; activity levels. Furthermore, there do not appear to be systems that provide an animal training mechanism that uses ongoing ML to adapt to the specific behavior patterns of a specific animal and the specific behavior requirements of its owner(s).</p>
+<p id="p-0089" num="0084">An important method that is considered to be the best animal training method is positive reinforcement, which requires that the owner communicate clearly with the animal. The owner decides what the animal should do and lets the animal know by offering rewards when the animal exhibits the desired behavior patterns. When the animal is rewarded for doing things correctly, it is more likely to repeat those good behaviors because animals, especially pets, aim to please.</p>
+<p id="p-0090" num="0085">Various embodiments disclosed herein provide for a system that learns and adapts automatically to a specific animal and its specific owners&#x2019; requirements by using a combination of ML, user feedback and configuration, and pre-calculated data. This system may be configured to use training actions (responses) triggered as part of the system, and may include both positive reinforcement training actions and disciplining training actions. One or more different responses, either positive or negative action types, at various intensity levels and through an array of device types, may be provided.</p>
+<p id="p-0091" num="0086">Embodiments of the system disclosed herein may receive, use, transform, and/or aggregate information from multiple types of sensors. These sensors may include sensors attached to the animal, non-stationary and stationary devices in the animal&#x2019;s living space, and sensors embedded in mobile devices carried by a human user. Inputs from some or all of these sensors may be combined to learn the animal&#x2019;s behavior patterns and generate effective training responses. Which sensors will be used for an individual animal may be manually or automatically configured. Various embodiments may provide methods for configuring and adapting the system to individual animals using multiple aspects, such as animal types, breeds, age, weight, and classes of these aspects. Methods may be provided for configuring which training action devices to use for an individual animal, to achieve both positive reinforcement and disciplining, and a mapping of action type and level of intensity to specific actions of the training devices for an individual animal. Further methods may be provided for configuring a mapping of specific sensor data to actions and intensity levels.</p>
+<p id="p-0092" num="0087">In some embodiments, notification of unacceptable behavior may be presented to both the owner and animal, and a reward system may be provided. The system may recognize, measure, and react to behaviors, and provide for course correction if the pet commits an infraction. The system may use dynamically defined regions for different behaviors. The system need not require human initiation of responses; it recognizes behavior patterns, and automatically initiates responses to the behavior patterns. The system may adaptively recognize a variety of behavior patterns unique to the animal. Machine learning may permit intelligent learning by the system over time, and is designed to identify and act on behavior patterns exhibited by an animal, such as a dog or cat, that are either desirable or undesirable, and perform positive reinforcement or disciplinary actions correspondingly.</p>
+<p id="p-0093" num="0088"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a high-level combination block/flow diagram according to some embodiments of the disclosed system <b>200</b> and method (process <b>500</b>, <figref idref="DRAWINGS">FIG. <b>5</b></figref>). The system <b>200</b> may comprise ML <b>210</b> that receives some of its input (user feedback) from a user device <b>220</b>. The user device <b>220</b> may also be used to provide alerts to the user. The user device may be, e.g., a DPS <b>10</b>. The ML <b>210</b> may comprise an ML component <b>216</b>, such as the neural network <b>100</b>, that contains the algorithms and data to perform the ML functionality. The ML component <b>216</b> may be trained using pre-existing training data <b>212</b> and training data from IoT sensors <b>214</b> and owner feedback for continuous training. Such training data <b>214</b> may originate from, among other things, animal-related devices <b>240</b>, such as a smart collar that may be embedded with, e.g., an accelerometer, a gyroscope, a GPS tracker, a microphone, etc. The ML <b>210</b> determines an occurrence of a particular behavior pattern of the animal <b>230</b> that results in negative action <b>232</b>, such as an audible punishment, vibration, minor static ping, and the like, or positive action <b>234</b>, such as audible praise or the dispensing of a treat, and the like.</p>
+<p id="p-0094" num="0089"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a high-level block diagram of the system architecture <b>300</b>, according to some embodiments. In general, the inputs are shown on the left, and the outputs are shown on the right. One of the inputs is the animal online sensors <b>305</b> that may be mounted on or worn by the animal and may include the animal-related devices <b>240</b> discussed above. Additionally, location sensors <b>310</b> may be located in a particular location of an owner of the sensor device. Such location sensors <b>310</b> may include cameras, proximity sensors, motion sensors, and the like.</p>
+<p id="p-0095" num="0090">The animal online sensors <b>305</b> and the location sensors <b>310</b> may generate online sensors data <b>315</b>. This sensor data may be collected at a receiver <b>340</b> and processed for input into an ML model calculator and applier <b>345</b> that contains the ML used to determine various functions to apply. The receiver <b>340</b> may, in some embodiments, be embedded in a stationary device in the house or in a mobile device with an app. The various functions to apply may include training action devices <b>350</b> to provide output to animals in the form of positive feedback using animal positive feedback devices <b>352</b> and their associated functions, and negative feedback using negative feedback devices <b>354</b> and their associated functions. The ML model calculator and applier <b>345</b> may use the sensor data, precalculated data, and user inputs to train, validate, and use the model. The ML model calculator and applier <b>345</b> may be embedded in a stationary device in the house, or in a mobile phone with the app, or part / all of the functionality embedded in a cloud. These functions to apply may also include output to users in the form of user notification and reports <b>360</b>.</p>
+<p id="p-0096" num="0091">The ML model calculator and applier <b>345</b> may also receive input from a network or cloud interface <b>320</b>. Such a network or cloud may be, e.g., the cloud computing environment <b>52</b> discussed above. This input may be stored in an animal generic database <b>325</b> that contains pre-calculated data, including pre-calculated model instances, for the animal&#x2019;s type, age, and other generic animal class profiles. This animal generic database <b>325</b> may contain information relevant to animals of the same or similar class(es) and type(s), such as type (e.g., cat, dog), breed (e.g., English Cocker Spaniel), age, etc. The ML model calculator and applier <b>345</b> may utilize information from the generic database <b>325</b> as a part of the ML model&#x2014;however, the ML model calculator and applier <b>345</b> should change over time as feedback from the specific animal is received, e.g., from the receiver <b>340</b> and other feedback elements, such as the specific animal profile <b>342</b>.</p>
+<p id="p-0097" num="0092">The user device <b>220</b> may also be used to provide user configuration information in the user configuration and user online feedback database <b>335</b>. The configuration information may include information that may be stored in the specific animal profile <b>342</b>, and also information about the various animal sensors <b>305</b> and location sensors <b>310</b>. The user configuration and user online feedback database <b>335</b> may also be used to store online feedback received from the user.</p>
+<p id="p-0098" num="0093"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a block diagram that illustrates an overview of the ML mechanism <b>400</b> (216) in the system <b>200</b>, according to some embodiments. The system <b>200</b> collects a variety of online sensor data <b>412</b>, offline data <b>414</b>, and user input <b>416</b> as input <b>410</b> into one or more ML classification models <b>420</b>, and identifies positive and negative behavior patterns with an associated training action type <b>432</b> and training action level <b>434</b>.</p>
+<p id="p-0099" num="0094">Online sensor data <b>412</b> may include data collected from multiple connected devices and sensors. These may be wearable devices attached to the animal, stationary devices located in the animal&#x2019;s living space, or mobile devices carried by the human user. The online sensor data <b>412</b> may include, e.g., data related to an attachment type (animal body, location, owner held device), and a sensor type (audio, video, GPS tracker, gyroscope, accelerometer, heat sensor, and body measurement sensors). The system <b>200</b> may collect data from multiple sensors and devices, for example: audio, video, GPS, gyroscope, accelerometer, heat sensor, body measure sensors, etc. The system <b>200</b> may be pluggable and not require all sensor types to be used for the system to work, although certain behavior patterns may be captured by specific sensor types. Offline data <b>414</b> may include pre-calculated parameters of ML models and any training set data, which may be based on data captured from other animals having similar characteristics, e.g., those of the same type, age, size, and any other attribute of the current animal, as well as models that were already trained based on this data. User inputs <b>416</b> may include both: a) configuration information, and b) continuous online feedback provided by the user and that is used to train and refine the models being used on an ongoing basis.</p>
+<p id="p-0100" num="0095">In some embodiments, the ML classification model(s) <b>420</b> may continuously capture and identify the animal&#x2019;s behavior patterns <b>418</b>, classifying them as a neutral, positive, or negative behavior patterns. For positive and negative behavior patterns, the ML classification model(s) <b>420</b> may further classify these behavior patterns into outputs <b>430</b>, including a training action type <b>432</b> and a training action level <b>434</b>. The training action type <b>432</b> may include a positive action, a negative action, and a neutral (or no) action. The training action level <b>434</b> may be based on a level of intensity, and each combination of action type <b>432</b> and level of intensity <b>434</b> may be configured by the user or based on default settings to a specification of specific actions by the output devices of the system <b>200</b>. . The ML classification model(s) <b>420</b> may then trigger these actions via the output devices based on these outputs. Negative animal behaviors may include (but are not limited to): a) household: chewing clothing, shoes, furniture, climbing on furniture, clawing on doors or walls, or discharging waste; b) yard/pasture/outside: digging holes, attempting to escape; and c) public venues (during walks, sitting outside in a public space): biting, barking, jumping on individuals, attacking humans or another animal. Positive animal behaviors may include (but are not limited to): a) good social behavior; b) calm behavior (when guest at home, kids sleeping); c) being obedient and responsive; and d) sitting, standing, moving, and giving up objects on command.</p>
+<p id="p-0101" num="0096"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a flowchart that describes a proposed process <b>500</b>, according to some embodiments, for configuring, initializing, training, validating, and using the animal training system <b>200</b>. In operation <b>505</b>, the user may configure, using their user device <b>220</b>, various user configurable data <b>335</b>. This may include, by way of example only: 1) the specific animal profile <b>342</b>, including animal name, type, breed, age, weight and size; 2) which sensors <b>305</b>, <b>310</b>, <b>412</b> to use for the animal; 3) user mapping of action type <b>432</b> and action level <b>434</b> to specific actions to be performed by the output devices <b>430</b>; 4) static definitions of specific sensor data <b>412</b> mapping to actions (e.g. specific locations, sounds above threshold - mapped to specific actions by the output devices); and 5) confidence level from which the system <b>200</b> can apply actions automatically, or, alternatively, if the system <b>200</b> is configured to confirm proposed actions with the user.</p>
+<p id="p-0102" num="0097">The above information may form all or part of the specific animal profile <b>342</b>, which may contain information about a specific animal (e.g., a specific dog&#x2019;s name, &#x201c;Winston&#x201d;, his age, weight, and other characteristics). The specific animal profile <b>342</b> defines the identity of an individual animal, and may include other parameters required to operate the training system for the specific animal. These details may also be used for the following purposes: 1) in environments with multiple animals&#x2014;to associate sensory data and models to a specific animal; and 2) to identify aggregated pre-calculated information <b>325</b> that is relevant for use for a specific animal.</p>
+<p id="p-0103" num="0098">Part of the static definitions specified above may include, for example, location specifications and associated actions and levels. For example, the animal entering a location that it is not allowed to enter should trigger a negative action for the animal by the negative devices and functions <b>354</b>. Another example of a static definition may be a sound (e.g., a barking sound) with a specific recognizable pattern(s) generated above a threshold that will trigger a negative action. Location definitions may be used directly, or in combination with other behavior patterns. When used directly, the location definitions may be used to indicate areas of a space that the animal is not allowed to be in. When used in combination with a behavior pattern, the location may be used to limit where certain behavior patterns are considered unacceptable. For example, jumping may only be considered a negative action when the animal is indoors.</p>
+<p id="p-0104" num="0099">The system <b>200</b> may obtain pre-determined defaults for static definitions of sensor readings to actions in, e.g., the animal generic database <b>325</b>, where these defaults may be associated with, e.g., the specific type, breed, and age of the animal. For example, a default may specify that a sound generated over a set volume and/or duration threshold will trigger a specific action and level. The user may then accept, modify, or reject these defaults. The system <b>200</b> may also maintain history information per animal, which may be associated with the animal profiles. The history may include training set information, past training actions taken, etc.</p>
+<p id="p-0105" num="0100">Once the configuration <b>505</b> of the system <b>200</b> by the user is complete, an initialization operation <b>510</b> may begin. In some embodiments of the initialization operation <b>510</b>, a pre-calculated ML model instance may be selected based on one or more attributes of the animal, e.g., the animal&#x2019;s type, breed, and age, (e.g., information from the animal generic database <b>325</b>) and used to initialize a customized instance of the model. Over time, the ML classification model(s) <b>420</b> may capture various behavior patterns of the specific animal and receive user feedback on how to classify these behavior patterns into positive/negative classifications <b>350</b>, <b>354</b> as well as a required action <b>432</b> and level of the action <b>434</b>. This enables adjustment of the parameters of the customized model instance of the ML classification models(s) <b>420</b> dynamically for the specific animal.</p>
+<p id="p-0106" num="0101">The system <b>200</b> may also support receiving as input and/or automatically setting and tuning a weight by which the pre-calculated model parameters are considered relative to the new parameters calculated based on the specific animal&#x2019;s behavior patterns in the process of training the system.</p>
+<p id="p-0107" num="0102">The process <b>500</b> then, in operation <b>515</b> enters a training set creation phase. During this phase, the system <b>200</b> dynamically captures behavior pattern&#x2019;s sensor data <b>315</b> for the animal and receives user feedback, which may either be triggered by the user or solicited by the system <b>200</b> based on the pre-calculated parameters, regarding classification of the behavior pattern to positive or negative and the action to take for each pattern. This generates a training classification set.</p>
+<p id="p-0108" num="0103">In this training set creation phase, actions in response to observed animal behavior patterns may be taken when triggered and requested by the user feedback, and when these user requests are received within a time window still relevant to the captured behavior pattern. The feedback received from the user may include an indication of how long ago the behavior pattern for which the feedback is associated occurred. For example, the feedback may be prompt&#x2014; relevant to a behavior pattern observed at a current point in time, or can be associated with a behavior pattern that was observed some time ago (e.g., a minute ago, or longer). The system <b>200</b> may support a review of sensor data <b>315</b> by the user and receiving of user feedback at a later time (e.g., a review of video, audio, GPS, and other sensor data at a later time). User feedback for a behavior pattern that occurred outside of the above-mentioned time window may, but need not trigger an action, but the relevant sensor data and user feedback may still be added to the training set. This training set creation operation <b>515</b> phase may continue (loop <b>520</b>:N to <b>515</b>) until the system determines that the training set is sufficiently large, in operation <b>520</b>:Y. The time spent in this phase may depend on a frequency of user feedback provided.</p>
+<p id="p-0109" num="0104">Given a user feedback trigger by the user on an observed animal behavior pattern (the feedback is the classification of the behavior pattern and requested action <b>432</b> and level <b>434</b>), the following describes an embodiment of how to prepare an input record for the training set from the input sensors data <b>315</b>, e.g., by the receiver <b>340</b>.</p>
+<p id="p-0110" num="0105">Readings from the various sensors <b>305</b>, <b>310</b> are received in a continuous way, e.g., by polling the sensors at some frequency, by the sensors pushing readings data, or in response to some triggering event. The user feedback input stored in the user configuration and user online feedback database <b>335</b> may come with an indication of the times when the associated behavior pattern ended and started. For example, the user can indicate that the behavior is still ongoing or ended two seconds ago, and that it started ten seconds ago. In such a case, the system <b>200</b> has the time boundaries for the current training record from the sensors&#x2019; data <b>315</b>.</p>
+<p id="p-0111" num="0106">If the user indicates only the end time of the behavior (e.g., that the behavior is still ongoing or ended a few seconds ago), the system <b>200</b> must determine a best start time from which to include the sensors&#x2019; data <b>315</b> in the training record. To achieve this, the following options may be implemented. In one embodiment, for each sensor input, a search back may be performed for a value which has a larger relative difference from its preceding value above a threshold. Alternately, a search back for an outlier value may be performed. In other words, a search back may be performed for an extreme value to delimit and specify the start time with regard to this sensor data <b>315</b>. The search back may be limited to a time window, e.g., thirty seconds. If no outlier is found in the time window, the value with the largest difference from its preceding value may be taken. When the extreme values from all the sensors have been found, the system <b>200</b> may select the time of the oldest extreme value in the time windows across all the sensors as the start time for the generated training record.</p>
+<p id="p-0112" num="0107">Another embodiment may be implemented similar to the preceding, but a different time length may be selected for each different sensor. A further embodiment may be implemented which use several fixed size lengths, and for each length, a separate set of ML models may be used. For example, a separate set of ML models may be used for sample lengths of 5, 10, 15, 20, 25, 30 seconds. Then, the set of models with the best accuracy may be used in later stages.</p>
+<p id="p-0113" num="0108">Given that a time length is determined for generating the training record, as described above, a next question is how to prepare the values of each sensor for the training record. Each sensor may provide multiple readings for different times in the time length. The multiple readings may be aggregated, or a representative value may be selected in any way that is workable for the specific sensor. Aggregation may be performed, e.g., by calculating an average or median from the sensor readings, or alternatively calculating an extreme value (min, max, etc.) of the readings. Each sensor may employ a different way of aggregating values or otherwise selecting a representative value. It is also possible that multiple values from a sensor will be included in the generated training record if the ML model being used supports this option.</p>
+<p id="p-0114" num="0109">It is possible in this stage (or another stage) to apply feature extraction techniques for sensor data that includes multiple features in order to extract the most important features of each sensor data. Aggregation/selection for the time window may be applied on the selected features.</p>
+<p id="p-0115" num="0110">Upon building a large enough training set <b>520</b>:Y, the process <b>500</b> will automatically enter the system training operation phase <b>525</b> and begin to train ML models <b>420</b> based on the training set <b>212</b>, <b>214</b>. The process <b>500</b> may use any set of ML models <b>420</b>, that is, it may use models of different types and may also use multiple instances of each model, where each instance uses different training techniques or training sub-sets or parameters. These model types and instances may be used simultaneously. Following are examples of ML model types <b>420</b> that can be used for the classification problem addressed in this system <b>200</b>: logarithmic regression, neural networks, support vector machines, random forests, k nearest neighbor, and gradient boosting.</p>
+<p id="p-0116" num="0111">To prepare the generated training set for inputting to ML models <b>420</b>, various supporting techniques may be used. In some embodiments, records are removed that contain outliers in one or more of their sensor record fields. In some embodiments dimensionality reduction is applied on the records of a training set to select the most efficient sub-set of dimensions to use for training. It is also possible to apply in this stage any type of training set partitioning / sharding / slicing technique to increase accuracy and / or resiliency of the trained models.</p>
+<p id="p-0117" num="0112">The process <b>500</b> may detect that certain sensor readings indicate that a behavior pattern is taking place with confidence values based on how close the sensor readings conform to a behavior pattern profile. For example, the accelerometer and microphone may be used to understand when a cat is scratching a piece of furniture with a specific confidence level. In this case, the accelerometer may be used to detect the motion that is happening, and the microphone may be used to detect the sound that is being produced.</p>
+<p id="p-0118" num="0113">Once the system training operation <b>525</b> is complete, a validation operation/stage <b>530</b> begins. In the validation operation <b>530</b>, the system <b>200</b> continues to perform all functions of the training set creation operation <b>515</b>. Additionally, the system <b>200</b> now provides proposed classifications of the animal&#x2019;s behavior patterns of positive and negative with associated proposed actions <b>432</b> and levels <b>434</b>, in a system mapping operation, based on each captured behavior pattern, and requests user validation on the correctness of these predictions. When the user validates a system prediction, this may add a training record with the sensors&#x2019; inputs and output classification. When the user disapproves a system prediction, an appropriate training record with the user&#x2019;s classification may be generated, or training record can be dropped (i.e., not generated), or previous training records that exist and are related to the captured sensor input may be modified or may be unlearned. This process may be used to extend and refine the training set, and to measure its effectiveness. Like in the training set creation phase <b>515</b>, in some embodiments, actions are only triggered when user feedback is provided within a relevant time window for the action.</p>
+<p id="p-0119" num="0114">During the validation operation <b>530</b>, the system <b>200</b> may continue to be refined and retrained until the models <b>420</b> being used reach or exceed an acceptable accuracy predefined MLM accuracy threshold. The functions of the training set creation operation <b>515</b> may be continued. The system <b>200</b> may provide system generated classifications and predictions, action types, and action levels to the user based on behavior patterns, and request user validation of the mapping of the classifications and predictions to the action type and action level. This may be used to extend and refine the training set, and to measure model effectiveness. In some embodiments, actions here may be taken only triggered by user feedback.</p>
+<p id="p-0120" num="0115">Once the acceptable accuracy threshold is reached <b>535</b>:Y, the process <b>500</b> may automatically enter the application phase <b>540</b>, and the user may be notified. Otherwise, <b>535</b>:N, the system training <b>525</b> and validation <b>530</b> may continue.</p>
+<p id="p-0121" num="0116">In the application <b>540</b>, the process <b>500</b> may continue to perform all functions of the validation phase <b>530</b>, but may now automatically perform positive <b>352</b> and negative actions <b>354</b> based on the system classifications and system predictions. During this application phase <b>540</b>, users will also be able to provide feedback based on historical data for captured behavior patterns and actions taken. If at any time the user feedback indicates that the models being used no longer meet the acceptable accuracy threshold, then the system <b>200</b> may automatically revert to the validation phase <b>530</b> or the training phase <b>525</b> and the user may be notified.</p>
+<p id="p-0122" num="0117">In the application phase <b>540</b>, the system <b>200</b> may use a combination of two methods or more to classify the animal behavior pattern to classes, actions and levels. The first method may use the static definitions that map sensor readings in ranges or above thresholds, in any combinations, to a behavior class, action, and level. The second method may use the trained ML models <b>420</b>, which receive as input <b>410</b> continuous sensor data that is partitioned based on time and prepared using the techniques described above, and produce as output <b>430</b> a predicted classification, action <b>432</b> and level <b>434</b>. For a window of sensor inputs, if the static mapping definitions do not provide a classification, then the trained ML models may be used to check the sensor readings. If multiple types and/or instances of ML models <b>420</b> are used, then a classification, action and level result may be reached by aggregating the results of the various types and instance. Over time, based on user input for validating the ML models <b>420</b>, any sub-set of the model types / instances may be removed or modified based on the user feedback. For example, the user feedback may indicate that specific type / instances of ML models <b>420</b> have better accuracy / performance compared to other for the specific animal being trained. The functions of the application phase <b>540</b> may include the functions of the validation phase <b>530</b>, but also that actions are taken based on system (ML model) predictions, and the system <b>200</b> may notify the user that the application phase <b>540</b> has been entered.</p>
+<p id="p-0123" num="0118">The system <b>200</b> may accept monitoring data from a variety of devices and sensors <b>305</b>, <b>310</b>, <b>220</b>. These may include stationary devices in the animal&#x2019;s living space, wearable devices attached to the animal, or mobile devices carried by the human user. The following are examples of the types of monitoring devices and sensors which can be used. For the type of attachments and placement of sensors: 1) sensors attached to the animal, e.g., on a collar or chip; 2) sensors placed in a location, e.g., room or yard; 3) sensors placed on a non-human-interacting mobile robot, e.g., on a livestock / wild animal habitat patrolling / flying drone; and 4) sensors attached to device carried by a human, e.g., mobile phone sensors.</p>
+<p id="p-0124" num="0119">The type of sensors may include, e.g., 1) audio, e.g., microphone, on the animal or at a stationary or moveable location; 2) video, e.g., a camera, on the animal or at a stationary or moveable location; 3) GPS tracker; 4) proximity or boundary sensors; 5) gyroscope; 6) accelerometer; 7) heat sensor; and 8) body or biometric measure sensors, e.g., heart rate, body heat. These monitoring devices may send their real-time data into the system to be used for determining and classifying the animal&#x2019;s behavior patterns into classes, actions and levels.</p>
+<p id="p-0125" num="0120"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a block flow diagram that illustrates a way that various monitoring devices may be used in the system <b>600</b> (<b>200</b>), according to some embodiments. The user device <b>605</b>A may be used to generate or select a specific animal profile <b>607</b>, and this profile <b>607</b> may be used to store animal related information including which monitoring devices <b>610</b> should be used for the animal. An analysis <b>622</b> of inputs provided from the animal monitoring devices <b>610</b> may be used in conjunction with an animal profile <b>617</b>, and a result may be assessed using an automated animal training system <b>620</b> in real time to determine a confidence level in the detected behavior. The automated animal training system <b>620</b>, may utilize the ML behavior data along with the data from the sensors and the data profile the animal profile. The training system <b>620</b> may determine <b>630</b> whether the animal behavior constitutes negative behavior <b>640</b> or positive behavior <b>650</b>. Additional information in the form of an alert or other feedback <b>632</b> may be provided to the user device <b>605</b>B (which may, but does not have to be, the same user device <b>605</b>A).</p>
+<p id="p-0126" num="0121">The negative behavior <b>640</b> may trigger the animal negative feedback devices and functions <b>354</b>, and the positive behavior <b>650</b> may trigger the animal positive feedback devices and functions <b>352</b>. The positive (praising) <b>352</b> and negative (disciplining) <b>354</b> action devices may be connected to the system <b>200</b> and enable the performance of training actions towards the animal. Some of the devices <b>352</b>, <b>354</b> may be connected to the animal and other devices may be not connected to the animal. The user may configure which devices should be used for each specific animal (training action type <b>432</b>), which training action levels <b>434</b> should be used, and the mapping between action type <b>432</b> and level <b>434</b> to actual actions performed by the devices. A pair of action type <b>432</b> and level <b>434</b> can me mapped to multiple action devices and multiple actions performed by these devices.</p>
+<p id="p-0127" num="0122">By way of illustrated example, the pair &#x201c;positive action and action level one&#x201d; may be mapped to a praising sound coming from a speaker; the pair &#x201c;positive action and action level two&#x201d; may be mapped to a praising sound coming from a speaker plus a small treat being dispensed; and the pair &#x201c;positive action and action level three&#x201d; may be mapped to a longer praising sound coming from a speaker plus a large treat being dispensed. Examples of positive (praising) action devices <b>352</b> may include, but are not limited to: a treat dispenser, and an audio sound device. Examples of negative (disciplinary) action devices <b>354</b> may include, but are not limited to: a static correction collar; a vibration collar; a spray collar; an ultrasonic sound device; and an audio sound device.</p>
+<p id="p-0128" num="0123">Some practical examples of an audio device might include a whistle that produces a noise in the range of frequency that the animal reacts to, or a device that plays a recording of the owner&#x2019;s voice. Examples of physical reaction devices may include collars that vibrate, provide a small shock, or spray water. Depending on the device type, a level of intensity may be associated with the actions that can be performed. For example, in a static correction collar, a higher intensity action will result in a stronger shock. In an audio device, a higher intensity may trigger a louder sound, or a different audio recording. In a treat dispensing device, various intensities can be mapped to various treat sizes and / or various treat types.</p>
+<p id="p-0129" num="0124">In some embodiments, the triggering action mechanism of the action devices may have a minimum time interval of trigger-per-time to increase the significance of the actions and to avoid any situation of animal cruelty. If the minimum time interval since the last training action has not completed, the system will continue to monitor and classify the animal&#x2019;s behavior patterns but will not trigger training actions. Similarly, a maximum on the level of intensity or the number of times triggered may be associated with each type of training action. In such a case, the system may notify the animal owner and avoid triggering further training actions until receiving indication from the animal&#x2019;s owner that the system may do so.</p>
+<p id="p-0130" num="0125"><figref idref="DRAWINGS">FIG. <b>7</b></figref> comprises shots of screens <b>710</b>, <b>740</b>, <b>770</b> for a user interface <b>700</b> of a user device, according to some embodiments. The user interface <b>700</b> is where the interaction may be done between the user and the system <b>200</b>. The user interface <b>700</b> may comprise several features, including animal profiles and configurations, behavior classification and training actions history, connected sensors, and connected training action devices.</p>
+<p id="p-0131" num="0126">On a profile screen <b>710</b>, the user has selected the profile &#x201c;Charlie&#x201d;. An attributes section <b>715</b> may show basic information, such as an image, type of dog, age, and weight. A connected devices section <b>720</b> may include a list and status of the sensors <b>305</b>, <b>310</b> and the training action devices <b>350</b> that are connected to the system <b>200</b>. For sensors <b>305</b>, <b>310</b>, the entry for each sensor may include statistics about their data readings at various times and events. For training action devices <b>350</b>, the entry for each device may include a history of the actions, levels and times performed by the device. Here, the user may enable or disable sensors and training action devices temporarily or permanently, or add and remove devices to/from the system.</p>
+<p id="p-0132" num="0127">On the profile screen <b>710</b>, the user may configure, e.g., the following information: 1) animal name, type, breed, age, weight and size; 2) which sensors to use for the animal; 3) a mapping of behavior type to specific actions to be performed by the output devices; 4) static definitions of specific sensor data mapping to actions (e.g., specific locations, sounds above a threshold&#x2014;mapped to specific actions by the output devices); 5) a confidence level from which the system <b>200</b> may apply actions automatically, or alternatively if the system should always confirm proposed actions with the user.</p>
+<p id="p-0133" num="0128">On a history screen <b>740</b>, the user may be presented with a list of events. Events may be grouped into several categories, such as: 1) events classified as a negative behavior pattern&#x2014; these are events for which a negative training action was taken or recommended; 2) events classified as a positive behavior pattern&#x2014;these are events for which a positive training action was taken or recommended; 3) suspected events&#x2014;these are events that were detected by the system with a lower degree of confidence, and, as a result of the lower confidence, no action was taken; 4) events for user confirmation&#x2014;the system displays events to the user (video, audio, locations, etc.) and requests user classification, optionally showing a proposed system classification.</p>
+<p id="p-0134" num="0129">In some embodiments, for different types of events, the user can listen to audio, view video or images, view locations, and view other sensor data as evidence associated with the event. For each event, the user can confirm or reject the events, as well as enter the required action and level, to provide more input to the system and improve accuracy. Additionally, the user can access audio, video and raw data that has been captured but was not classified as an event. This is useful in identifying behavior patterns which may have been missed by the system. In this case, the user can submit a new event using an event submission screen <b>770</b> by selecting a timeframe <b>775</b> during which the event occurred and providing a classification, action, and level for the event. These events may provide input for continuous training of the system.</p>
+<p id="p-0135" num="0130"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a pictorial diagram of a location <b>800</b> for a use case to illustrate some embodiments of the system <b>200</b>. In this use case, user Sam has a toy poodle named Charlie. Sam lives in New York City in a <b>900</b> square foot apartment. Sam desires to use the system <b>200</b> to train Charlie to not: 1) go into the guest bedroom <b>800</b>; 2) climb on top of his bed <b>820</b>; 3) climb on top of the kitchen table <b>830</b>; and 4) bark at the front door <b>840</b> when someone rings the doorbell.</p>
+<p id="p-0136" num="0131">When Sam acquires the monitoring system <b>200</b>, it has already been customized and trained to know what type of animal Charlie is and the behaviors that are acceptable and prohibited for this type of animal (but not Charlie specifically). To train the system <b>200</b>, Sam: 1) sets up the monitor system <b>200</b> with connected sensors <b>305</b>, <b>310</b> in each of these locations; 2) trains the monitoring system <b>200</b> with the location and/or behavior pattern profiles of the areas that are off limits for behaviors that are prohibited. (e.g., barking at the front door); 3) sets up an animal profile for Charlie; and 4) attaches a collar that is connected to the monitoring system <b>200</b>. Once this is complete, the monitor system <b>200</b> is ready to notify Sam when it detects positive and negative behaviors. It reports these <b>360</b> in his application on his mobile device <b>605</b>B.</p>
+<p id="p-0137" num="0132">In some embodiments, Sam may be able to enable/disable the monitoring devices and/or each type of positive/negative devices through the animal owner user interface <b>700</b>. Sam can configure the monitoring system <b>200</b> to respond to each type of behavior. The monitoring system <b>200</b> may be continuously collecting data about Charlie&#x2019;s behavior. This includes recordings of how many times the monitoring system <b>200</b> needed to communicate with Charlie. The monitoring system <b>200</b> may note at what stage Charlie responded. This information for the goal of weaning Charlie off the monitoring system <b>200</b>.</p>
+<p id="p-0138" num="0133">In this example use case, Charlie is a relatively young puppy. For the first three days and nights, Sam verbally scolds Charlie for being in the three areas that are off-limits. On the fourth night, Sam turns on the monitoring system <b>200</b>. Charlie tries to climb into bed with Sam, which was designated as an &#x201c;off-limits&#x201d; area, and Charlie gets a verbal scolding from the monitoring system <b>200</b>. Charlie ignores the verbal scolding and then his collar vibrates, startling Charlie. The next morning, Charlie tries again to climb onto the bed with Sam and Charlie gets a minor sting through his collar. Charlie yelps and walks away. This happens a couple more times, and then Charlie begins to learn. Sam issues a positive reinforcement from his mobile interface when he sees Charlie sitting by the bed instead of trying to climb up. The system <b>200</b> has collected information about Charlie&#x2019;s behavior over several weeks. Sam sees that Charlie is behaving, even when Sam is not in the apartment. Sam adjusts the system to continue to reward Charlie.</p>
+<heading level="1" id="h-0013">Technical Application</heading>
+<p id="p-0139" num="0134">The one or more embodiments disclosed herein accordingly provide an improvement to computer technology. For example, an improvement to a ML system that is adaptable for use in animal training reflects such a technical application.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20230225290A1-20230720-M00001.NB">
+<img id="EMI-M00001" he="7.37mm" wi="35.90mm" file="US20230225290A1-20230720-M00001.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US20230225290A1-20230720-M00002.NB">
+<img id="EMI-M00002" he="5.00mm" wi="27.77mm" file="US20230225290A1-20230720-M00002.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method for automatic animal behavior training, comprising, using a computer processor:
+<claim-text>receiving user configuration information and user feedback information from a user regarding a specific animal;</claim-text>
+<claim-text>receiving input from sensors for the specific animal; and</claim-text>
+<claim-text>determining a mapping between the input and a set of positive and negative training actions to apply for the animal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>in a generating phase:
+<claim-text>generating a training set based on sensed animal behavior patterns and the received user feedback information;</claim-text>
+</claim-text>
+<claim-text>in a training phase:
+<claim-text>training an animal behavior machine learning (ML) model (MLM) based on the training set;</claim-text>
+</claim-text>
+<claim-text>in an application phase:
+<claim-text>sensing, by the sensors associated with the specific animal, a behavior of the specific animal to produce a sensed behavior; and</claim-text>
+<claim-text>conditioned upon the sensed behavior, providing an animal action.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, further comprising:
+<claim-text>in a validation phase, validating the trained MLM by providing system generated classifications, and a system mapping of actions to behavior patterns of the specific animal, conditioned upon an accuracy rate of the trained MLM being above a predefined threshold.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein actions further include an action type and an action level of a training device for the specific animal.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein the user configuration information and the user feedback information comprise:
+<claim-text>specific animal name, type, breed, age, and weight;</claim-text>
+<claim-text>which of the sensors to use for the specific animal;</claim-text>
+<claim-text>which training devices to use for the specific animal;</claim-text>
+<claim-text>a user mapping of action types and the action levels for the training devices to corresponding behaviors of the specific animal; and</claim-text>
+<claim-text>static definitions of specific sensor data mappings to action types and action levels.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref> further comprising initializing the MLM by starting from a pre-calculated model instance that is associated with an attribute selected from the group consisting of the specific animal&#x2019;s: type, breed, age, and weight.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, further comprising initializing a plurality of MLMs that include the MLM, by starting from a plurality of pre-calculated model instances that are associated with a plurality of the specific animal&#x2019;s: type, breed, age, and weight.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the generating of the training set further comprises receiving user feedback regarding the action type and the action level to take for the behavior of the specific animal.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The method of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the generating of the training set further comprises, to prepare an input record for the training set from sensor input data of the sensors, an operation selected from the group consisting of:
+<claim-text>receiving user input on times when the specific animal&#x2019;s behavior pattern started and ended; and</claim-text>
+<claim-text>automatically determining a start time from which to include the sensor input data in a training record conditioned upon the user not indicating the start time, by using at least one of the following operations
+<claim-text>in each sensor input, searching back for a value which has a larger relative difference from its preceding value above a threshold;</claim-text>
+<claim-text>in each sensor input, searching back for an outlier value;</claim-text>
+<claim-text>taking a value with a largest difference from its preceding value conditioned upon no outlier being found;</claim-text>
+<claim-text>using the found value to delimit and specify the start time with regards to this sensor data;</claim-text>
+<claim-text>limiting the searching back to a time window; and</claim-text>
+<claim-text>selecting a time of an oldest extreme value in the time windows across all the sensors as the start time for the training record.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein a different time length is used for each of the sensors.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the generating of the training set further comprises, to prepare an input record for the training set from the input sensors data, an operation selected from the group consisting of:
+<claim-text>using several fixed size time lengths;</claim-text>
+<claim-text>using, for each time length, a separate set of MLMs;</claim-text>
+<claim-text>using a set of MLMs with a best accuracy in subsequent system phases.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the generating of the training set further comprises, to prepare an input record for the training set from the sensor data, an operation selected from the group consisting of:
+<claim-text>aggregating multiple readings of each sensor into a representative value;</claim-text>
+<claim-text>using at least one of an aggregation and selection operation that is appropriate for each sensor;</claim-text>
+<claim-text>including multiple values from a sensor in a generated training record;</claim-text>
+<claim-text>applying feature extraction techniques for sensor data that includes multiple features;</claim-text>
+<claim-text>removing records that contain outliers in one or more of their sensor record fields;</claim-text>
+<claim-text>applying dimensionality reduction on the records of a training set to select a most efficient sub-set of dimensions to use for training; and</claim-text>
+<claim-text>applying at least one of training set partitioning, sharding, and slicing technique to increase at least one of accuracy and resiliency of the trained MLM.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the validating of the MLM further comprises: 
+<claim-text>providing predictions to the user based on the specific animal&#x2019;s behavior patterns; and</claim-text>
+<claim-text>requesting user validation of the system mapping.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein:
+<claim-text>the providing of the system generated classifications utilizes a classification element selected from the group consisting of:
+<claim-text>the trained MLM results;</claim-text>
+<claim-text>a static mapping of readings by the sensors in ranges or above thresholds, in any combination, to behavior class, action and level; and</claim-text>
+<claim-text>pre-calculated model data;</claim-text>
+</claim-text>
+ the method further comprising:
+<claim-text>using the trained MLM to check the sensor&#x2019;s readings conditioned upon the static mapping of readings not providing a classification;</claim-text>
+<claim-text>aggregating results of various types or instances of MLMs, conditioned upon multiple types or instances of models being used;</claim-text>
+<claim-text>performing an action selected from the group consisting of maintaining, removing, and modifying any sub-set of MLMs based on user input for validating the models, wherein the providing of the action type at the action level is further conditioned upon the system classifications; and</claim-text>
+<claim-text>notifying the user of entering the application phase.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein actions are taken:
+<claim-text>triggered by user feedback in the generating, training and validating phases; and</claim-text>
+<claim-text>based on system predictions in the application phase.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. A computer system for securing the access of a data object in a datastore by a remote system, comprising:
+<claim-text>a memory; and</claim-text>
+<claim-text>a processor that is configured to:
+<claim-text>receive user configuration information and user feedback information from a user regarding a specific animal;</claim-text>
+<claim-text>receive input from sensors for the specific animal; and</claim-text>
+<claim-text>determine a mapping between the input and a set of positive and negative training actions to apply for the animal.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The system of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the processor is configured to:
+<claim-text>in a generating phase:
+<claim-text>generate a training set based on sensed animal behavior patterns and the received user feedback information;</claim-text>
+</claim-text>
+<claim-text>in a training phase:
+<claim-text>train an animal behavior machine learning (ML) model (MLM) based on the training set;</claim-text>
+</claim-text>
+<claim-text>in a validation phase:
+<claim-text>validate the trained MLM by providing system generated classifications, and a system mapping of actions to behavior patterns of the specific animal, conditioned upon an accuracy rate of the trained MLM being above a predefined threshold; and</claim-text>
+</claim-text>
+<claim-text>in an application phase:
+<claim-text>receive, from the sensors associated with the specific animal, a behavior of the specific animal to produce a sensed behavior; and</claim-text>
+<claim-text>conditioned upon the sensed behavior, providing an animal action;</claim-text>
+</claim-text>
+<claim-text>wherein actions further include an action type and an action level of a training device for the specific animal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The system of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the processor is further configured to:
+<claim-text>initialize the MLM by starting from a pre-calculated model instance that is associated with an attribute selected from the group consisting of the specific animal&#x2019;s: type, breed, age, and weight; and</claim-text>
+<claim-text>initialize a plurality of MLMs that include the MLM, by starting from a plurality of pre-calculated model instances that are associated with a plurality of the specific animal&#x2019;s: type, breed, age, and weight.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The system of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the generation of the training set further comprises receiving user feedback regarding the action type and the action level to take for the behavior of the specific animal.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. A computer program product for, the computer program product comprising:
+<claim-text>one or more computer readable storage media, and program instructions collectively stored on the one or more computer readable storage media, the program instructions comprising program instructions to:
+<claim-text>receive user configuration information and user feedback information from a user regarding a specific animal;</claim-text>
+<claim-text>receive input from sensors for the specific animal; and</claim-text>
+<claim-text>determine a mapping between the input and a set of positive and negative training actions to apply for the animal.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225595A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225595</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17578109</doc-number>
+<date>20220118</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>005</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>018</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>0052</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>0057</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>018</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>00133</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>2676</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">STEERABLE SHEATH AND ADJUSTABLE SCOPE ATTACHMENT</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="obligated-assignee">
+<addressbook>
+<orgname>NeuWave Medical, Inc.</orgname>
+<address>
+<city>Madison</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Mingione</last-name>
+<first-name>Louis</first-name>
+<address>
+<city>Madison</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Price</last-name>
+<first-name>Daniel</first-name>
+<address>
+<city>Madison</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Royalty</last-name>
+<first-name>Kevin</first-name>
+<address>
+<city>Madison</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Bissing</last-name>
+<first-name>Jeffrey</first-name>
+<address>
+<city>Madison</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>Weber</last-name>
+<first-name>Samantha</first-name>
+<address>
+<city>Madison</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>Clemans</last-name>
+<first-name>Nathan</first-name>
+<address>
+<city>Madison</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="06" designation="us-only">
+<addressbook>
+<last-name>Wiley</last-name>
+<first-name>Laura</first-name>
+<address>
+<city>Madison</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="07" designation="us-only">
+<addressbook>
+<last-name>Wallace</last-name>
+<first-name>Nathan</first-name>
+<address>
+<city>Madison</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="08" designation="us-only">
+<addressbook>
+<last-name>Bielefeld</last-name>
+<first-name>Eric</first-name>
+<address>
+<city>Madison</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A system comprising an adjustable mount arm, a bronchoscope coupled to the adjustable mount arm, an attachment coupled to the bronchoscope, and a steerable sheath coupled to the attachment and configured to be inserted through the bronchoscope. The system further includes a flexible probe configured to be inserted through the steerable sheath and the bronchoscope.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="204.72mm" wi="154.43mm" file="US20230225595A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="197.78mm" wi="182.54mm" file="US20230225595A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="204.89mm" wi="161.12mm" file="US20230225595A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="220.56mm" wi="165.61mm" file="US20230225595A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="172.04mm" wi="180.68mm" file="US20230225595A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="236.81mm" wi="145.71mm" file="US20230225595A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="166.71mm" wi="165.86mm" file="US20230225595A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="206.76mm" wi="156.46mm" file="US20230225595A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="187.96mm" wi="181.19mm" file="US20230225595A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="203.79mm" wi="151.55mm" file="US20230225595A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="154.86mm" wi="161.21mm" file="US20230225595A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="179.32mm" wi="175.18mm" file="US20230225595A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="232.83mm" wi="141.82mm" file="US20230225595A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="222.93mm" wi="104.39mm" file="US20230225595A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="234.61mm" wi="119.72mm" file="US20230225595A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="225.04mm" wi="168.32mm" file="US20230225595A1-20230720-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="236.14mm" wi="142.41mm" file="US20230225595A1-20230720-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="228.68mm" wi="171.45mm" orientation="landscape" file="US20230225595A1-20230720-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="234.95mm" wi="146.30mm" orientation="landscape" file="US20230225595A1-20230720-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="218.10mm" wi="138.68mm" orientation="landscape" file="US20230225595A1-20230720-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="183.98mm" wi="162.22mm" orientation="landscape" file="US20230225595A1-20230720-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="238.76mm" wi="106.17mm" orientation="landscape" file="US20230225595A1-20230720-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="234.10mm" wi="133.27mm" orientation="landscape" file="US20230225595A1-20230720-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="206.16mm" wi="147.83mm" orientation="landscape" file="US20230225595A1-20230720-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="226.48mm" wi="127.51mm" file="US20230225595A1-20230720-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="128.02mm" wi="177.38mm" file="US20230225595A1-20230720-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present disclosure relates to endoscope accessories, and more particularly to bronchoscope accessories. The devices described herein find use in a variety of endoscopy (e.g., bronchoscopy) applications.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Precise placement of catheters, probes, and other tools is important in many medical procedures. For example, precise placement of an ablation probe is important for transbronchial lung ablation or local drug delivery. Robotic systems can help with precision placement but are often cost prohibitive. Medical procedures with conventional endoscopic systems involve several devices and a single user has difficulty holding and manipulating all the devices in the conventional system.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0004" num="0003">The disclosure provides, in one aspect, a bronchoscope attachment including a mount with a port, and a cradle defining an insertion axis. The insertion axis is aligned with the port. The bronchoscope attachment further includes a linkage positioned between the mount and the cradle. The linkage is movable between a first position in which the cradle is positioned a first distance from the port and the insertion axis is aligned with the port; and a second position in which the cradle is positioned a second distance from the port and the insertion axis is aligned with the port.</p>
+<p id="p-0005" num="0004">In some embodiments, the insertion axis remains aligned with the port in response to movement of the linkage.</p>
+<p id="p-0006" num="0005">In some embodiments, the linkage includes a first arm, a second arm, and an elbow coupled between the first arm and the second arm.</p>
+<p id="p-0007" num="0006">In some embodiments, a first end of the first arm is pivotably coupled to the mount, and a second end of the first arm is pivotably coupled to the elbow.</p>
+<p id="p-0008" num="0007">In some embodiments, a first end of the second arm is coupled to the cradle, and a second end of the second arm is pivotably coupled to the elbow.</p>
+<p id="p-0009" num="0008">In some embodiments, the elbow includes a first gear coupled to the first arm and a second gear coupled to the second arm.</p>
+<p id="p-0010" num="0009">In some embodiments, the first gear is enmeshed with the second gear.</p>
+<p id="p-0011" num="0010">In some embodiments, the first arm includes a first link and a second link, and the second arm includes a third link and a fourth link.</p>
+<p id="p-0012" num="0011">In some embodiments, the second link and the third link are rotatably coupled together by a gear set positioned in the elbow.</p>
+<p id="p-0013" num="0012">In some embodiments, the second arm moves in response to movement of the first arm and the first arm moves in response to movement of the second arm.</p>
+<p id="p-0014" num="0013">In some embodiments, the linkage is a telescopic slide.</p>
+<p id="p-0015" num="0014">In some embodiments, the mount includes a base portion, a door, and a latch.</p>
+<p id="p-0016" num="0015">In some embodiments, the mount includes a first opening partially defined by the door and a second opening at least partially defined by the door, wherein the first opening is aligned with the second opening.</p>
+<p id="p-0017" num="0016">In some embodiments, the port is formed in the base portion.</p>
+<p id="p-0018" num="0017">In some embodiments, the door is movable with respect to the base portion between an open position and a closed position.</p>
+<p id="p-0019" num="0018">In some embodiments, the cradle remains in place in response to the door moving to the open position.</p>
+<p id="p-0020" num="0019">In some embodiments, the latch is actuated to lock the door in the closed position.</p>
+<p id="p-0021" num="0020">In some embodiments, the bronchoscope attachment further includes a seal coupled to the port.</p>
+<p id="p-0022" num="0021">In some embodiments, the mount is rotatable with respect to a bronchoscope.</p>
+<p id="p-0023" num="0022">In some embodiments, the port remains in position as the mount rotates about the port.</p>
+<p id="p-0024" num="0023">The disclosure provides, in one aspect, a steerable sheath including a handle with a housing, a port formed on the housing, and a user input wheel rotatably coupled to the housing. The steerable sheath further includes a sheath extending from the handle. The sheath includes a proximal end coupled to the handle and a distal end. The steerable sheath includes a transmission coupled between the user input wheel and the distal end of the sheath, and actuation of the user input wheel articulates the distal end of the sheath.</p>
+<p id="p-0025" num="0024">In some embodiments, the distal end is curved at an angle with the user input wheel in a neutral position.</p>
+<p id="p-0026" num="0025">In some embodiments, the steerable sheath further includes a detent positioned within the housing. The detent engages the transmission with the user input wheel in the neutral position.</p>
+<p id="p-0027" num="0026">In some embodiments, the angle is 70&#xb0;.</p>
+<p id="p-0028" num="0027">In some embodiments, the user input wheel includes a first indicator visible when the user input wheel is in the neutral position and a second indicator visible when the user input wheel is in a non-neutral position.</p>
+<p id="p-0029" num="0028">In some embodiments, the steerable sheath further includes a braking assembly that adjusts the amount of frictional engagement between the housing and the user input wheel.</p>
+<p id="p-0030" num="0029">In some embodiments, the user input wheel includes a hub positioned around a boss formed on the housing, and the braking assembly includes a sleeve positioned around the boss. The braking assembly further includes a spring washer positioned between the sleeve and the hub, and a fastener to secure the sleeve to the boss. The sleeve is adjustably positioned relative to the hub, and the braking assembly holds the position of the user input wheel when the user input wheel is released by a user.</p>
+<p id="p-0031" num="0030">In some embodiments, the port is connected to the sheath, and wherein an obturator is inserted through the port.</p>
+<p id="p-0032" num="0031">In some embodiments, the user input wheel rotates about an axis, and the axis intersects a sheath axis. A longitudinal axis of the handle is aligned with the sheath axis.</p>
+<p id="p-0033" num="0032">In some embodiments, the handle includes a circumferential groove on an external surface of the housing, and the housing includes a tapered end. The proximal end of the sheath is coupled to the tapered end.</p>
+<p id="p-0034" num="0033">In some embodiments, the transmission includes a drive gear, a belt coupled between the user input wheel and the drive gear, a first rack enmeshed with the drive gear, a second rack enmeshed with the drive gear, and a first pull wire coupled to the first rack. Actuation of the first pull wire articulates the distal end of the sheath.</p>
+<p id="p-0035" num="0034">In some embodiments, the transmission further includes a second pull wire coupled to the second rack, and wherein actuation of the second pull wire articulates the distal end of the sheath.</p>
+<p id="p-0036" num="0035">In some embodiments, the first rack and the second rack translate relative to the drive gear in response to rotation of the user input wheel. In some embodiments, the housing includes a first slot that at least partially receives the first rack and a second slot that at least partially receives the second rack, such that the first rack and the second rack are slidable with respect to the housing.</p>
+<p id="p-0037" num="0036">In some embodiments, the user input wheel is positioned within the handle with a first exposed portion and a second exposed portion, and the housing is positioned between the first exposed portion and the second exposed portion.</p>
+<p id="p-0038" num="0037">In some embodiments, the user input wheel is rotatably coupled to the housing about an axis aligned with a longitudinal axis of the housing, and the user input wheel is an actuation ring.</p>
+<p id="p-0039" num="0038">In some embodiments, the user input wheel is spaced from a proximal end of the housing.</p>
+<p id="p-0040" num="0039">In some embodiments, the transmission includes a linkage coupled to the user input wheel with a pin and a spiral slot. The linkage translates linearly in response to rotation of the user input wheel.</p>
+<p id="p-0041" num="0040">In some embodiments, the transmission includes a planetary gear assembly and a power screw.</p>
+<p id="p-0042" num="0041">In some embodiments, the transmission includes a pawl.</p>
+<p id="p-0043" num="0042">In some embodiments, the transmission includes at least one electrical component, wherein the electrical component is a sensor, an actuator, a power source, or a controller.</p>
+<p id="p-0044" num="0043">The disclosure provides, in one aspect, a system including an adjustable mount arm, a bronchoscope coupled to the adjustable mount arm, an attachment coupled to the bronchoscope, and a steerable sheath coupled to the attachment and configured to be inserted through the bronchoscope.</p>
+<p id="p-0045" num="0044">In some embodiments, the system further includes a flexible probe configured to be inserted through the steerable sheath and the bronchoscope.</p>
+<p id="p-0046" num="0045">In some embodiments, the flexible probe is a microwave ablation probe.</p>
+<p id="p-0047" num="0046">In some embodiments, the system further includes a local drug delivery device configured to be inserted through the steerable sheath and bronchoscope.</p>
+<p id="p-0048" num="0047">In some embodiments, the attachment includes a mount with a port, and a cradle defining an insertion axis. The insertion axis is aligned with the port. The attachment further includes a linkage positioned between the mount and the cradle. The linkage is movable between a first position in which the cradle is positioned a first distance from the port and the insertion axis is aligned with the port; and a second position in which the cradle is positioned a second distance from the port and the insertion axis is aligned with the port.</p>
+<p id="p-0049" num="0048">In some embodiments, the port on the mount receives a port formed on the bronchoscope.</p>
+<p id="p-0050" num="0049">In some embodiments, the mount includes a first opening, and a second opening aligned with the first opening; and the bronchoscope extends through the first opening and the second opening.</p>
+<p id="p-0051" num="0050">In some embodiments, the steerable sheath is releasably coupled to the cradle.</p>
+<p id="p-0052" num="0051">In some embodiments, the steerable sheath includes a handle including a housing, a port formed on the housing, and a user input wheel rotatably coupled to the housing. The steerable sheath further includes a sheath extending from the handle. The sheath includes a proximal end coupled to the handle and a distal end. The steerable sheath further includes a transmission coupled between the user input wheel and the distal end of the sheath. Actuation of the user input wheel articulates the distal end of the sheath.</p>
+<p id="p-0053" num="0052">Other aspects of the disclosure will become apparent by consideration of the detailed description and accompanying drawings.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0054" num="0053">The accompanying figures and examples are provided by way of illustration and not by way of limitation. The foregoing aspects and other features of the disclosure are explained in the following description, taken in connection with the accompanying example figures (also &#x201c;FIG.&#x201d;) relating to one or more embodiments. The patent or application file contains at least one drawing executed in color. Copies of this patent or patent application publication with color drawings will be provided by the Office upon request and payment of the necessary fee.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a system for use in an endoscopic procedure.</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a side view of an adjustable mount arm.</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a perspective view of a system for use in an endoscopic procedure.</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a partial perspective view of a gooseneck dock removably mounted to the adjustable mount arm of <figref idref="DRAWINGS">FIG. <b>2</b></figref>.</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a partial perspective view of a system for use in an endoscopic procedure.</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a side view of a bronchoscope attachment and a steerable sheath coupled to a bronchoscope.</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a perspective view of <figref idref="DRAWINGS">FIG. <b>6</b></figref>, with the bronchoscope attachment rotated with respect to the bronchoscope.</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a partial perspective view of a system for use in an endoscopic procedure.</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a perspective view of a bronchoscope attachment and a steerable sheath, with a bronchoscope shown in phantom lines.</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a perspective view of the bronchoscope attachment of <figref idref="DRAWINGS">FIG. <b>9</b></figref>.</p>
+<p id="p-0065" num="0064"><figref idref="DRAWINGS">FIG. <b>11</b>A</figref> is a perspective view of the bronchoscope attachment of <figref idref="DRAWINGS">FIG. <b>9</b></figref>, separated from the bronchoscope.</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIG. <b>11</b>B</figref> is partial perspective view of the bronchoscope attachment of <figref idref="DRAWINGS">FIG. <b>9</b></figref>, supported on a bronchoscope in a partially installed configuration.</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a cross-sectional view of the bronchoscope attachment of <figref idref="DRAWINGS">FIG. <b>9</b></figref>.</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. <b>13</b>A</figref> is a side view of a system with a bronchoscope attachment and steerable sheath in a first position.</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIG. <b>13</b>B</figref> is a side view of the system of <figref idref="DRAWINGS">FIG. <b>13</b>A</figref> with the bronchoscope attachment and steerable sheath in a second position.</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a side view of a steerable sheath.</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a partial perspective view of the steerable sheath of <figref idref="DRAWINGS">FIG. <b>14</b></figref>.</p>
+<p id="p-0072" num="0071"><figref idref="DRAWINGS">FIG. <b>16</b>A</figref> is a partial perspective view of a steerable sheath with a user input wheel in a neutral position.</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. <b>16</b>B</figref> is a partial perspective view of a steerable sheath with a user input wheel in an actuated position.</p>
+<p id="p-0074" num="0073"><figref idref="DRAWINGS">FIG. <b>16</b>C</figref> is a partial perspective view of a steerable sheath with an obturator removed from a port.</p>
+<p id="p-0075" num="0074"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is a perspective view of a steerable sheath.</p>
+<p id="p-0076" num="0075"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is a perspective view of a steerable sheath.</p>
+<p id="p-0077" num="0076"><figref idref="DRAWINGS">FIG. <b>19</b></figref> is a perspective view of a steerable sheath.</p>
+<p id="p-0078" num="0077"><figref idref="DRAWINGS">FIG. <b>20</b></figref> is a partial side view of the steerable sheath of <figref idref="DRAWINGS">FIG. <b>14</b></figref>, with portions removed for clarity.</p>
+<p id="p-0079" num="0078"><figref idref="DRAWINGS">FIG. <b>21</b></figref> is another partial side view of the steerable sheath of <figref idref="DRAWINGS">FIG. <b>14</b></figref>, with portions removed for clarity.</p>
+<p id="p-0080" num="0079"><figref idref="DRAWINGS">FIG. <b>22</b></figref> is an exploded view of the steerable sheath of <figref idref="DRAWINGS">FIG. <b>14</b></figref>.</p>
+<p id="p-0081" num="0080"><figref idref="DRAWINGS">FIG. <b>23</b></figref> is a partial cross-sectional view of the steerable sheath of <figref idref="DRAWINGS">FIG. <b>14</b></figref>.</p>
+<p id="p-0082" num="0081"><figref idref="DRAWINGS">FIG. <b>24</b></figref> is a perspective cross-sectional view of the steerable sheath of <figref idref="DRAWINGS">FIG. <b>14</b></figref>.</p>
+<p id="p-0083" num="0082"><figref idref="DRAWINGS">FIG. <b>25</b></figref> is a side view of a steerable sheath with a transmission, with portions shown transparently.</p>
+<p id="p-0084" num="0083"><figref idref="DRAWINGS">FIG. <b>26</b></figref> is a perspective view of a steerable sheath with a transmission, with portions removed for clarity.</p>
+<p id="p-0085" num="0084"><figref idref="DRAWINGS">FIG. <b>27</b></figref> is a partial perspective cross-sectional view of a steerable sheath with a transmission, with portions removed for clarity.</p>
+<p id="p-0086" num="0085"><figref idref="DRAWINGS">FIG. <b>28</b></figref> is a perspective and enlarged view of a flexible probe being inserted into a sheath.</p>
+<p id="p-0087" num="0086"><figref idref="DRAWINGS">FIG. <b>29</b></figref> is a perspective view of an anti-buckling device coupled to a flexible probe being inserted into a sheath.</p>
+<p id="p-0088" num="0087"><figref idref="DRAWINGS">FIG. <b>30</b></figref> is a partial perspective view of the anti-buckling device of <figref idref="DRAWINGS">FIG. <b>29</b></figref>, with portions shown transparently for clarity.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0089" num="0088">Before any embodiments are explained in detail, it is to be understood that the invention is not limited in its application to the details of construction and the arrangement of components set forth in the following description or illustrated in the following drawings. The invention is capable of other embodiments and of being practiced or of being carried out in various ways.</p>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0090" num="0089">Unless otherwise defined, all technical and scientific terms used herein have the same meaning as commonly understood by one of ordinary skill in the art. In case of conflict, the present document, including definitions, will control. Preferred methods and materials are described below, although methods and materials similar or equivalent to those described herein can be used in practice or testing of the present disclosure. All publications, patent applications, patents and other references mentioned herein are incorporated by reference in their entirety. The materials, methods, and examples disclosed herein are illustrative only and not intended to be limiting.</p>
+<p id="p-0091" num="0090">The terms &#x201c;comprise(s),&#x201d; &#x201c;include(s),&#x201d; &#x201c;having,&#x201d; &#x201c;has,&#x201d; &#x201c;can,&#x201d; &#x201c;contain(s),&#x201d; and variants thereof, as used herein, are intended to be open-ended transitional phrases, terms, or words that do not preclude the possibility of additional acts or structures. The singular forms &#x201c;a,&#x201d; &#x201c;an&#x201d; and &#x201c;the&#x201d; include plural references unless the context clearly dictates otherwise. The present disclosure also contemplates other embodiments &#x201c;comprising,&#x201d; &#x201c;consisting of&#x201d; and &#x201c;consisting essentially of,&#x201d; the embodiments or elements presented herein, whether explicitly set forth or not.</p>
+<p id="p-0092" num="0091">For the recitation of numeric ranges herein, each intervening number there between with the same degree of precision is explicitly contemplated. For example, for the range of 6-9, the numbers 7 and 8 are contemplated in addition to 6 and 9, and for the range 6.0-7.0, the number 6.0, 6.1, 6.2, 6.3, 6.4, 6.5, 6.6, 6.7, 6.8, 6.9, and 7.0 are explicitly contemplated.</p>
+<p id="p-0093" num="0092">&#x201c;Coupled&#x201d; as used herein refers to two or more components that are secured, by any suitable means, together. Accordingly, in some embodiments, the statement that two or more parts or components are &#x201c;coupled&#x201d; shall mean that the parts are joined or operate together either directly or indirectly, e.g., through one or more intermediate parts or components.</p>
+<p id="p-0094" num="0093">&#x201c;Removably coupled&#x201d; as used herein means that one component is coupled with another component in an essentially temporary manner. That is, the two components are coupled in such a way that the joining or separation of the components is easy and does not damage the components. Accordingly, &#x201c;removably coupled&#x201d; components may be readily uncoupled and recoupled without damage to the components.</p>
+<p id="p-0095" num="0094">&#x201c;Operatively coupled&#x201d; as used herein means that a number of elements or assemblies, each of which is movable between a first position and a second position, or a first configuration and a second configuration, are coupled so that as the first element moves from one position/configuration to the other, the second element moves between positions/configurations as well. It is noted that a first element may be &#x201c;operatively coupled&#x201d; to another without the opposite being true.</p>
+<p id="p-0096" num="0095">Therapeutic endoscopy or interventional endoscopy pertains to an endoscopic procedure during which a treatment (e.g., tissue ablation) (e.g., tissue collection) is carried out via the endoscope. This contrasts with diagnostic endoscopy, where the aim of the procedure is purely to visualize an internal part of a body (e.g., gastrointestinal region, respiratory region, urinary tract region, etc.) in order to aid diagnosis. In practice, a procedure which starts as a diagnostic endoscopy may become a therapeutic endoscopy depending on the findings.</p>
+<p id="p-0097" num="0096">Generally, therapeutic endoscopy involves the administration of an endoscope (&#x201c;primary catheter&#x201d;) into a body region until a natural stopping positioning is reached (e.g., until the circumference of the body region inhibits further advancement of the endoscope). Next, a flexible sheath having a circumference smaller than the circumference of the endoscope is advanced through the endoscope and to a desired body region location. Next, a therapeutic or diagnostic tool (e.g., an ablation energy delivery tool) (e.g., a tissue collection tool) (e.g., biopsy needle) having a circumference smaller than the diameter of the flexible sheath is advanced through the flexible sheath to the desired body region location. Next, ablation energy is delivered to the desired body region location. Upon completion of the therapeutic endoscopy, the ablation energy delivery tool is withdrawn through the flexible sheath, the flexible sheath is withdrawn through the endoscope, and the endoscope is withdrawn from the subject.</p>
+<p id="p-0098" num="0097">With reference to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, a system <b>10</b> for performing an endoscopic procedure on a patient <b>14</b> is illustrated. The system <b>10</b> includes an adjustable mount arm <b>18</b> coupled to a patient bed <b>22</b>, and a bronchoscope <b>26</b> coupled to the adjustable mount arm <b>18</b>. An attachment <b>30</b> (i.e., a bronchoscope attachment, a support arm) is coupled to the bronchoscope <b>26</b> and a steerable sheath <b>34</b> is coupled to the attachment <b>30</b>. As described in greater detail herein, the steerable sheath <b>34</b> is configured to be inserted through the bronchoscope <b>26</b> and a flexible probe <b>38</b> (e.g., a microwave ablation probe) is configured to be inserted through the steerable sheath <b>34</b> and the bronchoscope <b>26</b>. In some embodiments, a medical imaging device <b>40</b> (e.g., X-ray, fluoroscopy, CT, etc.) is utilized with the system <b>10</b> to aid positioning of the bronchoscope <b>26</b>, the steerable sheath <b>34</b>, and the flexible probe <b>38</b> within the patient <b>14</b>. Although the system <b>10</b> is illustrated with a bronchoscope <b>26</b>, the systems disclosed herein can be utilized with any type of endoscope or &#x201c;scope.&#x201d;</p>
+<p id="p-0099" num="0098">With reference to <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref>, the adjustable mount arm <b>18</b> includes a base rail attachment <b>42</b> that allows a user to place the adjustable mount arm <b>18</b> on a bedside surgical rail <b>46</b>. In some embodiment, the base rail attachment <b>42</b> includes a clamp <b>50</b> and a knob <b>54</b> for adjusting the clamp <b>50</b>. For example, a user may loosen the knob <b>54</b>; place the clamp <b>50</b> onto the bed rail <b>46</b>; and tighten the knob <b>54</b> to secure the clamp <b>50</b> and the adjustable mount arm <b>18</b> to the bed rail <b>46</b>.</p>
+<p id="p-0100" num="0099">With continued reference to <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the adjustable mount arm <b>18</b> includes a first member <b>58</b> and a second member <b>62</b> rotatably coupled by an adjustable elbow <b>66</b>. The adjustable elbow <b>66</b> includes a knob <b>70</b> to releasably lock the adjustable elbow <b>66</b> in a desired position. For example, a user may loosen the knob <b>70</b>; articulate the adjustable elbow <b>66</b> to position the first and second members <b>58</b>, <b>62</b> in the desired positions; and tighten the knob <b>70</b> to secure the adjustable elbow <b>66</b> and members <b>58</b>, <b>62</b> in position.</p>
+<p id="p-0101" num="0100">With continued reference to <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the adjustable mount arm <b>18</b> includes a bronchoscope claw <b>74</b> with a plurality of gripping fingers <b>78</b>. The bronchoscope claw <b>74</b> is configured to receive and hold the bronchoscope <b>26</b> in position relative to the adjustable mount arm <b>18</b>. For example, the bronchoscope claw <b>74</b> is opened by a user and positioned around the bronchoscope <b>26</b> (e.g., the bronchoscope handle) to easily dock the bronchoscope <b>26</b> on the adjustable mount arm <b>18</b>. In some embodiments, the plurality of gripping fingers <b>78</b> includes a non-scratch coating to prevent damage to the bronchoscope <b>26</b>.</p>
+<p id="p-0102" num="0101">In operation, the adjustable mount arm <b>18</b> is attached to the bed rail <b>46</b> and the bronchoscope <b>26</b> is clasped within the bronchoscope claw <b>74</b>. Next, the relative positions of the first member <b>58</b> and the second member <b>62</b> may be adjusted by moving the adjustable elbow <b>66</b>. As such, the bronchoscope <b>26</b> is supported in a variety of positions relative to the bed rail <b>46</b> by the adjustable mount arm <b>18</b>. In some embodiments, the claw <b>74</b> is aligned with the patient's mouth to help prevent the creation of bends in the bronchoscope.</p>
+<p id="p-0103" num="0102">With reference to <figref idref="DRAWINGS">FIG. <b>3</b></figref>, in some embodiments, the adjustable mount arm <b>18</b> includes a support bracket <b>82</b> to hold a power distribution module (PDM) <b>86</b> for the flexible ablation probe <b>38</b> on the adjustable mount arm <b>18</b> in close proximity to the bronchoscope <b>26</b>. In some embodiments, the power distribution module <b>86</b> is removably coupled to the support bracket <b>82</b> with a dovetail slot arrangement. In some embodiments, the support bracket <b>82</b> includes a magnet <b>90</b> to help retain the power distribution module <b>86</b> in position relative to the support bracket <b>82</b>. In the illustrated embodiment, the power distribution module <b>86</b> includes a power cord <b>94</b> extending therefrom. The power distribution module <b>86</b> is configured to be electrically coupled to the flexible ablation probe <b>38</b>. In some embodiments, the power distribution module <b>86</b> controls the microwave energy emitted from the flexible probe <b>38</b>.</p>
+<p id="p-0104" num="0103">With continued reference to <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the flexible ablation probe <b>38</b> includes a plug <b>98</b> that is electrically coupled to the power distribution module <b>86</b>. In the illustrated embodiment, the plug <b>98</b> includes keyed features to ensure proper orientation of the plug <b>98</b> relative to the power distribution module <b>86</b>. In some embodiments, the flexible probe <b>38</b> is then inserted directly into the bronchoscope <b>26</b> (<figref idref="DRAWINGS">FIG. <b>3</b></figref>). In the illustrated embodiment, the flexible probe <b>38</b> is inserted into a port <b>102</b> formed on the bronchoscope <b>102</b>. In some embodiments, the flexible ablation probe <b>38</b> can provide therapy by delivering microwave energy to targeted tumors.</p>
+<p id="p-0105" num="0104">With reference to <figref idref="DRAWINGS">FIG. <b>4</b></figref>, in some embodiments, the adjustable mount arm <b>18</b> includes a support bracket <b>106</b> for a gooseneck dock <b>110</b>. In the illustrated embodiment, the gooseneck dock <b>110</b> includes a mount <b>114</b> removably coupled to the support bracket <b>106</b> at a first end <b>118</b> and a cradle <b>122</b> for supporting a steerable sheath or other tool at a second end <b>126</b>. In some embodiments, the cradle <b>122</b> is configured to support a variety of endoscopic tools or therapy devices. In some embodiments, the mount <b>114</b> is removably coupled to the support bracket <b>106</b> with a dovetail arrangement. In some embodiments, the dovetail arrangement is the same dovetail arrangement for mounting the power distribution module <b>86</b> to the support bracket <b>82</b>.</p>
+<p id="p-0106" num="0105">A flexible member <b>130</b> extends between the mount <b>114</b> and the cradle <b>122</b>, and the flexible member <b>130</b> is repositionable by a user, and the flexible member <b>130</b> retains its shape and position when released by a user. In other words, the flexible member <b>130</b> has sufficient strength to support a tool (e.g., a steerable sheath) in a variety of positions and orientations and can be manipulated with a single hand to move the cradle <b>122</b> and the tool to different locations.</p>
+<p id="p-0107" num="0106">With reference to <figref idref="DRAWINGS">FIG. <b>5</b></figref>, the cradle <b>122</b> includes a magnetic mount <b>134</b> that magnetically couples to a steerable sheath <b>138</b>. In the illustrated embodiment, the steerable sheath <b>138</b> includes a ferrous portion <b>142</b> (i.e., a ferrous sleeve) that is magnetically attracted to the magnetic mount <b>134</b>. The magnetic mount <b>134</b> allows for the user to make finite position manipulations of the steerable sheath <b>138</b> (e.g., rotation, insertion, winnowing, etc.) while the steerable sheath <b>138</b> remains coupled to the cradle <b>122</b>. The cradle <b>122</b> stabilizes the steerable sheath <b>138</b> for insertion of the steerable sheath <b>138</b> into the bronchoscope <b>26</b>. Advantageously, the gooseneck dock <b>110</b> supports the steerable sheath <b>138</b> while the steerable sheath <b>138</b> is positioned within the bronchoscope <b>26</b>. The gooseneck dock <b>110</b> is scope agnostic (i.e., can work with any type of endoscope) and can hold a tool in various positions and orientations with respect to a scope.</p>
+<p id="p-0108" num="0107">With reference to <figref idref="DRAWINGS">FIG. <b>6</b></figref>, a system <b>146</b> is illustrated with the bronchoscope <b>26</b>, a steerable sheath <b>150</b>, and a bronchoscope attachment <b>154</b>. In the illustrated embodiment, the bronchoscope attachment <b>154</b> includes a mount <b>158</b> with a port <b>162</b> (e.g., an aperture) corresponding to the port <b>102</b> on the bronchoscope <b>26</b>. The bronchoscope attachment <b>154</b> further includes a cradle <b>166</b> that defines an insertion axis <b>170</b>. In the illustrated embodiment, the insertion axis <b>170</b> of the cradle <b>166</b> is aligned with an insertion axis <b>174</b> of the port <b>102</b> on the bronchoscope <b>26</b>.</p>
+<p id="p-0109" num="0108">With continued reference to <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the bronchoscope attachment <b>154</b> includes a linkage <b>178</b> positioned between the mount <b>158</b> and the cradle <b>166</b>. As explained in greater detail herein, the linkage <b>174</b> is movable between a first position in which the cradle <b>166</b> is positioned a first distance from the port <b>102</b> and the insertion axis <b>170</b> is aligned with the insertion axis <b>174</b> of the port <b>102</b>, and a second position in which the cradle <b>166</b> is positioned a second distance from the port <b>102</b> and the insertion axis <b>170</b> is aligned with the insertion axis <b>174</b> of the port <b>102</b>. In other words, the linkage <b>178</b> is movable to adjust the distance the cradle <b>166</b> is positioned from the port <b>102</b>, while keeping the insertion axis <b>170</b> of the cradle <b>166</b> aligned with the port <b>102</b>. As such, the insertion axis <b>170</b> remains aligned with the insertion axis <b>174</b> of the port <b>102</b> in response to movement of the linkage <b>178</b>.</p>
+<p id="p-0110" num="0109">With continued reference to <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the linkage <b>178</b> includes a first link <b>182</b>, a second link <b>186</b>, a third link <b>190</b>, and a fourth link <b>194</b>. At a first end <b>198</b>, the first link <b>182</b> and the second link <b>186</b> are coupled to the mount <b>158</b>. At a second end <b>202</b>, opposite the first end <b>198</b>, the first link <b>182</b> and the second link <b>186</b> are coupled to an elbow <b>206</b>. At a first end <b>210</b>, the third link <b>190</b> and the fourth link <b>194</b> are coupled to the cradle <b>166</b>. At a second end <b>214</b>, opposite the first end <b>210</b>, the third link <b>190</b> and the fourth link <b>194</b> are coupled to the elbow <b>206</b>. In the illustrated embodiment, the elbow <b>206</b> includes a first gear <b>218</b> coupled to the second link <b>186</b> and a second gear <b>222</b> coupled to the third link <b>190</b> such that the second and third links <b>186</b>, <b>190</b> are rotatably coupled together. In the illustrated embodiment, the first gear <b>218</b> is integrally formed with the second link <b>186</b> and the second gear <b>222</b> is integrally formed with the third link <b>190</b>. Advantageously, the third and fourth links <b>190</b>, <b>194</b> move in response to movement of the first and second links <b>182</b>, <b>186</b> (and vice versa) such that the distance between the cradle <b>166</b> and the bronchoscope <b>26</b> changes while maintaining the insertion axis <b>170</b> aligned with the port <b>102</b> on the bronchoscope <b>26</b>.</p>
+<p id="p-0111" num="0110">With reference to <figref idref="DRAWINGS">FIG. <b>7</b></figref>, in the illustrated embodiment, the mount <b>158</b> of the bronchoscope attachment <b>154</b> is rotatable with respect to the bronchoscope <b>26</b>. In other words, the bronchoscope attachment <b>154</b> is rotatable about the insertion axis <b>170</b> and the insertion axis <b>174</b> extending through the ports <b>162</b>, <b>102</b> respectively. The port <b>162</b> on the mount <b>158</b> remains in position as the mount <b>158</b> rotates about the port <b>162</b>. Advantageously, the bronchoscope attachment <b>154</b> can be rotated about the insertion axis <b>170</b>, <b>174</b> by a user during a procedure as desired.</p>
+<p id="p-0112" num="0111">With reference to <figref idref="DRAWINGS">FIG. <b>8</b></figref>, a system <b>226</b> is illustrated with the adjustable mount arm <b>18</b>, a bronchoscope attachment <b>230</b>, the steerable sheath <b>150</b>, and the bronchoscope <b>26</b>. The bronchoscope attachment <b>230</b> includes a mount <b>234</b>, a cradle <b>238</b>, and a linkage <b>242</b> that is a telescopic slide extending between the mount <b>234</b> and the cradle <b>238</b>. In the illustrated embodiment, the linkage <b>242</b> includes a first slide member <b>246</b> and a second slide member <b>250</b>, and the slide members <b>246</b>, <b>250</b> are slidable with respect to each other to position the cradle <b>238</b> a variety of distances from the bronchoscope <b>26</b> while maintain alignment of an insertion axis <b>254</b> of the cradle <b>238</b> with the insertion axis <b>174</b> of the bronchoscope port <b>102</b>.</p>
+<p id="p-0113" num="0112">With reference to <figref idref="DRAWINGS">FIG. <b>9</b></figref>, a system <b>258</b> is illustrated with the bronchoscope <b>26</b>, a bronchoscope attachment <b>262</b> (i.e., a support arm, a symmetric arm), and a steerable sheath <b>266</b>. The bronchoscope attachment <b>262</b> includes a mount <b>270</b> with a port <b>274</b> corresponding to the port <b>102</b> on the bronchoscope <b>26</b>. The bronchoscope attachment <b>262</b> further includes a cradle <b>278</b> defining an insertion axis <b>282</b> that is aligned with the insertion axis <b>174</b> of the port <b>102</b>. A linkage <b>286</b> is positioned between the mount <b>270</b> and the cradle <b>278</b>. The linkage <b>286</b> is movable between a first position (<figref idref="DRAWINGS">FIG. <b>13</b>A</figref>) in which the cradle <b>278</b> is positioned a first distance <b>290</b> from the port <b>102</b> and the insertion axis <b>282</b> is aligned with the insertion axis <b>174</b> of the port <b>102</b>; and a second position (<figref idref="DRAWINGS">FIG. <b>13</b>B</figref>) in which the cradle <b>278</b> is positioned a second distance <b>294</b> from the port <b>102</b> and the insertion axis <b>282</b> is aligned with the insertion axis <b>174</b> of the port <b>102</b>. In other words, the linkage <b>286</b> is movable to adjust the distance the cradle <b>278</b> is positioned from the port <b>102</b> on the bronchoscope <b>26</b> while keeping the insertion axis <b>282</b> aligned with the port <b>102</b>. As such, the insertion axis <b>282</b> of the cradle <b>278</b> remains aligned with the insertion axis <b>174</b> of the port <b>102</b> in response to movement of the linkage <b>286</b>.</p>
+<p id="p-0114" num="0113">Advantageously, the bronchoscope attachments disclosed herein (e.g., bronchoscope attachment <b>154</b>, <b>230</b>, <b>262</b>) allows a single user to hold and manipulate both the bronchoscope and the steerable sheath as a single unit with a single hand. The bronchoscope attachment solves the problem of needing multiple operators to control a variety of devices during a medical procedure. The bronchoscope attachment can be attached to the bronchoscope with one hand. The bronchoscope attachment maintains the position and distance of the sheath relative to the bronchoscope working channel port. The cradle provides a snap-fit design to easily click in and out the steerable sheath. The bronchoscope attachment also reduces the likelihood of the sheath kinking because the insertion axes remain aligned. In some embodiments, the bronchoscope attachment is configured to support a variety of endoscopic tools or therapy devices. In some embodiments, the bronchoscope attachment is coupled to the adjustable mount arm <b>18</b>.</p>
+<p id="p-0115" num="0114">With reference to <figref idref="DRAWINGS">FIGS. <b>10</b> and <b>12</b></figref>, the linkage <b>286</b> includes a first arm <b>298</b>, a second end <b>302</b>, and an elbow <b>306</b> coupled between the first arm <b>298</b> and the second arm <b>302</b>. A first end <b>310</b> of the first arm <b>298</b> is pivotably coupled to the mount <b>270</b>, and a second end <b>314</b> of the first arm <b>298</b> is pivotably coupled to the elbow <b>306</b>. A first end <b>318</b> of the second arm <b>302</b> is coupled to the cradle <b>278</b>, and a second end <b>322</b> of the second arm <b>302</b> is pivotably coupled to the elbow <b>306</b>. In the illustrated embodiment, the elbow <b>306</b> includes a first gear <b>326</b> coupled to the first arm <b>298</b> and a second gear <b>330</b> coupled to the second arm <b>302</b>. In the illustrated embodiment, the first gear <b>326</b> is enmeshed with the second gear <b>330</b>.</p>
+<p id="p-0116" num="0115">With continued reference to <figref idref="DRAWINGS">FIG. <b>12</b></figref>, the first arm <b>298</b> includes a first link <b>334</b> and a second link <b>338</b>, and the second arm <b>302</b> includes a third link <b>342</b> and a fourth link <b>346</b>. In the illustrated embodiment, the second link <b>338</b> and the third link <b>342</b> are rotatably coupled together by a gear set <b>350</b> (i.e., the first gear <b>326</b> and the second gear <b>330</b>) positioned in the elbow <b>306</b>. In the illustrated embodiment, the first gear <b>326</b> is integrally formed with the second link <b>338</b> and the second gear <b>330</b> is integrally formed with the third link <b>342</b>. As such, the second arm <b>302</b> moves in response to movement of the first arm <b>298</b>, and the first arm <b>298</b> moves in response to movement of the second arm <b>302</b>. The linkage <b>286</b> permits smooth insertion and retraction of the steerable sheath <b>266</b> while maintaining the same insertion trajectory along the insertion axis <b>174</b> (i.e., the insertion axis <b>282</b> remains aligned with the insertion axis <b>174</b>). For example, an operator can pull on the second arm <b>302</b> or cradle <b>278</b> to retract the steerable sheath <b>266</b> from the bronchoscope <b>26</b> or push down on the second arm <b>302</b> or cradle <b>278</b> to insert the steerable sheath <b>266</b> into the bronchoscope <b>26</b>, while maintain alignment of axes <b>282</b>, <b>174</b>).</p>
+<p id="p-0117" num="0116">With reference to <figref idref="DRAWINGS">FIGS. <b>10</b>, <b>11</b>A, and <b>11</b>B</figref>, the mount <b>270</b> is a collar with a base portion <b>354</b> and a door <b>358</b> movable with respect to the base portion <b>354</b> between an open position (<figref idref="DRAWINGS">FIGS. <b>11</b>A and <b>11</b>B</figref>) and a closed position (<figref idref="DRAWINGS">FIGS. <b>9</b> and <b>10</b></figref>). The mount <b>270</b> further includes a latch <b>362</b> to selectively lock the door <b>358</b> in the closed position. In the illustrated embodiment, the latch <b>362</b> is actuated by a user to lock the door <b>358</b> in the closed position. In some embodiments, the mount <b>270</b> at least partially wraps around the bronchoscope <b>26</b>. In the illustrated embodiment, the base portion <b>354</b> and the door <b>358</b> together wrap entirely around the bronchoscope <b>26</b> when the door <b>358</b> is in the closed position. The mount <b>270</b> includes a first opening <b>366</b> partially defined by the door <b>358</b> and a second opening <b>370</b> at least partially defined by the door <b>358</b>. In the illustrated embodiment, the first opening <b>366</b> is aligned with the second opening <b>370</b> and both openings <b>366</b>, <b>370</b> are configured to receive the bronchoscope <b>26</b> such that the bronchoscope <b>26</b> extends through both the first opening <b>366</b> and the second opening <b>370</b>.</p>
+<p id="p-0118" num="0117">With reference to <figref idref="DRAWINGS">FIGS. <b>9</b> and <b>10</b></figref>, the port <b>274</b> of the mount <b>270</b> is formed in the base portion <b>354</b>. In the illustrated embodiment, the port <b>274</b> is an aperture configured to receive the port <b>102</b> of the bronchoscope <b>26</b>. In other words, the port <b>102</b> on the bronchoscope <b>26</b> extends through the port <b>274</b> of the mount <b>270</b>. In some embodiments, a seal is coupled to the port <b>274</b> and or the port <b>102</b> to create a seal around any tool or instrument inserted into the bronchoscope <b>26</b>. In other words, the seal creates an airtight seal around devices inserted into the bronchoscope <b>26</b> and allows operators to immediately act in response to emergencies without requiring disassembly of the bronchoscope attachment <b>262</b>.</p>
+<p id="p-0119" num="0118">Advantageously, the bronchoscope attachment <b>262</b> is configured to rest (i.e., to be supported by, hung from, etc.) the bronchoscope <b>26</b> during installation of the bronchoscope attachment <b>262</b>. In other words, after the mount <b>270</b> is coupled to the bronchoscope <b>26</b> such that the port <b>102</b> extends through the port <b>274</b>, the bronchoscope attachment <b>262</b> is supported on the bronchoscope <b>26</b> such that an operator could remove their hands from the bronchoscope attachment <b>262</b> and the bronchoscope attachment <b>262</b> remains in position. As such, the bronchoscope attachment <b>262</b> is partially installed on the bronchoscope <b>26</b> with the door <b>358</b> in the open position (moving from <figref idref="DRAWINGS">FIGS. <b>11</b>A</figref> to <figref idref="DRAWINGS">FIG. <b>11</b>B</figref>), and then the bronchoscope attachment <b>262</b> is fully supported on the bronchoscope <b>26</b>. Advantageously, the bronchoscope attachment <b>262</b> is more easily attached to the bronchoscope <b>26</b> with fewer operator hands required. For example, the operator is able to install (or partially install) the bronchoscope attachment <b>262</b> onto the bronchoscope <b>26</b> with one hand before or after navigation of the bronchoscope <b>26</b>. The door <b>358</b> is then moved to the closed position, and the latch <b>362</b> is actuated to secure the door <b>358</b> in the closed position to secure the bronchoscope attachment <b>262</b> to the bronchoscope <b>26</b>. To remove the bronchoscope attachment <b>262</b> from the bronchoscope <b>26</b>, the latch <b>362</b> is actuated to release the door <b>358</b> and allow the door <b>358</b> to move from the closed position to the open position. The base portion <b>354</b>, the linkage <b>286</b>, and the cradle <b>278</b> remain in position in response to the door <b>358</b> moving from the closed position to the open position. In other words, the bronchoscope attachment <b>262</b> remains supported on the bronchoscope <b>26</b> when the door <b>358</b> is moved to the open position.</p>
+<p id="p-0120" num="0119">With reference to <figref idref="DRAWINGS">FIG. <b>14</b></figref>, the steerable sheath <b>266</b> includes a handle <b>374</b> with a housing <b>378</b>, a port <b>382</b> formed on the housing <b>378</b>, and a user input wheel <b>386</b> rotatably coupled to the housing <b>378</b>. A sheath <b>390</b> extends from the housing <b>378</b>, and the sheath <b>390</b> includes a proximal end <b>394</b> coupled to the handle <b>374</b> and a distal end <b>398</b> opposite the proximal end <b>394</b>. The distal end <b>398</b> is articulated by user actuation of the user input wheel <b>386</b>, with two articulated positions shown in phantom lines in <figref idref="DRAWINGS">FIG. <b>14</b></figref>. A transmission <b>402</b> is coupled between the user input wheel <b>386</b> and the distal end <b>398</b> of the sheath <b>390</b>, and actuation of the user input wheel <b>386</b> articulates the distal end <b>398</b> of the sheath <b>390</b>. In the illustrated embodiment, the sheath <b>390</b> is a pre-curved sheath such that the distal end <b>398</b> is curved at an angle <b>406</b> while the user input wheel <b>386</b> is in a neutral position. In some embodiments, the angle <b>406</b> is within a range of approximately 45 degrees to approximately 180 degrees. In some embodiments, the angle <b>406</b> is approximately 70 degrees. In some embodiment, the pre-curve allows for airway navigation without having to initially articulate. In some embodiments, articulation of the distal end with the pre-curve (i.e., articulation in the same direction of the pre-curve) allows for a greater amount or articulation in the direction of the pre-curve.</p>
+<p id="p-0121" num="0120">With reference to <figref idref="DRAWINGS">FIGS. <b>9</b> and <b>15</b></figref>, the handle <b>374</b> of the steerable sheath <b>266</b> snaps into the cradle <b>278</b>. In other words, the steerable sheath <b>266</b> is releasably coupled to the cradle <b>278</b>. In the illustrated embodiment, the handle <b>374</b> includes a circumferential groove <b>410</b> on an external surface <b>414</b> of the housing <b>378</b>. In the illustrated embodiment, the circumferential groove <b>410</b> extends 360 degrees around the external surface <b>414</b> of the housing <b>378</b>. In other embodiments, the circumferential groove <b>410</b> extends less than 360 degrees around the housing <b>378</b>. The housing <b>378</b> includes a tapered end <b>418</b>, and the proximal end <b>394</b> of the sheath <b>390</b> is coupled to the tapered end <b>418</b>. As such, the cradle <b>278</b> is configured to hold the steerable sheath <b>266</b> in position during navigation, imaging, confirmation, and ablation. The sheath <b>390</b> can be rotated, articulated, inserted into the bronchoscope <b>26</b>, and retracted from the bronchoscope <b>26</b> all while remaining docked in the cradle <b>278</b>.</p>
+<p id="p-0122" num="0121">The precise positioning of the flexible probe <b>38</b> when used for lung ablation, for example, is challenging with conventional sheaths and extended working channels, which are primarily static with pre-curved ends that straighten during probe or tool insertion. Conventional sheaths to not provide means to change the trajectory of the probe once placed through the sheath and therefore can become dependent on the patient's airway structure to access the target lesion. Advantageously, the steerable sheaths disclosed herein (e.g., steerable sheath <b>34</b>, <b>138</b>, <b>150</b>, <b>266</b>, <b>434</b>, <b>458</b>, <b>482</b>, <b>582</b>, <b>642</b>, <b>690</b>) improve the precision and control over the positioning of the flexible probe <b>38</b>. The steerable sheath can steer via articulation pull wires and can work with or without a bronchoscope. The steerable sheath allows one-hand use to control insertion and/or removable, rotation, and articulation in more than one direction. The steerable sheath facilitates use in a vertical position for a pulmonary procedure, in contrast to horizontal for sheaths used in cardiac procedures. In some embodiments, the steerable sheath may include axial symmetry to allow for the steerable sheath to be docked in a cradle and still rotate relative to the cradle. The steerable sheath does not require a robotic platform, which can be cost prohibitive. In some embodiments, the steerable sheath is utilized to place other endoscopic tools, therapy device, biopsy device, or local drug delivery device. In some embodiments, the system includes a local drug delivery device (e.g., a flexible needle) configured to be inserted through the steerable sheath and the bronchoscope. In some embodiments, the system includes a diagnostic biopsy tool configured to be inserted through the steerable sheath and the bronchoscope.</p>
+<p id="p-0123" num="0122">With reference to <figref idref="DRAWINGS">FIG. <b>15</b></figref>, the user input wheel <b>386</b> is rotatable about an axis <b>422</b> that intersects a sheath axis <b>426</b> defined by the sheath <b>390</b>. In the illustrated embodiment, the axis <b>422</b> is perpendicular to the sheath axis <b>426</b>. In the illustrated embodiment, the sheath axis <b>426</b> is also a longitudinal axis of the handle <b>374</b>.</p>
+<p id="p-0124" num="0123">With reference to <figref idref="DRAWINGS">FIG. <b>17</b></figref>, a handle <b>430</b> for a steerable sheath <b>434</b> is illustrated. The handle <b>430</b> includes a housing <b>438</b> and a user input wheel <b>442</b> that is rotatably coupled to the housing <b>438</b> about an axis <b>446</b> aligned with a longitudinal axis <b>450</b> of the handle <b>430</b> (which is also a sheath axis in the illustrate embodiment). In the illustrated embodiment, the user input wheel <b>442</b> is an actuator ring that wraps <b>360</b> degrees around an outer circumference <b>454</b> of the housing <b>438</b>.</p>
+<p id="p-0125" num="0124">With reference to <figref idref="DRAWINGS">FIG. <b>18</b></figref>, a handle <b>454</b> for a steerable sheath <b>458</b> is illustrated. The handle <b>454</b> includes a housing <b>462</b> and a user input wheel <b>466</b> that is positioned within the housing <b>462</b> with a first exposed portion <b>470</b> and a second exposed portion <b>474</b>. The housing <b>462</b> is positioned between the first exposed portion <b>470</b> and the second exposed portion <b>474</b>. In other words, the user input wheel <b>466</b> extends from the housing <b>462</b> at two distinct locations with a portion of the housing <b>462</b> separated the two portions <b>470</b>, <b>474</b>.</p>
+<p id="p-0126" num="0125">With reference to <figref idref="DRAWINGS">FIG. <b>19</b></figref>, a handle <b>478</b> for a steerable sheath <b>482</b> is illustrated. The handle <b>478</b> includes a user input wheel <b>486</b> that is rotatably coupled to a housing <b>490</b>. In the illustrated embodiment, the user input wheel <b>486</b> is spaced from a proximal end <b>494</b> of the housing <b>490</b> and extends from a top surface <b>498</b> of the housing <b>490</b>.</p>
+<p id="p-0127" num="0126">With reference to <figref idref="DRAWINGS">FIGS. <b>16</b>A-<b>16</b>C</figref>, the user input wheel <b>386</b> of the steerable sheath <b>266</b> includes a first indicator <b>502</b> visible when the user input wheel <b>386</b> is in the neutral position (<figref idref="DRAWINGS">FIG. <b>16</b>A</figref>) and a second indicator <b>506</b> visible when the user input wheel <b>386</b> is in a non-neutral position (<figref idref="DRAWINGS">FIG. <b>16</b>B</figref>). In other words, the first indicator <b>502</b> provides indication to the operator that that distal end <b>398</b> of the sheath <b>390</b> is in the neural position. In the illustrated embodiment, the first indicator <b>502</b> aligns with a corresponding rib <b>510</b> formed on the housing <b>378</b> when the distal end <b>398</b> of the sheath <b>390</b> is in the neutral position. As detailed herein, in some embodiments, the distal end <b>398</b> of the sheath <b>390</b> is curved in the neutral position. The second indicator <b>506</b> provides indication to the operator that the distal end <b>398</b> of the sheath <b>390</b> is in an actuated position. In the illustrated embodiment, the second indicator <b>506</b> is a contrasting color (e.g., red) to alert the operator that the distal end <b>398</b> is actuated before, for example, the operator attempts to withdraw or retract the steerable sheath <b>266</b> partly or wholly from the bronchoscope <b>26</b>. For example, prior to performing an ablation, the sheath distal end should be retracted out of the planned ablation zone.</p>
+<p id="p-0128" num="0127">An obturator <b>514</b> is insertable through the port <b>382</b> on the handle <b>374</b> and into the sheath <b>390</b> to aid in positioning of the sheath <b>390</b> in the bronchoscope <b>26</b>, for example. With reference to <figref idref="DRAWINGS">FIG. <b>23</b></figref>, the port <b>382</b> is connected to the sheath <b>390</b>. In some embodiments, a friction fit holds the obturator <b>514</b> in place. The obturator <b>514</b> is removable from the port <b>382</b> (<figref idref="DRAWINGS">FIG. <b>16</b>C</figref>). With obturator <b>514</b> removed, the port <b>382</b> is configured to receive the flexible probe <b>38</b>. In some embodiments, the port <b>382</b> is funnel shaped.</p>
+<p id="p-0129" num="0128">With reference to <figref idref="DRAWINGS">FIGS. <b>20</b>-<b>22</b></figref>, the transmission <b>402</b> of the steerable sheath <b>266</b> includes a drive gear <b>518</b> and a belt <b>522</b> coupled between the user input wheel <b>386</b> and the drive gear <b>518</b>. In some embodiments, the belt <b>522</b> is a Kevlar belt. In the illustrated embodiment, the user input wheel <b>386</b> includes a gear <b>524</b> formed thereon and is coupled to the belt <b>522</b>. In other words, the belt <b>522</b> rotatably couples the gear <b>524</b> with the drive gear <b>518</b>. The transmission <b>402</b> further includes a first rack <b>526</b> enmeshed with the drive gear <b>518</b> and a second rack <b>530</b> enmeshed with the drive gear <b>518</b>. A first pull wire <b>534</b> is coupled to the first rack <b>526</b> and a second pull wire <b>538</b> is coupled to the second rack <b>530</b>. In some embodiments, the transmission includes only a single pull wire. In operation, the first rack <b>526</b> and the second rack <b>530</b> translate relative to the drive gear <b>518</b> in response to rotation of the drive gear <b>518</b> driven by the user input wheel <b>386</b>. Translation of the first rack <b>526</b> and the second rack <b>530</b> relative to the housing <b>378</b> causes actuation of the first pull wire <b>534</b> and the second pull wire <b>538</b>, which articulates the distal end <b>398</b> of the sheath <b>390</b>. In some embodiments, actuation of the first pull wire <b>534</b> or the second pull wire <b>538</b> articulates the distal end <b>398</b> of the sheath <b>390</b>. In some embodiments, the pull wires <b>534</b>, <b>538</b> are attached on opposites sides of the distal end <b>398</b>.</p>
+<p id="p-0130" num="0129">With reference to <figref idref="DRAWINGS">FIG. <b>24</b></figref>, the housing <b>378</b> includes a first slot <b>542</b> that at least partially receives the first rack <b>526</b> and a second slot <b>546</b> that at least partially receives the second rack <b>530</b>. In the illustrated embodiment, the first rack <b>526</b> and the second rack <b>530</b> are slidable with respect to the housing <b>378</b> along the axis <b>426</b>. A detent <b>550</b> is positioned within the housing <b>378</b>, and the detent <b>550</b> engages the transmission <b>402</b> when the user input wheel <b>386</b> is in the neutral position (<figref idref="DRAWINGS">FIG. <b>24</b></figref>). In the illustrated embodiment, the detent <b>550</b> is a ball-spring detent that is at least partially received within a corresponding notch <b>554</b> formed in the first rack <b>526</b>. As such, the detent <b>550</b> allows an operator to easily find and the neutral position for the user input wheel <b>386</b>.</p>
+<p id="p-0131" num="0130">With reference to <figref idref="DRAWINGS">FIGS. <b>22</b> and <b>23</b></figref>, the steerable sheath <b>266</b> includes a braking assembly <b>558</b> that adjusts the amount of frictional engagement between the housing <b>378</b> and the user input wheel <b>386</b>. In other words, the braking assembly <b>558</b> is configured to adjust the frictional resistance to rotating the user input wheel <b>386</b> about the axis <b>422</b>. As detailed herein, the braking assembly <b>558</b> holds the position of the user input wheel <b>386</b> when the user input wheel <b>386</b> is released by a user. In other words, friction provided by the braking assembly <b>558</b> causes the user input wheel <b>386</b> to remain in the rotational positional left by the operator.</p>
+<p id="p-0132" num="0131">In the illustrated embodiment, the user input wheel <b>386</b> includes a hub <b>562</b> positioned around a boss <b>566</b> formed on the housing <b>378</b>. In the illustrated embodiment, the hub <b>562</b> and the boss <b>566</b> are aligned with the rotational axis <b>422</b>. The braking assembly <b>558</b> includes a sleeve <b>570</b> positioned around the boss <b>566</b> and a spring washer <b>574</b> positioned between the sleeve <b>570</b> and the hub <b>562</b>. A fastener <b>578</b> secures the sleeve <b>570</b> to the boss <b>566</b> and the sleeve <b>570</b> is adjustably positioned relative to the hub <b>562</b> on the user input wheel <b>386</b>. In the illustrated embodiment, the fastener <b>578</b> is a screw. Adjusting the fastener <b>578</b> to position the sleeve <b>570</b> closer to the hub <b>562</b> applies a larger compressive force to the spring washer <b>574</b> and creates more frictional resistance to rotation of the user input wheel <b>386</b>. Likewise, adjusting the fastener <b>578</b> to position the sleeve <b>570</b> further from the hub <b>562</b> reduced the compressive force on the spring washer <b>574</b> and reduces the frictional resistance to rotation of the user input wheel <b>386</b>.</p>
+<p id="p-0133" num="0132">With reference to <figref idref="DRAWINGS">FIG. <b>25</b></figref>, a steerable sheath <b>582</b> is illustrated with a transmission <b>586</b> coupled between a user input wheel <b>590</b> and a distal end of a sheath <b>594</b>. The transmission <b>586</b> includes a linkage <b>598</b> coupled to the user input wheel <b>590</b> with a pin <b>602</b> received within a corresponding spiral slot <b>606</b>. In the illustrated embodiment, the pin <b>602</b> moves within the spiral slot <b>606</b> in response to rotation of the user input wheel <b>590</b>. The linkage <b>598</b> translates linearly along an axis <b>610</b> in response to rotation of the user input wheel <b>590</b>. In the illustrated embodiment, a rack <b>618</b> is coupled to the linkage <b>598</b> and the rack <b>618</b> is enmeshed with a pinion <b>622</b>. Rotation of the pinion <b>622</b> causes linear translation of a first rack <b>626</b> and a second rack <b>630</b>. Similar to the transmission <b>402</b>, pull wires <b>634</b>, <b>638</b> are coupled to the racks <b>626</b>, <b>630</b> and actuation of the pull wires <b>634</b>, <b>638</b> articulates the distal end of the sheath <b>594</b>.</p>
+<p id="p-0134" num="0133">With reference to <figref idref="DRAWINGS">FIG. <b>26</b></figref>, a steerable sheath <b>642</b> is illustrated with a transmission <b>646</b> coupled between a user input wheel <b>650</b> and a distal end of a sheath <b>654</b>. The transmission <b>646</b> includes a planetary gear assembly <b>658</b>, a first power screw <b>662</b>, and a second power screw <b>666</b>. A bevel gear <b>670</b> is enmeshed with gearing <b>674</b> formed on the user input wheel <b>650</b>. A shaft <b>678</b> extending from the bevel gear <b>670</b> extends into the planetary gear assembly <b>658</b> and transfers rotation from the user input wheel <b>650</b> to the planetary gear assembly <b>658</b>. The power screws <b>662</b>, <b>666</b> are coupled to the planetary gear assembly <b>658</b> and translate linearly in response to rotation of the user input wheel <b>650</b>. In the illustrated embodiment, pull wires <b>682</b>, <b>686</b> are coupled to the power screws <b>662</b>, <b>666</b> and actuation of the pull wires <b>682</b>, <b>686</b> articulates the distal end of the sheath <b>654</b>.</p>
+<p id="p-0135" num="0134">With reference to <figref idref="DRAWINGS">FIG. <b>27</b></figref>, a steerable sheath <b>690</b> is illustrated with a transmission <b>694</b> coupled between a user input wheel <b>698</b> and a distal end of a sheath. The transmission <b>694</b> includes drive gear <b>702</b> enmeshed with gearing <b>706</b> formed on the user input wheel <b>698</b> and a pawl <b>710</b> selectively engaged with the gearing <b>706</b> to lock the user input wheel <b>698</b> in position. In the illustrated embodiment, pull wires <b>714</b> are coupled to the drive gear <b>702</b> and actuation of the pull wires <b>714</b> articulate the distal end of the sheath.</p>
+<p id="p-0136" num="0135">In some embodiments, the transmission of the steerable sheath includes at least one electrical component (e.g., a sensor, an actuator, a power source, a controller, etc.). Advantageously, including an electrical component within the transmission may increase the precision with which the pull wires are actuated and correspondingly the precision with which the distal end of the sheath is actuated.</p>
+<p id="p-0137" num="0136">With reference to <figref idref="DRAWINGS">FIG. <b>28</b></figref>, in some embodiments, the flexible probe <b>38</b> is inserted into a working channel <b>718</b> (i.e., into a steerable sheath or a bronchoscope) manually with an operator feeding the flexible probe <b>38</b> into the working channel by hand. However, conventional techniques can cause the flexible probe <b>38</b> to bend, buckle, kink, or otherwise damage the flexible probe <b>38</b> in response to manually feeding the flexible probe <b>38</b> into the working channel. For example, the anatomy of the patient, or the positioning of the scope or the steerable sheath may make it difficult to feed in the flexible probe <b>38</b>. In particular, there are high forces associated with the probe tip exiting the end of the working channel and pushing into tissue or a lesion. These high forces can result in undesirable buckling, bending, and/or kinking of the flexible probe <b>38</b>, which can damage the flexible probe <b>38</b>. As a result, conventional techniques require the user to &#x201c;choke up&#x201d; as much as possible on the probe and use very short advancement strokes to reduce the unsupported length of the probe.</p>
+<p id="p-0138" num="0137">With reference to <figref idref="DRAWINGS">FIGS. <b>29</b>-<b>30</b></figref>, an anti-buckling device <b>722</b> is illustrated to assist with the insertion of the flexible probe <b>38</b> into the working channel <b>718</b>. The anti-buckling device <b>722</b> includes an inlet funnel <b>726</b>, an outlet <b>730</b>, and a plurality of support rails <b>734</b> extending between the inlet funnel <b>726</b> and the outlet <b>730</b>. In the illustrated embodiment, there are two support rails. In some embodiments, the outlet <b>730</b> includes a threaded luer-lok attachment. The flexible probe <b>38</b> is inserted through the inlet funnel <b>726</b> and out of the outlet <b>7360</b> into the working channel <b>718</b>. In the illustrated embodiment, a portion of the flexible probe <b>38</b> is visible to an external viewer in the space between the support rails <b>734</b>. In some embodiments, the anti-buckling device <b>722</b> is integrated with the working channel <b>718</b></p>
+<p id="p-0139" num="0138">The anti-buckling device <b>722</b> further includes a collar <b>738</b> slidable with respect to the support rails <b>734</b> and selectively coupled to the flexible probe <b>38</b>. The collar <b>738</b> includes a button <b>742</b> that selectively engages the flexible probe <b>38</b> upon actuation of the button <b>742</b> by an operator. In the illustrated embodiment, the button <b>742</b> is biased by a biasing member toward a disengaged position in which the button <b>742</b> does not contact the flexible probe <b>38</b> and the collar <b>738</b> is movable with respect to the flexible probe <b>38</b>. A user depresses the button <b>742</b> to move the button <b>742</b> into an engaged position in which the button <b>742</b> abuts the flexible probe <b>38</b>, locking the flexible probe <b>38</b> with the collar <b>738</b> such that movement of the collar <b>738</b> moves the flexible probe <b>38</b>. In some embodiments, the button <b>742</b> may be lockable in the engaged position. Releasing the button <b>742</b> from the engaged position allows the button <b>742</b> to move back to a disengaged position, such that the collar <b>738</b> is movable with respect to the probe <b>38</b>. In some embodiments, the button or the collar also engage the support rails <b>734</b> in addition to the probe, thus locking the position of the probe relative to the working channel.</p>
+<p id="p-0140" num="0139">The flexible probe <b>38</b> is also able to move relative to the anti-buckling device <b>722</b> by manually sliding the flexible probe <b>38</b>. In other words, the user has the option of using the collar <b>738</b> or their hands to translate the flexible probe <b>38</b>. In some embodiments, the anti-buckling device is hinged open with two pieces that lock together such that it can be placed after the probe is already with in the working channel (i.e., the anti-buckling device) does not need to be in place prior to probe placement and therefore the probe does not need to be advanced through it initially).</p>
+<p id="p-0141" num="0140">Various features and advantages are set forth in the following claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-01-20" num="01-20">
+<claim-text><b>1</b>-<b>20</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. A steerable sheath comprising:
+<claim-text>a handle including a housing, a port formed on the housing, and a user input wheel rotatably coupled to the housing;</claim-text>
+<claim-text>a sheath extending from the handle, the sheath includes a proximal end coupled to the handle and a distal end;</claim-text>
+<claim-text>a transmission coupled between the user input wheel and the distal end of the sheath;</claim-text>
+<claim-text>wherein actuation of the user input wheel articulates the distal end of the sheath.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the distal end is curved at an angle with the user input wheel in a neutral position.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The sheath of <claim-ref idref="CLM-00022">claim 22</claim-ref>, further including a detent positioned within the housing, the detent engages the transmission with the user input wheel in the neutral position.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The sheath of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the angle is 70&#xb0;.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the user input wheel includes a first indicator visible when the user input wheel is in the neutral position and a second indicator visible when the user input wheel is in a non-neutral position.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, further comprising a braking assembly that adjusts the amount of frictional engagement between the housing and the user input wheel.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. The sheath of <claim-ref idref="CLM-00026">claim 26</claim-ref>, wherein the user input wheel includes a hub positioned around a boss formed on the housing; and wherein the braking assembly includes:
+<claim-text>a sleeve positioned around the boss;</claim-text>
+<claim-text>a spring washer positioned between the sleeve and the hub; and</claim-text>
+<claim-text>a fastener to secure the sleeve to the boss, wherein the sleeve is adjustably positioned relative to the hub, and</claim-text>
+</claim-text>
+<claim-text>wherein the braking assembly holds the position of the user input wheel when the user input wheel is released by a user.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the port is connected to the sheath, and wherein an obturator is inserted through the port.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the user input wheel rotates about an axis, wherein the axis intersects a sheath axis, and wherein a longitudinal axis of the handle is aligned with the sheath axis.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the handle includes a circumferential groove on an external surface of the housing, and wherein the housing includes a tapered end, the proximal end of the sheath is coupled to the tapered end.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text><b>31</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the transmission includes:
+<claim-text>a drive gear;</claim-text>
+<claim-text>a belt coupled between the user input wheel and the drive gear;</claim-text>
+<claim-text>a first rack enmeshed with the drive gear;</claim-text>
+<claim-text>a second rack enmeshed with the drive gear; and</claim-text>
+<claim-text>a first pull wire coupled to the first rack;</claim-text>
+</claim-text>
+<claim-text>wherein actuation of the first pull wire articulates the distal end of the sheath.</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text><b>32</b>. The sheath of <claim-ref idref="CLM-00031">claim 31</claim-ref>, wherein the transmission further includes a second pull wire coupled to the second rack; wherein actuation of the second pull wire articulates the distal end of the sheath.</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text><b>33</b>. The sheath of <claim-ref idref="CLM-00031">claim 31</claim-ref>, wherein the first rack and the second rack translate relative to the drive gear in response to rotation of the user input wheel; and wherein the housing includes a first slot that at least partially receives the first rack and a second slot that at least partially receives the second rack, such that the first rack and the second rack are slidable with respect to the housing.</claim-text>
+</claim>
+<claim id="CLM-00034" num="00034">
+<claim-text><b>34</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the user input wheel is positioned within the handle with a first exposed portion and a second exposed portion, wherein the housing is positioned between the first exposed portion and the second exposed portion.</claim-text>
+</claim>
+<claim id="CLM-00035" num="00035">
+<claim-text><b>35</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the user input wheel is rotatably coupled to the housing about an axis aligned with a longitudinal axis of the housing, wherein the user input wheel is an actuation ring.</claim-text>
+</claim>
+<claim id="CLM-00036" num="00036">
+<claim-text><b>36</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the user input wheel is spaced from a proximal end of the housing.</claim-text>
+</claim>
+<claim id="CLM-00037" num="00037">
+<claim-text><b>37</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the transmission includes a linkage coupled to the user input wheel with a pin and a spiral slot, and wherein the linkage translates linearly in response to rotation of the user input wheel.</claim-text>
+</claim>
+<claim id="CLM-00038" num="00038">
+<claim-text><b>38</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the transmission includes a planetary gear assembly and a power screw.</claim-text>
+</claim>
+<claim id="CLM-00039" num="00039">
+<claim-text><b>39</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the transmission includes a pawl.</claim-text>
+</claim>
+<claim id="CLM-00040" num="00040">
+<claim-text><b>40</b>. The sheath of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the transmission includes at least one electrical component, wherein the electrical component is a sensor, an actuator, a power source, or a controller.</claim-text>
+</claim>
+<claim id="CLM-41-49" num="41-49">
+<claim-text><b>41</b>-<b>49</b>. (canceled)</claim-text>
+</claim>
+</claims>
+</us-patent-application>

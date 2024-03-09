@@ -1,0 +1,2139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225311A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225311</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18188854</doc-number>
+<date>20230323</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>43</main-group>
+<subgroup>40</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>43</main-group>
+<subgroup>40</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">Method for Mosquito Control</invention-title>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>13636889</doc-number>
+<date>20121219</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+<parent-pct-document>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/US12/31437</doc-number>
+<date>20120330</date>
+</document-id>
+</parent-pct-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18188854</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61477781</doc-number>
+<date>20110421</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>DOBSON</last-name>
+<first-name>Stephen</first-name>
+<address>
+<city>Lexington</city>
+<state>KY</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>DOBSON</last-name>
+<first-name>Stephen</first-name>
+<address>
+<city>Lexington</city>
+<state>KY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method for mosquito control is provided in the form of mosquito larvicide carrying insects which can be introduced in a mosquito population to thereby control the mosquito population. The larvicide carrier insects may include artificially generated adult insect carriers of a mosquito larvicide in which the mosquito larvicide has minimal impact on the adult insect carrier and which mosquito larvicide affects juvenile mosquito survival or interferes with metamorphosis of juvenile mosquitoes to adulthood. The larvicide carrier insects may be either male or female and may include mosquitoes and non-mosquito insects.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="152.23mm" wi="164.08mm" file="US20230225311A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="88.82mm" wi="64.85mm" file="US20230225311A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="109.05mm" wi="155.62mm" file="US20230225311A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This is a divisional of U.S. Ser. No. 13/636,889, filed Dec. 19, 2022, which is a &#xa7; 371 national stage application of PCT/US12/31437, filed Mar. 30, 2012, which claims the benefit of U.S. Provisional Application No. 61/477,781, filed Apr. 21, 2011, all herein incorporated by reference.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to a method and a formulation for mosquito control and, in particular, a method and a formulation for mosquito control which includes, but is not limited to, using mosquitoes or other insects for delivering agents, e.g., insecticides such as a larvicide, to an insect population to thereby control the insect population.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Malaria, dengue and dengue haemorrhagic fever, West Nile Virus (WNV) and other encephalites, human African trypanosomiasis (HAT), human filariasis, dog heartworm and other pathogens important to animals are on the increase. These diseases are transmitted via insects and, in particular, mosquitoes. Methods for controlling mosquito populations include the use of pesticides and vector control methods.</p>
+<p id="p-0005" num="0004">Existing insecticidal control methods rely upon field technicians, who fail to find and treat many breeding sites, which can be numerous, cryptic and inaccessible. Additional methods consist of area-wide treatment via airplane or wind-assisted dispersal from truck-mounted foggers. Unfortunately, the latter fail to treat many breeding sites and are complicated by variable environmental conditions. Barrera et al., &#x201c;Population Dynamics of Aedes aegypti and Dengue as Influenced by Weather and Human Behavior in San Juan, Puerto Rico,&#x201d; PLoS Neglected Tropical Diseases, 5:e1378, 2011, describing the effects of various breeding sites on disease.</p>
+<p id="p-0006" num="0005">Surveys of natural and artificial water containers demonstrate mosquitoes and other arthropods to be highly efficient in finding, inhabiting and laying eggs in variously sized, cryptic water pools, including tree holes and gutters high above ground level.</p>
+<p id="p-0007" num="0006">One prior formulation or method for treating mosquito populations includes the use of dissemination stations which are deployed in a target environment. The dissemination stations may be laced with a pesticide, including, but not limited to, a juvenile hormone analog. The dissemination station may include a box or other structure which attracts female mosquitoes. The mosquitoes enter the dissemination station, become exposed to the pesticide or hormone, and carry that hormone back to affect other mosquitoes by mating. An example of this mosquito control is described in the article by Devine et al., entitled &#x201c;Using adult mosquitoes to transfer insecticides to Aedes aegypti larval habitats,&#x201d; PNAS, vol. 106, no. 28, Jul. 14, 2009.</p>
+<p id="p-0008" num="0007">In tests of another dissemination station, researchers showed that males in the wild that acquire the pesticide from a station can transfer the pesticide to females during copulation. The females receiving pesticide particles via venereal transfer were then shown to cause a significant inhibition of emergence in larval bioassays. This was reported in the article by Gaugler et al, entitled &#x201c;An autodissemination station for the transfer of an insect growth regulator to mosquito oviposition sites,&#x201d; <i>Med. Vet. Entomol. </i>2011.</p>
+<p id="p-0009" num="0008">In view of continuing mosquito problems, as noted, additional tools are required to control mosquitoes that are important as nuisance pests and disease vectors.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">The present invention is directed to a novel, self-delivering, insecticidal formulations and delivery techniques. The formulations, in one form, are larvicide treated insects, such as male mosquitoes. The insecticidal formulations can control medically important mosquitoes. These medically important mosquitoes include mosquitoes having an economic or medical importance to animal or human health. Medically important mosquitoes include those listed in the Appendix to this disclosure.</p>
+<p id="p-0011" num="0010">One aspect of the present formulations and delivery techniques relates to a new larvicide treatment for males, as a formulation which can be used to control a mosquito population. The formulation can be generated by exposing adult insects, such as mosquitoes and, in particular, male mosquitoes, to a pesticide, such as a juvenile hormone which affects juvenile survival or interferes with metamorphosis of juvenile mosquitoes and has relatively little impact on adult mosquitoes. Advantageously, the adult insects are exposed to the pesticide in a controlled, factory environment. The factory-reared or captured from the wild adult insects which have been exposed to the pesticide are referred to as direct treated individuals (DTI). The DTI are then released into an environment in which one wishes to control the mosquito population. The DTI control a mosquito population by interacting with untreated individuals (e.g., mating), such that the pesticide, e.g., a larvicide, is communicated to other individuals (known as Indirectly Treated Individuals; (ITI)).</p>
+<p id="p-0012" num="0011">In specific further embodiments, the control method uses compounds that affect immature/juvenile stages (eggs, larvae, pupae) more than adults. A list of larvicidal compounds is maintained at the IR-4 Public Health Pesticides Database. Examples of compounds include (1) insect growth regulators such as juvenile hormone mimics or analogs, including methoprene, pyriproxyfen (PPF), and (2) Microbial larvicides, such as <i>Bacillus thuringiensis </i>and <i>Bacillus sphaericus, </i>herein incorporated by reference. Exemplary compounds are provided in Tables 1-3, below, in the Detailed Description section.</p>
+<p id="p-0013" num="0012">The present invention, in one form thereof, relates to a method for insect control. The method includes introducing insects which carry one or more insecticides comprising at least one larvicide, to an insect population, to thereby control the insect population. In one specific embodiment, the insects are adult males and the method further includes exposing the adult male insects to a pesticide which affects juvenile survival or interferes with metamorphosis of juvenile insects to adulthood, and which pesticide has little impact on adult insects.</p>
+<p id="p-0014" num="0013">In one further, specific embodiment, the insect population is a mosquito population. Further, the juvenile active insecticide (i.e. larvicide) may be within a chemical class (Table 1) or biological class (Table 2). Examples within the chemical class include insect growth regulators, such as juvenile hormone analogs or compounds which mimic juvenile hormones. For example, the larvicide may be pyriproxyfen or methoprene. Examples within the biological class include viruses, bacteria, protozoa, fungi and crustacean organisms or toxic compounds that they produce.</p>
+<p id="p-0015" num="0014">The present invention, in another form thereof, relates to a formulation for insect control which comprises an artificially generated adult insect carrier of a larvicide. The larvicide has minimal impact on the adult insect and the larvicide interferes with metamorphosis of juvenile insects to adulthood. In one specific formulation, the adult insect is a male mosquito and in an alternative form, the larvicide is pyriproxyfen, methoprene and microbial larvicides, including, but not limited to, <i>Bacillus thuringiensis </i>and <i>Bacillus sphaericus. </i></p>
+<p id="p-0016" num="0015">The present invention, in one specific form is directed to a method for insect control that includes rearing insects in a laboratory or artificially controlled environment. A mosquito larvicide is applied to an exterior surface of the insects in a laboratory or controlled environment to produce insects which carry the mosquito larvicide. When the larvicide carrying insects are released to a mosquito population in the wild, the larvicide carrying insects control the mosquito insect population. The method in one specific further form includes releasing the larvicide carrying insects to a mosquito insect population in the wild to thereby control the mosquito insect population.</p>
+<p id="p-0017" num="0016">The method in one further specific form includes the larvicide carrying insects being non-mosquito insects. Alternatively, the insects can be female insects including female mosquitoes that have been altered to have limited ability to procreate, vector disease or bite.</p>
+<p id="p-0018" num="0017">As an alternative to non-mosquito insects or female mosquito insects as mosquito larvicide carrying insects, the insects can be male insects including male mosquitoes.</p>
+<p id="p-0019" num="0018">In yet a further alternative form, the method of applying one or more mosquito larvicide includes applying a larvicide coating to the surface of the insects, while the insects are in a controlled environment via (i) dusting with a powder, granular or otherwise solid larvicide directly at the insects or (ii) spraying with a liquid insecticide containing the one or more larvicide directed at the insects, wherein the one or more mosquito larvicide has minimal impact on the insects to which the larvicide is applied and which larvicide affects juvenile mosquito survival or interferes with metamorphoses of juvenile mosquito insects to adulthood.</p>
+<p id="p-0020" num="0019">In one specific form the larvicide applied to the insects is sufficient so that when the larvicide coated insects are released from the controlled environment into an environment with an indigenous mosquito population, the larvicide coated insects are effective to deliver a sufficient amount of larvicide to other insects or indigenous spawning sites to affect juvenile mosquito survival or interfere with metamorphoses of juvenile mosquitoes to adulthood, thereby controlling the indigenous mosquito population.</p>
+<p id="p-0021" num="0020">The present invention in one further form thereof is specifically directed to larvicide coated insects which are produced by any of the aforementioned methods described above.</p>
+<p id="p-0022" num="0021">The present invention in yet another further form is directed to insect carriers of mosquito larvicides produced by a method that includes applying a larvicide coating to surfaces of a population of suitable adult insects in a laboratory or controlled environment. The suitable insects are selected from the group consisting of non-mosquito insects, male mosquitoes, and female mosquitoes altered to have limited ability to procreate, vector disease or bite. The coating is applied via dusting with a powder, granular or otherwise solid insecticide directed at the insects or spraying with a liquid insecticide directed at the population of insects. The dusting or spraying produces larvicide coated insects. The insecticide comprises at least one larvicide and the insecticide has minimal impact on the suitable insects and which larvicide affects juvenile mosquito survival or interferes with metamorphoses of juvenile mosquitoes to adulthood. The larvicide coating applied to the insects is sufficient so that when the larvicide coated insects are released from the controlled environment and introduced into an environment with an indigenous mosquito population, the larvicide coated insects are effective to deliver a sufficient amount of larvicide to other insects' indigenous spawning site to affect juvenile mosquito survival or interfere with metamorphose of juvenile mosquitoes to adulthood, thereby controlling the indigenous mosquito population.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a graph showing survival of treated (black) and untreated (white) adults, with bars showing standard deviation, in accordance with the present invention.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a photograph showing larvicide coated mosquitoes.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a table with photographs showing mosquitoes with larvicide coating.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0026" num="0025">The present invention is directed to a method and a formulation for mosquito control. The formulation, in one advantageous form, is larvicide treated males. The treated males are generated from medically important adult male mosquitoes obtained via factory-rearing or captured from the wild. As a demonstration of the chemical class of juvenile active insecticides (Table 1), the adult male mosquitoes are exposed to a larvicide, such as pyriproxyfen (PPF), advantageously in a controlled laboratory or factory environment. PPF is a juvenile hormone mimic which interferes with metamorphosis of juvenile mosquitoes and has relatively little impact on adult mosquitoes. Thus, PPF is commonly used as a mosquito larvicide, but is not used as an adulticide.</p>
+<p id="p-0027" num="0026">The treated males are subsequently referred to as the Direct Treated Individuals (DTI), and this is the insecticidal formulation. The DTI are released into areas with indigenous conspecifics. Male mosquitoes do not blood feed or transmit disease. Accordingly, male mosquitoes provide unique advantages in the present control method as couriers of the larvicide. The DTI interact with untreated individuals (e.g., mating), such that PPF is communicated to the other individuals to produce Indirectly Treated Individuals (ITI). The PPF is delivered by both the DTI and ITI in the wild/in the environment, into the breeding areas, where the PPF accumulates to lethal doses and acts as a larvicide. It is noted that the PPF would impact additional mosquito species that share the same breeding site, providing control of additional mosquito species.</p>
+<p id="p-0028" num="0027">In an alternative control method, female mosquitoes can be used as the DTI. However, female mosquitoes blood feed and can vector disease. The use of female mosquitoes are applicable when the females are incapacitated prior to deployment in the environment and the females have limited procreation ability, bite and vector diseases.</p>
+<p id="p-0029" num="0028">In a further alternative method, other larvicidal active ingredients can be used which include, but are not limited to, compounds that affect juvenile survival or affect immature/juvenile stages of development (eggs, larvae, pupae) more than adults. A list of larvicidal compounds is maintained at the IR-4 Public Health Pesticides Database. Examples of compounds include (1) insect growth regulators such as juvenile hormone mimics or analogs, including methoprene, pyriproxyfen (PPF), and (2) Microbial larvicides, such as <i>Bacillus thuringiensis </i>and <i>Bacillus sphaericus. </i>Tables 1-3 provide abridged, exemplary lists of suitable compounds.</p>
+<p id="p-0030" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Juvenile Active Insecticide - Chemical*</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="56pt" align="left"/>
+<colspec colname="1" colwidth="161pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Azadirachtin</entry>
+</row>
+<row>
+<entry/>
+<entry>Diflubenzuron</entry>
+</row>
+<row>
+<entry/>
+<entry>Methoprene</entry>
+</row>
+<row>
+<entry/>
+<entry>Neem Oil (<i>Azadirachta indica</i>)</entry>
+</row>
+<row>
+<entry/>
+<entry>Novaluron</entry>
+</row>
+<row>
+<entry/>
+<entry>Pyriproxyfen</entry>
+</row>
+<row>
+<entry/>
+<entry>S-Methoprene</entry>
+</row>
+<row>
+<entry/>
+<entry>S-Hydropene</entry>
+</row>
+<row>
+<entry/>
+<entry>Temephos</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="left" id="FOO-00001">*A list of Public Health Pesticides is maintained at the IR-4 Public Health Pesticides Database</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0031" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Juvenile Active Insecticide - Biological*</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="56pt" align="left"/>
+<colspec colname="1" colwidth="161pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry><i>Ascogregarine </i>spp.</entry>
+</row>
+<row>
+<entry/>
+<entry><i>Bacillus sphaericus</i></entry>
+</row>
+<row>
+<entry/>
+<entry><i>Bacillus thuringiensis israelensis</i></entry>
+</row>
+<row>
+<entry/>
+<entry>Baculoviruses</entry>
+</row>
+<row>
+<entry/>
+<entry><i>Copepoda </i>spp.</entry>
+</row>
+<row>
+<entry/>
+<entry><i>Densovirinae </i>spp.</entry>
+</row>
+<row>
+<entry/>
+<entry><i>Lagenidium giganteum</i></entry>
+</row>
+<row>
+<entry/>
+<entry><i>Microsporida </i>spp.</entry>
+</row>
+<row>
+<entry/>
+<entry>Spinosad</entry>
+</row>
+<row>
+<entry/>
+<entry>Spinosyn</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="left" id="FOO-00002">*A list of Public Health Pesticides is maintained at the IR-4 Public Health Pesticides Database</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0032" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="294pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Public Health Pesticides from the IR-4 Database*</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="98pt" align="left"/>
+<colspec colname="2" colwidth="98pt" align="left"/>
+<colspec colname="3" colwidth="98pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>(&#x2212;)-cis-Permethrin</entry>
+<entry>Cyfluthrin</entry>
+<entry>Oil of Basil, African Blue</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Ocimum kilimandscharicum </i>&#xd7;</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry><i>basilicum</i>)</entry>
+</row>
+<row>
+<entry>(&#x2212;)-trans-Permethrin</entry>
+<entry>Cyhalothrin</entry>
+<entry>Oil of Basil, Dwarf Bush</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Ocimum basilicum </i>var.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry><i>minimum</i>)</entry>
+</row>
+<row>
+<entry>(+)-cis-Permethrin</entry>
+<entry>Cyhalothrin, epimer R157836</entry>
+<entry>Oil of Basil, Greek Bush</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Ocimum minimum</i>)</entry>
+</row>
+<row>
+<entry>(&#xb1;)-cis,trans-Deltamethrin</entry>
+<entry>Cyhalothrin, Total</entry>
+<entry>Oil of Basil, Greek Column</entry>
+</row>
+<row>
+<entry/>
+<entry>(Cyhalothrin-L + R157836</entry>
+<entry>(<i>Ocimum </i>&#xd7; <i>citriodorum</i></entry>
+</row>
+<row>
+<entry/>
+<entry>epimer)</entry>
+<entry>&#x2018;Lesbos&#x2019;)</entry>
+</row>
+<row>
+<entry>(1R)-Alpha-Pinene</entry>
+<entry>Cypermethrin</entry>
+<entry>Oil of Basil, Lemon (<i>Ocimum</i></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry><i>americanum</i>)</entry>
+</row>
+<row>
+<entry>(1R)-Permethrin</entry>
+<entry>Cyphenothrin</entry>
+<entry>Oil of Basil, Sweet (<i>Ocimum</i></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry><i>basilicum</i>)</entry>
+</row>
+<row>
+<entry>(1R)-Resmethrin</entry>
+<entry>DDD, o, p</entry>
+<entry>Oil of Basil, Thai Lemon</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Ocimum </i>&#xd7; <i>citriodorum</i>)</entry>
+</row>
+<row>
+<entry>(1R,cis) Phenothrin</entry>
+<entry>DDD, other related</entry>
+<entry>Oil of Bay Laurel (<i>Laurus</i></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry><i>nobilis</i>)</entry>
+</row>
+<row>
+<entry>(1R,trans) Phenothrin</entry>
+<entry>DDD, p, p&#x2032;</entry>
+<entry>Oil of Cajeput (<i>Melaleuca</i></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry><i>leucadendra</i>)</entry>
+</row>
+<row>
+<entry>(1S)-Alpha-Pinene</entry>
+<entry>DDE</entry>
+<entry>Oil of Cassumunar Ginger</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Zingiber montanum</i>)</entry>
+</row>
+<row>
+<entry>(1S)-Permethrin</entry>
+<entry>DDE, o, p</entry>
+<entry>Oil of Fishpoison (<i>Tephrosia</i></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry><i>purpurea</i>)</entry>
+</row>
+<row>
+<entry>(E)-Beta-Caryophyllene</entry>
+<entry>DDT</entry>
+<entry>Oil of Ginger (<i>Zingiber</i></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry><i>officinale</i>)</entry>
+</row>
+<row>
+<entry>1,1-dichloro-2,2-bis-(4-ethyl-</entry>
+<entry>DDT, o, p&#x2032;</entry>
+<entry>Oil of Gurjun Balsam</entry>
+</row>
+<row>
+<entry>phenyl) ethane</entry>
+<entry/>
+<entry>(<i>Dipterocarpus turbinatus</i></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>balsam)</entry>
+</row>
+<row>
+<entry>1,8-Cineole</entry>
+<entry>DDT, p, p&#x2032;</entry>
+<entry>Oil of Lemon <i>Eucalyptus</i></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Corymbia citriodora</i>)</entry>
+</row>
+<row>
+<entry>1H-Pyrazole-3-carboxamide,</entry>
+<entry>DDVP</entry>
+<entry>Oil of Lemon Mint</entry>
+</row>
+<row>
+<entry>5-amino-1-[2,6-dichloro-4-</entry>
+<entry/>
+<entry>(<i>Monarda citriodora</i>)</entry>
+</row>
+<row>
+<entry>(trifluoromethyl)phenyl]-4-</entry>
+</row>
+<row>
+<entry>[(trifluoromethyl)sulfinyl]</entry>
+</row>
+<row>
+<entry>1-Naphthol</entry>
+<entry>DDVP, other related</entry>
+<entry>Oil of <i>Melaleuca</i></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Melaleuca </i>spp.)</entry>
+</row>
+<row>
+<entry>1-Octen-3-ol</entry>
+<entry>DEET</entry>
+<entry>Oil of <i>Myrcia</i></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Myrcia </i>spp.)</entry>
+</row>
+<row>
+<entry>2-(2-(p-(diisobutyl) phenoxy)</entry>
+<entry>Deltamethrin</entry>
+<entry>Oil of Nutmeg (<i>Myristica</i></entry>
+</row>
+<row>
+<entry>ethoxy) ethyl dimethyl</entry>
+<entry/>
+<entry><i>fragrans</i>)</entry>
+</row>
+<row>
+<entry>ammonium chloride</entry>
+</row>
+<row>
+<entry>2-butyl-2-ethyl-1,3-</entry>
+<entry>Deltamethrin (includes</entry>
+<entry>Oil of Palmarosa</entry>
+</row>
+<row>
+<entry>propanediol</entry>
+<entry>parent Tralomethrin)</entry>
+<entry>(<i>Cymbopogon martinii</i>)</entry>
+</row>
+<row>
+<entry>2-Hydroxyethyl Octyl Sulfide</entry>
+<entry>Deltamethrin (isomer</entry>
+<entry>Orange Oil</entry>
+</row>
+<row>
+<entry/>
+<entry>unspecified)</entry>
+<entry>(<i>Citrus sinensis</i>)</entry>
+</row>
+<row>
+<entry>2-Isopropyl-4-methyl-6-</entry>
+<entry>Deltamethrin, other related</entry>
+<entry>Oregano Oil</entry>
+</row>
+<row>
+<entry>hydroxypyrimidine</entry>
+<entry/>
+<entry>(<i>Origanum vulgare</i>)</entry>
+</row>
+<row>
+<entry>2-Pyrroline-3-carbonitrile, 2-</entry>
+<entry>Desmethyl Malathion</entry>
+<entry>Ortho-Phenylphenol</entry>
+</row>
+<row>
+<entry>(p-chlorophenyl)-5-hydroxy-</entry>
+</row>
+<row>
+<entry>4-oxo-5-</entry>
+</row>
+<row>
+<entry>3,7-dimethyl-6-octen-1-ol</entry>
+<entry>Desulfinyl Fipronil</entry>
+<entry>Ortho-Phenylphenol, Sodium</entry>
+</row>
+<row>
+<entry>acetate</entry>
+<entry/>
+<entry>Salt</entry>
+</row>
+<row>
+<entry>3,7-dimethyl-6-octen-1-ol</entry>
+<entry>Desulfinylfipronil Amide</entry>
+<entry>Oviposition Attractant A</entry>
+</row>
+<row>
+<entry>acetate</entry>
+</row>
+<row>
+<entry>3-Phenoxybenzoic Acid</entry>
+<entry>Diatomaceous Earth</entry>
+<entry>Oviposition Attractant B</entry>
+</row>
+<row>
+<entry>4-Fluoro-3-phenoxybenzoic</entry>
+<entry>Diatomaceous Earth, other</entry>
+<entry>Oviposition Attractant C</entry>
+</row>
+<row>
+<entry>acid</entry>
+<entry>related</entry>
+</row>
+<row>
+<entry>Absinth Wormwood</entry>
+<entry>Diazinon</entry>
+<entry>Oviposition Attractant D</entry>
+</row>
+<row>
+<entry>(<i>Artemisia absinthium</i>)</entry>
+</row>
+<row>
+<entry>Absinthin</entry>
+<entry>Diazoxon</entry>
+<entry>Oxymatrine</entry>
+</row>
+<row>
+<entry>Acepromazine</entry>
+<entry>Dibutyl Phthalate</entry>
+<entry>Paracress Oil</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Spilanthes acmella</i>)</entry>
+</row>
+<row>
+<entry>Acetaminophen</entry>
+<entry>Didecyl Dimethyl Ammonium</entry>
+<entry>P-Cymene</entry>
+</row>
+<row>
+<entry/>
+<entry>Chloride</entry>
+</row>
+<row>
+<entry>Acetamiprid</entry>
+<entry>Dieldrin</entry>
+<entry>Penfluron</entry>
+</row>
+<row>
+<entry>Acetic Acid</entry>
+<entry>Diethyl Phosphate</entry>
+<entry>Pennyroyal Oil (American</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>False Pennyroyal, <i>Hedeoma</i></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry><i>pulegioides</i>)</entry>
+</row>
+<row>
+<entry>AI3-35765</entry>
+<entry>Diethylthio Phosphate</entry>
+<entry>Peppermint</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Mentha </i>&#xd7; <i>piperita</i>)</entry>
+</row>
+<row>
+<entry>AI3-37220</entry>
+<entry>Diflubenzuron</entry>
+<entry>Peppermint Oil</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Mentha </i>&#xd7; <i>piperita</i>)</entry>
+</row>
+<row>
+<entry>Alkyl Dimethyl Benzyl</entry>
+<entry>Dihydro Abietyl Alcohol</entry>
+<entry>Permethrin</entry>
+</row>
+<row>
+<entry>Ammonium Chloride</entry>
+</row>
+<row>
+<entry>(60% C14, 25% C12, 15% C16)</entry>
+</row>
+<row>
+<entry>Alkyl Dimethyl Benzyl</entry>
+<entry>Dihydro-5-heptyl-2(3H)-</entry>
+<entry>Permethrin, other related</entry>
+</row>
+<row>
+<entry>Ammonium Chloride</entry>
+<entry>furanone</entry>
+</row>
+<row>
+<entry>(60% C14, 30% C16, 5% C12,</entry>
+</row>
+<row>
+<entry>5% C18)</entry>
+</row>
+<row>
+<entry>Alkyl Dimethylethyl Benzyl</entry>
+<entry>Dihydro-5-pentyl-2(3H)-</entry>
+<entry>Phenothrin</entry>
+</row>
+<row>
+<entry>Ammonium Chloride</entry>
+<entry>furanone</entry>
+</row>
+<row>
+<entry>(50% C12, 30% C14, 17% C16,</entry>
+</row>
+<row>
+<entry>3% C18)</entry>
+</row>
+<row>
+<entry>Alkyl Dimethylethyl Benzyl</entry>
+<entry>Dimethyl Phosphate</entry>
+<entry>Phenothrin, other related</entry>
+</row>
+<row>
+<entry>Ammonium Chloride</entry>
+</row>
+<row>
+<entry>(68% C12, 32% C14)</entry>
+</row>
+<row>
+<entry>Allethrin</entry>
+<entry>Dimethyldithio Phosphate</entry>
+<entry>Picaridin</entry>
+</row>
+<row>
+<entry>Allethrin II</entry>
+<entry>Dimethylthio Phosphate</entry>
+<entry>Pine Oil (<i>Pinus pinea </i>= Stone</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Pine)</entry>
+</row>
+<row>
+<entry>Allethrins</entry>
+<entry>Dinotefuran</entry>
+<entry>Pine Oil (<i>Pinus </i>spp.)</entry>
+</row>
+<row>
+<entry>Allicin</entry>
+<entry>Dipropyl Isocinchomeronate</entry>
+<entry>Pine Oil (<i>Pinus sylvestris </i>=</entry>
+</row>
+<row>
+<entry/>
+<entry>(2,5 isomer)</entry>
+<entry>Scots Pine)</entry>
+</row>
+<row>
+<entry>Allyl Caproate</entry>
+<entry>Dipropyl Isocinchomeronate</entry>
+<entry>Pine Tar Oil (<i>Pinus </i>spp.)</entry>
+</row>
+<row>
+<entry/>
+<entry>(3,5 isomer)</entry>
+</row>
+<row>
+<entry>Allyl Isothiocyanate</entry>
+<entry>Dipropylene Glycol</entry>
+<entry>Pinene</entry>
+</row>
+<row>
+<entry>Alpha-Cypermethrin</entry>
+<entry>d-Limonene</entry>
+<entry>Piperine</entry>
+</row>
+<row>
+<entry>Alpha-lonone</entry>
+<entry>d-Phenothrin</entry>
+<entry>Piperonyl Butoxide</entry>
+</row>
+<row>
+<entry>Alpha-Pinene</entry>
+<entry>Dried Blood</entry>
+<entry>Piperonyl Butoxide,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>technical, other related</entry>
+</row>
+<row>
+<entry>Alpha-Terpinene</entry>
+<entry>d-trans-Beta-Cypermethrin</entry>
+<entry>Pirimiphos-Methyl</entry>
+</row>
+<row>
+<entry>Aluminum Phosphide</entry>
+<entry>Esfenvalerate</entry>
+<entry>PMD (p-Menthane-3,8-diol)</entry>
+</row>
+<row>
+<entry>Amitraz</entry>
+<entry>Ester Gum</entry>
+<entry>Potassium Laurate</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Potassium Salts of Fatty</entry>
+</row>
+<row>
+<entry>Ammonium Bicarbonate</entry>
+<entry>Estragole</entry>
+<entry>Acids</entry>
+</row>
+<row>
+<entry>Ammonium Fluosilicate</entry>
+<entry>Etofenprox</entry>
+<entry>Potassium Sorbate</entry>
+</row>
+<row>
+<entry>Anabasine</entry>
+<entry><i>Eucalyptus </i>Oil (<i>Eucalyptus</i></entry>
+<entry>Prallethrin</entry>
+</row>
+<row>
+<entry/>
+<entry>spp.)</entry>
+</row>
+<row>
+<entry>Anabsinthine</entry>
+<entry>Eugenol</entry>
+<entry>Propoxur</entry>
+</row>
+<row>
+<entry>Andiroba Oil (<i>Carapa</i></entry>
+<entry>Eugenyl Acetate</entry>
+<entry>Propoxur Phenol</entry>
+</row>
+<row>
+<entry><i>guianensis</i>)</entry>
+</row>
+<row>
+<entry>Andiroba Oil (<i>Carapa</i></entry>
+<entry>Extract of <i>Piper </i>spp.</entry>
+<entry>Propoxur, other related</entry>
+</row>
+<row>
+<entry><i>procera</i>)</entry>
+</row>
+<row>
+<entry>Andiroba, African (<i>Carapa</i></entry>
+<entry>Extracts of Common Juniper</entry>
+<entry>Putrescent Whole Egg Solids</entry>
+</row>
+<row>
+<entry><i>procera</i>)</entry>
+<entry>(<i>Juniperus communis</i>)</entry>
+</row>
+<row>
+<entry>Andiroba, American (<i>Carapa</i></entry>
+<entry>Fenchyl Acetate</entry>
+<entry>Pyrethrin I</entry>
+</row>
+<row>
+<entry><i>guianensis</i>)</entry>
+</row>
+<row>
+<entry>Anethole</entry>
+<entry>Fenitrothion</entry>
+<entry>Pyrethrin II</entry>
+</row>
+<row>
+<entry>Anise (<i>Pimpinella anisum</i>)</entry>
+<entry>Fennel (<i>Foeniculum vulgaris</i>)</entry>
+<entry>Pyrethrins</entry>
+</row>
+<row>
+<entry>Aniseed Oil (<i>Pimpinella</i></entry>
+<entry>Fennel Oil (<i>Foeniculum</i></entry>
+<entry>Pyrethrins and Pyrethroids,</entry>
+</row>
+<row>
+<entry><i>anisum</i>)</entry>
+<entry><i>vulgaris</i>)</entry>
+<entry>manufg. Residues</entry>
+</row>
+<row>
+<entry>Atrazine</entry>
+<entry>Fenoxycarb</entry>
+<entry>Pyrethrins, other related</entry>
+</row>
+<row>
+<entry>Avermectin</entry>
+<entry>Fenthion</entry>
+<entry>Pyrethrum</entry>
+</row>
+<row>
+<entry>Azadirachtin</entry>
+<entry>Fenthion Oxon</entry>
+<entry>Pyrethrum Marc</entry>
+</row>
+<row>
+<entry>Azadirachtin A</entry>
+<entry>Fenthion Sulfone</entry>
+<entry>Pyrethrum Powder other</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>than Pyrethrins</entry>
+</row>
+<row>
+<entry><i>Bacillus sphaericus</i></entry>
+<entry>Fenthion Sulfoxide</entry>
+<entry>Pyriproxyfen</entry>
+</row>
+<row>
+<entry><i>Bacillus sphaericus</i>, serotype</entry>
+<entry><i>Ferula hermonis</i></entry>
+<entry>Pyrrole-2-carboxylic acid, 3-</entry>
+</row>
+<row>
+<entry>H-5A5B, strain 2362</entry>
+<entry/>
+<entry>bromo-5-(p-chlorophenyl)-4-</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>cyano-</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Pyrrole-2-carboxylic acid, 5-</entry>
+</row>
+<row>
+<entry><i>Bacillus thuringiensis</i></entry>
+<entry><i>Ferula hermonis </i>Oil</entry>
+<entry>(p-chlorophenyl)-4-cyano-</entry>
+</row>
+<row>
+<entry><i>israelensis</i></entry>
+<entry/>
+<entry>(metabolite of AC 303268)</entry>
+</row>
+<row>
+<entry><i>Bacillus thuringiensis</i></entry>
+<entry>Finger Root Oil</entry>
+<entry><i>Quassia</i></entry>
+</row>
+<row>
+<entry><i>israelensis</i>, serotype H-14</entry>
+<entry>(<i>Boesenbergia pandurata</i>)</entry>
+</row>
+<row>
+<entry><i>Bacillus thuringiensis</i></entry>
+<entry>Fipronil</entry>
+<entry>Quassin</entry>
+</row>
+<row>
+<entry><i>israelensis</i>, strain AM 65-52</entry>
+</row>
+<row>
+<entry><i>Bacillus thuringiensis</i></entry>
+<entry>Fipronil Sulfone</entry>
+<entry>R-(&#x2212;)-1-Octen-3-ol</entry>
+</row>
+<row>
+<entry><i>israelensis</i>, strain BK, solids,</entry>
+</row>
+<row>
+<entry>spores, and insecticidal</entry>
+</row>
+<row>
+<entry>toxins, ATCC number 35646</entry>
+</row>
+<row>
+<entry><i>Bacillus thuringiensis</i></entry>
+<entry>Fipronil Sulfoxide</entry>
+<entry>Red Cedar Chips (<i>Juniperus</i></entry>
+</row>
+<row>
+<entry><i>israelensis</i>, strain BMP 144</entry>
+<entry/>
+<entry><i>virginiana</i>)</entry>
+</row>
+<row>
+<entry><i>Bacillus thuringiensis</i></entry>
+<entry>Fragrance Orange 418228</entry>
+<entry>Resmethrin</entry>
+</row>
+<row>
+<entry><i>israelensis</i>, strain EG2215</entry>
+</row>
+<row>
+<entry><i>Bacillus thuringiensis</i></entry>
+<entry>Gamma-Cyhalothrin</entry>
+<entry>Resmethrin, other related</entry>
+</row>
+<row>
+<entry><i>israelensis</i>, strain IPS-78</entry>
+</row>
+<row>
+<entry><i>Bacillus thuringiensis</i></entry>
+<entry>Garlic (<i>Allium sativum</i>)</entry>
+<entry>Rhodojaponin-III</entry>
+</row>
+<row>
+<entry><i>israelensis</i>, strain SA3A</entry>
+</row>
+<row>
+<entry>Balsam Fir Oil (<i>Abies</i></entry>
+<entry>Garlic Chives Oil (<i>Allium</i></entry>
+<entry>Rose Oil (<i>Rosa </i>spp.)</entry>
+</row>
+<row>
+<entry><i>balsamea</i>)</entry>
+<entry><i>tuberosum</i>)</entry>
+</row>
+<row>
+<entry>Basil, Holy (<i>Ocimum</i></entry>
+<entry>Garlic Oil (<i>Allium sativum</i>)</entry>
+<entry>Rosemary (<i>Rosmarinus</i></entry>
+</row>
+<row>
+<entry><i>tenuiflorum</i>)</entry>
+<entry/>
+<entry><i>officinalis</i>)</entry>
+</row>
+<row>
+<entry>Bendiocarb</entry>
+<entry>Geraniol</entry>
+<entry>Rosemary Oil (<i>Rosmarinus</i></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry><i>officinalis</i>)</entry>
+</row>
+<row>
+<entry>Benzyl Benzoate</entry>
+<entry>Geranium Oil (<i>Pelargonium</i></entry>
+<entry>Rosmanol</entry>
+</row>
+<row>
+<entry/>
+<entry><i>graveolens</i>)</entry>
+</row>
+<row>
+<entry>Bergamot Oil (<i>Citrus</i></entry>
+<entry>Glyphosate, Isopropylamine</entry>
+<entry>Rosmaridiphenol</entry>
+</row>
+<row>
+<entry><i>aurantium bergamia</i>)</entry>
+<entry>Salt</entry>
+</row>
+<row>
+<entry>Beta-Alanine</entry>
+<entry>Hexaflumuron</entry>
+<entry>Rosmarinic Acid</entry>
+</row>
+<row>
+<entry>Beta-Caryophyllene</entry>
+<entry>Hydroprene</entry>
+<entry>Rotenone</entry>
+</row>
+<row>
+<entry>Beta-Cyfluthrin</entry>
+<entry>Hydroxyethyl Octyl Sulfide,</entry>
+<entry>R-Pyriproxyfen</entry>
+</row>
+<row>
+<entry/>
+<entry>other related</entry>
+</row>
+<row>
+<entry>Beta-Cypermethrin</entry>
+<entry>Imidacloprid</entry>
+<entry>R-Tetramethrin</entry>
+</row>
+<row>
+<entry>Beta-Cypermethrin ([(1R)-</entry>
+<entry>Imidacloprid Guanidine</entry>
+<entry>Rue Oil</entry>
+</row>
+<row>
+<entry>1a(S*),3a] isomer)</entry>
+<entry/>
+<entry>(<i>Ruta chalepensis</i>)</entry>
+</row>
+<row>
+<entry>Beta-Cypermethrin ([(1R)-</entry>
+<entry>Imidacloprid Olefin</entry>
+<entry>Ryania</entry>
+</row>
+<row>
+<entry>1a(S*),3b] isomer)</entry>
+</row>
+<row>
+<entry>Beta-Cypermethrin ([(1S)-</entry>
+<entry>Imidacloprid Olefinic-</entry>
+<entry>Ryanodine</entry>
+</row>
+<row>
+<entry>1a((R*),3a] isomer)</entry>
+<entry>Guanidine</entry>
+</row>
+<row>
+<entry>Beta-Cypermethrin ([(1S)-</entry>
+<entry>Imidacloprid Urea</entry>
+<entry>S-(+)-1-Octen-3-ol</entry>
+</row>
+<row>
+<entry>1a(R*),3b] isomer)</entry>
+</row>
+<row>
+<entry>Beta-Myrcene</entry>
+<entry>Imiprothrin</entry>
+<entry>Sabinene</entry>
+</row>
+<row>
+<entry>Beta-Pinene</entry>
+<entry>Indian Privet Tree Oil (<i>Vitex</i></entry>
+<entry>Sabinene</entry>
+</row>
+<row>
+<entry/>
+<entry><i>negundo</i>)</entry>
+</row>
+<row>
+<entry>Betulinic Acid</entry>
+<entry>Ionone</entry>
+<entry>Sage Oil (<i>Salvia officinalis</i>)</entry>
+</row>
+<row>
+<entry>Bifenthrin</entry>
+<entry>IR3535 (Ethyl</entry>
+<entry>Sassafras Oil (<i>Sassafras</i></entry>
+</row>
+<row>
+<entry/>
+<entry>Butylacetylaminopropionate)</entry>
+<entry><i>albidum</i>)</entry>
+</row>
+<row>
+<entry>Billy-Goat Weed Oil</entry>
+<entry>Isomalathion</entry>
+<entry><i>Schoenocaubn officinale</i></entry>
+</row>
+<row>
+<entry>(<i>Ageratum conyzoides</i>)</entry>
+</row>
+<row>
+<entry>Bioallethrin = d-trans-</entry>
+</row>
+<row>
+<entry>Allethrin</entry>
+<entry>Isopropyl Alcohol</entry>
+<entry>S-Citronellol</entry>
+</row>
+<row>
+<entry>Biopermethrin</entry>
+<entry>Japanese Mint Oil (<i>Mentha</i></entry>
+<entry>Sesame (<i>Sesamum indicum</i>)</entry>
+</row>
+<row>
+<entry/>
+<entry><i>arvensis</i>)</entry>
+</row>
+<row>
+<entry>Bioresmethrin</entry>
+<entry>Jasmolin I</entry>
+<entry>Sesame Oil (<i>Sesamum</i></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry><i>indicum</i>)</entry>
+</row>
+<row>
+<entry>Bitter Orange Oil (<i>Citrus</i></entry>
+<entry>Jasmolin II</entry>
+<entry>Sesamin</entry>
+</row>
+<row>
+<entry><i>aurantium</i>)</entry>
+</row>
+<row>
+<entry>Blend of Oils: of Lemongrass,</entry>
+<entry>Kerosene</entry>
+<entry>Sesamolin</entry>
+</row>
+<row>
+<entry>of Citronella, of Orange, of</entry>
+</row>
+<row>
+<entry>Bergamot; Geraniol, lonone</entry>
+</row>
+<row>
+<entry>Alpha, Methyl Salicylate and</entry>
+</row>
+<row>
+<entry>Allylisothioc</entry>
+</row>
+<row>
+<entry>Boric Acid</entry>
+<entry>L-(+)-Lactic acid</entry>
+<entry>S-Hydroprene</entry>
+</row>
+<row>
+<entry>Borneol</entry>
+<entry>Lactic Acid</entry>
+<entry>Silica Gel</entry>
+</row>
+<row>
+<entry>Bornyl Acetate</entry>
+<entry><i>Lagenidium giganteum</i></entry>
+<entry>Silver Sagebrush</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Artemisia cana</i>)</entry>
+</row>
+<row>
+<entry>Bromine</entry>
+<entry><i>Lagenidium giganteum</i></entry>
+<entry>Silver Sagebrush Oil</entry>
+</row>
+<row>
+<entry/>
+<entry>(California strain)</entry>
+<entry>(<i>Artemisia cana</i>)</entry>
+</row>
+<row>
+<entry>Butane</entry>
+<entry>Lambda-Cyhalothrin</entry>
+<entry>S-Methoprene</entry>
+</row>
+<row>
+<entry>Butoxy Poly Propylene Glycol</entry>
+<entry>Lambda-Cyhalothrin R ester</entry>
+<entry>Sodium Chloride</entry>
+</row>
+<row>
+<entry>Caffeic Acid</entry>
+<entry>Lambda-Cyhalothrin S ester</entry>
+<entry>Sodium Lauryl Sulfate</entry>
+</row>
+<row>
+<entry>Camphene</entry>
+<entry>Lambda-Cyhalothrin total</entry>
+<entry>Solvent Naphtha</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(Petroleum), Light Aromatic</entry>
+</row>
+<row>
+<entry>Camphor</entry>
+<entry>Lauryl Sulfate</entry>
+<entry>Soybean Oil (<i>Glycine max</i>)</entry>
+</row>
+<row>
+<entry>Camphor Octanane</entry>
+<entry>Lavender Oil (<i>Lavendula</i></entry>
+<entry>Spinosad</entry>
+</row>
+<row>
+<entry/>
+<entry><i>angustifolia</i>)</entry>
+</row>
+<row>
+<entry>Canada Balsam</entry>
+<entry>Leaves of <i>Eucalyptus</i></entry>
+<entry>Spinosyn A</entry>
+</row>
+<row>
+<entry/>
+<entry>(<i>Eucalyptus </i>spp.)</entry>
+</row>
+<row>
+<entry>Carbaryl</entry>
+<entry>Leech Lime Oil (<i>Citrus</i></entry>
+<entry>Spinosyn D</entry>
+</row>
+<row>
+<entry/>
+<entry><i>hystrix</i>)</entry>
+</row>
+<row>
+<entry>Carbon Dioxide</entry>
+<entry>Lemon Oil (<i>Citrus limon</i>)</entry>
+<entry>Spinosyn Factor A</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Metabolite</entry>
+</row>
+<row>
+<entry>Carnosic Acid</entry>
+<entry>Licareol</entry>
+<entry>Spinosyn Factor D</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Metabolite</entry>
+</row>
+<row>
+<entry>Carvacrol</entry>
+<entry>Limonene</entry>
+<entry>S-Pyriproxyfen</entry>
+</row>
+<row>
+<entry>Caryophyllene</entry>
+<entry>Linalool</entry>
+<entry>Succinic Acid</entry>
+</row>
+<row>
+<entry>Cassumunar Ginger Oil</entry>
+<entry>Linalyl Acetate</entry>
+<entry>Sulfoxide</entry>
+</row>
+<row>
+<entry>(<i>Zingiber montanum</i>)</entry>
+</row>
+<row>
+<entry>Castor Oil (<i>Ricinus</i></entry>
+<entry>Linseed Oil (<i>Linum</i></entry>
+<entry>Sulfoxide, other related</entry>
+</row>
+<row>
+<entry><i>communis</i>)</entry>
+<entry><i>usitatissimum</i>)</entry>
+</row>
+<row>
+<entry>Catnip Oil (<i>Nepeta cataria</i>)</entry>
+<entry><i>Lonchocarpus utilis </i>(Cub&#xe9;)</entry>
+<entry>Sulfur</entry>
+</row>
+<row>
+<entry>Catnip Oil, Refined (<i>Nepeta</i></entry>
+<entry>Lupinine</entry>
+<entry>Sulfuryl Fluoride</entry>
+</row>
+<row>
+<entry><i>cataria</i>)</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (<i>Callitropsis</i></entry>
+<entry>Magnesium Phosphide</entry>
+<entry>Sweet Gale Oil</entry>
+</row>
+<row>
+<entry><i>nootkatensis </i>= Nootka</entry>
+<entry/>
+<entry>(<i>Myrica gale</i>)</entry>
+</row>
+<row>
+<entry>Cypress, Alaska Yellow</entry>
+</row>
+<row>
+<entry>Cedarwood)</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (<i>Cedrus</i></entry>
+<entry>Malabar (<i>Cinnamomum</i></entry>
+<entry>Tangerine Oil (<i>Citrus</i></entry>
+</row>
+<row>
+<entry><i>deodara </i>= Deodar Cedar)</entry>
+<entry><i>tamala</i>)</entry>
+<entry><i>reticulata</i>)</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (<i>Cedrus </i>spp. =</entry>
+<entry>Malabar Oil (<i>Cinnamomum</i></entry>
+<entry>Tansy Oil (<i>Tanacetum</i></entry>
+</row>
+<row>
+<entry>True Cedars)</entry>
+<entry><i>tamala</i>)</entry>
+<entry><i>vulgare</i>)</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (<i>Cupressus</i></entry>
+<entry>Malaoxon</entry>
+<entry>Tar Oils, from Distillation of</entry>
+</row>
+<row>
+<entry><i>funebris </i>= Chinese Weeping</entry>
+<entry/>
+<entry>Wood Tar</entry>
+</row>
+<row>
+<entry>Cypress)</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (<i>Cupressus</i></entry>
+<entry>Malathion</entry>
+<entry>Tarragon Oil (<i>Artemisia</i></entry>
+</row>
+<row>
+<entry>spp. = Cypress)</entry>
+<entry/>
+<entry><i>dracunculus</i>)</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (Juniper and</entry>
+<entry>Malathion Dicarboxylic Acid</entry>
+<entry>Tarwood Oil</entry>
+</row>
+<row>
+<entry>Cypress)</entry>
+<entry/>
+<entry>(<i>Laxostylis alata</i>)</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (<i>Juniperus</i></entry>
+<entry>Malic Acid</entry>
+<entry>tau-Fluvalinate</entry>
+</row>
+<row>
+<entry><i>ashei </i>= Ashe's Juniper, Texan</entry>
+</row>
+<row>
+<entry>Cedarwood)</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (<i>Juniperus</i></entry>
+<entry>Marigold Oil (<i>Tagetes</i></entry>
+<entry>Teflubenzuron</entry>
+</row>
+<row>
+<entry><i>macropoda </i>= Pencil Cedar)</entry>
+<entry><i>minuta</i>)</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (<i>Juniperus </i>spp.)</entry>
+<entry>Matrine</entry>
+<entry>Temephos</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (<i>Juniperus</i></entry>
+<entry>Menthone</entry>
+<entry>Temephos Sulfoxide</entry>
+</row>
+<row>
+<entry><i>virginiana </i>= Eastern</entry>
+</row>
+<row>
+<entry>Redcedar, Southern</entry>
+</row>
+<row>
+<entry>Redcedar)</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (Oil of</entry>
+<entry>Metaflumizone</entry>
+<entry>Terpinene</entry>
+</row>
+<row>
+<entry>Juniper Tar = <i>Juniperus </i>spp.)</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (<i>Thuja</i></entry>
+<entry>Metarhizium anisopliae</entry>
+<entry>Terpineol</entry>
+</row>
+<row>
+<entry><i>occidentalis </i>= Eastern</entry>
+<entry>Strain F52 Spores</entry>
+</row>
+<row>
+<entry>Arborvitae)</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (<i>Thuja </i>spp. =</entry>
+<entry>Methoprene</entry>
+<entry>Tetrachlorvinphos, Z-isomer</entry>
+</row>
+<row>
+<entry>Arborvitae)</entry>
+</row>
+<row>
+<entry>Cedarwood Oil (unspecified)</entry>
+<entry>Methoprene Acid</entry>
+<entry>Tetramethrin</entry>
+</row>
+<row>
+<entry>Cedrene</entry>
+<entry>Methyl Anabasine</entry>
+<entry>Tetramethrin, other related</entry>
+</row>
+<row>
+<entry>Cedrol</entry>
+<entry>Methyl Bromide</entry>
+<entry>Theta-Cypermethrin</entry>
+</row>
+<row>
+<entry>Chevron 100 Neutral Oil</entry>
+<entry>Methyl Cinnamate</entry>
+<entry>Thiamethoxam</entry>
+</row>
+<row>
+<entry>Chlordane</entry>
+<entry>Methyl cis-3-(2 2-</entry>
+<entry>Thujone</entry>
+</row>
+<row>
+<entry/>
+<entry>dichlorovinyl)-2 2-</entry>
+</row>
+<row>
+<entry/>
+<entry>dimethylcyclopropane-1-</entry>
+</row>
+<row>
+<entry/>
+<entry>carboxylate</entry>
+</row>
+<row>
+<entry>Chlorfenapyr</entry>
+<entry>Methyl Eugenol</entry>
+<entry>Thyme</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Thymus vulgaris</i>)</entry>
+</row>
+<row>
+<entry>Chloropicrin</entry>
+<entry>Methyl Nonyl Ketone</entry>
+<entry>Thyme Oil</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Thymus vulgaris</i>)</entry>
+</row>
+<row>
+<entry>Chlorpyrifos</entry>
+<entry>Methyl Salicylate</entry>
+<entry>Thymol</entry>
+</row>
+<row>
+<entry>Cinerin I</entry>
+<entry>Methyl trans-3-(2 2-</entry>
+<entry>Timur Oil</entry>
+</row>
+<row>
+<entry/>
+<entry>dichlorovinyl)-2 2-</entry>
+<entry>(<i>Zanthoxylum alatum</i>)</entry>
+</row>
+<row>
+<entry/>
+<entry>dimethylcyclopropane-1-</entry>
+</row>
+<row>
+<entry/>
+<entry>carboxylate</entry>
+</row>
+<row>
+<entry>Cinerin II</entry>
+<entry>Metofluthrin</entry>
+<entry>Tralomethrin</entry>
+</row>
+<row>
+<entry>Cinerins</entry>
+<entry>MGK 264 (N-octyl</entry>
+<entry>trans-3-(2,2-Dichlorovinyl)-</entry>
+</row>
+<row>
+<entry/>
+<entry>Bicycloheptene</entry>
+<entry>2,2-dimethylcyclopropane</entry>
+</row>
+<row>
+<entry/>
+<entry>Dicarboximide)</entry>
+<entry>carboxylic acid</entry>
+</row>
+<row>
+<entry>Cinnamon</entry>
+<entry>Mineral Oil</entry>
+<entry>Trans-Alpha-Ionone</entry>
+</row>
+<row>
+<entry>(<i>Cinnamomum zeylanicum</i>)</entry>
+</row>
+<row>
+<entry>Cinnamon Oil</entry>
+<entry>Mineral Oil, Petroleum</entry>
+<entry>Transfluthrin</entry>
+</row>
+<row>
+<entry>(<i>Cinnamomum zeylanicum</i>)</entry>
+<entry>Distillates, Solvent Refined</entry>
+</row>
+<row>
+<entry/>
+<entry>Light</entry>
+</row>
+<row>
+<entry>cis-3-(2,2-Dichlorovinyl)-2,2-</entry>
+<entry>Mixture of Citronella Oil,</entry>
+<entry>trans-Ocimene</entry>
+</row>
+<row>
+<entry>dimethylcyclopropane</entry>
+<entry>Citrus Oil, Eucalyptus Oil,</entry>
+</row>
+<row>
+<entry>carboxylic acid</entry>
+<entry>Pine Oil</entry>
+</row>
+<row>
+<entry>cis-Deltamethrin</entry>
+<entry>MMF (Poly (oxy-1,2-</entry>
+<entry>Transpermethrin</entry>
+</row>
+<row>
+<entry/>
+<entry>ethanediyl), alpha-</entry>
+</row>
+<row>
+<entry/>
+<entry>isooctadecyl-omega-</entry>
+</row>
+<row>
+<entry/>
+<entry>hydroxy)</entry>
+</row>
+<row>
+<entry>Cismethrin</entry>
+<entry>Mosquito Egg Pheromone</entry>
+<entry>trans-Resmethrin</entry>
+</row>
+<row>
+<entry>cis-Permethrin</entry>
+<entry>Mugwort (<i>Artemisia vulgaris</i>)</entry>
+<entry>Trichlorfon</entry>
+</row>
+<row>
+<entry>Citral</entry>
+<entry>Mugwort Oil (<i>Artemisia</i></entry>
+<entry>Triethylene Glycol</entry>
+</row>
+<row>
+<entry/>
+<entry><i>vulgaris</i>)</entry>
+</row>
+<row>
+<entry>Citric Acid</entry>
+<entry>Mustard Oil (<i>Brassica </i>spp.)</entry>
+<entry>Triflumuron</entry>
+</row>
+<row>
+<entry>Citronella</entry>
+<entry>Myrcene</entry>
+<entry>Trifluralin</entry>
+</row>
+<row>
+<entry>(<i>Cymbopogon winterianus</i>)</entry>
+</row>
+<row>
+<entry>Citronella Oil</entry>
+<entry>Naled</entry>
+<entry>Turmeric Oil (<i>Curcuma</i></entry>
+</row>
+<row>
+<entry>(<i>Cymbopogon winterianus</i>)</entry>
+<entry/>
+<entry><i>aromatica</i>)</entry>
+</row>
+<row>
+<entry>Citronellal</entry>
+<entry>Neem Oil (<i>Azadirachta</i></entry>
+<entry>Uniconizole-P</entry>
+</row>
+<row>
+<entry/>
+<entry><i>indica</i>)</entry>
+</row>
+<row>
+<entry>Citronellol</entry>
+<entry><i>Nepeta cataria </i>(Catnip)</entry>
+<entry>Ursolic Acid</entry>
+</row>
+<row>
+<entry>Citrus Oil (<i>Citrus </i>spp.)</entry>
+<entry>Nepetalactone</entry>
+<entry>Veratridine</entry>
+</row>
+<row>
+<entry>Clove</entry>
+<entry>Nicotine</entry>
+<entry><i>Verbena </i>Oil</entry>
+</row>
+<row>
+<entry>(<i>Syzygium aromaticum</i>)</entry>
+<entry/>
+<entry>(<i>Verbena </i>spp.)</entry>
+</row>
+<row>
+<entry>Clove Oil</entry>
+<entry>Nonanoic Acid</entry>
+<entry>Verbenone</entry>
+</row>
+<row>
+<entry>(<i>Syzygium aromaticum</i>)</entry>
+</row>
+<row>
+<entry>CME 13406</entry>
+<entry>Nornicotine</entry>
+<entry>Violet Oil</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Viola odorata</i>)</entry>
+</row>
+<row>
+<entry>Coriander Oil</entry>
+<entry>Novaluron</entry>
+<entry>White Pepper</entry>
+</row>
+<row>
+<entry>(<i>Coriandrum sativum</i>)</entry>
+<entry/>
+<entry>(<i>Piper nigrum</i>)</entry>
+</row>
+<row>
+<entry>Coriandrol</entry>
+<entry>Ocimene</entry>
+<entry>Wintergreen Oil</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(<i>Gaultheria </i>spp.)</entry>
+</row>
+<row>
+<entry><i>Coriandrum sativum</i></entry>
+<entry><i>Ocimum </i>&#xd7; <i>citriodorum </i>(Thai</entry>
+<entry>Wood Creosote</entry>
+</row>
+<row>
+<entry>(Coriander)</entry>
+<entry>Lemon Basil)</entry>
+</row>
+<row>
+<entry>Corn Gluten Meal</entry>
+<entry><i>Ocimum </i>&#xd7; <i>citriodorum</i></entry>
+<entry>Wood Tar</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2018;Lesbos&#x2019; (Greek Column Basil)</entry>
+</row>
+<row>
+<entry>Corn Oil (<i>Zea mays </i>ssp.</entry>
+<entry><i>Ocimum americanum</i></entry>
+<entry>Wormwood Oil (<i>Artemisia</i></entry>
+</row>
+<row>
+<entry><i>Mays</i>)</entry>
+<entry>(Lemon Basil)</entry>
+<entry><i>absinthium</i>)</entry>
+</row>
+<row>
+<entry><i>Corymbia citriodora </i>(Lemon</entry>
+<entry><i>Ocimum basilicum </i>(Sweet</entry>
+<entry>Ylang-ylang Oil</entry>
+</row>
+<row>
+<entry><i>Eucalyptus</i>)</entry>
+<entry>Basil)</entry>
+<entry>(<i>Canagium odoratum</i>)</entry>
+</row>
+<row>
+<entry>Cottonseed Oil</entry>
+<entry><i>Ocimum basilicum </i>var.</entry>
+<entry>Zeta-Cypermethrin</entry>
+</row>
+<row>
+<entry>(<i>Gossypium </i>spp.)</entry>
+<entry><i>minimum </i>(Dwarf Bush Basil)</entry>
+</row>
+<row>
+<entry>Coumaphos</entry>
+<entry><i>Ocimum kilimandscharicum </i>&#xd7;</entry>
+<entry>Zinc Metal Strips</entry>
+</row>
+<row>
+<entry/>
+<entry><i>basilicum </i>(African Blue Basil)</entry>
+</row>
+<row>
+<entry>Cryolite</entry>
+<entry><i>Ocimum minimum </i>(Greek</entry>
+</row>
+<row>
+<entry/>
+<entry>Bush Basil)</entry>
+</row>
+<row>
+<entry>Cub&#xe9; Extracts</entry>
+<entry>Oil of Balsam Peru</entry>
+</row>
+<row>
+<entry>(<i>Lonchocarpus utilis</i>)</entry>
+<entry>(<i>Myroxylon pereirae</i>)</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00003">*A list of Public Health Pesticides is maintained at the IR-4 Public Health Pesticides Database; Version from March 2012</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0033" num="0029">In yet another alternative method, the aforementioned methods can be applied to additional susceptible arthropods, including economically and medically important pests (including animal and human health), where one life stage and/or sex does not cause direct damage.</p>
+<p id="p-0034" num="0030">In other alternative delivery techniques, the present method can be applied using non-targeted, beneficial or non-pest arthropods that utilize the same breeding site as the targeted arthropod. For example, the DTI could be PPF-treated arthropods that come in contact with the targeted insect's breeding sites. As an example, Oytiscidae adults (Predaceous Diving Beetles) could be reared or field collected and treated with PPF to become the DTI. Additional candidate insects that could serve as the DTI include, but are not limited to: Diptera (e.g., Tipulidae, Chironomidae, Psychodidae, Ceratapogonidae, Cecidomyiidae, Syrphidae, Sciaridae, Stratiomyiidae, Phoridae), Coleoptera (e.g., Staphylinidae, Scirtidae, Nitidulidae, Oytiscidae, Noteridae) and Hemiptera (e.g., Pleidae, Belostomatidae, Corixidae, Notonectidae, Nepidae).</p>
+<p id="p-0035" num="0031">An additional benefit of the latter strategy (i.e. non-Culicid DTI) is that the DTI may be easier to rear, larger size (allowing increased levels of PPF), be less affected by the PPF, or have an increased probability of direct contact with the breeding site of the targeted arthropod (i.e. not necessarily rely on transfer of the PPF via mating, improved location of breeding sites).</p>
+<p id="p-0036" num="0032">It is noted that the species of DTI would vary based upon the specific application, habitat and location. For example, the regulatory issues may be simplified if the species used for DTI were indigenous. However, it is noted that there are numerous examples of exotic arthropods being imported for biological control. Furthermore, different DTI species may be more/less appropriate for urban, suburban and rural environments.</p>
+<p id="p-0037" num="0033">Referring to the following examples for exemplary purposes only, but not to limit the scope of the invention in any way, <i>Aedes albopictus </i>were used in experiments from a colony established in 2008 from Lexington, Ky. <i>Callosobrochus maculatus </i>were purchased from Carolina Biological Supply Company (Burlington, N.C.) and maintained on mung beans (<i>Vigna radiata</i>). Rearing and experiments were performed in ambient conditions (&#x2dc;25&#xb0; C. ; 80% humidity). Larvae were reared in pans with &#x2dc;500 ml water and crushed cat food (Science Diet; Hill's Pet Nutrition, Inc.). Adults were provided with raisins as a sugar source. For line maintenance, females were blood fed by the author.</p>
+<p id="p-0038" num="0034">Sumilary 0.5G was generously provided by Sumitomo Chemical (London, UK). Liquid PPF was purchased from Pest Control Outlet (New Port Richey, Fla.). <i>Bacillus thuringiensis </i>subspecies israelensis technical powder was purchased from HydroToYou (Bell, Calif.). For application, Sumilary granules were crushed into a fine powder and applied using a bellows-type dusting apparatus (J.T. Eaton Insecticidal Duster #530; Do-it-yourself Pest Control, Suwanee, Ga.). Liquid PPF was applied using a standard squirt bottle (WalMart, Lexington, Ky.). Treated adults were held in individualized bags with a raisin as a sucrose source until used in larval bioassays. Larval bioassays were performed in 3 oz. Dixie Cups (Georgia-Pacific, Atlanta, Ga.) containing ten L3 larvae, 20 ml water and crushed cat food.</p>
+<p id="p-0039" num="0035">Referring to methods for the larvicide application to the selected mosquito larvicide carrier insects in powder by dusting or liquid by spraying insects, any application technique known to those skilled in the art can be used. For example, the method disclosed in JP5-320001 (hereinafter incorporated by reference) describes spraying its captured female mosquitoes with a larvicide while the mosquitoes are contained. See JP5-320001, paragraph [0015]. Further, reference is made to the book entitled Mosquito Ecology&#x2014;Field Sampling Methods, John B. Silver, 2008, Chapter 14 (herein incorporated by reference), which describes dusting target insects which are necessarily contained or confined such as in wire cages with mosquito netting.</p>
+<p id="p-0040" num="0036">As a person skilled in the art will appreciate, flying insects necessarily require confinement during a larvicide application process.</p>
+<p id="p-0041" num="0037">Dusting or spraying insects in a confined space with a larvicide produces a larvicide coating essentially over the entire exterior surface of the target insects. <figref idref="DRAWINGS">FIG. <b>2</b></figref> is a photograph showing the complete larvicide coating of the target insects (mosquitoes in the photograph). It is important to note that portions of the insects' wings, back, abdomen, tarsi (&#x201c;feet&#x201d;) and other parts will necessarily be coated.</p>
+<p id="p-0042" num="0038">Adult treatment does not affect survival. Male and female <i>Ae. albopictus </i>treated with pulverized Sumilary showed good survival in laboratory assays, which is indistinguishable from that of untreated control individuals. In an initial assay, 100% survival was observed for adults in both the Sumilary treated (n=8 replications) and untreated control groups (n=2 replications) during a two-day observation period. In a second comparison, adults were monitored for eight days. Similar to the initial experiment, no difference was observed between the treated and control groups. Specifically, a similar average longevity was observed comparing the Sumilary treated (6.3&#xb1;2.0 days; n=4) and undusted control (7.3 days; n=1) groups. In a third experiment, treated and untreated adults were separated by sex and monitored for eight days. Similar to prior experiments, survival was not observed to differ between the treated and untreated groups (Figure).</p>
+<p id="p-0043" num="0039">In a separate experiment, the survival of beetles (<i>Callosobrochus maculatus</i>) dusted with Sumilary were compared to an undusted control group. In both the treatment and control groups, 100% survival was observed during the four day experiment.</p>
+<p id="p-0044" num="0040">To assess the larvicidal properties of treated adults, Sumilary dusted adults and undusted control adults were placed individually into bioassay cups with larvae. No adults eclosed from the five assay cups receiving a treated adult; in contrast, high levels of adult eclosion was observed from all four control assay cups that received an untreated adult. Chi square analysis shows the adult eclosion resulting in assays receiving a treated adult to be significantly reduced compared to that in the control group (X2 (1, N=9)=12.37, p&#x3c;0.0004). The bioassay experiment was repeated in a subsequent, larger experiment, yielding similar results; adult eclosion in the treated group was significantly reduced compared to the control group (X2 (1, N=24)=13.67, p&#x3c;0.0002).</p>
+<p id="p-0045" num="0041">A similar bioassay was used to assess the larvicidal properties of treated beetles. Similar to the prior results, adult eclosion from assays in the treated beetle group was significantly reduced compared to the control group (X2 (1, N=14)=13.38, p&#x3c;0.0003).</p>
+<p id="p-0046" num="0042">To examine an additional formulation of PPF, an identical bioassay was performed, but a liquid PPF solution was applied (using the techniques disclosed herein) to mosquito adults, instead of Sumilary dust. Similar to the prior results, adult eclosion in the treated group was significantly reduced compared to the control group (X2 (1, N=14)=16.75, p&#x3c;0.0001).</p>
+<p id="p-0047" num="0043">To examine an example of the biological class of juvenile active insecticides (Table 2) and different active ingredients, an identical bioassay was performed, but a powder formulation of <i>Bacillus thuringiensis </i>subspecies israelensis technical powder was applied to mosquito adults, using the same method as the Sumilary dust. Similar to the prior results, no difference was observed between the longevity of treated versus untreated adults (X2 (1, N=15)=3.2308, p&#x3e;0.09). Upon exposing larvae to treat adults, eclosion was significantly reduced compared to the control group (X2 (1, N=28)=15.328, p&#x3c;0.0001).</p>
+<p id="p-0048" num="0044">The results demonstrate that <i>C. maculatus </i>and <i>A. albopictus </i>adults do not experience reduced survival resulting from direct treatment with the insecticides. Specifically, the survival of treated mosquitoes and beetles did not differ significantly from that of the untreated conspecifics. The results are consistent with the traits required for the proposed application of treated adults as a self-delivering larvicide. Treated adults must survive, disperse and find breeding sites under field conditions. The results of the feasibility assays reported here provide evidence of an advantageous method of mosquito or other arthropod control.</p>
+<p id="p-0049" num="0045">Bioassays characterizing the larvicidal properties of treated adults show significant lethality resulting from the presence of treated mosquitoes and beetles. Similar results were observed for multiple formulations (i.e. dust and liquid) and multiple active ingredients. Furthermore, representative examples from each of the chemical and biological classes (Tables 1 and 2) of juvenile active insecticides have been demonstrated. This is also consistent with those traits required for the proposed application of treated arthropods as a self-delivering insecticide. Specifically, treated arthropods that reach mosquito breeding sites can be expected to impact immature mosquitoes that are present at the site.</p>
+<p id="p-0050" num="0046">Experiment</p>
+<p id="p-0051" num="0047">The following experiment demonstrates the effectiveness of complete larvicide coating on target mosquito larvicide carrier insects.</p>
+<p id="p-0052" num="0048">The following experiment shows how a larvicide coating applied to insects by (1) dusting with a powder and (2) spraying with a liquid. The experiment demonstrates coverage using the spraying and dusting techniques described above.</p>
+<p id="p-0053" num="0049">Prior to the release of mosquitoes (larvicide carrier insects), dusting or liquid spraying techniques were used to treat mosquitoes held in a confined area (e.g. cage): 1) a dusting application using a powder-based formulation and 2) a spray application using a liquid formulation. One group of 1000 mosquitoes was treated with dust. A second group of 1000 mosquitoes was sprayed. And a third group was sprayed with water (negative control). For each application method, 100 individuals from each group were randomly selected and analyzed. The spraying and dusting was done in accordance with the disclosed techniques of the present disclosure.</p>
+<p id="p-0054" num="0050">Each group was analyzed under a UV microscope to assess coverage. Coverage was assessed for the head, thorax, abdomen and legs of each individual. Presence of the larvicide was indicated by fluorescing particles located on each body part (<figref idref="DRAWINGS">FIG. <b>3</b></figref>). Results demonstrate the application methods provided a consistent rate of coverage per application method (<figref idref="DRAWINGS">FIG. <b>2</b></figref>). The dusting application method resulted in a heavier pesticide load when compared to the liquid application method. However, for both application methods, all body parts analyzed were found to have pesticide particles present for all individuals assessed (Table 4). No fluorescing particles were identified on individuals within the water-treated control group assessed in the study.</p>
+<p id="p-0055" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="308pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Coverage results of individuals analyzed for the</entry>
+</row>
+<row>
+<entry>presence of pesticide following ADAM applications</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="56pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="center"/>
+<colspec colname="5" colwidth="56pt" align="center"/>
+<colspec colname="6" colwidth="56pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Application</entry>
+<entry>Individuals</entry>
+<entry>Head</entry>
+<entry>Thorax</entry>
+<entry>Abdomen</entry>
+<entry>Legs</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="28pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="center"/>
+<colspec colname="9" colwidth="28pt" align="center"/>
+<colspec colname="10" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Method</entry>
+<entry>Analyzed</entry>
+<entry>Present</entry>
+<entry>Absent</entry>
+<entry>Present</entry>
+<entry>Absent</entry>
+<entry>Present</entry>
+<entry>Absent</entry>
+<entry>Present</entry>
+<entry>Absent</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<colspec colname="6" colwidth="28pt" align="char" char="."/>
+<colspec colname="7" colwidth="28pt" align="char" char="."/>
+<colspec colname="8" colwidth="28pt" align="char" char="."/>
+<colspec colname="9" colwidth="28pt" align="char" char="."/>
+<colspec colname="10" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Control</entry>
+<entry>100</entry>
+<entry>0</entry>
+<entry>100</entry>
+<entry>0</entry>
+<entry>100</entry>
+<entry>0</entry>
+<entry>100</entry>
+<entry>0</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry>Dusting</entry>
+<entry>100</entry>
+<entry>100</entry>
+<entry>0</entry>
+<entry>100</entry>
+<entry>0</entry>
+<entry>100</entry>
+<entry>0</entry>
+<entry>100</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry>Spray</entry>
+<entry>100</entry>
+<entry>100</entry>
+<entry>0</entry>
+<entry>100</entry>
+<entry>0</entry>
+<entry>100</entry>
+<entry>0</entry>
+<entry>100</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0056" num="0051">Table 4 shows 100% of the insects sprayed and dusted had their entire head, thorax, abdomen and legs covered with the larvicide.</p>
+<p id="p-0057" num="0052">It will now be clear that the present invention is directed to aw novel formulation and method for treating insect populations, including, but not limited to, mosquito populations. Unlike prior control methods that disseminate a pesticide using dissemination stations, followed by an insect in the wild entering the dissemination station to become treated with the pesticide, the present formulation and method starts with generating insect carriers in an artificial controlled environment or setting. The insect carriers can either be factory-reared or adults captured from the wild. Subsequently, the carriers are released into an environment as the control agent or formulation. Thus, the carriers, i.e. the insects with the pesticide/larvicide, are the formulation for insect control, whereas, in prior methods and formulations, the formulation is a treated dissemination station, not a treated insect.</p>
+<p id="p-0058" num="0053">One of ordinary skill in the art will recognize that the present treatment, which targets insect larvae, offers advantages over prior art techniques of insect control which target adult insects. The present method is a trans-generation insect control technique which targets the next generation of insects, whereas prior techniques target the present generation, i.e. adult insects. For example, Garcia-Munguia et al., &#x201c;Transmission of <i>Beauveria bassiana </i>from male to female <i>Aedes aegypti </i>mosquitoes,&#x201d; Parasites &#x26; Vectors, 4:24, 2011 is a paper published on Feb. 26, 2011 describing mosquito control of adults and, thus, the paper describes the killing of the present generation of insects. The Garcia-Munguia paper describes using fungus-treated males to deliver insecticidal fungus to adult females. The fungus shortens the female lifespan and reduces fecundity of adult females. This type of approach (using insects to deliver an adulticide) is not particularly novel, and has been used in several important insect species, including examples described in Baverstock et al., &#x201c;Entomopathogenic fungi and insect behaviour: from unsuspecting hosts to targeted vectors,&#x201d; Biocontrol, 55:89-102, 2009.</p>
+<p id="p-0059" num="0054">As described above, the present technique uniquely uses factory-treatment of adult insects with a larvicide in which the larvicide is chemical or biological in nature. No prior technique includes the manufacturing of larvicidal-treated insects for trans-generational delivery. Further, unlike prior techniques that treat adults with fungi that kills adults, the present technique merely treats adult males with larvicidal compounds which do not kill the adult males; rather, the treatment delivers the larvicidal compounds in a trans-generational delivery to kill the next generation, i.e. larvae.</p>
+<p id="p-0060" num="0055">Advantages which follow from the present technique include using the adults treated with the larvicide to communicate the larvicide to other adults through the lifespan of the initially treated adult insect. As a result, there is an exponential effect of the present technique which delivers a larvicide using treated adults to transfer the treatment to other adults, rather than prior techniques which kill the adult insect.</p>
+<p id="p-0061" num="0056">Further, the present technique delivers the larvicide by the treated adults into breeding sites where the larvicide can affect and kill thousands of developing, immature mosquitoes. This technique is unlike prior techniques which merely target the adults and, thus, only kill the directly affected adults and not thousands of developing, immature mosquitoes, i.e. a next generation of insects.</p>
+<p id="p-0062" num="0057">In addition, the present technique allows for the treatment of insect breeding sites, including cryptic, i.e. previously unknown, breeding sites which prior insect control techniques do not treat.</p>
+<p id="p-0063" num="0058">Further, the present technique allows one to affect insect populations of the species of a treated insect, as well as other species which share a common breeding site. Since the present technique uses adult insects to deliver a larvicide to a breeding site, the present technique allows for the transmission of a larvicide to breeding sites which may be common among more than one insect species. As a result, the present technique can target the species of the treated insect, as well as insects which share a common breeding site.</p>
+<p id="p-0064" num="0059">In addition, in contrast to adulticide methods, the present larvicide technique allows a pesticide to persist in a breeding site after the treated insect has departed or died.</p>
+<p id="p-0065" num="0060">One additional advantage of the present method is that the agents being disseminated are the insects themselves, as carriers of the insecticide which will directly affect an insect population. Prior formulation and methods require indirect dissemination, in which insects of a population in the wild must first find a dissemination station, acquire an appropriate dose of the insecticide, and then return to the population with the larvicide of a dissemination station in order to have an affect on the insect population.</p>
+<p id="p-0066" num="0061">It will now be clear to one of ordinary skill in the art that the present formulation of pesticide carrier insects and the present method for controlling insect populations based on the present experiments. For example, if the insects have a larval stage, adult insects can be used as carriers of larvicides which have minimal affect on the adult insect, but are lethal to the larvae, thereby controlling the insect population.</p>
+<p id="p-0067" num="0062">While the invention has been described in connection with numerous embodiments, it is to be understood that the specific mechanisms and techniques which have been described are merely illustrative of the principles of the invention, numerous modifications may be made to the methods and apparatus described without departing from the spirit and scope of the invention.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method for insect control, comprising:
+<claim-text>rearing insects in a laboratory or artificially controlled environment, the insects selected from the group consisting of male mosquitoes, non-mosquito insects and altered female mosquitoes; and</claim-text>
+<claim-text>applying in a laboratory or artificially controlled environment, one or more mosquito larvicide to an exterior surface of the insects to produce larvicide carrying insects,</claim-text>
+<claim-text>wherein, when the larvicide carrying insects are released to a mosquito population in the wild, the larvicide carrying insects control the mosquito population.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprises delivering the larvicide carrying insects to a mosquito population in the wild and releasing the larvicide carrying insects, to thereby control the mosquito population.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the insects are non-mosquito insects.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the non-mosquito insects are non-mosquitoes that come in contact with the mosquitoes' breeding sites and are selected from Diptera, Coleoptera and Hemiptera.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the insects are altered female mosquitoes.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein rearing insects in a laboratory or artificially controlled environment comprises feeding the altered female mosquitoes exclusively by nourishment other than blood.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, further comprises altering female mosquitoes to have limited ability to procreate, vector disease or bite, thereby generating the altered female mosquitoes.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the insects are male mosquitoes.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein applying one or more mosquito larvicide comprises applying a larvicide coating to the surface of the insects, while the insects are in a controlled environment, via (i) dusting with a powder, granular or otherwise solid larvicide directed at the insects or (ii) spraying with a liquid insecticide containing the one more larvicide directed at the insects, wherein said the one or more mosquito larvicide has minimal impact on the insects to which the larvicide is applied and which larvicide affects juvenile mosquito survival or interferes with metamorphosis of juvenile mosquito insects to adulthood.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the larvicide coating applied to the insects is sufficient so that when the larvicide coated insects are released from the controlled environment and introduced into an environment with an indigenous mosquito population, the larvicide coated insects are effective to deliver a sufficient amount of larvicide to other insects' or an indigenous spawning sites to affect juvenile mosquito survival or interfere with metamorphosis of juvenile mosquito insects to adulthood, thereby controlling the indigenous mosquito population.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the insects are male mosquitoes.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. Larvicide coated insects produced by the method of <claim-ref idref="CLM-00011">claim 11</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein applying one or more mosquito larvicide comprises applying a larvicide coating to the surface of the insects, while the insects are in a controlled environment, via (i) dusting with a powder, granular or otherwise solid larvicide directed at the insects or (ii) spraying with a liquid insecticide containing the one more larvicide directed at the insects, wherein said the one or more mosquito larvicide has minimal impact on the insects to which the larvicide is applied and which larvicide affects juvenile mosquito survival or interferes with metamorphosis of juvenile mosquito insects to adulthood.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the larvicide coating applied to the insects is sufficient so that when the larvicide coated insects are released from the controlled environment and introduced into an environment with an indigenous mosquito population, the larvicide coated insects are effective to deliver a sufficient amount of larvicide to other insects' or an indigenous spawning sites to affect juvenile mosquito survival or interfere with metamorphosis of juvenile mosquito insects to adulthood, thereby controlling the indigenous mosquito population.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. Larvicide coated insects produced by the method of <claim-ref idref="CLM-00014">claim 14</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein applying one or more mosquito larvicide comprises applying a larvicide coating to the surface of the insects, while the insects are in a controlled environment, via (i) dusting with a powder, granular or otherwise solid larvicide directed at the insects or (ii) spraying with a liquid insecticide containing the one more larvicide directed at the insects, wherein said the one or more mosquito larvicide has minimal impact on the insects to which the larvicide is applied and which larvicide affects juvenile mosquito survival or interferes with metamorphosis of juvenile mosquito insects to adulthood.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the larvicide coating applied to the insects is sufficient so that when the larvicide coated insects are released from the controlled environment and introduced into an environment with an indigenous mosquito population, the larvicide coated insects are effective to deliver a sufficient amount of larvicide to other insects' or an indigenous spawning sites to affect juvenile mosquito survival or interfere with metamorphosis of juvenile mosquito insects to adulthood, thereby controlling the indigenous mosquito population.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. Larvicide coated insects produced by the method of <claim-ref idref="CLM-00017">claim 17</claim-ref>.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

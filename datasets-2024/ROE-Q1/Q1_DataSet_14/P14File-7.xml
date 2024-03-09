@@ -1,0 +1,1764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225373A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225373</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18002456</doc-number>
+<date>20210701</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="international">
+<country>WO</country>
+<doc-number>PCT/CN2020/100054</doc-number>
+<date>20200703</date>
+</priority-claim>
+<priority-claim sequence="02" kind="regional">
+<country>EP</country>
+<doc-number>20190633.6</doc-number>
+<date>20200812</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>2</main-group>
+<subgroup>62</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>19</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>2</main-group>
+<subgroup>62</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>19</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e79">BEVERAGE COMPOSITIONS COMPRISING A CLOUDING AGENT</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Firmenich SA</orgname>
+<address>
+<city>Satigny</city>
+<country>CH</country>
+</address>
+</addressbook>
+<residence>
+<country>CH</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>KANG</last-name>
+<first-name>Ding</first-name>
+<address>
+<city>Shanghai</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>SHI</last-name>
+<first-name>Lei</first-name>
+<address>
+<city>Shanghai</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>MA</last-name>
+<first-name>Qiu-Min</first-name>
+<address>
+<city>Shanghai</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>ZHANG</last-name>
+<first-name>Fei</first-name>
+<address>
+<city>Shanghai</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Firmenich SA</orgname>
+<role>03</role>
+<address>
+<city>Satigny</city>
+<country>CH</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2021/068213</doc-number>
+<date>20210701</date>
+</document-id>
+<us-371c12-date><date>20221219</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention relates to a beverage composition comprising a clouding agent selected from the group consisting of coacervate hydrocolloid particles comprising a protein and a polysaccharide, regenerated insoluble dietary fibers, partially soluble dietary fibers, emulsion stabilized by regenerated insoluble dietary fibers and/or partially soluble dietary fibers and any combination thereof, and optionally, one or more beverage ingredients as well as a beverage comprising the same and uses thereof.</p>
+</abstract>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to a beverage composition comprising a clouding agent selected from the group consisting of coacervate hydrocolloid particles comprising a protein and a polysaccharide, regenerated insoluble dietary fibers, partially soluble dietary fibers, emulsion stabilized by regenerated insoluble dietary fibers and/or partially soluble dietary fibers and any combination thereof, and optionally, one or more beverage ingredients as well as a beverage comprising the same and uses thereof.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Clouding agents play an important role as food additive and are applied in beverages such as fruit juices or fruit-flavored beverages to impart inter alia turbidity and, thus, to achieve a more natural-looking and visually appealing beverage similar to fresh juice.</p>
+<p id="p-0004" num="0003">The food industry has traditionally used brominated vegetable oil and titanium dioxide as clouding agents. However, the use of brominated vegetable oil has been regulatory restricted and in some regions, e.g. in the European Union, completely banned from use as a food additive. Recently, the use of titanium dioxide has been banned as a clouding agent in beverages in many countries due to its potential health risks. Restrictions of these clouding agents resulted in a need to find a substitute beverage clouding agent. Natural clouding agents in turn are highly desired by consumers.</p>
+<p id="p-0005" num="0004">The food industry has also used fat-based emulsions as clouding agents. However, clouding agents based on fat develops an off taste, such as an undesirable rancid note due to the hydrolysis of the fat. Moreover, the presence of fat leads to further disadvantages such as clumping of the mixture or significantly decreased solubility of the mixture when reconstituted in water. A reduction of fat in turn reduces the fat intake by the consumers and can lead to prevention of the risk of obesity and diseases, which is associated with obesity, such as heart diseases and diabetes and specific types of cancer.</p>
+<p id="p-0006" num="0005">There is a need to provide beverage compositions comprising clouding agents for use in beverages that can impart stable turbidity in liquids, in particular in acidic as well as in neutral liquids. Moreover, there is a need to provide beverage compositions comprising clouding agents without imparting a strong off taste or any deleterious effect on flavor and which is based on natural compounds.</p>
+<p id="p-0007" num="0006">The present invention addresses these needs. In particular, the present invention provides beverage composition comprising clouding agents, which are natural and perform at least the same or even better than titanium dioxide and, additionally, can offer further health benefits.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">According to the first aspect, the present invention relates to beverage composition comprising a clouding agent selected from the group consisting of coacervate hydrocolloid particles comprising a protein and a polysaccharide, regenerated insoluble dietary fibers, partially soluble dietary fibers, emulsion stabilized by regenerated insoluble dietary fibers and/or partially soluble dietary fibers and any combination thereof, and optionally, one or more beverage ingredients. These beverage compositions might be in a dry form such as a powder or in a liquid form such as a suspension or a concentrated liquid such as a syrup.</p>
+<p id="p-0009" num="0008">In a second aspect, the present invention relates to a beverage comprising the beverage composition and a beverage base.</p>
+<p id="p-0010" num="0009">In a third aspect, the present invention relates to the use of a beverage composition comprising a clouding agent selected from the group consisting of coacervate hydrocolloid particles comprising a protein and a polysaccharide, regenerated insoluble dietary fibers, partially soluble dietary fibers, emulsion stabilized by regenerated insoluble dietary fibers and/or partially soluble dietary fibers and any combination thereof, and optionally, one or more beverage ingredients for providing a beverage with stabilized turbidity, in particular wherein at least 6%, 10%, 20%, 50% and preferably 90% of the initial level of the turbidity is maintained over a period of at least 24 hours, 48 hours and preferably 168 hours when used in a beverage.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0011" num="0010">Although the present invention will be described with respect to particular embodiments, the detailed description shall not to be construed in a limiting sense.</p>
+<p id="p-0012" num="0011">In the context of the present invention, the terms &#x201c;about&#x201d; and &#x201c;approximately&#x201d; denote an interval of accuracy that a person skilled in the art will understand to still ensure the technical effect of the feature in question. The term typically indicates a deviation from the indicated numerical value of &#xb1;20%, preferably &#xb1;15%, more preferably &#xb1;10%, and even more preferably &#xb1;5%. In particular, these terms indicate the exact value.</p>
+<p id="p-0013" num="0012">As used in this specification and in the appended claims, the used &#x201c;%&#x201d; or &#x201c;wt. %&#x201d; means &#x201c;% by weight&#x201d; unless otherwise indicated.</p>
+<p id="p-0014" num="0013">In a first aspect, the invention relates to a beverage composition comprising a clouding agent selected from the group consisting of coacervate hydrocolloid particles comprising a protein and a polysaccharide, regenerated insoluble dietary fibers, partially soluble dietary fibers, emulsion stabilized by regenerated insoluble dietary fibers and/or partially soluble dietary fibers and any combination thereof, and optionally, one or more beverage ingredients.</p>
+<p id="p-0015" num="0014">By &#x201c;beverage composition&#x201d; is understood a composition, which used in or applied to liquids resulting in a beverage, i.e. resulting in a drinkable liquid.</p>
+<p id="p-0016" num="0015">In the context of the present invention, the terms &#x201c;liquid&#x201d; or &#x201c;beverage base&#x201d; might be used interchangeable. The beverage base might be any liquid, in particular any drinkable liquid. In an embodiment, the beverage base is a neutral or an acidic liquid. In an embodiment, the beverage bas is a nonalcoholic beverage. In an embodiment, the beverage base is selected from the group consisting of water, such as table water or mineral water, juices such as fruit juices, vegetable juices, juice drink, nectar, smoothie or soft drinks such as lemonade or cola or fruit flavored sodas, infusion drinks, such as coffee, coffee substitutes, tea, or tea-like drinks, such as iced tea, fruit tea, herbal tea, rooibos, mate tea, lapacho; or milk or yogurt drinks; or mixed drinks, such as cocktails; liquors; energy drinks or isotonic drinks or health drinks, or functional beverages (e.g., nutraceuticals). In an embodiment, the beverage base is water. In another preferred embodiment, the beverage base is a juice.</p>
+<p id="p-0017" num="0016">According to the present invention, the beverage composition comprises a clouding agent. By &#x201c;clouding agent&#x201d; is understood an agent, which imparts turbidity in a liquid or increases turbidity in a slightly turbid or turbid liquid.</p>
+<p id="p-0018" num="0017">Turbidity in turn is described as the opaqueness of a liquid due to the presence of suspended solids or due to an emulsion and is measured in terms of nephelometric turbidity units (NTU). Methods of measuring turbidity are known in the art. Most turbidity monitors are based on the nephelometric method, which measures the amount of light scattered at right angles to an incident light beam by particles present in a sample. Measured values are indicated in nephelometric turbidity units, NTU. The basic instrument incorporates a single light source and a photodetector to sense the scattered light. Internal lenses and apertures focus the light onto the sample, while the photodetector is set at 90 degrees to the direction of the incident light to monitor scattered light. Other methods of measuring turbidity might be analyzation of liquids by using UV&#x2014;visible spectrophotometer at a particular wavelength and by using turbidity-meter.</p>
+<p id="p-0019" num="0018">In the present invention, the turbidity values were measured using a Hach 2100N IS Laboratory Turbidimeter equipped with a LED light source (860&#xb1;30 nm). Measurement range: 0-1000 NTU. Resolution: 0.001 NTU. The inside and outside of the sample cell were thoroughly cleaned and dried and then the solution was loaded to the cell near the top (&#x2dc;30 mL). Each sample must be a uniform solution without bubbles or precipitates in the sample cell. The measured NTUs were average values of three replicates.</p>
+<p id="p-0020" num="0019">In an embodiment, the clouding agent is a natural clouding agent. The term &#x201c;natural clouding agent&#x201d; refers to a substance, which can be isolated from a natural product, such as a plant, a part of a plant, an animal or a part of an animal. Moreover, the isolate or the isolated clouding agent might be treated with acids or bases and in the context of the present invention is still considered as a natural clouding agent. The isolate is not considered a natural clouding agent in case it is chemically modified for example by means of derivatisations, such as for example halogenations, acetylations, esterifications, alkylations, silylations, cyclizations or carboxylations.</p>
+<p id="p-0021" num="0020">According to the present invention, the beverage composition may comprise coacervate hydrocolloid particles comprising a protein and a polysaccharide.</p>
+<p id="p-0022" num="0021">Coacervation is a phenomenon that produces coacervate colloidal droplets, wherein two liquid phases will co-exist: a dense, polymer-rich phase and a very dilute, polymer-deficient phase. By &#x201c;coacervate hydrocolloid particle&#x201d; is meant an organic-rich droplet formed via liquid-liquid phase separation. The phase separation is resulting from association of oppositely charged molecules, i.e. oppositely charged polyelectrolytes such as polysaccharides and proteins. Polysaccharides such as gum arabic or alginate might be understood as negatively charged polyelectrolytes. Proteins can be understood as positively charged polyelectrolytes.</p>
+<p id="p-0023" num="0022">The use of coacervate hydrocolloid particles as clouding agent is advantageous, since such coacervate hydrocolloid particles are stable in acidic as well as in neutral liquids, and are therefore applicable in both. In contrast thereto, clouding agents comprising aggregated proteins are typically not stable in a neutral environment.</p>
+<p id="p-0024" num="0023">In an embodiment, the beverage composition comprises coacervate hydrocolloid particles, wherein the protein of the coacervate hydrocolloid particles is a prolamin. Preferably, the prolamine is selected from the group of gliadin, secalin, avenin, hordein, zein, oryzin, kafirin, or any mixture thereof. Gliadin can be obtained from wheat, secalin can be obtained from rye, avenin can be obtained from oat, hordein can be obtained from barley, zein can be obtained from corn, oryzin can be obtained from rice, and kafirin can be obtained from sorghum.</p>
+<p id="p-0025" num="0024">In an embodiment, the beverage composition comprises coacervate hydrocolloid particles, wherein the protein of the coacervate hydrocolloid particles is selected from the group consisting of wheat protein, rice protein, pea protein, mung bean protein, whey protein and any combination thereof. Preferably, the protein of the coacervate hydrocolloid particles is whey protein. Preferably, the wheat protein is gliadin. Preferably, the rice protein is oryzin.</p>
+<p id="p-0026" num="0025">In an embodiment, the beverage composition comprises coacervate hydrocolloid particles, wherein the polysaccharide of the coacervate hydrocolloid particles is selected from the group consisting of pectin, carboxymethylcellulose, alginate, xanthan gum, gellan gum, gum arabic and any combination thereof. Preferably, the polysaccharide of the coacervate hydrocolloid particles is gum arabic. In case pectin is used as polysaccharide in the coacervate hydrocolloid particles, preferably low methoxyl pectin is used.</p>
+<p id="p-0027" num="0026">In an embodiment, the beverage composition comprises coacervate hydrocolloid particles, wherein the size of the coacervate hydrocolloid particles is from 0.5 to 5 &#x3bc;m, more preferably from 0.7 to 3 &#x3bc;m, still more preferably from 1 to 2 &#x3bc;m.</p>
+<p id="p-0028" num="0027">The particle size of the reconstituted powder in water was measured by Mastersizer 3000 (Malvern Instruments, Worcestershire, UK). The sample material and dispersant were set to be protein and water, respectively. All samples were measured without ultrasound and data (D[4,3]) were reported as average values of three measurements.</p>
+<p id="p-0029" num="0028">In an embodiment, the weight ratio of the protein to the polysaccharide in the coacervate hydrocolloid particles is from about 10:1 to 1:10, 3:1 to 1:8, 2:1 to 1:7, preferably 1:1 to 1:6, more preferably 1:2 to 1:5. In a particular embodiment, the weight ratio of the protein to the polysaccharide in the coacervate hydrocolloid particles is about 1:1, about 1:2, about 1:3, about 1:4, about 1:5, more preferably about 1:3.</p>
+<p id="p-0030" num="0029">In a preferred embodiment, the coacervate hydrocolloid particles comprise as a polysaccharide gum arabic and as a protein whey protein. The combination of this polysaccharide and protein is advantageous, since this coacervate hydrocolloid particles provides high stability of the particles in neutral and acidic liquids. Moreover, the turbidity in neutral and acidic beverages is improved. In particular, the proteins primarily provide turbidity by denaturation and aggregation of proteins. The polysaccharides are used as stabilizers to provide long-term stability of hydrocolloid particles. Furthermore, such a combination does not impart a deleterious flavor to the beverage.</p>
+<p id="p-0031" num="0030">In an embodiment, the clouding agent is a powder or granulate. Preferably, the clouding agent is provided as a powder. The clouding agent may be spray dried or obtained by recrystallization from a solution and subsequent filtration, optionally the solid is washed.</p>
+<p id="p-0032" num="0031">In an embodiment, a method of preparing a powdered clouding agent, which comprises a protein and a polysaccharide, comprises a) adding 1-10 wt % of a protein to 10-20 wt % of a polysaccharide in an aqueous suspension, b) mixing the suspension to obtain a solution, c) adjusting the pH of the solution to about 3.5 to 5.5, d) heating the solution to about 60 to 90&#xb0; C., and e) spray drying the solution to form the powdered clouding agent.</p>
+<p id="p-0033" num="0032">According to the present invention, the beverage composition may comprise a regenerated insoluble dietary fiber.</p>
+<p id="p-0034" num="0033">Under a regenerated dietary fiber, a dietary fiber is understood whose original fiber structure has not been altered but that shows decreased crystallinity after regeneration. Decreased crystallinity can be determined e.g. by means of microscopy, X-ray diffraction measurement, or by Fourier transform infrared spectroscopy analysis.</p>
+<p id="p-0035" num="0034">In an embodiment, the regenerated insoluble dietary fiber is selected from the group consisting of lignin, cellulose, hemicellulose, chitin and any combination thereof. The regenerated insoluble dietary fiber is preferably chitin.</p>
+<p id="p-0036" num="0035">Chitin is the most common polysaccharide in nature besides cellulose and is used for structure formation. It differs from cellulose by an acetamide group and is a natural fiber, which is found in fungi as well as in articulata and molluscs. Regenerated chitin can be obtained by an acidic washing process, wherein a more natural clouding agent as modified starches, brominated vegetable oils or titanium dioxide can be achieved. Such regenerated chitin is suitable for food applications, since it is known not to be toxic.</p>
+<p id="p-0037" num="0036">In an embodiment, the regenerated insoluble dietary fiber is purified chitin. Purified chitin can be obtained by washing crude chitin powder, wherein the crude chitin powder is subjected to an alkali washing and acid washing processes. The resulting chitin residue can be washed to obtain purified chitin.</p>
+<p id="p-0038" num="0037">In an embodiment, the regenerated insoluble dietary fiber is regenerated chitin. Regenerated chitin can be obtained by a process, wherein a) the purified chitin is pre-wetted with deionized water, b) phosphoric acid and deionized water is added to the pre-wetted purified chitin and then mixed with phosphoric acid to obtain a homogenous suspension, c) the chitin suspension obtained is incubated in a shaking bath to obtain a clear solution, d) the solution is than diluted with deionized water to obtain a dispersion, e) the dispersion is centrifuged, f) the residue is washed with water to reach a constant pH value and regenerated chitin can be obtained.</p>
+<p id="p-0039" num="0038">According to the present invention, the beverage composition may comprise a partially soluble dietary fiber.</p>
+<p id="p-0040" num="0039">The term &#x201c;partially soluble dietary fibers&#x201d; refers to fibers, which are partially soluble in water, including soluble and insoluble fibers. In contrast thereto, soluble fibers completely dissolve in the solvent, as well as amount of fibers that can exist within the solvent such as water is high. Partially soluble dietary fibers dissolve if a small but still perceptible amount of the fiber is added, but they do not dissolve if too much is added. However, insoluble fibers do not or not in a perceptible way dissolve in solvent such as water. &#x201c;Dietary fiber&#x201d; consists of non-starch polysaccharides and other plant components such as cellulose, resistant starch, resistant dextrin, inulin, lignin, chitin, pectin, beta-glucan, and oligosaccharides. Dietary fibers can act by changing the nature of the contents of the gastrointestinal tract and by changing how other nutrients and chemicals are absorbed. Partially soluble fiber rich-diet are known to have an advantageous effect on the absorption and balance of calcium, magnesium, iron and zinc.</p>
+<p id="p-0041" num="0040">In an embodiment, the partially soluble dietary fiber is selected from the group consisting of sugar beet fiber, pea fiber, soybean dietary fiber, oat dietary fiber, wheat dietary fiber, citrus fiber or other dietary fiber and any combination thereof. The partially soluble dietary fiber is preferably a citrus fiber.</p>
+<p id="p-0042" num="0041">Citrus fiber of the invention can be obtained by process for preparing citrus fibers from citrus peel and/or pulp. The process may comprise treating citrus peel and/or pulp to obtain homogenized citrus peel and/or pulp; washing the homogenized citrus peel and/or pulp with an organic solvent to obtain organic solvent washed citrus peel and/or pulp; drying the organic solvent washed citrus peel and/or pulp; and recovering citrus fiber therefrom.</p>
+<p id="p-0043" num="0042">Citrus fiber has an excellent whitening and turbidity effect. Citrus fiber imparts stable turbidity in beverages, which are neutral or acidic. That citrus fiber imparts stable turbidity in beverages, which are neutral, has been shown in Example 3.</p>
+<p id="p-0044" num="0043">According to the present invention, the beverage composition may comprise an emulsion, wherein the emulsion is stabilized by regenerated insoluble dietary fiber and/or partially soluble dietary fibers.</p>
+<p id="p-0045" num="0044">Such a stabilized emulsion is also referred to &#x201c;Pickering emulsion&#x201d;. A Pickering emulsion is an emulsion that is stabilized by solid particles, which adsorb onto the interface between the two phases. If oil and water are mixed and small oil droplets are formed and dispersed throughout the water, the droplets may coalesce to decrease the amount of energy in the system. However, if solid particles are added to the mixture, they will bind to the surface of the interface and prevent the droplets from coalescing, making the emulsion more stable.</p>
+<p id="p-0046" num="0045">Common surfactant emulsifiers tend to be displaced by bile salts from the interface of the droplets during duodenal digestion. However, bile salts do not rashly displace particle-laden interfaces of Pickering emulsions during digestion and therefore hindering the ingestion of fat. Therefore, Pickering emulsions as clouding agent can lead to less fat intake and reduces obesity.</p>
+<p id="p-0047" num="0046">In an embodiment, the beverage composition comprises an emulsion, which is an oil-in-water emulsion.</p>
+<p id="p-0048" num="0047">In an embodiment, the oil fraction of the emulsion is less than 50 v/v %, preferably less than 40 v/v % and more preferably less than 30 v/v %. In a further embodiment, the oil fraction of the emulsion is in in an amount of 0.05 to 50 v/v %, 0.1-40 v/v %, 1-35 v/v %, preferably 5-30 v/v % and more preferably 10-20 v/v %.</p>
+<p id="p-0049" num="0048">In an embodiment, the oil is selected from the group consisting of olive oil, palm oil, soybean oil, canola oil (rapeseed oil), corn oil, peanut oil, sunflower oil and other vegetable oils. In a specific embodiment, the oil is sunflower oil.</p>
+<p id="p-0050" num="0049">In an embodiment, the water fraction of the emulsion comprises an amount of 0.6 to 10 wt. %, preferably 0.7 to 5 wt. %, more preferably 0.8 to 3%, still more preferably 1 to 2 wt. % of the regenerated insoluble dietary fiber or of the partially soluble dietary fiber.</p>
+<p id="p-0051" num="0050">The emulsion can be acidic or neutral. In an embodiment, the emulsion is neutral. In another embodiment, the emulsion is acidic.</p>
+<p id="p-0052" num="0051">In an embodiment, the beverage composition comprises an emulsion, wherein the emulsion is stabilized by regenerated chitin. In a further embodiment, the oil fraction of the emulsion stabilized by regenerated chitin is less than 40 v/v %, preferably less than 30 v/v % and more preferably less than 20 v/v %. In a further embodiment, the oil fraction of the emulsion is in an amount of 0.1-40 v/v %, 1-35 v/v %, preferably 5-30 v/v % and more preferably 10-20 v/v %. The emulsion can be acidic or neutral. In a preferred embodiment, the emulsion is neutral. In a preferred embodiment, the water fraction of the emulsion comprises an amount of 0.6 to 10 wt. %, preferably 0.7 to 5 wt. %, more preferably 0.8 to 3%, still more preferably 1 to 1.5 wt. % of the regenerated chitin.</p>
+<p id="p-0053" num="0052">In an embodiment, the beverage composition comprises an emulsion, wherein the emulsion is stabilized by regenerated citrus fiber. In a further embodiment, the oil fraction of the emulsion stabilized by regenerated citrus fiber is about 50 v/v %. In a further embodiment, the emulsion is acidic or neutral. In a preferred embodiment, the water fraction of the emulsion comprises an amount of 0.6 to 10 wt. %, preferably 0.7 to 5 wt. %, more preferably 0.8 to 3%, still more preferably 1 to 2 wt. % of the citrus fiber.</p>
+<p id="p-0054" num="0053">In a preferred embodiment, the beverage composition comprises an emulsion, wherein the emulsion is stabilized by a combination of regenerated chitin and citrus fiber.</p>
+<p id="p-0055" num="0054">In another embodiment, the beverage composition comprises a clouding agent, wherein the clouding agent is an emulsion powder.</p>
+<p id="p-0056" num="0055">In an embodiment, an emulsion powder can be prepared by drying an emulsion, wherein the emulsion is stabilized regenerated insoluble dietary fiber and/or partially soluble dietary fibers. In an embodiment, the emulsion powder is prepared by spray drying an emulsion. In another embodiment, the emulsion powder is prepared by freeze drying an emulsion.</p>
+<p id="p-0057" num="0056">In particular, the emulsion may be spray-dried preferably in the presence of a polymeric carrier material such as polyvinyl acetate, polyvinyl alcohol, dextrins, natural or modified starch, vegetable gums, pectins, xanthans, alginates, carragenans or cellulose derivatives to provide particles in a powder form.</p>
+<p id="p-0058" num="0057">In an embodiment, the emulsion powder comprises citrus fiber, sunflower oil and inulin. In another embodiment, the emulsion powder comprises regenerated chitin, sunflower oil and inulin.</p>
+<p id="p-0059" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Ingredients of emulsion powders.</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="63pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Ingredients</entry>
+<entry>Citrus fiber</entry>
+<entry>Sunflower oil</entry>
+<entry>Inulin</entry>
+<entry>Total</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Quantity (%)</entry>
+<entry>2.8</entry>
+<entry>42.8</entry>
+<entry>54.4</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Regenerated</entry>
+</row>
+<row>
+<entry>Ingredients</entry>
+<entry>chitin</entry>
+<entry>Sunflower oil</entry>
+<entry>Inulin</entry>
+<entry>Total</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Quantity (%)</entry>
+<entry>2.8</entry>
+<entry>42.8</entry>
+<entry>54.4</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0060" num="0058">For example, the Pickering emulsion can be dried using the following spray drying method: The emulsion can be dehydrated by spray drying using a mini-spray dryer (B290, B&#xfc;chi Labortechnik, Switzerland). The inlet and outlet temperatures were set at 190&#xb0; C. and 90&#xb0; C. with feed rate of 10 mL/min.</p>
+<p id="p-0061" num="0059">In a further embodiment, the clouding agent is any combination of the previously mentioned clouding agents. The clouding agent might be a combination coacervate hydrocolloid particles and regenerated insoluble dietary fibers. The clouding agent might be a combination of regenerated insoluble dietary fibers and partially soluble dietary fibers. Moreover, the clouding agent might be a combination coacervate hydrocolloid particles and regenerated insoluble dietary fibers and partially soluble dietary fibers. In an embodiment, the clouding agent comprises gum arabic and inulin. In a further embodiment, the clouding agent comprises gum arabic, inulin and gel particles. The gel particles may be oleogel particles. An oleogel particle is an organic gel particle. The gel particles may comprise oils and gelators.</p>
+<p id="p-0062" num="0060">By &#x201c;beverage ingredient&#x201d; it is meant an ingredient which can be usually used in beverages, such as thickeners, flavors, food colorings, nutrients, acid, acid salts, sweeteners, stabilizers, preservative or a combination thereof.</p>
+<p id="p-0063" num="0061">In an embodiment, the beverage ingredient is a flavor or fragrance. Flavors or fragrances might be any compound, which are typically used in beverages. By the term &#x201c;flavor&#x201d; it is herein understood a flavor or flavoring composition being a flavoring ingredient or a mixture of flavoring ingredients, solvents or adjuvants used for the preparation of a flavoring formulation, i.e. a particular mixture of ingredients, which is intended to be added to a drinkable composition to impart, improve or modify its organoleptic properties, in particular its flavor and/or taste. Flavoring ingredients are well known to a person skilled in the art and their nature does not warrant a detailed description here, which in any case would not be exhaustive, the skilled flavorist being able to select them on the basis of his or her general knowledge and according to the intended use or application and the organoleptic effect it is desired to achieve.</p>
+<p id="p-0064" num="0062">The flavoring ingredient may be a taste modifier. A &#x201c;taste modifier&#x201d; is understood as an active ingredient that operates on a consumer's taste receptors, or provides a sensory characteristic related to mouthfeel (such as body, roundness, or mouth-coating) to a product being consumed. Non-limiting examples of taste modifiers include active ingredients that enhance, modify or impart saltiness, fattiness, umami, kokumi, heat sensation or cooling sensation, sweetness, acidity, tingling, bitterness or sourness.</p>
+<p id="p-0065" num="0063">By the term &#x201c;fragrance&#x201d; it is herein understood a fragrance or fragrance composition being a fragrance ingredient or a mixture of fragrance ingredients, solvents or adjuvants used for the preparation of a fragrance formulation, i.e. a particular mixture of ingredients, which is intended to be added to a perfuming composition. Fragrance ingredients are well known to a person skilled in the art and their nature does not warrant a detailed description here, which in any case would not be exhaustive, the skilled perfumer being able to select them on the basis of his or her general knowledge and according to the intended use or application and the olfactive effect it is desired to achieve. Many of these fragrance and flavoring ingredients are listed in reference texts such as in the book by S. Arctander, Perfume and Flavor Chemicals, 1969, Montclair, N.J., USA, or its more recent versions, or in other works of similar nature such as Fenaroli's Handbook of Flavor Ingredients, 1975, CRC Press or Synthetic Food Adjuncts, 1947, by M. B. Jacobs, van Nostrand Co., Inc. Solvents and adjuvants of current use for the preparation of a fragrance or flavoring formulation are also well known in the industry.</p>
+<p id="p-0066" num="0064">In an embodiment, the beverage ingredient is a flavor. Typical flavors to be used in the beverage composition according to the present invention are flavors that are derived from or based on fruits where citric acid is the predominant, naturally-occurring acid include but are not limited to, for example, citrus fruits (e.g., lemon, lime), limonene, strawberry, orange, and pineapple. In one embodiment, the flavor is lemon, lime or orange juice extracted directly from the fruit. Further embodiments of the flavor comprise the juice or liquid extracted from oranges, lemons, grapefruits, limes, citrons, clementines, mandarins, tangerines, and any other citrus fruit, or variation or hybrid thereof. In a particular embodiment, the flavor comprises a liquid extracted or distilled from oranges, lemons, grapefruits, limes, citrons, clementines, mandarins, tangerines, any other citrus fruit or variation or hybrid thereof, pomegranates, kiwifruits, watermelons, apples, bananas, blueberries, melons, ginger, bell peppers, cucumbers, passion fruits, mangos, pears, tomatoes, and strawberries.</p>
+<p id="p-0067" num="0065">In a particularly preferred embodiment, the flavor is lemon or lime. In a further embodiment, the flavor comprises a citrus fruit, preferably lemon. In a particularly preferred embodiment, the flavor is limonene.</p>
+<p id="p-0068" num="0066">In an embodiment, the beverage ingredient is a food coloring. By the term &#x201c;food coloring&#x201d; it is herein understood a food coloring composition or a mixture of food coloring ingredients, solvents or adjuvants used for the preparation of a colored formulation, i.e. a particular mixture of ingredients, which is intended to be added to a drinkable composition to impart, improve or modify its optic properties, in particular its color. Food coloring or color additive is any dye, pigment or substance that imparts color when it is added to the beverage. Food coloring is added to make the beverage more attractive, appealing, appetizing or to prevent color loss due to exposure to light, air, temperature extremes, moisture and storage conditions. The food coloring might be natural or synthetic. Coloring ingredients are well known to a person skilled in the art and their nature does not warrant a detailed description here, which in any case would not be exhaustive, the skilled person being able to select them on the basis of his or her general knowledge and according to the intended use or application and the optic effect it is desired to achieve. In an embodiment, the food coloring is one or more food coloring selected from the group consisting of curcumin, carotene, chlorophyll, amaranth, carmine, tartrazine, betanin, and capsanthin.</p>
+<p id="p-0069" num="0067">In an embodiment, the beverage ingredient is a nutrient. Essential nutrients are energy sources, some of the amino acids, a subset of fatty acids, vitamins and certain minerals. In a further embodiment, the beverage ingredient is a mineral or a salt. In another embodiment, the beverage ingredient is a mineral or a salt thereof selected from the group consisting of phosphorus, potassium, magnesium, sodium, calcium, magnesium, iron, zinc or any combination thereof. In another embodiment, the beverage ingredient is a vitamin selected from the group consisting of vitamin A, B, C, D, beta-carotene, riboflavin or any combination thereof. Other vitamins, which can be added to the beverage composition, include vitamin B6, niacin, and vitamin B12. Other suitable vitamins are known by the skilled in the art and can also be used.</p>
+<p id="p-0070" num="0068">In an embodiment, the beverage ingredient is an acid, acid salt or sweetener. According to a particular embodiment, the acid is a food grade acid. According to a preferred embodiment, the acid is selected from the group of citric acid, lactic acid, sorbic acid, phosphoric acid and mixtures thereof. According to a particular embodiment, the acid salt is a food grade acid salt. According to a preferred embodiment, the acid salt is selected from the group of consisting of sodium citrate, sodium lactate, sodium benzoate, sodium sorbate, sodium phosphate, potassium citrate, potassium sorbate, potassium phosphate, calcium phosphate and mixtures thereof. A sweetener according to the present invention relates to natural sweeteners or artificial sweeteners. According to a preferred embodiment, the sweetener according to the present invention relates to natural and artificial sweeteners except of mono- or disaccharides. According to a preferred embodiment, the sweetener is sucrose, maltodextrin, glucose, or fructose. According to a further embodiment, the sweetener is a low-glycemic sweetener. A low-glycemic sweetener has a glycemic index (GI) of 55 or less, preferably of 50 or less. According to a preferred embodiment, the sweetener is selected from the group consisting of stevia extracts, glycosylated derivatives of stevia extracts, sugars, sucralose, D-tryptophan, NHDC, polyols, stevioside, Rebaudioside A, thaumatin, mogrosides, monellin, neotame, aspartame, alitame, potassium acesulfame, saccharine, monoammonium glycyrrhizinate, calcium cyclamate, sodium cyclamate, sodium saccharin, potassium saccharin, ammonium saccharin, and calcium saccharin and mixtures thereof.</p>
+<p id="p-0071" num="0069">In an embodiment, the beverage ingredient is a stabilizer, a preservative or a combination thereof. In another embodiment, the stabilizer is selected from the group consisting of ester gum, sucrose acetate isobutyrate, Neobee oil, sugar alcohol, fructose and mixtures thereof. The preferred stabilizer is ester gum. According to a preferred embodiment, the sugar alcohol is selected from the group consisting of erythritol, isomalt, lactitol, maltitol, mannitol, xylitol and sorbitol and mixtures thereof, preferably erythritol and sorbitol and mixtures thereof, more preferably sorbitol. Preservatives might be any chemical or natural preservatives. Preservatives might be selected from the group consisting of sulfur dioxide, sodium benzoate, tartrazine, benzoic and/or sorbic acid and salts thereof and mixtures thereof. The preferred preservative is sodium benzoate. Further preservatives can also be used and are known by the skilled in the art.</p>
+<p id="p-0072" num="0070">In an embodiment, the weight ratio of clouding agent to beverage ingredient, preferably a flavor, is equal or less than about 0.01:1 to 30:1, preferably 0.1:1 to 10:1.</p>
+<p id="p-0073" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Ingredients of a beverage.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="119pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Ingredients</entry>
+<entry>Amount (g)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="119pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Sugar</entry>
+<entry>23.75</entry>
+</row>
+<row>
+<entry/>
+<entry>Citric Acid</entry>
+<entry>0.3125</entry>
+</row>
+<row>
+<entry/>
+<entry>Calcium Lactate</entry>
+<entry>0.25</entry>
+</row>
+<row>
+<entry/>
+<entry>Sodium Citrate</entry>
+<entry>0.125</entry>
+</row>
+<row>
+<entry/>
+<entry>Vitamin C</entry>
+<entry>0.05</entry>
+</row>
+<row>
+<entry/>
+<entry>Xanthan Gum</entry>
+<entry>0.025</entry>
+</row>
+<row>
+<entry/>
+<entry>Beta-Carotene</entry>
+<entry>0.375</entry>
+</row>
+<row>
+<entry/>
+<entry>Clouding agent</entry>
+<entry>0.6</entry>
+</row>
+<row>
+<entry/>
+<entry>Flavor</entry>
+<entry>0.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Water</entry>
+<entry>174.4125</entry>
+</row>
+<row>
+<entry/>
+<entry>Total</entry>
+<entry>200</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0074" num="0071">In a particular embodiment, the beverage composition provides a stable turbidity when used in a beverage.</p>
+<p id="p-0075" num="0072">By &#x201c;stable turbidity&#x201d;, it is meant that turbidity is present over a certain period of time in a liquid. In particular, by &#x201c;stable turbidity&#x201d; is understood that turbidity is present over a certain period of time in a liquid, wherein the turbidity in the liquid is about equal or higher than in a titanium dioxide suspension, having a similar initial level of the turbidity. The &#x201c;initial level&#x201d; of the turbidity (t=0) is measured in terms of nephelometric turbidity units (NTU) directly after dispersion the clouding agent.</p>
+<p id="p-0076" num="0073">The turbidity is &#x201c;stable&#x201d;, if at least 6% of the initial level of the turbidity over a period of at least 24 hours is maintained, when used in a beverage. The &#x201c;initial level&#x201d; of the turbidity is measured in terms of nephelometric turbidity units (NTU) directly after suspending the clouding agent (t=0) and set to 100%. After a certain period of time, e.g. after 5 min, 1 h, 12 h, 24 h, 48 h or after 168 h the turbidity is measured again in terms of nephelometric turbidity units (NTU), with the same method. The percentage of turbidity can then be calculated.</p>
+<p id="p-0077" num="0074">The turbidity is preferably seen as &#x201c;stable&#x201d;, if at least 30%, 40%, 50%, 60%, 70%, 80%, or 90% of the initial level of the turbidity over a period of at least 24 hours is maintained, when used in a liquid. Moreover, the turbidity is preferably seen as &#x201c;stable&#x201d;, if at least 80% of the initial level of the turbidity over a period of 7 days is maintained, when used in a liquid.</p>
+<p id="p-0078" num="0075">Moreover, the turbidity is preferably seen as &#x201c;stable&#x201d;, if at least 65%, preferably 75%, more preferably 85% or 90% of the initial level of the turbidity over a period of 7 days is maintained, when used in a beverage.</p>
+<p id="p-0079" num="0076">In an embodiment, the beverage composition maintains at least 6%, 10%, 20%, 50%, 70% and preferably 90% of the initial level of the turbidity over a period of at least 24 hours, 48 hours and preferably 168 hours when used in a beverage. The initial level of the turbidity is measured in terms of nephelometric turbidity units (NTU) directly after suspending the clouding agent (t=0) and set to 100%. After a certain period of time, e.g. after 5 min, 1 h, 24 h, 48 h or after 168 h the turbidity is measured again in terms of nephelometric turbidity units (NTU), with the same method.</p>
+<p id="p-0080" num="0077">In an embodiment, the beverage composition may be provided in a dry form. The beverage composition might be in a powdered, granulated or tablet form. In a particular embodiment, the dry beverage composition is a powder or a granulate. In a more particular embodiment, the dry beverage composition is a powder. The beverage composition in powdered or granulated form can be prepared by several drying methods, such as spray drying, drum drying etc. In an embodiment, the beverage composition is prepared by spray drying. In another embodiment, the beverage composition is prepared by crystallization or a freeze-drying method.</p>
+<p id="p-0081" num="0078">In an embodiment, the beverage composition may be provided in a liquid form. The beverage composition might be in a concentrated liquid. Concentrated liquids might be selected from the group consisting of syrups, such as fountain syrups, squashes or cordials. The beverage composition might be a suspension.</p>
+<p id="p-0082" num="0079">In another aspect, the invention relates to a beverage comprising the beverage composition and a beverage base.</p>
+<p id="p-0083" num="0080">By &#x201c;beverage base&#x201d; any suitable liquid is meant. In an embodiment, the beverage base is water, such as table water or mineral water. The beverage base is preferably any juice such as fruit juices and vegetable juices, juice drink, nectar, or smoothie. The beverage base might also be any soft drink such as lemonade or cola or fruit flavored sodas. The beverage base can also be a hot drink or an infusion drink, such as coffee, coffee substitutes, tea, or tea-like drinks, such as iced tea, fruit tea, herbal tea, rooibos, mate tea, lapacho. The beverage base might be mixed drinks, such as cocktails. The beverage base might be milk or yogurt drinks. The beverage base might also be liquors, energy drinks or isotonic drinks. The beverage base might be health drinks, or functional beverages (e.g., nutraceuticals). Preferably, the beverage base is a nonalcoholic beverage base.</p>
+<p id="p-0084" num="0081">By &#x201c;beverage&#x201d; any drinkable liquid is meant. In this specification, the term &#x201c;beverage&#x201d; is used interchangeable with the term &#x201c;liquid&#x201d;. According to an embodiment, the beverage is a nonalcoholic beverage. In a further embodiment, the beverage might be water, such as table water or mineral water. In a preferred embodiment, the beverage might be any juice such as fruit juices and vegetable juices, juice drink, nectar, or smoothie. The beverage might also be any soft drink such as lemonade or cola or fruit flavored sodas. The beverage can also be a hot drink or an infusion drink, such as coffee, coffee substitutes, tea, or tea-like drinks, such as iced tea, fruit tea, herbal tea, rooibos, mate tea, lapacho. The beverage might be mixed drinks, such as cocktails. The beverage might be milk or yogurt drinks. The beverage might also be liquors, energy drinks or isotonic drinks. The beverage might be health drinks, or functional beverages (e.g., nutraceuticals).</p>
+<p id="p-0085" num="0082">In an embodiment, the beverage base is acidic or neutral.</p>
+<p id="p-0086" num="0083">By &#x201c;acidic&#x201d; is understood that a liquid or beverage base has a pH value of less than 7, preferably the pH value is between 0 and 6.9, more preferably the pH value is between 1 and 6.7, still more preferably the pH is in between 2.5 and 6.5, even more preferably the pH value is between 3 and 6.</p>
+<p id="p-0087" num="0084">By &#x201c;neutral&#x201d; is understood that a liquid or beverage base has a pH value of about 7. In an embodiment, the liquid having a pH value between 6 and 8, preferably between 6.5 and 8, and more preferably between 7 and 8, still more preferably between 7 and 7.5.</p>
+<p id="p-0088" num="0085">In an embodiment, the beverage is acidic or neutral.</p>
+<p id="p-0089" num="0086">By &#x201c;acidic&#x201d; is understood that a liquid or beverage has a pH value of less than 7, preferably the pH value is between 0 and 6.9, more preferably the pH value is between 1 and 6.7, still more preferably the pH is in between 2.5 and 6.5, even more preferably the pH value is between 3 and 6.</p>
+<p id="p-0090" num="0087">By &#x201c;neutral&#x201d; is understood that a liquid or beverage has a pH value of about 7. In an embodiment, the liquid having a pH value between 6 and 8, preferably between 6.5 and 8, and more preferably between 7 and 8, still more preferably between 7 and 7.5.</p>
+<p id="p-0091" num="0088">In an embodiment, the beverage comprises coacervate hydrocolloid particles, wherein the coacervate hydrocolloid particles are present in an amount of 0.01 to 10 wt. %, 0.02 to 5 wt. %, 0.05 to 3 wt. %, preferably 0.1 to 1.5 wt. %, and still more preferably 0.2 to 0.6 wt. % based on the total amount of the beverage. Coacervate hydrocolloid particles impart stable turbidity in neutral liquids and/or in acidic liquids.</p>
+<p id="p-0092" num="0089">In an embodiment, the beverage comprises one or more different coacervate hydrocolloid particles.</p>
+<p id="p-0093" num="0090">In an embodiment, the beverage comprises a regenerated insoluble dietary fiber, wherein the regenerated insoluble dietary fiber is present in an amount of 0.01 to 10 wt. %, 0.02 to 5 wt. %, 0.05 to 3 wt. %, or preferably 0.1 to 1.5 wt. %, based on the total amount of the beverage. Regenerated insoluble dietary fibers impart stable turbidity in neutral liquids and/or in acidic liquids.</p>
+<p id="p-0094" num="0091">In an embodiment, the beverage comprises a regenerated insoluble dietary fiber, wherein the regenerated insoluble dietary fiber might be a combination of several regenerated insoluble dietary fibers.</p>
+<p id="p-0095" num="0092">In an embodiment, the beverage comprises a partially soluble dietary fiber, wherein the partially soluble dietary fiber is present in an amount of 0.05 to 30 wt. %, 0.08 to 20 wt. %, or preferably 0.5 to 10 wt. %, based on the total amount of the beverage. Partially soluble dietary fibers impart stable turbidity in neutral liquids and/or in acidic liquids.</p>
+<p id="p-0096" num="0093">In an embodiment, the beverage comprises one or more different partially soluble dietary fibers.</p>
+<p id="p-0097" num="0094">In an embodiment, the beverage comprises an emulsion, wherein the emulsion is stabilized by regenerated chitin in an amount of 1 to 1.5 wt. %, based on the total amount of the beverage, and/or citrus fiber in an amount of 1 to 10 wt. %, based on the total weight of the beverage.</p>
+<p id="p-0098" num="0095">In an embodiment, the emulsion is an oil-in-water emulsion comprising an oil in an amount of 1 to 50 v/v %. In a further embodiment, the emulsion is an oil-in-water emulsion comprising an oil in an amount of 3 to 40 v/v %. In another embodiment, the emulsion is an oil-in-water emulsion comprising an oil in an amount of 5 to 30 v/v %. In a preferred embodiment, the emulsion is an oil-in-water emulsion comprising an oil in an amount of 10 to 20 v/v %.</p>
+<p id="p-0099" num="0096">In a further aspect, the invention relates to the use of a beverage composition comprising a clouding agent selected from the group consisting of hydrocolloid particles comprising a protein and a polysaccharide, regenerated insoluble dietary fibers, partially soluble dietary fibers, emulsion stabilized by regenerated insoluble dietary fibers and/or partially soluble dietary fibers and any combination thereof, and optionally, one or more beverage ingredients, for providing a beverage with stabilized turbidity, in particular wherein at least 6%, 10%, 20%, 50% and preferably 90% of the initial level of the turbidity is maintained over a period of at least 24 hours, 48 hours and preferably 168 hours when used in a beverage.</p>
+<p id="p-0100" num="0097">In a further aspect, the invention relates to a beverage, which is prepared by adding a beverage base to the beverage composition. Thereby a beverage with stabilized turbidity is provided, in particular wherein at least 6%, 10%, 20%, 50% and preferably 90% of the initial level of the turbidity is maintained over a period of at least 24 hours, 48 hours and preferably 168 hours.</p>
+<p id="p-0101" num="0098">The invention will now be described in further detail by way of the following examples. The examples are illustrative only and are not meant to limit the claims or embodiments described hereinabove.</p>
+<p id="p-0102" num="0099">In the present invention, the turbidity values were measured using a Hach 2100N IS Laboratory Turbidimeter equipped with a LED light source (860&#xb1;30 nm). Measurement range: 0-1000 NTU. Resolution: 0.001 NTU. The inside and outside of the sample cell were thoroughly cleaned and dried and then the solution was loaded to the cell near the top (&#x2dc;30 mL). Each sample must be a uniform solution without bubbles or precipitates in the sample cell. The measured NTUs were average values of three replicates.</p>
+<heading id="h-0005" level="1">Example 1</heading>
+<p id="p-0103" num="0100">15 g whey protein powder and 45 g gum arabic were dispersed in 240 g deionized water by stirring at ambient temperature and the pH of the dispersion was adjusted to 7.0 and kept under stirring for 5 to 8 h to ensure complete dissolution. Subsequently, the solution was adjusted to pH 4.75 using 1.0 N, 0.1 N, and/or 0.01 N hydrochloric acid solutions. Afterwards, the solution was subjected to heating at 85&#xb0; C. for 20 min at 700 rpm agitation speed and subsequently, the solution was cooled down by ice/water bath. The solution was dehydrated by spray drying using a mini-spray dryer (B290, B&#xfc;chi Labortechnik, Switzerland). The inlet and outlet temperatures were set to be 165 and 90&#xb0; C. with feed rate of 10 mL/min. The obtained powder was re-dispersed in aqueous solution, having different pH values, i.e. 3, 4, 5 or 6, respectively.</p>
+<p id="p-0104" num="0101">The evolution of turbidity (indicated by Nephelometric Turbidity Unit&#x2014;NTU) with time for particle assembled by whey protein and gum arabic or titanium dioxide dispersed aqueous solutions having different pH values was recorded in Table 3.</p>
+<p id="p-0105" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Evolution of turbidity over the time of the liquid comprising</entry>
+</row>
+<row>
+<entry>particles assembled by whey protein and gum arabic or titanium</entry>
+</row>
+<row>
+<entry>dioxide have been measured. The particles or titanium dioxide</entry>
+</row>
+<row>
+<entry>were dispersed in aqueous solutions having different pH values.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="175pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Titanium</entry>
+</row>
+<row>
+<entry/>
+<entry>dioxide</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="140pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Particles assembled by whey protein and gum</entry>
+<entry>(TiO<sub>2</sub>)</entry>
+</row>
+<row>
+<entry/>
+<entry>arabic, 0.6 wt. %</entry>
+<entry>0.02 wt. %</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Duration</entry>
+<entry>pH 6.0</entry>
+<entry>pH 5.0</entry>
+<entry>pH 4.0</entry>
+<entry>pH 3.0</entry>
+<entry>pH 6.0</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>0</entry>
+<entry>542</entry>
+<entry>538</entry>
+<entry>619</entry>
+<entry>739</entry>
+<entry>700</entry>
+</row>
+<row>
+<entry>15 h</entry>
+<entry>494</entry>
+<entry>504</entry>
+<entry>572</entry>
+<entry>580</entry>
+<entry>310</entry>
+</row>
+<row>
+<entry>24 h</entry>
+<entry>485</entry>
+<entry>496</entry>
+<entry>560</entry>
+<entry>546</entry>
+<entry>305</entry>
+</row>
+<row>
+<entry>48 h</entry>
+<entry>457</entry>
+<entry>433</entry>
+<entry>485</entry>
+<entry>480</entry>
+<entry>285</entry>
+</row>
+<row>
+<entry>&#x2002;5 days</entry>
+<entry>437</entry>
+<entry>361</entry>
+<entry>359</entry>
+<entry>225</entry>
+<entry>280</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0106" num="0102">In Example 1, several liquids at different pH values comprising coacervate hydrocolloid particles have been evaluated. The coacervate hydrocolloid particles, which comprise gum arabic and whey protein, have shown to impart turbidity, which is higher or at least comparable as titanium dioxide over a period of five days at different pH values, i.e. the pH of the liquids was pH=3, 4, 5 or 6, respectively. Moreover, it has also been shown that those coacervate hydrocolloid particles were stable for at least five days.</p>
+<heading id="h-0006" level="1">Example 2</heading>
+<p id="p-0107" num="0103">100 g of gluten was extracted in 70 v/v % ethanol (1.00 L) by stirring for 2 h followed by centrifugation at 9900 g during 12 min. The supernatant was collected and after a night's rest at 4&#xb0; C., centrifuged for a second time (9900 g for 12 min) to remove any precipitated material.</p>
+<p id="p-0108" num="0104">Gliadin extract was poured into water at a 1:5 ratio under continuous stirring (440 rpm) at room temperature. After addition, the particle suspension was stirred for an additional 2 min and left unstirred overnight at room temperature before further analysis. The concentration of the gliadin particle suspension is 0.04% w/v %.</p>
+<p id="p-0109" num="0105">Low methoxyl pectin (LMP, 1.40 w/v %) solution was prepared by dissolving the LMP in water and stirring overnight. After dissolution, the pH of LMP solution was adjusted to pH 3.7. Freshly produced gliadin suspension (0.04 w/v %) was brought to the same pH (pH 3.7) using citric acid (1.0 M). After pH adjustment, the LMP solution was added to the gliadin particle suspension in the same volume.</p>
+<p id="p-0110" num="0106">The suspension was dehydrated by spray drying using a mini-spray dryer (B290, B&#xfc;chi Labortechnik, Switzerland). The inlet and outlet temperatures were set to be 165 and 90&#xb0; C. with feed rate of 10 mL/min. The obtained powder was re-dispersed in deionized water or citrate buffer (pH 3.7), respectively.</p>
+<p id="p-0111" num="0107">The evolutions of turbidity (indicated by Nephelometric Turbidity Unit&#x2014;NTU) of a liquid over the time, wherein the coacervate of gliadin and LMP or titanium dioxide was dispersed in deionized water or citrate buffer (pH 3.7), was recorded in Tables 4 and 5.</p>
+<p id="p-0112" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Evolutions of turbidity of a liquid over the time,</entry>
+</row>
+<row>
+<entry>wherein coacervate of gliadin and LMP or titanium</entry>
+</row>
+<row>
+<entry>dioxide was dispersed in deionized water.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="70pt" align="center"/>
+<colspec colname="2" colwidth="77pt" align="center"/>
+<colspec colname="3" colwidth="70pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Titanium</entry>
+</row>
+<row>
+<entry/>
+<entry>Coacervate of gliadin and</entry>
+<entry>dioxide</entry>
+</row>
+<row>
+<entry/>
+<entry>LMP</entry>
+<entry>(TiO<sub>2</sub>)</entry>
+</row>
+<row>
+<entry>Time (h)</entry>
+<entry>0.5 w/v %</entry>
+<entry>0.02 w/v %</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="70pt" align="char" char="."/>
+<colspec colname="2" colwidth="77pt" align="char" char="."/>
+<colspec colname="3" colwidth="70pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>0</entry>
+<entry>1190</entry>
+<entry>1103</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>1231</entry>
+<entry>941</entry>
+</row>
+<row>
+<entry>24</entry>
+<entry>1267</entry>
+<entry>681</entry>
+</row>
+<row>
+<entry>96</entry>
+<entry>1210</entry>
+<entry>281</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0113" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 5</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Evolutions of turbidity of a liquid over the time,</entry>
+</row>
+<row>
+<entry>wherein coacervate of gliadin and LMP or titanium</entry>
+</row>
+<row>
+<entry>dioxide was dispersed in citrate buffer.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="70pt" align="center"/>
+<colspec colname="2" colwidth="77pt" align="center"/>
+<colspec colname="3" colwidth="70pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Titanium</entry>
+</row>
+<row>
+<entry/>
+<entry>Coacervate of gliadin and</entry>
+<entry>dioxide</entry>
+</row>
+<row>
+<entry/>
+<entry>LMP</entry>
+<entry>(TiO<sub>2</sub>)</entry>
+</row>
+<row>
+<entry>Time (h)</entry>
+<entry>0.5 w/v %</entry>
+<entry>0.02 w/v %</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="70pt" align="char" char="."/>
+<colspec colname="2" colwidth="77pt" align="char" char="."/>
+<colspec colname="3" colwidth="70pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>0</entry>
+<entry>1016</entry>
+<entry>1028</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>1048</entry>
+<entry>986</entry>
+</row>
+<row>
+<entry>24</entry>
+<entry>1006</entry>
+<entry>712</entry>
+</row>
+<row>
+<entry>96</entry>
+<entry>930</entry>
+<entry>252</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0007" level="1">Example 3</heading>
+<p id="p-0114" num="0108">Chitin powder (20 g) was incubated in 200 ml 1 M NaOH in a shaking bath at 45&#xb0; C. and agitation speed of 150 rpm. After 3 h, the chitin suspensions were filtered and the pellet was re-suspended into 200 ml 1 M NaOH. This alkali-washing process was repeated twice more to remove the residual protein and the resulting pellets were washed extensively with water until a constant pH was reached. Subsequently, 1 M HCl was used to wash the chitin pellet following the same protocol described above. The final pellets were repeatedly washed with water to achieve a constant pH value of about 4.2. The purified chitin was then freeze-dried.</p>
+<p id="p-0115" num="0109">Phosphoric acid and deionized water were equilibrated to 4&#xb0; C. in a refrigerator before use. Purified chitin (3.00 g) was pre-wetted with 9 ml deionized water and then mixed with 150 ml 85% phosphoric acid to reach a homogenous suspension. The chitin suspension obtained was incubated in a shaking bath at 5&#xb0; C. and agitation speed at 150 rpm for 12 h to obtain a clear solution. Deionized water (750 ml) was used to dilute the chitin solution and to obtain a milky dispersion, followed by centrifugation at 16,700 g for 15 min. The supernatant was discarded and the pellet was dialyzed with water to reach a constant pH value.</p>
+<p id="p-0116" num="0000">1) The regenerated chitin dispersion was diluted with deionized water or citrate buffer (pH 3.7) to obtain regenerated chitin dispersions with a series of concentrations, i.e. 0.1 wt. %, 0.2 wt. %, 0.3 wt. %, 0.4 wt. %, 0.5 wt. %, and 0.6 wt. %.
+<br/>
+2) The regenerated chitin dispersion with the concentration of 0.6 wt. % was spray dried at inlet temperature of about 160&#xb0; C. to produce a white flowable powder. The powder was re-dispersed in deionized water or citrate buffer (pH 3.7), obtaining a series concentrations of regenerated chitin dispersion, i.e. 0.1 wt. %, 0.2 wt. %, 0.3 wt. %, 0.4 wt. %, 0.5 wt. % and 0.6 wt. %.
+</p>
+<p id="p-0117" num="0110">The evolutions of turbidity (indicated by Nephelometric Turbidity Unit&#x2014;NTU) of a liquid over the time, wherein the regenerated chitin or titanium dioxide was dispersed in deionized water or citrate buffer (pH 3.7), was recorded in Tables 6 and 7. Thus, regenerated chitin generated by the first described way was used to measure the data of Tables 6 and 7. However, there was no significant difference in the use of the different types of regenerated chitin.</p>
+<p id="p-0118" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="273pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 6</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Evolutions of turbidity of a liquid over the time, wherein regenerated</entry>
+</row>
+<row>
+<entry>chitin or titanium dioxide was dispersed in deionized water.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="21pt" align="left"/>
+<colspec colname="1" colwidth="210pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Titanium</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>dioxide</entry>
+</row>
+<row>
+<entry/>
+<entry>Regenerated chitin</entry>
+<entry>(TiO<sub>2</sub>)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Days</entry>
+<entry>0.1 wt %</entry>
+<entry>0.2 wt %</entry>
+<entry>0.3 wt %</entry>
+<entry>0.4 wt %</entry>
+<entry>0.5 wt %</entry>
+<entry>0.6 wt %</entry>
+<entry>0.02 wt %</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>0</entry>
+<entry>155 &#xb1; 34</entry>
+<entry>313 &#xb1; 48</entry>
+<entry>452 &#xb1; 57</entry>
+<entry>583 &#xb1; 58</entry>
+<entry>814 &#xb1; 43</entry>
+<entry>912 &#xb1; 55</entry>
+<entry>995 &#xb1; 82</entry>
+</row>
+<row>
+<entry>1</entry>
+<entry>148 &#xb1; 37</entry>
+<entry>291 &#xb1; 59</entry>
+<entry>414 &#xb1; 64</entry>
+<entry>562 &#xb1; 45</entry>
+<entry>693 &#xb1; 77</entry>
+<entry>858 &#xb1; 63</entry>
+<entry>632 &#xb1; 97</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>145 &#xb1; 46</entry>
+<entry>286 &#xb1; 36</entry>
+<entry>414 &#xb1; 53</entry>
+<entry>566 &#xb1; 87</entry>
+<entry>692 &#xb1; 75</entry>
+<entry>856 &#xb1; 94</entry>
+<entry>&#x2002;581 &#xb1; 111</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>106 &#xb1; 32</entry>
+<entry>273 &#xb1; 53</entry>
+<entry>416 &#xb1; 24</entry>
+<entry>557 &#xb1; 95</entry>
+<entry>701 &#xb1; 86</entry>
+<entry>862 &#xb1; 74</entry>
+<entry>177 &#xb1; 78</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0119" num="0000">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="280pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 7</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Evolutions of turbidity of a liquid over the time, wherein regenerated</entry>
+</row>
+<row>
+<entry>chitin or titanium dioxide was dispersed in citrate buffer.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="21pt" align="left"/>
+<colspec colname="1" colwidth="224pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Titanium</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>dioxide</entry>
+</row>
+<row>
+<entry/>
+<entry>Regenerated chitin</entry>
+<entry>(TiO<sub>2</sub>)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Days</entry>
+<entry>0.1 wt %</entry>
+<entry>0.2 wt %</entry>
+<entry>0.3 wt %</entry>
+<entry>0.4 wt %</entry>
+<entry>0.5 wt %</entry>
+<entry>0.6 wt %</entry>
+<entry>0.02 wt %</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>0</entry>
+<entry>181 &#xb1; 45</entry>
+<entry>364 &#xb1; 59</entry>
+<entry>523 &#xb1; 66</entry>
+<entry>735 &#xb1; 81</entry>
+<entry>887 &#xb1; 71</entry>
+<entry>1009 &#xb1; 92&#x2003;</entry>
+<entry>941 &#xb1; 121</entry>
+</row>
+<row>
+<entry>1</entry>
+<entry>173 &#xb1; 53</entry>
+<entry>357 &#xb1; 47</entry>
+<entry>495 &#xb1; 85</entry>
+<entry>708 &#xb1; 73</entry>
+<entry>&#x2002;798 &#xb1; 108</entry>
+<entry>844 &#xb1; 115</entry>
+<entry>534 &#xb1; 99&#x2002;</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>165 &#xb1; 64</entry>
+<entry>357 &#xb1; 43</entry>
+<entry>516 &#xb1; 61</entry>
+<entry>672 &#xb1; 84</entry>
+<entry>793 &#xb1; 90</entry>
+<entry>865 &#xb1; 101</entry>
+<entry>415 &#xb1; 105</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>134 &#xb1; 47</entry>
+<entry>350 &#xb1; 35</entry>
+<entry>524 &#xb1; 59</entry>
+<entry>714 &#xb1; 77</entry>
+<entry>826 &#xb1; 81</entry>
+<entry>964 &#xb1; 132</entry>
+<entry>129 &#xb1; 65&#x2002;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0120" num="0111">In Example 3, liquids with different pH values, i.e. pH=7 and pH=3.7 comprising regenerated insoluble dietary fibers have been evaluated. The liquids comprised regenerated chitin. Regenerated chitin has been shown to impart turbidity in a liquid, which is higher as titanium dioxide over a period of seven days. Suspensions of regenerated chitin had been provided in several concentrations, i.e. 0.1, 0.2, 0.3, 0.4, 0.5, and 0.6 wt. %. Moreover, it has been shown that the turbidity of the liquid imparted by regenerated chitin is stable for at least 7 days.</p>
+<p id="p-0121" num="0112">In contrast thereto, in comparative Example 7, chitin fibers, which have not been regenerated, have been evaluated in liquids having different pH values, i.e. pH=7 and pH=3.7. Such suspensions showed only low stability of the turbidity of the liquids over a period of 24 h compared to titanium dioxide.</p>
+<heading id="h-0008" level="1">Example 4</heading>
+<p id="p-0122" num="0113">0.5 g of citrus fiber powders were dispersed in an amount of deionized water to obtain citrus fiber dispersions with a series of concentrations, i.e. 1 wt. % and 1.5 wt. %.</p>
+<p id="p-0123" num="0114">The evolution of turbidity (indicated by Nephelometric Turbidity Unit&#x2014;NTU) of a liquid over the time, wherein the citrus fiber or titanium dioxide was dispersed in deionized water, was recorded in Table 8.</p>
+<p id="p-0124" num="0000">
+<tables id="TABLE-US-00008" num="00008">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 8</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Evolutions of turbidity of a liquid over the time, wherein citrus</entry>
+</row>
+<row>
+<entry>fiber or titanium dioxide was dispersed in deionized water.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="112pt" align="center"/>
+<colspec colname="2" colwidth="70pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Titanium</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>dioxide</entry>
+</row>
+<row>
+<entry/>
+<entry>Citrus fiber</entry>
+<entry>(TiO<sub>2</sub>)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="21pt" align="left"/>
+<colspec colname="2" colwidth="70pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="70pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Time</entry>
+<entry>1 wt %</entry>
+<entry>1.5 wt %</entry>
+<entry>0.02 wt %</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>0</entry>
+<entry>2734 &#xb1; 235</entry>
+<entry>3544 &#xb1; 397</entry>
+<entry>1181 &#xb1; 152</entry>
+</row>
+<row>
+<entry/>
+<entry>5 min</entry>
+<entry>2704 &#xb1; 381</entry>
+<entry>3534 &#xb1; 472</entry>
+<entry>1181 &#xb1; 129</entry>
+</row>
+<row>
+<entry/>
+<entry>6 h</entry>
+<entry>486 &#xb1; 73</entry>
+<entry>&#x2002;711 &#xb1; 110</entry>
+<entry>1117 &#xb1; 185</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0125" num="0115">Citrus fiber imparts stable turbidity in beverages, which are neutral or acidic (values not shown). Moreover, the stability of citrus fiber in a neutral liquid, i.e. deionized water, is even higher than in an acidic liquid. Citrus fiber imparts stable turbidity over a period of time of at least 6 h. Citrus fiber provides the best stability during a short time of 5 min in deionized water.</p>
+<heading id="h-0009" level="1">Example 5</heading>
+<p id="p-0126" num="0116">Regenerated chitin dispersion with the concentration of 1 wt. % was prepared by dilution with deionized water. 2.14 g, 1.25 g and 0.56 g of sunflower oil were mixed with 5 g of regenerated chitin dispersion, respectively, to obtain water-continuous emulsions with oil fraction 30%, 20% and 10% by ultrasonication at 60% pressure amplitude for 2 min in a cold-water bath. The generated emulsions were stable.</p>
+<p id="p-0127" num="0117">The original emulsions were diluted for two hundred times with deionized water. The evolution of turbidity (indicated by Nephelometric Turbidity Unit&#x2014;NTU) of a liquid over the time of the emulsion or titanium dioxide dispersed in deionized water, was recorded in Table 9.</p>
+<p id="p-0128" num="0000">
+<tables id="TABLE-US-00009" num="00009">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 9</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Evolution of turbidity of a liquid over the time for diluted</entry>
+</row>
+<row>
+<entry>emulsion or titanium dioxide dispersed in deionized water.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="140pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Titanium</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>dioxide</entry>
+</row>
+<row>
+<entry/>
+<entry>Oil fraction of original emulsion</entry>
+<entry>(TiO<sub>2</sub>)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Days</entry>
+<entry>10 v/v %</entry>
+<entry>20 v/v %</entry>
+<entry>30 v/v %</entry>
+<entry>0.02 wt %</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>0</entry>
+<entry>1145 &#xb1; 188</entry>
+<entry>2384 &#xb1; 282</entry>
+<entry>3628 &#xb1; 436</entry>
+<entry>995 &#xb1; 82</entry>
+</row>
+<row>
+<entry>1</entry>
+<entry>1092 &#xb1; 147</entry>
+<entry>1874 &#xb1; 196</entry>
+<entry>2670 &#xb1; 354</entry>
+<entry>632 &#xb1; 97</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>1340 &#xb1; 298</entry>
+<entry>1688 &#xb1; 206</entry>
+<entry>2260 &#xb1; 263</entry>
+<entry>&#x2002;581 &#xb1; 111</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>&#x2002;520 &#xb1; 117</entry>
+<entry>251 &#xb1; 73</entry>
+<entry>153 &#xb1; 64</entry>
+<entry>177 &#xb1; 78</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0129" num="0118">In Example 5, the 10, 20 and 30 v/v % oil-in-water emulsions stabilized by regenerated chitin (1% in the water fraction) showed excellent stability of the turbidity over a prolonged period of time of up to 7 days.</p>
+<p id="p-0130" num="0119">In contrast thereto, in comparative Examples 8 and 9, chitin fibers, which have not been regenerated, had been used. Such emulsions showed low stability of the turbidity of the liquids compared to titanium dioxide.</p>
+<heading id="h-0010" level="1">Example 6</heading>
+<p id="p-0131" num="0120">0.5 g of citrus fiber was dispersed in an amount of deionized water or citrate buffer (pH 3.7) to obtain citrus fiber dispersions with a series of concentrations, i.e. 1%, 1.5% and 2%. 5 ml of sunflower oil was mixed with 5 ml of citrus fiber dispersion, respectively, to obtain water-continuous emulsions with oil fraction of 50% by ultrasonication at 60% pressure amplitude for 2 min in a cold-water bath. The generated emulsions were stable.</p>
+<p id="p-0132" num="0121">The original emulsions were diluted for eight hundred times with deionized water or citrate buffer (pH 3.7), respectively, and then ultrasonication at 60% pressure amplitude for 2 min in a cold-water bath. The evolution of turbidity (indicated by Nephelometric Turbidity Unit&#x2014;NTU) with time for diluted emulsion or titanium dioxide dispersed in deionized water or citrate buffer were recorded in Tables 10 and 11.</p>
+<p id="p-0133" num="0000">
+<tables id="TABLE-US-00010" num="00010">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 10</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Evolution of turbidity of a liquid over the time for diluted</entry>
+</row>
+<row>
+<entry>emulsions or titanium dioxide dispersed in deionized water.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="147pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Titanium</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>dioxide</entry>
+</row>
+<row>
+<entry/>
+<entry>Concentration of citrus fiber in original emulsion</entry>
+<entry>(TiO<sub>2</sub>)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Days</entry>
+<entry>1 wt %</entry>
+<entry>1.5 wt %</entry>
+<entry>2 wt %</entry>
+<entry>0.02 wt %</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>0</entry>
+<entry>1075 &#xb1; 153</entry>
+<entry>1317 &#xb1; 248</entry>
+<entry>1112 &#xb1; 195</entry>
+<entry>995 &#xb1; 82</entry>
+</row>
+<row>
+<entry>1</entry>
+<entry>1186 &#xb1; 269</entry>
+<entry>1444 &#xb1; 358</entry>
+<entry>1159 &#xb1; 237</entry>
+<entry>632 &#xb1; 97</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>&#x2002;924 &#xb1; 241</entry>
+<entry>1123 &#xb1; 332</entry>
+<entry>1045 &#xb1; 214</entry>
+<entry>&#x2002;581 &#xb1; 111</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>1057 &#xb1; 257</entry>
+<entry>1341 &#xb1; 345</entry>
+<entry>1141 &#xb1; 310</entry>
+<entry>177 &#xb1; 78</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0134" num="0000">
+<tables id="TABLE-US-00011" num="00011">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 11</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Evolution of turbidity of a liquid over the time for diluted</entry>
+</row>
+<row>
+<entry>emulsions or titanium dioxide dispersed in citrate buffer.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="154pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Titanium</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>dioxide</entry>
+</row>
+<row>
+<entry/>
+<entry>Concentration of citrus fiber in original emulsion</entry>
+<entry>(TiO<sub>2</sub>)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="56pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Days</entry>
+<entry>1 wt %</entry>
+<entry>1.5 wt %</entry>
+<entry>2 wt %</entry>
+<entry>0.02 wt %</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>0</entry>
+<entry>1139 &#xb1; 235&#x2002;</entry>
+<entry>1365 &#xb1; 289</entry>
+<entry>1370 &#xb1; 331</entry>
+<entry>941 &#xb1; 97</entry>
+</row>
+<row>
+<entry>1</entry>
+<entry>602 &#xb1; 189</entry>
+<entry>&#x2002;838 &#xb1; 224</entry>
+<entry>&#x2002;812 &#xb1; 258</entry>
+<entry>534 &#xb1; 69</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>475 &#xb1; 152</entry>
+<entry>&#x2002;521 &#xb1; 168</entry>
+<entry>&#x2002;483 &#xb1; 124</entry>
+<entry>415 &#xb1; 75</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>79 &#xb1; 43</entry>
+<entry>115 &#xb1; 52</entry>
+<entry>158 &#xb1; 55</entry>
+<entry>129 &#xb1; 53</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0135" num="0122">In Example 6, a 50 v/v % oil-in-water emulsion stabilized by citrus fiber showed excellent stability over a period of time of 7 days, wherein the water fraction of the emulsion comprised 1, 1.5 or 3 wt. % citrus fiber. The emulsions have been shown to be stable in neutral liquids as well as in acidic liquids.</p>
+<heading id="h-0011" level="1">Example 7 (Control 1)</heading>
+<p id="p-0136" num="0123">0.5 g of chitin was dispersed in an amount of deionized water or citrate buffer to obtain chitin dispersions with a series of concentrations, i.e. 0.2 wt. %, 0.5 wt. %, 0.8 wt. %, 1 wt. %, 1.5 wt. % and 2 wt. %.</p>
+<p id="p-0137" num="0124">The evolutions of turbidity (indicated by Nephelometric Turbidity Unit&#x2014;NTU) of a liquid over the time, wherein chitin or titanium dioxide was dispersed in deionized water or citrate buffer (pH 3.7) were recorded in Tables 12 and 13.</p>
+<p id="p-0138" num="0000">
+<tables id="TABLE-US-00012" num="00012">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="322pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 12</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Evolutions of turbidity of a liquid over the time, wherein chitin</entry>
+</row>
+<row>
+<entry>or titanium dioxide was dispersed in deionized water.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="245pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Titanium</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>dioxide</entry>
+</row>
+<row>
+<entry/>
+<entry>Chitin</entry>
+<entry>(TiO2)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Duration</entry>
+<entry>0.2 wt %</entry>
+<entry>0.5 wt %</entry>
+<entry>0.8 wt %</entry>
+<entry>1 wt %</entry>
+<entry>1.5 wt %</entry>
+<entry>2 wt %</entry>
+<entry>0.02 wt %</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>0</entry>
+<entry>334 &#xb1; 67&#x2002;</entry>
+<entry>1109 &#xb1; 138</entry>
+<entry>2039 &#xb1; 245</entry>
+<entry>3077 &#xb1; 468</entry>
+<entry>3128 &#xb1; 575</entry>
+<entry>&#x2014;</entry>
+<entry>1181 &#xb1; 152</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="14pt" align="right"/>
+<colspec colname="2" colwidth="21pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>5</entry>
+<entry>min</entry>
+<entry>61.9 &#xb1; 23<sup>&#x2003;</sup></entry>
+<entry>104 &#xb1; 36</entry>
+<entry>155 &#xb1; 43</entry>
+<entry>145 &#xb1; 56</entry>
+<entry>191 &#xb1; 79</entry>
+<entry>208 &#xb1; 78</entry>
+<entry>1181 &#xb1; 129</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>h</entry>
+<entry>4.5 &#xb1; 3.8</entry>
+<entry>&#x2002;6.8 &#xb1; 4.9</entry>
+<entry>&#x2002;9.8 &#xb1; 5.5</entry>
+<entry>12.6 &#xb1; 7.3</entry>
+<entry>15.2 &#xb1; 9.6</entry>
+<entry>11.2 &#xb1; 7.7</entry>
+<entry>1117 &#xb1; 185</entry>
+</row>
+<row>
+<entry>24</entry>
+<entry>h</entry>
+<entry>2.3 &#xb1; 1.6</entry>
+<entry>&#x2002;3.5 &#xb1; 2.5</entry>
+<entry>&#x2002;5.4 &#xb1; 4.7</entry>
+<entry>&#x2002;6.0 &#xb1; 5.2</entry>
+<entry>&#x2002;6.4 &#xb1; 5.0</entry>
+<entry>11.4 &#xb1; 6.1</entry>
+<entry>747 &#xb1; 96</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0139" num="0000">
+<tables id="TABLE-US-00013" num="00013">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="315pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 13</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Evolutions of turbidity of a liquid over the time, wherein</entry>
+</row>
+<row>
+<entry>chitin or titanium dioxide was dispersed in citrate buffer.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="238pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Titanium</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>dioxide</entry>
+</row>
+<row>
+<entry/>
+<entry>Chitin</entry>
+<entry>(TiO2)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<colspec colname="8" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Duration</entry>
+<entry>0.2 wt %</entry>
+<entry>0.5 wt %</entry>
+<entry>0.8 wt %</entry>
+<entry>1 wt %</entry>
+<entry>1.5 wt %</entry>
+<entry>2 wt %</entry>
+<entry>0.02 wt %</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>0</entry>
+<entry>312 &#xb1; 71</entry>
+<entry>630 &#xb1; 116</entry>
+<entry>2195 &#xb1; 258</entry>
+<entry>2224 &#xb1; 372</entry>
+<entry>4084 &#xb1; 653</entry>
+<entry>&#x2014;</entry>
+<entry>1017 &#xb1; 147</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="14pt" align="right"/>
+<colspec colname="2" colwidth="21pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<colspec colname="8" colwidth="42pt" align="center"/>
+<colspec colname="9" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>5</entry>
+<entry>min</entry>
+<entry>62.7 &#xb1; 34&#x2009;</entry>
+<entry>101 &#xb1; 42&#x2002;</entry>
+<entry>135 &#xb1; 58</entry>
+<entry>159 &#xb1; 64</entry>
+<entry>176 &#xb1; 82</entry>
+<entry>182 &#xb1; 87&#x2002;</entry>
+<entry>1008 &#xb1; 132</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>h</entry>
+<entry>10.2 &#xb1; 5.3</entry>
+<entry>9.6 &#xb1; 6.1</entry>
+<entry>10.7 &#xb1; 6.3</entry>
+<entry>12.8 &#xb1; 8.5</entry>
+<entry>&#x2002;17.6 &#xb1; 10.8</entry>
+<entry>17.2 &#xb1; 11.4</entry>
+<entry>&#x2002;899 &#xb1; 156</entry>
+</row>
+<row>
+<entry>24</entry>
+<entry>h</entry>
+<entry>&#x2002;5.3 &#xb1; 3.8</entry>
+<entry>4.1 &#xb1; 3.7</entry>
+<entry>&#x2002;6.9 &#xb1; 5.6</entry>
+<entry>&#x2002;6.5 &#xb1; 5.3</entry>
+<entry>&#x2003;&#x2009;8 &#xb1; 7.2</entry>
+<entry>9.4 &#xb1; 7.5</entry>
+<entry>612 &#xb1; 82</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0140" num="0125">In comparative Example 7, chitin fibers, which have not been regenerated, have been evaluated in liquids with different pH values, i.e. pH=7 and pH=3.7. Such suspensions showed only low stability of the turbidity of the liquids over a period of 24 h compared to titanium dioxide.</p>
+<heading id="h-0012" level="1">Example 8 (Control 2)</heading>
+<p id="p-0141" num="0126">Chitin dispersion with the concentration of 1 wt. % was prepared by dispersing 0.5 g of chitin in 49.5 g of deionized water. 50 g, 33.3 g, 21.4 g, 12.5 g and 5.6 g of sunflower oil were mixed with 50 g of chitin dispersion respectively in order to obtain water-continuous emulsions with oil fraction of 50 v/v %, 40 v/v %, 30 v/v %, 20 v/v % and 10 v/v % by ultrasonication at 60% pressure amplitude for 2 min in a cold water bath. Nevertheless, emulsion cannot be constructed successfully by chitin.</p>
+<heading id="h-0013" level="1">Example 9 (Control 3)</heading>
+<p id="p-0142" num="0127">0.5 g of chitin fiber was dispersed in an amount of deionized water or citrate buffer (pH 3.7) to obtain chitin fiber dispersions with a series of concentrations, i.e. 1 wt. %, 2 wt. %, 3 wt. %, 4 wt. % and 5 wt. %. 5 ml of sunflower oil was mixed with 5 ml of chitin dispersion respectively in order to obtain water-continuous emulsions with oil fraction of 50 v/v % by ultrasonication at 60% pressure amplitude for 2 min in a cold-water bath. However, the emulsion construction was failed.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A beverage composition comprising
+<claim-text>a clouding agent selected from the group consisting of coacervate hydrocolloid particles comprising a protein and a polysaccharide, regenerated insoluble dietary fibers, partially soluble dietary fibers, emulsion stabilized by regenerated insoluble dietary fibers and/or partially soluble dietary fibers and any combination thereof, and</claim-text>
+<claim-text>optionally, one or more beverage ingredients.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The beverage composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least 6% of the initial level of the turbidity is maintained over a period of at least 24 hours when used in a beverage.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The beverage composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the protein of the coacervate hydrocolloid particles is selected from the group consisting of wheat protein, rice protein, pea protein, mung bean protein, whey protein and any combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The beverage composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the polysaccharide of the coacervate hydrocolloid particles is selected from the group consisting of pectin, carboxymethylcellulose, alginate, xanthan gum, gellan gum, gum arabic and any combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The beverage composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the regenerated insoluble dietary fiber is selected from the group consisting of lignin, cellulose, hemicellulose, chitin and any combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The beverage composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the partially soluble dietary fiber is a citrus fiber.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The beverage composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the emulsion is stabilized by regenerated chitin and/or citrus fiber.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. A beverage comprising the beverage composition according to <claim-ref idref="CLM-00001">claim 1</claim-ref> and a beverage base.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The beverage according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the beverage base is acidic or neutral.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The beverage according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the coacervate hydrocolloid particles are present in an amount of 0.01 to 10 wt. % based on the total amount of the beverage.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The beverage according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the regenerated insoluble dietary fiber is present in an amount of 0.01 to 10 wt. %, based on the total amount of the beverage.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The beverage according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the partially soluble dietary fiber is present in an amount of 0.05 to 30 wt. %, based on the total amount of the beverage.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The beverage according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the emulsion is stabilized by regenerated insoluble dietary fiber in an amount of 1 to 1.5 wt. %, based on the total amount of the beverage, and/or partially soluble dietary fiber in an amount of 1 to 10 wt. %, based on the total weight of the beverage.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The beverage according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the emulsion is an oil-in-water emulsion comprising an oil in an amount of 1 to 50 v/v %.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The beverage composition according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein at least 6% of the initial level of the turbidity is maintained over a period of at least 48 hours when used in a beverage.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The beverage composition according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein at least 6% of the initial level of the turbidity is maintained over a period of at least 168 hours when used in a beverage.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The beverage composition according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the polysaccharide is gum arabic.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The beverage composition according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the size of the coacervate hydrocolloid particles is from 0.5 to 5 &#x3bc;m.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The beverage according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the pH of the beverage base is between 2 and 8.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The beverage according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the coacervate hydrocolloid particles is obtained from a coacervation process using gum arabic and whey protein.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

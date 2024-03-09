@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225248A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230711" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225248</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18125266</doc-number>
+<date>20230323</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2018-243331</doc-number>
+<date>20181226</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>43</main-group>
+<subgroup>063</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>69</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>69</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>43</main-group>
+<subgroup>063</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>69</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>69</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>2101</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="rystxt5bbly02">Electric Grass Cutting Machine</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16688237</doc-number>
+<date>20191119</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11632906</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18125266</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Kubota Corporation</orgname>
+<address>
+<city>Osaka-ski</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Ito</last-name>
+<first-name>Hirokazu</first-name>
+<address>
+<city>Sakai-shi</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Uemura</last-name>
+<first-name>Katsuhiko</first-name>
+<address>
+<city>Sakai-shi</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Matsuda</last-name>
+<first-name>Kazuaki</first-name>
+<address>
+<city>Sakai-shi</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">In an electric grass cutting machine relating to the present invention, an electric motor for driving a traveling device having a pair of left and right front wheels and a pair of left and right rear wheels and a gear transmission for speed-changing output from the electric motor and transmitting the resultant power to the traveling device are disposed between the left and right rear wheels and arranged one after the other in the front/rear direction at positions laterally of a conveying duct for guiding cut grass pieces from a rear discharge type mower device to a grass collecting container supported to a rear portion of a machine body frame.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="155.11mm" wi="221.74mm" file="US20230225248A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="219.79mm" wi="160.53mm" file="US20230225248A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="215.05mm" wi="138.18mm" file="US20230225248A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="221.57mm" wi="164.76mm" file="US20230225248A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="214.88mm" wi="135.64mm" file="US20230225248A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="212.68mm" wi="154.69mm" file="US20230225248A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading level="1" id="h-0001">CROSS-REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application is a continuation of U.S. Pat. Application No. 16/688,237, filed Nov. 19, 2019 and claims priority to Japanese Patent Application No. 2018-243331 filed Dec. 26, 2018, the disclosures of which are hereby incorporated by reference in their entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading level="1" id="h-0002">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to an electric grass cutting machine including a traveling device, a mower device, a grass collecting container and an electric motor for driving the traveling device.</p>
+<heading level="1" id="h-0003">BACKGROUND ART</heading>
+<p id="p-0004" num="0003">As an electric grass cutting machine having an electric motor for driving a traveling device, as disclosed in Patent Document 1, there is known one configured such that each one of a pair of left and right rear wheels or each one of a pair of left and right front wheels is equipped with an electric motor (see Patent Document 1 for example).</p>
+<heading level="1" id="h-0004">BACKGROUND ART DOCUMENT</heading>
+<heading level="1" id="h-0005">Patent Document</heading>
+<p id="p-0005" num="0004">Patent Document 1: Japanese Unexamined Patent Application Publication No. 2011-218951 publication document</p>
+<heading level="1" id="h-0006">SUMMARY OF THE INVENTION</heading>
+<heading level="1" id="h-0007">Problem to Be Solved by Invention</heading>
+<p id="p-0006" num="0005">In the above-described configuration, since an electric motor is provided for each one of a pair of left and right wheels, the frequency of use of the electric motor(s) or a speed reduction mechanism tends to be high. Further, a space for layout of the configuration tends to occupy a large area between the left and right wheels, which in turn tends to &#x201c;squeeze&#x201d; the space required for laying out a conveying duct for conveying cut grass pieces from the mower device to the grass collecting device.</p>
+<p id="p-0007" num="0006">The present invention intends to provide an electric grass cutting machine that can reduce the frequency of use of an electric motor driving a traveling device and can also reduce its disposing space and that allows cost reduction and compactization of the machine.</p>
+<heading level="1" id="h-0008">Solution</heading>
+<p id="p-0008" num="0007">According to a characterizing feature of the present invention, an electric grass cutting machine comprises:
+<ul id="ul0001" list-style="none">
+<li id="ul0001-0001" num="0008">a traveling device having a pair of left and right front wheels and a pair of left and right rear wheels;</li>
+<li id="ul0001-0002" num="0009">a mower device of a rear discharge type disposed under a machine body frame;</li>
+<li id="ul0001-0003" num="0010">a grass collecting container supported to a rear portion of the machine body frame;</li>
+<li id="ul0001-0004" num="0011">an electric motor configured to drive the traveling device; and</li>
+<li id="ul0001-0005" num="0012">a gear transmission configured to speed-change an output from the electric motor and to transmit the speed-changed output to the traveling device;</li>
+<li id="ul0001-0006" num="0013">wherein the electric motor and the gear transmission are disposed between the left and right rear wheels and arranged one after the other in the front/rear direction at positions laterally of a conveying duct for guiding cut grass pieces from the mower device to the grass collecting container.</li>
+</ul>
+</p>
+<p id="p-0009" num="0014">With the above-described inventive configuration, the electric motor and the gear transmission are disposed, not relative to the individual wheel, but between the left and right rear wheels, one after the other in the front/rear direction at positions laterally of a conveying duct for guiding cut grass pieces from the mower device to the grass collecting container.</p>
+<p id="p-0010" num="0015">Therefore, the output from the electric motor can be distributed via the gear transmission to the wheels at their respective positions, so that it is readily possible to reduce the frequency of use of the electric motor and the gear transmission. Moreover, even when a relatively compact electric motor is employed, it is still readily possible to obtain a required high output via the gear transmission.</p>
+<p id="p-0011" num="0016">Further, since the electric motor and the gear transmission are arranged one after the other not in the left/right direction or the vertical direction, but in the front/rear direction, there is no need to increase the left/right width and/or the vertical width of the disposing area for the electric motor and the gear transmission. Accordingly, it is readily possible to effectively utilize the space available between the left and right wheels as the disposing area for the electric motor and the gear transmission. Moreover, as the vertical width need not be reduced or the vehicle height need not be increased unnecessarily, the inventive arrangement is advantageous also in the respect of readiness of compactization of the machine body.</p>
+<p id="p-0012" num="0017">In the above-described configuration, preferably, the electric motor is supported to a transmission case that accommodates the gear transmission.</p>
+<p id="p-0013" num="0018">With the above-described inventive configuration, since a transmission case can be utilized as a &#x201c;supporting means&#x201d; for the electric motor, the supporting arrangement for the electric motor can be readily simplified.</p>
+<p id="p-0014" num="0019">In the above-described inventive configuration, preferably:
+<ul id="ul0002" list-style="none">
+<li id="ul0002-0001" num="0020">the electric motor is an oil cooled type having a cooling jacket; and</li>
+<li id="ul0002-0002" num="0021">an amount of oil charged in the transmission case is supplied in circulation to the cooling jacket.</li>
+</ul>
+</p>
+<p id="p-0015" num="0022">With the above-described inventive configuration, oil fed/discharged to/from the cooling jacket of the electric motor is circulated to/from the transmission case having an inside space set with a relatively large surface area. With this, discharge heat from the transmission case present in the circulation passage can be effectively utilized as a &#x201c;cooling means&#x201d; for the oil.</p>
+<p id="p-0016" num="0023">And, as the electric motor and the transmission are arranged one after the other in the front/rear direction, by connecting the electric motor and the transmission case disposed one after the other to each other, a cooling pipe to be provided between the cooling jacket and the transmission case can be designed short easily.</p>
+<p id="p-0017" num="0024">In the above-described inventive configuration, preferably, an oil cooler is incorporated in an oil circulation circuit to the cooling jacket.</p>
+<p id="p-0018" num="0025">With the above-described inventive configuration, since an oil cooler is incorporated in an oil circulation circuit to the cooling jacket, the electric motor can be cooled in a reliable manner.</p>
+<p id="p-0019" num="0026">In the above-described inventive configuration, preferably, in a front hood provided at a front portion of the machine body frame, there is accommodated a battery for feeding electric power to the electric motor.</p>
+<p id="p-0020" num="0027">With the above-described inventive configuration, the battery which is a heavy object is located at the machine body front portion. So, it is readily possible to maintain favorable front/rear balance relative to e.g. a weight of a grass collecting container which is disposed at a rear portion of the machine body. Further, it is readily possible to avoid adherence of rainwater or dust to the battery as this battery is accommodated in the front hood.</p>
+<p id="p-0021" num="0028">In the above-described inventive configuration, preferably:
+<ul id="ul0003" list-style="none">
+<li id="ul0003-0001" num="0029">a left/right width of a pair of left and right main frames included in the machine body frame is set, at its front portion, to a width approximating a left/right width of the battery and set, at its rear portion, to a width which is greater than the width of the front portion and approximates a sum total of a left/right width of the electric motor and a left/right width of the conveying duct.</li>
+</ul>
+</p>
+<p id="p-0022" num="0030">With the above-described inventive configuration, since the front portion of the main frames has a smaller width, it is possible to secure a large operational area for the front wheels which are steered. Further, as the width of this front portion is set to a width approximating the left/right width of the battery, it is readily possible to support the battery as a heavy object.</p>
+<p id="p-0023" num="0031">And, as the rear portion of the main frames has a width greater than the front portion, the layout of the electric motor and the conveying duct can be made easily without reducing the right/left width of the conveying duct.</p>
+<p id="p-0024" num="0032">In the above-described inventive configuration, preferably:
+<ul id="ul0004" list-style="none">
+<li id="ul0004-0001" num="0033">the mower device includes a cutter blade housing that covers a plurality of rotary blades;</li>
+<li id="ul0004-0002" num="0034">the mower device is supported to be movable to/from between an upper position close to the machine body frame and a lower position away from the machine body frame; and</li>
+<li id="ul0004-0003" num="0035">the electric motor is disposed, relative to the mower device located at the upper position, at a position overlapped with the cutter blade housing in the front/rear direction, at a position offset from rotational paths of the rotary blades as seen in a plan view.</li>
+</ul>
+</p>
+<p id="p-0025" num="0036">With the above-described inventive configuration, since the electric motor is disposed at a position overlapped in the front/rear direction with the cutter blade housing located at its upper position, it is possible to secure the disposing area for the electric motor and the transmission case to be arranged one after the other in the front/rear direction, without increasing the wheelbase significantly.</p>
+<p id="p-0026" num="0037">And, since the electric motor is located at a position off the rotational paths of the rotary blades as seen in the plan view, it is also possible to set the upper face of the cutter blade housing low with avoiding interference with the rotary blades. Therefore, the mower device having the cutter blade housing overlapped with the electric motor can be elevated to an even higher position.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading level="1" id="h-0009">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0027" num="0038"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a left side view showing an electric grass cutting machine in its entirety,</p>
+<p id="p-0028" num="0039"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a plan view showing the electric grass cutting machine in its entirety,</p>
+<p id="p-0029" num="0040"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is an explanatory view illustrating position relations as seen in a plan view, of a battery, a mower device, an electric motor, a transmission case and a conveying duct respectively relative to a machine body frame,</p>
+<p id="p-0030" num="0041"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is an explanatory view illustrating the position relations as seen in a side view, of the battery, the mower device, the electric motor, the transmission case and the conveying duct respectively relative to the machine body frame, and</p>
+<p id="p-0031" num="0042"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is an oil cooling circuit diagram representing an oil circulation system between a cooking jacket of the electric motor and the transmission case.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading level="1" id="h-0010">EMBODIMENT</heading>
+<p id="p-0032" num="0043">Next, an embodiment as an example of the present invention will be explained with reference to the accompanying drawings.</p>
+<p id="p-0033" num="0044">Incidentally, in the following explanation, with respect to a vehicle body of an electric grass cutting machine, as shown in <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref>, the direction of an arrow F is defined as &#x201c;vehicle body front side&#x201d;, the direction of an arrow B is defined as &#x201c;vehicle body rear side&#x201d;, and as shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the direction of an arrow U is defined as &#x201c;vehicle body upper side&#x201d;, the direction of an arrow D is defined as &#x201c;vehicle body lower side&#x201d;, and as shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the direction of an arrow L is defined as &#x201c;vehicle body left side&#x201d; and the direction of an arrow R is defined as &#x201c;vehicle body right side&#x201d;, respectively.</p>
+<heading level="1" id="h-0011">General Configuration of Electric Grass Cutting Machine</heading>
+<p id="p-0034" num="0045"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows an overall side view of an electric grass cutting machine and <figref idref="DRAWINGS">FIG. <b>2</b></figref> shows an overall plan view of the electric grass cutting machine. This electric grass cutting machine is configured such that a pair of left and right steerable front wheels <b>1</b>F are provided on the front side of a machine body frame <b>10</b> of a traveling machine body and on the rear side thereof, a pair of drivable left and right rear wheels <b>1</b>R are provided for self-propelling of the machine. A steering operation of the front wheels <b>1</b>F is carried out by a power steering device <b>14</b> (see <figref idref="DRAWINGS">FIG. <b>3</b></figref>) which in turn is operated by a steering operation on a steering wheel <b>13</b> to be described later.</p>
+<p id="p-0035" num="0046">Downwardly of the machine body frame <b>10</b> and between the front wheels <b>1</b>F and the rear wheels <b>1</b>R in the front/rear direction, a rear discharge type mower device <b>4</b> is mounted and suspended to be liftable up/down. On the rear side of the traveling machine body, there is provided a grass collecting device <b>5</b> for collecting cut grass pieces cut by the mower device <b>4</b>.</p>
+<p id="p-0036" num="0047">As shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref> and <figref idref="DRAWINGS">FIG. <b>2</b></figref>, on the machine body frame <b>10</b> of the traveling machine body, a front hood <b>15</b> is provided at its front portion. And, in this front hood <b>15</b>, a battery <b>16</b> for electric power supply is accommodated. On the rear side of the front hood <b>15</b>, a riding driving section <b>11</b> is provided.</p>
+<p id="p-0037" num="0048">In the riding driving section <b>11</b>, a driving section step <b>12</b> liftable up/down by a driver is provided and on the font side of this driving section step <b>12</b>, a steering operational section <b>17</b> having the steering wheel <b>13</b> is provided, and on the rear side across the driving section step <b>12</b>, a driver&#x2019;s seat <b>18</b> is provided. At a rear portion of the driver&#x2019;s seat <b>18</b>, a ROPS <b>19</b> having a portal shape as seen in the front/rear direction is mounted vertically from the rear end portion of the machine body frame <b>10</b>.</p>
+<p id="p-0038" num="0049">The battery <b>16</b> accommodated in the front hood <b>15</b> is provided for supplying electric power to a traveling motor <b>2</b> to be described later (corresponding to an &#x201c;electric motor&#x201d; in the present invention), and to an implement motor <b>3</b>, etc.</p>
+<p id="p-0039" num="0050">The implement work motor <b>3</b> is provided for supplying power to a blade driving mechanism (not shown) of the mower device <b>4</b> for rotatably driving rotary blades <b>43</b>. This implement work motor <b>3</b> is provided at a front lower position of the front hood <b>15</b> and supported to the front end portion of the machine body frame <b>10</b>. Power of the implement work motor <b>3</b> is transmitted to the blade driving mechanism via a PTO shaft (not shown) for transmitting power to the mower device <b>4</b> whose vertical position can be changed.</p>
+<heading level="1" id="h-0012">Mower Device</heading>
+<p id="p-0040" num="0051">The mower device <b>4</b> includes a cutter blade housing <b>42</b> that is supported to the machine body frame <b>10</b> to be liftable up/down, via a link mechanism <b>40</b> having a pair of front link <b>40</b><i>a</i> and a rear link <b>40</b><i>b</i> on the left and right opposed sides thereof.</p>
+<p id="p-0041" num="0052">In the link mechanism <b>40</b>, to the upper end portion of the rear link <b>40</b><i>b</i>, a mower lift cylinder <b>41</b> is operably connected. In association with an expansion/contraction operation of this mower lift cylinder <b>41</b>, the vertical position of the cutter blade housing <b>42</b> relative to the machine body frame <b>10</b> can be changed.</p>
+<p id="p-0042" num="0053">Inside the cutter blade housing <b>42</b>, the rotary blades <b>43</b> are disposed at three positions. The rotary blades <b>43</b> include a center rotary blade <b>43</b><i>a</i> located at the approximate center in the machine body left/right direction and provided on the front side, and side rotary blades <b>43</b><i>b</i>, <b>43</b><i>b</i> which are located on the left and right opposed sides and slightly rearwards.</p>
+<p id="p-0043" num="0054">Each rotary blade <b>43</b> is rotated about a vertical axis and the rotary blades <b>43</b> are arranged such that the rotational path Rb of each side rotary blade <b>43</b><i>b</i>, <b>43</b><i>b</i> is partially overlapped in the left/right direction with the rotational path Ra of the center rotary blade <b>43</b><i>a</i>. With this arrangement, due to the slight overlapping between the passage of the rotational path Ra of the center rotary blade <b>43</b><i>a</i> on the front side and the passage of the rotational path Rb of the respective side rotary blade <b>43</b><i>b</i>, <b>43</b><i>b</i> on the rear side, the blades are rotationally driven under a condition providing less possibility of uncut.</p>
+<p id="p-0044" num="0055">Of the rotary blades <b>43</b> at the three positions, the left side rotary blade <b>43</b><i>b</i> and the center rotary blade <b>43</b><i>a</i> are rotated clockwise as seen in the plan view, whereas the right side rotary blade <b>43</b><i>b</i> is rotated counterclockwise. And, an entrance <b>44</b><i>a</i> of a conveying duct <b>44</b> for guiding cut grass pieces rearwards is located between the center rotary blade <b>43</b><i>a</i> and the right side rotary blade <b>43</b><i>b</i>.</p>
+<p id="p-0045" num="0056">Cut grass pieces will be sent from the left side rotary blade <b>43</b><i>b</i> toward the center rotary blade <b>43</b><i>a</i> and through a cut grass passage <b>42</b><i>a</i> inside the cutter blade housing <b>42</b>. Cut grass pieces will be sent also from the right side rotary blade <b>43</b><i>b</i> toward the center rotary blade <b>43</b><i>a</i> and through the cut grass passage <b>42</b><i>a</i> inside the cutter blade housing <b>42</b>. These cut grass pieces will be conveyed together with grass pieces cut by the center rotary blade <b>43</b><i>a</i> and fed together into the entrance <b>44</b><i>a</i> of the conveying duct <b>44</b> and will be sent into the grass collecting device <b>5</b> on the rear side, as being guided by the conveying duct <b>44</b> by a conveying air current generated in association with rotational movements of the rotary blades <b>43</b>.</p>
+<p id="p-0046" num="0057">In the cutter blade housing <b>42</b>, at its upper face covering the respective rotary blades <b>43</b>, at a portion thereof opposed to the portions corresponding to the front portion of the rotational paths Ra, Rb of the respective rotary blades <b>43</b> form the cut grass passage <b>42</b><i>a</i> bulging to the upper side. And, on the rear side of the left and right side rotary blades <b>43</b><i>b</i>, <b>43</b><i>b</i>, at a position in the front/rear direction approximating that of a tangent to the outer circumferential edge of the rotational path Rb, a rear end edge <b>42</b><i>b</i> of the cutter blade housing <b>42</b> is formed straight.</p>
+<p id="p-0047" num="0058">Between this rear end edge <b>42</b><i>b</i> of the cutter blade housing <b>42</b> and the rear end edge of the rotational path Ra of the center rotary blade <b>43</b><i>a</i>, there exists an area not overlapped, as seen in a plan view, with either one of the rotational paths Ra, Rb of the rotary blades <b>43</b>, this area is utilized as a disposing area <b>42</b><i>c</i> for the front portion of the traveling motor <b>2</b>. The upper face of this disposing area <b>42</b><i>c</i> is located at a position significantly lower than the upper face of the cut grass passage <b>42</b><i>a</i> and staying clear of the rotational paths Ra, Rb of the respective rotary blades <b>43</b>, either, so it may be set also at a position having a height similar to the disposing portion of the respective rotary blades <b>43</b> or at a position equal to or lower than the disposing position.</p>
+<p id="p-0048" num="0059">The conveying duct <b>44</b>, as shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref> and <figref idref="DRAWINGS">FIG. <b>4</b></figref>, includes an inlet side duct portion <b>45</b> provided integrally with the cutter blade housing <b>42</b> and a fixed side duct portion <b>46</b> fixed to the machine body frame <b>10</b> side. The inlet side duct portion <b>45</b> and the fixed side duct portion <b>46</b> respectively has a channel-like cross sectional shape which is opened downwards, with the front end portion of the fixed side duct portion <b>46</b> hanging from above over the rear end portion of the inlet side duct portion <b>45</b>.</p>
+<p id="p-0049" num="0060">Therefore, when the mower device <b>4</b> is under its suspended non-working posture, the inlet side duct portion <b>45</b> and the fixed side duct portion <b>46</b> are under a condition wherein the rear end portion upper face of the inlet side duct portion <b>45</b> is placed in contact with or in close vicinity of the underside of the front end upper face of the fixed side duct portion <b>46</b>.</p>
+<p id="p-0050" num="0061">And, when the mower device <b>4</b> is under a working posture located at its lowered position, the inlet side duct portion <b>45</b> is lowered in association with a lowing movement of the mower device <b>4</b> and there occurs no change in the position of the fixed side duct portion <b>46</b> fixed to the machine body frame <b>10</b>, so the rear end upper face of the inlet side duct portion <b>45</b> will be located downwardly away from the front end upper face of the fixed side duct portion <b>46</b> (see <figref idref="DRAWINGS">FIG. <b>4</b></figref>). Under this condition, inside the conveying duct <b>44</b>, there are constituted a series of cut grass conveying passages that convey cut grass pieces from the mower device <b>4</b> to the grass collecting device <b>5</b>.</p>
+<p id="p-0051" num="0062">The conveying duct <b>44</b>, as shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, passes between the left and right rear wheels <b>1</b>R, <b>1</b>R and extends rearwards. The left and right rear wheels <b>1</b>R, <b>1</b>R are disposed on the laterally outer sides of the left and right machine body frame <b>10</b> and the conveying duct <b>44</b> is disposed at a position on more right side than the center position between the left and right machine body frames <b>10</b>, <b>10</b> and adjacent from the machine body inner side to the lateral face of the right machine body frame <b>10</b>. With this arrangement, on the left side of the conveying duct <b>44</b> and relative to the left machine body frame <b>10</b>, there is secured a disposing space for disposing the traveling motor <b>2</b>.</p>
+<heading level="1" id="h-0013">Grass Collecting Device</heading>
+<p id="p-0052" num="0063">The grass collecting device <b>5</b> for storing an amount of cut grass pieces cut by the mower device <b>4</b> is attached to the ROPS <b>19</b>.</p>
+<p id="p-0053" num="0064">The grass collecting device <b>5</b> includes a pair of left and right link mechanisms <b>51</b> whose front end portions are attached to the ROPS <b>19</b> and a grass collecting container <b>50</b> attached to the rear end portions of the link mechanisms <b>51</b>. The link mechanism <b>51</b> is mounted to be liftable up/down by a lift cylinder <b>52</b> provided to/between the lower end portion of the ROPS <b>19</b> and an intermediate portion of the link mechanism <b>51</b>.</p>
+<p id="p-0054" num="0065">The grass collecting container <b>50</b> attached to the rear end portions of the link mechanisms <b>51</b> is lifted up/down by the link mechanisms <b>51</b> and the lift cylinders <b>52</b> between a lowered storing posture and an elevated discharging posture.</p>
+<p id="p-0055" num="0066">Under the lowered storing posture, a cut grass inlet (not shown) of the front portion of the grass collecting container <b>50</b> is communicated to the conveying duct <b>44</b> (see <figref idref="DRAWINGS">FIG. <b>3</b></figref>) that guides cut grass pieces from the mower device <b>4</b> to the grass collecting container <b>50</b>. Under the elevated discharging posture, the cut grass inlet is upwardly away from the conveying duct <b>44</b>.</p>
+<p id="p-0056" num="0067">At the rear portion of the grass collecting container <b>50</b>, there are provided a discharge outlet <b>50</b><i>a</i> and a lid body <b>50</b><i>b</i> for opening/closing the discharge outlet <b>50</b><i>a</i>. The lid body <b>50</b><i>b</i> has its lower side openable relative to its upper side which acts as the pivot, in association with an operation of a dump cylinder <b>53</b> provided as an opening/closing mechanism. And, by opening the lid body <b>50</b><i>b</i> under the elevated discharge posture, an amount of cut grass pieces stored in the grass collecting container <b>50</b> will be discharged under the gravity through the discharge outlet <b>50</b><i>a</i>.</p>
+<heading level="1" id="h-0014">Machine Body Frame</heading>
+<p id="p-0057" num="0068">As shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the machine body frame <b>10</b> includes a pair of left and right main frames <b>10</b>A, <b>10</b>A extending along the machine body front/rear direction. The left/right width of front portions of these main frames <b>10</b>A, <b>10</b>A as seen in the plan view is set smaller than the left/right width of the front hood <b>15</b>. Therefore, the front hood <b>15</b> on more laterally outer side of the main frames <b>10</b>A, <b>10</b>A has its lower side opened for facilitating introduction of ambient air.</p>
+<p id="p-0058" num="0069">Further, the left/right width of the main frames <b>10</b>A, <b>10</b>A at the portion which is located within the space of the front hood <b>15</b> as seen in the plan view is set approximately equal to the left/right width of the battery <b>16</b> accommodated in this front hood <b>15</b>, thus allowing the main frames <b>10</b>A, <b>10</b>A to easily and firmly support the battery <b>16</b> at position close to the left and right opposed portions of the battery <b>16</b>.</p>
+<p id="p-0059" num="0070">On more rear side than the front hood <b>15</b>, the left/right width of the main frames <b>10</b>A, <b>10</b>A as seen in the plan view is set greater than the left/right width of the main frames <b>10</b>A, <b>10</b>A at the front portions.</p>
+<p id="p-0060" num="0071">The left/right width of the main frames <b>10</b>A, <b>10</b>A at the wide portions is a width approximating the spacing between the left and right rear wheels <b>1</b>R, <b>1</b>R, namely being set to a value close to a sum total of the left/right width of the conveying duct <b>44</b> and the left/right width of the traveling motor <b>2</b> provided aside this conveying duct <b>44</b>.</p>
+<heading level="1" id="h-0015">Traveling Driving System</heading>
+<p id="p-0061" num="0072">In the traveling driving system of the electric grass cutting machine, there are provided the traveling motor <b>2</b> and a gear transmission <b>21</b><i>c</i>.</p>
+<p id="p-0062" num="0073">The traveling motor <b>2</b> includes a cylindrical outer case <b>20</b> disposed under a posture having a rotational center of a rotor (not shown) and an axial direction of an output shaft (not shown) both aligned with the front/rear direction. As this outer case <b>20</b> is disposed on the front side of the transmission case <b>21</b> accommodating the gear transmission <b>21</b><i>c</i>, the rear end side is supported to the transmission case <b>21</b>.</p>
+<p id="p-0063" num="0074">The traveling motor <b>2</b>, as shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref> and <figref idref="DRAWINGS">FIG. <b>4</b></figref>, is disposed between the left main frames <b>10</b>A and the conveying duct <b>44</b>, with the upper half portion of the outer case <b>20</b> being overlapped with the main frames <b>10</b>A of the machine body frame <b>10</b> as seen in the side view.</p>
+<p id="p-0064" num="0075">As seen in the plan view, as shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref> and <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the front portion of the outer case <b>20</b> is overlapped with the cutter blade housing <b>42</b> of the mower device <b>4</b>.</p>
+<p id="p-0065" num="0076">In the upper face of the cutter blade housing <b>42</b> of the mower device <b>4</b>, between the rear end edge <b>42</b><i>b</i> of the cutter blade housing <b>42</b> and the rear end edge of the rotational path Ra of the center rotary blade <b>43</b><i>a</i>, there exits an area not overlapped with either of the rotational paths Ra, Rb of either rotary blades <b>43</b> as seen in the plan view. And, the relative position between the cutter blade housing <b>42</b> and the outer case <b>20</b> is set such that the front portion of the traveling motor <b>2</b> may be overlapped with this area.</p>
+<p id="p-0066" num="0077">The traveling motor <b>2</b> is of an oil cooled type having a cooling jacket <b>2</b><i>b</i> inside the outer case <b>20</b> and an amount of oil discharged from the cooling jacket <b>2</b><i>b</i> may be fed into the transmission case <b>21</b>.</p>
+<p id="p-0067" num="0078">An oil passage extending through the cooling jacket <b>2</b><i>b</i> of this traveling motor <b>2</b> will be described later.</p>
+<p id="p-0068" num="0079">The transmission case <b>21</b>, in order to serve also as an &#x201c;axle case&#x201d; for supporting the left and right rear wheels <b>1</b>R, includes axle support portions <b>22</b> formed integrally with its left and right opposed end portions.</p>
+<p id="p-0069" num="0080">This transmission case <b>21</b> is configured such that power transmitted from the output shaft of the traveling motor <b>2</b> is speed-changed by the gear transmission <b>21</b><i>c</i> accommodated therein and the resultant speed-changed power may be transmitted as driving forces to the rear wheels <b>1</b>R. In the transmission case <b>21</b>, its axle case portion <b>21</b><i>a</i> having the smallest diameter is disposed to pass under the conveying duct <b>44</b> and the power from the transmission case <b>21</b> is transmitted in distribution to the left and right rear wheels <b>1</b>R.</p>
+<heading level="1" id="h-0016">Oil Cooling Circuit</heading>
+<p id="p-0070" num="0081">As shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, a cooling circuit <b>6</b> (corresponding to an &#x201c;oil circulation circuit&#x201d; in this invention) is connected to the implement work motor <b>3</b> and the traveling motor <b>2</b>.</p>
+<p id="p-0071" num="0082">With this cooling circuit <b>6</b>, an amount of lubricant oil reserved in the transmission case <b>21</b> is circulated as a coolant under a pumping action of a hydraulic pump <b>60</b>, between the transmission case <b>21</b> and the implement work motor <b>3</b> and between the transmission case <b>21</b> and the traveling motor <b>2</b>, thereby to cool the implement work motor <b>3</b> and the traveling motor <b>2</b>.</p>
+<p id="p-0072" num="0083">The cooling circuit <b>6</b> includes an operational valve device <b>61</b> having operational valves <b>61</b><i>a</i>, <b>61</b><i>b</i>, <b>61</b><i>c</i> for feeding/discharging pressure oil for operation to/from the mower lift cylinder <b>41</b> of the mower device <b>4</b>, the lift cylinder <b>52</b> of the grass collecting device <b>5</b> and the dump cylinder <b>53</b>, respectively.</p>
+<p id="p-0073" num="0084">Specifically, the cooling circuit <b>6</b> includes an oil supply passage <b>62</b> for taking out the lubricant oil reserved in the transmission case <b>21</b> by the hydraulic pump <b>60</b> and supplying it to the operational valve device <b>61</b>, a first feeding oil passage <b>63</b> for feeding the lubricant oil discharged from a power beyond port <b>61</b><i>d</i> of the operational valve device <b>61</b> to the implement work motor <b>3</b> as a coolant, a second feeding oil passage <b>64</b> cooling the implement work motor <b>3</b> and feeding the lubricant oil discharged from this implement work motor <b>3</b> to the traveling motor <b>2</b> as a coolant, and a returning oil passage <b>65</b> for cooling the traveling motor <b>2</b> and returning the lubricant oil discharged from this traveling motor <b>2</b> to the transmission case <b>21</b>.</p>
+<p id="p-0074" num="0085">A sign (numeral) <b>66</b> shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref> denotes a charger for charging thebattery <b>16</b>. A sign (numeral) <b>67</b> shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref> denotes an implement inverter for supplying the power of the battery <b>16</b> to the implement work motor <b>3</b>. A sign (numeral) <b>68</b> shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref> denotes a traveling inverter for supplying the power of the battery <b>16</b> to the traveling motor <b>2</b>.</p>
+<p id="p-0075" num="0086">Advantageously, a temperature sensor <b>3</b><i>a</i> for detecting an inside temperature of the implement work motor <b>3</b>, a temperature sensor <b>2</b><i>a</i> for detecting an inside temperature of the traveling motor <b>2</b>, a temperature sensor <b>21</b><i>b</i> for detecting an inside temperature of the transmission case <b>21</b>, a temperature sensor <b>67</b><i>a</i> for detecting a temperature of the implement inverter <b>67</b>, a temperature sensor <b>68</b><i>a</i> for detecting a temperature of the traveling inverter <b>68</b> and also a control device for controlling the driving rotational speed or the flow rate of the hydraulic pump <b>60</b> based on the detections results of the temperature sensors <b>3</b><i>a</i>, <b>2</b><i>a</i>, <b>21</b><i>b</i>, etc., may be provided.</p>
+<p id="p-0076" num="0087">By driving the hydraulic pump <b>60</b> at a rated rotation at the time of driving of the mower lift cylinder <b>41</b>, the lift cylinder <b>52</b> of the grass collecting device <b>5</b> and the dump cylinder <b>53</b> and by driving this hydraulic pump <b>60</b> at a rotational speed corresponding to the temperature of the implement work motor <b>3</b>, traveling motor <b>2</b>, etc. at other times, the implement work motor <b>3</b> and the traveling motor <b>2</b> can be effectively cooled with achieving energy saving, and high outputs can be obtained respectively from the implement work motor <b>3</b> and the traveling motor <b>2</b>.</p>
+<p id="p-0077" num="0088">Alternatively, by driving the hydraulic pump <b>60</b> at a rated rotation at the time of driving of the mower lift cylinder <b>41</b>, the lift cylinder <b>52</b> of the grass collecting device <b>5</b> and the dump cylinder <b>53</b> and by switching over this hydraulic pump <b>60</b> between a driven state and a stopped state corresponding to the temperature of the implement work motor <b>3</b>, traveling motor <b>2</b>, etc. at other times, the implement work motor <b>3</b> and the traveling motor <b>2</b> can be effectively cooled with achieving energy saving, and high outputs can be obtained respectively from the implement work motor <b>3</b> and the traveling motor <b>2</b>.</p>
+<heading level="1" id="h-0017">Other Embodiments</heading>
+<p id="p-0078" num="0089">Next, other embodiments which respectively add modifications to the foregoing embodiment will be explained. In these other embodiments as follows, these may be used in a plurality of combinations with the foregoing embodiment, as long as no contradiction occurs from such combination.</p>
+<p id="p-0079" num="0090">(1) In the foregoing embodiment, there was illustrated an arrangement in which the traveling motor <b>2</b> is supported to the transmission case <b>21</b> accommodating the gear transmission <b>21</b><i>c</i>. However, the invention is not particularly limited to this arrangement. For instance, the traveling motor <b>2</b> may be attached not to the transmission case <b>21</b>, but to the machine body frame <b>10</b> either directly or via a separately provided attachment member (not shown).</p>
+<p id="p-0080" num="0091">For the rest of the configuration, the same arrangements as those of the foregoing embodiment may be employed.</p>
+<p id="p-0081" num="0092">(2) In the foregoing embodiment, there was illustrated an arrangement in which lubricant oil reserved in the transmission case <b>21</b> is used as the coolant for the traveling motor <b>2</b> and this lubricant oil is fed past the traveling motor <b>2</b> into the transmission case <b>21</b> so that cooling is effected by natural heat discharge from the transmission case <b>21</b> having a large heat discharging area. However, the invention is not particularly limited to this arrangement.</p>
+<p id="p-0082" num="0093">For instance, as indicated by virtual lines in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, an oil cooler <b>7</b> may be incorporated in the course of the return oil passage <b>65</b> from the traveling motor <b>2</b> to the transmission case <b>21</b> so that the return oil may be forcibly cooled by the cooling action of this oil cooler <b>7</b>.</p>
+<p id="p-0083" num="0094">The disposing position of such oil cooler <b>7</b> may by any appropriate position in the traveling machine body <b>1</b>. For instance, a position under the driver&#x2019;s seat <b>18</b>, a position inside the front hood <b>15</b>, or any other position, may be selected with consideration to cooling efficiency, a pipe length, etc.</p>
+<p id="p-0084" num="0095">For the rest of the configuration, the same arrangements as those of the foregoing embodiment may be employed.</p>
+<p id="p-0085" num="0096">(3) In the foregoing embodiment, there was illustrated an arrangement in which the traveling motor <b>2</b> is of the oil cooled type having a cooling jacket <b>2</b><i>b</i>. However, the invention is not particularly limited to this arrangement. For instance, any other appropriate cooling means may be employed, such as cooling the traveling motor <b>2</b> by air cooling using a separately provided heat sink or cooling fan (not shown) or cooling with using a Peltier device or the like.</p>
+<p id="p-0086" num="0097">For the rest of the configuration, the same arrangements as those of the foregoing embodiment may be employed.</p>
+<p id="p-0087" num="0098">(4) In the foregoing embodiment, there was illustrated an arrangement in which the front portion of the traveling motor <b>2</b> is overlapped in the front/rear direction with the rear portion of the cutter blade housing <b>42</b> of the mower device <b>4</b>. However, the invention is not particularly limited to this arrangement. For instance, it may be possible to arrange such that the cutter blade housing <b>42</b> of the mower device <b>4</b> and the traveling motor <b>2</b> are completely spaced apart from each other in the front/rear direction.</p>
+<p id="p-0088" num="0099">For the rest of the configuration, the same arrangements as those of the foregoing embodiment may be employed.</p>
+<p id="p-0089" num="0100">(5) In the foregoing embodiment, there was illustrated an arrangement in which the traveling motor <b>2</b> is located at a front portion of the transmission case <b>21</b>. However, the invention is not particularly limited to this arrangement. For instance, conversely, the traveling motor <b>2</b> may be located at a rear portion of the transmission case <b>21</b>, with the front portion of the traveling motor <b>2</b> being supported to the rear portion of the transmission case <b>21</b>.</p>
+<p id="p-0090" num="0101">For the rest of the configuration, the same arrangements as those of the foregoing embodiment may be employed.</p>
+<p id="p-0091" num="0102">(6) In the foregoing embodiment, there was illustrated an arrangement in which the main frames <b>10</b>A, <b>10</b>A of the machine body frame <b>10</b> respectively has its front potion formed narrower than its rear portion. However, the invention is not particularly limited to this arrangement. For instance, the left/right width of the main frames <b>10</b>A, <b>10</b>A may be substantially same at both its front portion and its rear portion, thus being of same linear shape.</p>
+<p id="p-0092" num="0103">For the rest of the configuration, the same arrangements as those of the foregoing embodiment may be employed.</p>
+<p id="p-0093" num="0104">(7) In the foregoing embodiment, there was illustrated an arrangement in which the battery <b>16</b> is disposed inside the front hood <b>15</b>. However, the invention is not particularly limited to this arrangement. For instance, any other appropriate arrangement may be employed such as an arrangement of the battery <b>16</b> being disposed at a machine body rear portion outside the front hood <b>15</b>, an arrangement of it being disposed in distribution at both the rear portion and the front portion, etc.</p>
+<p id="p-0094" num="0105">For the rest of the configuration, the same arrangements as those of the foregoing embodiment may be employed.</p>
+<p id="p-0095" num="0106">(8) In the foregoing embodiment, there was illustrated an arrangement in which the traveling motor <b>2</b> and the implement work motor <b>3</b> are driven by electric power from the common battery <b>16</b>. However, the invention is not particularly limited to this arrangement. For instance, any other appropriate arrangement may be employed such as an arrangement of the traveling motor <b>2</b> and the implement work motor <b>3</b> being driven respectively by electric powers from different batteries <b>16</b>.</p>
+<p id="p-0096" num="0107">For the rest of the configuration, the same arrangements as those of the foregoing embodiment may be employed.</p>
+<p id="p-0097" num="0108">(9) The charger (not shown) for charging the battery <b>16</b> used in the foregoing embodiment may be of a vehicle-mounted type to be disposed at an appropriate portion on the traveling machine body or may be of a separate-mount type to be disposed at a portion separate from the traveling machine body.</p>
+<heading level="1" id="h-0018">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0098" num="0109">The present invention is applicable not only to the riding electric grass cutting machine, but also to a walk-behind type electric grass cutting machine or an electric grass cutting machine configured for unmanned wireless maneuvering or an electric grass cutting machine configured for automatic traveling by artificial intelligence technology., etc. </p>
+<p id="p-0099" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table colsep="0" frame="topbot">
+<tgroup cols="1" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="314pt"/>
+<thead>
+<row rowsep="1" valign="bottom">
+<entry align="center" nameend="col1" namest="col1" valign="bottom">DESCRIPTION OF SIGNS</entry>
+</row>
+</thead>
+<tbody>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>1</b>F: front wheel</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>1</b>R: rear wheel</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>2</b>: electric motor</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>4</b>: mower device</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>6</b>: oil circulation circuit</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>7</b>: oil cooler</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>10</b>: machine body frame</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>10</b>A, <b>10</b>A: main frame</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>15</b>: front hood</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>16</b>: battery</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>21</b>: transmission case</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>42</b>: cutter blade housing</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>43</b>: rotary blade</entry>
+</row>
+<row rowsep="0" valign="top">
+<entry align="left" colname="col1" valign="top"><b>44</b>: conveying duct</entry>
+</row>
+<row rowsep="1" valign="top">
+<entry align="left" colname="col1" valign="top"><b>50</b>: grass collecting container</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An electric grass cutting machine comprising:
+<claim-text>a traveling device having a pair of left and right front wheels and a pair of left and right rear wheels;</claim-text>
+<claim-text>a mower device of a rear discharge type disposed under a machine body frame;</claim-text>
+<claim-text>a grass collecting container supported to a rear portion of the machine body frame;</claim-text>
+<claim-text>an electric motor configured to drive the traveling device;</claim-text>
+<claim-text>a gear transmission configured to speed-change an output from the electric motor and to transmit the speed-changed output to the traveling device; and</claim-text>
+<claim-text>a conveying duct extending rearward between the rear wheels and configured to guide cut grass pieces from the mower device to the grass collecting container,</claim-text>
+<claim-text>wherein the conveying duct is disposed at a position on more left or right side than a center position between the left and right rear wheels,</claim-text>
+<claim-text>wherein the electric motor and the gear transmission are disposed between the left and right rear wheels and arranged one after the other in a front/rear direction of a body of the electric grass cutting machine at positions laterally of the conveying duct, and</claim-text>
+<claim-text>wherein the electric motor comprises an output shaft whose axial direction is aligned with the front/rear direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The electric grass cutting machine of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the electric motor is supported to a transmission case that accommodates the gear transmission.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The electric grass cutting machine of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein:
+<claim-text>the electric motor is an oil cooled type having a cooling jacket; and</claim-text>
+<claim-text>an amount of oil charged in the transmission case is supplied in circulation to the cooling jacket.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The electric grass cutting machine of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein an oil cooler is incorporated in an oil circulation circuit to the cooling jacket.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The electric grass cutting machine of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein in a front hood provided at a front portion of the machine body frame, there is accommodated a battery for feeding electric power to the electric motor.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The electric grass cutting machine of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein a left/right width of a pair of left and right main frames included in the machine body frame is set, at its front portion, to a width approximating a left/right width of the battery and set, at its rear portion, to a width which is greater than the width of the front portion and approximates a sum total of a left/right width of the electric motor and a left/right width of the conveying duct.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The electric grass cutting machine of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the mower device comprises a cutter blade housing that covers a plurality of rotary blades;</claim-text>
+<claim-text>the mower device is supported to be movable to/from between an upper position close to the machine body frame and a lower position away from the machine body frame; and</claim-text>
+<claim-text>the electric motor is disposed, relative to the mower device located at the upper position, at a position overlapped with the cutter blade housing in the front/rear direction, at a position offset from rotational paths of the rotary blades as viewed in a plan view.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

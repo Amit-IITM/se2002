@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225578A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225578</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18093513</doc-number>
+<date>20230105</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>L</subclass>
+<main-group>9</main-group>
+<subgroup>28</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>L</subclass>
+<main-group>9</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>L</subclass>
+<main-group>9</main-group>
+<subgroup>32</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>L</subclass>
+<main-group>7</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>L</subclass>
+<main-group>9</main-group>
+<subgroup>2857</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>L</subclass>
+<main-group>9</main-group>
+<subgroup>0411</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>L</subclass>
+<main-group>9</main-group>
+<subgroup>322</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>L</subclass>
+<main-group>7</main-group>
+<subgroup>0023</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">SURFACE CLEANING APPARATUS WITH USER INTERFACE</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63299438</doc-number>
+<date>20220114</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>BISSELL Inc.</orgname>
+<address>
+<city>Grand Rapids</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Bloemendaal</last-name>
+<first-name>Colin J.</first-name>
+<address>
+<city>Grand Rapids</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Resch</last-name>
+<first-name>Jacob</first-name>
+<address>
+<city>Rockford</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Hoffmann</last-name>
+<first-name>Jeremy W.</first-name>
+<address>
+<city>Comstock Park</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Johnson</last-name>
+<first-name>Steve M.</first-name>
+<address>
+<city>Hudsonville</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>DeJonge</last-name>
+<first-name>Mitchell J.</first-name>
+<address>
+<city>Fruitport</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>Busken-Jovanovich</last-name>
+<first-name>Isaac</first-name>
+<address>
+<city>Grand Rapids</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="06" designation="us-only">
+<addressbook>
+<last-name>DeBeck</last-name>
+<first-name>Tyler L.</first-name>
+<address>
+<city>Jenison</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="07" designation="us-only">
+<addressbook>
+<last-name>Miller</last-name>
+<first-name>David M.</first-name>
+<address>
+<city>Zeeland</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="08" designation="us-only">
+<addressbook>
+<last-name>Chung</last-name>
+<first-name>Sang Hoon</first-name>
+<address>
+<city>Holland</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A surface cleaning apparatus includes a cleaning head adapted to move over a surface to be cleaned, a housing coupled with the cleaning head, a first user interface on the housing, and a second user interface on the cleaning head. The first user interface includes at least one user input control. The second user interface includes a plurality of status indicia.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="142.32mm" wi="158.75mm" file="US20230225578A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="192.62mm" wi="166.96mm" file="US20230225578A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="212.01mm" wi="165.18mm" file="US20230225578A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="216.58mm" wi="141.14mm" file="US20230225578A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="203.45mm" wi="157.99mm" file="US20230225578A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="215.14mm" wi="146.64mm" file="US20230225578A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="221.66mm" wi="168.99mm" file="US20230225578A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="181.53mm" wi="168.99mm" file="US20230225578A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="171.62mm" wi="170.94mm" file="US20230225578A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="213.87mm" wi="124.04mm" file="US20230225578A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="212.77mm" wi="124.04mm" file="US20230225578A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="217.17mm" wi="141.56mm" file="US20230225578A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="226.57mm" wi="126.83mm" file="US20230225578A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="217.42mm" wi="141.56mm" file="US20230225578A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="170.43mm" wi="158.50mm" file="US20230225578A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="205.32mm" wi="163.15mm" file="US20230225578A1-20230720-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="217.51mm" wi="134.20mm" file="US20230225578A1-20230720-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="170.10mm" wi="132.76mm" file="US20230225578A1-20230720-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATION(S)</heading>
+<p id="p-0002" num="0001">The present application claims the benefit of U.S. Provisional Application No. 63/299,438, filed Jan. 14, 2022, which is incorporated herein by reference in its entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Surface cleaning apparatuses are well-known devices for removing dirt from a variety of surfaces such as carpets, hard floors, or other fabric surfaces such as upholstery. Such surface cleaning apparatuses can include various cleaning systems, such as a vacuum collection system, a fluid delivery system, and/or a fluid recovery system. For example, a typical extraction cleaner (e.g. deep cleaner) includes a fluid delivery system and a fluid recovery system, and can be embodied in one of a number of typical architectures, including upright, portable or handheld cleaners, canister, unattended (e.g. a spot cleaner), and autonomous (e.g., a robot). A typical wet/dry vacuum cleaner adapted for cleaning hard and soft floor surfaces can also include a fluid delivery system and a fluid recovery system, and may deposit cleaning fluid at a lower flow rate than a typical extraction cleaner. Other common types of surface cleaning apparatuses are vacuum cleaners, mops, sweepers, and the like.</p>
+<p id="p-0004" num="0003">To communicate with the user, surface cleaning apparatus have user interfaces that can visually or audibly convey information to a user. Such communication has traditionally been limited, and may provide insufficient information to the user. The location of user interfaces has also been restricted by the architecture of the apparatus, and often requires a particular line of sight between the user and the interface. It can therefore be difficult to know when information is being conveyed while operating the surface cleaning apparatus or when the user is away from the apparatus. Accordingly, a need remains for improving user experience and facilitating interaction between the user and the surface cleaning apparatus.</p>
+<heading id="h-0003" level="1">BRIEF SUMMARY</heading>
+<p id="p-0005" num="0004">A surface cleaning apparatus with improved user interface features is provided herein to improve user experience.</p>
+<p id="p-0006" num="0005">According to one aspect of the disclosure, a surface cleaning apparatus includes a cleaning head adapted to move over a surface to be cleaned, a housing coupled with the cleaning head, at least cleaning system selected from a vacuum collection system, a fluid delivery system, and a fluid recovery system, a first user interface on the housing, and a second user interface on the cleaning head. The first user interface has a mode select input control to select a mode of operation of the surface cleaning apparatus and status indicators representing the modes of operation of the surface cleaning apparatus. The second user interface has a status display having duplicate status indicators representing the modes of operation of the surface cleaning apparatus. The first and second user interfaces are structured so that when the surface cleaning apparatus is on, a status indicator corresponding to a selected mode of operation is illuminated and visible to a user on each of the housing and the cleaning head.</p>
+<p id="p-0007" num="0006">According to another aspect of the disclosure, a surface cleaning apparatus includes a cleaning head adapted to move over a surface to be cleaned, a housing coupled with the cleaning head, at least cleaning system selected from a vacuum collection system, a fluid delivery system, and a fluid recovery system, a first user interface on the housing, and a second user interface on the cleaning head. The first user interface has a mode select input control to select a mode of operation of the surface cleaning apparatus. The second user interface has a status display having status indicators representing the modes of operation of the surface cleaning apparatus, and is structured so that when the apparatus is off, the status display is blank, and when the apparatus is on, a status indicator corresponding to a selected mode of operation is illuminated and visible to a user.</p>
+<p id="p-0008" num="0007">These and other features and advantages of the present disclosure will become apparent from the following description of particular embodiments, when viewed in accordance with the accompanying drawings and appended claims.</p>
+<p id="p-0009" num="0008">Before the embodiments of the invention are explained in detail, it is to be understood that the invention is not limited to the details of operation or to the details of construction and the arrangement of the components set forth in the following description or illustrated in the drawings. The invention may be implemented in various other embodiments and of being practiced or being carried out in alternative ways not expressly disclosed herein. In addition, it is to be understood that the phraseology and terminology used herein are for the purpose of description and should not be regarded as limiting. The use of &#x201c;including&#x201d; and &#x201c;comprising&#x201d; and variations thereof is meant to encompass the items listed thereafter and equivalents thereof as well as additional items and equivalents thereof. Further, enumeration may be used in the description of various embodiments. Unless otherwise expressly stated, the use of enumeration should not be construed as limiting the invention to any specific order or number of components. Nor should the use of enumeration be construed as excluding from the scope of the invention any additional steps or components that might be combined with or into the enumerated steps or components. Any reference to claim elements as &#x201c;at least one of X, Y and Z&#x201d; is meant to include any one of X, Y or Z individually, and any combination of X, Y and Z, for example, X, Y, Z; X, Y; X, Z ; and Y, Z.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a schematic view of a surface cleaning apparatus according to one aspect of the present disclosure, the apparatus including a first user interface and a second user interface, and shown being operated by a user;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a schematic view of one embodiment of the first user interface;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a schematic view of one embodiment of the second user interface;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a perspective view of an upright floor cleaner with wet cleaning capabilities according to another aspect of the present disclosure, the floor cleaner including a first user interface on a handle and a second user interface on a base, and shown being operated by a user;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a schematic view of various functional systems of the floor cleaner from <figref idref="DRAWINGS">FIG. <b>4</b></figref>;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a schematic view showing one configuration for the user interfaces of the floor cleaner of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, along with a portion of the handle and base;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a schematic view showing the second user interface of <figref idref="DRAWINGS">FIG. <b>6</b></figref> in an operational state where the floor cleaner is off;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a schematic view showing the second user interface of <figref idref="DRAWINGS">FIG. <b>6</b></figref> in an operational state where the floor cleaner is in a hard floor mode;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a schematic view showing the second user interface of <figref idref="DRAWINGS">FIG. <b>6</b></figref> in an operational state where the floor cleaner is in an area rug mode;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a schematic view showing the second user interface of <figref idref="DRAWINGS">FIG. <b>6</b></figref> in an operational state where the floor cleaner is in a hard floor mode and a steam warm-up state of a steam mode;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a schematic view showing the second user interface of <figref idref="DRAWINGS">FIG. <b>6</b></figref> in an operational state where the floor cleaner is in a hard floor mode and a steam ready state of a steam mode;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a schematic view showing the second user interface and a base light in an operational state where the floor cleaner is in a hard floor mode and is dispensing liquid;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a schematic view showing the second user interface and the base light in an operational state where the floor cleaner is in a hard floor mode and steam mode, and is dispensing liquid and steam;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a schematic view similar to <figref idref="DRAWINGS">FIG. <b>13</b></figref>, showing an alternative configuration for the steam dispensing state of the floor cleaner;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a schematic view showing the first user interface in an operational state where the floor cleaner is off and not ready for self-cleaning;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is a schematic view showing the first user interface in an operational state where the floor cleaner is off and ready for self-cleaning;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is a schematic view showing another configuration for the user interfaces of the floor cleaner of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, along with a portion of the handle and base;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is a schematic view showing yet another configuration for the user interfaces of the floor cleaner of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, along with a portion of the handle and base;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>19</b></figref> is a schematic view showing still another configuration for the user interfaces of the floor cleaner of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, along with a portion of the handle and base;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>20</b></figref> is a schematic view showing the second user interface of <figref idref="DRAWINGS">FIG. <b>19</b></figref> in an operational state where the floor cleaner is in a liquid/steam cleaning mode;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>21</b></figref> is a schematic view showing the second user interface of <figref idref="DRAWINGS">FIG. <b>19</b></figref> in an operational state where the floor cleaner is in a liquid cleaning mode;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>22</b></figref> is a schematic view showing the second user interface of <figref idref="DRAWINGS">FIG. <b>19</b></figref> in an operational state where the floor cleaner is in a steam boost mode;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>23</b></figref> is a schematic view showing still another configuration for the user interfaces of the floor cleaner of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, along with a portion of the handle and base, where the base includes at least one additional light;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>24</b></figref> is a perspective view of a canister floor cleaner according to yet another aspect of the present disclosure, the floor cleaner including a first user interface on a wand and a second user interface on a cleaning head;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>25</b></figref> is a perspective view of a portable extraction cleaner according to still another aspect of the present disclosure, the portable extraction cleaner including a first user interface on a housing and a second user interface on a tool;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>26</b></figref> is a schematic view showing another configuration for the user interfaces of the floor cleaner of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, along with a portion of the handle, frame, and base; and</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>27</b></figref> is a schematic view showing yet another configuration for the user interfaces of the floor cleaner of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, along with a portion of the handle and base.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION</heading>
+<p id="p-0037" num="0036">The invention generally relates to a surface cleaning apparatus with multiple user interfaces. In particular, aspects of the invention relate to a surface cleaning apparatus with an improved user communication and experience.</p>
+<p id="p-0038" num="0037">As used herein, the term &#x201c;dirt&#x201d; includes dirt, dust, hair, and other debris, unless otherwise noted.</p>
+<p id="p-0039" num="0038">As used herein, the term &#x201c;cleaning fluid&#x201d; may encompass liquid, steam, or a mixture of both liquid and steam.</p>
+<p id="p-0040" num="0039">As used herein, the term &#x201c;steam&#x201d; includes a liquid, such as, but not limited to, water or solutions containing water (like water mixed with a cleaning chemistry, fragrance, etc.), at least partially converted to a gas or vapor phase. The liquid can be boiled or otherwise at least partially converted to the gas or vapor phase by heating or mechanical action like nebulizing. For example, liquid can be heated to around 100&#xb1;10&#xb0; C., alternately about 90 to 100&#xb0; C., alternatively about 95 to 98&#xb0; C. to produce steam. The steam can be invisible to the naked eye, in the form of a visible mist formed when the gas or vapor condenses in air, or combinations thereof. Steam may have a steam quality of 100%, or less than 100%. As used herein, &#x201c;steam quality&#x201d; is the proportion of saturated steam in a saturated condensate (liquid) and steam mixture. For example, saturated steam vapor has a steam quality of 100%, and saturated liquid has a steam quality of 0%.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a surface cleaning apparatus <b>10</b> according to one aspect of the present disclosure. As discussed in further detail below, the apparatus <b>10</b> is provided with user interface features consistent with one or more aspects of the disclosure, the details of which are described in further detail below. As explained herein, the user interface features enable the apparatus <b>10</b> to accept user inputs for controlling the apparatus <b>10</b>, function as a communication output device, and/or provide an improved user experience. The apparatus <b>10</b> may include a first user interface (&#x201c;first UI&#x201d;) <b>12</b> and a second user interface (&#x201c;second UI&#x201d;) <b>14</b> to accomplish one or more of the aforementioned functions.</p>
+<p id="p-0042" num="0041">The apparatus <b>10</b> includes a cleaning head adapted to move over a surface to be cleaned, a housing coupled with the cleaning head, and at least cleaning system. One UI <b>12</b> can be provided on the housing and the other UI <b>14</b> can be provided on the cleaning head. The UIs <b>12</b>, <b>14</b> can, among other abilities, accept user inputs for controlling the cleaning system and/or function as a communication output device for the cleaning system.</p>
+<p id="p-0043" num="0042">As illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the surface cleaning apparatus <b>10</b> can be an upright floor cleaner including a cleaning head in the form of a base <b>16</b> adapted to move over a surface to be cleaned and a housing in the form of an upright body <b>18</b> coupled with the base <b>16</b> to direct the base <b>16</b> over the surface to be cleaned. As used herein, the term upright floor cleaner is intended to refer to various types of floor cleaners including, but not limited to, upright floor cleaners, stick floor cleaners, convertible floor cleaners (e.g., a floor cleaner capable of being used as an upright- or stick-type cleaner as well as a handheld cleaner), a lift-off floor cleaners (e.g., a floor cleaner capable of being used as an upright-type cleaner as well as a canister type cleaner), extraction cleaners (also referred to as carpet cleaners or extraction cleaners), steam cleaners, mopping cleaners, and the like, or combinations thereof. For example, an upright floor cleaner may be an extraction cleaner.</p>
+<p id="p-0044" num="0043">For purposes of description related to the figures, the terms &#x201c;upper,&#x201d; &#x201c;lower,&#x201d; &#x201c;right,&#x201d; &#x201c;left,&#x201d; &#x201c;rear,&#x201d; &#x201c;front,&#x201d; &#x201c;vertical,&#x201d; &#x201c;horizontal,&#x201d; &#x201c;inner,&#x201d; &#x201c;outer,&#x201d; and derivatives thereof shall relate to the disclosure as oriented in <figref idref="DRAWINGS">FIG. <b>1</b></figref> from the perspective of a user <b>20</b> behind the apparatus <b>10</b>, which defines the rear of the apparatus <b>10</b>. However, it is to be understood that the disclosure may assume various alternative orientations, except where expressly specified to the contrary.</p>
+<p id="p-0045" num="0044">In one example, the upright floor cleaner <b>10</b> can be a vacuum cleaner including at least a vacuum collection system for creating a partial vacuum to suck up dirt from a floor surface and collect the removed dirt in a space provided on the vacuum cleaner for later disposal.</p>
+<p id="p-0046" num="0045">In another example, the upright floor cleaner <b>10</b> can be a wet/dry vacuum cleaner including at least a fluid delivery system for storing cleaning fluid and delivering the cleaning fluid to the surface to be cleaned and a vacuum collection system for creating a partial vacuum to suck up the cleaning fluid and dirt from a floor surface and collect the removed dirt in a space provided on the vacuum cleaner for later disposal. The fluid delivery system may be configured to deliver liquid and/or steam to the surface to be cleaned.</p>
+<p id="p-0047" num="0046">In yet another example, the upright floor cleaner <b>10</b> can be an extraction cleaner or deep cleaner, and can include a fluid delivery system for storing cleaning fluid and delivering the cleaning fluid to the surface to be cleaned and a fluid recovery system for removing the cleaning fluid and dirt from the surface to be cleaned and storing the recovered cleaning fluid and dirt. The fluid delivery system may be configured to deliver liquid and/or steam to the surface to be cleaned. In comparison to the wet/dry vacuum cleaner, an extraction cleaner typically delivers cleaning fluid at a higher flow rate to the surface to be cleaned. For example, the flow rate of an extraction cleaner may deliver 10&#xd7; to 20&#xd7; that of a wet/dry vacuum cleaner.</p>
+<p id="p-0048" num="0047">In still another example, the upright floor cleaner <b>10</b> can be a wet mopping or sweeping apparatus, including a fluid delivery system for storing cleaning fluid and delivering the cleaning fluid to the surface to be cleaned and a mopping or sweeping system for removing cleaning fluid and dirt from the surface to be cleaned without the use of suction. The fluid delivery system may be configured to deliver liquid and/or steam to the surface to be cleaned.</p>
+<p id="p-0049" num="0048">The base <b>16</b> can comprise any type of base, foot, or other cleaning head suitable for the purposes described herein, including being moved over a floor surface to be cleaned. The base <b>16</b> may include any of a suction nozzle, an agitator (e.g. a brushroll, a pad, etc.), a squeegee, a wheel, a pump, a heater, a motor, a tank, a filter, a dispenser, a battery, a wireless communication module, a hose, and the like, or any combination thereof.</p>
+<p id="p-0050" num="0049">The upright body <b>18</b> can comprise any type of elongated handle, wand, body, or combination thereof suitable for the purposes described herein, including for a user to maneuver the floor cleaner <b>10</b> over a floor surface to be cleaned. The upright body <b>18</b> can be adapted to pivot about one or more axes through a range of angles relative to the base <b>16</b>. Optionally, the upright body <b>18</b> can be configured so as to swivel about its longitudinal axis in addition to pivoting relative to the base <b>16</b>. <figref idref="DRAWINGS">FIG. <b>1</b></figref> shows one example of the upright body <b>18</b> reclined to a use position. The upright body <b>18</b> may also be movable to and retainable in an upright storage position.</p>
+<p id="p-0051" num="0050">The body <b>18</b> of <figref idref="DRAWINGS">FIG. <b>1</b></figref> includes a handle <b>22</b> having a grip <b>24</b>, which may be shaped to be comfortably gripped by one hand of the user <b>20</b>. Other components of the body <b>18</b> may include any of a pump, a motor, a tank, a filter, a dispenser, a battery, a wireless communication module, a wand, a hose, and the like, or any combination thereof. Optionally, the body <b>18</b> can have a carry handle <b>25</b> to facilitate lifting and carrying the entire floor cleaner <b>10</b>.</p>
+<p id="p-0052" num="0051">The first UI <b>12</b> can comprise an input UI having at least one user input control operably connected to one or more components or systems of the floor cleaner <b>10</b> to affect and control its operation. Non-limiting examples of input controls include buttons, triggers, toggles, keys, switches, touchscreen icons, or the like, or any combination thereof.</p>
+<p id="p-0053" num="0052">The first UI <b>12</b> is configured to accept user inputs to control the floor cleaner <b>10</b>, including systems or components thereof. For example, the input controls may affect and control the operation of a vacuum collection system, a fluid delivery system (e.g., a liquid delivery system and/or a steam delivery system), a fluid recovery system, a mopping system, a sweeping system, and the like, or any combination thereof. As yet another example, the input controls may affect and control the operation of a motor, a brushroll, a liquid dispenser, a steam dispenser, a pump, a filter, a supply tank, a recovery tank, a battery, a wireless communication module, and the like, or any combination thereof.</p>
+<p id="p-0054" num="0053">The second UI <b>14</b> can comprise an output UI including at least one status indicator, or a status display including a plurality of status indicators, that communicates a condition or status of the floor cleaner, including systems and components thereof, to the user. Non-limiting examples of status indicators include visual indicators such as lights (e.g., LEDs), icon displays, textual displays, graphical displays, or the like, or any combination thereof. The second UI <b>14</b> can also include an auditory output component, such as a speaker.</p>
+<p id="p-0055" num="0054">The second UI <b>14</b> is configured to indicate status information relating to the floor cleaner <b>10</b>, including systems or components thereof. For example, the display may indicate a cleaning mode of the floor cleaner <b>10</b>, a Wi-Fi connections status of the floor cleaner, and the like, or any combination thereof. As another example, the display may indicate the status of a vacuum collection system, a fluid delivery system (e.g., a liquid delivery system or a steam delivery system), a fluid recovery system, a mopping system, a sweeping system, and the like, or any combination thereof. As yet another example, the display may indicate that status of a motor, a brushroll, a liquid dispenser, a steam dispenser, a pump, a filter, a supply tank, a recovery tank, a battery, a wireless communication module, and the like, or any combination thereof.</p>
+<p id="p-0056" num="0055">While the first UI <b>12</b> is referred to herein as an input UI, in some embodiments the first UI <b>12</b> may have an output functionality as well. For example, the first UI <b>12</b> may, in some embodiments, include at least one status indicator that communicates a condition or status of the floor cleaner, including systems and components thereof, to the user. In other embodiments, the first UI <b>12</b> solely accepts input, and does not provide outputs to the user.</p>
+<p id="p-0057" num="0056">Likewise, while the second UI <b>14</b> is referred to herein as an output UI, in some embodiments the second UI <b>14</b> may have an input functionality as well. For example, the second UI <b>14</b> may, in some embodiments, include at least one user input control operably connected to one or more components or systems of the floor cleaner <b>10</b> to affect and control its operation. In other embodiments, the second UI <b>14</b> solely provides output, and does not accept inputs from the user.</p>
+<p id="p-0058" num="0057">The first and second UIs <b>12</b>, <b>14</b> are separate from each other, and are located on different areas of the floor cleaner <b>10</b>. The handle <b>22</b> can include the first UI <b>12</b>. The first UI <b>12</b> can conveniently be located adjacent to the grip <b>24</b>, so that the user <b>20</b> may hold the grip <b>24</b> in one hand and operate the first UI <b>12</b> with the same hand. For example, the user <b>20</b> may wrap their palm and fingers around the grip <b>24</b> and operate the first UI <b>12</b> using the thumb of the same hand. Similarly, an input control <b>26</b> can conveniently be located adjacent to the grip <b>24</b> and first UI <b>12</b>. For example, the user <b>20</b> may operate the input control <b>26</b> using the forefinger of the same hand holding the grip <b>24</b>. Conveniently, in one arrangement, the UI <b>12</b> is disposed on a front side of the grip <b>24</b> and the input control <b>26</b> is disposed on a rear side of the grip <b>24</b>.</p>
+<p id="p-0059" num="0058">Although shown on an upper portion of the handle <b>22</b>, adjacent the grip <b>24</b>, other locations for the first UI <b>12</b> are possible, including locations where the user <b>20</b> must hold the grip <b>24</b> in one hand and operate the first UI <b>12</b> with their other hand. It may be preferred that the first UI <b>12</b> is in a location that the user <b>20</b> holding the grip <b>24</b> may operate the first UI <b>12</b> without having to bend down or take their hand off the grip <b>24</b>. Such locations include, but are not limited to, on the carry handle <b>25</b>, on a portion <b>28</b> of the handle <b>22</b> other than the grip <b>24</b>, or on an upper portion <b>30</b> of the upright body <b>18</b>. <figref idref="DRAWINGS">FIG. <b>1</b></figref> shows some non-limiting examples of alternative locations for the first UI <b>12</b> in phantom line. In some aspects, the first UI <b>12</b> may include a first portion on the handle <b>22</b> and a second portion in another location, such as the carry handle <b>25</b>, portion <b>28</b>, or upper portion <b>30</b>, for example.</p>
+<p id="p-0060" num="0059">The cleaning head, in <figref idref="DRAWINGS">FIG. <b>1</b></figref> the base <b>16</b>, can include the second UI <b>14</b>. The second UI <b>14</b> can conveniently be located in a field of view <b>32</b> of the user <b>20</b> operating the apparatus. As used herein, the user's &#x201c;field of view&#x201d; <b>32</b> is the observable area a person can see through their eyes. When operating a surface cleaning apparatus, the user <b>20</b> commonly looks down the apparatus toward a surface being cleaned and/or toward the cleaning head or base <b>16</b> moving over the surface. For example, to operate the upright floor cleaner <b>10</b>, the user <b>20</b> may stand generally behind the floor cleaner <b>10</b> and hold the grip <b>24</b> in one hand. During operation, the user <b>20</b> may commonly switch between looking straight out and down the floor cleaner <b>10</b> toward a floor surface <b>34</b> being cleaned. For example, during operation, the user <b>20</b> may shift their focus across the field of view <b>32</b> as they observe the surface they are in the process of cleaning (the portion of the surface the base <b>16</b> is traveling over and/or about to travel over in the next instant) and the portion of the surface they intend to move the base <b>16</b> to next as they proceed with the cleaning the surface according to the user's particular travel pattern across the surface. As such, their field of view <b>32</b> includes the base <b>16</b> of the floor cleaner <b>10</b>, and may also include a lower front portion <b>36</b> of the upright body <b>18</b>. Locating the second UI <b>14</b> on the base <b>16</b> positions the second UI <b>14</b> in the user's field of view <b>32</b>.</p>
+<p id="p-0061" num="0060">During operation of the floor cleaner <b>10</b>, the user <b>20</b> can quickly glance back and forth between the floor surface <b>34</b> being cleaned and the second UI <b>14</b>. Even when the user's attention is focused on the floor surface <b>34</b>, changes displayed on the second UI <b>14</b> are within the user's field of view <b>32</b>, and so may readily draw the user's attention to the information conveyed by second UI <b>14</b>.</p>
+<p id="p-0062" num="0061">Typically, a range of up to 60 degrees from a horizontal sight line H is a comfortable visible range for most people without straining the eyes. Thus, in some configurations the UI <b>14</b> can be located within 60 degrees from the horizontal sight line H of the user <b>20</b>. Further, to be inclusive of the anthropometric height range of typical users, the UI <b>14</b> can be located within the field of view <b>32</b> of user <b>20</b> having a height within a range of a 5<sup>th </sup>percentile female to a 95<sup>th </sup>percentile male.</p>
+<p id="p-0063" num="0062">In the case of an upright architecture, like the floor cleaner <b>10</b> of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the second UI <b>14</b> may be on a portion of the base <b>16</b> that is within the user's field of view <b>32</b> when the upright body <b>18</b> is reclined to the use position. When in the upright storage position, the second UI <b>14</b> may be blocked or partially blocked from view by the user <b>20</b> standing behind the floor cleaner <b>10</b>, but may be visible to a user approaching the floor cleaner <b>10</b> from the front or side of the floor cleaner <b>10</b>. In other configurations, the second UI <b>14</b> may be within the user's field of view <b>32</b> regardless of whether it is in the reclined use position or upright storage position.</p>
+<p id="p-0064" num="0063">Although shown on the base <b>16</b>, and particularly on a top side <b>38</b> of the base <b>16</b>, other locations for the second UI <b>14</b> are possible. It may be preferred that the second UI <b>14</b> is in a location that the user <b>20</b> holding the grip <b>24</b> may view the second UI <b>14</b> without having to bend down or take their hand off the grip <b>24</b>. Such locations include, but are not limited to, the lower front portion <b>36</b> of the upright body <b>18</b>. <figref idref="DRAWINGS">FIG. <b>1</b></figref> shows some non-limiting examples of alternative locations for the second UI <b>14</b> in phantom line.</p>
+<p id="p-0065" num="0064">The floor cleaner <b>10</b> can further include a main controller <b>40</b> operably coupled with the various function systems and components of the floor cleaner <b>10</b>, including the first and second UIs <b>12</b>, <b>14</b>. The main controller <b>40</b> can further be operably coupled with one or more sensors for receiving input about the floor cleaner <b>10</b> or its environment, and can use the sensor input to control the operation of the floor cleaner <b>10</b>.</p>
+<p id="p-0066" num="0065">The UIs <b>12</b>, <b>14</b> can take various arrangements. <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref> are diagrams showing a cross-section of one embodiment of the first UI <b>12</b> and one embodiment of the second UI <b>14</b>, respectively.</p>
+<p id="p-0067" num="0066">Referring to <figref idref="DRAWINGS">FIG. <b>2</b></figref>, one embodiment of the first UI <b>12</b> is shown, and includes multiple user input controls <b>50</b>A, <b>50</b>B, <b>50</b>C, <b>50</b>D. Four input controls are shown, although it is understood that more than four or less than four input controls are possible.</p>
+<p id="p-0068" num="0067">The input controls <b>50</b>A-<b>50</b>D can include a switch <b>52</b>A-D within the upright body <b>18</b> and a switch cover or button <b>54</b>A-D that is on an exterior surface of the floor cleaner <b>10</b> or forms an exterior surface of the floor cleaner <b>10</b>. As shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the button <b>54</b>A-D are on the handle grip <b>24</b>. In operation, a user presses one of the buttons <b>54</b>A-D to actuate the associated switch <b>52</b>A-D, and the switch <b>52</b>A-D controls one or more components or systems of the floor cleaner <b>10</b> to affect and control its operation.</p>
+<p id="p-0069" num="0068">Each input control <b>50</b>A-<b>50</b>D is preferably provided with an icon <b>56</b>A-D. The icons <b>56</b>A-D can be in the form of graphics, symbols, words, or a combination thereof. Various icons are possible, and preferably give the user an indication of the purpose of the input control <b>50</b>A-<b>50</b>D.</p>
+<p id="p-0070" num="0069">The icons <b>56</b>A-D can be added to the button <b>54</b>A-D by pad printing, attaching a label, adhering a graphic, or the like. In the embodiment of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the input controls <b>50</b>A-C include icons <b>56</b>A-C added to their button <b>54</b>A-C by pad printing, and are visible at all times to the user. In another embodiment, the icons <b>56</b>A-D can next to the button <b>54</b>A-D.</p>
+<p id="p-0071" num="0070">At least one of the user input controls, here input control <b>50</b>D, can have a contextual or context-based icon <b>56</b>D structured so that, when the function associated with the input control <b>50</b>D is not available to the user, the icon is not visible to the user. The contextual icon <b>56</b>D is only visible at an appropriate time and under appropriate conditions for selection of the function associated with the input control <b>50</b>D. Thus, the contextual icon <b>56</b>D informs the user when a specific feature is available.</p>
+<p id="p-0072" num="0071">In some embodiments, when the function associated with the input control <b>50</b>D is not available to the user, pressing the input control <b>50</b>D does not affect or control the associated function. Thus, display of the contextual icon <b>56</b>D to the user is associated with an enablement of the associated function that allows the associated function to be selected by the user.</p>
+<p id="p-0073" num="0072">The contextual icon <b>56</b>D can be a back-lit icon structured so that, when the function associated with the input control <b>50</b>D is not available to the user, the icon <b>56</b>D is hidden or dead, e.g. not illuminated by an LED <b>58</b> or other illumination source, and when the function associated with the input control is available to the user, the icon <b>56</b>D is illuminated and visible to the user. The back-lit icon <b>56</b>D can be in the form of a graphic, symbol, word, or a combination thereof. For example, the input control <b>50</b>D can have a back-lit graphic on the switch cover <b>54</b>D. In another example, the input control <b>50</b>D can have a back-lit dot or other symbol adjacent to the switch cover <b>54</b>D, which may itself include a graphic or other icon that is always visible.</p>
+<p id="p-0074" num="0073">The switches <b>52</b>A-D and LED <b>58</b> can be mounted on a PCB <b>62</b>. As used herein, unless otherwise noted, the term &#x201c;PCB&#x201d; includes a printed circuit board having a plurality of electrical and electronic components that provide operational control to the floor cleaner <b>10</b>. The PCB includes, for example, a processing unit (e.g., a microprocessor, a microcontroller, or another suitable programmable device) and a memory (e.g., a read-only memory (&#x201c;ROM&#x201d;), a random access memory (&#x201c;RAM&#x201d;), an electrically erasable programmable read-only memory (&#x201c;EEPROM&#x201d;), a flash memory, or another suitable magnetic, optical, physical, or electronic memory device). The processing unit is connected to the memory and executes instructions (e.g., software) that is capable of being stored in the RAM (e.g., during execution), the ROM (e.g., on a generally permanent basis), or another non-transitory computer readable medium such as another memory or a disc. Additionally or alternatively, the memory is included in the processing unit (e.g., as part of a microcontroller). Software stored in memory includes, for example, firmware, program data, one or more program modules, and other executable instructions. The processing unit is configured to retrieve from memory and execute, among other things, instructions related to the control processes and methods described herein. The PCB can also include, among other things, a plurality of additional passive and active components such as resistors, capacitors, inductors, integrated circuits, and amplifiers. These components are arranged and connected to provide a plurality of electrical functions to the PCB including, among other things, signal conditioning or voltage regulation. For descriptive purposes, a PCB and the electrical components populated on the PCB are collectively referred to as a controller. Thus, the PCB <b>62</b> of the first user interface <b>12</b> and the electrical components populated on the PCB <b>62</b> may be referred to as a first user interface controller.</p>
+<p id="p-0075" num="0074">Referring to <figref idref="DRAWINGS">FIG. <b>3</b></figref>, one embodiment of the second UI <b>14</b> is shown, and includes a hidden status display <b>70</b> with a plurality of status indicators <b>72</b>A-C. The second UI <b>14</b> can be structured so that when the floor cleaner is off, the status display <b>70</b> is blank and the status indicators <b>72</b>A-C are hidden or dead, e.g. not illuminated, and when the floor cleaner is on, the status indicators <b>72</b>A-C may selectively be illuminated and visible to the user. As explained in further detail below, the status indicators <b>72</b>A-C can be back-lit icons that are hidden or dead, e.g. not illuminated, under a first condition and may selectively be illuminated and visible under a second condition. Three status indicators <b>72</b>A-C are shown, although it is understood that more than three or less than three status indicators are possible.</p>
+<p id="p-0076" num="0075">The status display <b>70</b> includes a masking layer <b>74</b> on a portion <b>76</b> of the base <b>16</b>, which may be translucent or transparent, i.e. it permits light from an LED <b>78</b>A-C or other illumination source positioned internally of the base <b>16</b> to emit light therethrough. The masking layer <b>74</b> blocks light from the LEDs <b>78</b>A-C in the base <b>16</b>. Various masking layers are possible, including, but not limited to, opaque paint, such as black or gray paint.</p>
+<p id="p-0077" num="0076">The status indicators <b>72</b>A-C are icons etched in the masking layer <b>74</b>. The etching extends down to the surface of the portion <b>76</b> of the base <b>16</b>, so that light can pass through the etched icon from the associated LED <b>78</b>A-C. The LEDs <b>78</b>A-C can emit visible light in one or more colors, such as, but not limited to, white, blue, orange, red, green, yellow, and the like. The LEDs <b>78</b>A-C can be configured to emit light in specific colors, wavelength ranges, and or patterns to convey information to the user. Alternatively or in addition, the LEDs <b>78</b>A-C may be adjustable by the user to emit light in different wavelength ranges or colors. The LEDs <b>78</b>A-C can be mounted on a PCB <b>80</b>. The PCB <b>80</b> of the second user interface <b>14</b> and the electrical components populated on the PCB <b>80</b> may be referred to as a second user interface controller.</p>
+<p id="p-0078" num="0077">The status display <b>70</b> includes a light-transmitting layer <b>82</b> applied over the masking layer <b>74</b> to cover the etched icons. The light-transmitting layer <b>82</b> can be a second paint layer that is light-transmitting so that when one of the LEDs <b>78</b>A-C is on, the associated icon is visible to the user. When the LED <b>78</b>A-C associated with the icon is off, the icon is not visible to the user.</p>
+<p id="p-0079" num="0078">One or more additional layers can be applied on top of the light-transmitting layer <b>82</b>. For example, a clear coating <b>84</b> of polyurethane or similar material can be applied to protect the status display from wear or damage. Also, while the masking and light-transmitting layers <b>74</b>, <b>82</b> are discussed herein as being a single layer, multiple layers could also be used.</p>
+<p id="p-0080" num="0079"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows an upright floor cleaner <b>110</b> with wet cleaning capabilities according to another aspect of the present disclosure. The floor cleaner <b>110</b> can include multiple cleaning systems, including a liquid delivery system and a recovery system. In some embodiments, the floor cleaner <b>110</b> also include a steam delivery system. The floor cleaner <b>110</b> may include a first UI <b>112</b> and a second UI <b>114</b> to accept user inputs for controlling the cleaning systems, function as a communication output device for the cleaning systems, and/or provide an improved user experience. The floor cleaner <b>110</b> can, for example, be a wet/dry vacuum cleaner or an extraction cleaner.</p>
+<p id="p-0081" num="0080">With both steam and liquid delivery systems, the floor cleaner <b>110</b> can selectively deliver liquid and/or steam to the surface to be cleaned. The first UI <b>112</b> can have appropriate input controls for user control of the systems, including dispensing liquid only or dispensing liquid and steam simultaneously to the surface to be cleaned. The second UI <b>114</b> can output status information to the user.</p>
+<p id="p-0082" num="0081">The floor cleaner <b>110</b> includes a cleaning head in the form of a base <b>116</b> adapted to move over a surface to be cleaned and a housing in the form of an upright body <b>118</b> coupled with the base <b>116</b> to direct the base <b>116</b> over the surface to be cleaned. The body <b>118</b> includes a handle <b>122</b> having a grip <b>124</b> and a trigger <b>126</b>. The various cleaning systems and components thereof can be supported by either or both the base <b>116</b> and the upright body <b>118</b>.</p>
+<p id="p-0083" num="0082">A moveable joint assembly <b>142</b> can connect the base <b>116</b> to the upright body <b>118</b> for movement of the upright body <b>118</b> about at least one axis. In the embodiment shown herein, the upright body <b>118</b> can pivot up and down about at least one axis relative to the base <b>116</b>. The joint assembly <b>142</b> can alternatively comprise a universal joint, such that the upright body <b>118</b> can swivel about its longitudinal axis in addition to pivoting relative to the base <b>116</b>. The upright body <b>118</b> can pivot, via the joint assembly <b>142</b>, between an upright or storage position (not shown) and a reclined or use position, an example of which is shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, in which the upright body <b>118</b> is pivoted rearwardly to form an acute angle with the surface to be cleaned. Wiring and/or conduits can optionally supply electricity, air, liquid and/or steam between the upright body <b>118</b> and the base <b>116</b>, or vice versa, and can extend though the joint assembly <b>142</b>. As such, in some embodiments, a portion of the cleaning systems can extend through the joint assembly <b>142</b>.</p>
+<p id="p-0084" num="0083"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a schematic view of various functional systems of the floor cleaner <b>110</b>. The liquid delivery system includes a source of cleaning fluid <b>144</b>, at least one liquid dispenser <b>146</b> supplied with liquid cleaning fluid from the source of cleaning fluid <b>144</b>, and a liquid supply path <b>148</b> from the source of cleaning fluid to a liquid dispenser <b>146</b>.</p>
+<p id="p-0085" num="0084">The fluid source <b>144</b> can stored cleaning fluid in liquid form. The cleaning fluid can comprise one or more of any suitable cleaning fluids, including, but not limited to, water, compositions, concentrated detergent, diluted detergent, etc., and mixtures thereof. For example, the cleaning fluid can comprise water. In another example, the cleaning fluid can comprise a mixture of water and concentrated detergent.</p>
+<p id="p-0086" num="0085">The liquid delivery system can include a flow controller for controlling the flow of fluid from the source <b>144</b> to the liquid dispenser <b>146</b>. In one configuration, the flow controller can comprise a pump <b>150</b>, which pressurizes the path <b>148</b> and controls the delivery of liquid cleaning fluid to the liquid dispenser <b>146</b>. In one example, the pump <b>150</b> can be a centrifugal pump. In another example, the pump <b>150</b> can be a solenoid pump.</p>
+<p id="p-0087" num="0086">The release of cleaning liquid from the liquid dispenser <b>146</b> can be controlled by the trigger <b>126</b>. The trigger <b>126</b> can operate a valve <b>149</b> in the path <b>148</b>, where depressing the trigger <b>126</b> opens the valve <b>149</b> to release cleaning liquid to the dispenser <b>146</b>. Release of the trigger <b>126</b> closes the valve <b>149</b> and stops liquid dispensing. As described in further detail below, in some embodiments, operation of the valve <b>149</b> upon depression of the trigger <b>126</b> can be mode-dependent. In other words, depending on a selected cleaning mode of the floor cleaner <b>110</b>, depression of the trigger <b>126</b> may or may not open the liquid valve <b>149</b>.</p>
+<p id="p-0088" num="0087">In another configuration of the fluid delivery system, the trigger <b>126</b> can operate the pump <b>150</b>, where depressing the trigger <b>126</b> activates the pump <b>150</b> and releasing the trigger <b>126</b> turns the pump <b>150</b> off. In such a configuration, valve <b>149</b> may be integrated with the pump <b>150</b> or may be absent from the floor cleaner <b>110</b>.</p>
+<p id="p-0089" num="0088">In another configuration of the fluid delivery system, the pump <b>150</b> can be eliminated and the flow controller can comprise a gravity-feed system having a valve fluidly coupled with an outlet of the source <b>144</b>, whereby when the valve is open, fluid will flow under the force of gravity to the liquid dispenser <b>146</b>.</p>
+<p id="p-0090" num="0089">The liquid dispenser <b>146</b> can comprise any structure, such as a nozzle, a spray tip, or a manifold, and can comprise at least one liquid outlet for dispensing liquid cleaning fluid to the surface to be cleaned. The dispenser <b>146</b> can be positioned to deliver liquid cleaning fluid directly to the surface to be cleaned, or indirectly by delivering liquid cleaning fluid onto an agitator (not shown). In one non-limiting example, the dispenser <b>146</b> delivers liquid cleaning fluid onto a brushroll. In another non-limiting example, the dispenser <b>146</b> delivers liquid cleaning fluid between two horizontally-rotating brushrolls.</p>
+<p id="p-0091" num="0090">The liquid delivery system can include other conduits, ducts, tubing, hoses, connectors, valves, etc. fluidly coupling the components of the liquid delivery system together and providing the liquid supply path <b>148</b>.</p>
+<p id="p-0092" num="0091">The fluid source <b>144</b> can include at least one supply container for storing a supply of cleaning fluid. In yet another configuration, the fluid delivery system can have an additional supply container (not shown) for storing another cleaning fluid. For example the first supply container can store water and the second supply container can store a cleaning agent such as detergent. In embodiments where multiple supply containers are provided, the floor cleaner <b>110</b> can have with a mixing system for controlling the composition of the cleaning fluid that is delivered to the surface.</p>
+<p id="p-0093" num="0092">The steam delivery system includes a source of cleaning fluid, a heater <b>152</b> for heating the cleaning fluid, a steam dispenser <b>154</b> to dispense steam, and a steam supply path <b>156</b> from the source of cleaning fluid to the steam dispenser <b>154</b>. The heater <b>152</b> preferably heats the cleaning fluid to around 100&#xb1;10&#xb0; C., alternately about 90 to 100&#xb0; C., alternatively about 95 to 98&#xb0; C. Some non-limiting examples of a suitable heater <b>152</b> include, but are not limited to, a flash heater, a boiler, an immersion heater, and a flow-through steam generator.</p>
+<p id="p-0094" num="0093">The steam delivery system can share the same fluid source <b>144</b> as the liquid delivery system. In another embodiment, the floor cleaner <b>110</b> can include a separate supply container (not shown) for storing a cleaning fluid for the steam delivery system. In embodiments where the fluid source <b>144</b> is shared, a manifold splitter <b>158</b> splits liquid between the steam supply path <b>156</b> and the liquid supply path <b>148</b>.</p>
+<p id="p-0095" num="0094">The steam delivery system can include a flow controller to control the flow of fluid from the source <b>144</b> to the heater <b>152</b>. In one configuration, the flow controller can comprise a pump <b>160</b> that pressurizes the path <b>156</b> and controls the delivery of heated fluid to the steam dispenser <b>154</b>. In one example, the pump <b>160</b> can be a centrifugal pump. In another example, the pump <b>160</b> can be a solenoid pump.</p>
+<p id="p-0096" num="0095">The release of steam from the steam dispenser <b>154</b> can be controlled by the trigger <b>126</b>. The trigger <b>126</b> can operate a valve <b>157</b> in the path <b>156</b>, where depressing the trigger <b>126</b> opens the valve <b>157</b> to release steam to the steam dispenser <b>154</b>. Release of the trigger <b>126</b> closes the valve <b>157</b> and stops steam dispensing. As described in further detail below, in some embodiments, operation of the valve <b>157</b> upon depression of the trigger <b>126</b> can be mode-dependent. In other words, depending on a selected cleaning mode of the floor cleaner <b>110</b>, depression of the trigger <b>126</b> may or may not open the steam valve <b>157</b>. For example, depending on the cleaning mode, operation of the trigger <b>126</b> may open the liquid valve <b>149</b> only, the steam valve <b>157</b> only, or both the valves <b>149</b>, <b>157</b>.</p>
+<p id="p-0097" num="0096">In yet another embodiment, a separate steam input control <b>159</b> selectively operates the steam valve <b>157</b> to control steam dispensing, while the trigger <b>126</b> selectively operates the liquid valve <b>149</b> to control liquid dispensing. A user may operate both controls <b>126</b>, <b>159</b> at the same time for simultaneous liquid and steam dispensing.</p>
+<p id="p-0098" num="0097">In another configuration of the fluid delivery system, the trigger <b>126</b> can operate the pump <b>160</b>, where depressing the trigger <b>126</b> activates the pump <b>160</b> and releasing the trigger <b>126</b> turns the pump <b>160</b> off. In such a configuration, valve <b>157</b> may be integrated with the pump <b>160</b> or may be absent from the floor cleaner <b>110</b>.</p>
+<p id="p-0099" num="0098">The steam dispenser <b>154</b> can comprise any structure, such as a nozzle or a manifold, and can comprise at least one steam outlet for dispensing steam toward the surface to be cleaned. The dispenser <b>154</b> can be positioned to deliver steam directly to the surface to be cleaned, or indirectly by delivering steam onto an agitator or cleaning pad. In one non-limiting example, the steam dispenser <b>154</b> delivers steam onto the surface to be cleaned in front of the base <b>116</b>.</p>
+<p id="p-0100" num="0099">The steam delivery system can include other conduits, ducts, tubing, hoses, connectors, valves, etc. fluidly coupling the components of the system together and providing the supply path <b>156</b> from the cleaning fluid source <b>144</b> to the steam dispenser <b>154</b>.</p>
+<p id="p-0101" num="0100">In certain embodiments, the liquid provided to the liquid dispenser <b>146</b> does not pass through the heater <b>152</b> and/or is otherwise unheated, and is at the same temperature as the fluid source <b>144</b>. In other embodiments, the liquid provided to the liquid dispenser <b>146</b> passes through a heater (not shown) or is otherwise heated to a temperature that is less than the temperature of the steam dispensed by the steam dispenser <b>154</b>. Such a heater can be located downstream of the fluid source <b>144</b> and upstream of the pump <b>150</b>. In yet another example, exhaust air from a motor-cooling pathway for a motor/fan assembly can be applied to the liquid supply path <b>148</b> to heat the liquid.</p>
+<p id="p-0102" num="0101">The recovery system can include a suction nozzle <b>162</b>, a suction source including a vacuum motor <b>164</b> in fluid communication with the suction nozzle <b>162</b> for generating a working air stream through a recovery path <b>166</b>, and a recovery container <b>168</b> for separating and collecting fluid and dirt from the working airstream for later disposal. A separator <b>170</b> can be formed in a portion of the recovery container <b>168</b> for separating fluid and entrained dirt from the working airstream.</p>
+<p id="p-0103" num="0102">The suction nozzle <b>162</b> can be provided on the cleaning head or base <b>116</b> adapted to move over the surface to be cleaned. The suction nozzle <b>162</b> can including a suction pathway having a nozzle inlet defining an inlet of the recovery path <b>166</b>.</p>
+<p id="p-0104" num="0103">The floor cleaner <b>110</b> can include an agitator <b>172</b> to agitate the surface to be cleaned. In one non-limiting example, the agitator <b>172</b> is positioned within the suction nozzle <b>162</b>, with the suction nozzle inlet positioned in close proximity to the agitator <b>172</b> to collect liquid and debris directly from the agitator <b>172</b>. In another non-limiting example, the agitator <b>172</b> is positioned outside the suction nozzle <b>162</b>, with the suction nozzle <b>162</b> disposed forwardly of the agitator <b>172</b> on the cleaning head. The former example may be suitable for a floor cleaner comprising a wet/dry vacuum cleaner, while the later example may be suitable for a floor cleaner comprising an extraction cleaner.</p>
+<p id="p-0105" num="0104">Some examples of agitators <b>172</b> include, but are not limited to, a horizontally-rotating brushroll, dual horizontally-rotating brushrolls, one or more vertically-rotating brushrolls, a stationary brush, or a cleaning pad. In one non-limiting example, the agitator <b>172</b> is a single horizontally-rotating brushroll, the liquid dispenser <b>146</b> delivers liquid cleaning fluid onto the brushroll, and the suction nozzle <b>162</b> substantially surrounds the brushroll. In another non-limiting example, the agitator <b>172</b> is two horizontally-rotating brushrolls, the liquid dispenser <b>146</b> delivers liquid cleaning fluid between two horizontally-rotating brushrolls, and the suction nozzle <b>162</b> is disposed forwardly of the brushrolls and liquid dispenser <b>146</b>.</p>
+<p id="p-0106" num="0105">In the case of a moving agitator <b>172</b>, a drive assembly including an agitator motor <b>174</b> can drive the agitator <b>172</b>. A drive transmission (not shown) operably connects the motor <b>174</b> with the agitator <b>172</b> for transmitting rotational motion of the motor <b>174</b> to the agitator <b>172</b>.</p>
+<p id="p-0107" num="0106">The floor cleaner <b>110</b> can also be provided with above-the-floor cleaning features (not shown), including, but not limited to, an accessory hose and an above-the floor cleaning tool with its own suction inlet and/or fluid dispenser.</p>
+<p id="p-0108" num="0107">Electrical components of the cleaner <b>10</b>, including the heater <b>152</b>, pumps <b>150</b>, <b>160</b>, vacuum motor <b>164</b>, and agitator motor <b>174</b>, are electrically coupled to a power source <b>176</b>, which can comprise a power cord plugged into a household electrical outlet or a battery for cordless operation. The first UI <b>112</b> can have appropriate input controls for user control of one or more of the heater <b>152</b>, pumps <b>150</b>, <b>160</b>, vacuum motor <b>164</b>, and agitator motor <b>174</b>, thereby controlling the cleaning systems of the floor cleaner <b>110</b>. For example, cleaning modes can have associated operating parameters for the heater <b>152</b>, pumps <b>150</b>, <b>160</b>, vacuum motor <b>164</b>, and/or agitator motor <b>174</b>, such that user selection of a cleaning mode will operate those components according to the associated operating parameters. The second UI <b>114</b> can output status information regarding the selected cleaning modes to the user.</p>
+<p id="p-0109" num="0108"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a schematic view showing one configuration of the UIs <b>112</b>, <b>114</b> for the floor cleaner <b>110</b>, along with the handle <b>122</b> and base <b>116</b>. In this embodiment, the floor cleaner <b>110</b> is a wet/dry vacuum cleaner having a hard floor mode, an area rug mode, and a steam mode. The steam mode can operate in conjunction with the hard floor mode or the area rug mode.</p>
+<p id="p-0110" num="0109">The first UI <b>112</b> has an on/off button, e.g. a power button <b>178</b>, to activate and de-active the vacuum motor <b>164</b> (<figref idref="DRAWINGS">FIG. <b>5</b></figref>). By default, pressing the power button <b>178</b> to activate the vacuum motor <b>164</b> can operate the floor cleaner <b>110</b> in the hard floor mode. Pressing the power button <b>178</b> may also turn the heater <b>152</b> on. In other embodiments, the default cleaning mode can be the area rug mode or the last mode selected. Other default operating modes for the floor cleaner <b>110</b> are possible, including a default mode in which pressing the power button <b>178</b> activates an electronic component of the floor cleaner <b>110</b> other than the vacuum motor <b>164</b>.</p>
+<p id="p-0111" num="0110">The first UI <b>112</b> has a mode select input control or mode button <b>180</b> to select between different modes when the floor cleaner <b>110</b> is on. Example modes include a hard floor mode and an area rug mode. The mode button <b>180</b> can operate a toggle switch that cycles through the cleaning modes. For example, repeated pressing of the mode button <b>180</b> can cycle between the hard floor and area rug modes.</p>
+<p id="p-0112" num="0111">Referring back to <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the first UI <b>112</b> has a steam button <b>184</b> to select the steam mode. The steam button <b>184</b> can operate a toggle switch that cycles the steam mode on and off. The steam mode can have associated operating parameters for the heater <b>152</b>, pumps <b>150</b>, <b>160</b>, vacuum motor <b>164</b>, and/or agitator motor <b>174</b> (<figref idref="DRAWINGS">FIG. <b>5</b></figref>). In one example, in the steam mode, the pump <b>160</b> is activated. Therefore, pressing the steam button <b>184</b> activates and de-actives the pump <b>160</b>. Optionally, there is a warm-up period after turning the heater <b>152</b> on via the power button <b>178</b> during which steam is not available to be dispensed.</p>
+<p id="p-0113" num="0112">As noted above, the steam mode can be structured to operate in conjunction with the hard floor mode, area rug mode, or another cleaning mode. For example, pressing the steam button <b>184</b> to select a steam mode may include maintaining operation of the currently-selected hard floor or area rug mode. In another embodiment, pressing the steam button <b>184</b> to select the steam mode may deactivate the currently-selected mode.</p>
+<p id="p-0114" num="0113">With reference to <figref idref="DRAWINGS">FIG. <b>5</b></figref>, the cleaning modes can have associated operating parameters for the heater <b>152</b>, pumps <b>150</b>, <b>160</b>, vacuum motor <b>164</b>, and/or agitator motor <b>174</b>. In one example of the hard floor mode, the vacuum motor <b>164</b>, liquid pump <b>150</b>, and brush motor <b>174</b> are activated, with the vacuum motor <b>164</b> operating at a first power level. In one example of the area rug mode, the vacuum motor <b>164</b>, liquid pump <b>150</b>, and brush motor <b>174</b> are activated, with the vacuum motor <b>164</b> operating at a second power level, which is higher than the first power level. In another example, the flow rate of liquid in the hard floor mode is higher than in the area rug mode. In one example of the steam mode, the vacuum motor <b>164</b>, liquid pump <b>150</b>, heater <b>152</b>, steam pump <b>160</b>, and brush motor <b>174</b> are activated, with the vacuum motor <b>164</b> operating at a power level of the selected hard floor or area rug mode.</p>
+<p id="p-0115" num="0114">As noted above, in all cleaning modes, the release of cleaning fluid (e.g., cleaning liquid and/or steam based on the selected mode) can be controlled by the trigger <b>126</b>. Alternatively, release of cleaning liquid can be controlled by the trigger <b>126</b> and release of steam can be controlled by the steam input control <b>159</b>.</p>
+<p id="p-0116" num="0115">Table 1 below lists some non-limiting examples of operating parameters for the cleaning modes, including whether liquid and/or steam is dispensed, and whether the brush motor is on or off. Other operating parameters for the cleaning modes and other cleaning modes are possible.</p>
+<p id="p-0117" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="left"/>
+<colspec colname="3" colwidth="49pt" align="left"/>
+<colspec colname="4" colwidth="42pt" align="left"/>
+<colspec colname="5" colwidth="35pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="5" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Cleaning</entry>
+<entry>Liquid</entry>
+<entry>Steam</entry>
+<entry>Vacuum</entry>
+<entry>Brush</entry>
+</row>
+<row>
+<entry>Mode</entry>
+<entry>Dispensing</entry>
+<entry>Dispensing</entry>
+<entry>Motor</entry>
+<entry>Motor</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Hard Floor</entry>
+<entry>ON</entry>
+<entry>OFF</entry>
+<entry>LOW</entry>
+<entry>ON</entry>
+</row>
+<row>
+<entry>Area Rug</entry>
+<entry>ON</entry>
+<entry>OFF</entry>
+<entry>HIGH</entry>
+<entry>ON</entry>
+</row>
+<row>
+<entry>Steam</entry>
+<entry>ON</entry>
+<entry>ON</entry>
+<entry>LOW/HIGH</entry>
+<entry>ON</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0118" num="0116">The first UI <b>112</b> has a clean-out cycle button <b>186</b> to activate and de-activate a self-cleaning mode of the floor cleaner <b>110</b> in which the floor cleaner <b>110</b> executes an automatic, unattended clean-out cycle. During the clean-out cycle, cleaning liquid is sprayed on the agitator <b>172</b> (<figref idref="DRAWINGS">FIG. <b>5</b></figref>) while the agitator <b>172</b> rotates. Liquid is extracted and deposited into the recovery container <b>168</b>, thereby also flushing out the suction nozzle <b>162</b> and the recovery path <b>166</b>. One non-limiting example of an automatic, unattended clean-out cycle is disclosed in U.S. Pat. No. 11,160,431, issued Nov. 2, 2021, which is incorporated herein by reference in its entirety. Other clean-out cycles are possible. In another embodiment, the clean-out cycle button <b>186</b> can be provided elsewhere on the floor cleaner <b>110</b>, such as on a carry handle <b>125</b> (<figref idref="DRAWINGS">FIG. <b>4</b></figref>) of the floor cleaner <b>110</b>.</p>
+<p id="p-0119" num="0117">The power button <b>178</b>, mode button <b>180</b>, and steam button <b>184</b> can have icons <b>190</b>, <b>192</b>, <b>194</b>, respectively, that are pad-printed or are otherwise visible at all times to the user. The clean-out cycle button <b>186</b> can have a contextual or context-based icon <b>196</b> that is displayed when a clean-out cycle is needed and/or when a clean-out cycle is ready to be executed.</p>
+<p id="p-0120" num="0118">During operation, the user can select the mode button <b>180</b> and/or steam button <b>184</b> to toggle through multiple cleaning modes. With the arrangement of the UI <b>112</b> on the handle <b>122</b> the user can conveniently hold the handle grip <b>124</b> in one hand and use the thumb of the same hand to toggle the mode button <b>180</b> and/or steam button <b>184</b> until the desired mode is selected. The selected cleaning mode is displayed on the base <b>116</b> by the second UI <b>114</b>.</p>
+<p id="p-0121" num="0119">The second UI <b>114</b> includes a hidden status display <b>198</b> on the base <b>116</b> with a plurality of status indicators. The individual status indicators can each include at least one icon in the form of graphics, symbols, words, or a combination thereof. In <figref idref="DRAWINGS">FIG. <b>6</b></figref>, for example, the second UI <b>114</b> is shown with three status indicators, including a hard floor mode status indicator comprising an icon <b>200</b> in the form of a graphic depicting a hard floor, an area rug status indicator comprising an icon <b>204</b> in the form of a graphic icon depicting a rug, and a steam status indicator comprising an icon <b>202</b> in the form of a graphic icon depicting steam. The icons are each backlit by an illumination element (see, e.g. LED <b>78</b> in <figref idref="DRAWINGS">FIG. <b>3</b></figref>). The different shapes of the icons <b>200</b>-<b>204</b> provide a visual signal to the user that different modes are in operation. To provide a further visual distinction, the icons <b>200</b>-<b>204</b> may illuminate in different colors. For example, the hard floor and area rug icons <b>200</b>, <b>202</b> can illuminate in a first color (e.g., blue), and the steam icon <b>204</b> can illuminate in a second color (e.g., orange).</p>
+<p id="p-0122" num="0120">When the floor cleaner <b>110</b> is off, the status display <b>198</b> is blank and the icons <b>200</b>-<b>204</b> are hidden or dead, e.g. not illuminated. When the floor cleaner <b>110</b> is on, the icons <b>200</b>-<b>204</b> may selectively be illuminated and visible to the user. For example, the hard floor icon <b>200</b> can be hidden or dead, e.g. not illuminated when the floor cleaner <b>110</b> is not operating in the hard floor mode, and can be illuminated and visible when the hard floor mode is selected, e.g. using mode button <b>180</b>. The area rug icon <b>202</b> can be hidden or dead, e.g. not illuminated when the floor cleaner <b>110</b> is not operating in the area rug mode, and can be illuminated and visible when the area rug mode is selected, e.g. using mode button <b>180</b>. The steam icon <b>204</b> can be hidden or dead, e.g. not illuminated when the floor cleaner <b>110</b> is not operating in the steam mode, and can be illuminated and visible when the steam mode is selected, e.g. using steam button <b>184</b>. The status display <b>198</b> therefore shows the selected cleaning mode on the base <b>116</b>, within the user's field of view where the user naturally looks while cleaning a surface.</p>
+<p id="p-0123" num="0121"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows but one configuration for the UIs <b>112</b>, <b>114</b>. It is understood that other layouts, buttons, status indicators, and/or icons are possible, including having the same buttons in a different layout, or having additional or fewer buttons, status indicators, and/or icons. For example, for a floor cleaner without a steam delivery system, the first UI <b>112</b> may not include the steam button <b>184</b> and the second UI <b>114</b> may not include the steam status icon <b>202</b>. Other possible UI buttons, status indicators, and/or icons include, but are not limited to, other cleaning modes, battery status, Wi-Fi connection status, an empty supply container status, a full recovery container status, filter status, floor type, or any number of other status information.</p>
+<p id="p-0124" num="0122">The floor cleaner <b>110</b> can include an additional light on the base <b>116</b> to visually convey a status, alert, or error by emitting visible light in different colors and/or light animations. The additional light can duplicate information conveyed by the first and/or second UI <b>112</b>, <b>114</b> or show different information to the user. In <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the floor cleaner <b>110</b> has a headlight <b>206</b> on the base <b>116</b> that is capable of being illuminated in multiple different colors.</p>
+<p id="p-0125" num="0123">The headlight <b>206</b> can be structured so that the headlight <b>206</b> is not illuminated when the floor cleaner <b>110</b> is off and the headlight <b>206</b> is illuminated when the floor cleaner <b>110</b> is on. For example, the headlight <b>206</b> is illuminated in a first color when the floor cleaner <b>110</b> is on and a dispensing control is not actuated, and the headlight <b>206</b> is illuminated in a second color when the floor cleaner <b>110</b> is on and the dispensing control is actuated to dispense cleaning fluid. The dispensing control may be, for example, the trigger <b>126</b> (<figref idref="DRAWINGS">FIG. <b>5</b></figref>) that controls dispensing from the liquid dispenser <b>146</b> and/or steam dispenser <b>154</b>, or the steam input control <b>159</b> that controls the dispensing of steam from the steam dispenser <b>154</b>.</p>
+<p id="p-0126" num="0124">In another example, the headlight <b>206</b> is illuminated in a first color when the floor cleaner <b>110</b> is on and the steam mode is not selected, and the headlight <b>206</b> is illuminated in a second color when the floor cleaner <b>110</b> is on and the steam mode is selected.</p>
+<p id="p-0127" num="0125">The headlight <b>206</b> can be disposed on an upper side of the base <b>116</b>, making the emitted visible light easy to see from the typical operating position of the user behind and above the base <b>116</b>. Various locations for the headlight <b>206</b> on the base <b>116</b> are possible. In one embodiment, the headlight <b>206</b> can be located behind a cover <b>208</b>, which can define the suction nozzle <b>162</b> and/or a chamber for the agitator <b>172</b> (<figref idref="DRAWINGS">FIG. <b>5</b></figref>). The cover <b>208</b> can be formed at least partially from a transparent, semi-transparent, or translucent material, and may, for example, allow a user to view visible light emitted from the headlight <b>206</b> from the typical operating position of the user behind and above the base <b>16</b>. The emitted visible light passing through the cover <b>208</b> may be refracted or diffused such that a portion of the cover <b>208</b> appears to glow.</p>
+<p id="p-0128" num="0126">The headlight <b>206</b> can include at least one light source comprising at least one light emitting element, such as, but not limited to, a light emitting diode (LED), an organic LED (OLED), a chip-on-board LED, a laser or laser diode, a regular lamp (arc lamp, gas discharge lamp, etc.), bulbs, or other light emitting device. The headlight <b>206</b> can comprise multiple light emitting elements, such as multiple LEDs. For an LED light source, an RGB LED may be preferred in order to produce lights in varying colors to indicate different statuses, errors, and/or alerts for the floor cleaner <b>110</b>.</p>
+<p id="p-0129" num="0127">The floor cleaner <b>110</b> can have other lighting in addition to or as an alternative to the headlight <b>206</b>. Other lighting includes, but is not limited to, a UI edge light or a base edge light, examples of which are given below.</p>
+<p id="p-0130" num="0128">FIGS.<b>7</b>-<b>14</b> show the base <b>116</b> of the floor cleaner <b>110</b> in various operational states and/or operating modes. In <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the floor cleaner <b>110</b> is off, and accordingly the status display <b>198</b> of the second UI <b>114</b> is hidden.</p>
+<p id="p-0131" num="0129">In <figref idref="DRAWINGS">FIG. <b>8</b></figref>, the floor cleaner <b>110</b> is powered on and in a default operational state. The default operational state may be the hard floor mode, and therefore the hard floor icon <b>200</b> illuminated and visible.</p>
+<p id="p-0132" num="0130">In <figref idref="DRAWINGS">FIG. <b>9</b></figref>, the floor cleaner <b>110</b> is in the area rug mode, and therefore the area rug icon <b>202</b> is illuminated and visible.</p>
+<p id="p-0133" num="0131">In <figref idref="DRAWINGS">FIG. <b>10</b></figref>, the floor cleaner <b>110</b> is in the hard floor mode and a steam warm-up state of the steam mode, and therefore the hard floor icon <b>200</b> and the steam icon <b>204</b> are illuminated and visible. The floor cleaner <b>110</b> may be in the steam warm-up state for a predetermined period of time after powering the floor cleaner <b>110</b> on, during which the heater <b>152</b> is turned on and is warming up. One non-limiting warm-up period is <b>30</b> seconds. As indicated by illumination lines in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, during steam warm-up the steam icon <b>204</b> can emit light in an animated state, e.g. with a change pattern and/or changing characteristics over time. Various animations are contemplated, including, but not limited to, a flashing animation. In a flashing animation, light intensity generally varies in a square wave fashion or in some other non-sinusoidal manner. In some examples, depending on the manner of use of the floor cleaner <b>110</b>, the steam icon <b>204</b> may or may not exhibit the warm-up state status when the steam mode is selected. For example, in some cases the user may activate the steam mode after the heater <b>152</b> has already heated up and reached its predetermined operating set-point, such as after using the floor cleaner <b>110</b> in a cleaning mode that does not utilize steam for a predetermined period of time. While the user is using the floor cleaner <b>110</b> in the cleaning mode without steam, the heater <b>152</b> may be heating up such that when the user switches to a cleaning mode with steam, the floor cleaner <b>110</b> is essentially ready to instantaneously dispense steam on demand and thus the steam icon <b>204</b> is illuminated in visible. In another example, the user may wish to utilize a cleaning mode with steam right away upon powering on the floor cleaner <b>110</b>. In this scenario, the steam icon <b>204</b> can emit light in an animated state while the heater <b>152</b> heats up, indicating to the user that steam is not yet ready for dispensing, once the heater <b>152</b> has heated up to the set-point suitable for generating steam for use in a steam cleaning mode, the steam icon <b>204</b> can be illuminated in a steady state to indicate to the user that steam is now ready for dispensing on demand during cleaning.</p>
+<p id="p-0134" num="0132">In <figref idref="DRAWINGS">FIG. <b>11</b></figref>, the floor cleaner <b>110</b> is in the hard floor mode and steam ready state of the steam mode, and therefore the hard floor icon <b>200</b> and the steam icon <b>204</b> are illuminated and visible. The floor cleaner <b>110</b> may enter the steam ready state after the warm-up period. When steam is ready, the steam icon <b>204</b> can illuminate in a steady state, e.g., with generally continuous, unchanging characteristics over a period of time. The change between animation of the steam icon <b>204</b> and steady-state illumination of the steam icon <b>204</b> indicates to the user that steam is ready for dispensing during cleaning.</p>
+<p id="p-0135" num="0133">While <figref idref="DRAWINGS">FIG. <b>10</b>-<b>11</b></figref> show the floor cleaner <b>110</b> in the hard floor mode and the steam mode, the floor cleaner <b>110</b> is also operable in the area rug mode and the steam mode. In this case, the status display <b>198</b> shows the area rug icon <b>202</b> and the steam icon <b>204</b>.</p>
+<p id="p-0136" num="0134"><figref idref="DRAWINGS">FIG. <b>12</b>-<b>13</b></figref> show the floor cleaner <b>110</b> in various dispensing states, where the headlight <b>206</b> functions as the status indicator for dispensing. As noted above, the headlight <b>206</b> is structured so that the headlight <b>206</b> is not illuminated when the floor cleaner <b>110</b> is off (<figref idref="DRAWINGS">FIG. <b>7</b></figref>) and the headlight <b>206</b> is illuminated when the floor cleaner <b>110</b> is on (<figref idref="DRAWINGS">FIG. <b>8</b>-<b>14</b></figref>). When the floor cleaner <b>110</b> is on and not dispensing (<figref idref="DRAWINGS">FIG. <b>8</b>-<b>11</b></figref>), the headlight <b>206</b> is illuminated in a first color (e.g., white) as indicated at <b>210</b>. When the trigger <b>126</b> is depressed, the headlight <b>206</b> changes to another color (<figref idref="DRAWINGS">FIG. <b>12</b>-<b>13</b></figref>) to indicate the dispensing state to the user. Referring to <figref idref="DRAWINGS">FIG. <b>12</b></figref>, in the hard floor or area rug mode, actuation of the trigger <b>126</b> to dispense cleaning liquid illuminates the headlight <b>206</b> in a second color (e.g., blue) as indicated as <b>212</b>. Referring to <figref idref="DRAWINGS">FIG. <b>13</b></figref>, in the steam mode, actuation of the trigger <b>126</b> to dispense steam illuminates the headlight <b>206</b> in the second color (e.g., blue) as indicated at <b>212</b>. Release of the trigger <b>126</b> in any mode can automatically change the headlight <b>206</b> back to the first color, indicating to a user that cleaning fluid is no longer being dispensed. During dispensing, icons on the status display <b>198</b> corresponding to the operational mode can remain illuminated and visible.</p>
+<p id="p-0137" num="0135">For steam dispensing, the headlight <b>206</b> can emit light in an animated state, e.g. with a change pattern and/or changing characteristics over time. Various animations are contemplated, including, but not limited to, a pulsing or breathing animation. In a breathing animation, light intensity increases and decreases in a generally sinusoidal manner. That is, the visible light gradually gets brighter until it reaches a peak and then gradually gets dimmer until it reaches a nadir (which may include the light completely shut off), and then this cycle repeats.</p>
+<p id="p-0138" num="0136"><figref idref="DRAWINGS">FIG. <b>14</b></figref> shows an alternative configuration for the steam dispensing state of the floor cleaner <b>110</b>. In <figref idref="DRAWINGS">FIG. <b>14</b></figref>, the floor cleaner <b>110</b> is in the hard floor mode and steam dispensing state, and therefore the hard floor icon <b>200</b> and the steam icon <b>204</b> are illuminated and visible. Actuation of the trigger <b>126</b> to dispense steam illuminates the headlight <b>206</b> in a third color (e.g., orange) as indicated at <b>214</b>, where the third color is different from the first or second color. The headlight <b>206</b> can illuminate in a steady state or in an animated state. Release of the trigger <b>126</b> can automatically change the headlight <b>206</b> back to the first color, indicating to a user that cleaning fluid is no longer being dispensed.</p>
+<p id="p-0139" num="0137">It will be understood that coordinating the operation of the headlight <b>206</b> with dispensing of liquid and/or steam is optional and that aspects of the first and second UIs described herein can be utilized independently of the headlight <b>206</b>.</p>
+<p id="p-0140" num="0138">Referring to <figref idref="DRAWINGS">FIGS. <b>15</b>-<b>16</b></figref>, in one aspect of the disclosure, operation of the clean-out cycle may require that the floor cleaner <b>110</b> be docked on a tray <b>188</b> and/or another condition for self-cleaning be met. When not docked and/or when another condition for self-cleaning is not met, the clean-out cycle may be inoperable, and selection of the clean-out cycle button <b>186</b> will not activate the self-cleaning mode.</p>
+<p id="p-0141" num="0139">The contextual icon <b>196</b> is displayed when a clean-out cycle is needed and/or when a clean-out cycle is ready to be executed. In one embodiment, the icon <b>196</b> can be hidden or dead, e.g. not illuminated, when a condition is not met, and can illuminate when a condition is met. For example, the icon <b>196</b> can be visible under certain conditions, including, but not limited to: (i) the floor cleaner <b>110</b> being docked on the tray <b>188</b> (e.g., <figref idref="DRAWINGS">FIG. <b>16</b></figref>); (ii) sufficient cleaning fluid to run a clean-out cycle is available in the supply container; (iii) sufficient space to collect cleaning fluid from a clean-out cycle is available in the recovery container; or any combination thereof. The icon <b>196</b> is hidden under other conditions, including, but not limited to: (iv) the floor cleaner <b>110</b> is not docked (e.g., <figref idref="DRAWINGS">FIG. <b>15</b></figref>); (v) insufficient cleaning fluid to run a clean-out cycle is available in the supply container; (vi) insufficient space to collect cleaning fluid from a clean-out cycle is available in the recovery container; or any combination thereof.</p>
+<p id="p-0142" num="0140">In one embodiment, when the floor cleaner <b>110</b> is docked on the tray <b>188</b>, e.g. for recharging in the case of a cordless, battery-powered cleaner and/or after a cleaning session, the clean-out cycle icon <b>196</b> illuminates, indicating to the user that the floor cleaner <b>110</b> is in a ready-to-self-clean state. The icon <b>196</b> can illuminate in a steady state, e.g., with generally continuous, unchanging characteristics over a period of time, or illuminate in an animated state, e.g. with a change pattern and/or changing characteristics over time. Various animations are contemplated, including, but not limited to, a sunrise animation in which light intensity increases at a generally steady rate, e.g. the icon <b>196</b> gradually gets brighter until it reaches a peak illumination. After the clean-out cycle button <b>186</b> is pressed, icon <b>196</b> can switch from an animated state to a steady state, or may de-illuminate, indicating to a user that self-cleaning has been successfully initiated. In embodiments where the icon <b>196</b> remains illuminated during self-cleaning, the icon <b>196</b> can remain illuminated until the cycle is done and then may de-illuminate.</p>
+<p id="p-0143" num="0141">It is noted that the tray <b>188</b> can physically support the entire floor cleaner <b>110</b>. More specifically, the base <b>116</b> can be seated in the tray <b>188</b>. The tray <b>188</b> can further be configured for further functionality beyond self-cleaning and storage, such as for charging the floor cleaner <b>110</b> in the case of a battery-powered or cordless cleaner. In such cases, the tray <b>188</b> may also be referred to as a docking station.</p>
+<p id="p-0144" num="0142"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is a schematic view showing another configuration for the UIs <b>112</b>, <b>114</b> for the floor cleaner <b>110</b>. In this embodiment, the floor cleaner <b>110</b> does not have a steam delivery system and the power source <b>176</b> (<figref idref="DRAWINGS">FIG. <b>5</b></figref>) is a battery. The first UI <b>112</b> has the power button <b>178</b>, mode button <b>180</b>, and clean-out cycle button <b>186</b> as described with respect to <figref idref="DRAWINGS">FIG. <b>6</b></figref>, though arranged in a different layout. Additionally, the UI <b>112</b> has a Wi-Fi status indicator <b>216</b> that informs the user of a Wi-Fi connection status of the floor cleaner <b>110</b>. The Wi-Fi status indicator <b>216</b> can include a back-lit icon that is hidden when the floor cleaner <b>110</b> is not connected to Wi-Fi and visible when the floor cleaner <b>110</b> is connected to Wi-Fi.</p>
+<p id="p-0145" num="0143">The second UI <b>114</b> includes a battery level indicator <b>218</b>. In one embodiment, the battery level indicator <b>218</b> can include a graphic icon <b>220</b> depicting a battery and a series of lights <b>222</b> (e.g., LEDs) inside the graphic icon <b>220</b> that progressively illuminate to show a level of charge of battery. In an alternate example, the battery level indicator <b>218</b> can include a number on the status display <b>198</b> that changes to indicate a level of charge of the battery.</p>
+<p id="p-0146" num="0144"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is a schematic view showing yet another configuration for the UIs <b>112</b>, <b>114</b> for the floor cleaner <b>110</b>. In this embodiment, the first UI <b>112</b> has status indicators to indicate the mode selected via the mode button <b>180</b>, including a hard floor mode status indicator including an icon <b>224</b> in the form of a graphic depicting a hard floor and an area rug status indicator including an icon <b>226</b> in the form of a graphic icon depicting a rug. The icons <b>224</b>, <b>226</b> are each backlit by an illumination element (e.g. an LED). When the floor cleaner <b>110</b> is off, the icons <b>224</b>, <b>226</b> are hidden or dead, e.g. not illuminated. When the floor cleaner <b>110</b> is on, one of the icons <b>224</b>, <b>226</b> is illuminated and visible to the user. The first and second UIs <b>112</b>, <b>114</b> therefore both show the selected cleaning mode. Duplication of the status indicators on both interfaces <b>112</b>, <b>114</b> provides mode information to the user at multiple locations within their field of view, whether they are looking directly at the handle <b>122</b> or downwardly toward the surface to be cleaned.</p>
+<p id="p-0147" num="0145">In additional to the icon <b>194</b>, the steam button <b>184</b> has a status indicator <b>228</b> to indicate when the steam mode is &#x201c;on&#x201d; or active. The status indicator <b>228</b> can comprise a back-lit bar or other symbol adjacent to the steam button <b>184</b>. The first and second UIs <b>112</b>, <b>114</b> therefore both show whether the floor cleaner <b>110</b> is operating in the steam mode.</p>
+<p id="p-0148" num="0146"><figref idref="DRAWINGS">FIG. <b>19</b></figref> is a schematic view showing still another configuration for the UIs <b>112</b>, <b>114</b> for the floor cleaner <b>110</b>. In this embodiment, the floor cleaner <b>110</b> is an extraction cleaner having a liquid cleaning mode, a liquid/steam cleaning mode, and a steam boost cleaning mode.</p>
+<p id="p-0149" num="0147">The first UI <b>112</b> has an on/off button, e.g. a power button <b>230</b>, to activate and de-active the vacuum motor <b>164</b> and the heater <b>152</b> (<figref idref="DRAWINGS">FIG. <b>5</b></figref>). By default, pressing the power button <b>230</b> can operate the floor cleaner <b>110</b> in the liquid/steam cleaning mode. In another embodiment, the default-cleaning mode can be the liquid cleaning mode or the steam boost cleaning mode, or the last mode selected. Other default operating modes for the floor cleaner <b>110</b> are possible, including a default mode in which pressing the power button <b>230</b> activates an electronic component of the floor cleaner <b>110</b> other than the vacuum motor <b>164</b> and/or the heater <b>152</b>.</p>
+<p id="p-0150" num="0148">The first UI <b>112</b> has multiple mode select input controls or mode buttons, including a liquid cleaning mode button <b>232</b> to select the liquid cleaning mode, a liquid/steam cleaning mode button <b>234</b> to select the liquid/steam cleaning mode, and a steam boost cleaning mode button <b>326</b> to select the steam boost cleaning mode, respectively. In operation, a user can select one of the mode buttons <b>232</b>-<b>236</b>, and the selected mode is displayed on the base <b>116</b> by the second UI <b>114</b>.</p>
+<p id="p-0151" num="0149">With reference to <figref idref="DRAWINGS">FIG. <b>5</b></figref>, the cleaning modes can have associated operating parameters for the heater <b>152</b>, pumps <b>150</b>, <b>160</b>, vacuum motor <b>164</b>, and/or agitator motor <b>174</b>. In one example of the liquid/steam cleaning mode, the vacuum motor <b>164</b>, liquid pump <b>150</b>, heater <b>152</b>, steam pump <b>160</b>, and brush motor <b>174</b> are activated, with the liquid pump <b>150</b> operating at a first flow rate. In one example of the liquid cleaning mode, the vacuum motor <b>164</b>, liquid pump <b>150</b>, and brush motor <b>174</b> are activated, with the with the liquid pump <b>150</b> operating at a second flow rate, which is less than the first flow rate for an express cleaning operation where the surface to be cleaned may dry faster. In one example of the steam boost cleaning mode, the heater <b>152</b> and steam pump <b>160</b> are activated. As noted above, in all cleaning modes, the release of cleaning fluid can be controlled by the trigger <b>126</b>. Alternatively, release of cleaning liquid can be controlled by the trigger <b>126</b> and release of steam can be controlled by the steam input control <b>159</b>.</p>
+<p id="p-0152" num="0150">Table 2 below lists some non-limiting examples of operating parameters for the cleaning modes, including pump flow rates for liquid and steam dispensing, and whether the vacuum motor <b>164</b> and brush motor <b>174</b> are on or off. Other operating parameters for the cleaning modes and other cleaning modes are possible.</p>
+<p id="p-0153" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="49pt" align="left"/>
+<colspec colname="4" colwidth="49pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" rowsep="1">TABLE 2</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Vacuum and</entry>
+</row>
+<row>
+<entry/>
+<entry>Cleaning</entry>
+<entry>Liquid</entry>
+<entry>Steam</entry>
+<entry>Brush</entry>
+</row>
+<row>
+<entry/>
+<entry>Mode</entry>
+<entry>Dispensing</entry>
+<entry>Dispensing</entry>
+<entry>Motors</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Liquid/Steam</entry>
+<entry>HIGH</entry>
+<entry>ON</entry>
+<entry>ON</entry>
+</row>
+<row>
+<entry/>
+<entry>Liquid</entry>
+<entry>LOW</entry>
+<entry>OFF</entry>
+<entry>ON</entry>
+</row>
+<row>
+<entry/>
+<entry>Steam Boost</entry>
+<entry>OFF</entry>
+<entry>ON</entry>
+<entry>OFF</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0154" num="0151">The power button <b>230</b> and mode buttons <b>232</b>, <b>234</b>, <b>236</b> can have icons <b>238</b>, <b>240</b>, <b>242</b>, <b>244</b> respectively, formed by pad printing, attaching a label, adhering a graphic, or the like, and are visible at all times to the user. In another embodiment, the mode icons <b>238</b>, <b>240</b>, <b>242</b> can be back-lit so that only the mode currently selected is illuminated and visible to the user. In yet another embodiment, the mode buttons <b>232</b>, <b>234</b>, <b>236</b> can each have an associated status indicator to indicate when the associated mode is &#x201c;on&#x201d; or active, similar to status indicator <b>228</b> (<figref idref="DRAWINGS">FIG. <b>18</b></figref>).</p>
+<p id="p-0155" num="0152">During operation, the user can select one of the mode buttons <b>232</b>, <b>234</b>, <b>236</b> to change between cleaning modes. With the arrangement of the UI <b>112</b> on the handle <b>122</b>, the user can conveniently hold the handle grip <b>124</b> in one hand and use the thumb of the same hand to select a desired mode. The selected cleaning mode is displayed on the base <b>116</b> by the second UI <b>114</b>.</p>
+<p id="p-0156" num="0153">The second UI <b>114</b> includes a hidden status display <b>246</b> on the base <b>116</b> with a plurality of status indicators. The individual status indicators can each include at least one icon in the form of graphics, symbols, words, or a combination thereof. In <figref idref="DRAWINGS">FIG. <b>19</b></figref>, for example, the second UI <b>114</b> is shown with three status indicators, including a liquid cleaning status indicator comprising an icon <b>248</b> in the form of a graphic depicting a drop of liquid, a liquid/steam cleaning indicator comprising an icon <b>250</b> in the form of a graphic icon depicting a drop of liquid and steam, and a steam boost cleaning indicator comprising an icon <b>252</b> in the form of a graphic icon depicting steam. The icons <b>248</b>-<b>250</b> are each backlit by an illumination element (see, e.g. LED <b>78</b> in <figref idref="DRAWINGS">FIG. <b>3</b></figref>). The different shapes of the icons <b>248</b>-<b>252</b> provide visual signal to the user that different modes are in operation. To provide a further visual distinction, the icons <b>248</b>-<b>252</b> may illuminate in different colors. For example, the liquid cleaning icon <b>248</b> can illuminate in a first color (e.g., blue), and the liquid/steam cleaning icon <b>520</b> and steam boost icon <b>252</b> can illuminate in a second color (e.g., orange).</p>
+<p id="p-0157" num="0154">When the floor cleaner <b>110</b> is off, the status display <b>246</b> is blank and the icons <b>248</b>-<b>250</b> are hidden or dead, e.g. not illuminated. When the floor cleaner <b>110</b> is on, the icons <b>248</b>-<b>250</b> may selectively be illuminated and visible to the user. The status display <b>246</b> therefore shows the selected cleaning mode on the base <b>116</b>, within the user's field of view where the user naturally looks while cleaning a surface.</p>
+<p id="p-0158" num="0155"><figref idref="DRAWINGS">FIG. <b>19</b></figref> shows but one configuration for the UIs <b>112</b>, <b>114</b> for an extraction cleaner. It is understood that other buttons, status indicators, and/or icons are possible, including having additional or fewer buttons, status indicators, and/or icons. For example, for an extraction cleaner without a steam delivery system, the first UI <b>112</b> may not include any steam mode buttons, and the second UI <b>114</b> may not include any steam status indicators. Other possible UI buttons, status indicators, and/or icons include, but are not limited to, other cleaning modes, battery status, Wi-Fi connection status, an empty supply container status, a full recovery container status, filter status, floor type, or any number of other status information.</p>
+<p id="p-0159" num="0156"><figref idref="DRAWINGS">FIGS. <b>20</b>-<b>22</b></figref> show the base <b>116</b> of the floor cleaner <b>110</b> in various operational states and/or operating modes. When the floor cleaner <b>110</b> is off (not shown), the status display <b>198</b> of the second UI <b>114</b> is hidden or blank. In <figref idref="DRAWINGS">FIG. <b>20</b></figref>, the floor cleaner <b>110</b> is powered on and in a default operational state. The default operational state may be the liquid/steam cleaning mode and therefore the liquid/steam cleaning icon <b>250</b> is illuminated and visible. In <figref idref="DRAWINGS">FIG. <b>21</b></figref>, the floor cleaner <b>110</b> is in the liquid cleaning mode and therefore the liquid cleaning icon <b>248</b> is illuminated and visible. In <figref idref="DRAWINGS">FIG. <b>22</b></figref>, the floor cleaner <b>110</b> is in the steam boost mode and therefore the steam boost icon <b>252</b> is illuminated and visible. The icons <b>248</b>-<b>252</b> can emit light in a steady state, an animated state, or a combination of steady and animate states. For example, in either steam dispensing mode, the icons <b>250</b>, <b>252</b> may be animated during a steam warm-up state and may change to a steady state during a steam ready state.</p>
+<p id="p-0160" num="0157"><figref idref="DRAWINGS">FIG. <b>23</b></figref> is a schematic view showing still another embodiment of the floor cleaner <b>110</b>. In this embodiment, the floor cleaner <b>110</b> is an extraction cleaner and is substantially similar to the extraction cleaner described for <figref idref="DRAWINGS">FIG. <b>19</b></figref>. The floor cleaner <b>110</b> can include at least one additional light <b>254</b>, <b>256</b>, <b>258</b> on the base <b>116</b> to visually convey a status, alert, or error by emitting visible light in different colors and/or light animations. The additional light can duplicate information conveyed by the first and/or second UI <b>112</b>, <b>114</b>.</p>
+<p id="p-0161" num="0158">The light <b>254</b>, <b>256</b>, <b>258</b> can include at least one light source comprising at least one light emitting element, such as, but not limited to, a light emitting diode (LED), an organic LED (OLED), a chip-on-board LED, a laser or laser diode, a regular lamp (arc lamp, gas discharge lamp, etc.), bulbs, or other light emitting device. The light <b>254</b>, <b>256</b>, <b>258</b> can comprise multiple light emitting elements, such as multiple LEDs. For an LED light source, an RGB LED may be preferred in order to produce lights in varying colors to indicate different statuses, errors, and/or alerts for the floor cleaner <b>110</b>.</p>
+<p id="p-0162" num="0159">Examples of the additional light is a UI edge light <b>254</b>, a headlight <b>256</b>, or a base edge light <b>258</b>, or any combination thereof. The UI edge light <b>254</b> can wrap at least partially around the second UI <b>114</b>. For example, the edge light <b>254</b> can wrap at least partially around a front side of the second UI <b>114</b>, a right side of the second UI <b>114</b>, a left side of the second UI <b>114</b>, or any combination thereof. The headlight <b>256</b> may be similar to the headlight <b>206</b> of <figref idref="DRAWINGS">FIG. <b>6</b></figref>, and can be disposed on an upper side of the base <b>116</b> and located behind cover <b>208</b>, and forward of the second UI <b>114</b>. The base edge light <b>258</b> can wrap at least partially around the base <b>116</b>, including a front side of the base <b>116</b>, a right side of the base <b>116</b>, a left side of the base <b>116</b>, a rear side of the base <b>116</b>, or any combination thereof.</p>
+<p id="p-0163" num="0160">In some embodiments, the light <b>254</b>, <b>256</b>, <b>258</b> is capable of being illuminated in multiple different colors. The light <b>254</b>, <b>256</b>, <b>258</b> is structured so that the light <b>254</b>, <b>256</b>, <b>258</b> is not illuminated when the floor cleaner <b>110</b> is off and the light <b>254</b>, <b>256</b>, <b>258</b> is illuminated when the floor cleaner <b>110</b> is on. Further, the light <b>254</b>, <b>256</b>, <b>258</b> can visually convey a status, alert, or error by emitting visible light in different colors.</p>
+<p id="p-0164" num="0161">For example, the light <b>254</b>, <b>256</b>, <b>258</b> is illuminated in a first color when the floor cleaner <b>110</b> is on and a dispensing control is not actuated, and the light <b>254</b>, <b>256</b>, <b>258</b> is illuminated in a second color when the floor cleaner <b>110</b> is on and the dispensing control is actuated to dispense cleaning fluid. The dispensing control may be, for example, the trigger <b>126</b> (<figref idref="DRAWINGS">FIG. <b>5</b></figref>) that controls dispensing from the liquid dispenser <b>146</b> and/or steam dispenser <b>154</b>, or the steam input control <b>159</b> that controls the dispensing of steam from the steam dispenser <b>154</b>.</p>
+<p id="p-0165" num="0162">In another example, the light <b>254</b>, <b>256</b>, <b>258</b> is off or is illuminated in a first color when the floor cleaner <b>110</b> is upright, and the light <b>254</b>, <b>256</b>, <b>258</b> is on or is illuminated in a second color when the floor cleaner <b>110</b> reclined to a use position (see, e.g., <figref idref="DRAWINGS">FIG. <b>1</b></figref> and <figref idref="DRAWINGS">FIG. <b>4</b></figref>).</p>
+<p id="p-0166" num="0163">Referring to <figref idref="DRAWINGS">FIG. <b>24</b></figref>, in another embodiment the surface cleaning apparatus can be a canister floor cleaner <b>300</b> that includes a cleaning head <b>302</b> and a remotely disposed canister <b>304</b> mechanically and fluid interconnected by a flexible hose <b>306</b> and a wand <b>308</b> to direct the cleaning head <b>302</b> over the surface to be cleaned. In one example, the canister floor cleaner <b>300</b> can be a vacuum cleaner including at least a vacuum collection system for creating a partial vacuum to suck up dirt from a floor surface and collect the removed dirt in a space provided on the vacuum cleaner for later disposal. In another example, the canister floor cleaner <b>300</b> can be a wet/dry vacuum cleaner or an extraction cleaner.</p>
+<p id="p-0167" num="0164">The wand <b>308</b> can include a first UI <b>312</b> and the cleaning head <b>302</b> can include a second UI <b>314</b>, where the UIs <b>312</b>, <b>314</b> can comprise any of the features and/or structures of the various embodiments of user interfaces described herein. The second UI <b>314</b> may be on a portion of the cleaning head <b>302</b> that is within a user's field of view when holding the wand <b>308</b> in a use position.</p>
+<p id="p-0168" num="0165">Referring to <figref idref="DRAWINGS">FIG. <b>25</b></figref>, in another embodiment the surface cleaning apparatus can be a portable extraction cleaner <b>400</b> that includes a tool <b>402</b> and a remotely disposed housing <b>404</b> mechanically and fluid interconnected by a flexible hose <b>406</b> and a wand <b>408</b> that a user holds to direct the tool <b>402</b> over the surface to be cleaned. The housing <b>404</b> comprises a fluid delivery system including a supply container <b>416</b> and a recovery system including a recovery container <b>418</b>. The hose <b>406</b> includes a fluid delivery conduit <b>422</b> in fluid communication with the supply container <b>416</b> and an airflow conduit <b>424</b> in fluid communication with the recovery container <b>418</b>.</p>
+<p id="p-0169" num="0166">The housing <b>404</b> can include a first UI <b>412</b> and the tool <b>402</b> can include a second UI <b>414</b>, where the UIs <b>412</b>, <b>414</b> can comprise any of the features and/or structures of the various embodiments of user interfaces described herein. The second UI <b>414</b> may be on a portion of the tool <b>402</b> that is within a user's field of view when a user <b>420</b> is holding the wand <b>408</b> to clean with the tool <b>402</b>. In another embodiment, the wand <b>408</b> can include the second UI <b>414</b>.</p>
+<p id="p-0170" num="0167"><figref idref="DRAWINGS">FIG. <b>26</b></figref> is a schematic view showing another configuration for the UIs <b>112</b>, <b>114</b> of the floor cleaner <b>110</b>. In this embodiment, the first UI <b>112</b> has the power button <b>178</b>, mode button <b>180</b>, and clean-out cycle button <b>186</b>, and the second UI <b>114</b> includes the icons <b>200</b>-<b>204</b> as described with respect to <figref idref="DRAWINGS">FIG. <b>6</b></figref>, though arranged in a different layout.</p>
+<p id="p-0171" num="0168">For the first UI <b>112</b>, a separate steam button is not provided, and instead the mode button <b>180</b> cycles through all cleaning modes, including any steam cleaning modes. As but one example, the mode button <b>180</b> can cycle through the steam mode, the hard floor mode, and the area rug mode. The clean-out cycle button <b>186</b> is provided on the carry handle <b>125</b>.</p>
+<p id="p-0172" num="0169"><figref idref="DRAWINGS">FIG. <b>27</b></figref> is a schematic view showing yet another configuration for the UIs <b>112</b>, <b>114</b> for the floor cleaner <b>110</b>. In this embodiment, the floor cleaner <b>110</b> is an extraction cleaner and is substantially similar to the extraction cleaner described for <figref idref="DRAWINGS">FIG. <b>19</b></figref>. In this embodiment, the second UI <b>114</b> includes the icons <b>248</b>-<b>252</b> as described with respect to <figref idref="DRAWINGS">FIG. <b>19</b></figref>, though arranged in a different layout.</p>
+<p id="p-0173" num="0170">The first UI <b>114</b> incudes the power button <b>230</b> and a single mode button <b>270</b> that cycles through the cleaning modes. For example, repeated pressing of the mode button <b>270</b> can cycle through the liquid cleaning mode, the liquid/steam cleaning mode, and the steam boost cleaning mode. The mode button <b>270</b> can have an icon <b>272</b> formed by pad printing, attaching a label, adhering a graphic, or the like, and may be visible at all times to the user. In another embodiment, the mode icon <b>272</b> can be back-lit.</p>
+<p id="p-0174" num="0171">During operation, the user press the mode button <b>270</b> to change the cleaning mode. The selected cleaning mode is displayed on the base <b>116</b> by the second UI <b>114</b>.</p>
+<p id="p-0175" num="0172">To the extent not already described, the different features and structures of the various embodiments of the invention, may be used in combination with each other as desired, or may be used separately. That one surface cleaning apparatus is illustrated herein as having all of these features does not mean that all of these features must be used in combination, but rather done so here for brevity of description. Thus, the various features of the different embodiments may be mixed and matched in various vacuum cleaner configurations as desired to form new embodiments, whether or not the new embodiments are expressly described.</p>
+<p id="p-0176" num="0173">The terms &#x201c;comprising&#x201d; or &#x201c;comprise&#x201d; are used herein in their broadest sense to mean and encompass the notions of &#x201c;including,&#x201d; &#x201c;include,&#x201d; &#x201c;consist(ing) essentially of,&#x201d; and &#x201c;consist(ing) of. The use of &#x201c;for example,&#x201d; &#x201c;e.g.,&#x201d; &#x201c;such as,&#x201d; and &#x201c;including&#x201d; to list illustrative examples does not limit to only the listed examples. Thus, &#x201c;for example&#x201d; or &#x201c;such as&#x201d; means &#x201c;for example, but not limited to&#x201d; or &#x201c;such as, but not limited to&#x201d; and encompasses other similar or equivalent examples.</p>
+<p id="p-0177" num="0174">Representative features are set out in the following clauses, which stand alone or may be combined, in any combination, with one or more features disclosed in the text and/or drawings of the specification.</p>
+<p id="p-0178" num="0175">A surface cleaning apparatus, comprising a cleaning head adapted to move over a surface to be cleaned, a housing coupled with the cleaning head, a cleaning fluid delivery system, a dispensing input control to dispense cleaning fluid, a first user interface on the housing, the first user interface comprising a mode select input control to select one of a plurality of modes of operation of the surface cleaning apparatus, a second user interface on the cleaning head, the second user interface comprising a status display having a plurality of status indicators representing the plurality of modes of operation of the surface cleaning apparatus, and a light on the cleaning head and capable of being illuminated in a plurality of different colors, wherein the light is structured so that the light is not illuminated when the surface cleaning apparatus is off, the light is illuminated in a first color when the surface cleaning apparatus is on and the cleaning fluid dispensing input control is not actuated, and the light is illuminated in a second color when the surface cleaning apparatus is on and the cleaning fluid dispensing input control is actuated to dispense cleaning fluid.</p>
+<p id="p-0179" num="0176">A surface cleaning apparatus according to any preceding clause, wherein the dispensing input control is an input control to dispense cleaning fluid comprising liquid, steam, or liquid and steam.</p>
+<p id="p-0180" num="0177">A surface cleaning apparatus according to any preceding clause, wherein the dispensing input control is a trigger.</p>
+<p id="p-0181" num="0178">A surface cleaning apparatus according to any preceding clause, wherein the light illuminated in a third color when the surface cleaning apparatus is on and the dispensing input control is actuated to dispense steam.</p>
+<p id="p-0182" num="0179">A surface cleaning apparatus according to any preceding clause, wherein the second user interface illuminates in the second color when the light illuminates in the second color.</p>
+<p id="p-0183" num="0180">A surface cleaning apparatus according to any preceding clause, wherein the housing comprises an upright body comprising a handle having a grip and the cleaning head comprises a base adapted to move over the surface to be cleaned, wherein the upright body is coupled with the base to direct the base over the surface to be cleaned.</p>
+<p id="p-0184" num="0181">A surface cleaning apparatus according to any preceding clause, wherein the first user interface is on the handle.</p>
+<p id="p-0185" num="0182">A surface cleaning apparatus according to any preceding clause, wherein the first user interface is on the grip.</p>
+<p id="p-0186" num="0183">A surface cleaning apparatus according to any preceding clause, wherein the housing comprises a fluid delivery system including a supply container and a recovery system including a recovery container, and the cleaning head comprises a tool in fluid communication with the supply container and in fluid communication with the recovery container.</p>
+<p id="p-0187" num="0184">A surface cleaning apparatus according to any preceding clause, comprising a hose interconnecting the tool and the housing, the hose including a fluid delivery conduit in fluid communication with the supply container and an airflow conduit in fluid communication with the recovery container.</p>
+<p id="p-0188" num="0185">A surface cleaning apparatus according to any preceding clause, comprising a wand interconnecting the tool and the hose, wherein the second user interface is on one of the tool and the wand.</p>
+<p id="p-0189" num="0186">A surface cleaning apparatus according to any preceding clause, wherein the light is a headlight on an upper side of the cleaning head behind a cover defining at least one of a suction nozzle and an agitator chamber.</p>
+<p id="p-0190" num="0187">A surface cleaning apparatus according to any preceding clause, wherein the light is an edge light wrapping at least partially around the second user interface.</p>
+<p id="p-0191" num="0188">A surface cleaning apparatus according to any preceding clause, wherein the cleaning head has a front and opposing first and second sides, and the light is an edge light wrapping at least partially around the front, first side, and second side of the cleaning head.</p>
+<p id="p-0192" num="0189">The above description relates to general and specific embodiments of the disclosure. However, various alterations and changes can be made without departing from the spirit and broader aspects of the disclosure as defined in the appended claims, which are to be interpreted in accordance with the principles of patent law including the doctrine of equivalents. As such, this disclosure is presented for illustrative purposes and should not be interpreted as an exhaustive description of all embodiments of the disclosure or to limit the scope of the claims to the specific elements illustrated or described in connection with these embodiments. Any reference to elements in the singular, for example, using the articles &#x201c;a,&#x201d; &#x201c;an,&#x201d; &#x201c;the,&#x201d; or &#x201c;said,&#x201d; is not to be construed as limiting the element to the singular.</p>
+<p id="p-0193" num="0190">Likewise, it is also to be understood that the appended claims are not limited to express and particular compounds, compositions, or methods described in the detailed description, which may vary between particular embodiments that fall within the scope of the appended claims. With respect to any Markush groups relied upon herein for describing particular features or aspects of various embodiments, different, special, and/or unexpected results may be obtained from each member of the respective Markush group independent from all other Markush members. Each member of a Markush group may be relied upon individually and or in combination and provides adequate support for specific embodiments within the scope of the appended claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A surface cleaning apparatus, comprising:
+<claim-text>a cleaning head adapted to move over a surface to be cleaned;</claim-text>
+<claim-text>a housing coupled with the cleaning head;</claim-text>
+<claim-text>at least cleaning system selected from a vacuum collection system, a fluid delivery system, and a fluid recovery system;</claim-text>
+<claim-text>a first user interface on the housing, the first user interface comprising:
+<claim-text>a mode select input control to select one of a plurality of modes of operation of the surface cleaning apparatus; and</claim-text>
+<claim-text>a plurality of status indicators representing the plurality of modes of operation of the surface cleaning apparatus; and</claim-text>
+</claim-text>
+<claim-text>a second user interface on the cleaning head, the second user interface comprising a status display having a plurality of duplicate status indicators representing the plurality of modes of operation of the surface cleaning apparatus;</claim-text>
+<claim-text>wherein the first and second user interfaces are structured so that when the surface cleaning apparatus is on, a status indicator corresponding to a selected mode of operation is illuminated and visible to a user on each of the housing and the cleaning head.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second user interface is structured so that when the surface cleaning apparatus is off, the status display is blank.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the first user interface is structured so that when the surface cleaning apparatus is off, the plurality of status indicators of the first user interface are visible.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the housing comprises an upright body comprising a handle and a grip and the cleaning head comprises a base adapted to move over the surface to be cleaned, wherein the upright body is coupled with the base to direct the base over the surface to be cleaned.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the first user interface is on the grip.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the cleaning head comprises a cover defining at least one of a suction nozzle and an agitator chamber, and wherein the second user interface is disposed on an upper side of the base rearward of the cover.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the housing comprises the fluid delivery system, and the fluid delivery system includes a supply container and a recovery system including a recovery container, and the cleaning head comprises a tool in fluid communication with the supply container and in fluid communication with the recovery container.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00007">claim 7</claim-ref>, comprising:
+<claim-text>a hose interconnecting the tool and the housing, the hose including a fluid delivery conduit in fluid communication with the supply container and an airflow conduit in fluid communication with the recovery container; and</claim-text>
+<claim-text>a wand interconnecting the tool and the hose;</claim-text>
+<claim-text>wherein the second user interface is on one of the tool and the wand.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first user interface comprises at least one of:
+<claim-text>a power button to activate and de-active at least one electronic component of the surface cleaning apparatus;</claim-text>
+<claim-text>a steam button to select a steam mode in which the surface cleaning apparatus generates steam; and</claim-text>
+<claim-text>a clean-out cycle button to select a self-cleaning mode in which the surface cleaning apparatus executes an automatic, unattended clean-out cycle.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the plurality of modes of operation comprise at least one liquid dispensing mode in which the surface cleaning apparatus dispenses liquid and at least one steam mode in which the surface cleaning apparatus generates steam.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. A surface cleaning apparatus, comprising:
+<claim-text>a cleaning head adapted to move over a surface to be cleaned;</claim-text>
+<claim-text>a housing coupled with the cleaning head;</claim-text>
+<claim-text>at least cleaning system selected from a vacuum collection system, a fluid delivery system, and a fluid recovery system;</claim-text>
+<claim-text>a first user interface on the housing, the first user interface comprising a mode select input control to select one of a plurality of modes of operation of the surface cleaning apparatus; and</claim-text>
+<claim-text>a second user interface on the cleaning head, the second user interface comprising a status display having a plurality of status indicators representing the plurality of modes of operation of the surface cleaning apparatus;</claim-text>
+<claim-text>wherein the second user interface is structured so that when the surface cleaning apparatus is off, the status display is blank, and when the surface cleaning apparatus is on, a status indicator corresponding to a selected mode of operation is illuminated and visible to a user.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the cleaning head comprises a translucent portion and includes a plurality of illuminating elements positioned within the cleaning head.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the status display includes a masking layer on an outer surface of the cleaning head, etched regions extending through the masking layer defining the status indicators, and a light-transmitting layer covering at least the etched regions.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the housing comprises an upright body comprising a handle and a grip and the cleaning head comprises a base adapted to move over the surface to be cleaned, wherein the upright body is coupled with the base to direct the base over the surface to be cleaned.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the first user interface is on the grip.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the cleaning head comprises a cover defining at least one of a suction nozzle and an agitator chamber, and wherein the second user interface is disposed on an upper side of the base rearward of the cover.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the housing comprises the fluid delivery system, and the fluid delivery system includes a supply container and a recovery system including a recovery container, and the cleaning head comprises a tool in fluid communication with the supply container and in fluid communication with the recovery container.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00017">claim 17</claim-ref>, comprising:
+<claim-text>a hose interconnecting the tool and the housing, the hose including a fluid delivery conduit in fluid communication with the supply container and an airflow conduit in fluid communication with the recovery container; and</claim-text>
+<claim-text>a wand interconnecting the tool and the hose;</claim-text>
+<claim-text>wherein the second user interface is on one of the tool and the wand.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the first user interface comprises at least one of:
+<claim-text>a power button to activate and de-active at least one electronic component of the surface cleaning apparatus;</claim-text>
+<claim-text>a steam button to select a steam mode in which the surface cleaning apparatus generates steam; and</claim-text>
+<claim-text>a clean-out cycle button to select a self-cleaning mode in which the surface cleaning apparatus executes an automatic, unattended clean-out cycle.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The surface cleaning apparatus of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the plurality of modes of operation comprise at least one liquid dispensing mode in which the surface cleaning apparatus dispenses liquid and at least one steam mode in which the surface cleaning apparatus generates steam.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

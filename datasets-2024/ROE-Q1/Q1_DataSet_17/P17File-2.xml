@@ -1,0 +1,3010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225271A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225271</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17776161</doc-number>
+<date>20211015</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>CN</country>
+<doc-number>202011129653.1</doc-number>
+<date>20201021</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>1</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>6</main-group>
+<subgroup>60</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>1</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20180501</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>6</main-group>
+<subgroup>604</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">METHOD FOR BREEDING A NEW VARIETY OF TRANSGENIC HIGH-QUALITY GOSSYPIUM HIRSUTUM</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>COTTON SCIENCE RESEARCH INSTITUTE OF HUNAN</orgname>
+<address>
+<city>Hunan</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>PENG</last-name>
+<first-name>Jiafan</first-name>
+<address>
+<city>Hunan</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>ZHANG</last-name>
+<first-name>Zhigang</first-name>
+<address>
+<city>Hunan</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>LI</last-name>
+<first-name>Yujun</first-name>
+<address>
+<city>Hunan</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>WANG</last-name>
+<first-name>Yongbo</first-name>
+<address>
+<city>Hunan</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/CN2021/124094</doc-number>
+<date>20211015</date>
+</document-id>
+<us-371c12-date><date>20220511</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention discloses a method for breeding a new variety of transgenic high-quality <i>Gossypium hirsutum</i>, including breeding a parent Xiang 176 line, breeding parent Xiang 267, crossing and composite-crossing the Xiang 176 line and the Xiang 267 as parents, and obtaining the new variety of transgenic high-quality conventional <i>Gossypium hirsutum </i>in their offspring. The plant type of this variety was tower type, with good growth vigor in the seedling stage and the boll opening stage, good uniformity, dense stalk cilia, white anthers, smooth boll opening, stable agronomic traits, high yield, and excellent fiber quality.</p>
+</abstract>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a national phase application of international application number PCT/CN2021/124094 filed on Oct. 15, 2021, which claims priority to Chinese application number 202011129653.1 filed on Oct. 21, 2020. The entire contents of these applications are hereby incorporated herein by reference.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to a method for breeding a new cotton variety, specifically relates to a method for breeding a new variety of transgenic high-quality <i>Gossypium hirsutum</i>, and belongs to the technical field of cotton breeding.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Domestic high-quality cotton has always been favored by the market, and the price remains high. The reason is that high-quality cotton can achieve more efficient mechanical operation, higher-quality products, and more profit margins. Every year, almost all of China's cotton import quota is used for the import of high-quality cotton. According to statistics, the cumulative import volume of Australian cotton in China from 2011 to 2015 alone reached 3 million tons, accounting for about 20% of the total global imports. The production of domestic high-quality cotton has been hit by American cotton and Australian cotton for a long time. The situation of low production capacity, insufficient supply capacity, and weak competitiveness are still difficult to improve. The high-quality cotton that meets the standards of American cotton and Australian cotton is less than 200,000 tons. In 2018, a trade dispute occurred between China and the United States, the entry of American cotton was hindered, but China's cotton still lacked competitiveness in global trade. Due to the absence of American cotton, the supply gap of high-grade cotton rapidly emerged, the confidence in market supply lacked, the sliding-duty cotton import quota continuously increased, and the imports of Indian cotton, Brazilian cotton and the like increased. In the second half of 2018, the import volume of Indian cotton alone increased by five times, reaching 5 million bales (850,000 tons). Therefore, China urgently needs to improve the supply capacity of high-quality cotton to ensure the safe and sustainable development of China's cotton industry.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0005" num="0004">Because of the above deficiencies in the prior art, the objective of the present invention is to provide a method for breeding a new variety of transgenic high-quality <i>Gossypium hirsutum</i>, which can breed a high-quality cotton variety that has harmonious physical performance indexes such as fiber length, strength, fineness and uniformity and meets the requirements of the textile industry.</p>
+<p id="p-0006" num="0005">In order to achieve the above objective, the technical solution used in the present invention is a method for breeding a new variety of transgenic <i>Gossypium hirsutum</i>, which is characterized in that by the following steps:</p>
+<p id="p-0007" num="0000">(1) breeding of Xiang 176: crossing a medium-long-staple Acala cotton line and a disease-resistant variety Xiangmian No. 18 as parents to obtain reciprocal cross F<sub>1 </sub>combination seeds; then planting the reciprocal cross F<sub>1 </sub>combination seeds in Hainan, and performing composite crossing to obtain composite cross F<sub>1 </sub>seeds; in next 2 years, performing generation-adding planting on the composite cross F<sub>1 </sub>seeds once in Changde, Hunan in summer and in Sanya, Hainan in winter each year, for a total of 4 generations, to obtain F<sub>5 </sub>seeds; comparatively testing excellent individual plants of the F<sub>5 </sub>seeds in Changde, and screening a strain with a better combination of quality traits and yield traits, named Xiang 176;
+<br/>
+(2) breeding of Xiang 267: mixing F<sub>2 </sub>of an existing approved variety Xiangzamian No. 13 to obtain mixed F<sub>1 </sub>seeds, performing generation-adding planting on the mixed F<sub>1 </sub>seeds in Changde, Hunan in summer and in Sanya, Hainan in winter each year according to the breading goal, for a total of 5 generations, to obtain F<sub>6 </sub>seeds, and selecting a strain with high quality, high yield and low lint percent from the F<sub>6 </sub>generation, named Xiang 267; and
+<br/>
+(3) breeding: crossing Xiang 176 and Xiang 267 as parents to obtain reciprocal cross F<sub>1 </sub>seeds, then performing composite crossing on the reciprocal cross F<sub>1 </sub>seeds to obtain composite cross F<sub>1 </sub>seeds, performing generation-adding planting in Changde, Hunan in summer and Sanya, Hainan in winter each year, continuously adding generations according to the breading goal, and selecting an excellent strain from the F<sub>7 </sub>generation, that is, a target variety.
+</p>
+<p id="p-0008" num="0006">Further, in the breeding step of Xiang 176, all individual plants are selected during the generation-adding planting, based on the criteria: fiber length not less than 32 mm, and lint percent not less than 45%.</p>
+<p id="p-0009" num="0007">Studies show that there is a significant negative correlation between fiber quality and lint percent, which is a balance point in the determination of breeding material characteristics and breeding goals.</p>
+<p id="p-0010" num="0008">Further, in the breeding step of Xiang 267, all individual plants are selected during the generation-adding planting of the mixed F<sub>1 </sub>in Changde, Hunan and in Sanya, Hainan, based on the criteria: strong boll formation, fiber length not less than 30 mm, and lint percent not less than 38%.</p>
+<p id="p-0011" num="0009">Studies show that there is a significant negative correlation between fiber quality and lint percent, and a balance point between fiber quality and lint percent can be determined according to the characteristics of the line in consideration of high yield.</p>
+<p id="p-0012" num="0010">Further, in the breeding step, all individual plants are selected during the generation-adding planting, based on the criteria: high yield, fiber length not less than 31 mm, and lint percent not less than 40%.</p>
+<p id="p-0013" num="0011">The fiber quality and lint percent of a variety vary from year to year, so a lower standard is determined according to the breeding goal. The lint percent is one of the factors that have the greatest impact on the yield of a variety. If the bred variety has a relatively low lint percent, its test is disadvantageous, and it is very difficult to increase the yield of lint cotton.</p>
+<p id="p-0014" num="0012">Compared with the prior art, the present invention has the following beneficial effects:</p>
+<p id="p-0015" num="0013">Generally, the probability of gene recombination in the single cross of two materials is lower than that of backcrossing and composite crossing. In actual breeding, some excellent traits in the selected progeny may be chimeras, which cannot be stably inherited, existing excellent traits segregation. Cotton crossing belongs to cytoplasmic inheritance (the trait after the before crossing is partial to the female parent), and backcrossing breeding is relatively effective in accurately improving a certain trait. However, in the present invention, the composite crossing of the reciprocal cross F<sub>1 </sub>of the two parents fully recombines parental genes, reduces the influence of cytoplasmic inheritance, increases the probability of gene recombination, and breaks unfavorable linkage of genes, so as to select progeny materials with excellent genes of the parents according to the breeding goal. The parents Xiang 176 and Xiang X0935 are bred employing composite crossing of the reciprocal cross F<sub>1</sub>.</p>
+<p id="p-0016" num="0014">During the breeding of the parent Xiang 267, mixing F<sub>2 </sub>of Xiangzamian No. 13 also increases the probability of gene recombination, only select excellent progeny materials with excellent genes of the parents according to the breeding goal.</p>
+<p id="p-0017" num="0015">The plant type of the new variety selected by the method of the present invention is a tower type, with good growth vigor in the seedling stage and the boll opening stage, good uniformity, dense stem cilia, white anthers, smooth boll opening, stable agronomic traits, high yield, and excellent fiber quality.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE EMBODIMENTS</heading>
+<p id="p-0018" num="0016">The present invention will be further described concerning specific embodiments. The following are only preferred embodiments of the present application, and any equivalent or similar replacements without departing from the inventive concept of the present application shall fall within the protection scope of the present invention. The parts not described in detail below are all carried out concerning the prior art.</p>
+<heading id="h-0006" level="1">Embodiment 1</heading>
+<p id="p-0019" num="0017">A method for breeding a new variety of transgenic high-quality <i>Gossypium hirsutum </i>according to the present invention is specifically implemented according to the following steps:</p>
+<heading id="h-0007" level="2">Step 1. Breeding of Parent Xiang 176:</heading>
+<p id="p-0020" num="0018">In the before summer of 2008, a medium-long-staple Acala cotton line (low yield, high quality, and low lint percent of about 38%) and a disease-resistant variety Xiangmian No. 18 (high yield, poor fiber quality, and high lint percent about 43%) as parents were crossed in Changde, Hunan to obtain reciprocal cross F<sub>1 </sub>combination seeds;</p>
+<p id="p-0021" num="0019">In winter of 2008, the reciprocal cross combination F<sub>1 </sub>was planted in Sanya, Hainan, and was composite-crossed (the quantitative traits of cotton were affected by cytoplasmic inheritance, and the traits of its progeny were partial to the female parent, so the reciprocal cross combination was composite-crossed to reduce the influence of cytoplasmic inheritance on the progeny and increase the probability of excellent gene recombination), to obtain composite cross F<sub>1 </sub>seeds;</p>
+<p id="p-0022" num="0020">From 2009 to 2010, the composite cross F<sub>1 </sub>seeds were planted once a year in Changde, Hunan and Sanya, Hainan for adding generations (total 4 generations) to obtain F<sub>5 </sub>seeds;</p>
+<p id="p-0023" num="0021">In 2011, individual F<sub>5 </sub>plants were planted in Changde, Hunan. According to the field performance and the seed test results last year, one of the strains was outstanding (combination of quality traits and yield traits), named Xiang 176.</p>
+<p id="p-0024" num="0022">The Xiang 176 had an ordinary yield, and the strain had a staple length of 32.9 mm, a micronaire value of 4.6, a specific strength of 36.5 CN/Tex, a boll weight of 6.5 g, a lint percent of 40.6%, and a seed index of 10.6 g. All individual plants were selected during the generation adding period, based on the criteria: appropriate combination with high yield (high quality and high yield were negatively correlated), fiber length not less than 32 mm, lint percent not less than 40%, and key screening for disease resistance and high-temperature resistance during planting in Changde, Hunan. The breeding process was shown in Table 1.</p>
+<p id="p-0025" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Breeding process of parent Xiang 176 line</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="left"/>
+<colspec colname="3" colwidth="70pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Time (year)</entry>
+<entry>Location</entry>
+<entry>Breeding process</entry>
+<entry>Breeding method</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Spring 2008</entry>
+<entry>Changde,</entry>
+<entry>Acala cotton &#xd7;</entry>
+<entry>Cross (reciprocal)</entry>
+</row>
+<row>
+<entry/>
+<entry>Hunan</entry>
+<entry>Xiangmian No. 18</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(direct cross F<sub>1</sub>)</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Xiangmian No. 18 &#xd7;</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Acala cotton</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(back cross F<sub>1</sub>)</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>&#x2193;</entry>
+</row>
+<row>
+<entry>Winter 2008</entry>
+<entry>Sanya,</entry>
+<entry>Direct cross F<sub>1 </sub>&#xd7;</entry>
+<entry>Composite cross</entry>
+</row>
+<row>
+<entry/>
+<entry>Hainan</entry>
+<entry>back cross F<sub>1</sub></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>&#x2193;</entry>
+</row>
+<row>
+<entry>Spring 2009</entry>
+<entry>Changde,</entry>
+<entry>F<sub>1</sub></entry>
+<entry>Individual plant</entry>
+</row>
+<row>
+<entry/>
+<entry>Hunan</entry>
+<entry>&#x2193;</entry>
+<entry>selection</entry>
+</row>
+<row>
+<entry>Winter 2009</entry>
+<entry>Sanya,</entry>
+<entry>F2</entry>
+<entry>Individual plant</entry>
+</row>
+<row>
+<entry/>
+<entry>Hainan</entry>
+<entry>&#x2193;</entry>
+<entry>selection</entry>
+</row>
+<row>
+<entry>Spring 2010</entry>
+<entry>Changde,</entry>
+<entry>F3</entry>
+<entry>Individual plant</entry>
+</row>
+<row>
+<entry/>
+<entry>Hunan</entry>
+<entry>&#x2193;</entry>
+<entry>selection</entry>
+</row>
+<row>
+<entry>Winter 2010</entry>
+<entry>Sanya,</entry>
+<entry>F4</entry>
+<entry>Individual plant</entry>
+</row>
+<row>
+<entry/>
+<entry>Hainan</entry>
+<entry>&#x2193;</entry>
+<entry>selection</entry>
+</row>
+<row>
+<entry>Spring 2011</entry>
+<entry>Changde,</entry>
+<entry>F<sub>5 </sub>line (Xiang 176)</entry>
+</row>
+<row>
+<entry/>
+<entry>Hunan</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0008" level="2">Step 2. Breeding of Xiang 267:</heading>
+<p id="p-0026" num="0023">In winter of 2007, Xiangzamian No. 13 F<sub>1 </sub>(good boll formation, high quality, poor boll opening, and low lint percent) was planted in Sanya, Hainan;</p>
+<p id="p-0027" num="0024">In summer of 2008, F<sub>2 </sub>was planted in Changde, Hunan, and the population was mixed with sister lines (the method was emasculating one flower per plant in the afternoon of the first day, collecting all the removed stamens and putting them in a cool and ventilated place, and performing full mixing and pollination after the stamens lost pollen in the next morning, to increase the probability of excellent gene recombination), to obtain mixed F<sub>1 </sub>seeds;</p>
+<p id="p-0028" num="0025">From 2008 to 2010, each generation was added once a year in Changde, Hunan and Sanya, Hainan (5 generations in total) to obtain F<sub>6 </sub>individual seeds;</p>
+<p id="p-0029" num="0026">In 2011, F<sub>6 </sub>strains were comparatively tested in Changde, Hunan, and one strain was outstanding, named Xiang 267.</p>
+<p id="p-0030" num="0027">The Xiang 267 had strong boll formation, and the strain had a staple length of 30.1 mm, a micronaire value of 4.9, a specific strength of 31.3 CN/Tex, a boll weight of 5.8 g, a lint percent of 38.2%, and a seed index of 10.9 g. All individual plants were selected during the generation adding period, based on the criteria: strong boll formation, fiber length not less than 30 mm, lint percent not less than 38% per plant, and key screening for disease resistance and high temperature resistance during planting in Changde, Hunan. The breeding process was shown in Table 2.</p>
+<p id="p-0031" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Breeding process of parent Xiang 267 line</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="left"/>
+<colspec colname="3" colwidth="77pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Time</entry>
+<entry>Location</entry>
+<entry>Breeding process</entry>
+<entry>Breeding method</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Winter 2007</entry>
+<entry>Sanya,</entry>
+<entry>Xiangzamian No. 13 F<sub>1</sub></entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Hainan</entry>
+<entry>&#x2193;</entry>
+</row>
+<row>
+<entry>Spring 2008</entry>
+<entry>Changde,</entry>
+<entry>Xiangzamian No. 13 F<sub>2</sub></entry>
+<entry>Mixing</entry>
+</row>
+<row>
+<entry/>
+<entry>Hunan</entry>
+<entry>sister line mixing</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>&#x2193;</entry>
+</row>
+<row>
+<entry>Winter 2008</entry>
+<entry>Sanya,</entry>
+<entry>Mixed F<sub>1</sub></entry>
+<entry>Individual plant</entry>
+</row>
+<row>
+<entry/>
+<entry>Hainan</entry>
+<entry>&#x2193;</entry>
+<entry>selection</entry>
+</row>
+<row>
+<entry>Spring 2009</entry>
+<entry>Changde,</entry>
+<entry>F2</entry>
+<entry>Individual plant</entry>
+</row>
+<row>
+<entry/>
+<entry>Hunan</entry>
+<entry>&#x2193;</entry>
+<entry>selection</entry>
+</row>
+<row>
+<entry>Winter 2009</entry>
+<entry>Sanya,</entry>
+<entry>F<sub>3</sub></entry>
+<entry>Individual plant</entry>
+</row>
+<row>
+<entry/>
+<entry>Hainan</entry>
+<entry>&#x2193;</entry>
+<entry>selection</entry>
+</row>
+<row>
+<entry>Spring 2010</entry>
+<entry>Changde,</entry>
+<entry>F<sub>4</sub></entry>
+<entry>Individual plant</entry>
+</row>
+<row>
+<entry/>
+<entry>Hunan</entry>
+<entry>&#x2193;</entry>
+<entry>selection</entry>
+</row>
+<row>
+<entry>Winter 2010</entry>
+<entry>Sanya,</entry>
+<entry>F<sub>5</sub></entry>
+<entry>Individual plant</entry>
+</row>
+<row>
+<entry/>
+<entry>Hainan</entry>
+<entry>&#x2193;</entry>
+<entry>selection</entry>
+</row>
+<row>
+<entry>Spring 2011</entry>
+<entry>Changde,</entry>
+<entry>F<sub>6 </sub>(Xiang 267)</entry>
+</row>
+<row>
+<entry/>
+<entry>Hunan</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0009" level="2">Step 3. Breeding:</heading>
+<p id="p-0032" num="0028">In the before summer of 2011, the two-parent materials mutually acted as parents to prepare a reciprocal cross combination in Changde, Hunan, according to the material characteristics of Xiang 176 and Xiang 267 lines, combined with the breeding goal;</p>
+<p id="p-0033" num="0029">In winter of 2011, the reciprocal cross combination F<sub>1 </sub>was planted in Sanya, Hainan, and was crossed (the quantitative traits of cotton were affected by cytoplasmic inheritance, and the traits of its progeny were partial to the female parent, so the reciprocal cross combination was composite-crossed to reduce the influence of cytoplasmic inheritance on the progeny and increase the probability of excellent gene recombination), to obtain composite cross F<sub>1 </sub>seeds;</p>
+<p id="p-0034" num="0030">From 2012 to the before spring of 2014, a generation was added in Changde, Hunan and Sanya, Hainan every year (5 generations in total, individual plants were selected based on the criteria: high yield, fiber length not less than 31 mm, lint percent not less than 40%, and key screening for disease resistance and high-temperature resistance during planting in Changde, Hunan), to obtain F<sub>6 </sub>seeds;</p>
+<p id="p-0035" num="0031">In winter of 2014, F<sub>6 </sub>strains were comparatively tested in Sanya, Hainan, to obtain 11 excellent F<sub>7 </sub>strains;</p>
+<p id="p-0036" num="0032">In 2015, the 11 excellent F<sub>7 </sub>strains were comparatively tested three times in Changde, Hunan, and the final strain was named Xiang X0935.</p>
+<p id="p-0037" num="0033">The Xiang X0935 had a high yield and excellent fiber quality. The seed test results in 2015 were: staple length 31.5 mm, micronaire value 4.7, specific strength 35.4 CN/Tex, boll weight 6.3 g, lint percent 40.1%, and seed index 10.8 g.</p>
+<p id="p-0038" num="0034">The new variety Xiang X0935 of transgenic high-quality conventional <i>Gossypium hirsutum </i>bred by the present invention had the characteristics of tower type, good growth vigor in the seedling stage and the boll opening stage, good uniformity, dense stem cilia, white anthers, smooth boll opening, stable agronomic traits, high yield, and excellent fiber quality.</p>
+<p id="p-0039" num="0035">The beneficial effects of the present invention will be described below in conjunction with experimental data:</p>
+<p id="p-0040" num="0036">The new variety Xiang X0935 of the present invention participated in the regional test of ordinary cotton varieties in Hunan in 2019, and the experimental process was as follows:</p>
+<heading id="h-0010" level="2">(1) Tested Varieties</heading>
+<p id="p-0041" num="0037">A total of 6 cotton QA groups participated in the test, including 5 groups of hybrid cotton and 1 group of conventional cotton. Xiangzamian No. 7 was a control.</p>
+<heading id="h-0011" level="2">(2) Test Unit</heading>
+<p id="p-0042" num="0038">A total of 5 test units: Yueyang City Junshan District Agricultural Science Research Institute, Li County Agricultural and Rural Bureau, Yiyang City Datonghu District Agricultural Technology Promotion Center, Hunnan Cotton Science Institute, and Nanxian Cotton Original Seed Farm.</p>
+<p id="p-0043" num="0039">The Nanxian Cotton Original Seed Farm failed in the test due to the weather, and its data was not included in the summary.</p>
+<p id="p-0044" num="0040">All other pilots completed the test according to the experimental plan, the plant shortage rate in the plots did not exceed 15%, the coefficient of variation of the pilot error did not exceed 15%, and the data were all included in the summary.</p>
+<heading id="h-0012" level="2">(3) Weather Conditions</heading>
+<p id="p-0045" num="0041">The continuous overcast and rainy low-temperature weather after sowing had a certain impact on the emergence and growth of cotton seedlings. The emergence speed and uniformity were worse than in previous years. After transplanting, the temperature was slightly lower than in previous years, the light was reduced, the precipitation was more than in previous years, and the growth of cotton seedlings was worse than in previous years. The heavy rain in July had a certain impact on the budding and flowering of cotton. The temperature in August was lower than in previous years, the precipitation was higher than in previous years, and the growth of cotton was normal. In September, the temperature fluctuated greatly, the long-term overcast or rainy and scant lighting and drastic temperature changes caused serious shedding of cotton bolls, more rotten bolls and more dead cotton, and the quality of cotton was worse than in previous years. In October, the temperature tended to be normal, cotton grew well and bolls opened well.</p>
+<heading id="h-0013" level="2">(4) Quality and Stability Analysis</heading>
+<p id="p-0046" num="0042">Quality: tested by the Cotton Quality Supervision, Inspection, and Testing Center of the Ministry of Agriculture. The test basis was GB/T20392-2006 HVI Cotton Fiber Physical Properties Test Method. Stability: the suitable planting environments of the tested varieties were evaluated with a regression coefficient this year. The analysis results of yield and stability of each variety were as follows.</p>
+<heading id="h-0014" level="2">(5) Yield and Stability Analysis</heading>
+<p id="p-0047" num="0043">The lint yields per mu of the tested varieties were 105.3 to 116.3 kg, and the lint yield per mu of the control (CK, fiber quality type II) was 105.3 kg. After statistical analysis, MHQA3, MHQA2, MHQA4, MHQA1, and MHQA6 increased the yield significantly compared with the control, and no variety decreased the yield significantly compared with the control.</p>
+<heading id="h-0015" level="2">(6) Brief Introduction to the Growth Period</heading>
+<p id="p-0048" num="0044">The average growth period of the tested varieties was 119.8 to 121.8 days, and the growth period of the control (CK) was 121 days.</p>
+<heading id="h-0016" level="2">2. Brief Review of the Combination</heading>
+<heading id="h-0017" level="2">1. MHQA1: Xiang X0935, Transgenic Conventional Cotton, Continued Trial Combination, Provided by Hunan Cotton Science Institute.</heading>
+<p id="p-0049" num="0045">The results of the 2019 provincial test: the average growth period was 125.4 days, 3.0 days longer than the control. The lint yield per mu was 117.63 kg, an increase of 0.7 compared with the control, ranking second among the tested varieties, and the increase in yield was not significant. Two out of five pilots increased the yield. The plant height was 124.9 cm, the first fruiting site was 6.3 cm, the number of fruiting branches per plant was 18.8, the number of bolls formed per plant was 47.1, the number of bolls opened per plant was 42.9, the weight of the seed cotton per boll was 6.0 g, the rate of dead cotton was 0.9%, and the flowering rate before frosting was 99.0%. The lint percent was 41.2%, the seed index was 11.8 g, and the lint index was 7.9 g. The average length of the upper half was 32.1 mm, the uniformity index was 86.6%, the breaking strength was 39.0 CN/tex, the micronaire value was 4.7, the reflectance was 80.6%, the yellowness was 7.6, and the spinning uniformity index was 185.4. After identification, the relative disease index (IR) of fusarium wilt was 14.0, the average resistance grade of fusarium wilt was Disease Tolerance; the relative disease index (IR) of verticillium wilt was 21.9, the average resistance grade of verticillium wilt was Disease Tolerance.</p>
+<p id="p-0050" num="0046">The plant type of this variety was tower type, with good growth vigor in the seedling stage and the boll opening stage, good uniformity, dense stalk cilia, white anthers, and smooth boll opening. Fiber quality was type II, and the variety had a high lint yield.</p>
+<p id="p-0051" num="0047">The results of the 2020 provincial test: the average growth period was 121.5 days, 0.5 days longer than the control. The lint yield per mu was 110 kg, 4.4% higher than that of the control, ranking fourth among the tested varieties, and the yield increase was extremely significant. Three out of four pilots increased the yield. The plant height was 125.8 cm, the first fruiting site was 6.4 cm, the number of fruit branches per plant was 19.1, the number of bolls formed per plant was 47.5, the number of bolls opened per plant was 44.4, the weight of seed cotton per boll was 6.5 g, the rate of dead cotton was 6.7%, and the flowering rate before frosting was 97%. The lint percent was 41.2%, the seed index was 11.8 g, and the lint index was 7.8 g. The average length of the upper half was 31.9 mm, the uniformity index was 85.7%, the breaking strength was 35.2 CN/tex, the micronaire value was 4.2, the elongation was 5.7%, the reflectance was 80.9%, the yellowness was 7, and the spinning uniformity index was 173.3. The average resistance grade of verticillium wilt was Disease Tolerance, relative index (IR) of verticillium wilt was 24.4; average resistance grade of fusarium wilt was Disease Tolerance, relative index (IR) of fusarium wilt was 11.1.</p>
+<p id="p-0052" num="0048">The plant type of this variety was tower type, with strong growth vigor in the seedling stage and the boll opening stage, good uniformity, dense stalk cilia, white anthers, and smooth boll opening. Fiber quality was type I. The regional test was completed.</p>
+<p id="p-0053" num="0049">The average results of the two-year regional test: the growth period was 123.5 days, 1.6 days longer than the control. The lint yield per mu was 113.7 kg, 2.5% higher than that of the control. The plant height was 125.4 cm, the number of fruit branches per plant was 19.0, the number of bolls formed per plant was 43.6, the weight of seed cotton per boll was 6.2 g, the flowering rate before frosting was 98.0%, the lint percent was 41.2%, the seed index was 11.8 g, and the lint index was 7.8 g. The average length of the upper half was 32.0 mm, the specific strength was 37.1 CN/tex, the micronaire value was 4.5, the uniformity index was 86.2%, the spinning uniformity index was 179.4, and the cotton type was type II. The relative disease index (IR) of fusarium wilt was 12.6, the average resistance grade of fusarium wilt was Disease Tolerance; the relative disease index (IR) of verticillium wilt was 23.2, the average resistance grade of verticillium wilt was Disease Tolerance.</p>
+<heading id="h-0018" level="2">2. MHQA2: Nannong 995, Continued Test Combination, Provided by Nanjing Agricultural University.</heading>
+<p id="p-0054" num="0050">The results of 2019 provincial test: the average growth period was 124.8 days, 2.4 days longer than the control. The lint yield per mu was 112.34 kg, 3.84% lower than that of the control, ranking fifth among the tested varieties, and the yield decrease was not significant. The plant height was 128.26 cm, the first fruiting site was 6.2 cm, the number of fruiting branches per plant was 18.28, the number of bolls formed per plant was 43.76, the number of bolls opened per plant was 39.86, the weight of seed cotton per boll was 6.24 g, the rate of dead cotton was 0.9%, and the flower rate before frosting was 98.88%. The lint percent was 41.36%, the seed index was 10.86 g, and the lint index was 7.28 g. The average length of the upper half was 28.3 mm, the uniformity index was 84.3%, the breaking strength was 29.7 CN/tex, the micronaire value was 5.1, the reflectance was 79.9%, the yellowness was 8.0, and the spinning uniformity index was 134.6. After identification, the relative disease index (IR) of fusarium wilt was 17.3, the average resistance grade of fusarium wilt was Disease Tolerance; the relative disease index (IR) of verticillium wilt was 22.9, the average resistance grade of verticillium wilt was Disease Tolerance.</p>
+<p id="p-0055" num="0051">The plant type of this variety was tower type, with good growth vigor in the seedling stage and the boll opening stage, good uniformity, dense stalk cilia, white anthers, and smooth boll opening. Fiber quality was type II, and the variety had a high lint yield.</p>
+<p id="p-0056" num="0052">The results of 2020 provincial test: the average growth period was 121.8 days, 0.8 days longer than the control. The lint yield per mu was 112 kg, 6.3% higher than that of the control, ranking second among the tested varieties, and the yield increase was extremely significant.</p>
+<p id="p-0057" num="0053">All of the four pilots increased the yield. The plant height was 127.2 cm, the first fruiting site was 6.4 cm, the number of fruit branches per plant was 18.8, the number of bolls formed per plant was 48, the number of bolls opened per plant was 43.6, the weight of seed cotton per boll was 6.4 g, the rate of dead cotton was 7.2%, and the flower rate before frosting was 96.7%. The lint percent was 42%, the seed index was 11.4 g, and the lint index was 7.9 g. The average length of the upper half was 28.2 mm, the uniformity index was 83.0%, the breaking strength was 28.5 CN/tex, the micronaire value was 4.8, the elongation was 5.5%, the reflectance was 78.4%, the yellowness was 8.3, and the spinning uniformity index was 126.5. Average resistance grade of verticillium wilt was Disease Resistance, relative index (IR) of verticillium wilt was 17.0; the average resistance grade of fusarium wilt was Disease Tolerance, relative index (IR) of fusarium wilt was 18.4.</p>
+<p id="p-0058" num="0054">The plant type of this variety was tower type, with strong growth vigor in the seedling stage and the boll opening stage, good uniformity, dense stalk cilia, white anthers, and smooth boll opening. Fiber quality was type III. The regional test was completed.</p>
+<p id="p-0059" num="0055">The average results of two-year regional test: the growth period was 123.3 days, 1.6 days longer than the control. The lint yield per mu was 112.2 kg, 5.1% higher than that of the control. The plant height was 127.7 cm, the number of fruit branches per plant was 18.5, the number of bolls formed per plant was 41.7, the weight of seed cotton per boll was 6.3 g, the flower rate before frosting was 97.8%, the lint percent was 41.7%, the seed index was 11.1 g, and the lint index was 7.6 g. The average length of the upper half was 28.2 mm, the specific strength was 29.1 CN/tex, the micronaire value was 4.9, the uniformity index was 83.6%, the spinning uniformity index was 130.6, and the cotton type was type III. The relative disease index (IR) of fusarium wilt was 17.9, the average resistance grade of fusarium wilt was Disease Tolerance; the relative disease index (IR) of verticillium wilt was 20.0, the average resistance grade of verticillium wilt was Disease Tolerance.</p>
+<heading id="h-0019" level="2">3. MHQA3: Xiang Cotton 34, First Test Combination, Provided by Hunan Cotton Research Institute.</heading>
+<p id="p-0060" num="0056">The results of 2020 provincial test: the average growth period was 119.8 days, 1.2 days shorter than the control. The lint yield per mu was 116.3 kg, 10.4% higher than that of the control, ranking first among the tested varieties, and the yield increase was extremely significant. All of the four pilots increased the yield. The plant height was 127.5 cm, the first fruiting site was 6.4 cm, the number of fruit branches per plant was 19.4, the number of bolls formed per plant was 48.5, the number of bolls opened per plant was 43.9, the weight of seed cotton per boll was 6.1 g, the rate of dead cotton was 7.4%, and the flower rate before frosting was 96.7%. The lint percent was 43.6%, the seed index was 10.3 g, and the lint index was 7.8 g. The average length of the upper half was 29.5 mm, the uniformity index was 84.9%, the breaking strength was 30.8 CN/tex, the micronaire value was 4.8, the elongation was 5.4%, the reflectance was 79.8%, the yellowness was 8, and the spinning uniformity index was 145.8. Average resistance grade of verticillium wilt was Disease Tolerance, relative index (IR) of verticillium wilt was 34.8; average resistance grade of fusarium wilt was Disease Tolerance, relative index (IR) of fusarium wilt was 12.9.</p>
+<p id="p-0061" num="0057">The plant type of this variety was tower type, with strong growth vigor in the seedling stage and the boll opening stage, good uniformity, dense stalk cilia, white anthers, and smooth boll opening. Fiber quality was type II. The test of the variety was continued and the variety was performed production test.</p>
+<heading id="h-0020" level="2">4. MHQA4: Xiang Cotton 32, First Test Combination, Provided by Hunan Cotton Research Institute.</heading>
+<p id="p-0062" num="0058">The results of 2020 provincial test: the average growth period was 120 days, 1 day shorter than the control. The lint yield per mu was 111.3 kg, 5.7% higher than that of the control, ranking third among the tested varieties, and the yield increase was extremely significant. All of the four pilots increased the yield. The plant height was 127.5 cm, the first fruiting site was 6.6 cm, the number of fruit branches per plant was 19.6, the number of bolls formed per plant was 49, the number of bolls opened per plant was 45.4, the weight of seed cotton per boll was 5.8 g, the rate of dead cotton was 7.2%, and the flower rate before frosting was 96.9%. The lint percent was 41.4%, the seed index was 10.5 g, and the lint index was 7.1 g. The average length of the upper half was 28.9 mm, the uniformity index was 84.7%, the breaking strength was 32.3 CN/tex, the micronaire value was 4.6, the elongation was 6.8%, the reflectance was 78.1%, the yellowness was 8, and the spinning uniformity index was 149.3. The average resistance grade of verticillium wilt was Disease Resistant, relative index (IR) of verticillium wilt was 19.4; average resistance grade of fusarium wilt was disease susceptible, relative index (IR) of fusarium wilt was 28.6.</p>
+<p id="p-0063" num="0059">The plant type of this variety was tower type, with strong growth vigor in the seedling stage and the boll opening stage, good uniformity, dense stalk cilia, white anthers, and smooth boll opening. Fiber quality was type II. The test was stopped.</p>
+<heading id="h-0021" level="2">5. MHQA6: Xiang Q190, First Test Combination, Provided by Hunan Cotton Research Institute.</heading>
+<p id="p-0064" num="0060">The results of 2020 provincial test: the average growth period was 120.2 days, 0.8 days shorter than the control. The lint yield per mu was 108.7 kg, 3.2% higher than that of the control, ranking fifth among the tested varieties, and the yield increase was extremely significant. All of the four pilots increased the yield. The plant height was 128.3 cm, the first fruiting site was 6.4 cm, the number of fruit branches per plant was 19, the number of bolls formed per plant was 47.4, the number of bolls opened per plant was 42.8, the weight of seed cotton per boll was 6.2 g, the rate of dead cotton was 7.3%, and the flower rate before frosting was 96.6%. The lint percent was 41.2%, the seed index was 11.6 g, and the lint index was 7.4 g. The average length of the upper half was 29.5 mm, the uniformity index was 84.4%, the breaking strength was 31.1 CN/tex, the micronaire value was 4.3, the elongation was 6%, the reflectance was 79.2%, the yellowness was 8, and the spinning uniformity index was 149. Average resistance grade of verticillium wilt was disease tolerance, the relative index (IR) of verticillium wilt was 30.9; average resistance grade of fusarium wilt was Disease Tolerance, relative index (IR) of fusarium wilt was 10.4.</p>
+<p id="p-0065" num="0061">The plant type of this variety was tower type, with strong growth vigor in the seedling stage and the boll opening stage, good uniformity, dense stalk cilia, white anthers, and smooth boll opening. Fiber quality was type II. The test of the variety was continued and the variety was performed production test.</p>
+<p id="p-0066" num="0062">The Hunan regional test showed that Xiang X0935 was conventional cotton, the control variety was hybrid cotton, and Xiang X0935 had an obvious advantage in increasing seed cotton yield and also increased the lint yield by 2.5% (national variety certification standard: the yield of conventional cotton was 5% lower than that of hybrid cotton of the same type). The fiber quality was excellent, the fiber length and strength reached the national variety certification type I standard, and the micronaire value reached the national variety certification type II standard. Under the high temperature climate in Hunan, the fiber maturity was too high, and the micronaire value performed well. In the past 10 years, there has been no medium-maturing variety approved with a micronaire value lower than 5.0 in Hunan.</p>
+<p id="p-0067" num="0063">The new variety Xiang X0935 of the present invention was tested in the regional test of medium-maturing cotton varieties in Jiangsu Province in 2020, and the experimental process was as follows:</p>
+<heading id="h-0022" level="2">1. Test Objective</heading>
+<p id="p-0068" num="0064">By the principles of fairness, impartiality, science and efficiency, the differences between new varieties (lines) of cotton and controls in yield, stress resistance, adaptability, fiber quality, and comprehensive performance in cotton regions of Jiangsu Province were identified through multi-environmental experiments, to objectively evaluate the characteristics and production and utilization value of the tested varieties, to provide a scientific basis for the approval and promotion of cotton varieties in Jiangsu Province.</p>
+<heading id="h-0023" level="2">2. Test Materials</heading>
+<p id="p-0069" num="0065">A total of 13 mid-maturing cotton varieties participated in the regional test, numbered A1 to A13, of which A3 and A13 were control varieties Siza No. 3 and Sikang No. 1 respectively. Yan G1601 and Zhongmiansuo 9702 were mid-maturing hybrid cotton varieties, with Siza No. 3 as the control; Huimian No. 1, Nannong 997, Xiang FZ031, Qingmian No. 1, Yanmian 118, Xiang X0935, Zhong MBC31123, Sumian 5042 and Xumian 399 were mid-maturing conventional cotton varieties, with Sikang No. 1 as the control. The conventional cotton varieties Xiang FZ031 and Qingmian No. 1 were tested in the second year, and the remaining varieties were tested in the first year. See Table 3 for names and types of tested varieties, test year and breeding units.</p>
+<p id="p-0070" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="301pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Sources and types of mid-maturing cotton varieties tested in Jiangsu Province in 2020</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="21pt" align="left"/>
+<colspec colname="2" colwidth="56pt" align="left"/>
+<colspec colname="3" colwidth="49pt" align="left"/>
+<colspec colname="4" colwidth="42pt" align="left"/>
+<colspec colname="5" colwidth="133pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Regional</entry>
+<entry/>
+</row>
+<row>
+<entry>No.</entry>
+<entry>Variety name</entry>
+<entry>Variety type</entry>
+<entry>test year</entry>
+<entry>Breeding (declaration) unit</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>A1</entry>
+<entry>Yan G1601</entry>
+<entry>Mid-maturing</entry>
+<entry>First year</entry>
+<entry>Jiangsu Coastal Area Agricultural</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>hybrid</entry>
+<entry/>
+<entry>Research Institute</entry>
+</row>
+<row>
+<entry>A2</entry>
+<entry>Zhongmiansuo</entry>
+<entry>Mid-maturing</entry>
+<entry>First year</entry>
+<entry>Cotton Research Institute of Chinese</entry>
+</row>
+<row>
+<entry/>
+<entry>9702</entry>
+<entry>hybrid</entry>
+<entry/>
+<entry>Academy of Agricultural Sciences</entry>
+</row>
+<row>
+<entry>A3</entry>
+<entry>Siza No. 3 (CK)</entry>
+<entry>Mid-maturing</entry>
+<entry>Control</entry>
+<entry>Siyang Cotton Original Farm</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>hybrid</entry>
+</row>
+<row>
+<entry>A4</entry>
+<entry>Huimian No. 1</entry>
+<entry>Mid-maturing</entry>
+<entry>First year</entry>
+<entry>Cotton Research Institute of Anhui Academy</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>conventional</entry>
+<entry/>
+<entry>of Agricultural Sciences</entry>
+</row>
+<row>
+<entry>A5</entry>
+<entry>Nannong 997</entry>
+<entry>Mid-maturing</entry>
+<entry>First year</entry>
+<entry>Nanjing Agricultural University</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>conventional</entry>
+</row>
+<row>
+<entry>A6</entry>
+<entry>Xiang FZ031</entry>
+<entry>Mid-maturing</entry>
+<entry>Second year</entry>
+<entry>Hunan Cotton Research Institute, Jiangsu</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>conventional</entry>
+<entry/>
+<entry>Coastal Area Agricultural Research Institute</entry>
+</row>
+<row>
+<entry>A7</entry>
+<entry>Qingmian No. 1</entry>
+<entry>Mid-maturing</entry>
+<entry>Second year</entry>
+<entry>Cotton Research Institute of Anhui Academy</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>conventional</entry>
+<entry/>
+<entry>of Agricultural Sciences, Jiangsu Coastal</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Area Agricultural Research Institute</entry>
+</row>
+<row>
+<entry>AS</entry>
+<entry>Yanmian 118</entry>
+<entry>Mid-maturing</entry>
+<entry>First year</entry>
+<entry>Jiangsu Coastal Area Agricultural Research</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>conventional</entry>
+<entry/>
+<entry>Institute, Cotton Research Institute of Anhui</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Academy of Agricultural Sciences, Cotton</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Research Institute of Chinese Academy of</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Agricultural Sciences</entry>
+</row>
+<row>
+<entry>A9</entry>
+<entry>Xiang X0935</entry>
+<entry>Mid-maturing</entry>
+<entry>First year</entry>
+<entry>Hunan Cotton Research Institute</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>conventional</entry>
+</row>
+<row>
+<entry>A10</entry>
+<entry>Zhong</entry>
+<entry>Mid-maturing</entry>
+<entry>First year</entry>
+<entry>Cotton Research Institute of Chinese</entry>
+</row>
+<row>
+<entry/>
+<entry>MBC31123</entry>
+<entry>conventional</entry>
+<entry/>
+<entry>Academy of Agricultural Sciences</entry>
+</row>
+<row>
+<entry>A11</entry>
+<entry>Sumian 5042</entry>
+<entry>Mid-maturing</entry>
+<entry>First year</entry>
+<entry>Economic Crops Research Institute of</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>conventional</entry>
+<entry/>
+<entry>Jiangsu Academy of Agricultural Sciences</entry>
+</row>
+<row>
+<entry>A12</entry>
+<entry>Xumian 399</entry>
+<entry>Mid-maturing</entry>
+<entry>First year</entry>
+<entry>Xuzhou Institute of Agricultural Sciences,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>conventional</entry>
+<entry/>
+<entry>Xuhuai District, Jiangsu</entry>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No. 1</entry>
+<entry>Mid-maturing</entry>
+<entry>Control</entry>
+<entry>Siyang Cotton Original Farm</entry>
+</row>
+<row>
+<entry/>
+<entry>(CK)</entry>
+<entry>conventional</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0024" level="2">3. Overview of Test</heading>
+<p id="p-0071" num="0066">In 2020, the field trials of group A were deployed in 9 sites across the province: Jiangsu Coastal Area Agricultural Science Institute (Yancheng), Yancheng Xinyang Agricultural Experiment Station (Xinyang), Jiangsu Golden Agriculture Co., Ltd. (Dafeng), Dongtai Municipal Institute of Agricultural Sciences (Dongtai), Lithe Longpao Cotton Experiment Station (Lithe), Yanjiang Institute of Agricultural Sciences (Nantong), Xinghua Yinhua Cotton Industry Co., Ltd. (Xinghua), Xuzhou Institute of Agricultural Sciences (Xuzhou), and Dongxin Farm Agricultural Research Institute (Dongxin). Nantong site was removed due to floods, while Dafeng and Xinghua sites increased the yield of conventional cotton varieties by more than 30% and did not participate in the summary; the remaining pilot sites were arranged in random blocks, repeated 3 times, the plot area was about 20 m<sup>2</sup>, the plant and row spacing were configured to be reasonable, the plant shortage rate in the plots did not exceed 10%, the coefficient of variation of the pilot error did not exceed 10%, other conditions also met the requirements of the experimental plan, and all participated in the summary.</p>
+<p id="p-0072" num="0067">The tested varieties were entrusted to the Plant Protection Institute of Jiangsu Academy of Agricultural Sciences for cotton bollworm resistance identification and Verticillium wilt resistance inoculation identification, the Xuzhou Institute of Agricultural Sciences for field natural inoculation identification on Verticillium wilt resistance, the Cotton Quality Supervision and Testing Center of the Ministry of Agriculture for fiber quality test, the Institute of Biotechnology of the Chinese Academy of Agricultural Sciences for Bt insect-resistant protein test, and the Economic Crops Institute of Jiangsu Academy of Agricultural Sciences and the Dafeng Rice and Wheat Original Breeding Farm for salt-tolerance identification on conventional varieties.</p>
+<heading id="h-0025" level="2">4. Climate Characteristics and Cultivation Management During Cotton Growth and Development Period</heading>
+<heading id="h-0026" level="2">(1) Climate Characteristics</heading>
+<p id="p-0073" num="0068">The climate in the seedling stage of most of the pilots was good, which was favorable for the emergence and growth of cotton seedlings. The late seedling stage entered the plum rain period, the rainy season was relatively long and the rainfall was relatively large, which were extremely unfavorable for the growth and early development of cotton seedlings. From the end of the plum rain period in the late budding and bolling stage to the boll opening stage, the weather was fine, and the light and temperature conditions were suitable, which were favorable for the opening and harvesting of cotton bolls.</p>
+<p id="p-0074" num="0069">Seedling stage: after sowing, the weather in most of the pilots was fine and the temperature was relatively high, which was favorable for seedling emergence; the cotton seedlings were tidy and grew well; Dongxin had more rainfall and insufficient light, which was unfavorable for the emergence and growth of cotton seedlings; the Xuzhou pilot was relatively arid, which was unfavorable for the growth of cotton seedlings; the Dafeng and Nantong pilots had a dry climate in early June, so cotton grew slowly; the Lithe and Yancheng pilots entered the plum rain season in the middle of June, and the overcast and rainy weather continued, which were unfavorable for the growth of cotton.</p>
+<p id="p-0075" num="0070">Budding and bolling stage: most of the pilots had a relatively long plum rain period and relatively large rainfall this year, and the continuous overcast and rainy weather in the early budding and boiling stage was extremely unfavorable for the growth and development of cotton; after the plum rain period, the fine weather, high temperature and sufficient light were favorable for the growth, flowering and boiling of cotton.</p>
+<p id="p-0076" num="0071">Boll opening stage: in the boll opening stage, each pilot had suitable light and temperature conditions and a little rainfall, which was favorable for boll formation, boll opening and harvesting of cotton; the Xinyang pilot had more overcast and rainy weather in the early boll opening stage, which was unfavorable for the opening of cotton bolls, and there were more rotten bolls at the lower part; the Xinghua pilot had a lot of rain in late November, which was unfavorable for boll opening and picking in late autumn.</p>
+<heading id="h-0027" level="2">(2) Cultivation Management</heading>
+<p id="p-0077" num="0072">The predecessors of the experimental plots were mainly idle fields in winter, the preceding cropin Xinghua was strawberry, the preceding crop in Dafeng was barley green manure, and the predecessors in other pilots were idle fields in winter. The soil types were mainly loam and clay, with 3 pilots for sandy loam and clay, 1 for tidal saline soil, and 1 for mixed soil. 5 pilots adopted seedling transplantation, and 3 pilots adopted direct sowing with mulching films. The sowing period varied from April 8 to April 27, where early April in the Yancheng pilot, late April in Dongxin pilot, and mid-April was in other pilots. The transplantation period varied from May 6 to May 28, where May 6 in Lithe pilot, May 28 in Xinghua, and mid-May in other pilots.</p>
+<p id="p-0078" num="0073">According to the fertility of the experimental plots and the growth vigor and appearance of cotton, different quantities of organic fertilizers and chemical fertilizers were applied to the pilots during basal application and dressing. The nitrogen fertilizer mainly included urea, the phosphate fertilizer mainly included superphosphate and diammonium phosphate, and the potash fertilizer mainly included potassium chloride, potassium sulfate, and a ternary compound fertilizer of nitrogen, phosphorus and potassium. The organic fertilizers were mainly organic and inorganic compound fertilizers. Chemical control of pests and diseases was performed on average 11 times, and the main pests were: <i>lygus </i>bug, cotton bollworm, red spider, aphids, <i>Spodoptera litura</i>, etc. In each pilot, the average cultivating and weeding were performed 3.4 times, pruning was performed 3 times, chemical adjustment was performed 3.8 times, and the topping stage was from August 1 to August 15.</p>
+<heading id="h-0028" level="2">5. Test Results</heading>
+<p id="p-0079" num="0074">A &#x201c;crop regional test management system&#x201d; was used for variance analysis and multiple comparisons on lint yield data of various varieties in the test.</p>
+<heading id="h-0029" level="2">(1) Yielding Ability</heading>
+<heading id="h-0030" level="2">1. Yield Level</heading>
+<p id="p-0080" num="0075">The yielding abilities of the tested varieties in 2020 were as follows (Table 4): (1) among the hybrid cotton varieties, the yields of unginned cotton and ginned cotton of Yan G1601 increased by 12.4% and 14.9% respectively compared with the control variety Siza No. 3; and the yields of unginned cotton and ginned cotton of Zhongmiansuo 9702 decreased by 1.7% and 5.6% respectively compared with the control variety Siza No. 3. (2) Among the conventional cotton varieties, the yield of unginned cotton of Xiang X0935 increased by more than 10% compared with the control Sikang No. 1; the yields of unginned cotton of Sumian 5042, Xiang FZ031, Huimian No. 1, Qingmian No. 1, Xumian 399 and Nannong 997 increased by more than 5% compared with the control; the yield of Yanmian 118 increased by more than 3.0%; and the yield of unginned cotton of Zhong MBC31123 decreased by 0.9% compared with the control Sikang No. 1. The yield of ginned cotton of Xiang X0935 increased by more than 10% compared with the control Sikang No. 1; the yields of ginned cotton of Sumian 5042, Huimian No. 1, Qingmian No. 1, Xumian 399 and Xiang FZ031 increased by more than 5% compared with the control; the yield of Yanmian 118 increased by more than 3.0%, and the yield of ginned cotton of Zhong MBC31123 decreased by 6.2% compared with the control Sikang No. 1.</p>
+<p id="p-0081" num="0076">The average yields of the tested varieties from 2019 to 2020 were as follows (Table 4): the yields of unginned cotton and ginned cotton of Xiang FZ031 increased by 6.6% and 2.7% respectively compared with the control Sikang No. 1; and the yields of unginned cotton and ginned cotton of Qingmian No. 1 increased by 6.3% and 7.9% respectively compared with the control Sikang No. 1.</p>
+<p id="p-0082" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="287pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Summary of regional test yields of medium-maturing cotton varieties in Jiangsu</entry>
+</row>
+<row>
+<entry>Province in 2020</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="28pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<colspec colname="10" colwidth="28pt" align="center"/>
+<colspec colname="11" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Flower</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>rate</entry>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="70pt" align="center"/>
+<colspec colname="5" colwidth="70pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Yield of unginned </entry>
+<entry>Yield of ginned</entry>
+<entry>before</entry>
+<entry>Lint</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>cotton</entry>
+<entry>cotton</entry>
+<entry>frosting</entry>
+<entry>percent</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="28pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<colspec colname="10" colwidth="28pt" align="center"/>
+<colspec colname="11" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>No.</entry>
+<entry>Variety name</entry>
+<entry>Year</entry>
+<entry>kg/mu</entry>
+<entry>ck %</entry>
+<entry>rank</entry>
+<entry>kg/mu</entry>
+<entry>ck %</entry>
+<entry>Rank</entry>
+<entry>(%)</entry>
+<entry>(%)</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="21pt" align="char" char="."/>
+<colspec colname="6" colwidth="21pt" align="char" char="."/>
+<colspec colname="7" colwidth="28pt" align="char" char="."/>
+<colspec colname="8" colwidth="21pt" align="char" char="."/>
+<colspec colname="9" colwidth="21pt" align="char" char="."/>
+<colspec colname="10" colwidth="28pt" align="char" char="."/>
+<colspec colname="11" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>A01</entry>
+<entry>Yan G1601</entry>
+<entry>2020</entry>
+<entry>290.9</entry>
+<entry>112.4</entry>
+<entry>1</entry>
+<entry>120.3</entry>
+<entry>114.9</entry>
+<entry>1</entry>
+<entry>88.8</entry>
+<entry>41.3</entry>
+</row>
+<row>
+<entry>A02</entry>
+<entry>Zhongmiansuo</entry>
+<entry>2020</entry>
+<entry>254.5</entry>
+<entry>98.3</entry>
+<entry>3</entry>
+<entry>98.9</entry>
+<entry>94.4</entry>
+<entry>3</entry>
+<entry>84.9</entry>
+<entry>38.9</entry>
+</row>
+<row>
+<entry>A03</entry>
+<entry>Siza No. 3</entry>
+<entry>2020</entry>
+<entry>258.8</entry>
+<entry>100.0</entry>
+<entry>2</entry>
+<entry>104.7</entry>
+<entry>100.0</entry>
+<entry>2</entry>
+<entry>87.1</entry>
+<entry>40.6</entry>
+</row>
+<row>
+<entry>A04</entry>
+<entry>Huimian No. 1</entry>
+<entry>2020</entry>
+<entry>258.8</entry>
+<entry>108.1</entry>
+<entry>5</entry>
+<entry>107.5</entry>
+<entry>109.4</entry>
+<entry>3</entry>
+<entry>91.0</entry>
+<entry>41.6</entry>
+</row>
+<row>
+<entry>A05</entry>
+<entry>Nannong 997</entry>
+<entry>2020</entry>
+<entry>251.7</entry>
+<entry>105.1</entry>
+<entry>7</entry>
+<entry>100.1</entry>
+<entry>101.9</entry>
+<entry>8</entry>
+<entry>91.0</entry>
+<entry>39.7</entry>
+</row>
+<row>
+<entry>A06</entry>
+<entry>Xiang FZ031</entry>
+<entry>2019</entry>
+<entry>269.0</entry>
+<entry>104.4</entry>
+<entry>4</entry>
+<entry>107.1</entry>
+<entry>99.0</entry>
+<entry>7</entry>
+<entry>96.0</entry>
+<entry>40.0</entry>
+</row>
+<row>
+<entry>A06</entry>
+<entry>Xiang FZ031</entry>
+<entry>2020</entry>
+<entry>260.6</entry>
+<entry>108.8</entry>
+<entry>3</entry>
+<entry>104.5</entry>
+<entry>106.4</entry>
+<entry>6</entry>
+<entry>93.6</entry>
+<entry>40.1</entry>
+</row>
+<row>
+<entry>A06</entry>
+<entry>Xiang FZ031</entry>
+<entry>Two</entry>
+<entry>264.8</entry>
+<entry>106.6</entry>
+<entry/>
+<entry>105.8</entry>
+<entry>102.7</entry>
+<entry/>
+<entry>94.8</entry>
+<entry>40.1</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>years</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A07</entry>
+<entry>Qingmian No. 1</entry>
+<entry>2019</entry>
+<entry>269.0</entry>
+<entry>104.4</entry>
+<entry>3</entry>
+<entry>115.3</entry>
+<entry>106.6</entry>
+<entry>3</entry>
+<entry>94.2</entry>
+<entry>42.9</entry>
+</row>
+<row>
+<entry>A07</entry>
+<entry>Qingmian No. 1</entry>
+<entry>2020</entry>
+<entry>258.9</entry>
+<entry>108.1</entry>
+<entry>4</entry>
+<entry>107.2</entry>
+<entry>109.1</entry>
+<entry>4</entry>
+<entry>90.3</entry>
+<entry>41.2</entry>
+</row>
+<row>
+<entry>A07</entry>
+<entry>Qingmian No. 1</entry>
+<entry>Two</entry>
+<entry>264.0</entry>
+<entry>106.3</entry>
+<entry/>
+<entry>111.2</entry>
+<entry>107.9</entry>
+<entry/>
+<entry>92.2</entry>
+<entry>42.1</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>years</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A08</entry>
+<entry>Yanmian 118</entry>
+<entry>2020</entry>
+<entry>248.4</entry>
+<entry>103.7</entry>
+<entry>8</entry>
+<entry>102.7</entry>
+<entry>104.6</entry>
+<entry>7</entry>
+<entry>89.2</entry>
+<entry>41.3</entry>
+</row>
+<row>
+<entry>A09</entry>
+<entry>Xiang X0935</entry>
+<entry>2020</entry>
+<entry>274.5</entry>
+<entry>114.6</entry>
+<entry>1</entry>
+<entry>110.0</entry>
+<entry>111.9</entry>
+<entry>1</entry>
+<entry>92.6</entry>
+<entry>40.1</entry>
+</row>
+<row>
+<entry>A10</entry>
+<entry>Zhong</entry>
+<entry>2020</entry>
+<entry>237.2</entry>
+<entry>99.1</entry>
+<entry>10</entry>
+<entry>92.2</entry>
+<entry>93.8</entry>
+<entry>10</entry>
+<entry>90.3</entry>
+<entry>38.9</entry>
+</row>
+<row>
+<entry/>
+<entry>MBC31123</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A11</entry>
+<entry>Sumian 5042</entry>
+<entry>2020</entry>
+<entry>263.2</entry>
+<entry>109.9</entry>
+<entry>2</entry>
+<entry>107.8</entry>
+<entry>109.7</entry>
+<entry>2</entry>
+<entry>92.1</entry>
+<entry>41.0</entry>
+</row>
+<row>
+<entry>A12</entry>
+<entry>Xumian 399</entry>
+<entry>2020</entry>
+<entry>254.3</entry>
+<entry>106.2</entry>
+<entry>6</entry>
+<entry>107.0</entry>
+<entry>108.9</entry>
+<entry>5</entry>
+<entry>90.9</entry>
+<entry>42.0</entry>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No. 1</entry>
+<entry>2019</entry>
+<entry>257.5</entry>
+<entry>100.0</entry>
+<entry>7</entry>
+<entry>108.1</entry>
+<entry>100.0</entry>
+<entry>6</entry>
+<entry>93.7</entry>
+<entry>42.1</entry>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No. 1</entry>
+<entry>2020</entry>
+<entry>239.5</entry>
+<entry>100.0</entry>
+<entry>9</entry>
+<entry>98.2</entry>
+<entry>100.0</entry>
+<entry>9</entry>
+<entry>90.5</entry>
+<entry>41.1</entry>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No. 1</entry>
+<entry>Two</entry>
+<entry>248.5</entry>
+<entry>100.0</entry>
+<entry/>
+<entry>103.2</entry>
+<entry>100.0</entry>
+<entry/>
+<entry>92.1</entry>
+<entry>41.6</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>years</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0031" level="2">2. Joint Variance Analysis Results</heading>
+<p id="p-0083" num="0077">The variance analysis results showed (Table 5-1 and Table 5-2; hybrid cotton and conventional cotton varieties in a group for the test were compared separately): the variety effect reached a very significant level, indicating that the differences between varieties were significant, and multiple comparisons between varieties were required.</p>
+<p id="p-0084" num="0078">The results of multiple comparisons between varieties were (Table 6): (1) among the hybrid cotton varieties, the yield of Yan G1601 increased significantly compared with the control Siza No. 3, and the yield of Zhongmiansuo 9702 decreased significantly compared with the control. (2) Among the conventional cotton varieties, the yields of Xiang X0935, Sumian 5042, Huimian No. 1, Qingmian No. 1, Xumian 399, Xiang FZ031 and Yanmian 118 increased significantly compared with the control, the yield of Nannong 997 did not increase significantly, and the yield of Zhong MBC31123 decreased significantly compared with the control.</p>
+<p id="p-0085" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 5-1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Table of variance analysis on lint yield in regional trials</entry>
+</row>
+<row>
+<entry>of mid-maturing cotton varieties in Jiangsu Province in 2020</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Degree of</entry>
+<entry>Sum of</entry>
+<entry>Mean</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Source of variation</entry>
+<entry>freedom</entry>
+<entry>square</entry>
+<entry>square</entry>
+<entry>F value</entry>
+<entry>P value</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<colspec colname="6" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Pilot block</entry>
+<entry>16</entry>
+<entry>0.845</entry>
+<entry>0.053</entry>
+<entry>2.888</entry>
+<entry>0.005</entry>
+</row>
+<row>
+<entry>Variety</entry>
+<entry>2</entry>
+<entry>5.317</entry>
+<entry>2.658</entry>
+<entry>145.306</entry>
+<entry>0.000</entry>
+</row>
+<row>
+<entry>Pilot</entry>
+<entry>7</entry>
+<entry>23.091</entry>
+<entry>3.299</entry>
+<entry>180.309</entry>
+<entry>0.000</entry>
+</row>
+<row>
+<entry>Variety &#xd7; pilot</entry>
+<entry>14</entry>
+<entry>1.845</entry>
+<entry>0.132</entry>
+<entry>7.205</entry>
+<entry>0.000</entry>
+</row>
+<row>
+<entry>Error</entry>
+<entry>32</entry>
+<entry>0.585</entry>
+<entry>0.018</entry>
+</row>
+<row>
+<entry>Total variation</entry>
+<entry>71</entry>
+<entry>31.683</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="6" align="left" id="FOO-00001">Note:</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="left" id="FOO-00002">error coefficient of variation CV = 4.176%</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0086" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 5-2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Table of variance analysis on lint yield in regional trials</entry>
+</row>
+<row>
+<entry>of mid-maturing cotton varieties in Jiangsu Province in 2020</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Degrees of</entry>
+<entry>Sum of</entry>
+<entry>Mean</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Source of variation</entry>
+<entry>freedom</entry>
+<entry>square</entry>
+<entry>square</entry>
+<entry>F value</entry>
+<entry>P value</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<colspec colname="6" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Pilot block</entry>
+<entry>12</entry>
+<entry>0.171</entry>
+<entry>0.014</entry>
+<entry>0.906</entry>
+<entry>0.544</entry>
+</row>
+<row>
+<entry>Variety</entry>
+<entry>9</entry>
+<entry>4.392</entry>
+<entry>0.488</entry>
+<entry>30.975</entry>
+<entry>0.000</entry>
+</row>
+<row>
+<entry>Pilot</entry>
+<entry>5</entry>
+<entry>81.269</entry>
+<entry>16.254</entry>
+<entry>1031.739</entry>
+<entry>0.000</entry>
+</row>
+<row>
+<entry>Variety &#xd7; pilot</entry>
+<entry>45</entry>
+<entry>6.166</entry>
+<entry>0.137</entry>
+<entry>8.697</entry>
+<entry>0.000</entry>
+</row>
+<row>
+<entry>Error</entry>
+<entry>108</entry>
+<entry>1.701</entry>
+<entry>0.016</entry>
+</row>
+<row>
+<entry>Total variation</entry>
+<entry>179</entry>
+<entry>93.699</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="6" align="left" id="FOO-00003">Note:</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="left" id="FOO-00004">error coefficient of variation CV = 4.034%</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0087" num="0000">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 6</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Difference significance test of lint yield in regional trials</entry>
+</row>
+<row>
+<entry>of mid-maturing cotton varieties in Jiangsu Province in 2020</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Lint yield</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>in plot</entry>
+<entry>0.05</entry>
+<entry>0.01</entry>
+</row>
+<row>
+<entry>No.</entry>
+<entry>Variety</entry>
+<entry>(kg, 20 m<sup>2</sup>)</entry>
+<entry>significance</entry>
+<entry>significance</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="char" char="."/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>A01</entry>
+<entry>Yan G1601</entry>
+<entry>3.610</entry>
+<entry>a</entry>
+<entry>A</entry>
+</row>
+<row>
+<entry>A03</entry>
+<entry>Siza No. 3 (CK)</entry>
+<entry>3.140</entry>
+<entry>b</entry>
+<entry>B</entry>
+</row>
+<row>
+<entry>A02</entry>
+<entry>Zhongmiansuo 9702</entry>
+<entry>2.966</entry>
+<entry>c</entry>
+<entry>C</entry>
+</row>
+<row>
+<entry>A09</entry>
+<entry>Xiang X0935</entry>
+<entry>3.299</entry>
+<entry>a</entry>
+<entry>A</entry>
+</row>
+<row>
+<entry>A11</entry>
+<entry>Sumian 5042</entry>
+<entry>3.233</entry>
+<entry>ab</entry>
+<entry>AB</entry>
+</row>
+<row>
+<entry>A04</entry>
+<entry>Huimian No. 1</entry>
+<entry>3.223</entry>
+<entry>ab</entry>
+<entry>AB</entry>
+</row>
+<row>
+<entry>A07</entry>
+<entry>Qingmian No. 1</entry>
+<entry>3.216</entry>
+<entry>abc</entry>
+<entry>AB</entry>
+</row>
+<row>
+<entry>A12</entry>
+<entry>Xumian 399</entry>
+<entry>3.210</entry>
+<entry>bc</entry>
+<entry>AB</entry>
+</row>
+<row>
+<entry>A06</entry>
+<entry>Xiang FZ031</entry>
+<entry>3.135</entry>
+<entry>cd</entry>
+<entry>BC</entry>
+</row>
+<row>
+<entry>A08</entry>
+<entry>Yanmian 118</entry>
+<entry>3.081</entry>
+<entry>de</entry>
+<entry>CD</entry>
+</row>
+<row>
+<entry>A05</entry>
+<entry>Nannong 997</entry>
+<entry>3.002</entry>
+<entry>ef</entry>
+<entry>DE</entry>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No. 1 (CK)</entry>
+<entry>2.947</entry>
+<entry>f</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry>A10</entry>
+<entry>Zhong MBC31123</entry>
+<entry>2.764</entry>
+<entry>g</entry>
+<entry>F</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00005">Note:</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00006">LSD 0.05 = 0.0797; LSD 0.01 = 0.1070 (hybrid group) LSD 0.05 = 0.0833; LSD 0.01 = 0.1100 (conventional group)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0032" level="2">(2) Disease Resistance</heading>
+<p id="p-0088" num="0079">In 2020, the tested varieties were entrusted to the Institute of Plant Protection, Jiangsu Academy of Agricultural Sciences to identify the resistance to fusarium wilt by means of bacteria soil at the seedling stage in a greenhouse, and the resistance to verticillium wilt by irrigating roots with a bacteria solution at the seedling stage in a greenhouse.</p>
+<p id="p-0089" num="0080">Identification of fusarium wilt: the inoculated strain was fusarium wilt Fnj (a highly pathogenic strain in Nanjing, preserved by the Plant Protection Institute of Jiangsu Academy of Agricultural Sciences), which was cultured in a Chapek liquid medium for 5-7 days while shaking, and then inoculated into a sterilized strain bag filled with wheat grains. After being cultured for 20 days, the wheat grains were taken out and dried. Then the wheat grains were mixed with sterilized nutrient soil at a percentage of 3%, and the mixture was put in a 16-hole plug tray (with 6.5 cm&#xd7;6.5 cm&#xd7;8.5 cm holes and a 32 cm&#xd7;23 cm&#xd7;3 cm plastic porcelain tray underlying). The tested varieties were planted in bacteria soil of greenhouse plug trays, and each variety was planted in 1 tray, repeated 3 times. After emergence, 32 seedlings were left in each tray. Seeds were sowed on April 14, and seedlings were finally singled on April 30. Simian No. 2 was a susceptible control, and Zhongzhimian No. 2 was a resistant control.</p>
+<p id="p-0090" num="0081">Identification on verticillium wilt: the inoculated strain of verticillium wilt nursery was V08DF-1 (Dafeng strong pathogenic deciduous type strain, preserved by the Plant Protection Institute of Jiangsu Academy of Agricultural Sciences). The strain was cultured in a potato liquid medium for 7 days while shaking, the cultured bacteria solution was inoculated into a sterilized wheat grain medium and cultured at 25&#xb0; C. for 30 days, and after mycelia were full, wheat grains were taken out and dried in the air under natural conditions for later use. In the new disease nursery, the cultured wheat grain strains were uniformly applied to the field according to the inoculation amount of 450-750 Kg per hectare, and then the field was plowed 2-3 times to mix germs with soil uniformly. Specifically, each cement pond was uniformly inoculated with 2 kg of diseased wheat grains, which were uniformly applied to the field on March 23 and April 16 respectively before plowed. On April 30, each row was inoculated with 30 g of diseased wheat grains for booster inoculation. Proper humidity was maintained in the field to facilitate the occurrence of diseases. The tested varieties were randomly arranged, sown on April 30, 1 row per variety, repeated twice, and seedlings were finally singled on June 12. Simian No. 3 was a susceptible control, and Zhongzhimian No. 2 was a resistant control.</p>
+<p id="p-0091" num="0082">According to the relative resistance index (IR) of each variety, the disease resistance was divided into five grades: I (immune), HR (high resistant), R (resistant), T (tolerant) and S (susceptible). The grading criteria for disease resistance were:</p>
+<p id="p-0092" num="0083">Disease resistance grades: I (immune) HR (high resistant) R (resistant) T (tolerant) S (susceptible)</p>
+<p id="p-0093" num="0000">Fusarium wilt (IR): 0.0 0.1-5.0 5.1-10.0 10.1-20.0&#x2265;20.1
+<br/>
+Verticillium wilt (IR): 0.0 0.1-10.0 10.1-20.0 20.1-35.0&#x2265;35.1
+</p>
+<heading id="h-0033" level="2">1. Identification Results of Fusarium Wilt and Verticillium Wilt in Nanjing Disease Nurseries</heading>
+<p id="p-0094" num="0084">Inoculation identification results in 2020: Zhongmiansuo 9702 and Siza No. 3 (CK) were resistant to fusarium wilt and tolerant to verticillium wilt; Sumian 5042 was tolerant to fusarium wilt and resistant to verticillium wilt; and the rest of the tested varieties were tolerant to fusarium wilt and verticillium wilt.</p>
+<p id="p-0095" num="0085">Identification results of the tested varieties from 2019 to 2020 (Table 7): Xiang FZ031 and Qingmian No. 1 were both tolerant to fusarium wilt and verticillium wilt.</p>
+<heading id="h-0034" level="2">2. Identification Results of Verticillium Wilt in Xuzhou Natural Disease Nurseries</heading>
+<p id="p-0096" num="0086">Identification results of natural inoculation in 2020: Zhong MBC31123 and Yanmian 118 were highly resistant to verticillium wilt; Sikang No. 1 (CK), Xumian 399 and Qingmian No. 1 were resistant to verticillium wilt; Zhongmiansuo 9702, Siza No. 3 (CK), Nannong 997, Huimian No. 1 and Nannong 991 were tolerant to verticillium wilt; and Xiang FZ031, Yan G1601, Sumian 5042 and Xiang X0935 were susceptible to verticillium wilt.</p>
+<p id="p-0097" num="0087">Identification results of natural inoculation from 2019 to 2020: both Xiang FZ031 and Qingmian No. 1 were susceptible to verticillium wilt.</p>
+<p id="p-0098" num="0000">
+<tables id="TABLE-US-00008" num="00008">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="287pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 7</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Identification results of disease resistance in regional trials of mid-maturing cotton</entry>
+</row>
+<row>
+<entry>varieties in Jiangsu Province in 2020</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="63pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Xuzhou</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="63pt" align="center"/>
+<colspec colname="5" colwidth="63pt" align="center"/>
+<colspec colname="6" colwidth="63pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Fusarium wilt</entry>
+<entry>Verticillium wilt</entry>
+<entry>greensickness</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Disease</entry>
+<entry>Resistance</entry>
+<entry>Disease</entry>
+<entry>Resistance</entry>
+<entry>Disease</entry>
+<entry>Resistance</entry>
+</row>
+<row>
+<entry>No.</entry>
+<entry>Variety name</entry>
+<entry>Year</entry>
+<entry>index</entry>
+<entry>grade</entry>
+<entry>index</entry>
+<entry>grade</entry>
+<entry>index</entry>
+<entry>grade</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="char" char="."/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>A01</entry>
+<entry>YanG1601</entry>
+<entry>2020</entry>
+<entry>16.0</entry>
+<entry>T</entry>
+<entry>22.4</entry>
+<entry>T</entry>
+<entry>41.7</entry>
+<entry>S</entry>
+</row>
+<row>
+<entry>A02</entry>
+<entry>Zhongmiansuo</entry>
+<entry>2020</entry>
+<entry>9.8</entry>
+<entry>R</entry>
+<entry>21.5</entry>
+<entry>T</entry>
+<entry>21.5</entry>
+<entry>T</entry>
+</row>
+<row>
+<entry/>
+<entry>9702</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A03</entry>
+<entry>Siza No. 3</entry>
+<entry>2020</entry>
+<entry>8.2</entry>
+<entry>R</entry>
+<entry>23.3</entry>
+<entry>T</entry>
+<entry>26.2</entry>
+<entry>T</entry>
+</row>
+<row>
+<entry>A04</entry>
+<entry>Huimian No. 1</entry>
+<entry>2020</entry>
+<entry>15.4</entry>
+<entry>T</entry>
+<entry>33.0</entry>
+<entry>T</entry>
+<entry>28.3</entry>
+<entry>T</entry>
+</row>
+<row>
+<entry>A05</entry>
+<entry>Nannong 997</entry>
+<entry>2020</entry>
+<entry>11.9</entry>
+<entry>T</entry>
+<entry>32.7</entry>
+<entry>T</entry>
+<entry>28.2</entry>
+<entry>T</entry>
+</row>
+<row>
+<entry>A06</entry>
+<entry>Xiang FZ031</entry>
+<entry>2019</entry>
+<entry>9.8</entry>
+<entry>R</entry>
+<entry>22.3</entry>
+<entry>T</entry>
+<entry>41.4</entry>
+<entry>S</entry>
+</row>
+<row>
+<entry>A06</entry>
+<entry>Xiang FZ031</entry>
+<entry>2020</entry>
+<entry>18.2</entry>
+<entry>T</entry>
+<entry>26.6</entry>
+<entry>T</entry>
+<entry>41.5</entry>
+<entry>S</entry>
+</row>
+<row>
+<entry>A06</entry>
+<entry>Xiang FZ031</entry>
+<entry>Two</entry>
+<entry>18.2</entry>
+<entry>T</entry>
+<entry>26.6</entry>
+<entry>T</entry>
+<entry>41.5</entry>
+<entry>S</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>years</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A07</entry>
+<entry>Qingmian No. 1</entry>
+<entry>2019</entry>
+<entry>8.0</entry>
+<entry>R</entry>
+<entry>23.9</entry>
+<entry>T</entry>
+<entry>45.9</entry>
+<entry>S</entry>
+</row>
+<row>
+<entry>A07</entry>
+<entry>Qingmian No. 1</entry>
+<entry>2020</entry>
+<entry>13.1</entry>
+<entry>T</entry>
+<entry>27.8</entry>
+<entry>T</entry>
+<entry>19.6</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry>A07</entry>
+<entry>Qingmian No. 1</entry>
+<entry>Two</entry>
+<entry>13.1</entry>
+<entry>T</entry>
+<entry>27.8</entry>
+<entry>T</entry>
+<entry>45.9</entry>
+<entry>S</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>years</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A08</entry>
+<entry>Yanmian 118</entry>
+<entry>2020</entry>
+<entry>13.2</entry>
+<entry>T</entry>
+<entry>22.5</entry>
+<entry>T</entry>
+<entry>7.8</entry>
+<entry>HR</entry>
+</row>
+<row>
+<entry>A09</entry>
+<entry>Xiang X0935</entry>
+<entry>2020</entry>
+<entry>19.6</entry>
+<entry>T</entry>
+<entry>33.1</entry>
+<entry>T</entry>
+<entry>52.5</entry>
+<entry>S</entry>
+</row>
+<row>
+<entry>A10</entry>
+<entry>Zhong MBC31123</entry>
+<entry>2020</entry>
+<entry>14.3</entry>
+<entry>T</entry>
+<entry>28.4</entry>
+<entry>T</entry>
+<entry>7.0</entry>
+<entry>HR</entry>
+</row>
+<row>
+<entry>A11</entry>
+<entry>Sumian 5042</entry>
+<entry>2020</entry>
+<entry>14.6</entry>
+<entry>T</entry>
+<entry>18.2</entry>
+<entry>R</entry>
+<entry>49.1</entry>
+<entry>S</entry>
+</row>
+<row>
+<entry>A12</entry>
+<entry>Xumian 399</entry>
+<entry>2020</entry>
+<entry>16.2</entry>
+<entry>T</entry>
+<entry>25.1</entry>
+<entry>T</entry>
+<entry>17.6</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No. 1</entry>
+<entry>2019</entry>
+<entry>9.7</entry>
+<entry>R</entry>
+<entry>20.6</entry>
+<entry>T</entry>
+<entry>36.5</entry>
+<entry>S</entry>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No. 1</entry>
+<entry>2020</entry>
+<entry>12.8</entry>
+<entry>T</entry>
+<entry>26.0</entry>
+<entry>T</entry>
+<entry>17.2</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No. 1</entry>
+<entry>Two</entry>
+<entry>12.8</entry>
+<entry>T</entry>
+<entry>26.0</entry>
+<entry>T</entry>
+<entry>36.5</entry>
+<entry>S</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>years</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0035" level="2">(4) Insect Resistance</heading>
+<p id="p-0099" num="0088">In 2020, the Plant Protection Institute of the Jiangsu Academy of Agricultural Sciences conducted biological identification of the tested varieties against cotton bollworm, and the Institute of Biotechnology of the Chinese Academy of Agricultural Sciences tested Bt insect-resistant protein.</p>
+<heading id="h-0036" level="2">1. Biological Identification of Cotton Bollworm Resistance</heading>
+<p id="p-0100" num="0089">Identification results in 2020 (Table 8): Zhong MBC31123, Sikang No. 1 (CK), Xumian 399, Qingmian No. 1, Zhongmiansuo 9702, Huimian No. 1, Xiang FZ031, and Sumian 5042 were all highly resistant to bollworm; and Yanmian 118, Siza No. 3 (CK), Nannong 997, Yan G1601 and Xiang X0935 were all resistant to cotton bollworm.</p>
+<p id="p-0101" num="0090">Two-year identification results from 2019 to 2020 (Table 8): Xiang FZ031 and Qingmian No. 1 were resistant to cotton bollworm.</p>
+<heading id="h-0037" level="2">2. Test on Bt Insect-Resistant Protein</heading>
+<p id="p-0102" num="0091">The resistance grade indicated the level of toxic protein content, and the insect-resistant strain rate indicated whether there were non-insect-resistant strains.</p>
+<p id="p-0103" num="0092">Test results of Bt insect-resistant protein of the tested varieties in 2020 (Table 8): the insect-resistant strain rates of all tested varieties were above 90%, whereas the insect-resistant strain rates of Zhong MBC31123, Sikang No. 1 (CK), Xumian 399, Zhongmiansuo 9702, Sumian 5042, Yanmian 118, Siza No. 3 (CK), Nannong 997 and Xiang X0935 were all 100%; and the insect-resistant strain rates of Qingmian No. 1, Huimian No. 1, Yan G1601 and Xiang FZ031 were all above 90%, but still mixed with a few non-insect-resistant strains.</p>
+<p id="p-0104" num="0093">Test results of Bt insect-resistant protein from 2019 to 2020: the insect-resistant strain rates of Xiang FZ031 and Qingmian No. 1 were both above 90%, but still mixed with a few non-insect-resistant strains.</p>
+<p id="p-0105" num="0000">
+<tables id="TABLE-US-00009" num="00009">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="301pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 8</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Identification results of cotton bollworm resistance in regional trials of mid-maturing</entry>
+</row>
+<row>
+<entry>cotton varieties in Jiangsu Province in 2020</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="21pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="77pt" align="center"/>
+<colspec colname="5" colwidth="133pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Biological identification of cotton</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Test on Bt</entry>
+<entry>bollworm resistance</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="21pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="77pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>insect-resistant</entry>
+<entry/>
+<entry>Average</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>protein</entry>
+<entry>Comprehensive</entry>
+<entry>resistance</entry>
+<entry>Comprehensive</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="21pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="49pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Insect-resistant</entry>
+<entry>Yes/No</entry>
+<entry>resistance</entry>
+<entry>grade</entry>
+<entry>resistance</entry>
+</row>
+<row>
+<entry>No.</entry>
+<entry>Variety</entry>
+<entry>Year</entry>
+<entry>strain rate (%)</entry>
+<entry>&#x2265;90%</entry>
+<entry>value</entry>
+<entry>(PK)</entry>
+<entry>grade</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="21pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="49pt" align="char" char="."/>
+<colspec colname="7" colwidth="35pt" align="char" char="."/>
+<colspec colname="8" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>A01</entry>
+<entry>YanG1601</entry>
+<entry>2020</entry>
+<entry>96</entry>
+<entry>Yes</entry>
+<entry>40</entry>
+<entry>3.3</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry>A02</entry>
+<entry>Zhongmiansuo</entry>
+<entry>2020</entry>
+<entry>100</entry>
+<entry>Yes</entry>
+<entry>46</entry>
+<entry>3.8</entry>
+<entry>HR</entry>
+</row>
+<row>
+<entry/>
+<entry>9702</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A03</entry>
+<entry>Siza No. 3</entry>
+<entry>2020</entry>
+<entry>100</entry>
+<entry>Yes</entry>
+<entry>41</entry>
+<entry>3.4</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry>A04</entry>
+<entry>Huimian No. 1</entry>
+<entry>2020</entry>
+<entry>96</entry>
+<entry>Yes</entry>
+<entry>44</entry>
+<entry>3.7</entry>
+<entry>HR</entry>
+</row>
+<row>
+<entry>A05</entry>
+<entry>Nannong 997</entry>
+<entry>2020</entry>
+<entry>100</entry>
+<entry>Yes</entry>
+<entry>39</entry>
+<entry>3.3</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry>A06</entry>
+<entry>Xiang FZ031</entry>
+<entry>2019</entry>
+<entry>96</entry>
+<entry>Yes</entry>
+<entry>31</entry>
+<entry>2.6</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry>A06</entry>
+<entry>Xiang FZ031</entry>
+<entry>2020</entry>
+<entry>94</entry>
+<entry>Yes</entry>
+<entry>46</entry>
+<entry>3.8</entry>
+<entry>HR</entry>
+</row>
+<row>
+<entry>A06</entry>
+<entry>Xiang FZ031</entry>
+<entry>Two</entry>
+<entry>94</entry>
+<entry>Yes</entry>
+<entry>31</entry>
+<entry>2.6</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>years</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A07</entry>
+<entry>Qingmian No. 1</entry>
+<entry>2019</entry>
+<entry>98</entry>
+<entry>Yes</entry>
+<entry>38</entry>
+<entry>3.2</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry>A07</entry>
+<entry>Qingmian No. 1</entry>
+<entry>2020</entry>
+<entry>98</entry>
+<entry>Yes</entry>
+<entry>45</entry>
+<entry>3.8</entry>
+<entry>HR</entry>
+</row>
+<row>
+<entry>A07</entry>
+<entry>Qingmian No. 1</entry>
+<entry>Two</entry>
+<entry>98</entry>
+<entry>Yes</entry>
+<entry>38</entry>
+<entry>3.2</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>years</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A08</entry>
+<entry>Yanmian 118</entry>
+<entry>2020</entry>
+<entry>100</entry>
+<entry>Yes</entry>
+<entry>38</entry>
+<entry>3.2</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry>A09</entry>
+<entry>Xiang X0935</entry>
+<entry>2020</entry>
+<entry>100</entry>
+<entry>Yes</entry>
+<entry>33</entry>
+<entry>2.8</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry>A10</entry>
+<entry>Zhong</entry>
+<entry>2020</entry>
+<entry>100</entry>
+<entry>Yes</entry>
+<entry>44</entry>
+<entry>3.7</entry>
+<entry>HR</entry>
+</row>
+<row>
+<entry/>
+<entry>MBC31123</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A11</entry>
+<entry>Sumian 5042</entry>
+<entry>2020</entry>
+<entry>100</entry>
+<entry>Yes</entry>
+<entry>47</entry>
+<entry>3.9</entry>
+<entry>HR</entry>
+</row>
+<row>
+<entry>A12</entry>
+<entry>Xumian 399</entry>
+<entry>2020</entry>
+<entry>100</entry>
+<entry>Yes</entry>
+<entry>43</entry>
+<entry>3.6</entry>
+<entry>HR</entry>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No. 1</entry>
+<entry>2019</entry>
+<entry>100</entry>
+<entry>Yes</entry>
+<entry>35</entry>
+<entry>2.9</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No. 1</entry>
+<entry>2020</entry>
+<entry>100</entry>
+<entry>Yes</entry>
+<entry>43</entry>
+<entry>3.6</entry>
+<entry>HR</entry>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No. 1</entry>
+<entry>Two</entry>
+<entry>100</entry>
+<entry>Yes</entry>
+<entry>35</entry>
+<entry>2.9</entry>
+<entry>R</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>years</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0038" level="2">(5) Fiber Quality</heading>
+<p id="p-0106" num="0094">The fiber qualities of the tested varieties were tested using the HVI900 system in the Cotton Quality Supervision, Inspection and Testing Center of the Ministry of Agriculture. The test and the humidity conditioning of cotton samples were carried out under the condition of a standard atmosphere (temperature 20&#xb1;2&#xb0; C., relative humidity 65&#xb1;3%).</p>
+<p id="p-0107" num="0095">The average performance of the fiber quality of the tested varieties in 2020 was shown in Table 9: the uniformity indexes of all the tested varieties were more than 83%, all reaching the standard of high-quality cotton type I. Length, specific strength and micronaire values were as follows:</p>
+<p id="p-0108" num="0000">(1) Length: the fiber length of Xiang X0935 was more than 31 mm, reaching the type I standard of high-quality cotton; and the fiber lengths of Qingmian No. 1, Zhongmiansuo 9702, Sikang No. 1 (CK), Zhong MBC31123, Siza No. 3 (CK), Nannong 997 and Xiang FZ031 were more than 29 mm, reaching the type II standard of ordinary high-quality cotton. The fiber lengths of Sumian 5042, Yanmian 118, Yan G1601, Huimian No. 1 and Xumian 399 were more than 27 mm, reaching the type III standard.
+<br/>
+(2) Specific strength: the specific strengths of Zhongmiansuo 9702, Xiang X0935, Zhong MBC31123, Sikang No. 1 (CK), Nannong 997 and Siza No. 3 (CK) were more than 32 cN/tex, reaching the type I standard of high-quality cotton; and the specific strengths of the rest varieties all reached the type II standard.
+<br/>
+(3) Micronaire value: the micronaire values of Xiang X0935, Zhongmiansuo 9702, Xiang FZ031, Qingmian No. 1 and Sikang No. 1 (CK) were less than 5.0, reaching the type II standard of ordinary high-quality cotton; the micronaire values of Nannong 997, Siza No. 3 (CK), Huimian No. 1, Zhong MBC31123, Yanmian 118, Yan G1601 and Xumian 399 were between 5.1 and 5.5, belonging to type III; and the micronaire value of Sumian 5042 was 5.7, which did not reach the type III standard.
+<br/>
+(4) Comprehensive evaluation: Xiang X0935, Zhongmiansuo 9702, Xiang FZ031, Qingmian No. 1 and Sikang No. 1 (CK) had good comprehensive performance in the three indexes, all reaching the ordinary high-quality type II standard; Nannong 997, Siza No. 3 (CK), Huimian No. 1, Zhong MBC31123, Yanmian 118, Yan G1601 and Xumian 399 had good comprehensive performance, all reaching the type III standard; and Sumian 5042 did not reach the type III standard due to its high micronaire value.
+</p>
+<p id="p-0109" num="0096">Performance of the tested varieties from 2019 to 2020: Xiang FZ031 and Qingmian No. 1 had good comprehensive performance in the three indexes, all reaching the ordinary high-quality type II standard.</p>
+<p id="p-0110" num="0000">
+<tables id="TABLE-US-00010" num="00010">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="364pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 9</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Fiber quality test results in regional trials of mid-maturing cotton varieties in Jiangsu</entry>
+</row>
+<row>
+<entry>Province in 2020</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="42pt" align="center"/>
+<colspec colname="9" colwidth="42pt" align="center"/>
+<colspec colname="10" colwidth="35pt" align="center"/>
+<colspec colname="11" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Staple</entry>
+<entry>Specific</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Variety</entry>
+<entry/>
+<entry>length</entry>
+<entry>strength</entry>
+<entry>Micronaire</entry>
+<entry>Elongation</entry>
+<entry>Reflectance</entry>
+<entry/>
+<entry>Uniformity</entry>
+<entry>Spinning</entry>
+</row>
+<row>
+<entry>No.</entry>
+<entry>name</entry>
+<entry>Year</entry>
+<entry>(mm)</entry>
+<entry>cN/tex</entry>
+<entry>value</entry>
+<entry>(%)</entry>
+<entry>(%)</entry>
+<entry>Yellowness</entry>
+<entry>(%)</entry>
+<entry>index</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>A01</entry>
+<entry>YanG1601</entry>
+<entry>2020</entry>
+<entry>28.7</entry>
+<entry>31.0</entry>
+<entry>5.4</entry>
+<entry>7.1</entry>
+<entry>77.8</entry>
+<entry>8.3</entry>
+<entry>84.9</entry>
+<entry>138</entry>
+</row>
+<row>
+<entry>A02</entry>
+<entry>Zhongmiansuo</entry>
+<entry>2020</entry>
+<entry>30.3</entry>
+<entry>36.1</entry>
+<entry>4.8</entry>
+<entry>5.8</entry>
+<entry>79.6</entry>
+<entry>7.5</entry>
+<entry>86.5</entry>
+<entry>171</entry>
+</row>
+<row>
+<entry/>
+<entry>9702</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A03</entry>
+<entry>Siza No. 3</entry>
+<entry>2020</entry>
+<entry>29.6</entry>
+<entry>32.0</entry>
+<entry>5.2</entry>
+<entry>6.3</entry>
+<entry>77.8</entry>
+<entry>8.3</entry>
+<entry>84.4</entry>
+<entry>142</entry>
+</row>
+<row>
+<entry>A04</entry>
+<entry>Huimian</entry>
+<entry>2020</entry>
+<entry>28.1</entry>
+<entry>30.8</entry>
+<entry>5.2</entry>
+<entry>5.6</entry>
+<entry>78.9</entry>
+<entry>8.0</entry>
+<entry>84.3</entry>
+<entry>136</entry>
+</row>
+<row>
+<entry/>
+<entry>No. 1</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A05</entry>
+<entry>Nannong</entry>
+<entry>2020</entry>
+<entry>29.5</entry>
+<entry>32.2</entry>
+<entry>5.1</entry>
+<entry>6.6</entry>
+<entry>75.7</entry>
+<entry>8.4</entry>
+<entry>84.6</entry>
+<entry>144</entry>
+</row>
+<row>
+<entry/>
+<entry>997</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A06</entry>
+<entry>Xiang</entry>
+<entry>2019</entry>
+<entry>30.2</entry>
+<entry>29.7</entry>
+<entry>4.6</entry>
+<entry>6.9</entry>
+<entry>82.0</entry>
+<entry>7.8</entry>
+<entry>85.5</entry>
+<entry>151</entry>
+</row>
+<row>
+<entry/>
+<entry>FZ031</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A06</entry>
+<entry>Xiang</entry>
+<entry>2020</entry>
+<entry>29.4</entry>
+<entry>30.5</entry>
+<entry>4.8</entry>
+<entry>6.4</entry>
+<entry>80.1</entry>
+<entry>7.4</entry>
+<entry>85.1</entry>
+<entry>145</entry>
+</row>
+<row>
+<entry/>
+<entry>FZ031</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A06</entry>
+<entry>Xiang</entry>
+<entry>Two</entry>
+<entry>29.8</entry>
+<entry>30.1</entry>
+<entry>4.7</entry>
+<entry>6.6</entry>
+<entry>81.0</entry>
+<entry>7.6</entry>
+<entry>85.3</entry>
+<entry>148</entry>
+</row>
+<row>
+<entry/>
+<entry>FZ031</entry>
+<entry>years</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A07</entry>
+<entry>Qingmian</entry>
+<entry>2019</entry>
+<entry>31.4</entry>
+<entry>29.8</entry>
+<entry>5.2</entry>
+<entry>6.6</entry>
+<entry>79.9</entry>
+<entry>8.2</entry>
+<entry>85.3</entry>
+<entry>146</entry>
+</row>
+<row>
+<entry/>
+<entry>No. 1</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A07</entry>
+<entry>Qingmian</entry>
+<entry>2020</entry>
+<entry>30.5</entry>
+<entry>30.4</entry>
+<entry>4.9</entry>
+<entry>6.1</entry>
+<entry>76.7</entry>
+<entry>8.4</entry>
+<entry>84.9</entry>
+<entry>144</entry>
+</row>
+<row>
+<entry/>
+<entry>No. 1</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A07</entry>
+<entry>Qingmian</entry>
+<entry>Two</entry>
+<entry>30.9</entry>
+<entry>30.1</entry>
+<entry>5.0</entry>
+<entry>6.4</entry>
+<entry>78.3</entry>
+<entry>8.3</entry>
+<entry>85.1</entry>
+<entry>145</entry>
+</row>
+<row>
+<entry/>
+<entry>No. 1</entry>
+<entry>years</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A08</entry>
+<entry>Yanmian</entry>
+<entry>2020</entry>
+<entry>28.8</entry>
+<entry>31.1</entry>
+<entry>5.3</entry>
+<entry>5.8</entry>
+<entry>79.2</entry>
+<entry>7.8</entry>
+<entry>85.0</entry>
+<entry>141</entry>
+</row>
+<row>
+<entry/>
+<entry>118</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A09</entry>
+<entry>Xiang</entry>
+<entry>2020</entry>
+<entry>32.2</entry>
+<entry>35.9</entry>
+<entry>4.6</entry>
+<entry>5.5</entry>
+<entry>80.2</entry>
+<entry>7.1</entry>
+<entry>85.9</entry>
+<entry>173</entry>
+</row>
+<row>
+<entry/>
+<entry>X0935</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A10</entry>
+<entry>Zhong</entry>
+<entry>2020</entry>
+<entry>29.9</entry>
+<entry>34.8</entry>
+<entry>5.3</entry>
+<entry>5.3</entry>
+<entry>79.6</entry>
+<entry>7.3</entry>
+<entry>85.1</entry>
+<entry>154</entry>
+</row>
+<row>
+<entry/>
+<entry>MBC31123</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A11</entry>
+<entry>Sumian</entry>
+<entry>2020</entry>
+<entry>28.9</entry>
+<entry>31.5</entry>
+<entry>5.7</entry>
+<entry>6.3</entry>
+<entry>77.1</entry>
+<entry>8.3</entry>
+<entry>83.9</entry>
+<entry>133</entry>
+</row>
+<row>
+<entry/>
+<entry>5042</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A12</entry>
+<entry>Xumian</entry>
+<entry>2020</entry>
+<entry>27.6</entry>
+<entry>30.9</entry>
+<entry>5.4</entry>
+<entry>6.3</entry>
+<entry>77.8</entry>
+<entry>8.3</entry>
+<entry>83.6</entry>
+<entry>130</entry>
+</row>
+<row>
+<entry/>
+<entry>399</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No.</entry>
+<entry>2019</entry>
+<entry>30.2</entry>
+<entry>31.1</entry>
+<entry>5.1</entry>
+<entry>6.1</entry>
+<entry>79.6</entry>
+<entry>8.3</entry>
+<entry>84.7</entry>
+<entry>144</entry>
+</row>
+<row>
+<entry/>
+<entry>1</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No.</entry>
+<entry>2020</entry>
+<entry>30.2</entry>
+<entry>32.5</entry>
+<entry>5.0</entry>
+<entry>5.6</entry>
+<entry>78.9</entry>
+<entry>8.0</entry>
+<entry>84.6</entry>
+<entry>149</entry>
+</row>
+<row>
+<entry/>
+<entry>1</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A13</entry>
+<entry>Sikang No.</entry>
+<entry>Two</entry>
+<entry>30.2</entry>
+<entry>31.8</entry>
+<entry>5.1</entry>
+<entry>5.9</entry>
+<entry>79.3</entry>
+<entry>5.2</entry>
+<entry>84.7</entry>
+<entry>147</entry>
+</row>
+<row>
+<entry/>
+<entry>1</entry>
+<entry>years</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0039" level="2">6. Conclusion</heading>
+<p id="p-0111" num="0097">Xiang X0935 was a transgenic mid-maturing insect-resistant conventional cotton variety bred by Hunnan Cotton Science Institute and was tested in the first year. Regional test results in 2020: the growth period of spring sowing in cotton regions in Jiangsu Province was 130 days. The plant shape was relatively compact, the plant height was 105.2 cm, the fruit branches were long and flat, the stems were thick, the fuzz was less, the leaves were medium in size and dark in color, the first fruiting site was the 7<sup>th </sup>node, 29.1 bolls were formed per plant, the bolls were oval, the weight of a single boll was 6.5 g, the lint percent was 40.1%, the seed index was 12.9 g, the flowering rate before frosting was 92.6%, and the dead cotton rate was 4%. The cotton had good seedling emergence, strong growth, good uniformity, no premature senescence, smooth boll opening, tolerant to fusarium wilt (fusarium wilt index 19.6), tolerant to verticillium wilt (verticillium wilt index 33.1), and resistance to cotton bollworm. The average length of the upper half of HVICC fibers was 32.2 mm, the specific strength at break was 35.9 cN/tex, the micronaire value was 4.6, the elongation at break was 5.5%, the reflectance was 80.2%, the yellow depth was 7.1, the uniformity index was 85.9%, and the spinning uniformity index was 173. The yields of unginned cotton, ginned cotton, and ginned cotton before frosting per mu were respectively 274.5 kg, 110 kg and 101.5 kg, which were respectively 114.6%, 111.9% and 114.6% of the control Sikang No. 1. Compared with the control, the yield increase advantage was extremely obvious and the quality was high.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method for breeding a new variety of transgenic high-quality <i>Gossypium hirsutum</i>, comprising the following steps:
+<claim-text>breeding of Xiang 176: crossing a medium-long-staple Acala cotton line and a disease-resistant variety Xiangmian No. 18 as parents to obtain reciprocal cross F<sub>1 </sub>combination seeds; then planting the reciprocal cross F<sub>1 </sub>combination seeds in Hainan, and performing composite crossing to obtain composite cross F<sub>1 </sub>seeds; in next 2 years, performing generation-adding planting on the composite cross F<sub>1 </sub>seeds once in Changde, Hunan in summer and in Sanya, Hainan in winter each year, for a total of 4 generations, to obtain F<sub>5 </sub>seeds; comparatively testing excellent individual plants of the F<sub>5 </sub>seeds in Changde, and screening a strain with a better combination of quality traits and yield traits, named Xiang 176;</claim-text>
+<claim-text>breeding of Xiang 267: mixing F<sub>2 </sub>of an existing approved variety Xiangzamian No. 13 to obtain mixed F<sub>1 </sub>seeds, performing generation-adding planting on the mixed F<sub>1 </sub>seeds in Changde, Hunan in summer and in Sanya, Hainan in winter each year according to the breading goal, for a total of 5 generations, to obtain F<sub>6 </sub>seeds, and selecting a strain with high quality, high yield and low lint percent from the F<sub>6 </sub>generation, named Xiang 267; and</claim-text>
+<claim-text>breeding: crossing Xiang 176 and Xiang 267 as parents to obtain reciprocal cross F<sub>1 </sub>seeds, then performing composite crossing on the reciprocal cross F<sub>1 </sub>seeds to obtain composite cross F<sub>1 </sub>seeds, performing generation-adding planting in Changde, Hunan in summer and in Sanya, Hainan in winter each year, continuously adding generations according to the breading goal, and selecting an excellent strain from the F<sub>7 </sub>generation, that is, a target variety.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method for breeding a new variety of transgenic high-quality <i>Gossypium hirsutum </i>according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein in the breeding step of Xiang 176, all individual plants are selected during the generation-adding planting, based on the criteria: fiber length not less than 32 mm, and lint percent not less than 45%.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method for breeding a new variety of transgenic high-quality <i>Gossypium hirsutum </i>according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein in the breeding step of Xiang 267, all individual plants are selected during the generation-adding planting of the mixed F<sub>1 </sub>in Changde, Hunan, and in Sanya, Hainan, based on the criteria: strong boll formation, fiber length not less than 30 mm, and lint percent not less than 38%.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method for selecting a new variety of transgenic high-quality <i>Gossypium hirsutum </i>according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein in the breeding step, all individual plants are selected during the generation-adding planting, based on the criteria: high yield, fiber length not less than 31 mm, and lint percent not less than 40%.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

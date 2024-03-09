@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225351A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225351</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18189966</doc-number>
+<date>20230324</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EP</country>
+<doc-number>16184169.7</doc-number>
+<date>20160815</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>06</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>06</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>V</subclass>
+<main-group>2002</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>V</subclass>
+<main-group>2300</main-group>
+<subgroup>24</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">PROCESS FOR MANUFACTURING A LEAF TEA PRODUCT</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16324520</doc-number>
+<date>20190208</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+<parent-pct-document>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2017/069562</doc-number>
+<date>20170802</date>
+</document-id>
+</parent-pct-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18189966</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>EKATERRA TEA MANUFACTURING USA LLC</orgname>
+<address>
+<city>Wilmington</city>
+<state>DE</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>DYKS</last-name>
+<first-name>Andrew James</first-name>
+<address>
+<city>Bedfordshire</city>
+<country>GB</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>NUNN</last-name>
+<first-name>Luke Richard</first-name>
+<address>
+<city>Bedfordshire</city>
+<country>GB</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>SHARP</last-name>
+<first-name>David George</first-name>
+<address>
+<city>Bedfordshire</city>
+<country>GB</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention relates to a process for manufacturing a black leaf tea product, the process comprising the steps of: providing black leaf tea having a moisture content of less than 5 wt. %; and then subjecting this black leaf tea starting material to a heat treatment step by contacting it with a heated surface at a temperature of 100&#xb0; C. to 170&#xb0; C. for a duration of 2 to 25 minutes. The present invention also relates to a black leaf tea product obtainable by this process.</p>
+</abstract>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates to leaf tea. More particularly it relates to post-auction processing of leaf tea.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Beverages based on the tea plant (<i>Camellia sinensis</i>) have been popular throughout the world for many hundreds of years. Tea beverages are traditionally made by infusing the dry leaves of the plant <i>Camellia sinensis </i>in boiling water.</p>
+<p id="p-0004" num="0003">Most of the tea consumed in the Western world is so-called black tea, which is obtained by harvesting leaves of the plant <i>Camellia sinensis </i>and withering, rolling, enzymatically oxidising (fermenting), firing and sorting them. Alternatively, the leaves can be processed without the fermentation step to produce what is known as green tea, which is widely consumed in parts of Asia. In another variation, oolong tea is prepared by partial fermentation.</p>
+<p id="p-0005" num="0004">When it is harvested, the tea crop has a high moisture content. To avoid deterioration of the crop during transportation, initial processing of the tea leaves must occur at or very close to the tea plantation. Thus, regardless of type, the properties of leaf tea are constrained to a certain degree by the location of production. Because of this geographical limitation, the crop processed by a given tea factory is usually limited in terms of choice of tea varieties, agronomy and the manufacturing process used, which in turn can have a marked effect on the properties (e.g. aroma, flavour, etc.) and hence the quality of the final product.</p>
+<p id="p-0006" num="0005">Leaf tea is usually sold at auction, with the highest quality teas commanding the highest prices. Indeed, there is a substantial price difference between high quality and low quality tea. Design and control of the manufacturing process is known to influence quality. This has prompted extensive research aimed at optimising manufacturing conditions so as to yield a product with the highest possible quality. However, the post-auction processing of tea has been much less extensively investigated.</p>
+<p id="p-0007" num="0006">Tea contains compounds which are valued for their sensory qualities. In particular, tea has a unique taste and is rich in aroma compounds. Consumers of tea are constantly looking for foods and beverages that provide new sensory experiences. There is therefore an unmet need for processes which allow the physicochemical properties of the final tea product to be tailored to the customer's requirements after manufacture on a tea plantation and thereby deliver teas for specific product applications (e.g. with modified sensorial properties).</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">Tea-based beverages are traditionally produced by infusing tea leaves in hot water and separating the infusion liquor from the spent tea material. Consumers in regions with a tradition of black tea consumption often have a preference for teas with a fast infusion rate and/or a strong liquor colour.</p>
+<p id="p-0009" num="0008">The present inventors have found that post-auction processing of black tea under certain thermal conditions yields a black leaf tea product which can deliver a darker/redder infusion liquor without impacting the flavour of the resulting beverage. Additionally or alternatively, such processing can produce a black leaf tea product which can deliver an infusion liquor wherein for a given level of infusion solids the liquor has a more intense red colour.</p>
+<p id="p-0010" num="0009">Thus in a first aspect, the present invention relates to a process for manufacturing a black leaf tea product, the process comprising:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0010">providing black leaf tea starting material having a moisture content of less than 5 wt. %; and then</li>
+        <li id="ul0002-0002" num="0011">subjecting the black leaf tea starting material to a heat treatment step by contacting it with a heated surface at a temperature of 100&#xb0; C. to 170&#xb0; C. for a duration of 2 to 25 minutes.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0011" num="0012">The end product of the process of this process is a black leaf tea product which has different properties to the starting material. Thus in a second aspect, the present invention relates to a black leaf tea product obtainable by the process of the first aspect of the invention.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0012" num="0013">For the purpose of the present invention, &#x201c;tea&#x201d; means material from <i>Camellia sinensis </i>var. <i>sinensis </i>and/or <i>Camellia sinensis </i>var. <i>assamica</i>. The term &#x201c;leaf tea&#x201d; refers to leaf and/or stem material from the tea plant in an uninfused form (i.e. material which has not been subjected to a solvent extraction step). Leaf tea is dried to a moisture content of less than 5 wt. %, and the moisture content of the leaf tea will not usually be below 0.1 wt. %. Typically the leaf tea has a moisture content of 1 to 5 wt. %. In other words, the term &#x201c;leaf tea&#x201d; refers to the end product of tea manufacture (sometimes referred to as &#x201c;made tea&#x201d;).</p>
+<p id="p-0013" num="0014">As used herein, the term &#x201c;black tea&#x201d; refers to substantially fermented tea, wherein &#x201c;fermentation&#x201d; refers to the oxidative and hydrolytic process that tea undergoes when certain endogenous enzymes and substrates are brought together. During the so-called fermentation process, colourless catechins in the leaves and/or stem are converted to a complex mixture of yellow/orange to dark brown polyphenolic substances. For example, black leaf tea can be manufactured from fresh tea material by the steps of: withering, maceration, fermentation and drying. A more detailed description of the production of black tea can be found in Chapter 14 of &#x201c;Tea: Cultivation to consumption&#x201d; (edited by K. C. Wilson &#x26; M. N. Clifford, published in 1992).</p>
+<p id="p-0014" num="0015">The starting material for the process of the present invention is black leaf tea. Black leaf tea is a readily available commercial product which can be purchased in bulk at tea auctions. In other words, the term &#x201c;black leaf tea&#x201d; refers to the end product of black tea manufacture (sometimes referred to as &#x201c;made tea&#x201d;). The black leaf tea provided as the starting material for the claimed process has a moisture content of less than 5 wt. %, preferably less than 4.5 wt. %, more preferably less than 4 wt. %. The moisture content of this black leaf tea is usually at least 0.1 wt. %, more usually at least 0.5 wt. %. Typically the black leaf tea will have a moisture content of 1 to 5 wt. %.</p>
+<p id="p-0015" num="0016">The end product of the process of the present invention is a black leaf tea product. This black leaf tea product is manufactured by subjecting the black leaf tea starting material to certain thermal conditions by way of a heat treatment step. Processing the black leaf tea in this way produces a black leaf tea product which has different properties to the starting material.</p>
+<p id="p-0016" num="0017">The heat treatment step is carried out by contacting the black leaf tea with a heated surface at a temperature of 100&#xb0; C. to 170&#xb0; C.</p>
+<p id="p-0017" num="0018">The use of very high temperatures in the heat treatment step can impair the sensorial properties of the final leaf tea product. In particular, high temperatures are associated with smoky and/or burnt flavour notes. A smoky flavour is characteristic of certain types of black tea (e.g. lapsang souchong), and this flavour direction may thus be of interest from a consumer point of view. However, burnt flavour notes are undesirable. Therefore during the heat treatment step, the temperature of the heated surface does not exceed 170&#xb0; C.; preferably the temperature does not exceed 165&#xb0; C., and more preferably the temperature does not exceed 160&#xb0; C.</p>
+<p id="p-0018" num="0019">The temperature of the heated surface needs to be sufficient to produce a black leaf tea product which has different properties to the starting material. Without wishing to be bound by theory, it is believed that very low temperatures do not elicit appropriate changes in the starting material (e.g. with respect to infusion performance). As such, during the heat treatment step, the temperature of the heated surface is at least 100&#xb0; C. Furthermore, at lower temperatures, the duration of the heating step may need to be increased. Therefore, in the interest of process efficiency, the temperature of the heated surface is preferably at least 105&#xb0; C., more preferably at least 110&#xb0; C., and still more preferably at least 115&#xb0; C.</p>
+<p id="p-0019" num="0020">With regard to the temperatures of the heated surface set out above, it should be noted that any particular upper temperature can be associated with any particular lower temperature. A particularly preferred temperature range is 110&#xb0; C. to 160&#xb0; C.</p>
+<p id="p-0020" num="0021">The inventors have found that even a relatively short heat treatment can elicit changes in the sensorial properties of the black leaf tea starting material. The duration of the heat treatment step is at least 2 minutes. Preferably the duration of the heat treatment step is at least 2.5 minutes, more preferably at least 3 minutes, and most preferably at least 3.5 minutes. The duration of the heat treatment step is no longer than 25 minutes, more preferably no longer than 20 minutes, and most preferably no longer than 15 minutes.</p>
+<p id="p-0021" num="0022">With regard to the duration of the heat treatment step, it should be noted that any particular lower time limit can be associated with any particular upper time limit. A particularly preferred duration of the heat treatment step is from 3 to 15 minutes.</p>
+<p id="p-0022" num="0023">In the process of the present invention, the black leaf tea is preferably subjected to a heat treatment step in the presence of steam. The presence of steam during the process is associated with an improvement in the colour of the black leaf tea product, with higher amounts of steam generally resulting in darker leaf colour. The steam is preferably provided at a flow rate of at least 1 kg per hour, more preferably at least 2 kg per hour, and most preferably at least 5 kg per hour. However, very high levels of steam can impact the infusion performance of the black leaf tea product. Thus the steam is preferably provided at a flow rate of less than 25 kg per hour, more preferably less than 20 kg per hour, and most preferably less than 15 kg per hour.</p>
+<p id="p-0023" num="0024">In the process of the present invention, the black leaf tea is preferably subjected to a heat treatment step in a confined atmosphere. As used herein the term &#x201c;confined atmosphere&#x201d; refers to a system wherein diffusion of the gaseous medium surrounding the black leaf tea is restricted. Without wishing to be bound by theory, it is thought that such a confined atmosphere reduces the loss of volatiles from the tea material during the heat treatment step. Furthermore, prolonged heating (particularly at higher temperatures) could potentially cause over-drying the leaf tea product; a confined atmosphere is thought to mitigate this risk. Thus it is particularly preferred that the heat treatment step occurs in a confined atmosphere if dry heat is being used (i.e. if the heat treatment step is not being carried out in the presence of steam). Nevertheless, the use of a confined atmosphere and steam is also envisaged.</p>
+<p id="p-0024" num="0025">The thermal treatment step can conveniently be performed using a continuous roaster, such as the REVTECH continuous electrical roaster (REVTECH Process Systems), which combines vibration transport and heating via an electrically heated and vibrating spiral tube. The heated spiral tube of this system provides a confined atmosphere as defined above. The advantage of this type of system is that it allows the process to run continuously. A feeding system ensures a constant flow rate of black leaf tea into the roaster, the black leaf tea is transported through the heated tube by vibrations, and having undergone thermal treatment, the resulting black leaf tea product exits the system ready for packaging. Steam can optionally be injected into the roaster.</p>
+<p id="p-0025" num="0026">The process preferably comprises the additional and subsequent step of packaging the black leaf tea product. The black tea product is preferably packaged in an amount suitable for brewing a single serving of a tea beverage. It is preferred that the mass of the black tea product in the package is at least 1 g, as smaller amounts are difficult to accurately portion and dose. More preferably the mass is at least 1.2 g, and most preferably at least 1.4 g. It is further preferred that the mass of the black tea product in the package is less than 5 g, as larger amounts become inconvenient to store and/or handle. More preferably the mass is less than 4 g, and most preferably less than 3 g.</p>
+<p id="p-0026" num="0027">Since the process of the present invention is a post-auction process, it is does not need to be carried out in the proximity of a tea plantation. Indeed, whilst the starting material for the process could be a black leaf tea product from a single plantation, the process is not limited in this way. A particular advantage of the process is that the starting material can actually be a tea blend (i.e. the black leaf tea having a moisture content of less than 5 wt. % can be a tea blend).</p>
+<p id="p-0027" num="0028">As used herein, the term &#x201c;tea blend&#x201d; refers to a mixture of two or more different black leaf teas. In the tea industry, the final packaged tea product sold to the consumer is commonly produced by blending different leaf teas together. Leaf teas for a blend are typically selected according to a number of different attributes, e.g. their quality, flavour, strength, body, size of leaf and price. Tea blending is a post-auction process, and allows teas of different origins to be combined to meet consumer preferences. For example, a tea blend will often have different sensorial properties to the individual component leaf teas that are mixed to make the blend.</p>
+<p id="p-0028" num="0029">Additionally or alternatively, the black leaf tea product obtainable by the process of the present invention can be used as a component of a tea blend. In other words, the black leaf tea product is preferably blended with one or more additional black leaf teas. Indeed, it is envisaged that the tea blend may comprise both the black leaf tea starting material and the black leaf tea product.</p>
+<p id="p-0029" num="0030">As set out above, the end product of the process of the present invention is a black leaf tea product which has different properties to the starting material. Thus in a second aspect, the present invention relates to a black leaf tea product obtainable by the process of the first aspect of the invention.</p>
+<p id="p-0030" num="0031">The present inventors have found that the black leaf tea product obtainable by the process has different colour attributes to the black leaf tea starting material, for example in terms of leaf colour and/or infusion colour.</p>
+<p id="p-0031" num="0032">Colour can be expressed using the coordinates of the CIE 1976 L*a*b* colour space. The CIE L*a*b* colour space is organised in a cubic form. The L* axis runs from top to bottom. The maximum value for L* is 100 (which represents a perfect reflecting diffuser), and the minimum value for L* is 0 (which represents black). The a* and b* axes have no specific numerical limits. The a* axis extends from green (&#x2212;a*) to red (+a*), and the b* axis from blue (&#x2212;b*) to yellow (+b*). CIE L*a*b* values can be measured by colourimetry according to the joint ISO/CIE standard (ISO 11664-4:2008(CE); CIE S 014-4/E:2007).</p>
+<p id="p-0032" num="0033">The colour of the black leaf tea product can be measured using CIE L*a*b* colour space. This measurement can be performed directly on the leaf tea by colourimetry (according to the joint ISO/CIE standard ISO 11664-4:2008(CE); CIE S 014-4/E:2007). Consumers tend to perceive black leaf teas with a darker appearance as being of higher quality. Thus the L* value is of particular interest when considering the appearance of black leaf tea, since lower L* values indicate a darker leaf colour.</p>
+<p id="p-0033" num="0034">The effect of the process on leaf colour can be illustrated by comparing the L* values of the black leaf tea starting material (L*<sub>initial</sub>) with that of the black leaf tea product obtained by the process (L*<sub>final</sub>). Thus the change in leaf colour elicited by the process of the present invention (&#x394;L*) can be calculated as follows:</p>
+<p id="p-0034" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>&#x394;<i>L</i>*=(<i>L*</i><sub>initial</sub>)&#x2212;(<i>L*</i><sub>final</sub>)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0035" num="0000">wherein positive values of &#x394;L* indicate that the black leaf tea product has a darker colour than the black leaf tea starting material. Consumers can perceive relatively small differences in the L* value for black leaf tea. In order to have a perceptibly darker colour, &#x394;L* is preferably at least 1.0, more preferably at least 1.2, still more preferably at least 1.4, and most preferably at least 1.5. There is no particular upper limit for &#x394;L*. Preferably &#x394;L* is less than 4.0, more preferably less than 3.8, still more preferably less 3.6 and most preferably less than 3.5.</p>
+<p id="p-0036" num="0035">The present inventors have found that the process of the present invention means that it is possible to decouple colour and solids delivered in the infusion liquor when the black leaf tea product is brewed to give a beverage. For example, the black leaf tea product can deliver an infusion liquor having a more intense red colour for a given level of infusion solids.</p>
+<p id="p-0037" num="0036">The properties of the infusion produced by brewing the leaf tea product in water can be easily and reliably determined experimentally. An infusion is prepared by contacting 2 g of tea with 200 ml freshly boiled water for 2 mins without stirring. The colour of the infusion liquor is expressed using the coordinates CIE L*a*b* colour space, which are measured by colourimetry (according to the joint ISO/CIE standard ISO 11664-4:2008(CE); CIE S 014-4/E:2007). The amount of infusion solids can be calculated by determining the dry mass of the infusion liquor. More precisely, a 50 ml sample of the infusion liquor is taken and weighed using an accurate balance. This sample is then allowed to dry completely in an oven for 16 hours, and then re-weighed. The difference between the mass of the initial infusion liquor and the mass of the dry sample is the amount of infusion solids per 50 ml of infusion liquor, and the amount of infusion solids (in mg/ml) is subsequently calculated from this value.</p>
+<p id="p-0038" num="0037">Preferably contact of 2 g of the black leaf tea product with 200 ml freshly boiled water for 2 minutes produces a beverage wherein the a* value per mg/ml of infusion solids (or Normalised Infusion Colour&#x2014;NIC) is at least 6.5, more preferably at least 6.6, still more preferably at least 6.7. The NIC will typically be no more than 8.1, more preferably no more than 8.0, still more preferably no more than 7.9. Without wishing to be bound by theory, it is thought that brewed teas which appear strong in terms of colour (i.e. have an infusion liquor with a high degree of redness), but which do not have a sufficiently robust tea flavour may not be acceptable to consumers. A particularly preferred NIC for teas brewed under these conditions is from 6.6 to 7.9.</p>
+<p id="p-0039" num="0038">As set out above, the properties of the infusion liquor obtained by a standard infusion protocol (contacting of 2 g of leaf tea with 200 ml of freshly boiled water for 2 minutes) can be measured. The effect of the process on the Normalised Infusion Colour can thus be illustrated by comparing the infusion colour of the black leaf tea starting material (NIC<sub>initial</sub>) with that of the black leaf tea product obtained by the process (NIC<sub>final</sub>). Thus the change in Normalised Infusion Colour elicited by the process of the present invention (&#x394;NIC) can be calculated as follows:</p>
+<p id="p-0040" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>&#x394;NIC=(NIC<sub>final</sub>)&#x2212;(NIC<sub>initial</sub>)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0041" num="0000">wherein positive values of &#x394;NIC indicate that the black leaf tea product delivers an infusion liquor having a more intense red colour for a given level of infusion solids than the black leaf tea starting material. Preferably &#x394;NIC is at least 0.3, more preferably at least 0.32, still more preferably at least 0.34, and most preferably at least 0.35. Very high &#x394;NIC values seem to have an impact on flavour attributes, particularly flavour strength. In countries where consumers add milk to their tea, increased flavour strength may be a welcome attribute. However, for countries were the tradition is to drink tea black (i.e. without milk), increased flavour strength may be perceived less favourably. Thus in order to provide a beverage with desirably flavour strength, &#x394;NIC is preferably less than 1.7, more preferably less than 1.65, still more preferably less than 1.6, and most preferably less than 1.55.</p>
+<p id="p-0042" num="0039">To allow for long-term storage stability, the black leaf tea product of the present invention (i.e. the product obtainable from the thermal treatment process) preferably has a moisture content of from 0.1 to 5 wt. %. It will be understood that these amounts refer to the water content of the black leaf tea product prior to using the product to produce a beverage (i.e. prior to brewing). As such, it will be appreciated that the process of the present invention is not expected to have a significant impact on the moisture content of the black leaf tea, even if the process is conducted in the presence of steam. Therefore, the black leaf tea product preferably has a moisture content which is essentially the same as the moisture content of the black leaf tea starting material, and the preferred moisture contents of the starting material specified above apply mutatis mutandis to the black leaf tea product.</p>
+<p id="p-0043" num="0040">The black tea product of the present invention is optionally packaged. Non-limiting examples of suitable packaging options include infusion packets (such as tea bags), cartridges for beverage brewing machines, tea sticks, and the like.</p>
+<p id="p-0044" num="0041">As used herein the term &#x201c;comprising&#x201d; encompasses the terms &#x201c;consisting essentially of&#x201d; and &#x201c;consisting of&#x201d;. All percentages and ratios contained herein are calculated by weight unless otherwise indicated. It should be noted that in specifying any range of values or amounts, any particular upper value or amount can be associated with any particular lower value or amount. Except in the operative and comparative examples, all numbers in the description indicating amounts of materials, conditions of reaction, physical properties of materials, and/or use are to be understood as being preceded by the word &#x201c;about&#x201d;. The various features of the embodiments of the present invention referred to in individual sections above apply, as appropriate, to other sections mutatis mutandis. Consequently features specified in one section may be combined with features specified in other sections as appropriate. The disclosure of the invention as found herein is to be considered to cover all embodiments as found in the claims as being multiply dependent upon each other. Unless defined otherwise, all technical and scientific terms used herein have the same meaning as commonly understood by one of ordinary skill in the art in the field of tea processing.</p>
+<p id="p-0045" num="0042">The present invention will now be illustrated by reference to the following non-limiting examples.</p>
+<heading id="h-0005" level="1">EXAMPLES</heading>
+<p id="p-0046" num="0043">A black leaf tea blend (PG Tips) was used as the starting material. The moisture content of the starting material was 4.5% by weight. Portions of this starting material were subjected to a heat treatment step by passing them through a REVTECH continuous electrical roaster (REVTECH Process Systems). Different heat treatment regimes were achieved by controlling the temperature of the heated surfaces, and the rate at which the material passed through the roaster. A portion of the starting material was set aside for use as a control sample; this portion was not passed through the roaster and thus was not subjected to any kind of thermal treatment.</p>
+<p id="p-0047" num="0044">Infusions were prepared using each of the thermally treated samples and the control sample. Each infusion was made by infusing 2 g of leaf tea in 200 ml of freshly boiled water for 2 minutes without stirring. The L*a*b* values of the resulting infusions were determined with a CIE colourimeter (Minolta). To determine the level of infusion solids, a 50 ml sample of the infusion liquor was taken and weighed using an accurate balance. This sample was then allowed to dry completely in an oven for 16 hours, and then re-weighed. The difference between the mass of the initial infusion liquor and the mass of the dry sample was used to calculate the amount of infusion solids (in mg/ml).</p>
+<heading id="h-0006" level="1">Example 1</heading>
+<p id="p-0048" num="0045">Samples A, B, C, and D were produced by varying the temperature of the heated surface in the roaster and keeping the duration of the heat treatment step constant (4 minutes). These samples were produced without the injection of steam into the system. The data in Table 1 shows the results of the colour analysis using the CIE L*a*b* colour space for the leaf tea product obtained after the heat treatment, and also for infusions resulting from brewing these samples according to the brewing protocol set out above.</p>
+<p id="p-0049" num="0046">For the leaf tea, the coordinate L* is of particular interest, with lower L* values indicating a darker leaf colour. Consumers tend to perceive darker coloured leaf teas as being of higher quality. It can be seen that the trend is for the darkness of the leaf tea to increase (i.e. corresponding to a decrease in the leaf tea L* value) as the temperature of the heat treatment increases. In particular, it can be seen from the data in Table 1 that the Sample A leaf tea product has a similar L* value to the control material. In contrast, the Sample B, C and D leaf tea products have lower L* values than the control material, indicating that these leaf tea products are darker in colour than the control.</p>
+<p id="p-0050" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="133pt" align="left"/>
+<colspec colname="1" colwidth="126pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Infusion</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="63pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Temp.</entry>
+<entry>Time</entry>
+<entry>Leaf tea</entry>
+<entry/>
+<entry>Solids</entry>
+<entry>NIC</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="14pt" align="center"/>
+<colspec colname="6" colwidth="14pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<colspec colname="10" colwidth="28pt" align="center"/>
+<colspec colname="11" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Sample</entry>
+<entry>(&#xb0; C.)</entry>
+<entry>(min)</entry>
+<entry>L*</entry>
+<entry>a*</entry>
+<entry>b*</entry>
+<entry>L*</entry>
+<entry>a*</entry>
+<entry>b*</entry>
+<entry>(mg/ml)</entry>
+<entry>(a*/solids)</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="char" char="."/>
+<colspec colname="5" colwidth="14pt" align="char" char="."/>
+<colspec colname="6" colwidth="14pt" align="char" char="."/>
+<colspec colname="7" colwidth="21pt" align="char" char="."/>
+<colspec colname="8" colwidth="21pt" align="char" char="."/>
+<colspec colname="9" colwidth="21pt" align="char" char="."/>
+<colspec colname="10" colwidth="28pt" align="char" char="."/>
+<colspec colname="11" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Control</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>25.5</entry>
+<entry>4.0</entry>
+<entry>5.4</entry>
+<entry>68.5</entry>
+<entry>17.2</entry>
+<entry>73.2</entry>
+<entry>2.775</entry>
+<entry>6.198</entry>
+</row>
+<row>
+<entry>A</entry>
+<entry>90</entry>
+<entry>4</entry>
+<entry>25.9</entry>
+<entry>3.9</entry>
+<entry>5.5</entry>
+<entry>56.6</entry>
+<entry>17.6</entry>
+<entry>64.2</entry>
+<entry>2.850</entry>
+<entry>6.175</entry>
+</row>
+<row>
+<entry>B</entry>
+<entry>120</entry>
+<entry>4</entry>
+<entry>24.0</entry>
+<entry>4.1</entry>
+<entry>4.6</entry>
+<entry>70.7</entry>
+<entry>18.7</entry>
+<entry>76.8</entry>
+<entry>2.780</entry>
+<entry>6.727</entry>
+</row>
+<row>
+<entry>C</entry>
+<entry>150</entry>
+<entry>4</entry>
+<entry>23.6</entry>
+<entry>4.1</entry>
+<entry>4.1</entry>
+<entry>67.9</entry>
+<entry>23.3</entry>
+<entry>82.0</entry>
+<entry>3.205</entry>
+<entry>7.270</entry>
+</row>
+<row>
+<entry>D</entry>
+<entry>170</entry>
+<entry>4</entry>
+<entry>23.1</entry>
+<entry>3.9</entry>
+<entry>3.4</entry>
+<entry>67.4</entry>
+<entry>22.0</entry>
+<entry>77.0</entry>
+<entry>2.795</entry>
+<entry>7.871</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0051" num="0047">For the infusions, the coordinate a* is of particular relevance, as higher values of this coordinate indicate a redder colour (whilst lower values indicate a greener colour). It can be seen that the trend is for the redness of the infusion liquor (a* value) to increase as the temperature of the heat treatment increases. This trend is even more pronounced when the Normalised Infusion Colour is considered (a*/solids value).</p>
+<p id="p-0052" num="0048">The sensorial properties of the brewed teas were assessed in an informal tasting session. The observations from this session are summarised in Table 2.</p>
+<p id="p-0053" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="63pt" align="center"/>
+<colspec colname="5" colwidth="70pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="5" rowsep="1">TABLE 2</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Temp.</entry>
+<entry>Time</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Sample</entry>
+<entry>(&#xb0; C.)</entry>
+<entry>(min)</entry>
+<entry>Infusion colour</entry>
+<entry>Flavour</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="char" char="."/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="63pt" align="center"/>
+<colspec colname="5" colwidth="70pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>A</entry>
+<entry>90</entry>
+<entry>4</entry>
+<entry>Same as control</entry>
+<entry>More bitter/astringent</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>than control</entry>
+</row>
+<row>
+<entry>B</entry>
+<entry>120</entry>
+<entry>4</entry>
+<entry>Same as control</entry>
+<entry>Black tea</entry>
+</row>
+<row>
+<entry>C</entry>
+<entry>150</entry>
+<entry>4</entry>
+<entry>Darker than control</entry>
+<entry>Black tea</entry>
+</row>
+<row>
+<entry>D</entry>
+<entry>170</entry>
+<entry>4</entry>
+<entry>Darker than control</entry>
+<entry>Stronger than</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>control, smoky</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0054" num="0049">It can be seen from the data in Table 1 that the infusion liquor prepared from Sample A (90&#xb0; C., 4 min), the data in Table 1 indicates that this has a similar degree of redness to that prepared from the control. This is in agreement with the sensorial data in Table 2, which indicates that brewed teas prepared from Sample A have a similar colour to those prepared from the control sample. Nevertheless, thermal treatment under these conditions does appear to have an effect on the taste of the resulting brewed tea, since brewed teas prepared from Sample A were perceived as being more bitter/astringent than those brewed from the control sample.</p>
+<p id="p-0055" num="0050">In contrast, Samples B, C and D are seen to deliver a redder infusion liquor than the control sample (a* values, Table 1). Moreover, it appears that the thermal treatment used to produce these samples delivers an infusion liquor wherein for a given level of infusion solids the liquor has a more intense red colour (NIC values, Table 1). Moreover, Samples B and C, elicit this change without impacting the flavour of the resulting beverage (Table 2). This suggests that the infusion colour and the level of tea solids released (particularly those which contribute to the flavour of the brewed beverage) have been uncoupled, and means that it is now possible to deliver a beverage with a darker/redder liquor colour without impacting the flavour of the resulting beverage. Sample D has a higher flavour strength coupled with a smoky flavour direction. This type of smoky flavour is desirable in certain types of black tea (e.g. lapsang souchong).</p>
+<p id="p-0056" num="0051">In conclusion, this example shows that post-auction processing of black tea under certain thermal conditions yields a black leaf tea product which can deliver a darker/redder infusion liquor either without impacting the flavour of the resulting beverage, or whilst moving the flavour in a direction that may be of interest from a consumer point of view. Furthermore, the black leaf tea products tend to have a darker leaf colour, and may thus be perceived as being of higher quality by consumers.</p>
+<heading id="h-0007" level="1">Example 2</heading>
+<p id="p-0057" num="0052">Samples E, F and G were produced by varying the temperature of the heated surface in the roaster and keeping the duration of the heat treatment step constant (6 minutes). These samples were produced without the injection of steam into the system</p>
+<p id="p-0058" num="0053">The data in Table 3 shows the results of the colour analysis using CIE L*a*b* colour space for the leaf tea product samples obtained after the heat treatment, it can be seen that the L* values for the 90&#xb0; C. sample (Sample E), is similar to that of the control leaf tea material. In contrast, the 120&#xb0; C. and 150&#xb0; C. samples (Samples F and G, respectively) have lower L* values than the control material, indicating that these leaf tea products are darker in colour than the control.</p>
+<p id="p-0059" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="133pt" align="left"/>
+<colspec colname="1" colwidth="126pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Infusion</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="63pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Temp.</entry>
+<entry>Time</entry>
+<entry>Leaf tea</entry>
+<entry/>
+<entry>Solids</entry>
+<entry>NIC</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="14pt" align="center"/>
+<colspec colname="6" colwidth="14pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<colspec colname="10" colwidth="28pt" align="center"/>
+<colspec colname="11" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Sample</entry>
+<entry>(&#xb0; C.)</entry>
+<entry>(min)</entry>
+<entry>L*</entry>
+<entry>a*</entry>
+<entry>b*</entry>
+<entry>L*</entry>
+<entry>a*</entry>
+<entry>b*</entry>
+<entry>(mg/ml)</entry>
+<entry>(a*/solids)</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="char" char="."/>
+<colspec colname="5" colwidth="14pt" align="char" char="."/>
+<colspec colname="6" colwidth="14pt" align="char" char="."/>
+<colspec colname="7" colwidth="21pt" align="char" char="."/>
+<colspec colname="8" colwidth="21pt" align="char" char="."/>
+<colspec colname="9" colwidth="21pt" align="char" char="."/>
+<colspec colname="10" colwidth="28pt" align="char" char="."/>
+<colspec colname="11" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Control</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>25.5</entry>
+<entry>4.0</entry>
+<entry>5.4</entry>
+<entry>68.5</entry>
+<entry>17.2</entry>
+<entry>73.2</entry>
+<entry>2.775</entry>
+<entry>6.198</entry>
+</row>
+<row>
+<entry>E</entry>
+<entry>90</entry>
+<entry>6</entry>
+<entry>26.6</entry>
+<entry>4.4</entry>
+<entry>6.1</entry>
+<entry>65.2</entry>
+<entry>18.5</entry>
+<entry>74.8</entry>
+<entry>3.125</entry>
+<entry>5.920</entry>
+</row>
+<row>
+<entry>F</entry>
+<entry>120</entry>
+<entry>6</entry>
+<entry>25.1</entry>
+<entry>4.4</entry>
+<entry>5.1</entry>
+<entry>57.0</entry>
+<entry>18.3</entry>
+<entry>63.5</entry>
+<entry>2.730</entry>
+<entry>6.703</entry>
+</row>
+<row>
+<entry>G</entry>
+<entry>150</entry>
+<entry>6</entry>
+<entry>22.8</entry>
+<entry>4.1</entry>
+<entry>3.5</entry>
+<entry>60.7</entry>
+<entry>19.8</entry>
+<entry>68.7</entry>
+<entry>3.020</entry>
+<entry>6.556</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0060" num="0054">The data in Table 3 also shows the results of the colour analysis CIE L*a*b* colour space for the infusions resulting from these samples. Once again, it can be seen that the NIC value for the 90&#xb0; C. sample (Sample E) is no better than that of the control, whilst the NIC value for the samples subjected to higher temperatures (Samples F and G) the trend is for a more intense red colour for a given level of infusion solids in the liquor.</p>
+<p id="p-0061" num="0055">In conclusion, this example shows that post-auction processing of black tea under certain thermal conditions yields a black leaf tea product with desirable liquor properties. More particularly wherein for a given level of infusion solids the liquor has a more intense red colour. This type of post-auction processing can also have a beneficial effect on the appearance of the black leaf tea.</p>
+<heading id="h-0008" level="1">Example 3</heading>
+<p id="p-0062" num="0056">Samples 1 to 8 were produced by varying the temperature of the heated surface in the roaster and keeping the duration of the heat treatment step constant (4 minutes). Steam was injected into the system at a flow rate of either 5 kg/hour or 10 kg/hour. The heat treatment regimes for Samples 1 to 8 are summarised in Table 4.</p>
+<p id="p-0063" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="182pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Sample</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="14pt" align="center"/>
+<colspec colname="3" colwidth="14pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Control</entry>
+<entry>1</entry>
+<entry>2</entry>
+<entry>3</entry>
+<entry>4</entry>
+<entry>5</entry>
+<entry>6</entry>
+<entry>7</entry>
+<entry>8</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="14pt" align="char" char="."/>
+<colspec colname="4" colwidth="14pt" align="char" char="."/>
+<colspec colname="5" colwidth="21pt" align="char" char="."/>
+<colspec colname="6" colwidth="21pt" align="char" char="."/>
+<colspec colname="7" colwidth="21pt" align="char" char="."/>
+<colspec colname="8" colwidth="21pt" align="char" char="."/>
+<colspec colname="9" colwidth="21pt" align="char" char="."/>
+<colspec colname="10" colwidth="21pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Temp</entry>
+<entry>&#x2014;</entry>
+<entry>90</entry>
+<entry>90</entry>
+<entry>120</entry>
+<entry>120</entry>
+<entry>150</entry>
+<entry>150</entry>
+<entry>170</entry>
+<entry>170</entry>
+</row>
+<row>
+<entry>(&#xb0; C.)</entry>
+</row>
+<row>
+<entry>Steam</entry>
+<entry>&#x2014;</entry>
+<entry>5</entry>
+<entry>10</entry>
+<entry>5</entry>
+<entry>10</entry>
+<entry>5</entry>
+<entry>10</entry>
+<entry>5</entry>
+<entry>10</entry>
+</row>
+<row>
+<entry>(kg/h)</entry>
+</row>
+<row>
+<entry>Time</entry>
+<entry>&#x2014;</entry>
+<entry>4</entry>
+<entry>4</entry>
+<entry>4</entry>
+<entry>4</entry>
+<entry>4</entry>
+<entry>4</entry>
+<entry>4</entry>
+<entry>4</entry>
+</row>
+<row>
+<entry>(min)</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0064" num="0057">The data in Table 5 shows the results of the colour analysis using CIE L*a*b* colour space for the leaf tea product obtained after the heat treatment of these samples, and also for the infusions resulting from brewing these samples according to the protocol set out above.</p>
+<p id="p-0065" num="0058">Once again, the coordinate L* is of particular interest for the leaf tea, with lower L* values indicating a darker leaf colour. It can be seen that the trend is for the darkness of the leaf tea to increase (i.e. corresponding to a decrease in the leaf tea L* value) as the temperature of the heat treatment increases. Furthermore, for a given temperature higher steam flow rates are associated with darker leaf tea colour (i.e. lower L* value).</p>
+<p id="p-0066" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="91pt" align="left"/>
+<colspec colname="1" colwidth="126pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" rowsep="1">TABLE 5</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Infusion</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="56pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Leaf tea</entry>
+<entry/>
+<entry>Solids</entry>
+<entry>NIC</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="14pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Sample</entry>
+<entry>L*</entry>
+<entry>a*</entry>
+<entry>b*</entry>
+<entry>L*</entry>
+<entry>a*</entry>
+<entry>b*</entry>
+<entry>(mg/ml)</entry>
+<entry>(a*/solids)</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="char" char="."/>
+<colspec colname="3" colwidth="21pt" align="char" char="."/>
+<colspec colname="4" colwidth="14pt" align="char" char="."/>
+<colspec colname="5" colwidth="21pt" align="char" char="."/>
+<colspec colname="6" colwidth="21pt" align="char" char="."/>
+<colspec colname="7" colwidth="21pt" align="char" char="."/>
+<colspec colname="8" colwidth="28pt" align="char" char="."/>
+<colspec colname="9" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Control</entry>
+<entry>25.5</entry>
+<entry>4.0</entry>
+<entry>5.4</entry>
+<entry>68.5</entry>
+<entry>17.2</entry>
+<entry>73.2</entry>
+<entry>2.775</entry>
+<entry>6.198</entry>
+</row>
+<row>
+<entry>1</entry>
+<entry>25.7</entry>
+<entry>4.1</entry>
+<entry>5.6</entry>
+<entry>58.0</entry>
+<entry>16.2</entry>
+<entry>62.4</entry>
+<entry>2.720</entry>
+<entry>5.956</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>24.5</entry>
+<entry>4.4</entry>
+<entry>4.9</entry>
+<entry>60.9</entry>
+<entry>13.9</entry>
+<entry>59.8</entry>
+<entry>2.370</entry>
+<entry>5.865</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>23.9</entry>
+<entry>4.2</entry>
+<entry>4.6</entry>
+<entry>69.9</entry>
+<entry>20.9</entry>
+<entry>79.9</entry>
+<entry>2.845</entry>
+<entry>7.346</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>23.1</entry>
+<entry>4.2</entry>
+<entry>3.9</entry>
+<entry>69.8</entry>
+<entry>21.1</entry>
+<entry>79.0</entry>
+<entry>2.860</entry>
+<entry>7.378</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>23.5</entry>
+<entry>4.1</entry>
+<entry>3.9</entry>
+<entry>68.5</entry>
+<entry>21.0</entry>
+<entry>77.6</entry>
+<entry>2.805</entry>
+<entry>7.487</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>22.9</entry>
+<entry>4.0</entry>
+<entry>3.6</entry>
+<entry>69.2</entry>
+<entry>19.9</entry>
+<entry>74.4</entry>
+<entry>2.685</entry>
+<entry>7.412</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>23.2</entry>
+<entry>4.0</entry>
+<entry>3.6</entry>
+<entry>67.3</entry>
+<entry>23.1</entry>
+<entry>76.5</entry>
+<entry>2.960</entry>
+<entry>7.804</entry>
+</row>
+<row>
+<entry>8</entry>
+<entry>22.9</entry>
+<entry>3.9</entry>
+<entry>3.4</entry>
+<entry>70.0</entry>
+<entry>20.5</entry>
+<entry>73.8</entry>
+<entry>2.700</entry>
+<entry>7.593</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0067" num="0059">Similarly, the coordinate a* remains of particular relevance for the infusions, with higher values of this coordinate indicate a redder colour (whilst lower values indicate a greener colour). For Samples 3 to 8, the trend is for the redness of the infusion liquor (a* value) to increase as the temperature of the heat treatment increases. This trend is even more noticeable when the redness value of the infusion liquor per level of infusion solids is considered (NIC value). Furthermore, this trend is more pronounced for samples heated in the presence of steam than it is for samples heated without steam (as can be seen by comparing the data in Tables 1 and 5). However, for Samples 1 and 2 (90&#xb0; C., 6 min), the opposite trend is seen and the redness value of the infusion liquor per level of infusion solids (NIC value) decreases when the samples are heated in the presence of steam. The sensorial properties of the brewed teas were assessed in an informal tasting session. The observations from this session are summarised in Table 6.</p>
+<p id="p-0068" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="63pt" align="center"/>
+<colspec colname="5" colwidth="70pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="5" rowsep="1">TABLE 6</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Temp.</entry>
+<entry>Steam</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Sample</entry>
+<entry>(&#xb0; C.)</entry>
+<entry>(kg/h)</entry>
+<entry>Infusion colour</entry>
+<entry>Infusion flavour</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="63pt" align="center"/>
+<colspec colname="5" colwidth="70pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>90</entry>
+<entry>5</entry>
+<entry>Same as control</entry>
+<entry>Stronger than control</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>90</entry>
+<entry>10</entry>
+<entry>Same as control</entry>
+<entry>Black tea</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>120</entry>
+<entry>5</entry>
+<entry>Darker than control</entry>
+<entry>Black tea</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>120</entry>
+<entry>10</entry>
+<entry>Darker than control</entry>
+<entry>Black tea</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>150</entry>
+<entry>5</entry>
+<entry>Same as control</entry>
+<entry>Black tea</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>150</entry>
+<entry>10</entry>
+<entry>Darker than control</entry>
+<entry>Black tea</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>170</entry>
+<entry>5</entry>
+<entry>Darker than control</entry>
+<entry>Stronger than control</entry>
+</row>
+<row>
+<entry>8</entry>
+<entry>170</entry>
+<entry>10</entry>
+<entry>Same as control</entry>
+<entry>Black tea</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0069" num="0060">The data in Table 3 shows that samples which have been subjected to thermal treatment in the presence of steam tend to produce an infusion liquor which is perceived as being darker than that prepared from the control sample (standard PG Tips blend). This change is typically achieved without impacting the flavour of the brewed beverage. Indeed, the experimental data suggests that the infusion colour and the level of tea solids released (particularly those which contribute to the flavour of the brewed beverage) have been uncoupled.</p>
+<p id="p-0070" num="0061">It is notably that heat treatment at 170&#xb0; C. seems to have an impact on the flavour of the brewed beverage with a higher flavour strength being reported for sample 7 This is interesting, since some consumers prefer their tea to have a strong flavour&#x2014;especially in countries where it is common to add milk to tea beverages.</p>
+<p id="p-0071" num="0062">In conclusion, this example shows that post-auction processing of black tea under certain thermal conditions in the presence of steam yields a black leaf tea product with desirable leaf appearance and liquor properties. In particular, the black leaf tea product has a darker leaf appearance and produces a liquor wherein for a given level of infusion solids the liquor has a more intense red colour. These changes are typically elicited without impacting the flavour of the resulting beverage, or whilst moving the flavour in a direction that may be of interest from a consumer point of view.</p>
+<heading id="h-0009" level="1">Example 4</heading>
+<p id="p-0072" num="0063">Samples 9 to 17 were produced by varying the temperature of the heated surface in the roaster and keeping the duration of the heat treatment step constant (6 minutes). Steam was injected into the roaster at a flow rate of either 5 kg/hour, 10 kg/hour, or 30 kg/hour. The heat treatment regimes for Samples 1 to 8 are summarised in Table 7.</p>
+<p id="p-0073" num="0000">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="14pt" align="center"/>
+<colspec colname="3" colwidth="14pt" align="center"/>
+<colspec colname="4" colwidth="14pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<colspec colname="10" colwidth="21pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" rowsep="1">TABLE 7</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Con-</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>trol</entry>
+<entry>9</entry>
+<entry>10</entry>
+<entry>11</entry>
+<entry>12</entry>
+<entry>13</entry>
+<entry>14</entry>
+<entry>15</entry>
+<entry>16</entry>
+<entry>17</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="14pt" align="char" char="."/>
+<colspec colname="4" colwidth="14pt" align="char" char="."/>
+<colspec colname="5" colwidth="14pt" align="char" char="."/>
+<colspec colname="6" colwidth="21pt" align="char" char="."/>
+<colspec colname="7" colwidth="21pt" align="char" char="."/>
+<colspec colname="8" colwidth="21pt" align="char" char="."/>
+<colspec colname="9" colwidth="21pt" align="char" char="."/>
+<colspec colname="10" colwidth="21pt" align="char" char="."/>
+<colspec colname="11" colwidth="21pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Temp</entry>
+<entry>&#x2014;</entry>
+<entry>90</entry>
+<entry>90</entry>
+<entry>90</entry>
+<entry>120</entry>
+<entry>120</entry>
+<entry>120</entry>
+<entry>150</entry>
+<entry>150</entry>
+<entry>150</entry>
+</row>
+<row>
+<entry>(&#xb0; C.)</entry>
+</row>
+<row>
+<entry>Steam</entry>
+<entry>&#x2014;</entry>
+<entry>5</entry>
+<entry>10</entry>
+<entry>30</entry>
+<entry>5</entry>
+<entry>10</entry>
+<entry>30</entry>
+<entry>5</entry>
+<entry>10</entry>
+<entry>30</entry>
+</row>
+<row>
+<entry>(kg/h)</entry>
+</row>
+<row>
+<entry>Time</entry>
+<entry>&#x2014;</entry>
+<entry>6</entry>
+<entry>6</entry>
+<entry>6</entry>
+<entry>6</entry>
+<entry>6</entry>
+<entry>6</entry>
+<entry>6</entry>
+<entry>6</entry>
+<entry>6</entry>
+</row>
+<row>
+<entry>(min)</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0074" num="0064">The data in Table 8 shows the results of the colour analysis using the CIE L*a*b* colour space for the leaf tea product obtained after the heat treatment of these samples, and also for the infusions resulting from brewing these samples according to the protocol set out above.</p>
+<p id="p-0075" num="0000">
+<tables id="TABLE-US-00008" num="00008">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="91pt" align="left"/>
+<colspec colname="1" colwidth="126pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" rowsep="1">TABLE 8</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Infusion</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="56pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Leaf tea</entry>
+<entry/>
+<entry>Solids</entry>
+<entry>NIC</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="14pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Sample</entry>
+<entry>L*</entry>
+<entry>a*</entry>
+<entry>b*</entry>
+<entry>L*</entry>
+<entry>a*</entry>
+<entry>b*</entry>
+<entry>(mg/ml)</entry>
+<entry>(a*/solids)</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="char" char="."/>
+<colspec colname="3" colwidth="21pt" align="char" char="."/>
+<colspec colname="4" colwidth="14pt" align="char" char="."/>
+<colspec colname="5" colwidth="21pt" align="char" char="."/>
+<colspec colname="6" colwidth="21pt" align="char" char="."/>
+<colspec colname="7" colwidth="21pt" align="char" char="."/>
+<colspec colname="8" colwidth="28pt" align="char" char="."/>
+<colspec colname="9" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Control</entry>
+<entry>25.5</entry>
+<entry>4.0</entry>
+<entry>5.4</entry>
+<entry>68.5</entry>
+<entry>17.2</entry>
+<entry>73.2</entry>
+<entry>2.775</entry>
+<entry>6.198</entry>
+</row>
+<row>
+<entry>&#x2002;9</entry>
+<entry>24.9</entry>
+<entry>4.4</entry>
+<entry>5.1</entry>
+<entry>66.3</entry>
+<entry>17.7</entry>
+<entry>73.5</entry>
+<entry>2.920</entry>
+<entry>6.062</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>24.0</entry>
+<entry>4.4</entry>
+<entry>4.1</entry>
+<entry>66.8</entry>
+<entry>15.0</entry>
+<entry>68.0</entry>
+<entry>2.665</entry>
+<entry>5.629</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>22.8</entry>
+<entry>4.1</entry>
+<entry>2.9</entry>
+<entry>72.2</entry>
+<entry>12.5</entry>
+<entry>65.1</entry>
+<entry>2.570</entry>
+<entry>4.864</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>24.2</entry>
+<entry>4.3</entry>
+<entry>4.5</entry>
+<entry>54.9</entry>
+<entry>17.6</entry>
+<entry>60.9</entry>
+<entry>2.690</entry>
+<entry>6.543</entry>
+</row>
+<row>
+<entry>13</entry>
+<entry>23.4</entry>
+<entry>4.2</entry>
+<entry>3.8</entry>
+<entry>57.3</entry>
+<entry>17.4</entry>
+<entry>61.5</entry>
+<entry>2.640</entry>
+<entry>6.591</entry>
+</row>
+<row>
+<entry>14</entry>
+<entry>23.2</entry>
+<entry>3.9</entry>
+<entry>3.6</entry>
+<entry>63.7</entry>
+<entry>12.1</entry>
+<entry>56.6</entry>
+<entry>2.240</entry>
+<entry>5.402</entry>
+</row>
+<row>
+<entry>15</entry>
+<entry>23.0</entry>
+<entry>3.9</entry>
+<entry>3.1</entry>
+<entry>61.8</entry>
+<entry>18.7</entry>
+<entry>67.1</entry>
+<entry>2.830</entry>
+<entry>6.608</entry>
+</row>
+<row>
+<entry>16</entry>
+<entry>22.9</entry>
+<entry>4.1</entry>
+<entry>3.7</entry>
+<entry>62.7</entry>
+<entry>18.7</entry>
+<entry>68.4</entry>
+<entry>2.820</entry>
+<entry>6.631</entry>
+</row>
+<row>
+<entry>17</entry>
+<entry>21.8</entry>
+<entry>3.8</entry>
+<entry>2.2</entry>
+<entry>71.9</entry>
+<entry>12.9</entry>
+<entry>64.6</entry>
+<entry>2.495</entry>
+<entry>5.170</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0076" num="0065">Once again, the trend is for increased temperature of heat treatment to produce leaf teas with lower L* values (i.e. indicating a darker leaf colour). Similarly, for a given temperature this trend (i.e. lower L* value) remains more pronounced at higher steam flow rates.</p>
+<p id="p-0077" num="0066">The trend for infusion colour is broadly similar to the previous examples, with Samples 9 to 10 (90&#xb0; C.) showing a decrease in Normalised Infusion Colour (a*/solids value) such that the resulting infusion liquors have lower redness per level of infusion solids, and Samples 12, 13, 15 and 16 showing an increase in Normalised Infusion Colour (a*/solids value) such that the resulting infusion liquors have higher redness per level of infusion solids.</p>
+<p id="p-0078" num="0067">However, very high levels of steam appear to have an impact on the Normalised Infusion Colour of the leaf tea product, as can be seen from the data for Samples 11, 14, and 17 (steam flow rate of 30 kg/h) which all show a decrease in Normalised Infusion Colour (a*/solids value) compared to the control, regardless of the temperature used in the heat treatment regime. Without wishing to be bound by theory, the inventors' current hypothesis is that some of the soluble solids from the tea material may be solubilised into the steam during the heat treatment step, thus reducing the level of soluble solids in the final leaf tea product.</p>
+<p id="p-0079" num="0068">In conclusion, this example shows that post-auction processing of black tea under certain thermal conditions in the presence of steam yields a black leaf tea product with desirable leaf appearance. The infusion performance may also be improved, such that brewing the leaf tea product produces a liquor wherein for a given level of infusion solids the liquor has a more intense red colour (i.e. there is an improvement in Normalised Infusion Colour). However, whilst very high levels of steam have the greatest impact on leaf appearance, there is an associated impact on infusion performance. Nevertheless, these tea products may be interesting to consumers who prefer a weaker tea flavour (e.g. in countries where tea is typically consumed without added milk).</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A process for manufacturing a black leaf tea product, the process comprising:
+<claim-text>subjecting a black leaf tea starting material, having a moisture content of less than 5 wt. %, to a heat treatment step by passing it through a heated tube and contacting it with a heated surface inside the tube at a temperature of 100&#xb0; C. to 150&#xb0; C. for a duration of 3 to 15 minutes,</claim-text>
+<claim-text>wherein the heat treatment step is also carried out in the presence of steam, and the steam is provided at a flow rate of about 5 kg per hour to about 10 kg per hour.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the heated surface is at a temperature of 100&#xb0; C. to 120&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the steam is provided at a flow rate of about 5 kg per hour.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the heat treatment step is carried out using a continuous roaster.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The process of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the continuous roaster combines vibrational transport and heating via an electrically heated and vibrating spiral tube.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the heat treatment step is carried out in a confined atmosphere.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the black leaf tea starting material is a tea blend.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the black leaf tea starting material has an L* value of L*<sub>initial</sub>,</claim-text>
+<claim-text>the black leaf tea product has an L* value of L*<sub>final</sub>,</claim-text>
+<claim-text>&#x394;L*=(L*<sub>initial</sub>)&#x2212;(L*<sub>final</sub>), and</claim-text>
+<claim-text>&#x394;L* is at least 1.0.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The process of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein &#x394;L* is less than 3.5.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the black leaf tea starting material has a Normalised Infusion Colour of NIC<sub>initial</sub>,</claim-text>
+<claim-text>the black leaf tea product has a Normalised Infusion Colour of NIC<sub>final</sub>,</claim-text>
+<claim-text>wherein Normalised Infusion Colour is expressed in terms of a* value per mg/ml of infusion solids as determined for an infusion liquor obtained by contacting 2 g of the black leaf tea starting material (for NIC<sub>initial</sub>) or the black leaf tea product (for NIC<sub>final</sub>) with 200 ml freshly boiled water for 2 minutes, and wherein</claim-text>
+<claim-text>&#x394;NIC=(NIC<sub>final</sub>)&#x2212;(NIC<sub>initial</sub>), and</claim-text>
+<claim-text>&#x394;NIC is 0.3 to 1.7.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The process of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein &#x394;NIC is 0.32 to 1.65.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the process comprises the subsequent step of packaging the black leaf tea product.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The process of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the black leaf tea product is packaged in an amount of 1 g to 5 g.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

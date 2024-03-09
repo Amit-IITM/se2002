@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225247A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225247</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18093378</doc-number>
+<date>20230105</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EP</country>
+<doc-number>22151577.8</doc-number>
+<date>20220114</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>41</main-group>
+<subgroup>127</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>Q</subclass>
+<main-group>50</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>41</main-group>
+<subgroup>1271</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>06</class>
+<subclass>Q</subclass>
+<main-group>50</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">RESIDUE COLLECTOR</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>CNH Industrial America LLC</orgname>
+<address>
+<city>New Holland</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Deruyter</last-name>
+<first-name>Lucas</first-name>
+<address>
+<city>Gits</city>
+<country>BE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Tallir</last-name>
+<first-name>Frederik</first-name>
+<address>
+<city>Esen</city>
+<country>BE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Bonne</last-name>
+<first-name>Geert</first-name>
+<address>
+<city>Damme</city>
+<country>BE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Leenknegt</last-name>
+<first-name>Arno</first-name>
+<address>
+<city>Hooglede</city>
+<country>BE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>Missotten</last-name>
+<first-name>Bart M.A.</first-name>
+<address>
+<city>Herent</city>
+<country>BE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>Jongmans</last-name>
+<first-name>Dr&#xe9; W.J.</first-name>
+<address>
+<city>AG Klundert</city>
+<country>NL</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="06" designation="us-only">
+<addressbook>
+<last-name>Vanlerberghe</last-name>
+<first-name>Jasper</first-name>
+<address>
+<city>Aartrijke</city>
+<country>BE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="07" designation="us-only">
+<addressbook>
+<last-name>Van Overschelde</last-name>
+<first-name>Pieter</first-name>
+<address>
+<city>Sint-Andries</city>
+<country>BE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="08" designation="us-only">
+<addressbook>
+<last-name>Reubens</last-name>
+<first-name>Sam</first-name>
+<address>
+<city>Sint-Michiels</city>
+<country>BE</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>CNH Industrial America LLC</orgname>
+<role>02</role>
+<address>
+<city>New Holland</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A residue collector is operable to receive residue from a combine harvester during a training harvesting operation. The residue collector includes a residue separator for separating the processed residue into a first portion and a second portion based on a property of the processed residue; one or more weight sensors for directly or indirectly determining the weight of the first portion and the second portion; and a controller configured to determine a quality factor for the processed residue based on the determined weight of the first portion in relation to the weight of the second portion.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="64.52mm" wi="145.88mm" file="US20230225247A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="191.18mm" wi="159.51mm" file="US20230225247A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="202.52mm" wi="139.45mm" file="US20230225247A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="152.57mm" wi="146.39mm" file="US20230225247A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="192.96mm" wi="159.77mm" file="US20230225247A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="90.42mm" wi="126.58mm" file="US20230225247A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application claims priority to European Application No. 22151577.8, filed Jan. 14, 2022, the content of such application being incorporated by reference herein in its entirety.</p>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present disclosure relates to residue collectors that receive crop residue directly from a combine harvester, and subsequent use of information that can be determined from the received crop residue.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0004" num="0003">According to a first aspect of the invention, there is provided a residue collector that is operable to receive residue from a combine harvester during a training harvesting operation, wherein the residue collector comprises:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0004">a residue separator for separating the processed residue into a first portion and a second portion based on a property of the processed residue;</li>
+        <li id="ul0002-0002" num="0005">one or more weight sensors for directly or indirectly determining the weight of the first portion and the second portion; and</li>
+        <li id="ul0002-0003" num="0006">a controller configured to determine a quality factor for the processed residue based on the determined weight of the first portion in relation to the weight of the second portion.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0005" num="0007">Advantageously, such a residue collector can provide a better and more efficient device and method for quantifying the quality of residue that is deposited in the field. It can also enable much more data to be collected in different places and situations. Yet further, it can relate this data to settings of a residue treatment system of the combine harvester (or other parameters of the combine harvester) in an efficient and effective way that can be useful for subsequent harvesting operations.</p>
+<p id="p-0006" num="0008">The controller may be configured to determine the quality factor during the training harvesting operation.</p>
+<p id="p-0007" num="0009">The controller may be further configured to provide an indicator of the determined quality factor to an operator of the combine harvester during the training harvesting operation.</p>
+<p id="p-0008" num="0010">The residue separator may be for separating the processed residue into three or more portions based on one or more properties of the processed residue. The one or more weight sensors may be for directly or indirectly determining the weight of each portion. The controller may be configured to determine the quality factor for the processed residue based on the relative weights of the three or more portions.</p>
+<p id="p-0009" num="0011">The property of the residue that is used to separate it into the first portion and the second portion may comprise one or more of:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0012">the size of elements within the residue;</li>
+        <li id="ul0004-0002" num="0013">the shape of elements within the residue;</li>
+        <li id="ul0004-0003" num="0014">the density of element within the residue;</li>
+        <li id="ul0004-0004" num="0015">the moisture content of the residue; and</li>
+        <li id="ul0004-0005" num="0016">the colour of the residue.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0010" num="0017">The residue collector may comprise a trailer, which can be pulled by the combine harvester when in use.</p>
+<p id="p-0011" num="0018">The residue collector may have a residue collection configuration and a residue bypass configuration. In the residue collection configuration, the residue collector may be configured to transfer the residue to components of the residue collector for determining the quality factor for the residue. In the residue bypass configuration, the residue collector may be configured such that the residue bypasses or avoids the components of the residue collector for determining the quality factor for the residue.</p>
+<p id="p-0012" num="0019">The residue collector may further comprise a residue selection component for selectively transferring only part of the received residue to the residue separator.</p>
+<p id="p-0013" num="0020">The controller may be further configured to:
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0000">
+    <ul id="ul0006" list-style="none">
+        <li id="ul0006-0001" num="0021">receive one or more sensor values from sensors that are associated with the combine harvester; and</li>
+        <li id="ul0006-0002" num="0022">store the one or more sensor values and the associated determined quality factor as training data for a machine learning algorithm.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0014" num="0023">The controller may be further configured to: train a machine learning algorithm based on the training data, wherein the trained machine learning algorithm is for subsequent use during a harvesting operation.</p>
+<p id="p-0015" num="0024">The controller may be further configured to:
+<ul id="ul0007" list-style="none">
+    <li id="ul0007-0001" num="0000">
+    <ul id="ul0008" list-style="none">
+        <li id="ul0008-0001" num="0025">receive one or more sensor values from sensors that are associated with the combine harvester;</li>
+        <li id="ul0008-0002" num="0026">receive one or more operational parameters of the combine harvester that correspond to the time that the residue was harvested; and</li>
+        <li id="ul0008-0003" num="0027">train a machine learning algorithm based on the one or more sensor values, the one or more operational parameters and the determined quality factor, wherein the trained machine learning algorithm is for subsequent use during a harvesting operation.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0016" num="0028">There is also disclosed a controller for a combine harvester, the controller configured to:
+<ul id="ul0009" list-style="none">
+    <li id="ul0009-0001" num="0000">
+    <ul id="ul0010" list-style="none">
+        <li id="ul0010-0001" num="0029">receive one or more sensor values from sensors that are associated with the combine harvester during a harvesting operation;</li>
+        <li id="ul0010-0002" num="0030">use a machine learning algorithm that has been trained by any residue collector disclosed herein and the received one or more sensor values to determine a calculated quality factor; and</li>
+        <li id="ul0010-0003" num="0031">present the calculated quality factor to an operator of the combine harvester during the harvesting operation or set one or more operational parameters of the combine harvester during the harvesting operation based on the calculated quality factor.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0017" num="0032">The controller may be further configured to: set one or more operational parameters of the combine harvester during the harvesting operation based on the calculated quality factor and also based on a target quality factor.</p>
+<p id="p-0018" num="0033">There is also disclosed a controller for a combine harvester, the controller configured to:
+<ul id="ul0011" list-style="none">
+    <li id="ul0011-0001" num="0000">
+    <ul id="ul0012" list-style="none">
+        <li id="ul0012-0001" num="0034">receive one or more sensor values from sensors that are associated with the combine harvester during a training harvesting operation;</li>
+        <li id="ul0012-0002" num="0035">receive a target quality factor; and</li>
+        <li id="ul0012-0003" num="0036">use a machine learning algorithm that has been trained by any residue collector disclosed herein, the received one or more sensor values and the target quality factor to determine and apply one or more calculated operational parameters to the combine harvester during the training harvesting operation.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0019" num="0037">The one or more operational parameters may comprise one or more operational parameters of a residue processing component of the combine harvester.</p>
+<p id="p-0020" num="0038">There is also disclosed a method comprising:
+<ul id="ul0013" list-style="none">
+    <li id="ul0013-0001" num="0000">
+    <ul id="ul0014" list-style="none">
+        <li id="ul0014-0001" num="0039">receiving residue directly from a combine harvester during a harvesting operation;</li>
+        <li id="ul0014-0002" num="0040">separating the residue into a first portion and a second portion based on a property of the residue;</li>
+        <li id="ul0014-0003" num="0041">directly or indirectly determining the weight of the first portion and the second portion; and</li>
+        <li id="ul0014-0004" num="0042">determining a quality factor for the residue based on the determined weight of the first portion in relation to the weight of the second portion.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0021" num="0043">There is also disclosed a method of operating a combine harvester, the method comprising:
+<ul id="ul0015" list-style="none">
+    <li id="ul0015-0001" num="0000">
+    <ul id="ul0016" list-style="none">
+        <li id="ul0016-0001" num="0044">receiving one or more sensor values from sensors that are associated with the combine harvester during a harvesting operation;</li>
+        <li id="ul0016-0002" num="0045">using a machine learning algorithm that has been trained by any residue collector disclosed herein and the received one or more sensor values to determine a calculated quality factor; and</li>
+        <li id="ul0016-0003" num="0046">presenting the calculated quality factor to an operator of the combine harvester during the harvesting operation or setting one or more operational parameters of the combine harvester during the harvesting operation based on the calculated quality factor.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0022" num="0047">There is also disclosed a method of operating a combine harvester, the method comprising:
+<ul id="ul0017" list-style="none">
+    <li id="ul0017-0001" num="0000">
+    <ul id="ul0018" list-style="none">
+        <li id="ul0018-0001" num="0048">receiving one or more sensor values from sensors that are associated with the combine harvester during a harvesting operation;</li>
+        <li id="ul0018-0002" num="0049">receiving a target quality factor; and</li>
+        <li id="ul0018-0003" num="0050">using a machine learning algorithm that has been trained by any residue collector disclosed herein, the received one or more sensor values and the target quality factor to determine and apply one or more calculated operational parameters to the combine harvester during the harvesting operation.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0023" num="0051">There may be provided a computer program, which when run on a computer, causes the computer to configure any apparatus, including a controller or device disclosed herein or perform any method disclosed herein. The computer program may be a software implementation, and the computer may be considered as any appropriate hardware, including a digital signal processor, a microcontroller, and an implementation in read only memory (ROM), erasable programmable read only memory (EPROM) or electronically erasable programmable read only memory (EEPROM), as non-limiting examples. The software may be an assembly program.</p>
+<p id="p-0024" num="0052">The computer program may be provided on a computer readable medium, which may be a physical computer readable medium such as a disc or a memory device, or may be embodied as a transient signal. Such a transient signal may be a network download, including an internet download. There may be provided one or more non-transitory computer-readable storage media storing computer-executable instructions that, when executed by a computing system, causes the computing system to perform any method disclosed herein.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0025" num="0053">One or more embodiments will now be described by way of example only with reference to the accompanying drawings in which:</p>
+<p id="p-0026" num="0054"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a combine harvester;</p>
+<p id="p-0027" num="0055"><figref idref="DRAWINGS">FIG. <b>2</b></figref> illustrates an example of a residue collector;</p>
+<p id="p-0028" num="0056"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows an example embodiment of a raking system that can be provided as part of a residue separator;</p>
+<p id="p-0029" num="0057"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows an example of a rotating shaft for facilitating the transition of crop residue from one belt to another belt in a residue collector;</p>
+<p id="p-0030" num="0058"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows further details of a chopper, which is an example of a component that can process crop residue before it is ejected from the combine harvester;</p>
+<p id="p-0031" num="0059"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows an example embodiment of a method of determining a quality factor for residue that is ejected by a combine harvester;</p>
+<p id="p-0032" num="0060"><figref idref="DRAWINGS">FIG. <b>7</b></figref> illustrates a method of operating a combine harvester; and</p>
+<p id="p-0033" num="0061"><figref idref="DRAWINGS">FIG. <b>8</b></figref> illustrates another method of operating a combine harvester.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0034" num="0062"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a combine harvester <b>10</b>. The combine harvester <b>10</b> includes a feeder <b>12</b> onto which a header (not shown) can be mounted at a front end of the feeder. The header includes a cylindrical header reel (not shown) that rotates and directs crop material from growing crops to fall onto the header after/while being cut by the cutter bar of the header, allowing for the crop material to be separated from the growing crops and directed towards a crop elevator <b>14</b> in the feeder <b>12</b> that will supply the cut crop material to the other systems of the combine harvester <b>10</b>.</p>
+<p id="p-0035" num="0063">The combine harvester <b>10</b> comprises a threshing system <b>22</b> arranged downstream of the feeder <b>14</b>. The threshing system <b>22</b> includes a rotor <b>24</b> rotatable for separating grains from straw stalks and other plant residue, generally referred to as straw <b>28</b> or straw residue below, from the harvested crop.</p>
+<p id="p-0036" num="0064">The combine harvester <b>10</b> also includes a beater <b>26</b> rotatable for propelling a flow or stream of straw <b>28</b> rearwardly along an airborne trajectory through a rear cavity <b>34</b> enclosed by structural sheets of the combine harvester <b>10</b>. Additionally, a chopper might be present to reduce average straw length.</p>
+<p id="p-0037" num="0065">The combine harvester <b>10</b> comprises a cleaning system <b>30</b> for receiving the grain of harvested crop from the threshing system <b>22</b> and removing chaff and any other remaining residue, including seed pods, husks, and the like, generally referred to as chaff <b>32</b> or chaff residue, from the grain and directing a flow or stream of chaff <b>32</b> rearwardly through a lower region of rear cavity <b>34</b>, towards a lower opening <b>38</b>.</p>
+<p id="p-0038" num="0066">A horizontal residue spreader assembly <b>36</b> is located in the rear cavity <b>34</b>. The spreader assembly <b>36</b> comprises a crop residue distribution system <b>40</b>, e.g. including two side-by-side spreader disks or impellers configured for rotation in opposite directions about generally vertical rotational axes. The crop residue distribution system <b>40</b> may also include pivotably supported deflector doors located at a rear end <b>60</b> of the rear cavity <b>34</b>. The deflector doors may be pivotable between a closed position and an open position, to control spreading of the straw <b>28</b> and chaff <b>32</b>, collectively referred to as crop residue, or simply residue (also known as &#x201c;material other than grain&#x201d; or MOG), behind the combine harvester <b>10</b>.</p>
+<p id="p-0039" num="0067">The performance of a combine harvester can be measured by evaluating the grain loss.</p>
+<p id="p-0040" num="0068">For instance, the operator can stop the combine harvester and count the lost grains per unit of field area. It is also possible to put pans on the ground to collect the lost grains, and more accurately collect and count the lost grains.</p>
+<p id="p-0041" num="0069">However, not only the grain in the tank matters, but also the residue that the combine harvester leaves on the field. The residue is some or all of the harvest that passes through the combine harvester and does not go into the grain tank. As indicated above, this includes straw and chaff. Chaff/straw can also include plant material that is different from the crop, such as weeds and weed seeds.</p>
+<p id="p-0042" num="0070">After passing through the threshing and/or separation (which can include a rotor-concave, sieves, straw walkers, etc.), the operator can choose to deposit a certain fraction of the residue on the field, and optionally to process/treat it prior to depositing it on the field. For example, the operator can choose to deposit the straw directly as a swath, or to treat the straw before depositing it. For example, the straw can be treated by chopping it before depositing and/or spreading it in the field. The operator can choose to deposit the chaff directly, either together with the straw or separate from it (tram lining), or can choose to treat the chaff first and then deposit it. Possible treatments include mechanical treatment (like milling, grinding), chemical treatment (like mixing with a herbicide), radiation treatment and/or thermal treatment. One example of a mechanical treatment that will be discussed below is performed by a chaff mill, that can also be referred to as a weed seed destructor.</p>
+<p id="p-0043" num="0071">The operator can choose the treatment of the residue fraction prior to depositing it on the field to improve the field for subsequent agricultural operations and to improve future harvests. Chopping the straw can improve the use of the straw as fertilizer, by enabling faster breakdown. Treating the chaff can destroy weed seeds in the chaff and reduce the weed pressure.</p>
+<p id="p-0044" num="0072">The performance of the residue treatment is important to achieve good results and to reduce the requirement for (and therefore cost of) subsequent operations. Such subsequent operations can include the use of (extra) fertilizer, herbicide, irrigation, etc. Therefore, it can be important to evaluate the quality of the residue treatment. This can be done in a way that is similar to that for grain loss by stopping the combine harvester and manually checking the residue deposited in the field, or by collecting samples from the field for laboratory evaluation. However, this is very time consuming and it is difficult to get reliable quantitative results.</p>
+<p id="p-0045" num="0073">It is also difficult to relate residue quality measurements directly with specific parameters of the residue treatment system because the interaction can be quite complex. There are a big variety of harvesting situations, such as different crops, different status of the crop and different ambient conditions; it may not be self-evident which of these potential influences affects the measured quality of the crop residue.</p>
+<p id="p-0046" num="0074">Furthermore, it is also not recommended to rely (solely) on the know-how/experience of the operator of the combine harvester to be able to determine and adequately control the quality of the residue. This is because many operators are not (yet) very experienced in such matters and they are under a lot of time pressure at the time of the harvest.</p>
+<p id="p-0047" num="0075">Examples described below advantageously provide a better and more efficient device and method for quantifying the quality of residue that is deposited in the field. They can also enable much more data to be collected in different places and situations. Yet further, they can relate this data to settings of a residue treatment system of the combine harvester (or other parameters of the combine harvester) in an efficient and effective way that can be useful for subsequent harvesting operations.</p>
+<p id="p-0048" num="0076"><figref idref="DRAWINGS">FIG. <b>2</b></figref> illustrates an example of a residue collector <b>200</b> according to an embodiment of the present disclosure. The residue collector <b>200</b> can quantify the quality of a residue stream that is received from a combine harvester <b>210</b> in the field by determining a quality factor for the residue. In <figref idref="DRAWINGS">FIG. <b>2</b></figref>, only part of the combine harvester <b>210</b> is shown in order to assist with the description of the residue collector <b>200</b>; a rear portion of the combine harvester <b>210</b> is shown with most components (apart from the chopper <b>201</b>) omitted.</p>
+<p id="p-0049" num="0077">The residue collector <b>200</b> receives residue directly from the combine harvester <b>210</b> during a harvesting operation. The residue may be processed residue in that it has been processed/treated by the combine harvester <b>210</b> (such as by a chopper <b>201</b>) before it leaves the combine harvester <b>210</b>. The residue stream can include one or more of: (unchopped) straw, chopped straw, (untreated) chaff, and treated chaff. As will be discussed in detail below, the residue collector <b>200</b> can be used during a training harvesting operation in order to calibrate a machine learning algorithm for the combine harvester <b>210</b> in order to achieve improved performance during subsequent (non-training) harvesting operations without the residue collector <b>200</b>.</p>
+<p id="p-0050" num="0078">In the example of <figref idref="DRAWINGS">FIG. <b>2</b></figref> the residue collector <b>200</b> is a trailer, which is pulled by the combine harvester <b>210</b> when in use. In other examples, the residue collector <b>200</b> can be self-propelled such that it is not mechanically coupled to the combine harvester <b>210</b>, but instead can be operated such that it remains in close enough proximity to the combine harvester in order to directly receive the residue. In <figref idref="DRAWINGS">FIG. <b>2</b></figref> the residue collector <b>200</b> is mechanically coupled to the combine harvester <b>210</b> by a tow hitch and also includes an engine <b>202</b>. The engine <b>202</b> can be used to provide power for the residue collector <b>200</b>, which may or may not be to provide propulsion to the residue collector <b>200</b>. In this way, the residue collector <b>200</b> can be self-propelled and no power may be needed from the combine harvester <b>210</b>. Drawing too much (or any) power from the combine harvester <b>210</b> could undesirably influence the measurements that are used to determine the quality factor.</p>
+<p id="p-0051" num="0079">A residue stream from the combine harvester <b>210</b> is transferred from the combine harvester <b>210</b> to the residue collector <b>200</b> by a transfer system. In the example of <figref idref="DRAWINGS">FIG. <b>2</b></figref> the transfer system is a transfer belt <b>203</b>. The chopper <b>201</b> of the combine harvester <b>210</b> deposits the residue stream onto the transfer belt <b>203</b>, and the transfer belt <b>203</b> transfers the residue to downstream components of the residue collector <b>200</b>. It will be appreciated that other transfer systems such as a hopper/accumulator, moving platform, etc. can be used. In this example, the transfer belt <b>203</b> is provided as part of the residue collector <b>200</b>. The residue collector <b>200</b> also includes a total weight sensor <b>204</b> that receives residue from the transfer belt <b>203</b>. The total weight sensor <b>204</b> includes its own transfer mechanism for transferring the residue to downstream components for processing.</p>
+<p id="p-0052" num="0080">In some examples, the residue collector <b>200</b> can be put in a residue collection configuration or a residue bypass configuration. This can be implemented by using a transfer system (the transfer belt <b>203</b> and/or the total weight sensor <b>204</b> in <figref idref="DRAWINGS">FIG. <b>2</b></figref>) that is movable between a residue collection position and a residue deposition position. Alternatively the hitch between the combine harvester <b>210</b> and the residue collector <b>200</b> can be extended to put the residue collector <b>200</b> in the residue bypass configuration, such that the residue does not reach the residue collector <b>200</b>. In <figref idref="DRAWINGS">FIG. <b>2</b></figref> the total weight sensor <b>204</b> is shown in a residue collection position, in that the total weight sensor <b>204</b> receives the residue and transfers it to downstream components such that the quality factor for the residue can be determined. In a residue deposition position, the residue collector <b>200</b> can deposit residue in the field without determining a quality factor for that residue. That is, the transfer system can direct the residue such that it bypasses or avoids at least some of the components of the residue collector <b>200</b> that determine the quality factor for the residue. By way of example, this can involve moving the total weight sensor <b>204</b> such that it provides residue to a spreader <b>209</b> instead of downstream components that are used to determine the quality factor. In <figref idref="DRAWINGS">FIG. <b>2</b></figref>, this involves the total weight sensor <b>204</b> being moved to the right such it receives residue from the transfer belt <b>203</b> and deposits the residue vertically downwards on to the spreader <b>209</b>. That is, the leftmost end of the total weight sensor <b>204</b> is spaced apart (in a longitudinal direction) from a residue separator <b>205</b> such that the residue is not provided to the residue separator <b>205</b> from the total weight sensor <b>204</b>. Alternatively, the transfer belt <b>203</b> can be rotated about a vertical axis such that the residue is deposited to the side of the residue collector <b>200</b> or it can involve moving the transfer system such that it does not receive the residue.</p>
+<p id="p-0053" num="0081">Beneficially, in some examples, the transfer system can be suitable for transferring residue streams from different types and models of combine harvesters such that the residue collector <b>200</b> can be used with a variety of combine harvesters.</p>
+<p id="p-0054" num="0082">In the example of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the total weight sensor <b>204</b> determines the weight of the received residue. The total weight sensor <b>204</b> receives the residue from the transfer belt <b>203</b> and is implemented as a weight measuring belt/conveyor in this example. The total weight sensor <b>204</b> can periodically provide a total-weight-signal to a controller (not shown), wherein the total-weight-signal represents the weight of the residue that is received from the combine harvester <b>210</b>, and for which the quality factor will be determined. During a training harvesting operation, the combine harvester can provide residue to the residue collector <b>200</b>, with the residue collector <b>200</b> in the residue bypass configuration. As discussed above, this can involve putting the total weight sensor <b>204</b> in the residue deposition position such that it provides residue to the spreader <b>209</b>.</p>
+<p id="p-0055" num="0083">Once the training harvesting operation is considered to represent stable operation, and the total weight sensor <b>204</b> is receiving a consistent amount of residue from the combine harvester, the combine harvester and the residue collector can be stopped and the transfer mechanism of the total weight sensor <b>204</b> can be paused such that it is loaded with residue.</p>
+<p id="p-0056" num="0084">While the combine harvester and the residue collector <b>200</b> are stationary, the residue collector <b>200</b> can be put in the residue collection configuration. As discussed above, in <figref idref="DRAWINGS">FIG. <b>2</b></figref> this can involve putting the total weight sensor <b>204</b> in a residue collection position such that it provides all of the residue that is on the total weight sensor <b>204</b> to the residue separator <b>205</b>.</p>
+<p id="p-0057" num="0085">The residue separator <b>205</b> separates the processed residue into a first portion and a second portion based on a property of the processed residue. In this way, the residue separator <b>205</b> splits the residue stream into at least two fractions with different properties.</p>
+<p id="p-0058" num="0086">The residue separator <b>205</b> in this example is provided as a sieve <b>206</b> such that relatively small elements of the residue can pass through the sieve, but relatively large elements cannot. That is, the property of the residue that is used to separate the received residue into the first portion and the second portion includes the size of the residue. For example, short straw can be separated from long straw. The residue separator <b>205</b> can include various adjustable settings such as: adjustable shaking rpm (revolutions per minute) to shake the sieve <b>206</b> and facilitate the smaller elements of the residue passing through the sieve <b>206</b>; an adjustable shaking stroke, again to shake the sieve <b>206</b> and facilitate the smaller elements of the residue passing through the sieve <b>206</b>; and adjustable sieve openings to set the size of residue elements that are able to pass through the sieve <b>206</b>, and what size are not.</p>
+<p id="p-0059" num="0087">In this example, the elements of the residue that pass through the sieve <b>206</b> (and therefore are relatively small) can be considered as a first portion of the received residue. The elements of the residue that do not pass through the sieve <b>206</b> (and therefore are relatively large) can be considered as a second portion of the received residue.</p>
+<p id="p-0060" num="0088">The residue collector <b>200</b> further includes a first portion weight sensor <b>207</b> that determines the weight of the first portion of the received residue (the portion that passes through the sieve <b>206</b>). The residue collector <b>200</b> also includes a second portion weight sensor <b>208</b> that determines the weight of the second portion of the received residue (the portion that does not pass through the sieve <b>206</b>). The first portion weight sensor <b>207</b> can provide a first-portion-weight-signal to a controller (not shown), wherein the first-portion-weight-signal represents the weight of the first portion of the residue that was present on the total weight sensor <b>204</b> when the machines were stopped. The second portion weight sensor <b>208</b> can provide a second-portion-weight-signal to a controller (not shown), wherein the second-portion-weight-signal represents the weight of the second portion of the residue that was present on the total weight sensor <b>204</b> when the machines were stopped.</p>
+<p id="p-0061" num="0089">In this example it can be advantageous to stop the machines to weigh the first and second portions because more accurate measurements can be taken. In other examples, sufficiently accurate measurements are achievable while the machines are in motion. That is, it is not necessary to stop the combine harvester <b>210</b> and the residue collector <b>200</b> once the training harvesting operation is considered to represent stable operation. Instead, the residue collector <b>200</b> can be put in the residue collection configuration while it is in motion and the reside can be separated and weighed without stopping the residue collector <b>200</b>. In this way, the residue collector <b>200</b> can also work in a continuous mode in which it performs the measuring on a continuous stream of residue coming from the combine harvester <b>210</b> without the combine harvester <b>210</b>/residue collector <b>200</b> stopping in the field. In some examples this can involve processing only a portion of the residue flow, especially if the residue collector <b>200</b> has capacity limitations, this might probably require to monitor only a fraction of the residue flow. This can be implemented by alternating the residue collector <b>200</b> between the residue collection configuration and the residue bypass configuration such that an appropriate amount of residue is processed by the residue collector <b>200</b>. Alternatively, only a fraction of the residue may be processed by the residue collector <b>200</b> when it is in the residue collection configuration.</p>
+<p id="p-0062" num="0090">One or both of the first portion weight sensor <b>207</b> and the second portion weight sensor <b>208</b> can be implemented as a weight measuring belt/conveyor in the same way as the total weight sensor <b>204</b>. Alternatively, any of the weight sensors described herein can be implemented by accumulating residue in a weighing bunker for a predetermined period of time or in any other way that is known in the art.</p>
+<p id="p-0063" num="0091">Once the first portion has been weighed, in the example of <figref idref="DRAWINGS">FIG. <b>2</b></figref> it is provided to the spreader <b>209</b> for depositing on the field. Optionally, the second portion can also be provided to the spreader <b>209</b> after it has been weighed.</p>
+<p id="p-0064" num="0092">The residue collector <b>200</b> also includes a controller (not shown) for processing one or more of the total-weight-signal, the first-portion-weight-signal and the second-portion-weight-signal. The controller can be provided locally to, or remote from, the residue collector <b>200</b>. For example, the functionality of the controller can be provided in the cloud and the weight-signals that are measured by weight sensors <b>204</b>, <b>207</b>, <b>208</b> can be transmitted to the remote controller for processing.</p>
+<p id="p-0065" num="0093">The controller determines a quality factor for the processed residue based on the determined weight of the first portion in relation to the weight of the second portion. In this way the controller can determine the quality factor during the harvesting operation because the signals that are required to determine the quality factor are available nearly instantaneously during the harvesting operation. It will be appreciated that calculating a quality factor in this way can implemented by processing any 2 of the following 3 signals: the total-weight-signal, the first-portion-weight-signal and the second-portion-weight-signal. Therefore, in some examples only 2 of the following 3 weight sensors may be required: the total weight sensor <b>204</b>, the first portion weight sensor <b>207</b> and the second portion weight sensor <b>208</b>. That is, the residue collector <b>200</b> can include one or more weight sensors (since a weight sensor can potentially be reused such that it provides more than one of the weight-signals) for directly or indirectly determining the weight of the first portion and the second portion. An example of an indirect determination of the weight of the first portion can be made by subtracting the second-portion-weight signal (as provided by the second portion weight sensor) from the total-weight-signal (as provided by the total weight sensor).</p>
+<p id="p-0066" num="0094">In the example of <figref idref="DRAWINGS">FIG. <b>2</b></figref> the quality factor is calculated by dividing the first-portion-weight-signal by the total-weight-signal. In this way, it represents the proportion of the received residue that passes through the sieve <b>206</b> and therefore is classified as relatively small. It will be appreciated that the same general information can be determined by performing appropriate calculations with any 2 of the weight-signals.</p>
+<p id="p-0067" num="0095">Furthermore, the controller can provide an indicator of the determined quality factor to an operator of the combine harvester during the harvesting operation. For example, by displaying the determined quality factor on a screen in the cab of the combine harvester. Furthermore, the controller can periodically update the quality factor as updated weight-signals are received and processed.</p>
+<p id="p-0068" num="0096">In some examples the residue collector <b>200</b> can include a residue selection component that selectively transfers only part of the received residue stream to the residue separator <b>205</b>. This selection can be based on a lateral position of the received residue (for example to select residue over only part of the width of the received reside, such as only the left part of the residue that is coming out of the combine harvester). Additionally or alternatively, the selection can be based on time (for example, residue is transferred to the residue separator <b>205</b> for half a minute of every 5 minutes). Such selection can be beneficial because it can match the rate at which the combine harvester <b>210</b> produces the residue with the capacity of the residue collector <b>200</b>. The parts of the residue that are not selected for processing by the residue separator <b>205</b> can be deposited directly on the field.</p>
+<p id="p-0069" num="0097">In yet another example, the residue collector <b>200</b> can include a residue scanner (not shown) that scans the residue that is received from the combine harvester <b>210</b> to determine the volume of residue that is being provided per unit time. In this way, the flow rate of residue that is provided by the combine harvester <b>210</b> can be determined. Such a residue scanner can be implemented with an ultrasonic sensing system, a lidar sensing system or a radar sensing system, as non-limiting examples. The controller can then be used to determine the volume of residue that is being provided to automatically control one or more operational parameters of the combine harvester <b>210</b> and/or the residue collector <b>200</b>. For instance, an operational parameter of the combine harvester <b>210</b> can be set such that the volume of residue that is being provided by the combine harvester <b>210</b> is a better match for the volume of residue that can be handled by the residue collector <b>200</b> without overloading or underloading it. Also, an operational parameter of the residue collector <b>200</b> can be set so as to selectively switch between a residue collection configuration and a residue bypass configuration such that the volume of residue that is provided to the residue separator <b>205</b> is a better match for the volume of residue that can be handled by the residue separator <b>205</b>. Further still, an operational parameter of the residue collector <b>200</b> can be set so as to control a residue selection component that selectively transfers only part of the received residue stream to the residue separator <b>205</b>.</p>
+<p id="p-0070" num="0098">The residue collector <b>200</b> of <figref idref="DRAWINGS">FIG. <b>2</b></figref> can provide very significant advantages. By combining the collection of the residue with the determination of the quality factor for the residue on a single device (the residue collector <b>200</b>), it is possible to complete a training harvesting operation quickly and efficiently. This can provide a drastic reduction in time and cost for testing. Furthermore, because the testing can be performed more quickly, there will also be less variation in the test results as crop and field conditions will not change significantly during the time it takes to perform a training harvesting operation. This is especially beneficial when performing training harvesting operations to build up a dataset that will used to improve the performance of a subsequent (non-training) harvesting operation. This is discussed in detail below in relation to acquiring training data for a machine learning algorithm that will be implemented as part of the subsequent (non-training) harvesting operation.</p>
+<p id="p-0071" num="0099">In examples where the controller is used to train a machine learning algorithm, it can also receive one or more sensor values from sensors that are associated with the combine harvester <b>210</b> during the training harvesting operations. In some examples, the one or more sensor values are from sensors that are associated with residue processing components of the combine harvester <b>210</b>, which are used to process/treat the residue before it is ejected from the combine harvester <b>210</b>. The sensor values can be associated with a determined quality factor, in that they are recorded at a time that corresponds to substantially the same elements of the residue for which the quality factor will be determined. For instance, the controller can apply a time offset to the one or more sensor values to account for the time it takes the residue stream to travel from: i) the point in/at the combine harvester from which the sensor values were recorded; to ii) the point/points in the residue collector <b>200</b> from which measurements are taken to determine the quality factor. In alternative examples the controller may not apply a time offset. This is on the basis that variations in the residue are considered to be relatively slow compared to the time it takes for the residue to pass through the combine harvester <b>210</b> and the residue collector <b>200</b>.</p>
+<p id="p-0072" num="0100">The controller can then train the machine learning algorithm based on the one or more sensor values and the determined quality factor. For example, the machine learning algorithm can be a classification algorithm that uses the one or more sensor values as inputs and the determined quality factor as ground truth data for the training. The trained machine learning algorithm can then be used during a subsequent harvesting operation to process received sensor values and determine a quality factor, without requiring use of a residue collector <b>200</b>. In this way, the residue collector <b>200</b> can be used for obtaining training data for calibrating the machine learning algorithm.</p>
+<p id="p-0073" num="0101">The types of machine learning algorithm that are suitable for providing this functionality are well known in the art and can include a neural network (NN), a convolutional neural network (CNN) and a state vector machine (SVM), as non-limiting examples.</p>
+<p id="p-0074" num="0102">Examples of sensors that can be used to provide the sensor values include optical sensors, cameras, acoustic sensors, temperature sensors, velocity or rpm sensors, pressure sensors, moisture sensors, loss sensors, knock sensors, and mechanical sensors. Indeed, any sensor can be used that can sense data that can have an effect on the quality of the residue (as it is defined by the quality factor).</p>
+<p id="p-0075" num="0103">In further detail, the one or more sensors can include a camera (or other optical sensor) that records images of the crop or residue and/or a crop flow path or residue flow path in the combine harvester <b>210</b>. The sensor values can therefore comprise one or a series of pictures taken from the residue stream within the combine harvester, such as pictures from a so-called chop cam that records images of chopped straw in/at the combine harvester <b>210</b>.</p>
+<p id="p-0076" num="0104">If the one or more sensors includes one or more acoustic sensors, then these can be located to record sounds of the crop/residue as it passes along a flow path in the combine harvester <b>210</b>. One or more of the size, shape and material of the crop/residue can affect the sounds that occur as the crop/residue passes through the combine harvester <b>210</b>, and therefore the recorded sounds can be indicative of the quality factor of the residue.</p>
+<p id="p-0077" num="0105">If the one or more sensors includes one or more mechanical sensors, then these can be located to record impacts/vibrations caused by the crop/residue as it passes along a flow path in the combine harvester <b>210</b>. One or more of the size, shape and material of the crop/residue can cause different mechanical sensor values as the crop/residue passes through the combine harvester <b>210</b>, and therefore the recorded mechanical sensor values can also be indicative of the quality factor of the residue.</p>
+<p id="p-0078" num="0106">Loss sensors are known in the art as being capable of sensing an amount of grain that is not successfully recovered by the combine harvester <b>210</b>, and therefore is lost. Such loss sensors can include an optical sensor, an acoustic sensor and a knock sensor. A knock sensor can be excited by grain impacting it.</p>
+<p id="p-0079" num="0107">Optionally, well-known signal processing techniques can be applied to the sensor values before they are used by the controller to train the machine learning algorithm. Such techniques include calibration, noise reduction, low pass filtering, etc. In the case of one or more images, well-known image processing techniques can be applied such as calibration, noise reduction, thresholding, edge and shape recognition, classification and counting.</p>
+<p id="p-0080" num="0108">Advantageously, the calculation (and optional display) of the residue quality factor during the training harvesting operation enables the operation of the combine harvester <b>210</b> to be adjusted during the training harvesting operation in order to create a varied dataset for training the machine learning algorithm. For instance, one or more operational parameters of the combine harvester <b>210</b> can be adjusted such that different measurements for the sensor values are obtained and/or different quality factors are determined. In this way, a good set of training data can be acquired for the machine learning algorithm in a fast and efficient way. This can be much better than an example where a quality factor of the residue is calculated after the training harvesting operation is complete, in which case it will likely be necessary to initiate another training harvesting operation to try and complete the dataset. Even then, that subsequent training harvesting operation may not provide all of the required information because it will be difficult for the operator to know the quality of the residue that is being produced. Yet further, it can be more difficult to accurately associate any sensor values with determined quality factors when the quality factors are determined from residue that is collected and processed separately.</p>
+<p id="p-0081" num="0109">Returning to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, we will now describe how a machine learning algorithm that has been trained by the method described above can be used by the combine harvester <b>10</b> to provide residue that has a desired quality factor. It will be appreciated by those skilled in the art that the desirability of a specific quality factor for the residue will depend upon the specifics of the harvesting operation. For instance, for a harvesting operation in a tropical country (such as Brazil), it may be desirable to have relatively large residue left on the ground after the harvesting operation in order to protect the topsoil from tropical rain. Whereas in a country that is relatively cold (such as Canada) it may be desirable to have relatively small residue left on the soil so that it can more easily be broken down. This potential range in values for what is considered a desirable quality factor is one reason that it can be advantageous to use a varied dataset when training the machine learning algorithm, as discussed above.</p>
+<p id="p-0082" num="0110">The combine harvester <b>10</b> that is to be used for the (non-training) harvesting operation includes a controller (not shown). The controller receives one or more sensor values from sensors that are associated with the combine harvester during the harvesting operation. The sensors and sensor values can be any of the corresponding sensors and sensor values that are discussed above in relation to training the machine learning algorithm.</p>
+<p id="p-0083" num="0111">The controller can then use the machine learning algorithm that has been trained by the method that is described above, with the received one or more sensor values as inputs, to determine a calculated quality factor. The quality factor can be calculated nearly instantaneously as the residue is being generated by the combine harvester <b>10</b>.</p>
+<p id="p-0084" num="0112">In this example, the controller also causes the calculated quality factor to be presented to an operator of the combine harvester <b>10</b> during the harvesting operation. In this way, a live feed of the instantaneous values of the calculated quality factor can be presented to the operator such that the operator can continue to use the combine harvester <b>10</b> in an improved way. For instance, if the operator can see that the calculated quality factor is too low or too high (when compared with their desired quality factor) then they can adjust an operating parameter of the combine harvester <b>10</b> to bring the calculated quality factor closer to the desired values. (An example of how an operating parameter of the combine harvester <b>10</b> can be adjusted by changing the performance of the chopper is described below.) The controller can cause the calculated quality factor to be presented to the operator visually (through use of a display in the cab, for example), aurally (through use of a speaker, for example) or by any other way that is known in the art.</p>
+<p id="p-0085" num="0113">Additionally or alternatively, the controller may set one or more operational parameters of the combine harvester <b>10</b> during the harvesting operation based on the calculated quality factor. This can be implemented by applying a control loop that adjusts the one or more operational parameters with a view to bringing the calculated quality factor closer to a target quality factor that has been provided to the controller by an operator of the combine harvester <b>10</b>. Such control loops are known in the art and can involve adjusting the one or more operational parameters until the calculated quality factor is considered close enough to the target quality factor or until further iterations of the control loop do not result in a significant enough improvement in the calculated quality factor. In this way, the controller can set one or more operational parameters of the combine harvester during the harvesting operation based on the calculated quality factor and also based on a target quality factor (or a range of target quality factors if that is what has been provided).</p>
+<p id="p-0086" num="0114">In a yet further example, a controller associated with the residue collector can train a machine learning algorithm in a different way during a training harvesting operation. In such an example the controller receives one or more sensor values and one or more operational parameters of the combine harvester during the training harvesting operation, in addition to the determined quality factor. In the same way that is described above, the one or more sensor values are from one or more of a variety of sensors that are associated with the combine harvester. The one or more operational parameters of the combine harvester can be associated with the determined quality factor, in that they are recorded at a time that corresponds to substantially the same elements of the residue for which the quality factor has been determined. In the same way that is described above for the sensor values, the controller may or may not apply a time offset to the one or more operational parameters to account for the time it takes the residue stream to travel from: i) the point in/at the combine harvester at which an operational parameter takes effect; to ii) the point/points in the residue collector from which measurements are taken to determine the quality factor.</p>
+<p id="p-0087" num="0115">The operational parameters of the combine harvester can include operational parameters of residue processing components of the combine harvester, such as an operational parameter of a chopper that chops the residue before it exits the combine harvester. Further details of such an example are provided below with reference to <figref idref="DRAWINGS">FIG. <b>5</b></figref>.</p>
+<p id="p-0088" num="0116">In this way, a dataset can be created whereby data of the working condition of the combine harvester and data measured in the combine harvester is combined with data measured by the residue collector (optionally shifted over time).</p>
+<p id="p-0089" num="0117">The controller associated with the residue collector can then train the machine learning algorithm based on the one or more sensor values, the one or more operational parameters and the determined quality factor. For example, the machine learning algorithm can be a classification algorithm that uses the one or more sensor values and the determined quality factor as inputs, and uses the one or more operational parameters as ground truth data for the training. As will be discussed below, a machine training algorithm that is trained in this way is one way of providing for autonomous control of (at least some aspects of) a harvesting operation.</p>
+<p id="p-0090" num="0118">With reference to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, we will now describe how a machine learning algorithm that has been trained by the method described above can be used by the combine harvester <b>10</b> to provide residue that has a desired quality factor.</p>
+<p id="p-0091" num="0119">In this example the controller of the combine harvester <b>10</b> that is to be used for the (non-training) harvesting operation receives: one or more sensor values from sensors that are associated with the combine harvester during the harvesting operation; and a target quality factor (e.g. as provided by an operator of the combine harvester <b>10</b> as discussed above). Again, the sensors and sensor values can be any of the corresponding sensors and sensor values that are discussed above in relation to training the machine learning algorithm.</p>
+<p id="p-0092" num="0120">The controller can then use the machine learning algorithm that has been trained by the method that is described above, with the received one or more sensor values and the target quality factor as inputs, to determine and apply one or more calculated operational parameters for the combine harvester during the harvesting operation. In this way, at least part of the combine harvester can be automatically controlled such that it provides residue with a desired quality factor.</p>
+<p id="p-0093" num="0121">It will be appreciated from the above description that by running field tests with a residue collector with a variety of combine harvester and residue treatment settings, a sufficiently broad and large dataset can be created to enable a well-known artificial intelligence (AI) algorithm to be trained such that the combine harvester and residue treatment settings can be controlled for a subsequent harvesting operation to obtain a desired residue quality in a range of conditions.</p>
+<p id="p-0094" num="0122">In a further example, any of the machine learning algorithms described herein can be trained with additional types of data, including crop-data, field-data and/or environmental-data, as inputs that are acquired during the training harvesting operation. Similarly, when the trained machine learning algorithm is used in a subsequent (non-training) harvesting operation, the same additional types of data can be acquired and used as inputs.</p>
+<p id="p-0095" num="0123">Crop-data is indicative of one or more characteristics of the crop in the field that is to be harvested by the combine harvester. The crop-data may be indicative of one or more of:
+<ul id="ul0019" list-style="none">
+    <li id="ul0019-0001" num="0000">
+    <ul id="ul0020" list-style="none">
+        <li id="ul0020-0001" num="0124">crop height;</li>
+        <li id="ul0020-0002" num="0125">crop density;</li>
+        <li id="ul0020-0003" num="0126">crop moisture;</li>
+        <li id="ul0020-0004" num="0127">crop feed rate (i.e. how much crop is entering the machine); and</li>
+        <li id="ul0020-0005" num="0128">crop type.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0096" num="0129">Field-data is indicative of a field condition of a field across which the combine harvester is operating. The field-data may be indicative of one or more of:
+<ul id="ul0021" list-style="none">
+    <li id="ul0021-0001" num="0000">
+    <ul id="ul0022" list-style="none">
+        <li id="ul0022-0001" num="0130">a moisture content of the soil;</li>
+        <li id="ul0022-0002" num="0131">a temperature of the soil; and</li>
+        <li id="ul0022-0003" num="0132">a soil type.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0097" num="0133">Environmental-data is indicative of the environmental conditions in which the combine harvester is operating. The environmental-data is indicative one or more of:
+<ul id="ul0023" list-style="none">
+    <li id="ul0023-0001" num="0000">
+    <ul id="ul0024" list-style="none">
+        <li id="ul0024-0001" num="0134">air humidity; and</li>
+        <li id="ul0024-0002" num="0135">air temperature.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0098" num="0136">Various types of sensor that are suitable for providing the above types of data are well-known in the art.</p>
+<p id="p-0099" num="0137">As discussed above, a residue collector as described herein includes a residue separator for separating residue into a first portion and a second portion based on a property of the residue. In the example of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the residue separator is implemented as a sieve. In another example the residue separator can include a fan/blower that provides an airflow to the residue. Such an airflow can cause a first portion of the residue to be transported along a first flow path (such as into a first bin/hopper), and can also cause a second portion of the residue to be transported along a second flow path (such as into a second bin/hopper). It will be appreciated that the weight and/or dimensions of the individual elements of the residue will determine how much affect the airflow will have on those elements and therefore whether the airflow will cause them to be transported along the first or the second path. Such a residue separator can cause the residue to be separated into the first portion and the second portion based on the weight and/or dimensions of the residue.</p>
+<p id="p-0100" num="0138">It will also be appreciated that the residue separator can separate the received residue into more than two portions (for example by sequentially passing the residue through a plurality of sieves each with smaller holes than the preceding one), and that a corresponding quality factor can be determined accordingly. For such an example, the quality factor can consist of a plurality of different sub-components which each represent a different portion. As a numerical example: if a first portion includes 50% of the total weight of the received residue, a second portion includes 30% of the total weight of the received residue, and a third portion includes 20% of the total weight of the received residue, then the quality factor can be represented as 50.30.20. That is, the quality factor for the processed residue can be determined based on the relative weights of three or more portions.</p>
+<p id="p-0101" num="0139">In another example, the residue separator for separating the residue can include a camera that records images of the residue. The residue separator can also include an image processing algorithm that extracts one or more features from the images. These extracted features are examples of properties of the residue that can be used to separate the residue into the first portion and the second portion. Non-limiting examples of features that can be extracted from such images include:
+<ul id="ul0025" list-style="none">
+    <li id="ul0025-0001" num="0000">
+    <ul id="ul0026" list-style="none">
+        <li id="ul0026-0001" num="0140">the size of elements within the residue, such as:
+        <ul id="ul0027" list-style="none">
+            <li id="ul0027-0001" num="0141">a distinction between short and long straw (e.g. with respect to one or more threshold values);</li>
+            <li id="ul0027-0002" num="0142">a distinction between large and small grains/particles of processed chaff (again, with respect to one or more threshold values for example). Such an example can be particularly useful in an example that includes a chaff mill to treat the residue before it is ejected by the combine harvester. The chaff mill can also be referred to as a weed seed destructor, in that it is used to destroy weed seeds, and therefore reduce their germination capacity, before they are returned to the field as residue. Therefore, being able to distinguish been large and small particles in the residue (and therefore the extent to which weed seeds have been destroyed) can enable a useful quality factor to be determined;</li>
+        </ul>
+        </li>
+        <li id="ul0026-0002" num="0143">colour;
+        <ul id="ul0028" list-style="none">
+            <li id="ul0028-0001" num="0144">for example, the amount of one or more specific colours in an image of the residue can be indicative of one or more properties of the residue. Such as: the amount of green in an image can be indicative of the amount of weeds; the amount of brown in an image can be indicative of the amount of grain; the proportion of green pixels to brown pixels can be indicative of the proportion of weeds to grains in the residue;</li>
+        </ul>
+        </li>
+        <li id="ul0026-0003" num="0145">the number of predetermined shapes in the image, e.g. shapes that represent damaged seeds or grain, spliced straw or, more generally the condition of straw: e.g. bent, buckled, dented, crushed, etc.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0102" num="0146">In a yet further example, the residue separator can separate the residue into the first portion and the second portion based on a moisture content of the residue. The residue separator can include a moisture sensor that determines the moisture of the residue, and can include a controller that compares a sensed moisture value with one or more thresholds to determine whether the associated residue should be part of the first portion or the second portion.</p>
+<p id="p-0103" num="0147">For at least some of the above properties that are used to determine whether the residue should be in the first portion or the second portion (or any further portions if there are any), the residue separator can include a separation mechanism for dividing the residue into the different portions. In one example implementation, the residue can be transported on a conveyor belt towards a movable panel that can divert the residue to either a first bin/hopper or to a second bin/hopper. The position of the movable panel is set based on the determined property of the residue such that the residue can be selectively directed to one of the bins/hoppers and therefore separated into the different portions.</p>
+<p id="p-0104" num="0148">With reference to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, and as indicated above, in some examples the combine harvester <b>10</b> can produce chaff residue <b>32</b>. Such chaff residue <b>32</b> can be treated within the combine harvester <b>10</b> by mechanical processing, such as by a mill to destroy weed seeds. For such an example, a residue collector can separate the treated chaff residue into two portions, for example based on grain/particle size. For example, to separate chaff residue treated by grinding into a fraction with bigger particles, such as weed seeds and/or broken weed seed particles, and a fraction with smaller particles, such as crushed chaff and dust. By quantifying the weed seed (particles) with a size above a certain threshold, a quality indicator for the chaff treatment, in particular mechanical treatment, for example grinding or milling, can be evaluated. The residue collector can have a residue separator that includes a raking system, typically suitable for processing straw-like residue.</p>
+<p id="p-0105" num="0149"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows an example embodiment of a raking system <b>310</b> that can be provided as part of a residue separator according to the present disclosure. The raking system <b>310</b> can be positioned on top of the sieves (not shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>). The raking system <b>310</b> assists in spreading the residue/straw over the sieves and can help prevent blockages in the sieves.</p>
+<p id="p-0106" num="0150">In the example of <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the raking system <b>310</b> includes a rake <b>311</b> with a plurality of tines. The rake <b>311</b> is operable to be moved parallel to the sieve with a superimposed up/down movement (for instance, in a wave-like motion). This is implemented in <figref idref="DRAWINGS">FIG. <b>3</b></figref> by the undulating tracks <b>312</b> in which the rake <b>311</b> is mounted. As the rake <b>311</b> is moved in a longitudinal direction along the sieves, the undulating tracks <b>312</b> cause the rake <b>311</b> to also move up and down in a direction that is perpendicular to the plane of the sieve. The wave-like motion can be used for the back and forth motion (such that the rake <b>311</b> follows the undulating tracks when it moves in both longitudinal directions over the sieves). Alternatively, the rake <b>311</b> may move in the wave-like motion in only one longitudinal direction, while in the other longitudinal direction the rake <b>311</b> is returned while not raking the straw, for example it is returned above the straw. This can be implemented by the rake <b>311</b> following the wave-like track <b>312</b> in one longitudinal direction, and following a different track (that is further spaced apart from the sieve) in the other longitudinal direction. As a further still example, the raking system <b>310</b> can alter the wave pattern that the rake <b>311</b> follows (in terms of phase and/or amplitude) by any suitable mechanism. This can further assist in separating the residue into the different portions.</p>
+<p id="p-0107" num="0151">As indicated above, and as illustrated in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the residue collector <b>200</b> can have an additional power source on board, such as a combustion engine <b>202</b>, electric motor with battery and/or fuel cell. Such a power source can be used to drive the residue separator. This can be in addition to, or instead of, providing propulsion for the residue collector <b>200</b>. This can be advantageous because no power is needed from the combine harvester for driving the residue separator, which could undesirably influence the measurements.</p>
+<p id="p-0108" num="0152">Again with reference to <figref idref="DRAWINGS">FIG. <b>2</b></figref>, to facilitate the transition from one belt to another belt (for example from the transfer belt <b>203</b> to the weight measuring belt of the total weight sensor <b>204</b>), the residue collector <b>200</b> can include a rotating shaft with tines that engage with the residue as it moves between the two belts. <figref idref="DRAWINGS">FIG. <b>4</b></figref> shows an example of such a rotating shaft <b>413</b>. This can improve the homogeneity of the feeding of the residue and assist with ensuring a continuous flow of the residue.</p>
+<p id="p-0109" num="0153"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows further details of a chopper <b>520</b>, which is an example of a component that can process the residue before it is ejected from the combine harvester as part of a harvesting operation. The chopper <b>520</b> includes a plurality of rotational knives/blades <b>521</b> that rotate about an axis and periodically come into close proximity with a stationary/counter knife <b>522</b>. Any residue that is between a rotational knife <b>521</b> and the stationary knife <b>522</b> when they pass each other is cut.</p>
+<p id="p-0110" num="0154">As discussed above, one or more operational parameters of a combine harvester can be adjusted with a view to changing the quality factor of the residue that is ejected by the combine harvester. One or more operational parameters of the chopper <b>520</b> are examples of operational parameters of the combine harvester that can be set to adjust the quality factor. Especially if the quality factor is, or is representative of, the size of elements in the residue. Such operational parameters can include the speed of the chopper (i.e. the speed with which the rotational knives <b>521</b> are rotated) and the position of the stationary knife <b>522</b>. As shown schematically in <figref idref="DRAWINGS">FIG. <b>5</b></figref> the stationary knife <b>522</b> can be inserted or retracted to adjust the amount that it overlaps with the rotational knives <b>521</b> as they rotate. Further still, the angle of the stationary knife <b>522</b> can be adjusted to change the performance of the chopper <b>520</b>.</p>
+<p id="p-0111" num="0155">Other examples of operational parameters of the combine harvester that can be adjusted with a view to changing the quality factor of the residue include:
+<ul id="ul0029" list-style="none">
+    <li id="ul0029-0001" num="0000">
+    <ul id="ul0030" list-style="none">
+        <li id="ul0030-0001" num="0156">the speed with which residue passes through the chopper <b>520</b>. In one example, this can be adjusted by setting the position of a shred bar. The shred bar can be inserted into, or retracted from, the residue flow path through the chopper <b>520</b> in order to selectively impede the residue flow. By slowing the residue flow through the chopper <b>520</b> it can be cut more times and therefore be made smaller than if its flow through the copper <b>520</b> were impeded less.</li>
+        <li id="ul0030-0002" num="0157">aggressivity of the threshing system before the chopper. For example, the rotor speed can be adjusted and/or an operational property of the concaves. As a further example, the angle of the rotor vanes can be adjusted to change the aggressivity of the threshing system. As a general statement, the longer the residue is in the threshing system, the more damaged it is likely to be.</li>
+        <li id="ul0030-0003" num="0158">feed rate of residue into the chopper <b>520</b>, which in one example can be adjusted by changing the speed of the combine harvester.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0112" num="0159"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows an example embodiment of a method of determining a quality factor for residue that is ejected by a combine harvester. The method can be performed by any of the residue collectors described herein.</p>
+<p id="p-0113" num="0160">At step <b>650</b>, the method receives residue directly from a combine harvester during a training harvesting operation. The residue is directly received such that the subsequent processing steps can also be performed during the training harvesting operation. That is, without the combine harvester, the residue collector or the residue itself having to be moved away from the position at which the residue was collected.</p>
+<p id="p-0114" num="0161">At step <b>651</b>, the method separates the residue into a first portion and a second portion based on a property of the residue. At step <b>652</b>, the method directly or indirectly determines the weight of the first portion and the second portion. Numerous examples of how these steps can be performed are discussed above.</p>
+<p id="p-0115" num="0162">At step <b>653</b>, the method determines a quality factor for the residue based on the determined weight of the first portion in relation to the weight of the second portion. In this way, the quality factor can be determined and updated on-the-fly, during the training harvesting operation</p>
+<p id="p-0116" num="0163"><figref idref="DRAWINGS">FIG. <b>7</b></figref> illustrates a method of operating a combine harvester. The method is computer-implemented and can be performed by any of the controllers described herein.</p>
+<p id="p-0117" num="0164">At step <b>755</b>, the method receives one or more sensor values from sensors that are associated with the combine harvester during a harvesting operation. Various examples of such sensors are described above, and can include any sensor that measures a value that can affect a quality factor of the residue that is ejected by the combine harvester.</p>
+<p id="p-0118" num="0165">At step <b>756</b>, the method uses a machine learning algorithm that has been trained by a dataset at least partially collected by a residue collector as described above. More particularly, a machine learning algorithm that has been trained with one or more sensor values as inputs and a determined quality factor as ground truth output data. At step <b>756</b>, the method applies the received one or more sensor values as inputs to the trained machine learning algorithm to determine a calculated quality factor.</p>
+<p id="p-0119" num="0166">After step <b>756</b>, the method can perform step <b>757</b> and/or step <b>758</b>. At step <b>757</b>, the method presents the calculated quality factor to an operator of the combine harvester during the harvesting operation. This can enable the operator to manually adjust the operation of the combine harvester based on the calculated quality factor, which would otherwise be difficult or impossible for the operator to discern during the harvesting operation. At step <b>758</b>, the method sets one or more operational parameters of the combine harvester during the harvesting operation based on the calculated quality factor, thereby providing at least an element of autonomous control.</p>
+<p id="p-0120" num="0167">Additionally, the calculated quality factor can be stored, preferably in combination with the location and/or date plus time. A map of the calculated quality factor can be created to be used as an input for subsequent agricultural operations on that location.</p>
+<p id="p-0121" num="0168"><figref idref="DRAWINGS">FIG. <b>8</b></figref> illustrates another method of operating a combine harvester. As with <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the method of <figref idref="DRAWINGS">FIG. <b>8</b></figref> is computer-implemented and can be performed by any of the controllers described herein.</p>
+<p id="p-0122" num="0169">At step <b>860</b>, the method receives one or more sensor values from sensors that are associated with the combine harvester during a harvesting operation. At step <b>861</b>, the method receives a target quality factor. The target quality factor represents a desired value for the quality factor of the residue, and can be set by an operator of the combine harvester. In some examples, the target quality factor can be implemented as a range of quality factor values.</p>
+<p id="p-0123" num="0170">At step <b>862</b>, the method using a machine learning algorithm that has been trained by a residue collector as described above. More particularly, a machine learning algorithm that has been trained with one or more sensor values and a determined quality factor as inputs and one or more operational parameters as ground trust output data. At step <b>862</b>, the method applies the received one or more sensor values and the received target quality factor as inputs to the trained machine learning algorithm to determine (and then apply) one or more calculated operational parameters to the combine harvester during the harvesting operation. In this way, at least an element of autonomous control can be provided.</p>
+<p id="p-0124" num="0171">Examples disclosed herein can relate to a method of quantifying the quality of a residue stream of a combine harvester on the field that comprises:
+<ul id="ul0031" list-style="none">
+    <li id="ul0031-0001" num="0000">
+    <ul id="ul0032" list-style="none">
+        <li id="ul0032-0001" num="0172">a residue collector following the combine harvester closely over the field during the harvesting test;</li>
+        <li id="ul0032-0002" num="0173">(at least part of) a residue stream of the combine harvester being transferred to the residue collector;</li>
+        <li id="ul0032-0003" num="0174">the weight of the residue stream being determined;</li>
+        <li id="ul0032-0004" num="0175">the residue stream being split into at least two fractions with different properties;</li>
+        <li id="ul0032-0005" num="0176">the weight of at least one separated residue stream fraction being measured;</li>
+        <li id="ul0032-0006" num="0177">optionally also measuring other properties of the residue stream; and</li>
+        <li id="ul0032-0007" num="0178">depositing the residue stream fraction onto the field.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A residue collector that is operable to receive residue from a combine harvester during a training harvesting operation, wherein the residue collector comprises:
+<claim-text>a residue separator for separating processed residue into a first portion and a second portion based on a property of the processed residue;</claim-text>
+<claim-text>one or more weight sensors for directly or indirectly determining a weight of the first portion and the second portion; and</claim-text>
+<claim-text>a controller configured to determine a quality factor for the processed residue based on the determined weight of the first portion in relation to the weight of the second portion.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The residue collector of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to determine the quality factor during the training harvesting operation.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The residue collector of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the controller is further configured to provide an indicator of the determined quality factor to an operator of the combine harvester during the training harvesting operation.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The residue collector of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein:
+<claim-text>the residue separator is configured for separating the processed residue into three or more portions based on one or more properties of the processed residue;</claim-text>
+<claim-text>the one or more weight sensors are for directly or indirectly determining the weight of each portion; and</claim-text>
+<claim-text>the controller is configured to determine the quality factor for the processed residue based on relative weights of the three or more portions.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The residue collector of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the property of the residue that is used to separate the residue into the first portion and the second portion comprises one or more of:
+<claim-text>a size of elements within the residue;</claim-text>
+<claim-text>a shape of elements within the residue;</claim-text>
+<claim-text>a density of element within the residue;</claim-text>
+<claim-text>a moisture content of the residue; and</claim-text>
+<claim-text>a colour of the residue.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The residue collector of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the residue collector comprises a trailer, which is configured to be pulled by the combine harvester when in use.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The residue collector of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the residue collector has a residue collection configuration and a residue bypass configuration, wherein:
+<claim-text>in the residue collection configuration, the residue collector is configured to transfer the residue to components of the residue collector for determining the quality factor for the residue; and</claim-text>
+<claim-text>in the residue bypass configuration, the residue collector is configured such that the residue bypasses or avoids the components of the residue collector for determining the quality factor for the residue.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The residue collector of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a residue selection component for selectively transferring only part of the received residue to the residue separator.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The residue collector of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is further configured to:
+<claim-text>receive one or more sensor values from sensors that are associated with the combine harvester; and</claim-text>
+<claim-text>store the one or more sensor values and the associated determined quality factor as training data for a machine learning algorithm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The residue collector of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the controller is further configured to:
+<claim-text>train a machine learning algorithm based on the training data, wherein the trained machine learning algorithm is for subsequent use during a harvesting operation.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. A controller for a combine harvester, the controller configured to:
+<claim-text>receive one or more sensor values from sensors that are associated with the combine harvester during a harvesting operation;</claim-text>
+<claim-text>use a machine learning algorithm that has been trained by the residue collector of <claim-ref idref="CLM-00010">claim 10</claim-ref> and the received one or more sensor values to determine a calculated quality factor; and</claim-text>
+<claim-text>present the calculated quality factor to an operator of the combine harvester during the harvesting operation or set one or more operational parameters of the combine harvester during the harvesting operation based on the calculated quality factor.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The controller of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the controller is further configured to:
+<claim-text>set one or more operational parameters of the combine harvester during the harvesting operation based on the calculated quality factor and also based on a target quality factor.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. A controller for a combine harvester, the controller configured to:
+<claim-text>receive one or more sensor values from sensors that are associated with the combine harvester during a training harvesting operation;</claim-text>
+<claim-text>receive a target quality factor; and</claim-text>
+<claim-text>use a machine learning algorithm that has been trained by the residue collector of <claim-ref idref="CLM-00010">claim 10</claim-ref>, the received one or more sensor values and the target quality factor to determine and apply one or more calculated operational parameters to the combine harvester during the training harvesting operation.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The controller of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the one or more operational parameters comprise one or more operational parameters of a residue processing component of the combine harvester.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. A method of operating a combine harvester, the method comprising:
+<claim-text>receiving one or more sensor values from sensors that are associated with the combine harvester during a harvesting operation;</claim-text>
+<claim-text>using a machine learning algorithm that has been trained by the residue collector of <claim-ref idref="CLM-00010">claim 10</claim-ref> and the received one or more sensor values to determine a calculated quality factor; and</claim-text>
+<claim-text>presenting the calculated quality factor to an operator of the combine harvester during the harvesting operation or setting one or more operational parameters of the combine harvester during the harvesting operation based on the calculated quality factor.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

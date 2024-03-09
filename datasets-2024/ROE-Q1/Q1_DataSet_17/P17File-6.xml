@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225355A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225355</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18001271</doc-number>
+<date>20210623</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>DK</country>
+<doc-number>PA 2020 70411</doc-number>
+<date>20200623</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>DK</country>
+<doc-number>PA 2020 70792</doc-number>
+<date>20201127</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>J</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>61</main-group>
+<subgroup>14</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>J</subclass>
+<main-group>1</main-group>
+<subgroup>006</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>61</main-group>
+<subgroup>147</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e79">METHOD FOR SEPARATION OF POTATO PROTEINS FROM PHENOLIC AND/OR GL Y CO ALKALOID COMPOUNDS</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Duynie Holding B.V.</orgname>
+<address>
+<city>Alphen aan den Rijn</city>
+<country>NL</country>
+</address>
+</addressbook>
+<residence>
+<country>NL</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>LIHME</last-name>
+<first-name>Allan Otto Fog</first-name>
+<address>
+<city>Farum</city>
+<country>DK</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>HANSEN</last-name>
+<first-name>Marie Bendix</first-name>
+<address>
+<city>Frederiksberg</city>
+<country>DK</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>LINDVED</last-name>
+<first-name>Bodil Kj&#xe6;r</first-name>
+<address>
+<city>Esperg&#xe6;rde</city>
+<country>DK</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>JORDENS</last-name>
+<first-name>Rick Adrianus Petrus</first-name>
+<address>
+<city>Balgoij</city>
+<country>NL</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Duynie Holding B.V.</orgname>
+<role>03</role>
+<address>
+<city>Alphen aan den Rijn</city>
+<country>NL</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2021/067206</doc-number>
+<date>20210623</date>
+</document-id>
+<us-371c12-date><date>20221209</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The invention concerns a method for the separation of potato proteins from one or more first salts and phenolic and/or glycoalkaloid compounds in potato fruit juice, said method comprising the steps of:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">(i) providing a potato fruit juice comprising potato proteins, one or more first salts and phenolic and/or glycoalkaloid compounds;</li>
+    <li id="ul0001-0002" num="0000">(ii) subjecting said potato fruit juice to a first cross-flow membrane filtration process wherein at least a portion of the first salts and at least a portion of the phenolic and/or glycoalkaloid compounds migrate across the membrane into a first permeate and the potato proteins are retained in a first retentate;</li>
+    <li id="ul0001-0003" num="0000">(iii) adding one or more second salts and water to the first retentate, while continuing the membrane filtration process, to create a diafiltrate containing at least a portion of said phenolic and/or glycoalkaloid compounds and the added second salts and a retentate; and</li>
+    <li id="ul0001-0004" num="0000">(iv) subjecting the first permeate and/or said diafiltrate from said first cross-flow membrane filtration process to a second cross-flow membrane filtration process.</li>
+</ul>
+</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="101.35mm" wi="151.38mm" file="US20230225355A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="142.92mm" wi="163.41mm" file="US20230225355A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="209.04mm" wi="150.45mm" file="US20230225355A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="112.35mm" wi="157.56mm" file="US20230225355A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates to methods for isolating compounds, particularly functional proteins and phenolic and/or glycoalkaloid compounds, from potato fruit juice or derivatives thereof.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Many biological fluids and extracts contain soluble proteins and soluble phenolic compounds such as phenolic acids, flavonoids and tannins. This is particularly the case for liquid plant extracts and extracts of e.g. yeast and algae. Many of the phenolic compounds are highly reactive and may e.g. be oxidized to create oligomers and polymers. Such phenolic compounds may adsorb to, and even react covalently, with proteins. The susceptibility of phenolic compounds towards adsorption and/or their covalent reaction with proteins is influenced by many physico-chemical parameters, such as the degree of oxidation, pH, temperature and time of contact.</p>
+<p id="p-0004" num="0003">The potato (<i>Solanum tuberosum </i>L.) is a tuber that is largely used as food or in food applications and is a source of different bioactive compounds, such as starch, dietary fiber, amino acids, minerals, vitamins, glycoalkaloid compounds and phenolic compounds.</p>
+<p id="p-0005" num="0004">Potato fruit juice is a complex mixture of soluble and insoluble material comprising proteins, starch, minerals, (toxic) glycoalkaloids, (insoluble) fibers and monomeric and polymeric reactive phenols.</p>
+<p id="p-0006" num="0005">Due to oxidation of natural phenolic compounds, potato fruit juice may turn brown or black. Chemically, the phenolic compounds are oxidized into quinones, which combine into a dark polymer residue. During the oxidation process, the potato proteins may undergo reaction and partial crosslinking. This crosslinking may dramatically reduce the solubility of the potato proteins. Thus, from a technological point of view, the complexity and instability of the potato fruit juice makes the separation and isolation of native potato proteins much more complicated and economically demanding than the isolation of proteins from other types of protein solutions.</p>
+<p id="p-0007" num="0006">Purification of potato proteins from potato fruit juice is further complicated by the presence of glycoalkaloids, which must be removed before the potato proteins may be used in human nutrition. Glycoalkaloids are well known anti-nutritional factors. The glycosylated forms of glycoalkaloids, such as &#x3b1;-solanine and &#x3b1;-chaconine, show the highest toxicity. The aglycons, such as solanidine, have a more than 100-fold lower liver toxicity. &#x3b1;-Solanine and &#x3b1;-chaconine make up more than 95% of the total glycoalkaloid content in potatoes. Other glycoalkaloids are for example tomatine, tomatidenol and demissidine. Glycoalkaloids have a bitter taste and negatively affect many of the physical and/or biological properties of potato proteins. For food applications, the taste threshold of glycoalkaloids is about 140-170 mg of glycoalkaloids per kg of product. This threshold strongly limits the applications of known native potato protein isolates in foods.</p>
+<p id="p-0008" num="0007">Glycoalkaloids are known to possess antimicrobial and pesticidal properties which may be exploited in various types of products, such as for example in biological crop protection products. Moreover, beneficial bioactivities to human health, such as antibacterial, anti-inflammatory and antiobesity effects have been attributed to glycoalkaloids and their use as anti-cancer agents, and their use in vaccine adjuvants have been described. See in this respect B. Nepal et al., <i>Processes, </i>2019, 7, pp 513-538 and S. L. Sampaio et al., <i>Trends in Food Science </i>&#x26; <i>Technology, </i>2020, 103, pp 118-129. As will be appreciated by those skilled in the art, these applications require the glycoalkaloids to be available in an (highly) enriched natural fraction.</p>
+<p id="p-0009" num="0008">Phenolic compounds are synthetized by the potato plant as a protection response against bacteria, fungi, viruses and insects. Several publications suggest that phenolic compounds from potato exhibit health-promoting effects in humans. See in this respect, H. Akyol et al., <i>Int. J. Mol. Sci., </i>2016, 17, pp 835-854, which is incorporated herein by reference.</p>
+<p id="p-0010" num="0009">Several compounds, such as proteins and metabolites, comprised in potatoes are valuable and useful in many different applications, such as in nutrition, medical treatments, cosmetics and as acceptable process aids for industrial manufacture of the same. Particularly, patatin and protease inhibitor proteins and phenolic compounds in potato fruit juice or derivatives thereof (waste products of the potato starch manufacturing industry) are interesting and become even more valuable and useful in isolated or more pure form. Patatin and protease inhibitor proteins and phenolic compounds are highly nutritious and have many desirable functional characteristics which could make them useful in both food and industrial products.</p>
+<p id="p-0011" num="0010">Phenolic compounds from potato may constitute valuable products for a variety of applications, e.g. as antioxidants, anti-cancer agents and antimicrobial agents. Phenolic compounds present in potatoes are phenolic acids and flavonoids including flavonols, flavanols, and anthocyanins.</p>
+<p id="p-0012" num="0011">Phenolic acids are the most abundant phenolic compounds in potatoes. Chlorogenic acid, which is the ester of caffeic acid and quinic acid, constitutes 90% of the phenolic compounds in potato peels and exists in the form of three main isomers, chlorogenic acid (5-O-caffeoylquinic acid), neochlorogenic acid (3-O-caffeoylquinic acid), and cryptochlorogenic acid (4-O-caffeoylquinic acid). Also, caffeic acid is quantified at 25-72 mg/100 g in potatoes by many researchers. Other phenolic acids such as ferulic acid, gallic acid, and p-coumaric acid have also been quantified in potatoes, ranging from 0-5 mg/100 g dry weight. Furthermore, syringic acid, vanillic acid, sinapic acid, and salicylic acid are present in small quantities (see H. Akyol et al., <i>Int. J. Mol. Sci., </i>2016, 17, pp 835-854).</p>
+<p id="p-0013" num="0012">The six significant subclasses of flavonoids are the flavones, flavonols, flavanones, flavan-3-ols, anthocyanidins, and isoflavones. Occasionally they can be found as aglycones but most flavonoids are attached to sugars (glycosides). In potatoes, one of the most abundant flavonoids is catechin, ranging between 0 and 204 mg/100 g dry weight. Flavonols, like quercetin and kaempferol rutinose, are also present in potato tubers. Flavonoids are typically present in an amount of more than 30 mg per 100 g fresh weight in white fleshed potatoes and this level is nearly doubled in red and purple fleshed potatoes as a result of anthocyanins. The most common anthocyanidins (the deglycosylated forms of anthocyanins) present in potatoes are malvidin, petunidin, delphinidin, and peonidin in purple tubers and pelargonidin in red ones. In addition to this anthocyanin, aglycones, cyanidin, and petanin are also found in potatoes (see H. Akyol et al., <i>Int. J. Mol. Sci., </i>2016, 17, pp 835-854).</p>
+<p id="p-0014" num="0013">Native/soluble or at least partially native/soluble patatin and/or protease inhibitor proteins, i.e. not fully denatured or coagulated potato proteins, may be used as techno-functional ingredients in the preparation of foodstuffs, for example to provide (thermo)gelling, foaming, water-binding or emulsification properties. For these purposes, the proteins preferably are devoid of compounds that may give rise to unwanted color and taste formation and/or influence the quality and stability of the prepared food.</p>
+<p id="p-0015" num="0014">Thus, separation or isolation of native/soluble proteins and phenolic and/or glycoalkaloid compounds from potato fruit juice or a derivative thereof is important for obtaining the necessary purity and quality of these valuable compounds. Potato fruit juice typically contains phenolic and glycoalkaloid compounds. As will be appreciated by those skilled in the art, the availability of an efficient process resulting in the separation of a stream enriched in phenolic and glycoalkaloid compounds from potato fruit juice is also valuable because techniques are available in the art for the separation of phenolic compounds from glycoalkaloid compounds such as chromatography, including ion-exchange chromatography and hydrophobic interaction chromatography. In this respect, reference is made to A. F. S&#xe1;nchez Maldonado et al., Extraction and fractionation of phenolic acids and glycoalkaloids from potato peels using acidified water/ethanol-based solvents, <i>Food Research International, </i>2014, 65, pp 27-34, and to R. Shakya et al., Rapid screening of ascorbic acid, glycoalkaloids, and phenolics in potato using high-performance liquid chromatography, <i>J. Agric. Food Chem., </i>2006, 54, pp 5253-5260, which are hereby incorporated by reference.</p>
+<p id="p-0016" num="0015">Membrane filtration, in particular cross-flow ultrafiltration and diafiltration, is a well-known method for separation of high molecular weight compounds, like proteins, from low molecular weight compounds like small carbohydrates, organic acids and minerals (salts). A widespread example of this technique is the manufacture of whey protein concentrates and whey protein isolates from cheese whey by combined ultrafiltration and diafiltration.</p>
+<p id="p-0017" num="0016">Diafiltration, in the context of the present invention, is a technique that uses membranes to completely remove, replace, or lower the concentration of salts and/or other low molecular weight substances from solutions containing proteins, peptides, nucleic acids, and other high molecular weight biomolecules. The process selectively utilizes permeable (porous) membrane filters to separate the components of solutions and suspensions based on their molecular size. An ultrafiltration membrane retains molecules that are larger than the pores of the membrane while smaller molecules such as salts, phenolic and/or glycoalkaloid compounds, solvents and water, may pass through the membrane. In a diafiltration process water is added to the retentate, while the membrane filtration process continuously removes water, salts and low molecular weight compounds to the permeate side of the membrane.</p>
+<p id="p-0018" num="0017">B. Dutra and G. Tr&#xe4;g&#xe5;rdh, Macrosolute-microsolute separation by ultrafiltration: A review of diafiltration processes and applications, <i>Desalination, </i>1994, 95, pp 227-267, disclose a review of the theory and applications of diafiltration in several commercial scale examples.</p>
+<p id="p-0019" num="0018">WO97/42834A1 describes in Example 1 a process for the production of undenatured potato protein from potato fruit juice. The potato fruit juice was pretreated causing flocculation of contaminations and subjected to disc stack centrifuging to remove flocculates, other solids and microorganisms. The disc stack centrifugation necessarily removes substantially all of the insoluble fibers present in the potato fruit juice. The supernatant obtained after centrifugation was concentrated about 12 times by ultrafiltration using a continuous ultrafiltration unit equipped with polyethersulfone membranes, cut-off value 5 kDa. The retentate was washed by means of diafiltration in the presence of bisulphite to minimise polyphenol oxidation. Diafiltration was continued until salts and metal concentrations had reached acceptable levels. The concentrate was freeze-dried until a dry solid content of 92% was reached. The freeze-dried powder contained 70% protein and no detectable levels of glycoalkaloids. WO97/42834A1 does not comment on the removal of polyphenols from the product.</p>
+<p id="p-0020" num="0019">H. J. Zwijnenberg et al., <i>Desalination, </i>144, 2002, pp 331-334, also disclose examples wherein native protein is recovered from potato fruit juice by ultrafiltration and subsequent ultrafiltration. It is described in Zwijnenberg that the potato fruit juice applied contains everything except the starch and fiber. A pretreatment was performed prior to ultrafiltration to reduce the amount of fibers. Diafiltration with tap water was carried out in order to wash out low molecular substances like amino-acids, phenolic components, glycoalkaloids and potassium. The resulting protein was spray-dried in order to get a stable and dry product that could be transported and stored during longer periods.</p>
+<p id="p-0021" num="0020">WO02/060273A1 discloses a process for preparing from a protein source containing phenolic compounds a preparation of water-soluble proteins having a reduced content of phenolic compounds, comprising the step of precipitating the protein by bringing the protein source into a mixture of an aqueous medium and at least a water-miscible organic solvent, such that substantially no denaturation of the protein occurs, while the pH of the mixture deviates at most 1 pH value from the isoelectric point.</p>
+<p id="p-0022" num="0021">WO2019/215153A1 discloses a process for separation of one or more potato proteins from a group of impurities, amongst which is phenols, in an aqueous solution, said process comprising the steps of:
+<ul id="ul0002" list-style="none">
+    <li id="ul0002-0001" num="0022">a) providing an aqueous solution comprising the one or more potato proteins and a group of impurities;</li>
+    <li id="ul0002-0002" num="0023">b) optionally subjecting the aqueous solution to a pretreatment to clarify and remove suspended non-soluble matter;</li>
+    <li id="ul0002-0003" num="0024">c) precipitating the one or more potato proteins to create a suspension of precipitated potato protein in the solution containing impurities;</li>
+    <li id="ul0002-0004" num="0025">d) subjecting the suspension to a membrane filtration process wherein at least one member of the group of impurities passes the membrane as a permeate and the one or more precipitated potato proteins are concentrated in the retentate;</li>
+    <li id="ul0002-0005" num="0026">e) optionally diafiltering the retentate with one or more solvents to further remove impurities into the permeate;</li>
+    <li id="ul0002-0006" num="0027">f) optionally re-solubilizing the precipitated one or more potato proteins; and</li>
+    <li id="ul0002-0007" num="0028">g) optionally separating the group of impurities in said permeate into at least two individual fractions.</li>
+</ul>
+</p>
+<p id="p-0023" num="0029">US2003/077265A1 concerns an ultrafiltration method for the isolation and purification of a proteinase inhibitor extract from potato tubers. The extraction and isolation of the proteinase inhibitor from potatoes begins with the addition of an organic acid, such as formic acid, and a salt to raw potatoes. Undesired proteins are denatured using heat treatment and removed, resulting in an extract solution suitable for ultrafiltration. The ultrafiltration process comprises concentration and diafiltration.</p>
+<p id="p-0024" num="0030">However, for certain separation tasks, such as the separation of proteins from phenolic and/or glycoalkaloid compounds, and in particular the separation of soluble proteins from phenolic and/or glycoalkaloid compounds in plant extracts, the membrane filtration technology is not a complete and cost-efficient process, which may be due to the tendency of phenolic and/or glycoalkaloid compounds to adhere to other compounds such as proteins, polysaccharides as well as the membrane surface.</p>
+<p id="p-0025" num="0031">For example, according to several scientific reports (see e.g. K. O Straetkvern and J. G. Schwarz, Recovery of Native Potato Protein Comparing Expanded Bed Adsorption and Ultrafiltration, <i>Food and Bioprocess. Technol., </i>5(5), 2012, pp 1939-1949 and H. J. Zwijnenberg et al., <i>Desalination, </i>144, 2002, pp 331-334), ultrafiltration has low selectivity and only poorly separates polyphenols and brown polyphenol complexes from proteins, thus giving a powder with a final brown hue and higher content of chlorogenic acids. Moreover, membrane concentration of potato fruit juice often leads to fouling of the membranes with corresponding low flux rates, low system productivity and a short membrane lifetime. Both disclosures describe the use of water for the applied diafiltration step. In Zwijnenberg et al. it is illustrated how the permeate flux decreases from the onset of diafiltration using water as the diafiltration solvent.</p>
+<p id="p-0026" num="0032">It is therefore an object of the invention to provide improved methods for the separation of (a) native/soluble proteins and (b) phenolic and/or glycoalkaloid compounds from potato fruit juice or derivatives thereof at industrial scale.</p>
+<p id="p-0027" num="0033">It is another object of the invention to provide products enriched in phenolic and glycoalkaloid compounds with sufficient quality at industrial scale.</p>
+<p id="p-0028" num="0034">It is yet another object of the invention to provide valuable phenolic and/or glycoalkaloid compounds with sufficient purity and quality at industrial scale.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0029" num="0035">The present inventors have unexpectedly found that one or more of the objectives can be met by subjecting potato fruit juice or derivatives thereof to a membrane filtration process at industrial scale using diafiltration solvents with an increased ionic strength, which leads to a higher permeability of the membrane for the phenolic and/or glycoalkaloid compounds and a higher average permeate flux during the diafiltration step.</p>
+<p id="p-0030" num="0036">Accordingly, in a first aspect, the present invention provides a method for the separation of potato proteins from one or more first salts and phenolic and/or glycoalkaloid compounds in potato fruit juice or a derivative thereof, said method comprising the steps of:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0037">(i) providing a potato fruit juice or a derivative thereof comprising potato proteins, one or more first salts and phenolic and/or glycoalkaloid compounds;</li>
+    <li id="ul0003-0002" num="0038">(ii) subjecting said potato fruit juice or the derivative thereof to a first cross-flow membrane filtration process wherein at least a portion of the one or more first salts and at least a portion of the phenolic and/or glycoalkaloid compounds migrate across the membrane into a first permeate and the potato proteins are retained in a first retentate;</li>
+    <li id="ul0003-0003" num="0039">(iii) adding one or more second salts and water to the first retentate while continuing the membrane filtration process to create a diafiltrate containing at least a portion of said phenolic and/or glycoalkaloid compounds and the added second salts and a retentate; and</li>
+    <li id="ul0003-0004" num="0040">(iv) subjecting the first permeate and/or said diafiltrate from said first cross-flow membrane filtration process to a second cross-flow membrane filtration process wherein at least a portion of the salts present therein migrate across the membrane into a second permeate and the phenolic and/or glycoalkaloid compounds are retained in a second retentate.</li>
+</ul>
+</p>
+<heading id="h-0004" level="1">Definitions</heading>
+<p id="p-0031" num="0041">The term &#x2018;potato fruit juice or derivatives thereof&#x2019; means the liquid stream after the (industrial scale) separation of potato starch from potatoes (<i>Solanum tuberosum </i>L.) and any aqueous streams derived from processing of such liquid stream by for example flocculation of contaminants and centrifugation, provided that the &#x2018;derivatives thereof&#x2019; still comprise protein, phenolic and/or glycoalkaloid compounds and (first) salts. The term further includes any aqueous stream that may be obtained by disintegration, e.g. by grinding, shredding and/or pressing, of the raw potatoes, peels and cuts from raw potatoes with or without extraction by addition of water or an aqueous extraction solution in combination with physical disruption of the plant tissue and/or cells. The potato fruit juice may also be obtained from potatoes, peels and cuts that have been subjected to a heating process and/or have been subjected to freezing.</p>
+<p id="p-0032" num="0042">The term &#x2018;potato protein(s)&#x2019; means protein or proteins present in the tubers of the potato plant <i>Solanum tuberosum </i>L., particularly patatin and/or protease inhibitor.</p>
+<p id="p-0033" num="0043">The term &#x2018;functional proteins&#x2019; means proteins that (still) have a high level of their intrinsic techno-functional properties, such as aqueous solubility, the ability to form gels when heated in solution (thermo-gelling), the ability to create foams when aqueous solutions of the protein are whipped with air, or the ability to create emulsions when mixed with lipids in aqueous solutions of the protein. The term &#x2018;functional proteins&#x2019; as used herein is therefore considered similar to the terms &#x2018;soluble proteins&#x2019;, &#x2018;(substantially) native proteins&#x2019; and &#x2018;(substantially) undenatured proteins&#x2019; as used in the art.</p>
+<p id="p-0034" num="0044">The term &#x2018;insoluble fibers&#x2019; means substances present in the potato fruit juice or in the derivatives thereof that can be separated from the liquid phase by centrifugation in a laboratory centrifuge at 4000 rpm for 30 minutes at room temperature. The precise chemical composition of the insoluble fibers may vary broadly, but may typically comprise insoluble polysaccharides, pectinates, starches and proteins and insoluble complexes of one or more of these substances.</p>
+<p id="p-0035" num="0045">The term &#x2018;absorbance at 600 nm&#x2019; or &#x2018;O.D.600&#x2019; as used herein relates to the amount of light of wavelength 600 nm passing through a liquid sample when measured in a spectrophotometer using 10 mm light path cuvettes. The absorbance of a liquid sample is often expressed as O.D. 600 nm. For the purpose of this disclosure, the absorbance is determined by spectrophotometry on samples diluted in 0.05 M potassium phosphate at pH 7.0, wherein, if need be, the pH is adjusted to 7.0 with sodium hydroxide or hydrochloric acid, to a read out in the range of 0.5 to 1.0, and this read out is multiplied with the dilution factor to determine the absorbance of the undiluted sample. If a sample has an absorbance of less than 1.0, no (substantial) dilution is performed, but the pH is nevertheless adjusted to 7.0 with sodium hydroxide or hydrochloric acid. In other words, the &#x2018;absorbance at 600 nm&#x2019; and &#x2018;O.D.600&#x2019; as used herein correspond to the O.D.600 value of a sample as measured by spectrophotometry using 10 mm light path cuvettes on samples diluted in 0.05 M potassium phosphate at pH 7.0 to a read out in the range of 0.5 to 1.0 and the read out is multiplied with the dilution factor to determine the absorbance of the undiluted sample.</p>
+<p id="p-0036" num="0046">The term &#x2018;patatin&#x2019;, also denoted herein as &#x2018;PA&#x2019;, means storage glycoproteins found in potatoes (<i>Solanum tuberosum </i>L.). Patatin represents a group of immunologically identical glycoprotein isoforms with molecular masses in the range of 40-43 kDa. Patatin also has phospolipase activity capable of cleaving fatty acids from membrane lipids. For purposes of the invention, PA may be determined by different known assays, including SDS-PAGE combined with scanning densitometry (e.g. using a GS-900&#x2122; Calibrated Densitometer from BIO-RAD Laboratories, USA) including all protein bands in the molecular weight region between 35 kDa and 60 kDa in the PA category, ELISA testing using patatin specific antibodies, as well as enzymatic assays specific for the phospholipase activity (see e.g. M. Jim&#xe9;nez-Ati&#xe9;nzar et al., Determination of the phospholipase activity of patatin by a continuous spectrophotometric assay, <i>Lipids, </i>2003, 38(6), pp 677-682).</p>
+<p id="p-0037" num="0047">The term &#x2018;protease inhibitor&#x2019;, also denoted herein as &#x2018;PI&#x2019;, means potato proteins, which possess molecular weights ranging from about 3 kDa to about 35 kDa, and which are capable of inhibiting the activity of e.g. serine proteases, cysteine proteases, aspartate proteases, and metalloproteases. For purposes of the invention PI may be determined by different known assays, including SDS-PAGE combined with scanning densitometry (e.g. using a GS-900&#x2122; Calibrated Densitometer from BIO-RAD Laboratories, USA) including all protein bands in the molecular weight region between 3 kDa and 35 kDa in the PI category, and more broadly by enzyme inhibition assays as generally described in the art (see e.g. R. E. J. Spelbrink et al., Quantitative Determination of Trypsin Inhibitory Activity in Complex Matrices, <i>The Open Food Science Journal, </i>2011, 5, pp 42-46).</p>
+<p id="p-0038" num="0048">The term &#x2018;polyphenol oxidase&#x2019;, also denoted herein as &#x2018;PPO&#x2019;, means in the context of the present invention potato protein. Polyphenol oxidase (tyrosinase) (TY) is a bifunctional, copper-containing oxidase having both catecholase and cresolase activity. PPO causes the rapid polymerization of o-quinones to produce black, brown or red pigments (polyphenols) which cause fruit browning. The amino acid tyrosine contains a single phenolic ring that may be oxidised by the action of PPOs to form o-quinone. Hence, PPOs may also be referred to as tyrosinases. The catalytic action of PPO has a negative impact on the quality of several fruit and vegetable crops and results in alteration of color, flavor, texture, and nutritional value. It is a limiting factor in the handling and technological processing of crops as peeled, sliced, bruised or diseased tissues rapidly undergo browning. For purposes of the invention, PPO may be determined by different known assays as reviewed in: R. Yoruk et al., Physicochemical properties and function of plant polyphenol oxidase: A review, <i>Journal of Food Biochemistry, </i>27(5), 2003, pp 361-422.</p>
+<p id="p-0039" num="0049">The term &#x2018;lipoxygenase&#x2019;, also denoted herein as &#x2018;LipO&#x2019;, means in the context of the present invention potato proteins capable of catalyzing the dioxygenation of polyunsaturated fatty acids. Lipoxygenases have food-related applications in bread making and aroma production but they also have negative implications for the color, off-flavour and antioxidant status of plant-based foods. In potatoes (<i>Solanum tuberosum </i>L.), lipoxygenase has a molecular weight of approximately 97 kD and can be detected by SDS-PAGE (see e.g. G. Bauw et al., Patatins, Kunitz protease inhibitors and other major proteins in tuber of potato cv. Kuras, <i>FEBS Journal, </i>2006, 273, pp 3569-3584). For purposes of the invention LipO may be determined by different known assays, including SDS-PAGE combined with scanning densitometry (e.g. using a GS-900&#x2122; Calibrated Densitometer from BIO-RAD Laboratories, USA) as well as enzyme activity assays as described in e.g. G. E. Anthon et al., Colorimetric method for the determination of lipoxygenase activity, <i>J. Agric. Food Chem., </i>2001, 49, pp 32-37.</p>
+<p id="p-0040" num="0050">The term &#x2018;glycoalkaloids&#x2019; or &#x2018;alkaloid glucosides&#x2019; means a family of potentially toxic chemical compounds derived from alkaloids to which sugar groups are attached. Prototypical glycoalkaloids present in potatoes (<i>Solanum tuberosum </i>L.) are &#x3b1;-solanine and &#x3b1;-chaconine. In the context of the present disclosure, the level of &#x2018;total glycoalkaloids&#x2019; is expressed as the sum of &#x3b1;-solanine and &#x3b1;-chaconine. For purposes of the invention, glycoalkaloids may be determined by different known assays, including a standard HPLC assay as described in V. Alt et al., Optimization of glycoalkaloid analysis for use in industrial potato fruit juice downstreaming, <i>Eng. Life Sci., </i>2005, 5, pp 562-567.</p>
+<p id="p-0041" num="0051">The term &#x2018;first salts&#x2019; means salts that are present in the liquid of the potato fruit juice of the derivative thereof at the outset of the separation process. Accordingly, the first salts include &#x2018;natural salts&#x2019; which are naturally present in potato fruit juice.</p>
+<p id="p-0042" num="0052">The term &#x2018;second salts&#x2019; concerns one or more salts added with water during the diafiltration step to increase the conductivity of the diafiltration liquid.</p>
+<p id="p-0043" num="0053">The term &#x2018;phenolic compounds&#x2019; means aromatic or heteroaromatic compounds comprising one or more ring systems and one or more phenolic hydroxyl groups. Phenolic compounds from potatoes include phenolics acids, flavonoids, tannins, stilbenes and lignans.</p>
+<p id="p-0044" num="0054">The term &#x2018;true protein concentration&#x2019; means the amount of protein per liter of a sample, calculated as the total weight or mass of amino acids per liter as determined by measuring the total nitrogen in a sample by the method of Kjeldahl and using the conversion factor N&#xd7;6.25. All samples are dialyzed against demineralized water in dialysis tubing cellulose membrane (Sigma-Aldrich, USA, cat. No.: D9652) to remove any free amino acids and low molecular weight peptides prior to the nitrogen determination.</p>
+<p id="p-0045" num="0055">The term &#x2018;dry weight&#x2019; as used in the context of the present invention means the weight or mass of a substance remaining after removal of water by heating at 110&#xb0; C. until the weight does not change anymore. The dry weight per ml sample is thus the remaining weight or mass of a sample of a substance having a volume of 1 ml before drying after removal of water by heating at 110&#xb0; C. until the weight does not change anymore.</p>
+<p id="p-0046" num="0056">The term &#x2018;soluble&#x2019; as used in the context of the present invention refers to solubility of compounds in water at a concentration of at least 1 g/L at 25&#xb0; C.</p>
+<p id="p-0047" num="0057">The term &#x2018;diafiltration&#x2019; in the context of the present invention means a technique that uses membranes, typically ultrafiltration membranes, to completely remove, replace, or lower the concentration of salts or other low molecular weight substances from solutions containing proteins, peptides, nucleic acids, and other high molecular weight molecules. The process selectively utilizes permeable (porous) membrane filters to separate the components of solutions and suspensions based on their molecular size. An ultrafiltration membrane retains molecules that are larger than the pores of the membrane, while smaller molecules such as salts, polyphenols, solvents and water, may pass through the membrane. In a diafiltration process, water or a buffer composition (i.e. the diafiltration liquid) is continuously added to the retentate while the membrane filtration process continuously removes water, salts and low molecular weight compounds to the permeate side of the membrane.</p>
+<p id="p-0048" num="0058">The term &#x2018;nanofiltration&#x2019; means a membrane filtration-based method that uses nanometer sized through-pores across the membrane. Nanofiltration membranes typically have pore sizes from 1-10 nanometers, smaller than that used in microfiltration and ultrafiltration, but just larger than that used in reverse osmosis. Nanofiltration membranes are typically defined by the molecular weight cut-off (MWCO) of the membrane used. The nanofiltration membranes typically have a molecular weight cut-off of between 100 and 1000 Da. Nanofiltration is applied in cross-flow mode under increased pressure.</p>
+<p id="p-0049" num="0059">The term &#x2018;ultrafiltration&#x2019; means a variety of membrane filtration processes in which forces like pressure or concentration gradients lead to a separation through a semipermeable membrane. Suspended solids and solutes of high molecular weight are retained in the so-called retentate, while water and low molecular weight solutes pass through the membrane in the permeate (filtrate). This separation process is typically used in industry and research for purifying and concentrating macromolecular solutions, especially protein solutions. Ultrafiltration membranes are defined by the pore size or by the molecular weight cut-off (MWCO) of the membrane used. Ultrafiltration membranes typically have a pore size of 0.01-0.1 &#x3bc;m or a molecular weight cut-off of between 1 and 500 kDa, such as between 5 and 50 kDa. Ultrafiltration is applied in cross-flow or dead-end mode. In a continuous process, ultrafiltration is applied in cross-flow mode.</p>
+<p id="p-0050" num="0060">The term &#x2018;microfiltration&#x2019; means a separation technique for removing micron-sized particles, like bacteria, suspended solids and colloid particles from liquid solutions. The process uses membrane filters with pores in the approximate size range of 0.1 to 10 &#x3bc;m, which are permeable to the fluid and dissolved substances, but retain certain particles, thus causing separation. Microfiltration membranes are defined by the nominal pore size of the membrane. Microfiltration is applied in cross-flow or dead-end mode. In a continuous process, microfiltration is applied in cross-flow mode.</p>
+<p id="p-0051" num="0061">The term &#x2018;turbidity&#x2019; means the measure of relative clarity of a liquid. It is an optical characteristic of water and is a measurement of the amount of light that is scattered by material in the water when light is shined through the water sample. The higher the intensity of scattered light, the higher the turbidity. Material that causes water to be turbid include clay, silt, very tiny particles of inorganic and organic matter and colloid fibers. Turbidity may be measured with a nephelometer. The units of turbidity from a calibrated nephelometer are called Nephelometric Turbidity Units (NTU).</p>
+<p id="p-0052" num="0062">The term &#x2018;mineral acids&#x2019; means inorganic acids, preferably the acids hydrochloric acid, nitric acid, phosphoric acid and sulfuric acid.</p>
+<p id="p-0053" num="0063">The term &#x2018;comprise&#x2019; and &#x2018;include&#x2019; as used throughout the specification and the accompanying items/claims as well as variations such as &#x2018;comprises&#x2019;, &#x2018;comprising&#x2019;, &#x2018;includes&#x2019; and &#x2018;including&#x2019; are to be interpreted inclusively. These words are intended to convey the possible inclusion of other elements or integers not specifically recited, where the context allows, unless specified otherwise.</p>
+<p id="p-0054" num="0064">The articles &#x2018;a&#x2019; and &#x2018;an&#x2019; are used herein to refer to one or to more than one (i.e. to one or at least one) of the grammatical object of the article. By way of example, &#x2018;an element&#x2019; may mean one element or more than one element, unless specified otherwise.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE FIGURES</heading>
+<p id="p-0055" num="0065"><figref idref="DRAWINGS">FIG. <b>1</b></figref> depicts a flow diagram of steps (i) and (ii) of the process according to the invention wherein potato fruit juice is subjected to a first cross-flow membrane filtration step, resulting in a first permeate and a first retentate.</p>
+<p id="p-0056" num="0066"><figref idref="DRAWINGS">FIG. <b>2</b></figref> depicts a flow diagram of an embodiment of steps (iii) and (iv) of the process according to the invention wherein the first retentate obtained in step (ii) is subjected in step (iii) to diafiltration using a diafiltration liquid and the combined diafiltrate and first permeate is subjected in step (iv) to a second cross-flow membrane filtration step, resulting in a second retentate enriched in phenolic and glycoalkaloid compounds and a second permeate comprising salts.</p>
+<p id="p-0057" num="0067"><figref idref="DRAWINGS">FIG. <b>3</b></figref> depicts a flow diagram of a preferred embodiment of the invention wherein steps (iii) and (iv) are followed by a step (v) of recycling the second permeate comprising salts to the diafiltration liquid.</p>
+<p id="p-0058" num="0068"><figref idref="DRAWINGS">FIG. <b>4</b></figref> depicts SDS-PAGE analysis results of potato fruit juice, diafiltration permeates and the retentate after diafiltration obtained using a process according to the invention.</p>
+<p id="p-0059" num="0069"><figref idref="DRAWINGS">FIG. <b>5</b></figref> depicts esterase activity in potato protein retentate samples that were treated at different pH and temperature using a process according to the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0060" num="0070">Method for Separation of Potato Proteins from Salts and Phenolic Compounds</p>
+<p id="p-0061" num="0071">In a first aspect, the present invention relates to a method for the separation of potato proteins from one or more first salts and phenolic and/or glycoalkaloid compounds in potato fruit juice or a derivative thereof, said method comprising the steps of:
+<ul id="ul0004" list-style="none">
+    <li id="ul0004-0001" num="0072">(i) providing a potato fruit juice or a derivative thereof comprising proteins, one or more first salts and phenolic and/or glycoalkaloid compounds;</li>
+    <li id="ul0004-0002" num="0073">(ii) subjecting said potato fruit juice or the derivative thereof to a first cross-flow membrane filtration process wherein at least a portion of the one or more first salts and at least a portion of the phenolic and/or glycoalkaloid compounds migrate across the membrane into a first permeate and the potato proteins are retained in a first retentate;</li>
+    <li id="ul0004-0003" num="0074">(iii) adding one or more second salts and water to the first retentate while continuing the membrane filtration process to create a diafiltrate containing at least a portion of said phenolic and/or glycoalkaloid compounds and the added second salts and a retentate; and</li>
+    <li id="ul0004-0004" num="0075">(iv) subjecting the first permeate and/or said diafiltrate from said first cross-flow membrane filtration process to a second cross-flow membrane filtration process wherein at least a portion of the salts present therein migrate across the membrane into a second permeate and the phenolic and/or glycoalkaloid compounds are retained in a second retentate.</li>
+</ul>
+</p>
+<p id="p-0062" num="0076">As will be appreciated by those skilled in the art, the wording &#x2018;comprising proteins, one or more first salts and phenolic and/or glycoalkaloid compounds&#x2019; as used throughout the description means that proteins and the one or more first salts are always present whereas at least one of the phenolic and glycoalkaloid compounds needs to be present.</p>
+<p id="p-0063" num="0077">In a preferred embodiment, the process as defined herein is performed at a temperature in the range of 1 to 60&#xb0; C., such as 5 to 55&#xb0; C., 10 to 50&#xb0; C., 15 to 48&#xb0; C., 12 to 45&#xb0; C., 18 to 30&#xb0; C., or 22 to 28&#xb0; C.</p>
+<p id="p-0064" num="0078">In another preferred embodiment, the first retentate remains at a temperature in the range of 1 to 60&#xb0; C., such as 5 to 55&#xb0; C., 10 to 50&#xb0; C., 15 to 48&#xb0; C., 12 to 45&#xb0; C., 18 to 30&#xb0; C., or 22 to 28&#xb0; C. during step (ii) and step (iii).</p>
+<p id="p-0065" num="0079">In a preferred embodiment, said potato proteins, first salts and said phenolic compounds are in solution in said potato fruit juice.</p>
+<p id="p-0066" num="0080">In a very preferred embodiment, at least part of, more preferably all of the potato proteins remain in solution during the process steps as defined herein.</p>
+<p id="p-0067" num="0081">In process step (iv), the phenolic and/or glycoalkaloid compounds are separated from the one or more first salts present in the first permeate and/or the added salts in the diafiltrate such that the phenolic and/or glycoalkaloid compounds may be isolated in a purified state or a product enriched in the phenolic and glycoalkaloid compounds is obtained as a product of higher value.</p>
+<p id="p-0068" num="0082">In a preferred embodiment, step (iv) comprises subjecting the first permeate and the diafiltrate from said first cross-flow membrane filtration process to a second cross-flow membrane filtration process.</p>
+<p id="p-0069" num="0083">As a further highly important cost-saving step, the salts thus separated from the phenolic and/or glycoalkaloid compounds may then be recycled for use in the diafiltration step (iii). By doing so, there is not only saved a significant amount of water and salts for the process, but there will also be cost savings related to disposure of waste.</p>
+<p id="p-0070" num="0084">Accordingly, in a very preferred embodiment, the addition of the one or more added second salts and water in step (iii) is fully, or predominantly, performed using the one or more first salts and water separated from phenolic and/or glycoalkaloid compounds in process step (iv).</p>
+<p id="p-0071" num="0085">In a preferred embodiment, the second permeate obtained in step (iv) is used, at least in part, as the source of said one or more second salts and water in step (iii). In other words, in a preferred embodiment the addition of one or more second salts and water of step (iii) is fully, or predominantly, performed using the one or more first salts and water present in the second permeate that is separated from phenolic and/or glycoalkaloid compounds in step (iv).</p>
+<p id="p-0072" num="0086">In a preferred embodiment, step (iv) comprises subjecting the first permeate from said first cross-flow membrane filtration process obtained in step (ii) to a second cross-flow membrane filtration process wherein at least a portion of the salts present therein migrate across the membrane into a second permeate and the phenolic and/or glycoalkaloid compounds are retained in a second retentate and wherein the addition of the one or more second salts and water of step (iii) is fully, or predominantly, performed using the one or more first salts and water present in the second permeate obtained in step (iv).</p>
+<p id="p-0073" num="0087">In another preferred embodiment, the second permeate obtained in step (iv) is subjected to a reverse osmosis membrane filtration step or evaporation step and the resulting water is used, at least in part, as the source of the water in step (iii). In other words, in a preferred embodiment the addition of water of step (iii) is fully, or predominantly, performed using the water separated from the second permeate obtained in step (iv) by a reverse osmosis membrane filtration step or evaporation step.</p>
+<p id="p-0074" num="0088">As will be appreciated by those skilled in the art, the diafiltration process with this recycle stream can be performed in many ways. When starting the diafiltration process, no second permeate is available yet. In a first embodiment, the diafiltration step (iii) starts with diafiltration liquid without added second salts and as soon as the second permeate is available from step (iv), this second permeate is recycled and used as diafiltration liquid in step (iii). In this first embodiment, the one or more second salts thus solely originate from the one or more first salts. In a second embodiment, the diafiltration step (iii) starts with diafiltration liquid with added second salts and as soon as the second permeate is available from step (iv), at least part this second permeate is recycled and used as diafiltration liquid in step (iii) or added to a stream of fresh water with added second salts. In this second embodiment, the one or more second salts thus originate from the one or more first salts and one or more second salts added to in step (iii). Continuously adding fresh diafiltration liquid in step (iii) and recycling second permeate to the diafiltration liquid may require purging part of the second permeate to avoid buildup of the diafiltration flow. Continuously adding fresh diafiltration liquid in step (iii) and recycling second permeate to the diafiltration liquid combined with purging part of the second permeate may be advantageous to avoid buildup of too high concentrations of salts in the diafiltration liquid.</p>
+<p id="p-0075" num="0089">For certain applications, it is preferred that the liquid comprising the separated potato proteins, i.e. the retentate obtained in diafiltration step (iii) using the first cross-flow membrane filtration, has a low level of turbidity and it may therefore be advantageous to perform a further separation step to remove suspended or colloidal particles from that liquid. The skilled person wanting to remove suspended or colloidal particles would consider removing them upstream in the process, preferably already from the potato fruit juice before step (i). Centrifugation is a very well-known method for separation of suspended solids from liquid solutions. However, potato fruit juice or derivatives thereof may be extremely difficult and/or expensive to clarify by centrifugation at large scale. Microfiltration is an alternative method for clarification but also this method has serious shortcomings due to fouling of the membrane surface with low productivity and low product permeability as the result. Therefore, it is not possible to efficiently apply microfiltration on crude potato fruit juice without serious loss of product and long processing times.</p>
+<p id="p-0076" num="0090">It has now surprisingly been found that the microfiltration process shows significantly less tendency to fouling when the liquid to be filtered has already been separated from phenolic and/or glycoalkaloid compounds that otherwise tend to adsorb to the surface of the membrane and block the pores.</p>
+<p id="p-0077" num="0091">Thus, in a preferred embodiment, the method as defined hereinbefore comprises the steps of:
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0092">(i) providing a potato fruit juice or a derivative thereof comprising proteins, one or more first salts and phenolic and/or glycoalkaloid compounds;</li>
+    <li id="ul0005-0002" num="0093">(ii) subjecting said potato fruit juice or the derivative thereof to a first cross-flow membrane filtration process wherein at least a portion of the one or more first salts and at least a portion of the phenolic and/or glycoalkaloid compounds migrate across the membrane into a first permeate and the potato proteins are retained in a first retentate;</li>
+    <li id="ul0005-0003" num="0094">(iii) adding one or more second salts and water to the first retentate while continuing the membrane filtration process to create a diafiltrate containing at least a portion of said phenolic and/or glycoalkaloid compounds and the added second salts and a retentate;</li>
+    <li id="ul0005-0004" num="0095">(iv) subjecting the first permeate and/or said diafiltrate from said first cross-flow membrane filtration process to a second cross-flow membrane filtration process wherein at least a portion of the salts present therein migrate across the membrane into a second permeate and the phenolic and/or glycoalkaloid compounds are retained in a second retentate; and</li>
+    <li id="ul0005-0005" num="0096">(v) subjecting the first retentate obtained in step (iii) to a microfiltration membrane filtration process wherein at least a portion of the potato proteins soluble in said first retentate migrate across the membrane into a microfiltration permeate with a lower turbidity than the turbidity of said first retentate.</li>
+</ul>
+</p>
+<p id="p-0078" num="0097">In a preferred embodiment, the microfiltration permeate of step (v) is further treated with a third cross-flow membrane filtration process wherein the potato protein is concentrated in a third retentate and the salts are migrating through the membrane to create a third permeate.</p>
+<p id="p-0079" num="0098">In a further preferred embodiment, the third permeate is used as a diafiltration liquid to be added during the microfiltration process of step (v) to wash out further proteins from the retentate into the microfiltration permeate.</p>
+<heading id="h-0007" level="2">Potato Fruit Juice or a Derivative Thereof</heading>
+<p id="p-0080" num="0099">As explained hereinbefore, the term &#x2018;potato fruit juice or derivatives thereof&#x2019; means the liquid stream after the (industrial scale) separation of potato starch from potatoes (<i>Solanum tuberosum </i>L.) and any aqueous streams derived from processing of such liquid stream by for example flocculation of contaminants and centrifugation, provided that the &#x2018;derivatives thereof&#x2019; still comprise protein, phenolic compounds and (first) salts.</p>
+<p id="p-0081" num="0100">The potato fruit juice or the derivative thereof that is used as a raw material in the process according to the present invention may be obtained by disintegration, e.g. by grinding, shredding and/or pressing, of the raw potatoes, whereby an aqueous solution comprising protein, salts, phenolic compounds and glycoalkaloid compounds is released as a juice, and/or the components may be extracted by addition of water or an aqueous extractant solution in combination with physical disruption of the plant tissue and/or cells. Antioxidants, such as sodium sulfite, sodium metabisulfite and ascorbic acid, may preferably be added prior to or during the procedures performed to produce the potato fruit juice or the derivative thereof. Likewise, it may be preferable to add salts to control conductivity and pH controlling substances such as acids or bases to adjust pH to a preferred value.</p>
+<p id="p-0082" num="0101">The potato fruit juice may be subjected to various pretreatment procedures creating a derivative of the potato fruit juice, such as deaeration, defoaming, solid-liquid separation (such as filtration, centrifugation, decantation, passing through hydrocyclones), heating or cooling.</p>
+<p id="p-0083" num="0102">The potato fruit juice or a derivative thereof so obtained may be pretreated in various ways prior to separation according to the invention. Preferably the juice is pretreated to remove insoluble material of a particle size larger than 10 micron which may be achieved e.g. by centrifugation and/or filtration.</p>
+<p id="p-0084" num="0103">In a preferred embodiment the conductivity of the potato fruit juice or the derivative thereof is, or is adjusted to, in the range of 1 to 50 mS/cm, such as 2 to 40 mS/cm, 3 to 30 mS/cm, 3 to 25 mS/cm, 3 to 20 mS/cm, or 5 to 17 mS/cm.</p>
+<p id="p-0085" num="0104">In a preferred embodiment the pH of the potato fruit juice or the derivative thereof is within the range of 4.5 to 8.5, such as 5.2 to 7.5. For certain applications, the pH is preferably in the range of 4.5 to 6.5, such as 4.8 to 6.5, or 5.0 to 6.5. In a preferred embodiment, the pH of the potato fruit juice or the derivative thereof is adjusted to a pH in the range 4.5 to 8.5, such as in the range of 5.2 to 7.5, preferably in the range of 4.5 to 6.5, such as in the range of 4.8 to 6.5, or 5.0 to 6.5 prior to said first cross-flow membrane filtration process.</p>
+<heading id="h-0008" level="2">Potato Proteins</heading>
+<p id="p-0086" num="0105">In an embodiment, the potato proteins to be separated are selected from the group consisting of patatin, protease inhibitors, lipoxygenase, polyphenol oxidase, acid and alkaline phosphatase, or mixtures thereof, preferably patatin or protease inhibitors, or mixtures thereof.</p>
+<p id="p-0087" num="0106">In an embodiment, the potato protein to be separated is patatin. In another embodiment, the potato protein to be separated is protease inhibitors.</p>
+<p id="p-0088" num="0000">Phenolic and/or Glycoalkaloid Compounds</p>
+<p id="p-0089" num="0107">As explained hereinbefore, the potato fruit juice or the derivative thereof contains phenolic and/or glycoalkaloid compounds, such as (a) phenolic acids, flavonoids, tannins, stilbenes, lignans, gallic acid and/or catechin and (b) &#x3b1;-solanine and/or &#x3b1;-chaconine.</p>
+<p id="p-0090" num="0108">In an embodiment, the phenolic compounds to be separated are selected from the group consisting of phenolic acids and flavonoids including flavonols, flavanols, and anthocyanins. In another embodiment, the phenolic compounds to be separated are selected from the group consisting of phenolic acids and flavonoids including flavonols, flavanols, and anthocyanins, and combinations thereof.</p>
+<p id="p-0091" num="0109">In an embodiment, the phenolic compounds to be separated comprise chlorogenic acids. In another embodiment, the phenolic compounds to be separated comprise catechin.</p>
+<p id="p-0092" num="0110">In an embodiment, the glycoalkaloid compounds to be separated comprise &#x3b1;-solanine and/or &#x3b1;-chaconine.</p>
+<p id="p-0093" num="0111">In an embodiment, the phenolic and glycoalkaloid compounds to be separated are selected from the group consisting of (a) phenolic acids and flavonoids, including flavonols, flavanols, and anthocyanins, and (b) &#x3b1;-solanine and &#x3b1;-chaconine, and combinations thereof.</p>
+<heading id="h-0009" level="2">Fibers</heading>
+<p id="p-0094" num="0112">The potato fruit juice or the derivatives thereof will most often contain insoluble fibers, also known as dietary fibers. Such dietary fibers may have health promoting effects and add functionality when applied as a food ingredient.</p>
+<p id="p-0095" num="0113">In a preferred embodiment, the potato fruit juice or the derivative thereof comprising potato proteins, one or more first salts and phenolic and/or glycoalkaloid compounds also contains insoluble fibers at a concentration in the range of 0.1 to 30 mg/ml, based on the dry weight of the insoluble fiber, such as 0.2 to 20 mg/ml, 0.3 to 15 mg/ml, 0.5 to 10 mg/ml, or 1.0 to 5 mg/ml, based on the dry weight of the insoluble fiber.</p>
+<p id="p-0096" num="0114">In an embodiment, more than 80% of said insoluble fibers in the potato fruit juice are small enough to pass a 50 micron filter, such as a 40 micron filter, a 30 micro filter, a 20 micron filter, a 10 micro filter, a 5 micron filter, or a 2 micron filter.</p>
+<p id="p-0097" num="0115">In an embodiment, said insoluble fibers are present in the potato fruit juice in a concentration that results in a pellet when the fruit juice is centrifuged in a tabletop centrifuge at 4000 G for 30 min.</p>
+<p id="p-0098" num="0116">In an embodiment, said pellet constitutes in the range of 0.1 to 10 vol/vol %, such as 0.1 to 5 vol/vol %, 0.1 to 3 vol/vol %, 0.1 to 2 vol/vol %, 0.1 to 1 vol/vol %, 0.2 to 5 vol/vol %, 0.2 to 3 vol/vol %, 0.3 to 5 vol/vol %, 0.3 to 3 vol/vol %, 0.4 to 5 vol/vol %, 0.4 to 4 vol/vol %, 0.5 to 5 vol/vol %, 0.5 to 4 vol/vol %, or 0.5 to 3 vol/vol %, when the potato fruit juice at a pH of 6 to 7 has been diluted (or concentrated) to a true protein concentration of 5 mg/ml.</p>
+<heading id="h-0010" level="2">First Cross-Flow Membrane Process</heading>
+<p id="p-0099" num="0117">In a preferred embodiment, the first cross-flow membrane filtration process to provide the first permeate and the first retentate according to step (ii) of the process as defined hereinbefore is an ultrafiltration process wherein high molecular weight compounds, such as proteins, are retained in the first retentate and low molecular weight substances, such as salts and phenolic and/or glycoalkaloid compounds migrate across the membrane as a first permeate.</p>
+<p id="p-0100" num="0118">Preferably the pore size of the ultrafiltration membrane is in the range of 5 to 500 kDa, such as 10 to 500 kDa, 10 to 200 kDa, 10 to 100 kDa, 10 to 50 kDa, 30 to 500 kDa, or 50 to 500 kDa.</p>
+<p id="p-0101" num="0119">More preferably, the pore size of the ultrafiltration membrane is in the range of 10 to 50 kDa, such as about 30 kDa.</p>
+<p id="p-0102" num="0120">The membrane material may be any kind of membrane suitable for cross-flow filtration, examples of which are polyamide, polysulfone, poyethersulfone, polyvinyldifluoride, polyacrylonitrile, cellulose acetate, permanently hydrophilized polysulfone, permanently hydrophilized polyethersulfone and ceramic membranes. Preferably, the membrane material is regenerated cellulose, polypropylene or polyethylene. Most preferably, the membrane material is selected from the group consisting of polysulfone, poyethersulfone permanently hydrophilized polysulfone and permanently hydrophilized polyethersulfone.</p>
+<p id="p-0103" num="0121">In an embodiment, the membrane is a flat sheet or a spiral wound flat sheet membrane.</p>
+<p id="p-0104" num="0122">In an embodiment, the membrane is a hollow fiber or tubular membrane. In a preferred embodiment, the hollow fiber membrane has an internal diameter in the range of 0.5 to 3.0 mm, such as in the range of 0.6 to 2.5 mm, 0.7 to 2.2 mm, 0.8 to 2.0 mm, 0.9 to 1.8 mm, 1.0 to 1.7 mm, or 1.1 to 1.6 mm.</p>
+<p id="p-0105" num="0123">In a preferred embodiment, the hollow fiber membrane has a length in the range of 30 to 150 cm, such as in the range of 40 to 140 cm, 50 to 130 cm, 60 to 120 cm, 70 to 115 cm, 80 to 110 cm, or 90 to 110 cm.</p>
+<p id="p-0106" num="0124">In a preferred embodiment, the hollow fiber membrane material comprises polysulfone, cellulose acetate, ceramic material, polyamide, polyethersulfone or permanently hydrophilized polysulfone or polyethersulfone.</p>
+<p id="p-0107" num="0125">In a preferred embodiment, the hollow fiber membrane has a pore size in the range of 5 kDa to 500 kDa, such as in the range of 10 kDa to 200 kDa, in the range of 20 kDa to 100 kDa, or in the range of 30 kDa to 75 kDa.</p>
+<p id="p-0108" num="0126">In a preferred embodiment, the hollow fiber membrane is an inside-out membrane wherein the transmembrane transport of liquid is performed from the inner lumen of the membrane to the outside surface of the membrane.</p>
+<heading id="h-0011" level="2">Second Cross-Flow Membrane Filtration Process</heading>
+<p id="p-0109" num="0127">In a preferred embodiment, the second cross-flow membrane filtration process to provide the second permeate and the second retentate according to step (iv) of the process as defined hereinbefore is an nanofiltration process wherein phenolic and/or glycoalkaloid compounds are retained in the second retentate and first and second salts migrate across the membrane as a second permeate.</p>
+<p id="p-0110" num="0128">Preferred materials for the nanofiltration membrane include organic polymers, such as cellulose acetate, polysulfone, poly(ether)sulfone, sulfonated polysulfone, aromatic polyamides, polyimide, poly(piperazine amide) and blends and composites thereof.</p>
+<p id="p-0111" num="0129">The pore size of the nanofiltration membrane is preferably in the range of 100-1000 Da, such as 200-800 Da, or 300-700 Da. For some applications, the pore size is preferably in the range of 500-800 Da, such as 300-500 D, or 150-300 Da.</p>
+<p id="p-0112" num="0130">Especially interesting nanofiltration devices for the separation of polyphenols and/or glycoalkaloids are Filmtec NF elements from Dupont, USA, Duracon and Dairy Thin film NF elements from SUEZ Water Technologies &#x26; Solutions, USA, NFX, NFW and NFG elements from Synder Filtration, USA, vNF Spiral thin film composite membranes from Alfa Laval Corp, Sweden, and X-Flow hollow fiber nanofiltration elements from Pentair, The Netherlands.</p>
+<heading id="h-0012" level="2">Diafiltration Step</heading>
+<p id="p-0113" num="0131">In order to optimize the processing logistics, and for some applications the processability of said first retentate, the first retentate obtained in step (ii) may advantageously be stored for several hours before the diafiltration of step (iii) is carried out. Thus, in an embodiment, said first retentate is stored for at least 3 hours, such as at least 6 hours, at least 12 hours, at least 18 hours, at least 24 hours, at least 36 hours, or at least 48 hours before the diafiltration step of (iii) is performed. In a further embodiment, the diafiltration step (iii) may be partly carried out before the storage of said first retentate.</p>
+<p id="p-0114" num="0132">In yet a further embodiment, said first retentate obtained in step (ii) may be treated with a preliminary diafiltration step using e.g. water or a low conductivity aqueous solution prior to storage and subsequent diafiltration according to step (iii).</p>
+<p id="p-0115" num="0133">In an embodiment, the storage temperature of said first retentate is within the range of 1 to 25&#xb0; C., such as 2 to 20&#xb0; C., 3 to 15&#xb0; C., 2 to 12&#xb0; C., 2 to 10&#xb0; C., or 2 to 8&#xb0; C.</p>
+<p id="p-0116" num="0134">In a further embodiment, the pH of said first retentate during storage is, or is adjusted to, a pH in the range of 4.5 to 5.6, such as 4.5 to 5.4, 4.5 to 5.2, or 4.7 to 5.3.</p>
+<p id="p-0117" num="0135">As will be appreciated by those skilled in the art, the wording &#x2018;while continuing the membrane filtration process&#x2019; in step (iii) means that the first cross-flow membrane filtration process in step (ii) and the diafiltration step (iii) are performed across the same membrane, the difference being that step (ii) is used without diafiltration liquid resulting in concentration, whereas step (iii) is performed with diafiltration liquid (the one or more second salts and water).</p>
+<p id="p-0118" num="0136">The one or more second salts to be added in step (iii) of the method as defined herein may be any water soluble salt of on the one hand one or more of sodium, potassium, ammonium, calcium and magnesium and on the other hand one or more of mineral acids and organic acids.</p>
+<p id="p-0119" num="0137">In a preferred embodiment, the one or more second salts are selected from sodium, potassium, ammonium, calcium or magnesium salts of a mineral acid or an organic acid.</p>
+<p id="p-0120" num="0138">Examples of suitable organic acids are formic acid, acetic acid, propanoic acid, citric acid, caprylic acid, lactic acid, gluconic acid, tartaric acid, fumaric acid, butanedioic acid and benzoic acid.</p>
+<p id="p-0121" num="0139">As explained hereinbefore, the membrane applied in the second cross-flow membrane filtration step (iv) preferably is a nanofiltration membrane. In order to achieve the highest permeability of the salt through a nanofiltration membrane retaining the phenolic compounds in the retentate, the one or more second salts are preferably chosen from the group of salts constituted by only monovalent inorganic anions and cations, such as sodium chloride, potassium chloride and ammonium chloride.</p>
+<p id="p-0122" num="0140">However, in certain applications there will be a need to limit process costs and the cost of environmentally friendly waste handling. Likewise, certain factory designs cannot withstand the corrosive nature of e.g. chlorides. For such applications, the one or more salts are preferably chosen from the group of sodium sulfate and potassium sulfate.</p>
+<p id="p-0123" num="0141">During diafiltration step (iii), the one or more second salts may be added to the retentate as an aqueous solution or as a solid to be solubilized in the first retentate.</p>
+<p id="p-0124" num="0142">The amount of one or more second salts added determines the conductivity of the retentate during diafiltration step (iii).</p>
+<p id="p-0125" num="0143">In an embodiment, the electrical conductivity of the retentate during the diafiltration step (iii), preferably during step (ii) and diafiltration step (iii), remains within the range of 1 to 50 mS/cm, such as in the range of 2 to 40 mS/cm, 3 to 30 mS/cm, 3 to 25 mS/cm, 3 to 20 mS/cm, 5 to 17 mS/cm, 6 to 25 mS/cm, 7 to 25 mS/cm, or 10 to 25 mS/cm.</p>
+<p id="p-0126" num="0144">More preferably, the electrical conductivity of the retentate during the diafiltration step (iii), preferably during step (ii) and diafiltration step (iii), remains within the range of 3 to 20 mS/cm.</p>
+<p id="p-0127" num="0145">The nature of the one or more second salts added during diafiltration step (iii) may also influence the pH of the retentate. In a preferred embodiment the pH of the retentate during diafiltration step (iii) remains within the range of 4.5 to 8.5, such as 5.2 to 7.5.</p>
+<p id="p-0128" num="0146">In a particular embodiment, the diafiltration in step (iii) is performed first at a relatively low temperature to remove the majority of the phenolic and/or glycoalkaloid compounds followed by diafiltration at a relatively higher temperature to remove the remaining phenolic and/or glycoalkaloid compounds. Thus, in a preferred embodiment the retentate in a first phase of diafiltration remains at a temperature in the range of 1 to 30&#xb0; C., such as 5 to 28&#xb0; C., 10 to 25&#xb0; C., or 15 to 22&#xb0; C., followed by a second phase of diafiltration wherein the retentate remains at a temperature in the range of 30 to 60&#xb0; C., such as 30 to 55&#xb0; C., 35 to 52&#xb0; C., 38 to 50&#xb0; C., or 40 to 48&#xb0; C.</p>
+<p id="p-0129" num="0147">For certain applications, the pH of the retentate during diafiltration step (iii) preferably remains in the range of 4.5 to 6.5, such as 4.8 to 6.5, or 5.0 to 6.5.</p>
+<p id="p-0130" num="0148">In a preferred embodiment, the retentate during diafiltration step (iii) remains at a temperature in the range of 1 to 60&#xb0; C., such as 5 to 55&#xb0; C., 10 to 50&#xb0; C., 15 to 48&#xb0; C., 12 to 45&#xb0; C., 18 to 30&#xb0; C., or 22 to 28&#xb0; C.</p>
+<p id="p-0131" num="0149">The addition of the one or more second salts and water in diafiltration step (iii) is to be performed until enough volume has been added, and subsequently removed via the permeate, to reach a satisfactory (low) level of phenolic and/or glycoalkaloid compounds in the retentate.</p>
+<p id="p-0132" num="0150">In an embodiment, the target value for remaining phenolic and/or total glycoalkaloid compounds in the retentate of diafiltration step (iii) corresponds to less than 5000 mg phenolic and/or total glycoalkaloid compounds per kg potato protein on the basis of dry weight, such as less than 4000 mg/kg, less than 3000 mg/kg, less than 2000 mg/kg, less than 1500 mg/kg, less than 1250 mg/kg, less than 1000 mg/kg, less than 750 mg/kg, less than 500 mg/kg, less than 200 mg phenolic and/or total glycoalkaloid compounds/kg potato protein on the basis of dry weight.</p>
+<p id="p-0133" num="0151">In some applications it is further important to reach a lower level of phenolic and/or total glycoalkaloid compounds having a molecular weight below 10 kDa. Thus, in a further embodiment, the target value for phenolic and/or total glycoalkaloid compounds having a molecular weight below 10 kDa remaining in the retentate of diafiltration step (iii) corresponds to less than 1500 mg/kg, such as less than 1000 mg/kg, less than 750 mg/kg, less than 500 mg/kg, less than 300 mg/kg, less than 200 mg/kg, less than 100 mg/kg, or less than 50 mg phenolic and/or total glycoalkaloid compounds/kg protein on the basis of dry weight.</p>
+<p id="p-0134" num="0152">In an embodiment, glycoalkaloids are efficiently separated from the potato proteins present in the potato fruit juice or the derivative thereof. Thus, in an embodiment, diafiltration step (iii) brings the total glycoalkaloids remaining in the retentate below a target amount corresponding to less than 500 mg/kg, such as less than 300 mg/kg, less than 200 mg/kg, less than 100 mg/kg, or less than 50 mg total glycoalkaloids/kg potato protein on the basis of dry weight.</p>
+<p id="p-0135" num="0153">In an embodiment, the addition of one or more second salts and water in diafiltration step (iii) is performed continuously and with practically the same flow rate as the diafiltrate is migrating through the membrane. In another embodiment, the addition of one or more second salts and water in diafiltration step (iii) is done in small portions, such as portions approximately equal to the retentate volume.</p>
+<p id="p-0136" num="0154">In an embodiment, the total volume of water added during diafiltration step (iii) is in the range of 4 to 20 times the volume of the first retentate, such as 4 to 15 times, 5 to 12 times, 5 to 10 times, 6 to 10 times, 7 to 9 times, or 5 to 9 times the volume of the first retentate. More preferably, the total volume of water added during diafiltration step (iii) is in the range of 6 to 10 times the volume of the retentate.</p>
+<p id="p-0137" num="0155">In a preferred embodiment, diafiltration step (iii) comprises a second phase of diafiltration following the addition of one or more second salts and water, wherein the diafiltration is continued with the addition of water without adding any further salts. In this way the salt concentration and conductivity of the retentate will gradually decrease until a target value for the conductivity has been reached.</p>
+<p id="p-0138" num="0156">In an embodiment, the second phase of diafiltration in step (iii) is continued with water and without the addition of further salts until the conductivity of the retentate is less than 10 mS/cm, such as less than 8 mS/cm, less than 5 mS/cm, less than 4 mS/cm, less than 3 mS/cm, less than 2 mS/cm, or less than 1 mS/cm.</p>
+<p id="p-0139" num="0157">In order to optimize the processing logistics, and for some applications the processability of the retentate resulting after diafiltration step (iii), the retentate may advantageously be stored for several hours before further processing, such as a preferred microfiltration step (v), drying or any further separation steps are carried out.</p>
+<p id="p-0140" num="0158">Thus, in an embodiment, the retentate resulting after the diafiltration step (iii) is stored for at least 3 hours, such as at least 6 hours, at least 12 hours, at least 18 hours, at least 24 hours, at least 36 hours, or at least 48 hours before further processing is performed.</p>
+<p id="p-0141" num="0159">In an embodiment, the storage temperature of said retentate resulting after diafiltration step (iii) is within the range of 1 to 25&#xb0; C., such as 2 to 20&#xb0; C., 3 to 15&#xb0; C., 2 to 12&#xb0; C., 2 to 10&#xb0; C., or 2 to 8&#xb0; C.</p>
+<p id="p-0142" num="0160">In a further aspect the pH of said retentate resulting after diafiltration step (iii) during storage is, or is adjusted to, a pH in the range of 4.5 to 5.6, such as 4.5 to 5.4, 4.5 to 5.2, or 4.7 to 5.3.</p>
+<heading id="h-0013" level="2">Inactivation of Unwanted Enzymatic Activities</heading>
+<p id="p-0143" num="0161">In a preferred embodiment, the first retentate obtained in step (ii) or the potato proteins isolated according to the invention are treated to provide inactivation of enzymatic activities that may be unwanted when the potato proteins are to be used as food ingredients in certain applications. In particular, inactivation of the esterase and lipolytic activity of patatins and the inactivation of polyphenol oxidase activity is preferred. It is well known that such inactivation may be performed by extensive heating of the proteins. However, such treatment may also lead to uncontrolled polymerization and gelling/denaturation of the proteins, such that the functionality for use in foods is lost or at least significantly decreased.</p>
+<p id="p-0144" num="0162">The inventors have surprisingly found that treatment of the first retentate obtained in step (ii) or the potato proteins isolated according to the invention with acidic pH values for a limited period of time may lead to the preferred inactivation, particularly inactivation of the esterase and lipolytic activity of patatins, in a controlled manner without losing the functionality of the potato proteins. Moreover, the inventors have surprisingly found that this inactivation, particularly inactivation of the esterase and lipolytic activity of patatins, improves the flavor of the potato proteins isolated according to the invention.</p>
+<p id="p-0145" num="0163">The wording &#x2018;or the potato proteins isolated according to the invention&#x2019; refers to any one of the following:
+<ul id="ul0006" list-style="none">
+    <li id="ul0006-0001" num="0000">
+    <ul id="ul0007" list-style="none">
+        <li id="ul0007-0001" num="0164">the retentate resulting from diafiltration step (iii);</li>
+        <li id="ul0007-0002" num="0165">the microfiltration permeate obtained in step (v);</li>
+        <li id="ul0007-0003" num="0166">the third retentate obtained by treating the microfiltration permeate of step (v) with a third cross-flow membrane filtration process; or</li>
+        <li id="ul0007-0004" num="0167">any other aqueous stream comprising potato proteins obtained downstream of diafiltration step (iii).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0146" num="0168">Thus, in a preferred embodiment, the first retentate obtained in step (ii) or a solution of the potato proteins isolated according to the invention, preferably the retentate resulting from diafiltration step (iii), is exposed to pH values between 2.0 and 4.5, such as between 2.0 and 4.0, between 2.0 and 3.75, between 2.0 and 3.5, between 2.0 and 3.2, or between 2.0 and 3.0 in a time and temperature interval sufficient to eliminate unwanted enzymatic activity of the potato proteins without adversely affecting functionality of the potato proteins.</p>
+<p id="p-0147" num="0169">As will be appreciated by those skilled in the art, the wording &#x2018;without adversely affecting functionality of the potato proteins&#x2019; is to be understood as &#x2018;without substantially adversely affecting functionality of the potato proteins&#x2019; because subjecting the potato proteins to the acidic pH values for a limited period of time may negatively affect at least part of the functionality of the potato proteins.</p>
+<p id="p-0148" num="0170">In an embodiment, the first retentate obtained in step (ii) or the potato protein solution isolated according to the invention, preferably the retentate resulting from diafiltration step (iii), exposed to the low pH comprises patatin and the enzymatic activity to be eliminated is the esterase activity of said patatin.</p>
+<p id="p-0149" num="0171">In an embodiment, the first retentate obtained in step (ii) or the potato protein solution isolated according to the invention, preferably the retentate resulting from diafiltration step (iii), exposed to the low pH comprises one or more polyphenol oxidases and the enzymatic activity to be eliminated is the oxidative activity of said polyphenol oxidase.</p>
+<p id="p-0150" num="0172">In an embodiment, the first retentate obtained in step (ii) or the potato protein solution isolated according to the invention, preferably the retentate resulting from diafiltration step (iii), exposed to the low pH comprise phospholipase and the enzymatic activity to be eliminated is the phospholipase activity of said phospholipase.</p>
+<p id="p-0151" num="0173">In an embodiment, the inactivation of enzymatic activity is performed at a temperature in the range of 1-70&#xb0; C., such as in the range of 1-65&#xb0; C., 5-60&#xb0; C., 5-15&#xb0; C., 10-55&#xb0; C., 10-15&#xb0; C., 15-55&#xb0; C., 18-50&#xb0; C., 18-48&#xb0; C., or 20-45&#xb0; C.</p>
+<p id="p-0152" num="0174">In an embodiment, the inactivation of enzymatic activity is performed in a time span of at least 15 second, such as at least 5 minutes, such as at least 10 minutes, such as at least 30 minutes, such as at least 60 minutes, such as at least 120 minutes, such as at least 240 minutes.</p>
+<p id="p-0153" num="0175">In a very preferred embodiment, the inactivation of enzymatic activity is performed by exposing the first retentate obtained in step (ii) or a solution of the potato proteins isolated according to the invention, preferably the retentate resulting from diafiltration step (iii), to:
+<ul id="ul0008" list-style="none">
+    <li id="ul0008-0001" num="0000">
+    <ul id="ul0009" list-style="none">
+        <li id="ul0009-0001" num="0176">a pH value between 2.0 and 4.5, preferably between 2.0 and 4.0, more preferably between 2.0 and 3.75, even more preferably between 2.0 and 3.5, such as between 2.0 and 3.2, or between 2.0 and 3.0;</li>
+        <li id="ul0009-0002" num="0177">a temperature in the range of 1-70&#xb0; C., preferably in the range of 5-60&#xb0; C., more preferably in the range of 10-55&#xb0; C., even more preferably in the range of 20-45&#xb0; C.; and</li>
+        <li id="ul0009-0003" num="0178">in a time span of up to 240 minutes, preferably between 15 seconds and 120 minutes, more preferably between 5 and 60 minutes, such as about 15, 20, 30 or 45 minutes.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0154" num="0179">In a preferred embodiment, the pH of the thus treated stream is brought back to a value between 4.5 and 8.5, such as between 6 and 8, or between 6.5 and 7.5. As will be appreciated by those skilled in the art, such an additional step is not needed if the step of inactivation of enzymatic activity is performed just before a diafiltration step wherein diafiltration liquid is added, automatically resulting in an increase of the pH.</p>
+<p id="p-0155" num="0180">The inactivation of enzymatic activity is preferably performed by exposing the first retentate obtained in step (ii) before diafiltration step (iii) to the low pH. Before diafiltration in step (iii) and after the concentration in step (ii), the volumetric flow rate is reduced, such that the amount of acid needed to reduce the pH is limited. Moreover, by subjecting thus treated retentate to diafiltration in step (iii), the pH can be quickly brought back to a value of 4.5 or higher to avoid overexposure of the potato proteins.</p>
+<p id="p-0156" num="0181">More preferably, the inactivation of enzymatic activity is performed by exposing the retentate resulting from diafiltration step (iii) to the low pH. Since the polyphenols have been sufficiently removed from this stream, the risk of unwanted chemical reactions at acidic pH is eliminated.</p>
+<p id="p-0157" num="0182">It was further surprisingly found that a controlled and limited proteolysis of the potato proteins isolated according to the invention may lead to inactivation of unwanted enzymatic activity without destroying important functional properties, such as the ability to form food gels.</p>
+<p id="p-0158" num="0183">Thus, in an embodiment, the inactivation of unwanted enzymatic activity of the potato protein isolated according to the invention is achieved by treatment of a solution of the potato protein with one or more proteolytic enzymes. In an embodiment, the enzymatic activity of patatin is in part or fully inactivated by the treatment with a protease. In an embodiment, the enzymatic activity of phospholipase is in part or fully inactivated by the treatment with a protease. In an embodiment, the enzymatic activity of polyphenol oxidase is in part or fully inactivated by the treatment with a protease.</p>
+<p id="p-0159" num="0184">In an embodiment, the one or more proteases are endopeptidase. In an embodiment, the one or more proteases are serine proteases. In an embodiment, the one or more proteases are chosen from the group of trypsin-like, chymotrypsin-like, thrombin-like, elastase-like and subtilisin-like proteases. In an embodiment, the one or more proteases are subtilisin.</p>
+<heading id="h-0014" level="2">Inactivation of Microbial Growth During Processing</heading>
+<p id="p-0160" num="0185">Potato fruit juice and other extracts of potato proteins may contain a high level of microbes naturally originating from the growth and storage of the potatoes in the soil. It is therefore preferred to add a germicidal step during the process according to the invention. This step may be applied directly to the crude potato fruit juice, or it may preferably be applied during and/or in between the membrane filtration processing steps according to the invention.</p>
+<p id="p-0161" num="0186">Thus, in an embodiment, the germicidal step is performed on the potato fruit juice or the derivative thereof provided in step (i) prior to step (ii). Before diafiltration in step (iii) and after the concentration in step (ii), the volumetric flow rate is reduced. Accordingly, it may be advantageous to perform the germicidal step just before step (iii). Thus, in a preferred embodiment, the germicidal step is performed on the first retentate provided in step (ii) prior to diafiltration step (iii).</p>
+<p id="p-0162" num="0187">Since many proteins are highly sensitive to classical pasteurization by heat treatment, leading to loss of functional properties of the proteins, the germicidal step is performed at a temperature in the range of 2-60&#xb0; C., such as in the range of 5-55&#xb0; C., in the range of 8-52&#xb0; C., in the range of 10-50&#xb0; C., in the range of 12-45&#xb0; C., in the range of 12-25&#xb0; C., or in the range of 12-18&#xb0; C.</p>
+<p id="p-0163" num="0188">The germicidal step is applied using high intensity UV light, X-rays, pulsed electric field treatment or high-pressure pasteurization.</p>
+<p id="p-0164" num="0189">In an embodiment, the germicidal step comprises passing of the potato fruit juice or the derivative thereof through a photo bioreactor illuminating high intensity UV light to the fruit juice. In an embodiment, the UV light has a wavelength primarily in the range of 180-300 nm. In an embodiment, the potato fruit juice or the derivative thereof is illuminated with UV light when passing one or more a spiral-shaped tubes, allowing the passage of the UV light. In an embodiment, the inner diameter of said spiral tubes is in the range of 1-15 mm, such as in the range of 2-12 mm, such as in the range of 3-10 mm, such as in the range of 4-9 mm. In an embodiment, the potato fruit juice or the derivative thereof is passed more than one time through the photo bioreactor.</p>
+<p id="p-0165" num="0190">In an embodiment, the potato fruit juice or the derivative thereof is passing the photo bioreactor simultaneously with one or more of the membrane filtration steps according to the invention. In an embodiment, the photo bioreactor is inserted into the recirculation loop of one or more of the membrane filtration units applied according to the invention such that the potato fruit juice or the derivative thereof is continuously passing the photo bioreactor. In an embodiment, the photo bioreactor is inserted as a shunt to the recirculation loop of one or more of the membrane filtration units applied according to the invention. In an embodiment, the photo bioreactor is inserted as a recirculation unit to the holding tank of one or more of the membrane filtration units applied according to the invention. In an embodiment, the germicidal step using a photo bioreactor is applied to the potato protein solution after the membrane filtration steps according to the invention. In an embodiment, the O.D.600 nm absorption of the resulting protein solution is in the range of 0.02 to 15.0, such as in the range of 0.05 to 8.0, in the range of 0.1 to 7.0, in the range of 0.5 to 6.0, in the range of 0.8 to 5.0, in the range of 0.9 to 4.0, or in the range of 1.0 to 3.0.</p>
+<p id="p-0166" num="0191">In an embodiment of the invention the photo bioreactor is substantially equal to the photo bioreactor disclosed in WO2019/057257A1, which is hereby incorporated by reference.</p>
+<heading id="h-0015" level="1">EXAMPLES</heading>
+<heading id="h-0016" level="2">Materials</heading>
+<p id="p-0167" num="0192">Chemicals used in the examples herein e.g. for preparing buffers and solutions are commercial products of at least reagent grade. Water used for conducting the experiments is all de-ionized water.</p>
+<heading id="h-0017" level="2">Potato Fruit Juice and Derivatives Thereof</heading>
+<p id="p-0168" num="0193">Potatoes of the variety Folva were obtained from a local supermarket. The potatoes were washed and their surfaces were dried off before the potatoes were shredded including the peel, while the liberated liquid (juice) concomitantly was separated from the main mass of insolubles using a commercial juicer (Nutrijuicer PRO) without diluting with water. A volume of 10 ml sodium sulphite (10 wt %) per 1000 ml juice was added immediately to the juice and the juice was centrifuged for 5 min at 1430 G to remove any remaining large insoluble particles such as insoluble fibers and starch.</p>
+<p id="p-0169" num="0194">An amount of 10 kg of potatoes yielded about 4.65 L of centrifuged juice with a pH of 6.2 and a conductivity of 10.7 mS/cm, as measured with a Seven2Go S3 conductivity meter from Mettler Toledo, Switzerland. The so obtained potato fruit juice did not contain visible particles larger than about 10 &#x3bc;m, but nevertheless remained unclear with suspended colloid particles.</p>
+<heading id="h-0018" level="2">Buffer Solutions</heading>
+<p id="p-0170" num="0000">
+<ul id="ul0010" list-style="none">
+    <li id="ul0010-0001" num="0195">(I) A 10 wt % sodium sulphite buffer solution was prepared by dissolving 10 g of sodium sulphite from Sigma Aldrich USA (cat. No.: 13471) in water to a total volume of 100 ml;</li>
+    <li id="ul0010-0002" num="0196">(II) A 0.1 M di-potassium hydrogen phosphate pH 7.0 buffer solution was prepared by dissolving 17.42 g dipotassium hydrogen phosphate from Sigma Aldrich USA (cat.no.: P3786) in 900 ml water followed by adjusting pH to 7.0 with 4 M hydrochloric acid. Finally, water was added to obtain a final volume of 1 L;</li>
+    <li id="ul0010-0003" num="0197">(III) A 0.1 M sodium sulfate solution was prepared by dissolving 14.2 g anhydrous sodium sulfate SL 99.8% from Lenzing, Austria, in water to a total volume of 1000 ml;</li>
+    <li id="ul0010-0004" num="0198">(IV) A 0.1 M pyrocatechol in 0.1 M di-potassium hydrogen phosphate pH 7.0 buffer solution (for PPO detection) was prepared by dissolving 11.01 g pyrocatechol from Sigma Aldrich, USA (cat.no.: C9510) in 100 ml 0.1 M di-potassium hydrogen phosphate pH 7.0;</li>
+    <li id="ul0010-0005" num="0199">(V) 20 mg/ml 1-naphtyl acetate in 2-propanol: 80 mg 1-naphtyl acetate from Sigma, USA (Cat.no.: N8505), 4 ml of 2-propanol from VWR BDH Chemicals (Cat.no.: 20922.364);</li>
+    <li id="ul0010-0006" num="0200">(VI) 0.1 M tris pH 7.5: 12.1 g Tris VWR Life Science (Cat.no.: 0826), add 900 ml of water adjust pH to 7.5 with 4% HCl, add water to 1 L;</li>
+    <li id="ul0010-0007" num="0201">(VII) Fast Blue BB solution 6 mg/ml in 10% SDS (freshly made, kept in the dark): 30 mg of Fast Blue BB Salt hemi(zinc chloride) from Sigma, USA (Cat.no.: F3378), 5 ml 10% SDS;</li>
+    <li id="ul0010-0008" num="0202">(VIII) 0.2 mg/ml 1-naphtyl acetate in 0.1 M tris pH 7.5 (freshly made): 30 ml 0.1 M tris pH 7.5, 0.3 ml 20 mg/ml 1-naphtyl acetate in 2-propanol.</li>
+</ul>
+</p>
+<heading id="h-0019" level="2">SDS-PAGE Electrophoresis Reagents</heading>
+<p id="p-0171" num="0203">LDS sample buffer, 4&#xd7; was obtained from Expedeon, USA (Cat.no.: NXB31010)
+<br/>
+SDS Run buffer, 20&#xd7; was obtained from Expedeon, USA (Cat.no.: NXB50500)
+<br/>
+Precast 4-20% gradient gels were obtained from Expedeon, USA (Cat.no.: NXG42012K)
+<br/>
+Instant Blue Coomassie staining solution was obtained from Expedeon, USA (Cat.no. ISB1L).
+</p>
+<heading id="h-0020" level="2">Assays</heading>
+<heading id="h-0021" level="2">Esterase Activity</heading>
+<p id="p-0172" num="0204">To 3 ml 0.2 mg/ml 1-naphtyl acetate in 0.1 M tris pH 7.5 (fresh made), 0.3 ml potato protein sample is added. The solution is mixed well and incubated for exactly 15 minutes. 0.42 ml of Fast Blue BB solution 6 mg/ml in 10% SDS is added. The resulting solution is mixed well and incubated for exactly 10 minutes.</p>
+<p id="p-0173" num="0205">A reference sample of 0.3 ml tris buffer is made up (=blind). The samples are analysed at 510 nm (O.D.510) using a spectrophotometer (BK-UV1800 spectrophotometer, Biobase, China). The 510 nm reading from the blind is subtracted from the 510 nm reading from the potato protein sample. The result is expressed as &#x2018;esterase activity signal&#x2019; and is used as a relative measure to compare different samples within the same experiment (i.e. without transforming into a units/mg expression of activity).</p>
+<heading id="h-0022" level="2">SDS-PAGE Electrophoresis</heading>
+<p id="p-0174" num="0206">The samples produced in the examples were analyzed using SDS-PAGE gel electrophoresis to determine the protein composition in each sample. The SDS-PAGE gel electrophoresis was performed using an electrophoresis apparatus and precast 4-20% gradient gels from Expedeon USA (Cat.no.: NXG42012K). The protein samples were mixed with LDS sample buffer and incubated for 10 minutes at 70&#xb0; C. The samples were applied to a precast gel and the proteins were allowed to run for one hour at 200 V 90 mA in the SDS Run buffer at non-reduced running conditions. The gel was developed in the staining solution for three hours and the protein bands were evaluated by visual inspection or analyzed by scanning densitometry to quantify the amount of specific proteins in the test solutions.</p>
+<heading id="h-0023" level="2">Dry Matter Determination</heading>
+<p id="p-0175" num="0207">A Sartorius moisture analyzer (MA37, Sartorius) was used to determine dry matter in a sample by applying 5-10 mL of a sample to the instrument. The sample was dried at 110&#xb0; C. until constant weight and the remaining dry matter was determined and calculated by the instrument.</p>
+<heading id="h-0024" level="2">Semi-Quantitative Determination of Polyphenol Oxidase (PPO) Activity</heading>
+<p id="p-0176" num="0208">A sample was mixed with a pyrocathecol solution pH 7.0 at ambient temperature. If the sample contained PPO, the solution changed color from colorless to orange within 15 minutes. The color intensity obtained after 15-minute incubation at room temperature indicates the amount of PPO enzyme activity in the sample. A sample with an unknown amount of enzyme activity may quickly be estimated relative to the activity expressed by a reference sample (e.g. the starting material) and dilutions hereof by visual inspection.</p>
+<p id="p-0177" num="0209">The procedure was as follows. A solution is prepared by combining 1.95 ml 0.1 M potassium phosphate pH 7.0, 1 ml 0.1 M pyrocatechol in 0.1 M potassium phosphate pH 7.0 and 50 &#x3bc;l of a sample. The resulting solution was mixed well and incubated for 15 minutes at ambient temperature. After 15 minutes, the color intensity was scored relative to a reference sample.</p>
+<heading id="h-0025" level="2">Determination of Total Glycoalkaloids</heading>
+<p id="p-0178" num="0210">A HPLC method for determination of total glycoalkaloids was applied according to V. Alt et al., Optimization of glycoalkaloid analysis for use in industrial potato fruit juice downstreaming, <i>Eng. Life Sci., </i>2005, 5, pp 562-567. &#x3b1;-solanine (Sigma Aldrich, USA, cat no.: S3757) was used as a reference.</p>
+<heading id="h-0026" level="2">Test for Alkaline Colored Phenolic Compounds</heading>
+<p id="p-0179" num="0211">A semi-quantitative test for the content of complex phenolic compounds based on the development of color in alkaline medium was used. A sample with a volume of 0.5 ml was mixed with 3 ml 1 M sodium hydroxide. The color intensity of a set of samples was inspected visually and assigned a relative score as follows: ++++ means very strong color intensity, +++ means strong color intensity, ++ means clearly visible color intensity, + means weak color intensity, (?) means hardly visible color, ND means no visible color.</p>
+<heading id="h-0027" level="2">True Protein Determination</heading>
+<p id="p-0180" num="0212">True protein concentration was also determined by the method of Kjeldahl using the conversion factor N&#xd7;6.25. All samples were initially dialyzed against demineralised water in dialysis tubing cellulose membrane (Sigma-Aldrich, USA, cat. No.: D9652) to remove any free amino acids and low molecular weight peptides.</p>
+<heading id="h-0028" level="2">Membrane Filtration</heading>
+<p id="p-0181" num="0213">Membrane filtration test runs were performed using a multipurpose pilot membrane filtration unit (PAN 4010 from Koch Membrane Systems, USA) equipped with the relevant membrane types as indicated in the examples.</p>
+<heading id="h-0029" level="1">Example 1: Ultrafiltration and Diafiltration of Potato Fruit Juice</heading>
+<p id="p-0182" num="0214">In examples 1A and 1B, two separate preparations of 30 L potato fruit juice, produced as described in sections &#x2018;Materials&#x2019; and &#x2018;Assays&#x2019;, were subjected to ultrafiltration without any pretreatment followed by diafiltration using either water (Example 1A) or 0.1 M sodium sulfate (Example 1B) as the diafiltration liquid.</p>
+<p id="p-0183" num="0215">The procedure was as follows. For both tests a 3 inch ROMICON PM30, 1.1 mm i.d. (Koch Membrane Systems, USA) hollow fiber membrane unit with a cut off of 30 kDa was employed. This unit has a membrane area of 2.3 m<sup>2</sup>. The cross flow was set at 34 L/min and the TMP (transmembrane pressure) was regulated to be approximately 1.2 bar. The two 30 L potato fruit juice preparations were each concentrated using ultrafiltration to a retentate volume of 6 L (i.e. the concentration factor was 5&#xd7;) and the clear yellow/brown permeates were collected. Using the built-in heat exchanger of the equipment the temperature of the retentate was kept in the range of 17-20&#xb0; C. during the entire ultrafiltration procedure.</p>
+<p id="p-0184" num="0216">Following the 5&#xd7; concentration, the two preparations were diafiltered as follows.
+<ul id="ul0011" list-style="none">
+    <li id="ul0011-0001" num="0217">1A) To the retentate was added 6 L water followed by further ultrafiltration to again reduce the retentate volume to 6 L while the corresponding permeate was collected in a separate vessel labelled &#x2018;dia-permeate 1A&#x2019;. This procedure was repeated to create in total 10 water dia-permeates each of 6 L volume. Following the 10th collection of permeate with water one portion of 6 L 0.2 M sodium sulfate was added to the retentate and the ultrafiltration was continued to create the 11th permeate. The permeate flux was measured during each of the 11 diafiltration steps and dia-permeate samples were subjected to a semi-quantitative test for the presence of alkaline colored phenolic compounds as described above;</li>
+    <li id="ul0011-0002" num="0218">1B) To the retentate was added 6 L 0.1 M sodium sulfate followed by further ultrafiltration to again reduce the retentate volume to 6 L while the corresponding permeate was collected in a separate vessel labelled &#x2018;dia-permeate 18&#x2019;. This procedure was repeated to create in total 10 sodium sulfate dia-permeates each of 6 L volume. Following the 10th collection of sodium sulfate permeate, three portions of 6 L water was added to the retentate and the ultrafiltration was continued to create the 11<sup>th</sup>-13<sup>th </sup>permeate. The permeate flux was measured during each of the 13 diafiltration steps and dia-permeate samples were subjected to a semi-quantitative test for the presence of alkaline colored phenolic compounds as described above.</li>
+</ul>
+</p>
+<p id="p-0185" num="0219">The measured average flux values obtained from each dia-permeate is listed in Table 1. As can be seen in Table 1, the flux rates in Example 1A (using water for diafiltration) quickly declines from an initial level at 16 LMH (liter/m<sup>2</sup>/h) to 3 LMH with an average for the first 10 dia-permeates of 6.6 LMH. In contrast, the flux rates in example 1B (using 0.1 M sodium sulfate for diafiltration) show an increase from an initial level of 17 LMH to 20 LMH with an average for the first 10 dia-permeates of 18.5 LMH. The productivity of the membrane system employed was thus approx. 2.8 times higher when applying 0.1 M sodium sulfate for diafiltration relative to the use of water.</p>
+<p id="p-0186" num="0220">The semi-quantitative tests for alkaline colored phenols in the dia-permeates further shows that for both Examples 1A and 1B there is a strongly positive score in the first permeates while the scores for Example 1A dia-permeates gradually become lower than for the Example 1B dia-permeates indicating a gradually declining relative permeability of the phenolic substances when using water for diafiltration relative to 0.1 M sodium sulfate.</p>
+<p id="p-0187" num="0221">Moreover when changing from water to 0.2 M sodium sulfate for creation of dia-permeate 11A a significant increase in the score is observed, which further indicates that the addition of salts promotes the permeability of the phenolic compounds.</p>
+<p id="p-0188" num="0222">The flux decline from 20 LMH to 8 LMH in dia-permeates 11B to 13B illustrates that even when shifting to water for diafiltration after thorough diafiltration with sodium sulfate the flux is still dependent on added salts being present in the retentate.</p>
+<p id="p-0189" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="119pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="56pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Alkaline</entry>
+</row>
+<row>
+<entry>Dia-permeate</entry>
+<entry>Flux, LMH</entry>
+<entry>phenol test</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>1A/1B</entry>
+<entry>16/17&#x2002;</entry>
+<entry>++++/++++</entry>
+</row>
+<row>
+<entry>2A/2B</entry>
+<entry>13/17&#x2002;</entry>
+<entry>++++/++++</entry>
+</row>
+<row>
+<entry>3A/3B</entry>
+<entry>9/17</entry>
+<entry>&#x2002;+++/++++</entry>
+</row>
+<row>
+<entry>4A/4B</entry>
+<entry>6/18</entry>
+<entry>+++/+++</entry>
+</row>
+<row>
+<entry>5A/5B</entry>
+<entry>6/18</entry>
+<entry>+++/+++</entry>
+</row>
+<row>
+<entry>6A/6B</entry>
+<entry>4/19</entry>
+<entry>&#x2002;++/+++</entry>
+</row>
+<row>
+<entry>7A/7B</entry>
+<entry>3/19</entry>
+<entry>++/++</entry>
+</row>
+<row>
+<entry>8A/8B</entry>
+<entry>3/20</entry>
+<entry>+/+</entry>
+</row>
+<row>
+<entry>9A/9B</entry>
+<entry>3/20</entry>
+<entry>(+)/+&#x2002;<sup>&#x2009;</sup></entry>
+</row>
+<row>
+<entry>10A/10B</entry>
+<entry>3/20</entry>
+<entry>(+)/(+)</entry>
+</row>
+<row>
+<entry>11A/11B</entry>
+<entry>12/19&#x2002;</entry>
+<entry>&#x2009;++/ND</entry>
+</row>
+<row>
+<entry>12B</entry>
+<entry>12&#x2002;</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry>13B</entry>
+<entry>8</entry>
+<entry>ND</entry>
+</row>
+<row>
+<entry>Avg. flux permeates 1-10 Example</entry>
+<entry>6.6/18.5</entry>
+</row>
+<row>
+<entry>1A/1B</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0030" level="1">Example 2: Ultrafiltration and Diafiltration of Potato Fruit Juice with Subsequent Isolation of Polyphenols and Glycoalkaloids</heading>
+<p id="p-0190" num="0223">30 L potato fruit juice, produced as described in sections &#x2018;Materials&#x2019; and &#x2018;Assays&#x2019; without any pretreatment to clarify the potato fruit juice, was subjected to ultrafiltration followed by diafiltration. The potato fruit juice, having a true protein concentration of 11.2 g/l, had a pH of 6.0 and a conductivity of 13.3 mS/cm. When the potato fruit juice was diluted with water to a 5 mg/ml true protein concentration and centrifuged in a tabletop centrifuge at 4000 G for 30 minutes, there remained a pellet constituting approximately 1 vol/vol % of the potato fruit juice volume. Accordingly, the potato fruit juice comprised a considerable amount of insoluble fibers. O.D. 600 nm of the potato fruit juice was 1.95 (measured as diluted 3&#xd7; in 50 mM potassium phosphate, at pH 7.0. The resulting absorbance reading was multiplied by 3).</p>
+<p id="p-0191" num="0224">The ultrafiltration and diafiltration permeates obtained were mixed and thereafter subjected to nanofiltration for separation of the polyphenols and glycoalkaloids from salts. Hereafter the polyphenols were adsorbed onto an ion exchanger to separate polyphenols and glycoalkaloids.</p>
+<heading id="h-0031" level="2">Ultrafiltration</heading>
+<p id="p-0192" num="0225">The procedure was as follows: a 3 inch ROMICON PM30, 1.1 mm i.d. (Koch Membrane Systems, USA) hollow fiber membrane unit was employed. This unit has a membrane area of 2.3 m<sup>2</sup>. The cross flow was set at 34 L/min and the TMP (transmembrane pressure) was regulated to be approximately 1.2 bar.</p>
+<p id="p-0193" num="0226">The 30 L potato fruit juice was concentrated using ultrafiltration to a retentate volume of 6 L (i.e. the concentration factor was 5&#xd7;) and the 24 L clear purple/brown permeate (labelled &#x2018;first permeate&#x2019;) was collected and stored at 2-4&#xb0; C. until further processing. Using the built-in heat exchanger of the equipment, the temperature of the retentate (labelled &#x2018;first retentate&#x2019;) was kept in the range of 20-25&#xb0; C. during the entire ultrafiltration procedure.</p>
+<p id="p-0194" num="0227">The flux observed in the beginning of the ultrafiltration process was approximately 35 LMH and thereafter gradually decreased to 15 LMH when the retentate was 5&#xd7; concentrated. There were no signs of membrane fiber clogging due the high content of insoluble material (insoluble fibers).</p>
+<heading id="h-0032" level="2">Diafiltration</heading>
+<p id="p-0195" num="0228">Following the 5&#xd7; concentration using ultrafiltration, 6 L, of 3 g/L sodium sulfite was added to the first retentate (Sigma Aldrich USA, cat. No.: 13471), conductivity=4.1 mS/cm at 18&#xb0; C., followed by further ultrafiltration to again reduce the retentate volume to 6 L while the corresponding permeate was collected in a separate vessel labelled &#x2018;diafiltrate&#x2019;. This procedure was repeated in total 12 times such that in total 72 L diafiltrate was obtained. However, only the first 36 L permeate were collected and stored for the subsequent nanofiltration step. Following the diafiltration with sodium sulfite solution, an additional 3&#xd7;6 L water was added to remove the sodium sulfite from the retentate. The retentate (5.8 L) after diafiltration was labelled &#x2018;retentate&#x2019;.</p>
+<p id="p-0196" num="0229">During diafiltration, a gradual increase of flux was observed and at the final stages the flux was in the range of 25 LMH when a 6 L diafiltration portion was added. This correlated well with a gradual increase of pH in the retentate for each diafiltration step added which initially had a pH of 5.9 and at the end of diafiltration with sodium sulfite had a pH of 8.3.</p>
+<p id="p-0197" num="0230">Analysis of the first 6&#xd7;6 L &#x2018;diafiltrate&#x2019; for alkaline colored phenolic compounds showed that the concentration of phenolic compounds was very high in the first permeate fractions and then gradually decreased for each 6 L permeate fraction. The sixth permeate fraction was estimated to contain less than 10% phenolic compounds than the first permeate. Also, the majority of the total glycoalkaloids were analyzed to be in the first six permeate fractions, although still a significant concentration was also found in the subsequent fractions.</p>
+<p id="p-0198" num="0231">A sample of the &#x2018;retentate&#x2019; obtained after diafiltration was diluted 20 times in 50 mM potassium phosphate at pH 7.0 and the O.D. 600 of the diluted sample was measured to be 0.47. Thus, the undiluted retentate had an O.D. 600 nm of 20&#xd7;0.47=9.4. The undiluted retentate had a pH value of 7.8 and a conductivity of 0.8 mS/cm.</p>
+<p id="p-0199" num="0232">The dry matter concentration of the retentate was measured to be 6.7%, corresponding to a total protein/insoluble fiber product yield of 5.8&#xd7;67=388.6 g. The true protein content was determined by the Kjeldahl method to be 87% and the total glycoalkaloid content was determined to be 75 mg/kg protein (on a dry matter basis).</p>
+<p id="p-0200" num="0233">SDS-PAGE analysis of potato fruit juice, diafiltration permeates and the retentate after diafiltration was carried out as described in the &#x2018;Assays&#x2019; section. Results are depicted in <figref idref="DRAWINGS">FIG. <b>4</b></figref> (lane 1: potato fruit juice; lanes 2-8: diafiltrates step 1-7; lane 9: retentate after diafiltration). The analysis illustrates that the final protein product in the retentate after diafiltration (lane 9) has substantially the same protein composition as the starting material, i.e. potato fruit juice (lane 1). The analysis further illustrates that only very small amounts of potato protein migrates into the diafiltration permeates.</p>
+<heading id="h-0033" level="2">Nanofiltration and Separation of Polyphenols and Glycoalkaloids by Ion Exchange</heading>
+<p id="p-0201" num="0000">
+<ul id="ul0012" list-style="none">
+    <li id="ul0012-0001" num="0234">A) The membrane filtration unit was equipped with a spiral wound nanofiltration membrane having an approximate molecular weight cut-off of 600-800 Dalton (Model NFG 2B 2538, Synder Filtration, USA). The &#x2018;first permeate&#x2019; and the &#x2018;diafiltrate&#x2019; obtained as described above were mixed to create a total volume of 60 L of a clear purple/brown solution containing the polyphenols and glycoalkaloids isolated from the potato fruit juice during ultrafiltration and diafiltration. The resulting solution had a pH of 6.8 and a conductivity of 10.4 mS/cm. 10 L of the mixed solution was then nanofiltered using a cross-flow of 22 L/min and a TMP of 5 bar. The process temperature as maintained at 20-25&#xb0; C. Samples of the permeate and the corresponding retentate were collected when 2 L permeate had been produced, were analyzed for conductivity and were tested for alkaline colored phenolic compounds as described in the &#x2018;Assays&#x2019; section. The nanofiltration process was conducted until the 10 L mixed solution was concentrated to about 3 L and then stopped.
+    <ul id="ul0013" list-style="none">
+        <li id="ul0013-0001" num="0235">The conductivity of the collected nanofiltration permeate and retentate samples were found to be approximately 6.6 mS/cm and 10.9 mS/cm, respectively. This indicates that most of the salts present in the mixture passed the nanofiltration membrane into the permeate. The semi-quantitative test for alkaline colored phenolic compounds indicated that approx. 65% of the alkaline colored phenolic compounds were retained in the retentate.</li>
+    </ul>
+    </li>
+    <li id="ul0012-0002" num="0236">(B) The membrane filtration unit was then equipped with a spiral wound nanofiltration membrane having an approximate molecular weight cut-off of 300-500 Dalton (Model NFW 2B 1812F, Synder Filtration, USA), and another portion of 10 L of the mixed solution was then nanofiltered using a cross-flow of 6 L/min and a TMP of 5 bar. The process temperature was maintained at 20-25&#xb0; C. Samples of the permeate and the corresponding retentate were collected when 2 L permeate had been produced and were analyzed for conductivity, alkaline colored phenolic compounds and total glycoalkaloids as described in the &#x2018;Assays&#x2019; section. The nanofiltration process was conducted until the 10 L mixed solution was concentrated to about 2 L and then 2 L water was added with subsequent reconcentration to 2 L retentate. This was repeated once to obtain in total 12 L nanofiltration permeate.
+    <ul id="ul0014" list-style="none">
+        <li id="ul0014-0001" num="0237">The conductivity of the collected nanofiltration permeate and retentate samples were found to be approximately 4 mS/cm and 11.2 mS/cm, respectively. This indicates that approximately one third of the salts present in the mixture passed the membrane into the permeate. A significant additional part of the remaining salts were found to pass the membrane during the 2 diafiltration steps with water, which indicates that the polyphenols and total glycoalkaloids can be efficiently separated from the salts in the mixed solution.</li>
+        <li id="ul0014-0002" num="0238">The semi-quantitative test for alkaline colored phenolic compounds as well as the test for total glycoalkaloids indicated that no detectable amounts of the alkaline colored phenolic compounds nor total glycoalkaloids were passing the membrane which indicated that this nanofiltration membrane retains approximately 100% of the alkaline colored phenolic compounds and the total glycoalkaloids in the retentate.</li>
+        <li id="ul0014-0003" num="0239">The quality of the obtained permeate enables recycling of the permeate and thereby re-use of the water and salts as diafiltration liquid in the diafiltration step to create the &#x2018;diafiltrate&#x2019; after 5&#xd7; concentration of the potato fruit juice as described above. In this way the total water and salt usage of the process according to the invention will be highly reduced.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0034" level="2">Separation of Phenolic Compounds and Total Glycoalkaloids by Ion Exchange</heading>
+<p id="p-0202" num="0240">The partly desalted nanofiltration retentate from experiment (B) as described above was applied to a chromatographic column packed with Q Sepharose Fast Flow (Cat no. Q1126, Sigma Aldrich, USA) which was pre-washed and equilibrated with water. The pH of the nanofiltration retentate sample was 6.8. The sample was loaded until the column was nearly completely saturated with the bound phenolic compounds. The run-through (non-bound fraction) from the column was collected and analyzed for the content of alkaline colored phenolic compounds.</p>
+<p id="p-0203" num="0241">The phenolic compounds were found to bind strongly to the Q Sepharose Fast Flow adsorbent, which could be observed by visual inspection of the column in the form of a dark-brown band of bound phenols that appeared at the top and gradually filled the column as more sample was applied. The collected run-through was negative in the test for alkaline colored phenolic compounds, which indicates that substantially all phenolic compounds were bound the adsorbent. While the phenolic compounds can be negatively charged at near-neutral to alkaline pH values, the glycoalkaloids will be neutral or slightly positively charged and do therefore not bind to the adsorbent. Accordingly, they will migrate in the run-through fraction, and are thus separated from the phenolic compounds. The bound phenolic compounds could be efficiently released from the adsorbent with 0.1 M sodium hydroxide.</p>
+<heading id="h-0035" level="1">Example 3: Ultrafiltration and Diafiltration of Potato Fruit Juice with an Integrated Step for Inactivation of Enzymatic Activity</heading>
+<p id="p-0204" num="0242">30 L potato fruit juice, produced as described in sections &#x2018;Materials&#x2019; and &#x2018;Assays&#x2019; without any pretreatment, was subjected to ultrafiltration and diafiltration to clarify the potato fruit juice. The potato fruit juice, having a true protein concentration of 11.5 g/l, had a pH of 6.0 and a conductivity of 13.1 mS/cm. When the potato fruit juice was diluted with water to a 5 mg/ml true protein concentration and centrifuged in a tabletop centrifuge at 4000 G for 30 min there remained a pellet constituting approximately 1 vol/vol % of the potato fruit juice volume. Accordingly, the potato fruit juice comprised a considerable amount of insoluble fibers. O.D. 600 nm of the potato fruit juice was 2.0 (measured as diluted 3&#xd7; in 50 mM potassium phosphate, at pH 7.0. The resulting absorbance reading was multiplied by 3).</p>
+<p id="p-0205" num="0243">The retentate obtained after a first diafiltration step was subjected to an enzyme inactivation step, followed by further diafiltration, solubilization and final purification of the resulting protein product.</p>
+<heading id="h-0036" level="2">Ultrafiltration</heading>
+<p id="p-0206" num="0244">The procedure was as follows: a 3 inch ROMICON PM30, 1.1 mm i.d. (Koch Membrane Systems, USA) hollow fiber membrane unit was employed. This unit has a membrane area of 2.3 m<sup>2</sup>. The cross flow was set at 34 L/min and the TMP (transmembrane pressure) was regulated to be approximately 1.2 bar.</p>
+<p id="p-0207" num="0245">The 30 L potato fruit juice was concentrated using ultrafiltration to a retentate volume of 6 L (i.e. the concentration factor was 5&#xd7;) and the 24 L clear purple/brown permeate (labelled &#x2018;first permeate&#x2019;) was collected and stored at 2-4&#xb0; C. until further processing. Using the built-in heat exchanger of the equipment the temperature of the retentate (labelled &#x2018;first retentate&#x2019;) was kept in the range of 20-25&#xb0; C. during the entire ultrafiltration procedure.</p>
+<p id="p-0208" num="0246">The flux observed in the beginning of the ultrafiltration process was approximately 35 LMH and thereafter gradually decreased to 15 LMH when the retentate was 5&#xd7; concentrated. There were no signs of membrane fiber clogging due the high content of insoluble material (insoluble fibers).</p>
+<heading id="h-0037" level="2">Diafiltration</heading>
+<p id="p-0209" num="0247">Following the 5&#xd7; concentration using ultrafiltration, 6 L, 3 g/L sodium sulfite was added to the first retentate (Sigma Aldrich USA, cat. No.: 13471), conductivity=4.1 mS/cm at 18&#xb0; C., followed by further ultrafiltration to again reduce the retentate volume to 6 L while the corresponding permeate was collected in a separate vessel labelled &#x2018;diafiltrate&#x2019;. This procedure was repeated in total 6 times such that in total 36 L diafiltrate was obtained. The retentate was labelled &#x2018;retentate&#x2019;.</p>
+<p id="p-0210" num="0248">A sample of the &#x2018;retentate&#x2019; obtained after diafiltration was diluted 20 times in 50 mM potassium phosphate at pH 7.0 and the O.D. 600 of the diluted sample was measured to be 0.6. Thus, the undiluted retentate had an O.D. 600 nm of 20&#xd7;0.6=12. The undiluted retentate had a pH value of 7.7.</p>
+<p id="p-0211" num="0249">During diafiltration a gradual increase of flux was observed and at the final stages the flux was in the range of 22 LMH when a 6 L diafiltration portion was added. This correlated well with a gradual increase of pH in the retentate for each diafiltration step added which initially had a pH of 5.9 and at the end of this first diafiltration with sodium sulfite had a pH of 7.7.</p>
+<p id="p-0212" num="0250">Analysis of the first 6&#xd7;6 L diafiltration permeate for alkaline colored phenols showed that the concentration of phenols was very high in the first permeate fractions and then gradually decreased for each 6 L permeate fraction. The sixth permeate fraction was estimated to contain less than 10% of the initial permeates. Also, the majority of the glycoalkaloids were analyzed to be in the first six permeate fractions, although still a significant concentration was also found in the subsequent fractions.</p>
+<heading id="h-0038" level="2">Inactivation of Enzyme Activity, Further Diafiltration, pH Adjustment and Final Diafiltration</heading>
+<p id="p-0213" num="0251">A 20 ml sample of the retentate obtained after the first diafiltration step was divided into two aliquots which were adjusted with sulfuric acid to a pH of 4.0 and 3.0, respectively. The two solutions were then again divided into two aliquots which were incubated at room temperature (RT, 20-23&#xb0; C.) and 40&#xb0; C., respectively, for 3 hrs. During the incubation, samples for analysis of esterase activity were withdrawn, neutralized with sodium hydroxide and analyzed for esterase activity as described in the &#x2018;Assays&#x2019; section.</p>
+<p id="p-0214" num="0252"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows the esterase activity signal (O.D.510 nm) in the different samples as a function of incubation time at pH 4.0 and pH 3.0, respectively.</p>
+<p id="p-0215" num="0253"><figref idref="DRAWINGS">FIG. <b>5</b></figref> illustrates that the esterase activity in the retentate sample is reduced when incubated at pH 4.0 or 3.0, respectively, at room temperature. At pH 3, the esterase activity signal at 510 nm decreases strongly over time and after 3 hrs., it is reduced with a factor of 24. When the temperature is increased to 40&#xb0; C., the inactivation is very effective even after 15 minutes, after which the esterase activity is reduced with a factor of 98. At room temperature and pH 3.0, it is observed that an activity drop of about 85% is reached after about 1 hour and that this level is rather constant until up to about 2 hours after incubation. From a process robustness perspective, it may be preferable to have ample time to perform the operations without changes of the process outcome and it was therefore chosen to perform the next preparative steps at pH 3.0 and room temperature.</p>
+<heading id="h-0039" level="2">Preparative Inactivation Procedure and Subsequent Solubilization</heading>
+<p id="p-0216" num="0254">The retentate after diafiltration was kept in the membrane filtration unit and 6 L, 20 mM sodium sulfate was added (SL 99.8% from Lenzing, Austria adjusted to pH 3.3 with sulfuric acid, conductivity=3.8 mS/cm at 20&#xb0; C.). Thereafter, the pH was adjusted to 3.0 with sulfuric acid while recirculating in the membrane filtration unit using the built-in heat exchanger to keep the temperature in the range of 20-25&#xb0; C. Following recirculation for 15 minutes, the retentate was then again concentrated to a volume of 6 L retentate. The permeate was collected and labelled &#x2018;acidic permeate&#x2019; and stored at 2-4&#xb0; C. Following the concentration, again 6 L, 20 mM sodium sulfate, pH 3.3, was added to the retentate. This procedure was repeated in total 6 times such that in total 42 L acidic permeate was obtained.</p>
+<p id="p-0217" num="0255">To the retentate was then added 6 L water and the pH was adjusted to pH 8.5 with sodium hydroxide while the retentate was kept in the membrane filtration under recirculation. A total of 2 hours at 20-25&#xb0; C. was passing from the time the retentate was adjusted to pH 3.0 and until the pH was raised again to pH 8.5. The retentate was then again concentrated to a volume of 6 L retentate. The permeate was collected and labelled &#x2018;final permeate&#x2019; and stored at 2-4&#xb0; C. Following the concentration, 6 L of water was added to the retentate. This procedure was repeated in total 3 times such that in total 24 L final permeate was obtained. The retentate was collected from the membrane filtration unit in a volume of 5.8 L and labelled &#x2018;final retentate&#x2019;.</p>
+<p id="p-0218" num="0256">The conductivity of the final retentate was 0.8 mS (at 20&#xb0; C.). The pH was 7.9. The dry matter concentration of the final retentate was 6.5%, corresponding to a total yield of dry matter of 377 g. The protein purity was determined by Kjeldahl analysis as described in the methods section to be 89% and the total glycoalkaloid content was determined to be 25 mg/kg protein (on a dry matter basis). Testing for alkaline colored phenolic compounds gave no visible reaction, indicating that practically all phenolic compounds were removed.</p>
+<p id="p-0219" num="0257">When the final retentate was diluted to a true protein concentration equal to the potato fruit juice (11.5 g/L) and was analyzed for esterase activity as described in the &#x2018;Assays&#x2019; section, it was found that the activity signal was reduced with approximately 85%. Likewise, when performing the determination of polyphenol oxidase (PPO) activity no visible reaction was observed, indicating that practically all the PPO activity was eliminated.</p>
+<p id="p-0220" num="0258">A sample of the final retentate was diluted 20 times in 50 mM potassium phosphate at pH 7.0 and the O.D. 600 of the diluted sample was measured to be 0.55. Thus, the undiluted final retentate had an O.D. 600 nm of 20&#xd7;0.55=11. Accordingly, the final retentate comprised a considerable amount of insoluble fibers.</p>
+<p id="p-0221" num="0259">When diluted to a dry matter concentration of 0.5% in water and after centrifugation for 30 minutes at 4000 G, there was less than 1 vol/vol % pellet. The dry matter of the supernatant was still close to 0.5% indicating a more than 90% solubility of the potato protein product. This is in sharp contrast to prior art reports indicating that low pH treatment of potato fruit juice leads to significant loss of solubility, and thereby functionality.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method for the separation of potato proteins from one or more first salts and phenolic and/or glycoalkaloid compounds in potato fruit juice or a derivative thereof, said method comprising the steps of:
+<claim-text>(i) providing a potato fruit juice or a derivative thereof comprising potato proteins, one or more first salts and phenolic and/or glycoalkaloid compounds;</claim-text>
+<claim-text>(ii) subjecting said potato fruit juice or the derivative thereof to a first cross-flow membrane filtration process wherein at least a portion of the first salts and at least a portion of the phenolic and/or glycoalkaloid compounds migrate across the membrane into a first permeate and the potato proteins are retained in a first retentate;</claim-text>
+<claim-text>(iii) adding one or more second salts and water to the first retentate, while continuing the membrane filtration process, to create a diafiltrate containing at least a portion of said phenolic and/or glycoalkaloid compounds and the added second salts and a retentate; and</claim-text>
+<claim-text>(iv) subjecting the first permeate and/or said diafiltrate from said first cross-flow membrane filtration process to a second cross-flow membrane filtration process wherein at least a portion of the salts present therein migrate across the membrane into a second permeate and the phenolic and/or glycoalkaloid compounds are retained in a second retentate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising the step (v) of:
+<claim-text>subjecting the first retentate obtained in step (iii) to a microfiltration membrane filtration process wherein at least a portion of the potato proteins soluble in said first retentate migrate across the membrane into a microfiltration permeate with a lower turbidity than the turbidity of said first retentate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second permeate is used, at least in part, as the source of said one or more second salts and water in step (iii).</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising the step of adjusting the pH of said potato fruit juice or the derivative thereof to a pH in the range 4.5 to 8.5, such as in the range of 5.2 to 7.5, preferably in the range of 4.5 to 6.5, such as in the range of 4.8 to 6.5, or 5.0 to 6.5 prior to said first cross-flow membrane filtration process.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising the step of adjusting the conductivity of said potato fruit juice or the derivative thereof to a conductivity in the range of 1 to 50 mS/cm, 2 to 40 mS/cm, 3 to 30 mS/cm, 3 to 25 mS/cm, 3 to 20 mS/cm, or 5 to 17 mS/cm.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the potato proteins are selected from the group consisting of patatin, protease inhibitors, lipoxygenase, polyphenol oxidase, acid and alkaline phosphatase, or mixtures thereof, preferably patatin or protease inhibitors, or mixtures thereof.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the potato fruit juice or the derivative thereof is pretreated by centrifugation and/or filtration to remove insoluble material of a particle size larger than 10 micron prior to said first cross-flow membrane filtration process.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said potato proteins, first salts and said phenolic compounds are in solution in said potato fruit juice.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising the step of continuing the addition of said one or more second salts and water to the first retentate in step (iii) while continuing the membrane filtration process until the first retentate contains less than a target amount of the phenolic and/or total glycoalkaloid compounds, whereby the separation of the potato proteins from phenolic and/or total glycoalkaloid compounds has been achieved, wherein the target amount of remaining phenolic and/or total glycoalkaloid compounds in the first retentate corresponds to less than 5000 mg phenolic and/or total glycoalkaloid compounds per kg potato protein on the basis of dry weight, such as less than 4000 mg/kg, less than 3000 mg/kg, less than 2000 mg/kg, less than 1500 mg/kg, less than 1250 mg/kg, less than 1000 mg/kg, less than 750 mg/kg, less than 500 mg/kg, or less than 200 mg phenolic and/or total glycoalkaloid compounds/kg potato protein on the basis of dry weight.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the amount of phenolic and/or total glycoalkaloid compounds having a molecular weight below 10 kDa remaining in the first retentate in step (iii) is less than 1500 mg/kg, such as less than 1000 mg/kg, less than 750 mg/kg, less than 500 mg/kg, less than 300 mg/kg, less than 200 mg/kg, less than 100 mg/kg, as less than 50 mg/kg, measured as mg phenolic and/or total glycoalkaloid compounds/kg potato protein on the basis of dry weight.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the microfiltration permeate obtained in step (v) is further treated with a third cross-flow membrane filtration process whereby the potato protein is concentrated in a third retentate and the salts migrate through the membrane to create a third permeate.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the third permeate is used as a diafiltration liquid to be added during the microfiltration process in step (v) to wash out further potato proteins from the first retentate into the microfiltration permeate.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the one or more second salts and water added to the first retentate in step (iii) is an aqueous solution of said second salt(s) in said water.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the one or more second salts are selected from sodium, potassium, ammonium, calcium or magnesium salts of a mineral acid or an organic acid.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the one or more second salts are selected from salts of monovalent inorganic anions and cations, such as sodium chloride, potassium chloride, ammonium chloride.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the one or more salts are selected from sodium sulfate and potassium sulfate.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The method according to any one of the preceding claims, wherein the conductivity of the first retentate remains within the range of 1 to 50 mS/cm, such as in the range of 2 to 40 mS/cm, in the range of 3 to 30 mS/cm, in the range of 3 to 25 mS/cm, in the range of 3 to 20 mS/cm, in the range of 5 to 17 mS/cm, in the range of 6 to 25 mS/cm, in the range of 7 to 25 mS/cm, or in the range of 10 to 25 mS/cm during step (iii), preferably during step (ii) and step (iii).</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pH of the first retentate remains within the range of 4.5 to 8.5, such as in the range of 5.2 to 7.5, preferably in the range of 4.5 to 6.5, such as in the range of 4.8 to 6.5, or in the range of 5.0 to 6.5 during step (ii) and step (iii).</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first retentate remains at a temperature in the range of 1 to 60&#xb0; C., such as 5 to 55&#xb0; C., 10 to 50&#xb0; C., 15 to 48&#xb0; C., 12 to 45&#xb0; C., 18 to 30&#xb0; C., or 22 to 28&#xb0; C. during step (ii) and step (iii).</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the addition of the one or more second salts and water in step (iii) is performed substantially continuously and at substantially the same flow rate as the diafiltrate migrates through the membrane.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the total volume of water added during diafiltration step (iii) is in the range of 4 to 20 times the volume of the first retentate, such as 4 to 15 times, 5 to 12 times, 5 to 10 times, 6 to 10 times, 7 to 9 times, or 5 to 9 times the volume of the first retentate.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The method according to any <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein step (iii) comprises a second phase of diafiltration following the addition of one or more second salts and water wherein the diafiltration is continued with the addition of water without adding any further salts.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The method according to <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein, the second phase of diafiltration is continued with water and without the addition of further salts until the conductivity of the retentate is less than 10 mS/cm, such as less than 8 mS/cm, less than 5 mS/cm, less than 4 mS/cm, less than 3 mS/cm, less than 2 mS/cm, or less than 1 mS/cm.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a germicidal step at a temperature in the range of 2-60&#xb0; C., such as in the range of 5-55&#xb0; C., 8-52&#xb0; C., 10-50&#xb0; C., 12-45&#xb0; C., 12-25&#xb0; C., or 12-18&#xb0; C., using high intensity UV light, X-rays, pulsed electric field treatment or high-pressure pasteurization.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a step of eliminating enzymatic activity by exposing the first retentate obtained in step (ii) prior to step (iii) or a solution of the separated potato proteins, preferably the retentate resulting from diafiltration step (iii), to pH values between 2.0 and 4.5, such as between 2.0 and 4.0, between 2.0 and 3.75, between 2.0 and 3.5, between 2.0 and 3.2, or between 2.0 and 3.0 in a time and temperature interval sufficient to eliminate unwanted enzymatic activity of the potato proteins without adversely affecting functionality of the potato proteins.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. The method according <claim-ref idref="CLM-00028">claim 28</claim-ref>, wherein the first retentate obtained in step (ii) prior to step (iii) or a solution of the separated potato proteins, preferably the retentate resulting from diafiltration step (iii), is exposed to:
+<claim-text>a pH value between 2.0 and 4.5, preferably between 2.0 and 4.0, more preferably between 2.0 and 3.75, even more preferably between 2.0 and 3.5, such as between 2.0 and 3.2, or between 2.0 and 3.0;</claim-text>
+<claim-text>a temperature in the range of 1-70&#xb0; C., preferably in the range of 5-60&#xb0; C., more preferably in the range of 10-55&#xb0; C., even more preferably in the range of 20-45&#xb0; C.; and</claim-text>
+<claim-text>in a time span of up to 240 minutes, preferably between 15 seconds and 120 minutes, more preferably between 5 and 60 minutes, such as about 15, 20, 30 or 45 minutes.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>
