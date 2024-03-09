@@ -1,0 +1,2109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225628A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230707" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225628</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18001998</doc-number>
+<date>20210616</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>055</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>026</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>R</subclass>
+<main-group>33</main-group>
+<subgroup>50</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>055</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>0042</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>0263</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>01</class>
+<subclass>R</subclass>
+<main-group>33</main-group>
+<subgroup>50</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="tfevhz5xikcde">SYSTEMS AND METHODS FOR MR MULTITASKING-BASED DYNAMIC IMAGING FOR CEREBROVASCULAR EVALUATION</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63039882</doc-number>
+<date>20200616</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>CEDARS-SINAI MEDICAL CENTER</orgname>
+<address>
+<city>Los Angeles</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Fan</last-name>
+<first-name>Zhaoyang</first-name>
+<address>
+<city>Palos Verdes Estates</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Christodoulou</last-name>
+<first-name>Anthony</first-name>
+<address>
+<city>Los Angeles</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Li</last-name>
+<first-name>Debiao</first-name>
+<address>
+<city>South Pasadena</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Hu</last-name>
+<first-name>Zhehao</first-name>
+<address>
+<city>Los Angeles</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>CEDARS-SINAI MEDICAL CENTER</orgname>
+<role>02</role>
+<address>
+<city>Los Angeles</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/US2021/037695</doc-number>
+<date>20210616</date>
+</document-id>
+<us-371c12-date><date>20221215</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method for performing magnetic resonance imaging on a subject comprises: injecting a contrast agent into a region of interest of the subject; applying a pulse sequence to the region of interest; collecting auxiliary data for the region of interest, the auxiliary data being related to one or more time-varying parameters of the subject within the region of interest; determining a temporal factor &#x3a6; from the auxiliary data; collecting imaging data for the region of interest, the imaging data being related to one or more spatially-varying parameters of the subject within the region of interest; determining a spatial factor Ur from the imaging data; modeling a multi-dimensional image sequence as I=Ur&#x3a6;; and deriving at least a first metric and a second metric from the multi-dimensional image sequence I, the first metric and the second metric being associated with distinct perfusion-based imaging techniques.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="150.03mm" wi="81.20mm" file="US20230225628A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="248.24mm" wi="148.08mm" file="US20230225628A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="248.84mm" wi="142.49mm" file="US20230225628A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="249.09mm" wi="149.69mm" file="US20230225628A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="215.82mm" wi="131.32mm" file="US20230225628A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="246.30mm" wi="112.35mm" file="US20230225628A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="242.23mm" wi="108.54mm" file="US20230225628A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="247.57mm" wi="128.69mm" file="US20230225628A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="180.51mm" wi="162.31mm" file="US20230225628A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="247.23mm" wi="153.08mm" file="US20230225628A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="171.62mm" wi="151.89mm" file="US20230225628A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="190.33mm" wi="163.32mm" file="US20230225628A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="200.74mm" wi="160.27mm" file="US20230225628A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="198.20mm" wi="160.27mm" file="US20230225628A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="200.74mm" wi="160.27mm" file="US20230225628A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="198.20mm" wi="160.27mm" file="US20230225628A1-20230720-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="210.90mm" wi="145.71mm" file="US20230225628A1-20230720-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif" orientation="landscape"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading level="1" id="h-0001">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims the benefit of, and priority to, U.S. Provisional Pat. Application No. 63/039,882, filed on Jun. 16, 2020, which is hereby incorporated by reference herein in its entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading level="1" id="h-0002">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present disclosure relates biomedical imaging and analysis. More specifically, the present disclosure relates to magnetic resonance multitasking-based dynamic imaging using multiple imaging frameworks.</p>
+<heading level="1" id="h-0003">BACKGROUND</heading>
+<p id="p-0004" num="0003">Magnetic resonance imaging has evolved into an increasingly common imaging modality for cerebrovascular evaluation. Several types of dynamic imaging can be used, including dynamic contrast enhanced (DCE) imaging, dynamic susceptibility contrast (DSC) imaging, and susceptibility weighted (SW) imaging. However, it can be impractical to separately perform each of these types of dynamic imaging during a single exam, due to the lengthy protocol required, and the potential for overdose of the injected contrast agent. Thus, there is a need for new systems and methods that can more efficiently and effectively perform multiple types of imaging in a single exam.</p>
+<heading level="1" id="h-0004">SUMMARY</heading>
+<p id="p-0005" num="0004">According to aspects of the present disclosure, a method for performing magnetic resonance (MR) imaging on a subject comprises injecting a contrast agent into a region of interest of the subject; applying a pulse sequence to the region of interest of the subject; collecting auxiliary data for the region of interest of the subject, the auxiliary data being related to one or more time-varying parameters of the subject within the region of interest; determining a temporal factor &#x3a6; from the auxiliary data; collecting imaging data for the region of interest of the subject, the imaging data being related to one or more spatially-varying parameters of the subject within the region of interest; determining a spatial factor U<sub>r</sub> from the imaging data; modeling a multi-dimensional image sequence aI = U<sub>r</sub>&#x3a6;; and deriving at least a first metric and a second metric from the multi-dimensional image sequence I, the first metric and the second metric being associated with distinct perfusion-based imaging techniques.</p>
+<p id="p-0006" num="0005">According to aspects of the present disclosure, a system for performing magnetic resonance (MR) imaging on a subject comprises a magnet operable to provide a magnetic field; a transmitter operable to transmit to a region within the magnetic field; a receiver operable to receive a magnetic resonance signal from the region with the magnetic field; and one or more processors operable to control the transmitter and the receiver, the one or more processors being configured to cause the following method to be performed: injecting a contrast agent into a region of interest of the subject; applying a pulse sequence to the region of interest of the subject; collecting auxiliary data for the region of interest of the subject, the auxiliary data being related to one or more time-varying parameters of the subject within the region of interest; determining a temporal factor &#x3a6; from the auxiliary data; collecting imaging data for the region of interest of the subject, the imaging data being related to one or more spatially-varying parameters of the subject within the region of interest; determining a spatial factor U<sub>r</sub> from the imaging data; modeling a multi-dimensional image sequence aI = U<sub>r</sub>&#x3a6;; and deriving at least a first metric and a second metric from the multi-dimensional image sequence I, the first metric and the second metric being associated with distinct perfusion-based imaging techniques.</p>
+<p id="p-0007" num="0006">According to aspects of the present disclosure, a non-transitory machine-readable medium having stored thereon instructions for performing magnetic resonance (MR) imaging on a subject, which when executed by at least one processor, cause the following method to be performed: injecting a contrast agent into a region of interest of the subject; applying a pulse sequence to the region of interest of the subject; collecting auxiliary data for the region of interest of the subject, the auxiliary data being related to one or more time-varying parameters of the subject within the region of interest; determining a temporal factor &#x3a6; from the auxiliary data; collecting imaging data for the region of interest of the subject, the imaging data being related to one or more spatially-varying parameters of the subject within the region of interest; determining a spatial factor U<sub>r</sub> from the imaging data; modeling a multi-dimensional image sequence aI = U<sub>r</sub>&#x3a6;; and deriving at least a first metric and a second metric from the multi-dimensional image sequence I, the first metric and the second metric being associated with distinct perfusion-based imaging techniques.</p>
+<p id="p-0008" num="0007">The foregoing and additional aspects and implementations of the present disclosure will be apparent to those of ordinary skill in the art in view of the detailed description of various embodiments and/or implementations, which is made with reference to the drawings, a brief description of which is provided next.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading level="1" id="h-0005">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0009" num="0008">The foregoing and other advantages of the present disclosure will become apparent upon reading the following detailed description and upon reference to the drawings.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a method for performing magnetic resonance imaging on a subject, according to aspects of the present disclosure;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows an example pulse sequence for use with the method of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, according to aspects of the present disclosure;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. <b>3</b>A</figref> shows a signal intensity plot for gray matter in a subject&#x2019;s brain, according to aspects of the present disclosure;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>3</b>B</figref> shows a signal intensity plot for white matter in a subject&#x2019;s brain, according to aspects of the present disclosure;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>3</b>C</figref> shows a signal intensity plot for blood in a subject&#x2019;s brain, according to aspects of the present disclosure;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>3</b>D</figref> shows dynamic T1 and T2* maps acquired from the signal intensity plots of <figref idref="DRAWINGS">FIGS. <b>3</b>A, <b>3</b>B</figref>, and 3C1, according to aspects of the present disclosure;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>3</b>E</figref> shows a set of dynamic T1 curves acquired using the dynamic T1 maps of <figref idref="DRAWINGS">FIG. <b>3</b>D</figref>, according to aspects of the present disclosure;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>3</b>F</figref> shows a set of dynamic T2* curves acquired using the dynamic T2* maps of <figref idref="DRAWINGS">FIG. <b>3</b>D</figref>, according to aspects of the present disclosure;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>3</b>G</figref> shows a set of R1-based contrast concentration curves acquired using the dynamic T1 curves of <figref idref="DRAWINGS">FIG. <b>3</b>E</figref>, according to aspects of the present disclosure;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>3</b>H</figref> shows a set of R2*-based contrast concentration curves acquired using the dynamic T2* curves of <figref idref="DRAWINGS">FIG. <b>3</b>F</figref>, according to aspects of the present disclosure;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>4</b>A</figref> shows a first example of images constructed using the method of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, according to aspects of the present disclosure;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>4</b>B</figref> shows T1 and T2* quantification comparing the method of <figref idref="DRAWINGS">FIG. <b>1</b></figref> and conventional methods according to aspects of the present disclosure;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>5</b>A</figref> shows post-contrast T1W images constructed using the method of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, according to aspects of the present disclosure;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>5</b>B</figref> shows dynamic T1 and T2* curves acquired from the images of <figref idref="DRAWINGS">FIG. <b>5</b>A</figref>, using the method of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, according to aspects of the present disclosure;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>5</b>C</figref> shows T1-based and T2*-based contrast concentration curves obtained from the curves of <figref idref="DRAWINGS">FIG. <b>5</b>B</figref>, according to aspects of the present disclosure;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>5</b>D</figref> shows permeability and perfusion maps generated using the method of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, according to aspects of the present disclosure;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>6</b>A</figref> shows dark-fluid T1 and T2* turbo spin echo images of a subject with a meningioma obtained using a conventional method;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>6</b>B</figref> shows fractional plasma volume and transfer constant maps of the subject with the meningioma obtained using the method of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, according to aspects of the present disclosure;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>6</b>C</figref> shows cerebral blood volume and cerebral blood flow maps of the subject with the meningioma obtained using the method of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, according to aspects of the present disclosure;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>6</b>D</figref> shows susceptibility-weighted images of the subject with the meningioma obtained using the method of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, according to aspects of the present disclosure;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>7</b>A</figref> shows dark-fluid T1 turbo spin echo and susceptibility-weighted images of a subject with an intracranial hematoma obtained using a conventional method;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>7</b>B</figref> shows fractional plasma volume and transfer constant maps of the subject with the intracranial hematoma obtained using the method of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, according to aspects of the present disclosure;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>7</b>C</figref> shows cerebral blood volume and cerebral blood flow maps of the subject with the intracranial hematoma obtained using the method of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, according to aspects of the present disclosure;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>7</b>D</figref> shows susceptibility-weighted images of the subject with the intracranial hematoma obtained using the method of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, according to aspects of the present disclosure; and</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows a system for performing magnetic resonance imaging, according to aspects of the present disclosure.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0035" num="0034">While the present disclosure is susceptible to various modifications and alternative forms, specific implementations and embodiments have been shown by way of example in the drawings and will be described in detail herein. It should be understood, however, that the present disclosure is not intended to be limited to the particular forms disclosed. Rather, the present disclosure is to cover all modifications, equivalents, and alternatives falling within the spirit and scope of the present disclosure as defined by the appended claims.</p>
+<heading level="1" id="h-0006">DETAILED DESCRIPTION</heading>
+<p id="p-0036" num="0035">While the present disclosure has been described with reference to one or more particular embodiments or implementations, those skilled in the art will recognize that many changes may be made thereto without departing from the spirit and scope of the present disclosure. Each of these embodiments or implementations and obvious variations thereof is contemplated as falling within the spirit and scope of the present disclosure. It is also contemplated that additional embodiments or implementations according to aspects of the present disclosure may combine any number of features from any of the embodiments or implementations described herein.</p>
+<p id="p-0037" num="0036">Magnetic resonance-based imaging (MR imaging) is a technique most often used for imaging the human body that takes into account principles of nuclear magnetic resonance. For example, doctors and other medical professionals often use MR imaging to view tissue within the human body. Nuclear magnetic resonance is a phenomenon in which nuclei (such as protons in body tissue) localized in a magnetic field emit energy that can be detected. This energy that is detected can be used to create an image. MR imaging generally involves two principle steps. First, the magnetic moment of the nuclei (a vector property of a nucleus caused by the intrinsic spin property of elementary particles) are aligned (or polarized) by the presence of an external magnetic field. While in the presence of this external magnetic field, the magnetic moment of each nucleus will generally precess about an axis parallel to the magnetic field. The rate of this precession &#x3c9; is generally proportional to &#x3b3;B<sub>0</sub>, where B<sub>0</sub> is the magnitude of the external magnetic field, and &#x3b3; is the gyromagnetic ratio of the nuclei, which is the ratio the nuclei&#x2019;s magnetic moment to its angular momentum. The rate of the precession &#x3c9; is considered the nuclei&#x2019;s resonant frequency.</p>
+<p id="p-0038" num="0037">The second principle step in MR imaging is to apply an electromagnetic pulse sequence (usually a radiofrequency, or RF, pulse) to the nuclei. When the frequency of the RF pulses sequence is generally equal to the resonant frequency of the nuclei, the nuclei absorb the energy of the RF pulse and the magnetic moments are rotated out of alignment with the magnetic field. The magnetic moments of the excited nuclei eventually re-align within the presence of the external magnetic field in a process known as relaxation, which has two components, T1 and T2. T1 relaxation describes how the component of the magnetic moment parallel to the external magnetic field returns to its initial value. T2 relaxation describes how the components of the magnetic moment perpendicular to the external magnetic field return to their initial value. Because the magnetic moments of nuclei in the external magnetic field without the RF pulse sequence applied are generally parallel to the external magnetic field, T1 relaxation generally describes how parallel component of the magnetic moment returns to its maximum value, while T2 relaxation generally describes how the perpendicular components of the magnetic moment decay. The nuclei of different material relax at different rates and thus emit differing signals, which can be detected and used to form an image identifying the different materials.</p>
+<p id="p-0039" num="0038">Dynamic MR imaging can produce a spatiotemporal image sequence I(x,t), which is a function of (i) spatial location within the subject and (ii) one or more time-varying parameters related to the dynamic processes. The spatial location is denoted by vector x = [x<sub>1</sub>,x<sub>2</sub>,x<sub>3</sub>]<sup>T</sup>, which contains up to three spatially-varying parameters x<sub>i</sub>. The time-varying parameters are denoted by vector t = [t<sub>1</sub>, t<sub>2</sub>, ..., t<sub>R</sub>]<sup>T</sup> containing R time-varying independent variables t<sub>i</sub>. The imaging data obtained from the MR imaging is generally from a specific region of interest of the subject. In an example, the region of interest could be the subject&#x2019;s abdomen or chest. In other examples, the region of interest of the subject is more specific. For example, the region of interest could be an organ, such as the subject&#x2019;s liver, lungs, heart, pancreas, brain, prostate, breast, or any other organ.</p>
+<p id="p-0040" num="0039">The imaging data is dependent on or related to the spatially-varying and time-varying parameters of the region of interest of the subject referred to above. The spatially-varying parameters include a voxel location, a contrast agent kinetic parameter, or a diffusion parameter (which includes changing strength, changing direction, or both). The spatially-varying parameters can additionally or alternatively be related to physical motion of the region of interest of the subject. The time-varying parameters can include, but is not limited to: the phase of the subject&#x2019;s heart within a cardiac cycle; the position of the subject&#x2019;s lungs, chest wall, or other organs within a respiratory cycle; a position of a dome of a liver during respiration; relaxation time parameters such as T1, T1&#x3c1; (also known as T1-rho), T2, T2* (also known as T2-star, which is similar to T2 but is modified based on inhomogeneities in the magnetic field used during the imaging sequence), relaxation rate parameters, an inversion time (or other time since magnetization preparation); a diffusion weighting strength; a diffusion weighting direction; an echo time; a dynamic contrast enhancement phase; a flip angle; an elapsed time since the start of scanning; elastographic wave propagation, a phase offset of elastographic excitation waves; a frequency offset and duration of saturation preparation pulses (e.g., for chemical exchange saturation transfer); a duration of magnetization transfer preparation pulses; a chemical exchange saturation transfer, a spectral position (e.g., for spectroscopy); a flow encoding strength; a flow encoding direction; free induction decay, or the general passage of time. The relaxation time parameters (including T1 and T2*) describe a relaxation time. The relaxation rate parameters describe a relaxation rate, and are generally the inverse of their relaxation time counterparts. Thus, T1 describes the T1 relaxation time, and R1=1/T1 describes the T1 relaxation rate. Similarly, T2* describes the T2* relaxation time, and R2*=1/T2* describes the T2* relaxation rate.</p>
+<p id="p-0041" num="0040">Some of the spatially-varying parameters can also be time-varying, and some of the time-varying parameters can also be spatially-varying. For example, cardiac motion is generally a time-varying parameter, while the relaxation parameters, the contrast agent kinetic parameter, and the diffusion parameter are generally time-varying. Generally, the imaging data is indicative of the value or magnitude of the spatially-varying parameters and/or the time-varying parameters. In another example, the region of interest is the subject&#x2019;s abdomen containing their liver, and the spatially-varying parameter that is being measured is the T<sub>1</sub> relaxation parameter. The T<sub>1</sub> relaxation parameter can be spatially-varying, meaning that the value of the T<sub>1</sub> relaxation parameter at a first physical location within the subject&#x2019;s liver can be different than the value of the T<sub>1</sub> relaxation parameter at a second physical location within the subject&#x2019;s liver. In a resulting image showing the value measured T<sub>1</sub> relaxation parameter, different locations in the image (corresponding to different physical locations within the subject&#x2019;s liver) will show different values. In some implementations, the spatially-varying parameters can also be time-varying. In other implementations, the spatially-varying parameters can additionally or alternatively be related to physical motion of the region of interest of the subject. In general, the techniques disclosed herein can be used to perform dynamic imaging that resolves parameters that can vary across space and time.</p>
+<p id="p-0042" num="0041">The image sequence can be represented as a matrix I= U<sub>r</sub>&#x3a6;. In this formulation, U<sub>r</sub> &#x2208; C<sup>J&#xd7;L</sup> contains L spatial weighting functions with J total voxels and is known as a spatial factor, whereas &#x3a6; &#x2208; C<sup>L&#xd7;N<sub2>t</sub2></sup> contains temporal basis functions, and is known as the temporal factor. U<sub>r</sub> contains one or more spatial weighting functions that describe the properties of the spatially-varying parameters. U<sub>r</sub> is formed as a spatial factor matrix. &#x3a6; contains one or more temporal basis functions that describe the properties of the time-varying parameters. &#x3a6; is formed as a temporal factor matrix when imaging with only a single time dimension is used, and is formed as a temporal factor tensor when imaging with multiple time dimensions is used. At any point in time t, the image can be expressed as a linear combination of the spatial factor U<sub>r</sub>, weighted by the temporal factor &#x3a6;<sub>t</sub>, which is the column of &#x3a6; corresponding to time point t.</p>
+<p id="p-0043" num="0042">Perfusion MR imaging is a type of MR imaging that tracks the passage of a fluid through an organ, tissue, etc. Cerebrovascular perfusion imaging is a common modality for evaluating a variety of cerebrovascular diseases, such a strokes and brain tumors. Different types of cerebrovascular-oriented perfusion imaging techniques exist, including dynamic contrast enhanced (DCE) imaging, and dynamic susceptibility contrast (DSC) imaging. DCE imaging is useful for quantifying any disruptions of the blood-brain barrier. DSC imaging is useful for assessing perfusion defects. Other types of non-perfusion cerebrovascular imaging are also commonly used, such as susceptibility weighted (SW) imaging. SW imaging is useful for detecting intracerebral hemorrhages or micro-bleeding. Performing each of these types of cerebrovascular imaging scans is ideal for monitoring a subject&#x2019;s cerebrovascular condition. However, performing separate scans is generally impractical, due to the long length of time required, and the potential for overdose of the contrast agent.</p>
+<p id="p-0044" num="0043">Referring now to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, a flowchart illustrating the steps of a method <b>100</b> for performing MR imaging is shown. At step <b>102</b>, a contrast agent is injected into the region of interest of the subject, and a pulse sequence is then applied. In some implementations, the contrast agent is injected after the application of the pulse sequence begins. For example, the contrast agent can be injected about one minute after application of the pulse sequence begins. In other implementations, the contrast agent is injected before application of the pulse sequence begins, or as the application of the pulse sequence begins. Any suitable MR contrast agent can be used, such as gadobutral (i.e., Gadovist or Gadavist), gadopentetate (i.e., gadopentetic acid or Magnevist), or others. The pulse sequence is designed to recover data that can be used for multiple different imaging modalities, such as DCE imaging, DSC imaging, and SW imaging.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows an example pulse sequence <b>200</b> that can be used at step <b>102</b> of method <b>100</b>. The pulse sequence <b>200</b> includes one or more repetition time periods TR, with a specific pulse sub-sequence <b>202</b> being repeated every repetition time period TR. In some implementations, the pulse sub-sequence <b>202</b> that is applied each repetition time period TR includes a non-selective saturation recovery preparation pulse <b>204</b> to generate T1 recovery along the magnetization z-axis, one or more excitation pulses <b>206</b> (also referred to as an alpha pulse), and one or more readout lines <b>208</b> (also referred to as readouts, readout pulses, echo pulses, echo readouts, or echo readout pulses). <figref idref="DRAWINGS">FIG. <b>2</b></figref> includes a zoomed-in view of the pulse sub-sequence <b>202</b> of one repetition time period TR that includes the preparation pulse <b>204</b>, the excitation pulses <b>206</b>, and the readout lines <b>208</b>, as well as the preparation pulse <b>204</b> for the next repetition time period TR.</p>
+<p id="p-0046" num="0045">In the illustrated implementation, the one or more excitation pulses <b>206</b> of the pulse sub-sequence <b>202</b> and the one or more readout lines <b>208</b> of the pulse sub-sequence <b>202</b> include a plurality of excitation pulses <b>206</b>, and a set of readout lines <b>208</b> following each single excitation pulse. Each single excitation pulse <b>206</b> and the readout lines <b>208</b> following that single excitation pulse <b>206</b> can form a multi-echo FLASH readout. In some implementations, every single one of the excitation pulses <b>206</b> is followed by five readout lines <b>208</b>. In some implementations, the pulse sub-sequence <b>202</b> includes at least one excitation pulse <b>206</b>, and at least one set of readout lines <b>208</b>, with each set of readout lines <b>208</b> following one of the excitation pulses <b>206</b>. Each set of readout lines <b>208</b> can include two or more readout lines <b>208</b>. In some implementations, every pulse sub-sequence <b>202</b> that is applied during each repetition time period TR includes one preparation pulse <b>204</b>, thirty-five excitation pulses <b>206</b>, and <b>175</b> readout lines <b>208</b> (five readout lines <b>208</b> following each of the thirty-five excitation pulses <b>206</b>). As is shown, one or more pulses sub-sequences <b>202</b> can be applied before and after the injection of the contrast agent. <figref idref="DRAWINGS">FIG. <b>2</b></figref> also shows the simulated signal evolution during the application of the pulse sequence <b>200</b>. Following each preparation pulse <b>204</b>, the simulated signal <b>210</b>A follows an upward-sloping trajectory, depicting the T1 recovery process. Following each excitation pulse <b>206</b>, the simulated signal <b>210</b>B follows a downward-sloping trajectory, depicting T2* decay. The starting point of each simulated signal <b>210</b>B within each pulse sub-sequence <b>202</b> is based on the current state of the simulated signal <b>210</b>A during the same pulse sub-sequence <b>202</b>.</p>
+<p id="p-0047" num="0046">Other types of pulse sequences can also be used. However, any pulse sequence used generally includes two features. First, the pulse sequence is configured to generate both T1-weighted and T2*-weighted contrasts, which&#x2014;as discussed herein&#x2014;allows for multiple types of imaging to be performed simultaneously from a pulse sequence. Second, the pulse sequence is configured generate multiple T1 weightings and multiple T2* weightings, with each contrast mechanism conceptualized as separate time dimensions. The multiple T1 weighting and T2* weightings allow for direct quantification of T1 and T2* relaxation times. The pulse sequence can have a variety of different properties, so long as these two features are present. For example, in some implementations, the pulse sequence includes fast low-angle shot (FLASH) readouts, which are free from the distortion effect caused by B0 inhomogeneities that can affect some types of readouts.</p>
+<p id="p-0048" num="0047">Referring back to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, at step <b>104</b> of method <b>100</b>, auxiliary data is collected in response to the pulse sequence being applied. The auxiliary data is related to one or more time-varying parameters of the region of interest of the subject, and is generally indicative of the value or magnitude of the time-varying parameters. At step <b>106</b> of method <b>100</b>, imaging data is collected in response to the pulse sequence being applied. The imaging data is related to one or more spatially-varying parameters of the region of interest of the subject, and is generally indicative of the value or magnitude of the spatially-varying parameters. In one implementation, the parameters include T1 recovery, T2* decay, and the contrast enhancement time course, which are generally considered to be time-varying parameters. In some implementations, the auxiliary data and the imaging data are collected in real-time as the pulse sequence is being applied. The auxiliary data and the imaging data can be collected simultaneously during application of the pulse sequence, or can be collected at distinct times during application of the pulse sequence. Steps <b>104</b> and <b>106</b> can be performed in a variety of different manners. In some implementations, steps <b>104</b> and <b>106</b> are performed simultaneously, such that the auxiliary data and the imaging data is collected simultaneously. In other implementations, steps <b>104</b> and <b>106</b> are performed in an interleaved fashion, such that portions of the auxiliary data and portions of the imaging data are alternatively collected. In still other implementations, steps <b>104</b> and <b>106</b> are performed sequentially in either order, such that either (i) all of the auxiliary data is collected and then all of the imaging data is collected, or (ii) all of the imaging data is collected and then all of the auxiliary data is collected.</p>
+<p id="p-0049" num="0048">At step <b>108</b>, a temporal factor &#x3a6; is determined from the auxiliary data, and the spatial factor U<sub>r</sub> is determined from the imaging data. In some implementations, the spatial factor U<sub>r</sub> is determined by fitting the temporal factor &#x3a6; to the imaging data, according to the following equation:</p>
+<p id="p-0050" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math id="MATH_1" overflow="scroll" alttext="(1)">
+<mrow>
+<msub>
+<mover accent="true">
+<mi>U</mi>
+<mo>^</mo>
+</mover>
+<mi>r</mi>
+</msub>
+<mo>=</mo>
+<mi>arg</mi>
+<mi>m</mi>
+<mi>i</mi>
+<msub>
+<mi>n</mi>
+<mrow>
+<msub>
+<mi>U</mi>
+<mi>r</mi>
+</msub>
+</mrow>
+</msub>
+<msubsup>
+<mrow>
+<mfenced close="&#x2016;" open="&#x2016;">
+<mrow>
+<mi>d</mi>
+<mo>&#x2212;</mo>
+<mi>&#x3a9;</mi>
+<mfenced close="]" open="[">
+<mrow>
+<mi>E</mi>
+<msub>
+<mi>U</mi>
+<mi>r</mi>
+</msub>
+<mi>&#x3a6;</mi>
+</mrow>
+</mfenced>
+</mrow>
+</mfenced>
+</mrow>
+<mn>2</mn>
+<mn>2</mn>
+</msubsup>
+<mo>+</mo>
+<mi>&#x3bb;</mi>
+<mi>R</mi>
+<mfenced>
+<mrow>
+<msub>
+<mi>U</mi>
+<mi>r</mi>
+</msub>
+</mrow>
+</mfenced>
+<mo>.</mo>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0051" num="0049">In this equation, d is the acquired imaging data, &#x3a9; is an undersampling pattern, E is a signal model, R(&#x25aa;)is the regularization function, and &#x3bb; is the regularization parameter for the regularization function R(&#x25aa;). In some implementations, R(&#x25aa;) is a spatial wavelet sparsity penalty or a spatial total variation constraint. Once the spatial factor U<sub>r</sub> is determined, the multidimensional image sequence is modeled at step <b>110</b>. Generally, every image of the image sequence is a function of position and any time-varying parameters. In an implementation where T1 recovery, T2* decay, and the contrast enhancement time course are being analyzed, the multidimensional image sequence is denoted as I(r, t<sub>T1</sub>, t<sub>T2*</sub>, t<sub>CE</sub>), where t<sub>T1</sub> refers to T1 recovery, t<sub>T2*</sub> refers to T2* decay, and t<sub>CE</sub> refers to the contrast enhancement time course. The image sequence I(r, t<sub>T1</sub>, t<sub>T2*</sub>, t<sub>CE</sub>) can be modeled as a low-rank tensor, which can be factorized and expressed in matrix form as I= U<sub>r</sub>&#x3a6;, as noted above.</p>
+<p id="p-0052" num="0050">Finally, at step <b>112</b>, multiple metrics, images, maps, etc. corresponding to different imaging techniques can be derived using the data acquired from the single pulse sequence. In some implementations, the metrics correspond to different imaging techniques, which could include perfusion-based imaging techniques, non-perfusion-based imaging techniques, or any combination of perfusion-based imaging techniques and non-perfusion-based imaging techniques. In some implementations, these imaging techniques are DCE imaging, DSC imaging, and SW imaging. In some implementations, the metrics quantify the concentration of the contrast agent based on dynamic T1 and T2* mapping, which is generally more accurate than linearly approximating the concentration of the contrast agent based on the signal intensity (which can have inaccuracies if the linear approximation between contrast concentration curves and the change in signal intensity is not well established).</p>
+<p id="p-0053" num="0051">In some implementations, step <b>112</b> includes generating dynamic T1 and T2* maps from the auxiliary data and the imaging data (e.g., from U<sub>r</sub>&#x3a6;), by exploiting the correlation between brain images along the different time dimensions. The auxiliary data and the imaging data can be fit to a signal equation, which describes a value S at each voxel of the image (e.g., at each voxel of I = U<sub>r</sub>&#x3a6;). Essentially, the values of I = U<sub>r</sub>&#x3a6; at each voxel are associated with the value of the signal equation at each voxel. The signal equation is given below:</p>
+<p id="p-0054" num="0000">
+<maths id="MATH-US-00002" num="00002">
+<math id="MATH_2" overflow="scroll" alttext="(2)">
+<mrow>
+<mtable equalrows="true" equalcolumns="true">
+<mtr>
+<mtd>
+<mrow>
+<mi>S</mi>
+<mfenced>
+<mrow>
+<mi>A</mi>
+<mo>,</mo>
+<mi>&#x3b1;</mi>
+<mo>,</mo>
+<mi>B</mi>
+<mo>,</mo>
+<mi>n</mi>
+<mo>,</mo>
+<mi>T</mi>
+<mi>E</mi>
+<mo>,</mo>
+<mi>T</mi>
+<mn>1</mn>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mo>,</mo>
+<mi>T</mi>
+<mn>2</mn>
+<mo>*</mo>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfenced>
+<mo>=</mo>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+<mi>A</mi>
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>&#x2212;</mo>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>&#x2212;</mo>
+<mfrac>
+<mrow>
+<mi>T</mi>
+<mi>R</mi>
+</mrow>
+<mrow>
+<mi>T</mi>
+<mn>1</mn>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>&#x2212;</mo>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>&#x2212;</mo>
+<mfrac>
+<mrow>
+<mi>T</mi>
+<mi>R</mi>
+</mrow>
+<mrow>
+<mi>T</mi>
+<mn>1</mn>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+<mi>cos</mi>
+<mfenced>
+<mi>&#x3b1;</mi>
+</mfenced>
+</mrow>
+</mfrac>
+<mfenced close="]" open="[">
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mfenced>
+<mrow>
+<mi>B</mi>
+<mo>&#x2212;</mo>
+<mn>1</mn>
+</mrow>
+</mfenced>
+<mfenced open="(">
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>&#x2212;</mo>
+<mfrac>
+<mrow>
+<mi>T</mi>
+<mi>R</mi>
+</mrow>
+<mrow>
+<mi>T</mi>
+<mn>1</mn>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+<mi>cos</mi>
+<msup>
+<mrow>
+<mfenced>
+<mi>&#x3b1;</mi>
+</mfenced>
+</mrow>
+<mtext>n</mtext>
+</msup>
+</mrow>
+</mfenced>
+</mrow>
+</mfenced>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>&#x2212;</mo>
+<mfrac>
+<mrow>
+<mi>T</mi>
+<mi>E</mi>
+</mrow>
+<mrow>
+<mi>T</mi>
+<mn>2</mn>
+<mo>*</mo>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+<mi>sin</mi>
+<mfenced>
+<mi>&#x3b1;</mi>
+</mfenced>
+<mo>.</mo>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0055" num="0052">Here, S is the value of the signal equation at each voxel (e.g., the intensity of the RF signal received from the tissue at the voxel), A is an amplitude term associated with the density of absorbing protons in the tissue and the sensitivity of the RF receiving antennas, &#x3b1; is the flip angle of the excitation pulses (such as excitation pulses <b>206</b>), n is the number of excitation pulses in the pulse sequence that is applied to the tissue (such as the pulse sequence <b>200</b>) since the previous preparation pulse (such as preparation pulses <b>204</b>), and TE is the time between the center of the most recent excitation pulse and the center of the readout line (such as readout lines <b>208</b>) in the pulse sequence applied to the tissue (such as the pulse sequence <b>200</b>) which is also referred to as the echo time. Thus, dynamic T1 and T2* maps can be generated by fitting the above equation, when a given voxel of I = U<sub>r</sub>&#x3a6; is substituted for S.</p>
+<p id="p-0056" num="0053"><figref idref="DRAWINGS">FIGS. <b>3</b>A, <b>3</b>B, and <b>3</b>C</figref> show plots of the signal intensity (e.g., the value of S) generated by imaging a subject&#x2019;s brain. <figref idref="DRAWINGS">FIG. <b>3</b>A</figref> shows a plot <b>300</b> of the signal intensity in the gray matter of the subject&#x2019;s brain. Inset plot <b>302</b>A shows a zoomed-in view of the identified portion of plot <b>300</b>, and inset plot <b>302</b>B shows a zoomed-in view of the identified portion of inset plot <b>302</b>A. Inset plot <b>302</b>A shows the saturation recovery curves, and inset plot <b>302</b>B shows the multi-echo FLASH readouts during contrast agent injection.</p>
+<p id="p-0057" num="0054"><figref idref="DRAWINGS">FIG. <b>3</b>B</figref> shows a plot <b>304</b> of the signal intensity in the white matter of the subject&#x2019;s brain. Inset plot <b>306</b>A shows a zoomed-in view of the identified portion of plot <b>304</b>, and inset plot <b>306</b>B shows a zoomed-in view of the identified portion of inset plot <b>306</b>A. Inset plot <b>306</b>A shows the saturation recovery curves, and inset plot <b>306</b>B shows the multi-echo FLASH readouts during contrast agent injection.</p>
+<p id="p-0058" num="0055"><figref idref="DRAWINGS">FIG. <b>3</b>C</figref> shows a plot <b>308</b> of the signal intensity in the blood of the subject&#x2019;s brain. Inset plot <b>310</b>A shows a zoomed-in view of the identified portion of plot <b>308</b>, and inset plot <b>310</b>B shows a zoomed-in view of the identified portion of inset plot <b>310</b>A. Inset plot <b>310</b>A shows the saturation recovery curves, and inset plot <b>310</b>B shows the multi-echo FLASH readouts during contrast agent injection.</p>
+<p id="p-0059" num="0056"><figref idref="DRAWINGS">FIG. <b>3</b>D</figref> shows example dynamic T1 maps and T2* maps. T1 maps <b>312</b>A and <b>312</b>B were acquired using method <b>100</b>, while T1 maps <b>314</b>A and <b>314</b>B were acquired using a conventional reference method, such as inversion-recovery turbo spin echo (IR TSE). T2* maps <b>316</b>A and <b>316</b>B were acquired using method <b>100</b>, while T3* maps <b>318</b>A and <b>318</b>B were acquired using a conventional reference method, such as multi-echo gradient recalled echo (ME GRE). The top map of each set of maps (e.g., maps <b>312</b>A, <b>314</b>A, <b>316</b>A, and <b>318</b>A) is representative of pre-contrast imaging, while the bottom map of each set of maps (e.g., maps <b>312</b>B, <b>314</b>B, <b>316</b>B, and <b>318</b>B) is representative of post-contrast imaging. These T1 and T2* maps show the T1 and T2* values at every location in an image. In <figref idref="DRAWINGS">FIG. <b>3</b>D</figref>, the T1 and T2* maps show the T1 and T2* values in the subject&#x2019;s brain. As can be seen in <figref idref="DRAWINGS">FIG. <b>3</b>D</figref>, the T1 and T2* maps generated using method <b>100</b> are comparable to T1 and T2* maps generated using conventional methods.</p>
+<p id="p-0060" num="0057">Once the dynamic T1 and T2* maps are determined, a dynamic T1 curve T1(t) and a dynamic T2* curve T2*(t) can be determined from the T1 and T2* maps. The dynamic T1 and T2* curves show the T1 and T2* values versus time at different locations of the subject. <figref idref="DRAWINGS">FIG. <b>3</b>E</figref> shows an example set of dynamic T1 curves <b>320</b>A, <b>320</b>B, and <b>320</b>C, while <figref idref="DRAWINGS">FIG. <b>3</b>F</figref> shows an example set of dynamic T2* curves <b>322</b>A, <b>322</b>B, and <b>322</b>C. These curves can be generated from T1 and T2* maps, respectively, such as the T1 and T2* maps in <figref idref="DRAWINGS">FIG. <b>3</b>D</figref>. Thus, the dynamic T1 curves <b>320</b>A-<b>320</b>C and the dynamic T2* curves <b>322</b>A-<b>322</b>C show the T1 and T2* values versus time in the subject&#x2019;s brain. T1 curve <b>320</b>A shows T1 values in the gray matter of the subject&#x2019;s brain. T1 curve <b>320</b>B shows T1 values in the white matter of the subject&#x2019;s brain. T1 curve <b>320</b>C shows T1 values in the blood of the subject&#x2019;s brain. Similarly, T2* curve <b>322</b>A shows T2* values in the gray matter of the subject&#x2019;s brain, T2* curve <b>322</b>B shows T2* values in the white matter of the subject&#x2019;s brain, and T2* curve <b>322</b>C shows T2* values in the blood matter of the subject&#x2019;s brain.</p>
+<p id="p-0061" num="0058">Referring back to step <b>112</b>, in some implementations, the metric associated with DCE imaging can be one or more of a fractional plasma volume &#x3bd;<sub>p</sub> of the region of interest, a fractional extravascular-extracellular volume &#x3bd;<sub>e</sub> of the region of interest, or a transfer constant K<sup>trans</sup> of the region of interest. These metrics can be referred to as kinetic parameters, and can be obtained using the dynamic T1 and T2* curves, such as T1 curves <b>320</b>A-<b>320</b>C and T2* curves <b>322</b>A-<b>322</b>C. To derive these metrics, a T1-based contrast concentration curve is determined according to:</p>
+<p id="p-0062" num="0000">
+<maths id="MATH-US-00003" num="00003">
+<math id="MATH_3" overflow="scroll" alttext="(3)">
+<mrow>
+<msup>
+<mi>C</mi>
+<mrow>
+<msub>
+<mi>R</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</msup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msub>
+<mi>r</mi>
+<mn>1</mn>
+</msub>
+</mrow>
+</mfrac>
+<mfenced>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>T</mi>
+<mn>1</mn>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfrac>
+<mo>&#x2212;</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>T</mi>
+<msub>
+<mn>1</mn>
+<mrow>
+<mi>p</mi>
+<mi>r</mi>
+<mi>e</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mfenced>
+<mo>.</mo>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0063" num="0059">Here, C<sup>R<sub2>1</sub2></sup>(t) is the T1-based contrast concentration curve, which is a measure of the concentration of the injected contrast agent as a function of time. T1(t) is the dynamic T1 curve, T1<sub>pre</sub> is the T1 value before the contrast agent is injected, and r<sub>1</sub> is the longitudinal relaxivity of the contrast agent. <figref idref="DRAWINGS">FIG. <b>3</b>G</figref> shows R1-based contrast concentration curves <b>324</b>A (gray matter), <b>324</b>B (white matter), and <b>324</b>C (blood), which can be derived from the dynamic T1 curves <b>320</b>A-<b>320</b>C in <figref idref="DRAWINGS">FIG. <b>3</b>E</figref> using the above equation for C<sup>R<sub2>1</sub2></sup>(t). As noted herein, R1 describes T1 relaxation rate, and is equal to the inverse of relaxation time T1. Thus, concentration curves <b>324</b>A-<b>324</b>C describe the concentration of the contrast agent based on the T1 parameter. The kinetic parameters (&#x3bd;<sub>p</sub>, &#x3bd;<sub>e</sub>, and K<sup>trans</sup>) can then be derived according to:</p>
+<p id="p-0064" num="0000">
+<maths id="MATH-US-00004" num="00004">
+<math id="MATH_4" overflow="scroll" alttext="(4)">
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>t</mi>
+<mrow>
+<mi>R</mi>
+<mn>1</mn>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mo>=</mo>
+<msub>
+<mi>v</mi>
+<mi>p</mi>
+</msub>
+<msubsup>
+<mi>C</mi>
+<mi>p</mi>
+<mrow>
+<mi>R</mi>
+<mn>1</mn>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mo>+</mo>
+<msup>
+<mi>K</mi>
+<mrow>
+<mi>t</mi>
+<mi>r</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>s</mi>
+</mrow>
+</msup>
+<mstyle displaystyle="true">
+<mrow>
+<msubsup>
+<mo>&#x222b;</mo>
+<mn>0</mn>
+<mi>t</mi>
+</msubsup>
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>p</mi>
+<mrow>
+<mi>R</mi>
+<mn>1</mn>
+</mrow>
+</msubsup>
+</mrow>
+</mrow>
+</mstyle>
+<mfenced>
+<mi>&#x3c4;</mi>
+</mfenced>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>&#x2212;</mo>
+<mfenced>
+<mrow>
+<mfrac>
+<mrow>
+<msup>
+<mi>K</mi>
+<mrow>
+<mi>t</mi>
+<mi>r</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>s</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<msub>
+<mi>v</mi>
+<mi>e</mi>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mfenced>
+</mrow>
+</msup>
+<mi>d</mi>
+<mi>&#x3c4;</mi>
+<mo>.</mo>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0065" num="0060">Here, </p>
+<p id="p-0066" num="0000">
+<maths id="MATH-US-00005" num="00005">
+<math id="MATH_5" overflow="scroll">
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>t</mi>
+<mrow>
+<mi>R</mi>
+<mn>1</mn>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0067" num="0000"> is the T1-based concentration of the contrast agent in tissue, and </p>
+<p id="p-0068" num="0000">
+<maths id="MATH-US-00006" num="00006">
+<math id="MATH_6" overflow="scroll">
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>p</mi>
+<mrow>
+<mi>R</mi>
+<mn>1</mn>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0069" num="0000"> is the T1-based concentration of the contrast agent in plasma. The tissue being images generally consists of three components: parenchymal cells, blood vessels and arteries, and extracellular extravascular space (EES). The contrast agent diffuses between the blood vessels/arteries and the EES. </p>
+<p id="p-0070" num="0000">
+<maths id="MATH-US-00007" num="00007">
+<math id="MATH_7" overflow="scroll">
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>t</mi>
+<mrow>
+<mi>R</mi>
+<mn>1</mn>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0071" num="0000"> is determined by solving for C<sup>R<sub2>1</sub2></sup>(t) in equation (3) above in a region of the tissue containing the parenchymal cells. </p>
+<p id="p-0072" num="0000">
+<maths id="MATH-US-00008" num="00008">
+<math id="MATH_8" overflow="scroll">
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>p</mi>
+<mrow>
+<mi>R</mi>
+<mn>1</mn>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0073" num="0000"> is determined by solving for C<sup>R<sub2>1</sub2></sup>(t) in equation (3) above in a region of the tissue containing a select feeding artery. The kinetic parameters (&#x3bd;<sub>p</sub>, &#x3bd;<sub>e</sub>, and K<sup>trans</sup>) can then be fitted from </p>
+<p id="p-0074" num="0000">
+<maths id="MATH-US-00009" num="00009">
+<math id="MATH_9" overflow="scroll">
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>t</mi>
+<mrow>
+<mi>R</mi>
+<mn>1</mn>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0075" num="0000"> and </p>
+<p id="p-0076" num="0000">
+<maths id="MATH-US-00010" num="00010">
+<math id="MATH_10" overflow="scroll">
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>p</mi>
+<mrow>
+<mi>R</mi>
+<mn>1</mn>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mo>.</mo>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0077" num="0061">In some implementations, the metric associated with DSC imaging is a leakage-corrected cerebral blood volume (CBV) measurement or a leakage-corrected cerebral blood flow (CBF) measurement. To derive the CBV and CBF measurements, the T2*-based contrast concentration curve </p>
+<p id="p-0078" num="0000">
+<maths id="MATH-US-00011" num="00011">
+<math id="MATH_11" overflow="scroll">
+<mrow>
+<msup>
+<mi>C</mi>
+<mrow>
+<msubsup>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+</msubsup>
+</mrow>
+</msup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0079" num="0000"> is first derived according to: </p>
+<p id="p-0080" num="0000">
+<maths id="MATH-US-00012" num="00012">
+<math id="MATH_12" overflow="scroll" alttext="(5)">
+<mrow>
+<msup>
+<mi>C</mi>
+<mrow>
+<msubsup>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+</msubsup>
+</mrow>
+</msup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mo>=</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msubsup>
+<mi>r</mi>
+<mrow>
+<mn>2</mn>
+<mo>,</mo>
+<mi>p</mi>
+</mrow>
+<mo>&#x2217;</mo>
+</msubsup>
+</mrow>
+</mfrac>
+<mfenced>
+<mrow>
+<mfenced>
+<mrow>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>T</mi>
+<mn>2</mn>
+<mo>*</mo>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfrac>
+<mo>&#x2212;</mo>
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>T</mi>
+<msubsup>
+<mn>2</mn>
+<mrow>
+<mi>p</mi>
+<mi>r</mi>
+<mi>e</mi>
+</mrow>
+<mo>*</mo>
+</msubsup>
+</mrow>
+</mfrac>
+</mrow>
+</mfenced>
+<mo>&#x2212;</mo>
+<msubsup>
+<mi>r</mi>
+<mrow>
+<mn>2</mn>
+<mo>,</mo>
+<mi>e</mi>
+</mrow>
+<mo>*</mo>
+</msubsup>
+<mo>&#x22c5;</mo>
+<msup>
+<mi>K</mi>
+<mrow>
+<mi>t</mi>
+<mi>r</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>s</mi>
+</mrow>
+</msup>
+<mo>&#x22c5;</mo>
+<mi>e</mi>
+<mi>x</mi>
+<mi>p</mi>
+<mfenced>
+<mrow>
+<mo>&#x2212;</mo>
+<mfrac>
+<mrow>
+<msup>
+<mi>K</mi>
+<mrow>
+<mi>t</mi>
+<mi>r</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>s</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<msub>
+<mi>v</mi>
+<mi>e</mi>
+</msub>
+</mrow>
+</mfrac>
+<mi>t</mi>
+</mrow>
+</mfenced>
+</mrow>
+</mfenced>
+<mo>.</mo>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0081" num="0062">Here, T2*(t) is the dynamic T2* curve, T2<o><sub>p</sub></o><sub>re</sub> is the T2* value before the contrast agent is injected, r<o><sub>2</sub></o><sub>,p</sub> is the transverse relaxivity within the intravascular-extracellular space, and r<o><sub>2</sub></o>,<sub>e</sub> is the transverse relaxivity within the extravascular-extracellular space. <figref idref="DRAWINGS">FIG. <b>3</b>H</figref> shows R2*-based contrast concentration curves <b>326</b>A (gray matter), <b>326</b>B (white matter), and <b>326</b>C (blood), which can be derived from the dynamic T2* curves <b>322</b>A-<b>322</b>C in <figref idref="DRAWINGS">FIG. <b>3</b>F</figref> using the above equation for </p>
+<p id="p-0082" num="0000">
+<maths id="MATH-US-00013" num="00013">
+<math id="MATH_13" overflow="scroll">
+<mrow>
+<msup>
+<mi>C</mi>
+<mrow>
+<msubsup>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+</msubsup>
+</mrow>
+</msup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mo>.</mo>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0083" num="0000">As noted herein, R2* describes T2* relaxation rate, and is equal to the inverse of relaxation time T2*. Thus, concentration curves <b>326</b>A-<b>326</b>C describe the concentration of the contrast agent based on the T2* parameter. The R2*-based contrast concentration curve </p>
+<p id="p-0084" num="0000">
+<maths id="MATH-US-00014" num="00014">
+<math id="MATH_14" overflow="scroll">
+<mrow>
+<msup>
+<mi>C</mi>
+<mrow>
+<msubsup>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+</msubsup>
+</mrow>
+</msup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0085" num="0000"> can then be used to determine both the T2*-based concentration of the contrast agent in a feeding artery </p>
+<p id="p-0086" num="0000">
+<maths id="MATH-US-00015" num="00015">
+<math id="MATH_15" overflow="scroll">
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>a</mi>
+<mrow>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</msubsup>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0087" num="0000"> and the T2*-based concentration of the contrast agent in the tissue </p>
+<p id="p-0088" num="0000">
+<maths id="MATH-US-00016" num="00016">
+<math id="MATH_16" overflow="scroll">
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>t</mi>
+<mrow>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+<mtext>&#x2004;</mtext>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</msubsup>
+<mo>.</mo>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0089" num="0000">The CBV and CBF measurements can then be derived according to the following equations: </p>
+<p id="p-0090" num="0000">
+<maths id="MATH-US-00017" num="00017">
+<math id="MATH_17" overflow="scroll" alttext="(6)">
+<mrow>
+<mi>C</mi>
+<mi>B</mi>
+<mi>V</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>100</mn>
+</mrow>
+<mi>&#x3c1;</mi>
+</mfrac>
+<mo>&#x22c5;</mo>
+<mfrac>
+<mrow>
+<mfenced>
+<mrow>
+<mn>1</mn>
+<mo>&#x2212;</mo>
+<msub>
+<mi>H</mi>
+<mrow>
+<mi>S</mi>
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</mfenced>
+</mrow>
+<mrow>
+<mfenced>
+<mrow>
+<mn>1</mn>
+<mo>&#x2212;</mo>
+<msub>
+<mi>H</mi>
+<mrow>
+<mi>L</mi>
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</mfenced>
+</mrow>
+</mfrac>
+<mo>&#x22c5;</mo>
+<mfrac>
+<mrow>
+<mstyle displaystyle="true">
+<mrow>
+<mo>&#x222b;</mo>
+<mrow>
+<msubsup>
+<mi>c</mi>
+<mi>t</mi>
+<mrow>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mstyle displaystyle="true">
+<mrow>
+<mo>&#x222b;</mo>
+<mrow>
+<msubsup>
+<mi>c</mi>
+<mi>a</mi>
+<mrow>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+<mo>,</mo>
+<mtext>&#x2004;</mtext>
+<mtext>and</mtext>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0091" num="0000">
+<maths id="MATH-US-00018" num="00018">
+<math id="MATH_18" overflow="scroll" alttext="(7)">
+<mrow>
+<mi>C</mi>
+<mi>B</mi>
+<mi>F</mi>
+<mo>=</mo>
+<mn>60</mn>
+<mo>&#x22c5;</mo>
+<mfrac>
+<mrow>
+<mn>100</mn>
+</mrow>
+<mi>&#x3c1;</mi>
+</mfrac>
+<mo>&#x22c5;</mo>
+<mfrac>
+<mrow>
+<mfenced>
+<mrow>
+<mn>1</mn>
+<mo>&#x2212;</mo>
+<msub>
+<mi>H</mi>
+<mrow>
+<mi>S</mi>
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</mfenced>
+</mrow>
+<mrow>
+<mfenced>
+<mrow>
+<mn>1</mn>
+<mo>&#x2212;</mo>
+<msub>
+<mi>H</mi>
+<mrow>
+<mi>L</mi>
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</mfenced>
+</mrow>
+</mfrac>
+<mo>&#x22c5;</mo>
+<mfenced close="]" open="[">
+<mrow>
+<mi>m</mi>
+<mi>a</mi>
+<mi>x</mi>
+<mfenced>
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>t</mi>
+<mrow>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<msup>
+<mo>&#x2297;</mo>
+<mrow>
+<mo>&#x2212;</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<msubsup>
+<mi>C</mi>
+<mi>a</mi>
+<mrow>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfenced>
+</mrow>
+</mfenced>
+<mo>.</mo>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0092" num="0063">Here, &#x3c1; is the density of the brain of the subject being imaged, H<sub>SV</sub> is a correction to the volume hematocrit level in small blood vessels such as capillaries due to the Fahreus-Lindquist effect, H<sub>LV</sub> is a correction to the volume hematocrit level in large blood vessels due to the Fahreus-Lindquist effect, and &#x2297;<sup>-1</sup> is a deconvolution operation. In some implementations, values of &#x3c1; = 1.04 g/mL, H<sub>SV</sub> = 0.25, and H<sub>LV</sub> = 0.45 can be used.</p>
+<p id="p-0093" num="0064">The metric associated with SW imaging can be one or more SW images. Generally, magnitude and phase information are independently processed and combined to generate the one or more SW images. In some implementations, each of the one or more SW images are generated by taking an image from one of the readout lines <b>208</b> of pulse sequence <b>200</b>, and multiplying the magnitude of that image by a corresponding phase mask, which is created and scaled from the filtered phased images over a 0-1 range. In some implementations, the images that the phase mask is applied to are generated from the final readout line <b>208</b> of each set of readout lines <b>208</b> within each of the pulse sub-sequences <b>202</b> that form pulse sequence <b>200</b>. In other implementations, the images that the phase mask is applied to are generated from at least one readout line <b>208</b> of at least one set of readout lines <b>208</b> within at least one of the pulse sub-sequences <b>202</b> forming pulse sequence <b>200</b>.</p>
+<p id="p-0094" num="0065">Thus, method <b>100</b> can be used to determine the value of multiple different metrics that would otherwise require multiple imaging sequences, longer scan times, and/or multiple injections of contrast agent. Conventional techniques for determining multiple different metrics often require multiple imaging sequences, multiple contrast injections, and a long scan time, which can lead to inter-scan motion that prevents metrics from being accurately determined, and prevents accurate analysis of the tissue being imaged. Moreover, multiple doses of contrast agent can pose health risks, such as allergic reaction, nephrogenic systemic fibrosis, and/or contrast deposition in the tissue being imaged (such as the user&#x2019;s brain). Method <b>100</b> can thus avoid the problems presented by conventional imaging protocols, and allows for many different metrics to be derived using a single image sequence and a single injection of a contrast agent.</p>
+<p id="p-0095" num="0066">In some implementations of method <b>100</b>, any of the dynamic T1 and T2* maps in <figref idref="DRAWINGS">FIG. <b>3</b>D</figref>, the dynamic T1 and T2* curves in <figref idref="DRAWINGS">FIGS. <b>3</b>E and <b>3</b>F</figref>, and the R1- and R2*-based contrast concentration curves in <figref idref="DRAWINGS">FIGS. <b>3</b>G and <b>3</b>H</figref> can be visually reproduced. In other implementations, the actual maps and curves are not visually reproduced, and only the data for the maps and curves is generated and used. In some implementations, the dynamic T1 and T2* curves are not generated from the dynamic T1 and T2* maps, but instead are generated directly from the signal equation described herein.</p>
+<p id="p-0096" num="0067">Moreover, in some implementations, the various maps and curves and/or the data used to generate the various maps and curves, can be inverted to describe relaxation rates instead of relaxation times, or to describe relaxation times instead of relaxation rates. For example, the T1 and T2* maps in <figref idref="DRAWINGS">FIG. <b>3</b>D</figref> could alternatively be generated as R1 and R2* maps. In another example, the dynamic T1 and T2* curves in <figref idref="DRAWINGS">FIGS. <b>3</b>E and <b>3</b>F</figref> could alternatively be generated as dynamic R1 and R2* curves. In a further example, the R1- and R2*-based contrast concentration curves in <figref idref="DRAWINGS">FIGS. <b>3</b>G and <b>3</b>H</figref> could alternatively be generated as T1- and T2*-based contrast concentration curves.</p>
+<p id="p-0097" num="0068">In one example experiment utilizing method <b>100</b>, subjects were scanned on a 3.0 T system with a 20-channel head-neck coil. In this example experiment, the following parameters were used: field of view=265&#xd7;220 mm<sup>2</sup>; in-plane spatial resolution=1.5&#xd7;1.5 mm<sup>2</sup>; 30 slices with 4-millimeter thickness; repetition time period=850 milliseconds; echo time period=2.46/7.38/12.30/17.22/22.14 milliseconds; flip angle=10&#xb0;; total time=8 minutes; and Gadavist (0.1 mmol/kg) as the contrast agent injected three minutes into the scan at a rate of 3.0 milliliters/seconds.</p>
+<p id="p-0098" num="0069"><figref idref="DRAWINGS">FIG. <b>4</b>A</figref> shows example images obtained using method <b>100</b>. <figref idref="DRAWINGS">FIG. <b>4</b></figref> compares pre-contrast images <b>402</b>A on the left (obtained using method <b>100</b> but without injection of the contrast agent) and post-contrast images <b>402</b>B on the right (obtained using method <b>100</b>), for different saturation recovery times. For both the pre-contrast images and post contrast images, the top row of images corresponds to the image following the first readout, the middle row corresponds to the image following the third readout, and the bottom row corresponds to the image following the fifth readout. For both the pre-contrast images and the post-contrast images, the first column from the left corresponds to TI=175 milliseconds (ms), the second column from the left corresponds to TI=350 ms, the third column from the left corresponds to TI=525 ms, the fourth column from the left corresponds to TI=700 ms, and the fifth column from the left corresponds to TI=850 ms.</p>
+<p id="p-0099" num="0070"><figref idref="DRAWINGS">FIG. <b>4</b>B</figref> shows a plot <b>410</b>A of T1 quantifications for method <b>100</b> and a conventional reference method (such as IR-TSE); and a plot <b>410</b>B of T2* quantification for method <b>100</b> and conventional reference method (such as MR-GRE). The plots <b>410</b>A and <b>410</b>B in <figref idref="DRAWINGS">FIG. <b>4</b>B</figref> show that the results of method <b>100</b> that combines multiple imaging modalities are comparable to the results of conventional reference methods directed to only one modality.</p>
+<p id="p-0100" num="0071"><figref idref="DRAWINGS">FIG. <b>5</b>A</figref> shows post-contrast T1-weighted images generated according to method <b>100</b>. Image <b>502</b>A shows blood, and image <b>502</b>B shows normal tissue. The gray dots in images <b>502</b>A and <b>502</b>B identify the voxel of those images that is being analyzed. <figref idref="DRAWINGS">FIG. <b>5</b>B</figref> shows dynamic T1 curves <b>504</b>A and <b>504</b>B. Dynamic T1 curve <b>504</b>A represents the T1 parameter at the identified voxel of the blood image <b>502</b>A, while dynamic T1 curve <b>504</b>B represents the T1 parameter at the identified voxel of the tissue image <b>502</b>B. <figref idref="DRAWINGS">FIG. <b>5</b>B</figref> also shows dynamic T2* curves <b>506</b>A and <b>506</b>B. Dynamic T2* curve <b>506</b>A represents the T2* parameter at the identified voxel of the blood image <b>502</b>A, while dynamic T2* curve <b>506</b>B represents the T2* parameter at the identified voxel of the tissue image <b>502</b>B.</p>
+<p id="p-0101" num="0072"><figref idref="DRAWINGS">FIG. <b>5</b>C</figref> shows T1-based (or R1-based) contrast concentration curves <b>508</b>A and <b>508</b>B, and T2*-based (or R2*-based) contrast concentration curves <b>510</b>A and <b>510</b>B. The T1-based concentration curves <b>508</b>A and <b>508</b>B were obtained based on the dynamic T1 curves <b>504</b>A and <b>504</b>B, respectively. The T2*-based concentration curves <b>510</b>A and <b>510</b>B were obtained based on the dynamic T2* curves <b>506</b>A and <b>506</b>B, respectively. Thus, concentration curves <b>508</b>A and <b>510</b>A represent the concentration of the contrast agent at the identified voxel of the blood image <b>502</b>A, while concentration curves <b>508</b>B and <b>510</b>B represent the concentration of the contrast agent at the identified voxel of the tissue image <b>502</b>B. <figref idref="DRAWINGS">FIG. <b>5</b>D</figref> shows various different maps generated using method <b>100</b> on the same subject that the images and maps in <figref idref="DRAWINGS">FIGS. <b>5</b>A, <b>5</b>B, and <b>5</b>C</figref> were generated from. Map <b>512</b>A is a map of the fractional plasma volume. Map <b>512</b>B is a map of the transfer constant. Map <b>512</b>C is a map of the cerebral blood volume. Map <b>512</b>D is a map of the cerebral blood flow.</p>
+<p id="p-0102" num="0073"><figref idref="DRAWINGS">FIGS. <b>6</b>A-<b>6</b>D</figref> show a variety of example images and parameter maps from a subject with a meningioma, which is a tumor that forms on the membranes that cover the brain on the inside of the skull. <figref idref="DRAWINGS">FIG. <b>6</b>A</figref> shows a dark-fluid T1 turbo spin echo image <b>602</b>A and a dark-fluid T2* turbo spin echo image <b>602</b>B acquired using a conventional method. <figref idref="DRAWINGS">FIG. <b>6</b>B</figref> shows a map <b>604</b>A of the fractional plasma volume and a map <b>604</b>B of the transfer constant of the same subject generated using method <b>100</b>. <figref idref="DRAWINGS">FIG. <b>6</b>C</figref> shows a map <b>606</b>A of the cerebral blood volume and a map <b>606</b>B of the cerebral blood flow of the same subject generated using method <b>100</b>. <figref idref="DRAWINGS">FIG. <b>6</b>D</figref> shows a single-slice SW image <b>608</b>A and a minimum intensity projection (mIP) SW image <b>608</b>B of the same subject generated using method <b>100</b>. Because meningiomas are highly vascularized and perfused, and have no endothelial tight junctions that could serve as permeability barriers, maps <b>604</b>A, <b>604</b>B, <b>606</b>A, <b>606</b>B confirm an increase in the fractional plasma volume, the transfer constant, the cerebral blood volume, and the cerebral blood flow, respectively, in the area where the meningioma is located. The SW images <b>608</b>A, <b>608</b>B indicate a lack of no intra-tumor bleeding within the meningioma.</p>
+<p id="p-0103" num="0074"><figref idref="DRAWINGS">FIGS. <b>7</b>A-<b>7</b>D</figref> show a variety of example images and parameter maps from a subject with an intracranial hematoma. <figref idref="DRAWINGS">FIG. <b>7</b>A</figref> shows a dark-fluid T1 turbo spin echo image <b>702</b>A and a SW image <b>702</b>B acquired using a conventional method. <figref idref="DRAWINGS">FIG. <b>7</b>B</figref> shows a map <b>704</b>A of the fractional plasma volume and a map <b>704</b>B of the transfer constant of the same subject generated using method <b>100</b>. <figref idref="DRAWINGS">FIG. <b>7</b>C</figref> shows a map <b>706</b>A of the cerebral blood volume and a map <b>706</b>B of the cerebral blood flow of the same subject generated using method <b>100</b>. <figref idref="DRAWINGS">FIG. <b>7</b>D</figref> shows a single-slice SW image <b>708</b>A and an mIP SW image <b>708</b>B of the same subject generated using method <b>100</b>. The maps <b>704</b>A, <b>704</b>B of the fractional plasma volume and the transfer constant show lower values inside the hematoma than in the adjacent tissue, which suggests hemostasis in this area. The maps <b>706</b>A, <b>706</b>B of the cerebral blood volume and cerebral blood flow show lower values within the hematoma, which shows potential damage to normal tissue due to compression of the blood. The SW images <b>708</b>A, <b>708</b>B obtained using method <b>100</b> clearly depict the hematoma, which is consistent with images <b>702</b>A, <b>702</b>B obtained using the conventional method.</p>
+<p id="p-0104" num="0075">Aspects of the present disclosure can be implemented using a variety of hardware. One such implementation is illustrated in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. A system <b>800</b> for performing magnetic resonance imaging on a subject includes an imaging apparatus <b>802</b>, a processing device <b>812</b>, and a reconstruction workstation <b>822</b>. The imaging apparatus <b>802</b> can be one used for standard magnetic resonance imaging, and can include a primary magnet <b>804</b>, gradient coils <b>806</b>, an RF transmission system <b>808</b>, and an RF receiving system <b>810</b>. The primary magnet <b>804</b> can be a permanent magnet, an electromagnet (such as a coil), or any other suitable magnet. Primary magnet <b>804</b> is used to create the external magnet field that is applied to the sample during imaging. Gradient coils <b>806</b> create a secondary magnet field that distorts the external magnetic field and can cause the resonant frequency of the protons in the sample to vary by position. The gradient coils <b>806</b> can thus be used to spatially encode the positions of protons throughout the sample, e.g. can be used to select which plane intersecting the sample will be used for imaging.</p>
+<p id="p-0105" num="0076">The RF transmission system <b>808</b> is used to apply the RF pulse sequence that provides energy to the protons in the sample to rotate their magnet moments out of alignment with the external magnetic field, and saturates the solute material protons. The RF transmission system <b>808</b> generally includes a frequency generator (such as an RF synthesizer), a power amplifier, and a transmitting coil. The RF receiving system <b>810</b> receives the signals emitted by the protons in the sample as they relax back to their standard alignment. The RF receiving system <b>810</b> can a receiving coil to receive the emitted signals, and a pre-amplifier for boosting the received signals and ensuring the signals are suitable for processing. In some implementations, the RF receiving system <b>810</b> can include a signal processing component that processes the received signals to provide data that is usable by the processing device <b>812</b>. Each of the component of the imaging apparatus can be disposed within one or more housings. In some implementations, the imaging apparatus <b>802</b> is a 3.0 Tesla clinical scanner equipped with an 18-channel phase array body coil.</p>
+<p id="p-0106" num="0077">The processing device <b>812</b> can be communicatively coupled to the imaging apparatus <b>802</b>, and can include a processor <b>814</b>, processor-executable memory <b>816</b>, a display <b>818</b>, and a user input device <b>820</b>. The processing device <b>812</b> is used to manage the operations of the imaging apparatus <b>802</b>, and can thus be configured to cause the imaging apparatus <b>802</b> to perform dynamic imaging according to the principles disclosed herein. The memory <b>816</b> can contain instructions that when executed by processor <b>814</b>, cause the imaging apparatus <b>802</b> to operate as desired. The memory <b>816</b> can also store the data obtained from the MRI sequence.</p>
+<p id="p-0107" num="0078">The reconstruction workstation <b>822</b> is generally a separate processing device or system that receives the imaging data from the processing device <b>812</b>. The reconstruction workstation can be configured as necessary to perform any analysis of the data, include any or all of the steps in method <b>100</b>. In some implementations, the neural network is implemented on the reconstruction workstation <b>822</b>. In other implementations, the neural network is implemented on separate hardware that can communicate with the reconstruction workstation <b>822</b>.</p>
+<p id="p-0108" num="0079">In some implementations, a non-transitory, machine-readable medium has instructions stored thereon for implementing any of any of the methods or processes discussed herein. A machine processor is configured to executed the instructions in order to perform these methods or processes.</p>
+<p id="p-0109" num="0080">Aspects of the present disclosure can be implemented on a variety of types of processing devices, such as general purpose computer systems, microprocessors, digital signal processors, micro-controllers, application specific integrated circuits (ASICs), programmable logic devices (PLDs) field programmable logic devices (FPLDs), programmable gate arrays (PGAs), field programmable gate arrays (FPGAs), mobile devices such as mobile telephones, personal digital assistants (PDAs), or tablet computers, local servers, remote servers, wearable computers, or the like.</p>
+<p id="p-0110" num="0081">Memory storage devices of the one or more processing devices can include a machine-readable medium on which is stored one or more sets of instructions (e.g., software) embodying any one or more of the methodologies or functions described herein. The instructions can further be transmitted or received over a network via a network transmitter receiver. While the machine-readable medium can be a single medium, the term &#x201c;machine-readable medium&#x201d; should be taken to include a single medium or multiple media (e.g., a centralized or distributed database, and/or associated caches and servers) that store the one or more sets of instructions. The term &#x201c;machine-readable medium&#x201d; can also be taken to include any medium that is capable of storing, encoding, or carrying a set of instructions for execution by the machine and that cause the machine to perform any one or more of the methodologies of the various embodiments, or that is capable of storing, encoding, or carrying data structures utilized by or associated with such a set of instructions. The term &#x201c;machine-readable medium&#x201d; can accordingly be taken to include, but not be limited to, solid-state memories, optical media, and magnetic media. A variety of different types of memory storage devices, such as a random access memory (RAM) or a read only memory (ROM) in the system or a floppy disk, hard disk, CD ROM, DVD ROM, flash, or other computer readable medium that is read from and/or written to by a magnetic, optical, or other reading and/or writing system that is coupled to the processing device, can be used for the memory or memories.</p>
+<p id="p-0111" num="0082">While aspects of the present disclosure have been described with reference to one or more particular implementations, those skilled in the art will recognize that many changes may be made thereto without departing from the spirit and scope of the present disclosure. Each of these implementations and obvious variations thereof are contemplated as falling within the spirit and scope of the present disclosure. It is also contemplated that additional implementations according to aspects of the present disclosure may combine any number of features from any of the implementations described herein.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20230225628A1-20230720-M00001.NB">
+<img id="EMI-M00001" he="3.89mm" wi="41.74mm" file="US20230225628A1-20230720-M00001.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US20230225628A1-20230720-M00002.NB">
+<img id="EMI-M00002" he="15.75mm" wi="61.72mm" file="US20230225628A1-20230720-M00002.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00003" nb-file="US20230225628A1-20230720-M00003.NB">
+<img id="EMI-M00003" he="7.45mm" wi="27.18mm" file="US20230225628A1-20230720-M00003.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00004" nb-file="US20230225628A1-20230720-M00004.NB">
+<img id="EMI-M00004" he="6.94mm" wi="46.57mm" file="US20230225628A1-20230720-M00004.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00005" nb-file="US20230225628A1-20230720-M00005.NB">
+<img id="EMI-M00005" he="3.05mm" wi="6.52mm" file="US20230225628A1-20230720-M00005.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00006" nb-file="US20230225628A1-20230720-M00006.NB">
+<img id="EMI-M00006" he="3.22mm" wi="6.52mm" file="US20230225628A1-20230720-M00006.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00007" nb-file="US20230225628A1-20230720-M00007.NB">
+<img id="EMI-M00007" he="3.05mm" wi="6.52mm" file="US20230225628A1-20230720-M00007.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00008" nb-file="US20230225628A1-20230720-M00008.NB">
+<img id="EMI-M00008" he="3.22mm" wi="6.52mm" file="US20230225628A1-20230720-M00008.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00009" nb-file="US20230225628A1-20230720-M00009.NB">
+<img id="EMI-M00009" he="3.05mm" wi="6.52mm" file="US20230225628A1-20230720-M00009.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00010" nb-file="US20230225628A1-20230720-M00010.NB">
+<img id="EMI-M00010" he="3.22mm" wi="7.11mm" file="US20230225628A1-20230720-M00010.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00011" nb-file="US20230225628A1-20230720-M00011.NB">
+<img id="EMI-M00011" he="3.56mm" wi="6.60mm" file="US20230225628A1-20230720-M00011.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00012" nb-file="US20230225628A1-20230720-M00012.NB">
+<img id="EMI-M00012" he="8.13mm" wi="62.91mm" file="US20230225628A1-20230720-M00012.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00013" nb-file="US20230225628A1-20230720-M00013.NB">
+<img id="EMI-M00013" he="3.56mm" wi="7.11mm" file="US20230225628A1-20230720-M00013.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00014" nb-file="US20230225628A1-20230720-M00014.NB">
+<img id="EMI-M00014" he="3.56mm" wi="6.60mm" file="US20230225628A1-20230720-M00014.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00015" nb-file="US20230225628A1-20230720-M00015.NB">
+<img id="EMI-M00015" he="3.30mm" wi="6.35mm" file="US20230225628A1-20230720-M00015.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00016" nb-file="US20230225628A1-20230720-M00016.NB">
+<img id="EMI-M00016" he="3.30mm" wi="7.20mm" file="US20230225628A1-20230720-M00016.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00017" nb-file="US20230225628A1-20230720-M00017.NB">
+<img id="EMI-M00017" he="8.30mm" wi="41.40mm" file="US20230225628A1-20230720-M00017.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00018" nb-file="US20230225628A1-20230720-M00018.NB">
+<img id="EMI-M00018" he="6.43mm" wi="56.22mm" file="US20230225628A1-20230720-M00018.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00019" nb-file="US20230225628A1-20230720-M00019.NB">
+<img id="EMI-M00019" he="3.89mm" wi="42.08mm" file="US20230225628A1-20230720-M00019.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00020" nb-file="US20230225628A1-20230720-M00020.NB">
+<img id="EMI-M00020" he="6.94mm" wi="46.74mm" file="US20230225628A1-20230720-M00020.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00021" nb-file="US20230225628A1-20230720-M00021.NB">
+<img id="EMI-M00021" he="8.30mm" wi="37.85mm" file="US20230225628A1-20230720-M00021.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00022" nb-file="US20230225628A1-20230720-M00022.NB">
+<img id="EMI-M00022" he="6.43mm" wi="55.96mm" file="US20230225628A1-20230720-M00022.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00023" nb-file="US20230225628A1-20230720-M00023.NB">
+<img id="EMI-M00023" he="17.10mm" wi="62.91mm" file="US20230225628A1-20230720-M00023.TIF" alt="embedded image" img-content="math" img-format="tif"/>
+</us-math>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method for performing magnetic resonance (MR) imaging on a subject, the method comprising:
+<claim-text>injecting a contrast agent into a region of interest of the subject;</claim-text>
+<claim-text>applying a pulse sequence to the region of interest of the subject;</claim-text>
+<claim-text>collecting auxiliary data for the region of interest of the subject, the auxiliary data being related to one or more time-varying parameters of the subject within the region of interest;</claim-text>
+<claim-text>determining a temporal factor &#x3a6; from the auxiliary data;</claim-text>
+<claim-text>collecting imaging data for the region of interest of the subject, the imaging data being related to one or more spatially-varying parameters of the subject within the region of interest;</claim-text>
+<claim-text>determining a spatial factor U<sub>r</sub> from the imaging data;</claim-text>
+<claim-text>modeling a multi-dimensional image sequence as I = U<sub>r</sub>&#x3a6;; and</claim-text>
+<claim-text>deriving at least a first metric and a second metric from the multi-dimensional image sequence I, the first metric and the second metric being associated with distinct perfusion-based imaging techniques.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the spatial factor U<sub>r</sub> is determined by fitting the temporal factor &#x3a6; to the collected imaging data.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the temporal factor &#x3a6; is fitted to the collected imaging data according to:</claim-text>
+<claim-text>
+<maths id="MATH-US-00019" num="00019">
+<math id="MATH_19" overflow="scroll">
+<mrow>
+<msub>
+<mrow>
+<mover accent="true">
+<mi>U</mi>
+<mo stretchy="true">^</mo>
+</mover>
+</mrow>
+<mi>r</mi>
+</msub>
+<mo>=</mo>
+<mi>arg</mi>
+<mi>m</mi>
+<mi>i</mi>
+<msub>
+<mi>n</mi>
+<mrow>
+<msub>
+<mi>U</mi>
+<mi>r</mi>
+</msub>
+</mrow>
+</msub>
+<msubsup>
+<mrow>
+<mfenced close="&#x2016;" open="&#x2016;">
+<mrow>
+<mi>d</mi>
+<mo>&#x2212;</mo>
+<mi>&#x3a9;</mi>
+<mfenced close="]" open="[">
+<mrow>
+<mi>E</mi>
+<msub>
+<mi>U</mi>
+<mi>r</mi>
+</msub>
+<mi>&#x3a6;</mi>
+</mrow>
+</mfenced>
+</mrow>
+</mfenced>
+</mrow>
+<mn>2</mn>
+<mn>2</mn>
+</msubsup>
+<mo>+</mo>
+<mi>&#x3bb;</mi>
+<mi>R</mi>
+<mfenced>
+<mrow>
+<msub>
+<mi>U</mi>
+<mi>r</mi>
+</msub>
+</mrow>
+</mfenced>
+<mo>,</mo>
+</mrow>
+</math>
+</maths>
+</claim-text>
+<claim-text> wherein &#x3a9; is an undersampling pattern, E is a signal model, R(&#x25aa;) is a regularization function, and &#x3bb; is a regularization parameter of the regularization function R(&#x25aa;).</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first metric is associated with dynamic contrast enhanced imaging.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the first metric is a fractional plasma volume v<sub>p</sub> of the region of interest, a fractional extravascular-extracellular volume v<sub>e</sub> of the region of interest, a transfer constant K<sup>trans</sup> of the region of interest, or any combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the fractional plasma volume v<sub>p</sub> of the region of interest, the fractional extravascular-extracellular volume v<sub>e</sub> of the region of interest, and the transfer constant K<sup>trans</sup> of the region of interest are derived according to:</claim-text>
+<claim-text>
+<maths id="MATH-US-00020" num="00020">
+<math id="MATH_20" overflow="scroll">
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>t</mi>
+<mrow>
+<mi>R</mi>
+<mn>1</mn>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mo>=</mo>
+<msub>
+<mi>v</mi>
+<mi>p</mi>
+</msub>
+<msubsup>
+<mi>C</mi>
+<mi>p</mi>
+<mrow>
+<mi>R</mi>
+<mn>1</mn>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mtext>&#x2004;</mtext>
+<mo>+</mo>
+<mtext>&#x2004;</mtext>
+<msup>
+<mi>K</mi>
+<mrow>
+<mi>t</mi>
+<mi>r</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>s</mi>
+</mrow>
+</msup>
+<mstyle displaystyle="true">
+<mrow>
+<msubsup>
+<mo>&#x222b;</mo>
+<mn>0</mn>
+<mi>t</mi>
+</msubsup>
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>p</mi>
+<mrow>
+<mi>R</mi>
+<mn>1</mn>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>&#x3c4;</mi>
+</mfenced>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>&#x2212;</mo>
+<mfenced>
+<mrow>
+<mfrac>
+<mrow>
+<msup>
+<mi>K</mi>
+<mrow>
+<mi>t</mi>
+<mi>r</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>s</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<msub>
+<mi>v</mi>
+<mi>e</mi>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mfenced>
+</mrow>
+</msup>
+<mi>d</mi>
+<mi>&#x3c4;</mi>
+<mo>.</mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+</math>
+</maths>
+</claim-text>
+<claim-text> wherein <img id="CUSTOM-CHARACTER-00001" he="7.62mm" wi="12.70mm" file="US20230225628A1-20230720-P00001.TIF" alt="custom-character" img-content="character" img-format="tif"/>is a T1-based concentration of the contrast agent in tissue in the region of interest and <img id="CUSTOM-CHARACTER-00002" he="6.43mm" wi="12.02mm" file="US20230225628A1-20230720-P00002.TIF" alt="custom-character" img-content="character" img-format="tif"/>is the T1-based concentration of the contrast agent in plasma in the region if interest.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the T1-based concentration of the contrast agent in tissue and the T1-based concentration of the contrast agent in plasma are derived from dynamic T1 and T2* maps generated from the multi-dimensional image sequence I.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first metric is associated with dynamic susceptibility contrast imaging.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The method of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the first metric is a cerebral blood volume (CBV) measurement.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the cerebral blood volume measurement is derived according to:</claim-text>
+<claim-text>
+<maths id="MATH-US-00021" num="00021">
+<math id="MATH_21" overflow="scroll">
+<mrow>
+<mi>C</mi>
+<mi>B</mi>
+<mi>V</mi>
+<mo>=</mo>
+<mfrac>
+<mrow>
+<mn>100</mn>
+</mrow>
+<mi>&#x3c1;</mi>
+</mfrac>
+<mo>&#x22c5;</mo>
+<mfrac>
+<mrow>
+<mfenced>
+<mrow>
+<mn>1</mn>
+<mo>&#x2212;</mo>
+<msub>
+<mi>H</mi>
+<mrow>
+<mi>S</mi>
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</mfenced>
+</mrow>
+<mrow>
+<mfenced>
+<mrow>
+<mn>1</mn>
+<mo>&#x2212;</mo>
+<msub>
+<mi>H</mi>
+<mrow>
+<mi>L</mi>
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</mfenced>
+</mrow>
+</mfrac>
+<mo>&#x22c5;</mo>
+<mfrac>
+<mrow>
+<mstyle displaystyle="true">
+<mrow>
+<mo>&#x222b;</mo>
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>t</mi>
+<mrow>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mstyle displaystyle="true">
+<mrow>
+<mo>&#x222b;</mo>
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>a</mi>
+<mrow>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+<mo>,</mo>
+</mrow>
+</math>
+</maths>
+</claim-text>
+<claim-text> wherein <img id="CUSTOM-CHARACTER-00003" he="7.87mm" wi="12.45mm" file="US20230225628A1-20230720-P00003.TIF" alt="custom-character" img-content="character" img-format="tif"/>is a T2*-based concentration of the contrast agent in a feeding artery in the region of interest, <img id="CUSTOM-CHARACTER-00004" he="7.37mm" wi="12.87mm" file="US20230225628A1-20230720-P00004.TIF" alt="custom-character" img-content="character" img-format="tif"/>is a T2*-based concentration of the contrast agent in tissue of the region of interest, p is a density of a brain of the subject, H<sub>SV</sub> is a correction to a volume hematocrit level in small blood vessels of the subject, and H<sub>LV</sub> is a correction to a volume hematocrit level in large blood vessels of the subject.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the cerebral blood volume measured is derived from dynamic T1 and T2* maps generated from the multi-dimensional image sequence I.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the first metric or the second metric are a cerebral blood flow (CBF) measurement.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the cerebral blood flow measurement is derived according to:</claim-text>
+<claim-text>
+<maths id="MATH-US-00022" num="00022">
+<math id="MATH_22" overflow="scroll">
+<mrow>
+<mi>C</mi>
+<mi>B</mi>
+<mi>F</mi>
+<mo>=</mo>
+<mn>60</mn>
+<mo>&#x22c5;</mo>
+<mfrac>
+<mrow>
+<mn>100</mn>
+</mrow>
+<mi>&#x3c1;</mi>
+</mfrac>
+<mo>&#x22c5;</mo>
+<mfrac>
+<mrow>
+<mfenced>
+<mrow>
+<mn>1</mn>
+<mo>&#x2212;</mo>
+<msub>
+<mi>H</mi>
+<mrow>
+<mi>S</mi>
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</mfenced>
+</mrow>
+<mrow>
+<mfenced>
+<mrow>
+<mn>1</mn>
+<mo>&#x2212;</mo>
+<msub>
+<mi>H</mi>
+<mrow>
+<mi>L</mi>
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</mfenced>
+</mrow>
+</mfrac>
+<mo>&#x22c5;</mo>
+<mfenced close="]" open="[">
+<mrow>
+<mi>m</mi>
+<mi>a</mi>
+<mi>x</mi>
+<mfenced>
+<mrow>
+<msubsup>
+<mi>C</mi>
+<mi>t</mi>
+<mrow>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+</mrow>
+</msubsup>
+<mtext>&#x200b;</mtext>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<msup>
+<mo>&#x2297;</mo>
+<mrow>
+<mo>&#x2212;</mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<msubsup>
+<mi>C</mi>
+<mi>a</mi>
+<mrow>
+<mi>R</mi>
+<mn>2</mn>
+<mo>*</mo>
+</mrow>
+</msubsup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfenced>
+</mrow>
+</mfenced>
+<mo>,</mo>
+</mrow>
+</math>
+</maths>
+</claim-text>
+<claim-text> wherein <img id="CUSTOM-CHARACTER-00005" he="7.20mm" wi="12.45mm" file="US20230225628A1-20230720-P00005.TIF" alt="custom-character" img-content="character" img-format="tif"/>is a T2*-based concentration of the contrast agent in a feeding artery of the region of interest, <img id="CUSTOM-CHARACTER-00006" he="8.21mm" wi="12.53mm" file="US20230225628A1-20230720-P00006.TIF" alt="custom-character" img-content="character" img-format="tif"/>is a T2*-based concentration of the contrast agent in tissue of the region of interest, &#x2297;<sup>-1</sup> is a deconvolution operation, p is a density of a brain of the subject, H<sub>SV</sub> is a correction to a volume hematocrit level in small blood vessels of the subject, and H<sub>LV</sub> is a correction to a volume hematocrit level in large blood vessels of the subject.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the cerebral blood flow measurement is derived from dynamic T1 and T2* maps generated from the multi-dimensional image sequence I.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first metric is associated with susceptibility weighted (SW) imaging.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the first metric is one or more SW images.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the pulse sequence includes one or more of sets of readout lines, each set of readout lines include two or more readout lines, and wherein the method further comprises:
+<claim-text>generating an image from a final readout line of each set of readout lines; and</claim-text>
+<claim-text>multiplying a magnitude of the generated images by a corresponding phase mask to generate the one or more SW images.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the auxiliary data and the imaging data are collected using a pulse sequence have a plurality of repetition periods, each repetition period including (i) a non-selective saturation recovery preparation pulse to generate T1 recovery along a magnetization z-axis, and (ii) a readout series.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The method of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein at least one of the one or more readout series includes an excitation pulse and a plurality of readouts, the plurality of readouts following a T2* decay.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising fitting the multi-dimensional image sequence to a signal equation to generate T1 and T2* maps.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the signal equation is given by:.</claim-text>
+<claim-text>
+<maths id="MATH-US-00023" num="00023">
+<math id="MATH_23" overflow="scroll">
+<mtable>
+<mtr>
+<mtd>
+<mi>S</mi>
+<mfenced>
+<mrow>
+<mi>A</mi>
+<mo>,</mo>
+<mtext>&#x2004;</mtext>
+<mi>&#x3b1;</mi>
+<mo>,</mo>
+<mtext>&#x2004;</mtext>
+<mi>B</mi>
+<mo>,</mo>
+<mtext>&#x2004;</mtext>
+<mi>n</mi>
+<mo>,</mo>
+<mtext>&#x2004;</mtext>
+<mi>T</mi>
+<mi>E</mi>
+<mo>,</mo>
+<mtext>&#x2004;</mtext>
+<mi>T</mi>
+<mn>1</mn>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+<mo>,</mo>
+<mtext>&#x2004;</mtext>
+<mi>T</mi>
+<msup>
+<mn>2</mn>
+<mo>&#x2217;</mo>
+</msup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfenced>
+<mo>=</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>A</mi>
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>&#x2212;</mo>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>&#x2212;</mo>
+<mfrac>
+<mrow>
+<mi>T</mi>
+<mi>R</mi>
+</mrow>
+<mrow>
+<mi>T</mi>
+<mn>1</mn>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>&#x2212;</mo>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>&#x2212;</mo>
+<mfrac>
+<mrow>
+<mi>T</mi>
+<mi>R</mi>
+</mrow>
+<mrow>
+<mi>T</mi>
+<mn>1</mn>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+<mi>cos</mi>
+<mfenced>
+<mi>&#x3b1;</mi>
+</mfenced>
+</mrow>
+</mfrac>
+<mfenced close="]" open="[">
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mfenced>
+<mrow>
+<mi>B</mi>
+<mo>&#x2212;</mo>
+<mn>1</mn>
+</mrow>
+</mfenced>
+<mfenced>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>&#x2212;</mo>
+<mfrac>
+<mrow>
+<mi>T</mi>
+<mi>R</mi>
+</mrow>
+<mrow>
+<mi>T</mi>
+<mn>1</mn>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+<mi>cos</mi>
+<msup>
+<mrow>
+<mfenced>
+<mi>&#x3b1;</mi>
+</mfenced>
+</mrow>
+<mtext>n</mtext>
+</msup>
+</mrow>
+</mfenced>
+</mrow>
+</mfenced>
+<msup>
+<mi>e</mi>
+<mrow>
+<mo>&#x2212;</mo>
+<mfrac>
+<mrow>
+<mi>T</mi>
+<mi>E</mi>
+</mrow>
+<mrow>
+<mi>T</mi>
+<msup>
+<mn>2</mn>
+<mo>&#x2217;</mo>
+</msup>
+<mfenced>
+<mi>t</mi>
+</mfenced>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+<mi>sin</mi>
+<mfenced>
+<mi>&#x3b1;</mi>
+</mfenced>
+<mo>.</mo>
+</mtd>
+</mtr>
+</mtable>
+</math>
+</maths>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, further comprising generating a dynamic T1 curve based at least in part on the T1 map, and a dynamic T2* curve based at least in part on the T2* map.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The method of <claim-ref idref="CLM-00022">claim 22</claim-ref>, further comprising generating an R1-based concentration of the contrast agent based at least in part on the dynamic T1 curve.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The method of <claim-ref idref="CLM-00023">claim 23</claim-ref>, further comprising generating, based at least in part on the T1-based concentration of the contrast agent, (i) a fractional plasma volume v<sub>p</sub> of the region of interest, (ii) a fractional extravascular-extracellular volume v<sub>e</sub> of the region of interest, (iii) a transfer constant K<sup>trans</sup> of the region of interest, or (iv) any combination of (i)-(iii).</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The method of <claim-ref idref="CLM-00023">claim 23</claim-ref>, further comprising generating an R2*-based concentration of the contrast agent based at least in part on the dynamic T2* curve.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The method of <claim-ref idref="CLM-00025">claim 25</claim-ref>, further comprising generating, based at least in part on the R2*-based concentration of the contrast agent, (i) a leakage-corrected cerebral blood volume measurement, (ii) a leakage-corrected cerebral blood flow measurement, or (iii) both (i) and (ii).</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. A system for performing magnetic resonance (MR) imaging on a subject, comprising:
+<claim-text>a magnet operable to provide a magnetic field;</claim-text>
+<claim-text>a transmitter operable to transmit to a region within the magnetic field;</claim-text>
+<claim-text>a receiver operable to receive a magnetic resonance signal from the region with the magnetic field; and</claim-text>
+<claim-text>one or more processors operable to control the transmitter and the receiver, the one or more processors being configured to cause the following method to be performed:
+<claim-text>injecting a contrast agent into a region of interest of the subject;</claim-text>
+<claim-text>applying a pulse sequence to the region of interest of the subject;</claim-text>
+<claim-text>collecting auxiliary data for the region of interest of the subject, the auxiliary data being related to one or more time-varying parameters of the subject within the region of interest;</claim-text>
+<claim-text>determining a temporal factor &#x3a6; from the auxiliary data;</claim-text>
+<claim-text>collecting imaging data for the region of interest of the subject, the imaging data being related to one or more spatially-varying parameters of the subject within the region of interest;</claim-text>
+<claim-text>determining a spatial factor U<sub>r</sub> from the imaging data;</claim-text>
+<claim-text>modeling a multi-dimensional image sequence as I = U<sub>r</sub>&#x3a6;; and</claim-text>
+<claim-text>deriving at least a first metric and a second metric from the multi-dimensional image sequence I, the first metric and the second metric being associated with distinct perfusion-based imaging techniques.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. A non-transitory machine-readable medium having stored thereon instructions for performing magnetic resonance (MR) imaging on a subject, which when executed by at least one processor, cause the following method to be performed:
+<claim-text>injecting a contrast agent into a region of interest of the subject;</claim-text>
+<claim-text>applying a pulse sequence to the region of interest of the subject;</claim-text>
+<claim-text>collecting auxiliary data for the region of interest of the subject, the auxiliary data being related to one or more time-varying parameters of the subject within the region of interest;</claim-text>
+<claim-text>determining a temporal factor &#x3a6; from the auxiliary data;</claim-text>
+<claim-text>collecting imaging data for the region of interest of the subject, the imaging data being related to one or more spatially-varying parameters of the subject within the region of interest;</claim-text>
+<claim-text>determining a spatial factor U<sub>r</sub> from the imaging data;</claim-text>
+<claim-text>modeling a multi-dimensional image sequence as I = U<sub>r</sub>&#x3a6;; and</claim-text>
+<claim-text>deriving at least a first metric and a second metric from the multi-dimensional image sequence I, the first metric and the second metric being associated with distinct perfusion-based imaging techniques.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. (canceled)</claim-text>
+</claim>
+</claims>
+</us-patent-application>

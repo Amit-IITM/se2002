@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225487A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230622" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225487</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18158103</doc-number>
+<date>20230123</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>45</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>18</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>J</subclass>
+<main-group>9</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>J</subclass>
+<main-group>9</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>23</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>45</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>N</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>45</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>18</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>J</subclass>
+<main-group>9</main-group>
+<subgroup>001</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>J</subclass>
+<main-group>9</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>23</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>45</class>
+<subclass>F</subclass>
+<main-group>2003</main-group>
+<subgroup>001</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="jzibhzhs9h125">ANTI-SLOSHING LIQUID-RETAINING BOTTLES</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>17120912</doc-number>
+<date>20201214</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11571059</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18158103</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16379249</doc-number>
+<date>20190409</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>10863840</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17120912</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62655161</doc-number>
+<date>20180409</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only">
+<addressbook>
+<orgname>Innovative Drive Corporation</orgname>
+<address>
+<city>Reno</city>
+<state>NV</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Newell</last-name>
+<first-name>Matthew Byrnes</first-name>
+<address>
+<city>Reno</city>
+<state>NV</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Clauson</last-name>
+<first-name>Luke</first-name>
+<address>
+<city>Reno</city>
+<state>NV</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>LaBelle</last-name>
+<first-name>Curt</first-name>
+<address>
+<city>Harrison</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Raye</last-name>
+<first-name>Michael</first-name>
+<address>
+<city>Reno</city>
+<state>NV</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Described herein are inserts for reducing sloshing in a bottle. The insert may be integrally formed in an outer shell of the bottle or removably insertable into the outer shell. The insert may include an elongate body extending between a first end opposite a second end; and an aperture defined by the elongate body and extending longitudinally through the elongate body between the first and second ends. The elongate body has an uncompressed state when removed from an outer shell and a compressed state when positioned in the outer shell. A diameter of the elongate body in the compressed state is less than or equal to a smallest diameter of the liquid retention compartment. The insert has a durometer between about 40 A and about 70 A. A volume of the insert is less than about 10% of a volume defined by the outer shell. The insert includes a compressible mesh material.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="192.79mm" wi="121.67mm" file="US20230225487A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="212.09mm" wi="101.26mm" file="US20230225487A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="208.70mm" wi="109.98mm" file="US20230225487A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="231.73mm" wi="94.32mm" file="US20230225487A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="222.08mm" wi="106.00mm" file="US20230225487A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="222.08mm" wi="98.98mm" file="US20230225487A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="222.08mm" wi="101.18mm" file="US20230225487A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="220.64mm" wi="94.57mm" file="US20230225487A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="161.63mm" wi="124.12mm" file="US20230225487A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="163.91mm" wi="128.27mm" file="US20230225487A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="165.61mm" wi="111.08mm" file="US20230225487A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="165.61mm" wi="119.63mm" file="US20230225487A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="215.39mm" wi="99.40mm" file="US20230225487A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="215.31mm" wi="91.61mm" file="US20230225487A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="197.87mm" wi="76.96mm" file="US20230225487A1-20230720-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="193.12mm" wi="86.02mm" file="US20230225487A1-20230720-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="215.14mm" wi="103.21mm" file="US20230225487A1-20230720-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="219.29mm" wi="125.90mm" file="US20230225487A1-20230720-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="220.64mm" wi="128.86mm" file="US20230225487A1-20230720-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="221.74mm" wi="109.73mm" file="US20230225487A1-20230720-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="219.63mm" wi="96.35mm" file="US20230225487A1-20230720-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="203.12mm" wi="104.90mm" file="US20230225487A1-20230720-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="197.19mm" wi="96.27mm" file="US20230225487A1-20230720-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="232.41mm" wi="92.96mm" file="US20230225487A1-20230720-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="218.27mm" wi="112.95mm" file="US20230225487A1-20230720-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="173.31mm" wi="93.47mm" file="US20230225487A1-20230720-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="202.61mm" wi="112.18mm" file="US20230225487A1-20230720-D00026.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00027" num="00027">
+<img id="EMI-D00027" he="219.37mm" wi="94.06mm" file="US20230225487A1-20230720-D00027.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00028" num="00028">
+<img id="EMI-D00028" he="150.45mm" wi="87.55mm" file="US20230225487A1-20230720-D00028.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00029" num="00029">
+<img id="EMI-D00029" he="170.60mm" wi="130.13mm" file="US20230225487A1-20230720-D00029.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading level="1" id="h-0001">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation-in-part of U.S. Pat. Application Ser. No. 16/379,249, filed Apr. 9, 2019 and published as US20190307272A1 on Oct. 10, 2019; which claims the benefit of U.S. Provisional Pat. Application Ser. No. 62/655,161 filed Apr. 9, 2018, the contents of each of which are herein incorporated by reference in their entireties.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading level="1" id="h-0002">INCORPORATION BY REFERENCE</heading>
+<p id="p-0003" num="0002">All publications and patent applications mentioned in this specification are herein incorporated by reference in their entirety, as if each individual publication or patent application was specifically and individually indicated to be incorporated by reference in its entirety.</p>
+<heading level="1" id="h-0003">TECHNICAL FIELD</heading>
+<p id="p-0004" num="0003">This disclosure relates generally to the field of liquid transport and anti-slosh devices, and more specifically to the field of anti-sloshing water bottles configured for use with athletic equipment or for tethering to a user. Described herein are anti-sloshing liquid-retaining bottles.</p>
+<heading level="1" id="h-0004">BACKGROUND</heading>
+<p id="p-0005" num="0004">Elite-level athletes are constantly searching for ways to remove inefficiencies from their equipment, often by using the lightest components possible. One often overlooked inefficiency is the liquid and air mixture sloshing inside an athlete&#x2019;s water bottle. Because the water bottles are often mounted onto the user or their equipment, the sloshing caused by any activity or movement can have noticeable effects on the user and the handling of the equipment.</p>
+<p id="p-0006" num="0005">For example, cyclists&#x2019; carry water bottles on their bicycle frames. The sloshing caused by pedaling, road forces, and turning can have a noticeable effect on the handling, and therefore the overall efficiency and performance, of the bicycle.</p>
+<p id="p-0007" num="0006">Further, for example, runners&#x2019; carry water bottles on their body (e.g., their back, hips, in their hands, etc.). The sloshing caused by their legs and arms pumping and the pounding of the pavement can have a noticeable effect on the runner&#x2019;s efficiency and overall time.</p>
+<p id="p-0008" num="0007">Thus, there exists a need for new and useful anti-sloshing liquid bottles. Such new and useful anti-sloshing bottles are herein described.</p>
+<heading level="1" id="h-0005">SUMMARY</heading>
+<p id="p-0009" num="0008">One aspect of the present disclosure is directed to an anti-sloshing bottle. In some embodiments, the anti-sloshing bottle may include an outer shell defining a liquid retention compartment configured for storing liquid; and a removable insert positionable in the liquid retention compartment of the outer shell. In some embodiments, the removable insert comprises an elongate body defining an aperture that longitudinally extends through the elongate body between a first end and a second end of the elongate body. In some embodiments, the removable insert has an uncompressed state when removed from the outer shell and a compressed state when positioned in the outer shell. In some embodiments, a diameter of the removable insert in the compressed state is less than or equal to a smallest diameter of the liquid retention compartment of the outer shell. In some embodiments, the removable insert has a durometer between about 40 A and about 70 A. In some embodiments, a volume of the removable insert is less than about 10% of a volume defined by the liquid retention compartment of the outer shell. In some embodiments, the removable insert comprises a compressible mesh material.</p>
+<p id="p-0010" num="0009">In some embodiments, the volume of the removable insert is less than about 1% of the volume defined by the outer shell.</p>
+<p id="p-0011" num="0010">In some embodiments, the compressible mesh material is selected from the group consisting of: a stainless steel mesh, an elastomeric waffle, an open cell foam, a polyurethane mesh, a silicone mesh, a thermoelastic mesh, or a combination thereof.</p>
+<p id="p-0012" num="0011">In some embodiments, the diameter of the removable insert in the compressed state is about 0.25 inches to about 1 inch.</p>
+<p id="p-0013" num="0012">In some embodiments, the elongate body defines a plurality of apertures that longitudinally extend through the elongate body between the first end and the second end.</p>
+<p id="p-0014" num="0013">In some embodiments, the anti-sloshing bottle further includes a mouthpiece movable between an open configuration and a closed configuration, such that in the open configuration, the mouthpiece is configured to expel the liquid.</p>
+<p id="p-0015" num="0014">In some embodiments, the removable insert prevents wave propagation through the liquid.</p>
+<p id="p-0016" num="0015">In some embodiments, the removable insert comprises or is formed of an antimicrobial material.</p>
+<p id="p-0017" num="0016">In some embodiments, a hub extends longitudinally through the aperture between the first and second ends of the elongate body. In some embodiments, one or more spokes extend from the hub to an internal surface of the elongate body to tether the hub to the elongate body. In some embodiments, there is an odd number of spokes or an even number of spokes.</p>
+<p id="p-0018" num="0017">Another aspect of the present disclosure is directed to a removable insert for reducing sloshing in a bottle. The insert includes an elongate body extending between a first end opposite a second end; and an aperture defined by the elongate body and extending longitudinally through the elongate body between the first and second ends. In some embodiments, the elongate body has an uncompressed state when removed from an outer shell and a compressed state when positioned in the outer shell. In some embodiments, a diameter of the elongate body in the compressed state is less than or equal to a smallest diameter of the liquid retention compartment of the outer shell. In some embodiments, the removable insert has a durometer between about 40 A and about 70 A. In some embodiments,a volume of the removable insert is less than about 10% of a volume defined by the outer shell. In some embodiments, the removable insert includes or is formed of a compressible mesh material. In some embodiments, the insert further includes the outer shell defining the liquid retention compartment configured for storing liquid.</p>
+<p id="p-0019" num="0018">In some embodiments, the volume of the removable insert is less than about 1% of the volume defined by the outer shell.</p>
+<p id="p-0020" num="0019">In some embodiments, the compressible mesh material is selected from the group consisting of: a stainless steel mesh, an elastomeric waffle, an open cell foam, a closed cell foam, a polyurethane mesh, a silicone mesh, a thermoelastic mesh, or a combination thereof.</p>
+<p id="p-0021" num="0020">In some embodiments, the diameter of the removable insert in the compressed state is about 0.25 inches to about 1 inch.</p>
+<p id="p-0022" num="0021">In some embodiments, the elongate body defines a plurality of apertures that longitudinally extend through the elongate body between the first end and the second end.</p>
+<p id="p-0023" num="0022">In some embodiments, the removable insert prevents wave propagation through the liquid.</p>
+<p id="p-0024" num="0023">In some embodiments, a hub extends longitudinally through the aperture between the first and second ends of the elongate body, and wherein one or more spokes extend from the hub to an internal surface of the elongate body to tether the hub to the elongate body.</p>
+<p id="p-0025" num="0024">Another aspect of the present disclosure is directed to an anti-sloshing bottle, including an outer shell defining a liquid retention compartment configured for storing liquid; and an insert comprising an elongate body defining an aperture that longitudinally extends through the elongate body between a first end and a second end of the elongate body. In some embodiments, an outer surface of the insert is irreversibly attached to an inner sidewall of the outer shell. In some embodiments, the insert has a durometer between about 40 A and about 70 A. In some embodiments, a volume of the insert is less than about 10% of a volume defined by the outer shell. In some embodiments, the insert comprises a mesh material.</p>
+<p id="p-0026" num="0025">Another aspect of the present disclosure is directed to an anti-sloshing bottle. In some embodiments, the bottle comprises: an outer shell defining a liquid retention compartment configured for storing non-carbonated liquid; a high-pressure reservoir defining an air retention compartment configured to maintain a pressure of less than or equal to 100 psi; a bladder fluidically coupled to a reduced pressure compartment, wherein the bladder is disposed within the outer shell, such that the bladder is configured to expand and contract within the outer shell in response to changes in pressure generated by the reduced pressure compartment; a purge button configured to close and open a release valve configured to vent the bladder to an atmosphere external to the outer shell; a pressure regulator assembly comprising a regulator housed between the reduced pressure compartment and an air retention compartment; and a mouthpiece configured to expel the non-carbonated liquid using pressure generated by the force of the bladder against the non-carbonated liquid stored in the liquid retention compartment formed by surfaces comprising the outer shell and the bladder.</p>
+<p id="p-0027" num="0026">In some embodiments, the regulator is configured to maintain a pressure differential between the reduced pressure compartment and the air retention compartment such that the pressure differential in the reduced pressure compartments is less than the pressure in the air retention compartment.</p>
+<p id="p-0028" num="0027">In some embodiments, the pressure in the air retention compartment is sufficient to expand or contract the bladder against the stored non-carbonated liquid.</p>
+<p id="p-0029" num="0028">In some embodiments, the air retention compartment is configured to maintain an initial pressure range of 40-100 psi.</p>
+<p id="p-0030" num="0029">In some embodiments, the air retention compartment is configured to maintain a pressure range of 10 psi to 80 psi after one fill cycle.</p>
+<p id="p-0031" num="0030">In some embodiments, the air retention compartment is configured to maintain a pressure range of 10 psi to 60 psi after two or more fill cycles.</p>
+<p id="p-0032" num="0031">In some embodiments, the outer shell is irreversibly coupled to the air retention compartment such that the irreversible coupling includes a seal configured to generate an air tight space between the outer shell and air retention compartment.</p>
+<p id="p-0033" num="0032">In some embodiments, the outer shell is reversibly coupled to the air retention compartment, such that the reversible coupling includes a seal configured to generate an air tight space between the outer shell and the air retention compartment.</p>
+<p id="p-0034" num="0033">In some embodiments, the bottle further includes a fill or Schrader or Presta valve configured to pressurize the air retention compartment, such that the air retention compartment is pressurized with air from the atmosphere external to the anti-sloshing water bottle.</p>
+<p id="p-0035" num="0034">In some embodiments, the air from the atmosphere is added to the air retention compartment via a manual method (e.g., bike pump); In other embodiments, the air from the atmosphere is added to the air retention compartment via an automatic method (e.g., automatic intake valve, suction through a valve, etc.).</p>
+<p id="p-0036" num="0035">In some embodiments, the air retention compartment is pressurized to a pressure range of 30-60 psi.</p>
+<p id="p-0037" num="0036">In some embodiments, the reduced pressure compartment is configured to retain a pressure of less than or equal to 40% of the pressure of the air retention compartment.</p>
+<p id="p-0038" num="0037">In some embodiments, the pressure of the air in the reduced pressure compartment is reduced by a factor of 1-30 by the regulator disposed between the reduced pressure compartment and the air retention compartment.</p>
+<p id="p-0039" num="0038">In some embodiments, the liquid retention compartment is configured for storing less than or equal to 24 ounces of non-carbonated liquid.</p>
+<p id="p-0040" num="0039">In some embodiments, the bladder is configured for storing less than or equal to 710 cubic centimeters (cm<sup>3</sup>) of air. In some embodiments, the bladder is configured to store 100-200 cm<sup>3</sup>; 200-300 cm<sup>3</sup>; 300-400 cm<sup>3</sup>; 400-500 cm<sup>3</sup>; 500-600 cm<sup>3</sup>; 600-700 cm<sup>3</sup>; 700-800 cm<sup>3</sup>; 700-710 cm<sup>3</sup>; 705-715 cm<sup>3</sup>; etc.</p>
+<p id="p-0041" num="0040">In some embodiments, the mouthpiece further includes a bite valve configured to utilize pressure supplied from the bladder to expel liquid from the liquid retention compartment at a constant rate, such that a rate of liquid expulsion is determined by the regulator of the pressure regulator assembly.</p>
+<p id="p-0042" num="0041">In some embodiments, a volume of air in the reduced pressure compartment is configured to expand in volume with the expansion of the bladder such that the bladder volumetrically displaces liquid as the liquid is expelled through the mouthpiece.</p>
+<p id="p-0043" num="0042">In some embodiments, the regulator of the air retention compartment is configured to expand the reduced pressure compartment comprising a volume of the bladder such that the bladder compresses the liquid retained in the liquid retention compartment to a pressure range of 1-5 psi.</p>
+<p id="p-0044" num="0043">In some embodiments, the bladder is configured to deflate and release air into the atmosphere through a purge or release valve.</p>
+<p id="p-0045" num="0044">In some embodiments, the regulator is a diaphragm regulator configured to keep the bladder at a constant pressure.</p>
+<p id="p-0046" num="0045">In some embodiments, the bottle further includes a depressible purge button configured to open and close a purge or release valve.</p>
+<p id="p-0047" num="0046">In some embodiments, the bottle further includes a depressible button configured to open and close a regulator housed within a pressure regulator assembly.</p>
+<p id="p-0048" num="0047">In some embodiments, the bottle further includes a depressible purge button configured to open the release or purge valve and close the regulator or the pressure regulator assembly or close the release valve and open the regulator of the pressure regulator assembly.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading level="1" id="h-0006">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0049" num="0048">The foregoing is a summary, and thus, necessarily limited in detail. The above-mentioned aspects, as well as other aspects, features, and advantages of the present technology are described below in connection with various embodiments, with reference made to the accompanying drawings.</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. <b>1</b></figref> illustrates one embodiment of an anti-sloshing liquid-retaining bottle.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. <b>2</b></figref> illustrates a cross-sectional view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. <b>3</b></figref> illustrates an exploded view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. <b>4</b></figref> illustrates another embodiment of an anti-sloshing liquid-retaining bottle.</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. <b>5</b></figref> illustrates a cross-sectional view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, with the bladder in an unexpanded configuration.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. <b>6</b></figref> illustrates a cross-sectional view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, with the bladder in an expanded configuration.</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. <b>7</b></figref> illustrates an exploded view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. <b>8</b></figref> illustrates a zoomed in, cross-sectional view of an embodiment of the mechanisms forming a low-pressure side of a pressure plate and a high-pressure reservoir of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. <b>9</b></figref> illustrates a zoomed in, cross-sectional view of an embodiment of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>4</b></figref> in a pressurized or active state with the purge button depressed into a purge position.</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. <b>10</b></figref> illustrates another zoomed in, cross-sectional view of an embodiment of a purge mechanism of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. <b>11</b></figref> illustrates another zoomed in, cross-sectional view of an embodiment of a purge mechanism of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. <b>12</b></figref> illustrates another embodiment of an anti-sloshing liquid-retaining bottle.</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. <b>13</b></figref> illustrates an exploded view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>12</b></figref>.</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. <b>14</b></figref> illustrates a cross-sectional view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>12</b></figref>, with the bladder in an expanded configuration.</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. <b>15</b></figref> illustrates a cross-sectional view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>12</b></figref>, with the bladder in an unexpanded configuration.</p>
+<p id="p-0065" num="0064"><figref idref="DRAWINGS">FIG. <b>16</b></figref> illustrates a perspective view of another embodiment of an anti-sloshing liquid-retaining bottle.</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIG. <b>17</b></figref> illustrates a cross-sectional view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>16</b></figref>, with the bladder in an unexpanded configuration.</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIG. <b>18</b></figref> illustrates a cross-sectional view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>16</b></figref>, with the bladder in an expanded configuration.</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. <b>19</b></figref> illustrates an exploded view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>16</b></figref>, with the leaf springs and bladder in an unexpanded configuration.</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIG. <b>20</b></figref> illustrates an exploded view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>16</b></figref>, with the leaf springs and bladder in an expanded configuration.</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. <b>21</b></figref> illustrates a cross-sectional view of another embodiment of an anti-sloshing liquid-retaining bottle.</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIG. <b>22</b></figref> illustrates an exploded view of an anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>21</b></figref>.</p>
+<p id="p-0072" num="0071"><figref idref="DRAWINGS">FIG. <b>23</b></figref> illustrates an alternative insert for the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>21</b></figref>.</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. <b>24</b></figref> illustrates a cross-sectional view of another embodiment of an anti-sloshing liquid-retaining bottle.</p>
+<p id="p-0074" num="0073"><figref idref="DRAWINGS">FIG. <b>25</b></figref> illustrates a top view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>24</b></figref>.</p>
+<p id="p-0075" num="0074"><figref idref="DRAWINGS">FIG. <b>26</b></figref> illustrates a cross-sectional view of another embodiment of an anti-sloshing liquid-retaining bottle.</p>
+<p id="p-0076" num="0075"><figref idref="DRAWINGS">FIG. <b>27</b></figref> illustrates an exploded view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>26</b></figref>.</p>
+<p id="p-0077" num="0076"><figref idref="DRAWINGS">FIG. <b>28</b></figref> illustrates a top view of the anti-sloshing liquid-retaining bottle of <figref idref="DRAWINGS">FIG. <b>26</b></figref>.</p>
+<p id="p-0078" num="0077"><figref idref="DRAWINGS">FIG. <b>29</b></figref> illustrates one embodiment of an uncompressed state of an insert of an anti-sloshing liquid-retaining bottle.</p>
+<p id="p-0079" num="0078"><figref idref="DRAWINGS">FIG. <b>30</b></figref> illustrates one embodiment of a compressed state of an insert of an anti-sloshing liquid-retaining bottle.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0080" num="0079">The illustrated embodiments are merely examples and are not intended to limit the disclosure. The schematics are drawn to illustrate features and concepts and are not necessarily drawn to scale.</p>
+<heading level="1" id="h-0007">DETAILED DESCRIPTION</heading>
+<p id="p-0081" num="0080">The foregoing is a summary, and thus, necessarily limited in detail. The above-mentioned aspects, as well as other aspects, features, and advantages of the present technology will now be described in connection with various embodiments. The inclusion of the following embodiments is not intended to limit the disclosure to these embodiments, but rather to enable any person skilled in the art to make and use the contemplated invention(s). Other embodiments may be utilized, and modifications may be made without departing from the spirit or scope of the subject matter presented herein. Aspects of the disclosure, as described and illustrated herein, can be arranged, combined, modified, and designed in a variety of different formulations, all of which are explicitly contemplated and form part of this disclosure.</p>
+<p id="p-0082" num="0081">Described herein are liquid bottles or containers that employ an internal anti-sloshing mechanism. In some embodiments, the anti-sloshing mechanism is configured to reduce or prevent wave propagation of a liquid in an outer shell. The outer shell may include a valve connected to a mouthpiece of the bottle to control the flow of liquid out of the bottle.</p>
+<p id="p-0083" num="0082">Described herein are liquid bottles or containers that employ an internal anti-sloshing mechanism. In some embodiments, the anti-sloshing mechanism is configured to apply compression forces against a non-carbonated liquid and an outer shell with a valve connected to a mouthpiece of the bottle to control the flow of liquid out of the bottle. For example, a pressure in a bladder in the bottle will allow a user to expel all air from the bottle before closing the valve. Once the air is eliminated from the bottle, the liquid can no longer slosh back and forth, resulting in increased efficiency for the user, for example a cyclist. When the user needs water, they open the valve, allowing water to automatically flow out of the pressurized bladder.</p>
+<p id="p-0084" num="0083">In some embodiments, the anti-sloshing mechanism is configured to break up waves in the liquid, so they cannot propagate, thus reducing the amount of sloshing that can be felt by the user.</p>
+<p id="p-0085" num="0084">In some embodiments, the anti-sloshing mechanism is configured to reversibly restrict an inflatable bladder using a series of springs, for example a constant force spring or leaf springs. Such restriction is configured to eliminate air from the bottle, thereby reducing liquid movement in the bottle.</p>
+<p id="p-0086" num="0085">As used herein, a user refers to a cyclist, athlete, runner, backpacker, outdoorsman, or any other individual that could benefit from restricting liquid movement in a container or bottle that they are carrying or transporting.</p>
+<p id="p-0087" num="0086">As used herein, a liquid includes, but is not limited to, water, sports drink, electrolyte solution, juice, tea, coffee, or any other beverage or solution that needs to be transported.</p>
+<p id="p-0088" num="0087">As used herein, any liquid retaining member (e.g., outer shell, bladder, liquid retention compartment, insert, etc.) may be resusable or disposable.</p>
+<p id="p-0089" num="0088">Turning now to <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>3</b></figref>. <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>3</b></figref> illustrate one embodiment of an anti-sloshing liquid-retaining bottle <b>100</b> with a passive anti-sloshing mechanism. A passive anti-sloshing liquid-retaining bottle <b>100</b> includes lid <b>46</b>, outer shell <b>44</b>, one or more wave breakers <b>48</b>, and mouthpiece <b>47</b>. The one or more wave breakers <b>48</b> includes one or more or a plurality of apertures <b>45</b> so that when a liquid contained in outer shell <b>44</b> sloshes, the liquid passes through the apertures <b>45</b> of the one or more wave breakers <b>48</b> which are configured to disrupt the movement of the liquid. For example, as the liquid contacts the one or more wave breakers <b>48</b>, the liquid trickles through the apertures <b>45</b> resulting in reduced sloshing and liquid movement. In some embodiments, the one or more wave breakers <b>48</b> include, additionally or alternatively, one or more grooves, indentations, cutouts, or the like that also act to disrupt movement of the liquid and reduce sloshing. For example, liquid entering the one or more grooves, indentations, or cutouts may swirl therein resulting in less energy and ultimately less sloshing.</p>
+<p id="p-0090" num="0089">The one or more wave breakers <b>48</b> may be reversibly couplable (e.g., via a snap fit connection, screw connection, etc.) to lid <b>46</b> or outer shell <b>44</b>. In such embodiments, a number of wave breakers <b>48</b> may be optimized for a volume of liquid retained in the outer shell <b>44</b>, for example more wave breakers <b>48</b> being used for less liquid (e.g., <b>2</b>, <b>4</b>. <b>6</b>, <b>8</b>, <b>10</b>, <b>12</b>, <b>14</b>, <b>16</b>, <b>18</b>, <b>20</b> or more etc.). In other embodiments, the one or more wave breakers <b>48</b> and lid <b>46</b> or the one or more wave breakers <b>48</b> and outer shell <b>44</b> are a monolithic piece (i.e., one integrated component). Further, each wave breaker <b>48</b> may be of monolithic construction. Alternatively, each wave breaker <b>48</b> may include several sections coupled together to customize a length. For example, each section may be snapped into (e.g., each section includes a male peg end and a female port end), screwed into (e.g., each section includes a male helical screw end and a female threaded port), or otherwise attached to an adjacent section.</p>
+<p id="p-0091" num="0090">As shown in <figref idref="DRAWINGS">FIGS. <b>2</b>-<b>3</b></figref>, lid <b>46</b> couples to outer shell <b>44</b>. For example, lid <b>46</b> is uncoupled from outer shell <b>44</b> to allow filling of outer shell <b>44</b> with a liquid. In such embodiments, outer shell <b>44</b> functions as a liquid-retaining compartment. Lid <b>46</b> is then coupled to outer shell <b>44</b> to retain the liquid therein. Lid <b>46</b> reversibly couples to outer shell <b>44</b> via one or more of a hinge mechanism, snap fit connection, screw and thread connection, or the like. In other embodiments, outer shell <b>44</b> is filled with liquid through a port, such that lid <b>46</b> is irreversibly coupled to outer shell <b>44</b>. For example, mouthpiece <b>47</b> may be removable to allow filling of outer shell <b>44</b> with liquid.</p>
+<p id="p-0092" num="0091"><figref idref="DRAWINGS">FIGS. <b>4</b>-<b>20</b></figref> illustrate various embodiments of anti-sloshing liquid-retaining bottles with active anti-sloshing mechanisms. The embodiments shown in <figref idref="DRAWINGS">FIGS. <b>4</b>-<b>20</b></figref> use pressure, springs, or other active mechanisms to expand or restrict a bladder to reduce sloshing of a liquid in the bottle.</p>
+<p id="p-0093" num="0092">Turning now to <figref idref="DRAWINGS">FIGS. <b>4</b>-<b>11</b></figref>. <figref idref="DRAWINGS">FIGS. <b>4</b>-<b>11</b></figref> illustrate various embodiments of anti-sloshing liquid-retaining bottles that use pressure to actively expand or contract a bladder. As will be appreciated by one of skill in the art, the anti-sloshing mechanisms depicted in <figref idref="DRAWINGS">FIGS. <b>4</b>-<b>20</b></figref>, while they employ active mechanisms, are implemented in different configurations.</p>
+<p id="p-0094" num="0093"><figref idref="DRAWINGS">FIGS. <b>4</b>-<b>11</b></figref> illustrate an embodiment of an anti-sloshing liquid-retaining bottle <b>200</b> configured to use a pneumatic mechanism to apply compressive forces against a contained incompressible or nearly incompressible liquid retained within the anti-sloshing liquid-retaining bottle <b>200</b>.</p>
+<p id="p-0095" num="0094"><figref idref="DRAWINGS">FIG. <b>4</b></figref> illustrates a front view of an embodiment of an anti-sloshing liquid-retaining bottle <b>200</b> with a pressure mechanism for preventing sloshing. The anti-sloshing liquid-retaining bottle <b>200</b> comprises a mouthpiece <b>23</b> configured to expel a non-carbonated liquid through mouthpiece <b>23</b>. Anti-sloshing liquid-retaining bottle <b>200</b> comprises a lid <b>20</b>, outer shell <b>22</b>, a base comprising a high-pressure reservoir <b>26</b>, and a depressible purge button <b>28</b> configured to open a release valve. The lid <b>20</b> is configured to reversibly couple to the outer shell <b>22</b> via one or more of a hinge mechanisms, snap fit connection, screw and thread connection, or the like. The lid <b>20</b> comprises a mouthpiece <b>23</b> with a means of controllably expelling liquid from the liquid retention compartment <b>25</b> including a bite valve or retractable nozzle or other nozzle configuration. In some embodiments, the outer shell <b>22</b> is filled with liquid through a port, such that the lid <b>20</b> is irreversibly coupled to the outer shell <b>22</b>. For example, a mouthpiece <b>23</b> may be removable to allow filling of outer shell <b>22</b> with liquid.</p>
+<p id="p-0096" num="0095"><figref idref="DRAWINGS">FIG. <b>5</b></figref> illustrates a cross-sectional view of a pneumatic anti-sloshing liquid-retaining bottle <b>200</b> with the air retention compartment <b>27</b> in the high-pressure reservoir <b>26</b> in a non-pressurized or inactive state. The anti-sloshing liquid-retaining bottle <b>200</b> comprises a bladder <b>24</b> and internal components including pressure regulator assembly <b>36</b>, depressible purge button for activating a purge or release valve <b>28</b>, air retention compartment <b>27</b>, Schrader or fill or presta valve <b>34</b> for pressurizing the air retention compartment <b>27</b> in the high-pressure reservoir <b>26</b>, and pressure plate <b>32</b>. The bladder <b>24</b> is fluidically coupled such that air from the high-pressure reservoir can be released by the regulator in the pressure regulator assembly <b>36</b> into a reduced pressure compartment <b>21</b> that is fluidically coupled to the bladder <b>24</b> allowing the bladder to expand against any liquid retained in the liquid retention compartment <b>25</b> of the bottle.</p>
+<p id="p-0097" num="0096">In various embodiments, a pneumatic anti-sloshing liquid-retaining bottle <b>200</b> can be filled by removing the lid <b>20</b> or the mouthpiece <b>23</b> from the outer shell <b>22</b> of the liquid-retaining bottle <b>200</b>, for example when air retention compartment <b>27</b> in the high-pressure reservoir <b>26</b> is in a non-pressurized or inactive state and/or when the bladder <b>24</b> is collapsed, as illustrated in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. The lid <b>20</b>, mouthpiece <b>23</b>, or other reversibly coupled component of the bottle may be removed (e.g. via one or more of a hinge mechanism, snap fit connection, screw and thread connection, etc.) from the outer shell <b>22</b>, revealing an opening into the liquid retention compartment <b>25</b>, formed by the outer shell <b>22</b> and the bladder <b>24</b>. Filling of the liquid retention compartment <b>25</b> of the bottle may be done through the opening of the outer shell <b>22</b> after the lid <b>20</b>, mouthpiece <b>23</b>, or other reversibly coupled component of the bottle is removed for filling. After filling, the lid <b>20</b>, mouthpiece <b>23</b>, and/or other reversibly coupled component is replaced and coupled to the outer shell <b>22</b>. In this filled state, the 10-24 oz. of supplied liquid (e.g., non-carbonated or carbonated liquid) is contained in an enclosed liquid retention compartment <b>25</b> formed by the lid <b>20</b>, mouthpiece <b>23</b>, outer shell <b>22</b>, and bladder <b>24</b> of the anti-sloshing liquid-retaining bottle.</p>
+<p id="p-0098" num="0097">A filled pneumatic anti-sloshing liquid-retaining bottle <b>200</b> in an inactive or unpressurized state as shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, can be activated for use by pressurizing the air retention compartment <b>27</b> housed within the high-pressure reservoir <b>26</b> before the bottle is filled with liquid, or before liquid is consumed from the bottle. Pressurization of the air retention compartment <b>27</b> is done by pumping air through a fill or Schrader or presta valve <b>34</b>. The high-pressure reservoir <b>26</b> and the pressure plate <b>32</b> are configured to retain their shape under higher pressures (e.g. pressure in the range of 20-300 psi) against their surfaces. For example, the high-pressure reservoir <b>26</b> and/or the pressure plate <b>32</b> may include or be formed of aluminum, stainless steel, carbon fiber or other composites or like materials to retain its shape under pressure. Further, a thickness of a wall of the high-pressure reservoir <b>26</b> and/or pressure plate may be anywhere from 0.01 to 0.25 inches, 0.1 to 0.2 inches, 0.05 to 0.1 inches, 0.05 to 0.25 inches, 0.2 to 0.25 inches, etc. to retain its shape under pressure.</p>
+<p id="p-0099" num="0098">Air is forcefully pumped into the high-pressure reservoir <b>26</b> until the molecules of gas in the air are compressed enough to generate a pressure range of 20-300 psi. The increased pressure in the high-pressure reservoir generates a pressure differential across the pressure plate <b>32</b> and between the air retention compartment <b>27</b> and the reduced pressure compartment <b>21</b> that is fluidically coupled to bladder <b>24</b>. This pressure differential is detected by the pressure regulator assembly <b>36</b> of the regulator, which is configured to regulate the pressure of the high-pressure reservoir down by a factor of 2-100 (e.g., 2, 5, 10, 15, 20, 25, 40, 45, 50, 60) to a low-pressure range of less than or equal to 20 psi (e.g., 1-5 psi, 2-5 psi, 2-8 psi, 2-10 psi, 15-20 psi, etc.). The bladder <b>24</b> is fluidically coupled to the reduced pressure compartment <b>21</b> on the lower pressure side of the pressure plate <b>32</b>. A pressure in the reduced pressure compartment <b>21</b> may be 2-5 psi, 2-8 psi, 2-10 psi, 15-20 psi, etc. As the pressurized air is released into the reduced pressure compartment <b>21</b> from the air retention compartment <b>27</b> by the regulator in the pressure regulator assembly <b>36</b>, the air molecules flow into the fluidically coupled region comprising the reduced pressure compartment <b>21</b> and the cavity of the bladder <b>24</b> causing the bladder <b>24</b> to expand. The bladder <b>24</b> is includes or is formed of a expandable material (e.g., silicon, silicone-based materials, elastic polymers, etc.) with a modulus configured to expand in response to changes in the air pressure of bladder <b>24</b> as well as retain a hydrostatic pressure or force against the liquid stored in the liquid retention compartment <b>25</b> and the walls of the outer shell <b>22</b>, the lid <b>20</b>, and the mouthpiece <b>23</b>. The hydrostatic pressure or force prevents the liquid retained in the bottle from sloshing around. The pressurization of the compartment formed by the bladder <b>24</b> and the reduced pressure compartment <b>21</b> is generated and maintained by the high pressure of the air retention compartment <b>27</b> on the other side of the pressure plate <b>32</b>, that has been regulated down by the regulator in the pressure regulator assembly <b>36</b> to a reduced pressure range of less than or equal to 60 psi. The low-pressure range is sufficient to inflate the bladder <b>24</b> and apply force to the exposed area (or pressure) to the surface of the liquid in the liquid retention compartment <b>25</b>. A liquid that is incompressible or nearly incompressible stored within the bottle would retain or substantially retain a fixed volume under standard conditions (e.g., 32&#xb0; F.- 120&#xb0; F. environmental temperature; atmospheric pressure (at anywhere from sea level to high mountains ~20,000 ft). Therefore, pressure applied by the inflation of the bladder <b>24</b> on the incompressible or substantially incompressible liquid against the fixed dimensions of the outer shell <b>22</b>, the lid <b>20</b>, the mouthpiece <b>23</b>, and the expanding bladder <b>24</b>, would eliminate the existence of air or space for the liquid to slosh around when liquid flow out of the mouthpiece <b>23</b> is constricted or stopped (e.g., via a bite valve, nipple valve, stop cock, etc.). When the mouthpiece <b>23</b> is open (e.g., via bite valve, nipple valve, stop cock, etc.), the liquid would be expelled from the liquid retention compartment <b>25</b> at a rate dependent on the rate at which the bladder <b>24</b> continuously expands; more specifically, at a rate that is determined by the low-pressure range established by the regulator in the regulator assembly, for example less than or equal to 60 psi (e.g., 2-5 psi, 2-8 psi, 2-10 psi, 15-20 psi, etc.). The pneumatic mechanism disclosed in this example provides both a convenient means of expelling the liquid from the bottle when the mouthpiece <b>23</b> is open, while also ensuring that the liquid is continuously retained between the bladder <b>24</b>, the outer shell <b>22</b>, lid <b>20</b>, and mouthpiece <b>23</b> and thus unable to slosh around in the bottle.</p>
+<p id="p-0100" num="0099"><figref idref="DRAWINGS">FIG. <b>6</b></figref> illustrates a cross-sectional view of an embodiment of the pneumatic anti-sloshing liquid-retaining bottle <b>200</b> with the bladder <b>24</b> fully expanded. In this embodiment, most or all of the volume of liquid stored in the liquid retention compartment <b>25</b> of <figref idref="DRAWINGS">FIG. <b>5</b></figref> has been expelled through the mouthpiece <b>23</b> by the expansion of the bladder <b>24</b>. The filling and emptying of the bottle <b>200</b> constitute one fill cycle. To refill the bottle after the first fill cycle, the purge button <b>28</b> is depressed activating a purge or release valve configured to vent the bladder into the atmosphere, such that the bladder <b>24</b> contracts back to an initial size (e.g., 0.2 cubic inches or less) of the bladder <b>24</b>, for example as illustrated in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. Depression of the purge button <b>28</b> simultaneously blocks off the output of the regulator in the pressure regulator assembly <b>36</b>, thereby preventing the depressurization of the high-pressure reservoir <b>26</b> and retaining the high-pressure environment of the air retention compartment <b>27</b> while the bladder <b>24</b> is vented to the atmosphere (i.e., atmospheric pressure). In some embodiments the high-pressure reservoir <b>26</b> is configured to retain sufficient pressure in the high-pressure environment of the air retention compartment <b>27</b> to fill and use the bottle for additional fill cycles (e.g., a second, third, fourth, fifth, etc.) without requiring the high-pressure reservoir <b>26</b> to be reactivated or re-pressurized by pumping air forcefully (e.g., manual or automatic mechanism; using a bike tire pump, high pressure bike shock pump, suction valve, or the like designed for reaching high pressure (e.g., &gt;150 psi)) into the air retention compartment <b>27</b>. The bottle <b>200</b> with an activated or pressurized air retention compartment <b>27</b> can then be refilled with liquid, for example using the mechanism that was used to fill the bottle during the first fill cycle. More specifically, the lid <b>20</b>, mouthpiece <b>23</b>, or other reversibly coupled component of the bottle <b>200</b> can be removed (e.g. via one or more of a hinge mechanisms, snap fit connection, screw and thread connection, etc.) from outer shell <b>22</b> revealing an opening into liquid retention compartment <b>25</b>, formed, in part, by outer shell <b>22</b> and bladder <b>24</b>. The liquid retention compartment <b>25</b> of the bottle is configured to be filled with liquid through the opening of the outer shell for example through a mouthpiece <b>23</b> or other reversibly coupled component of the bottle that can be removed for filling and replaced. In the filled state, the supplied liquid is contained in an enclosed liquid retention compartment <b>25</b> formed by the lid <b>20</b>, mouthpiece <b>23</b>, outer shell <b>22</b>, and bladder <b>24</b> of the anti-sloshing liquid-retaining bottle <b>200</b>.</p>
+<p id="p-0101" num="0100"><figref idref="DRAWINGS">FIG. <b>7</b></figref> illustrates an exploded view of an embodiment of bottle <b>200</b> in the depressurized or inactive state illustrated in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. In this exploded view, the mechanisms forming the reduced pressure compartment <b>25</b> on the low-pressure side of the pressure plate <b>32</b> and the high-pressure reservoir <b>26</b> on the other side of the pressure plate <b>32</b> are illustrated in greater detail. The lid <b>20</b>, bladder <b>24</b>, and outer shell <b>22</b> are shown in the upper part of the exploded view, together these components form the liquid retention compartment <b>25</b>, where the liquid is contained. Below this section of the device are the pressurized components of the liquid-retaining bottle. A pressure differential is formed across the pressure regulator assembly <b>36</b> and the pressure plate <b>32</b> that separate the reduced pressure compartment <b>21</b> and the air retention compartment <b>27</b>. The regulator of the pressure regulator assembly <b>36</b> reduces the high-pressure provided by the air retention compartment <b>27</b> that was created by pumping air through the Schrader or fill or presta valve <b>34</b> into the air retention compartment <b>27</b> of the high-pressure reservoir <b>26</b>. In this illustration, the purge seal <b>38</b> is visible below the pressure plate <b>32</b>. The purge seal <b>38</b> (shown in <figref idref="DRAWINGS">FIGS. <b>8</b>-<b>11</b></figref>) is responsible for sealing the air retention compartment <b>27</b> of the high-pressure reservoir <b>26</b> off from the low-pressure side of the pressure plate <b>32</b> when the depressible button <b>28</b> activates the purge or release valve. This mechanism for purging is configured to release the pressure of the bladder <b>24</b> by depressing the purge button <b>28</b> and opening the purge valve while engaging the purge seal <b>38</b> to enable the anti-sloshing liquid-retaining bottle <b>200</b> to be used for multiple fill cycles without pumping up or re-pressurizing the air retention compartment <b>27</b> of the high-pressure reservoir <b>26</b> between the fill cycles.</p>
+<p id="p-0102" num="0101"><figref idref="DRAWINGS">FIG. <b>8</b></figref> illustrates in greater detail an embodiment of the mechanisms forming the low-pressure side of the pressure plate <b>32</b> and the high-pressure reservoir <b>26</b>. In this configuration the purge button <b>28</b> is in the default position, with the air in the bladder closed off to the atmosphere while also leaving the regulator open to fill the bladder <b>24</b>. In this example, bottle <b>200</b> is illustrated in the pressurized or active state with the depressible button <b>28</b> configured for activating the purge or release valve <b>28</b> in the default state (e.g., protruding, or otherwise not activated, capable of being depressed, etc.). In this state, the purge seal <b>38</b> shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref> closes off the bladder <b>24</b> from the atmosphere (i.e., atmospheric pressure) thus creating a closed system between the regulator or the pressure regulator assembly <b>36</b> and the low-pressure side of the pressure plate <b>32</b>. In this configuration, the bladder <b>25</b> is pressurized at a pressure range that is 1 psi to 10 psi (e.g., less than or equal to 10 psi, 20 psi, 5 psi, 1-5 psi, 60 psi, 2-5 psi, 10-30 psi, etc.) determined by the regulator, wherein the high-pressure side of the plate is determined by the pressure pumped into the high-pressure side. In some embodiments, the regulator is a diaphragm pressure regulator. In further embodiments, the output of pressure released by the regulator is directed towards the purge button <b>28</b> for release when the purge button <b>28</b> is depressed.</p>
+<p id="p-0103" num="0102"><figref idref="DRAWINGS">FIG. <b>9</b></figref> illustrates an embodiment of the bottle <b>200</b> in a pressurized or active state with the purge button <b>28</b> depressed into the purge position, activating the purge or release valve and opening the bladder <b>24</b> to the atmosphere and deflating the bladder <b>24</b>. Activating the purge or release valve simultaneously engages the purge seal <b>40</b> to close against the output on the regulator of the pressure regulator assembly <b>36</b> preventing the air retention compartment <b>27</b> within the high pressure reservoir <b>26</b> from venting to the atmosphere (i.e., releasing the pressurized air held within the air retention compartment <b>27</b> to the atmosphere).</p>
+<p id="p-0104" num="0103"><figref idref="DRAWINGS">FIG. <b>10</b></figref> illustrates an embodiment of a purge mechanism of an anti-slosh liquid-retaining bottle <b>200</b> illustrated in <figref idref="DRAWINGS">FIGS. <b>5</b>-<b>10</b></figref>. As shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, the purge button is in a default position that closes off the air in the bladder <b>25</b> to the atmosphere preventing the bladder <b>24</b> from purging while also leaving the regulator in the pressure regulator assembly <b>36</b> open and enabling the air from the air retention compartment <b>27</b> of the high pressure reservoir <b>26</b> to move through the regulator of the pressure regulatory assembly <b>36</b> allowing the filling of the bladder <b>24</b>. As shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, the purge button <b>28</b> for activating the purge or release valve is in a default or expressed position. In this illustration, the purge spring <b>42</b> keeps the purge button <b>40</b> in the default or expressed position. The regulator seal <b>30</b> is away from the regulator of the pressure regulator assembly <b>36</b> and the purge seal <b>40</b> attached to the purge button <b>28</b> is configured to allow the pressure regulator in the pressure regulator assembly <b>36</b> to flow in this state, thereby filling the bladder <b>24</b>.</p>
+<p id="p-0105" num="0104"><figref idref="DRAWINGS">FIG. <b>11</b></figref> illustrates an embodiment of the purge mechanism of the anti-slosh bottle <b>200</b> illustrated in <figref idref="DRAWINGS">FIGS. <b>5</b>-<b>10</b></figref> with the purge button in the purge position. The purge button in the purge position opens the air in the bladder <b>25</b> to the atmosphere, thereby deflating the bladder and simultaneously closing off the output port of the regulator in the pressure regulator assembly <b>36</b>, so that the air retention compartment <b>27</b> in the high pressure reservoir <b>26</b> doesn&#x2019;t empty when purging the bladder <b>24</b>. As shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>, the purge mechanism is in the purge position with the purge button <b>28</b> and purge spring <b>42</b> depressed. The purge seal <b>40</b>, in this configuration, permits air from the bladder <b>24</b> to vent to the atmosphere while simultaneously activating the regulator seal <b>30</b> by moving it and pushing it into the regulator output of the pressure regulator assembly <b>36</b>.</p>
+<p id="p-0106" num="0105">Turning now to <figref idref="DRAWINGS">FIGS. <b>12</b>-<b>20</b></figref>. <figref idref="DRAWINGS">FIGS. <b>12</b>-<b>20</b></figref> illustrates various embodiments of an anti-sloshing liquid-retaining bottle that employs a spring-based anti-sloshing mechanism.</p>
+<p id="p-0107" num="0106">As shown in <figref idref="DRAWINGS">FIGS. <b>12</b>-<b>15</b></figref>, bottle <b>300</b> includes an anti-sloshing mechanism comprising a constant force spring mechanism. Bottle <b>300</b> shown in <figref idref="DRAWINGS">FIGS. <b>12</b>-<b>15</b></figref> functions to expand or compress a bladder, configured to retain a liquid therein, using a spring mechanism that imparts a constant force on the bladder. In contrast to other embodiments described herein in which the outer shell retains a liquid in a liquid retaining compartment, the embodiment <b>300</b> shown in <figref idref="DRAWINGS">FIGS. <b>12</b>-<b>15</b></figref> uses a bladder within an outer shell to retain a liquid. As such, in <figref idref="DRAWINGS">FIGS. <b>12</b>-<b>15</b></figref> the bladder forms the liquid retaining compartment.</p>
+<p id="p-0108" num="0107">As shown in <figref idref="DRAWINGS">FIGS. <b>12</b>-<b>15</b></figref>, bottle <b>300</b> includes lid <b>2</b>, outer shell <b>4</b>, mouthpiece <b>5</b>, bladder <b>6</b>, and spring mechanism (depressible plunger <b>12</b>, spring <b>8</b>, spring housing <b>10</b>, spring support <b>14</b>, first retention mechanism <b>16</b>, and second retention mechanism <b>18</b>). Outer shell <b>4</b> retains bladder <b>6</b> and spring mechanism therein. Lid <b>2</b> is configured to reversibly couple to the outer shell <b>4</b> via one or more of a hinge mechanism, snap fit connection, screw and thread connection, or the like. Lid <b>2</b> includes a mouthpiece <b>5</b> with a means of controllably expelling liquid from the bladder, including a bite valve or retractable nozzle or other nozzle configuration. In some embodiments, the bladder <b>6</b> is reversibly coupled to lid <b>2</b>, such that removal of lid <b>2</b> from outer shell <b>4</b> removes bladder <b>6</b> from outer shell <b>4</b> to allow bladder <b>6</b> to be filled with a liquid. As such, lid <b>2</b> and bladder <b>6</b> together define a liquid retention compartment. In other embodiments, bladder <b>6</b> is filled with liquid through a port, such that the lid <b>2</b> is irreversibly coupled to the outer shell <b>4</b>. For example, a mouthpiece <b>5</b> may be removable to allow filling of bladder <b>6</b> with liquid.</p>
+<p id="p-0109" num="0108"><figref idref="DRAWINGS">FIG. <b>13</b></figref> shows an exploded view of an embodiment of an anti-sloshing liquid-retaining bottle <b>300</b> employing a constant force spring mechanism. The structure of the spring mechanism will now be described in greater detail with reference to <figref idref="DRAWINGS">FIG. <b>13</b></figref>. As shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>, spring <b>8</b> is movable or compressible within spring housing <b>10</b> between a compressed state, in which bladder <b>6</b> is filled with a liquid (<figref idref="DRAWINGS">FIG. <b>14</b></figref>), and an uncompressed state, in which some, part of, a quantity (e.g., ounces) of, or all of a liquid has been expelled from bladder <b>6</b> (<figref idref="DRAWINGS">FIG. <b>15</b></figref>). Further, as shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>, spring support <b>14</b> interacts with a proximal end <b>15</b> of spring <b>8</b> to maintain spring <b>8</b> substantially axially centered within spring housing <b>10</b>. A protruding member of spring support <b>14</b> inserts into a center region of spring <b>8</b> to maintain spring <b>8</b> substantially axially centered within spring housing <b>10</b>. Further, depressible plunger <b>12</b> is coupled to spring support <b>14</b> via retention mechanism <b>16</b>, for example a screw, glue, peg, etc. As such, manipulation of depressible plunger <b>12</b> manipulates a position of spring <b>8</b>. Retention mechanism <b>18</b>, for example screw, glue, peg, etc., couples spring housing <b>10</b> to outer shell <b>4</b>. Taken together, retention mechanism <b>18</b> maintains spring housing <b>10</b> in a substantially fixed position within outer shell <b>4</b>.</p>
+<p id="p-0110" num="0109"><figref idref="DRAWINGS">FIGS. <b>14</b> and <b>15</b></figref> show bladder <b>6</b> in an expanded configuration with a compressed spring mechanism and bladder <b>6</b> in a compressed configuration with a decompressed spring mechanism, respectively. As shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>, depressible plunger <b>12</b> compresses spring <b>8</b> to allow bladder <b>6</b> to expand. This expanded bladder configuration may also be referred to herein as a fill configuration, in which bladder <b>6</b> is full or substantially full of a liquid. Further, as shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>, depressible plunger <b>12</b> decompresses spring <b>8</b> and acts on bladder <b>6</b> to compress bladder <b>6</b>, which compresses a liquid retained in bladder <b>6</b>. As shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>, decompression of bladder <b>6</b> results in removal of air from bladder <b>6</b>, compresses a liquid in bladder <b>6</b>, and/or expels liquid from bladder <b>6</b> when mouthpiece <b>5</b> is open. The expansion (<figref idref="DRAWINGS">FIG. <b>15</b></figref>) or contraction (<figref idref="DRAWINGS">FIG. <b>14</b></figref>) of spring <b>8</b> is controlled by a position of depressible plunger <b>12</b>. Depressible plunger <b>12</b> moves proximally (moved towards lid <b>2</b>) as liquid is removed from the bladder, for example via a user drinking the liquid or liquid being expelled through a mouthpiece. As such, spring <b>8</b> applies a constant force onto bladder <b>6</b>, so that as liquid is removed from bladder <b>6</b>, a position of spring <b>8</b> is automatically adjusted to continually apply pressure to bladder <b>6</b>. For example, 5-50 lbs. of force is applied to bladder <b>6</b> by spring <b>8</b>. In some embodiments, the force applied to the bladder is 20 lbs, 25 lbs, 30 lbs, 35 lbs, 40 lbs, 20-40 lbs, 25-35 lbs, 30-35 lbs, 28-33 lbs, 29-31 lbs., 25-32 lbs., etc.</p>
+<p id="p-0111" num="0110">Turning now to <figref idref="DRAWINGS">FIGS. <b>16</b>-<b>20</b></figref>. <figref idref="DRAWINGS">FIGS. <b>16</b>-<b>20</b></figref> show an anti-sloshing liquid-retaining bottle <b>400</b> that includes a spring mechanism configured to expand a bladder to apply pressure to a liquid in a liquid retaining compartment. As shown in <figref idref="DRAWINGS">FIGS. <b>16</b>-<b>20</b></figref>, bottle <b>400</b> includes outer shell <b>50</b>, lid <b>52</b>, mouthpiece <b>55</b>, liquid retention compartment <b>57</b>, bladder <b>54</b>, and spring mechanism (spring mount <b>58</b>, spring housing <b>56</b>, leaf springs <b>60</b>). As shown in <figref idref="DRAWINGS">FIG. <b>16</b></figref>, lid <b>52</b> is configured to reversibly couple to the outer shell <b>50</b> via one or more of a hinge mechanism, snap fit connection, screw and thread connection, or the like. Lid <b>52</b> includes a mouthpiece <b>55</b> with a means of controllably expelling liquid from the liquid retention compartment, including a bite valve or retractable nozzle. In some embodiments, lid <b>52</b> is reversibly coupled to outer shell <b>50</b>, such that removal of lid <b>2</b> from outer shell <b>4</b> allows liquid retention compartment <b>57</b> to be filled with a liquid. In other embodiments, liquid retention compartment <b>57</b> is filled with liquid through a port, such that the lid <b>52</b> is irreversibly coupled to the outer shell <b>50</b>. For example, a mouthpiece <b>55</b> may be removable to allow filling of liquid retention compartment <b>57</b> with liquid.</p>
+<p id="p-0112" num="0111">As shown in <figref idref="DRAWINGS">FIGS. <b>17</b>-<b>18</b></figref>, liquid retention compartment <b>57</b> is defined by lid <b>52</b>, outer shell <b>50</b>, and bladder <b>54</b>. In some embodiments, liquid retention compartment <b>57</b> is defined by lid <b>52</b>, outer shell <b>50</b>, and bladder <b>54</b> and/or spring housing <b>56</b>.</p>
+<p id="p-0113" num="0112"><figref idref="DRAWINGS">FIGS. <b>17</b>-<b>20</b></figref> show various configurations of the spring mechanism, bladder <b>54</b>, and liquid retention compartment <b>57</b> contained within outer shell <b>50</b>. For example, <figref idref="DRAWINGS">FIGS. <b>17</b> and <b>19</b></figref> show spring mechanism and bladder <b>54</b> in an unexpanded configuration, and <figref idref="DRAWINGS">FIGS. <b>18</b> and <b>20</b></figref> show spring mechanism and bladder <b>54</b> in an expanded configuration. The structure of the spring mechanism will now be described in further detail.</p>
+<p id="p-0114" num="0113">Spring housing <b>56</b> is irreversibly or reversibly coupled to a distal end of outer shell <b>50</b> and maintains the spring mechanism substantially axially centered within outer shell <b>50</b>. Further, bladder <b>54</b> is disposed about or positioned substantially around spring housing <b>56</b>, as shown in <figref idref="DRAWINGS">FIGS. <b>17</b>-<b>18</b></figref>, so that extension of the leaf springs <b>60</b> expands bladder <b>54</b>. Alternatively or additionally, bladder <b>54</b> is coupled to an interior surface of outer shell <b>50</b>. The distal end of outer shell <b>50</b> forms a base or mount <b>58</b> of the spring mechanism. Each of the leaf springs are coupled to mount <b>58</b>, which extends up into spring housing <b>56</b>, as shown in <figref idref="DRAWINGS">FIGS. <b>19</b>-<b>20</b></figref>. Spring housing <b>56</b> further includes or defines one or more or a plurality of apertures or slots <b>59</b> through which a leaf spring <b>60</b> extends upon rotation of mount <b>58</b>. As mount <b>58</b> is rotated, one or more leaf springs <b>60</b> expand from mount <b>58</b> and extend through one or more apertures in spring housing <b>56</b> to thereby expand bladder <b>54</b>.</p>
+<p id="p-0115" num="0114">As shown in <figref idref="DRAWINGS">FIGS. <b>18</b> and <b>20</b></figref>, expansion of one or more leaf springs <b>60</b> causes bladder <b>54</b> to also expand, which applies pressure to a liquid in liquid-retaining compartment <b>57</b>. In some embodiments, rotation of mount <b>58</b> causes a distal most leaf spring <b>61</b>, as shown in <figref idref="DRAWINGS">FIG. <b>20</b></figref>, to expand first and then as mount <b>58</b> is further rotated, additional leaf springs <b>60</b> extend from mount <b>58</b>, moving proximally toward lid <b>52</b>, and through aperture <b>59</b> in spring housing <b>56</b>. As such, a bladder <b>54</b> disposed around or about spring housing <b>56</b> is expanded distally first, and then expansion of the bladder <b>54</b> continues in a proximal direction towards lid <b>52</b> until all or substantially all liquid is expelled from liquid-retaining compartment <b>57</b>.</p>
+<p id="p-0116" num="0115">To reset the bottle back to a fillable configuration in which liquid is added to liquid-retention compartment <b>57</b>, as shown in <figref idref="DRAWINGS">FIGS. <b>17</b> and <b>19</b></figref>, spring mount <b>58</b> is rotated, in an opposite direction, so that leaf springs <b>60</b> retract and coil onto spring mount <b>58</b>. In turn, bladder <b>54</b> returns to an unexpanded configuration.</p>
+<p id="p-0117" num="0116"><figref idref="DRAWINGS">FIGS. <b>21</b>-<b>23</b></figref> illustrate various embodiments of an anti-sloshing liquid-retaining bottle <b>70</b>. As shown in <figref idref="DRAWINGS">FIGS. <b>21</b>-<b>22</b></figref>, an anti-sloshing bottle <b>70</b> includes outer shell <b>74</b>, <b>102</b> and lid <b>101</b>, which together define a liquid retention compartment <b>78</b> configured for storing liquid therein. An insert <b>72</b>, <b>103</b> may be positioned in the liquid retention compartment <b>78</b> of the outer shell <b>74</b>. The insert <b>72</b> may be removable (i.e., can be taken out of and inserted into the outer shell), as shown in <figref idref="DRAWINGS">FIGS. <b>22</b>-<b>23</b></figref>, or integrally formed in the liquid retention compartment <b>78</b> (i.e., not removable), such that the insert <b>72</b> is fixed in the liquid retention compartment <b>78</b>. For example, an outer surface <b>85</b> of the insert may be irreversibly attached to an inner sidewall or surface <b>87</b> of the outer shell <b>102</b>, as shown in <figref idref="DRAWINGS">FIG. <b>22</b></figref>. The insert <b>72</b> may include an elongate body having one or more contours that mirror the contours of the outer shell, as shown in <figref idref="DRAWINGS">FIG. <b>22</b></figref>. Alternatively, the insert may include an elongate body having a substantially cylindrical shape, a tube shape, or any other suitable shape, as shown in <figref idref="DRAWINGS">FIG. <b>23</b></figref>. The elongate body <b>80</b> of insert <b>72</b> defines an aperture <b>82</b> that longitudinally extends through the elongate body <b>80</b> between a first end <b>84</b> and a second end <b>86</b> of the elongate body <b>80</b>. Bottle <b>70</b> may further include a lid <b>76</b> and/or mouthpiece <b>77</b> through which a liquid is expelled, as shown in <figref idref="DRAWINGS">FIG. <b>21</b></figref> and described elsewhere herein.</p>
+<p id="p-0118" num="0117">In some embodiments, as shown in <figref idref="DRAWINGS">FIGS. <b>24</b>-<b>25</b></figref>, the insert <b>203</b> positioned in the liquid retaining compartment <b>204</b> defined by the outer shell <b>202</b> and lid <b>201</b> further includes a hub <b>206</b>. The hub <b>206</b> may longitudinally extend through a center of the aperture or may be offset from the center. For example, the offset may be less than or equal to half of the radius of the liquid retaining compartment. The hub <b>206</b> extends longitudinally through the aperture between the first <b>210</b> and second <b>212</b> ends of the elongate body <b>214</b>. As shown in <figref idref="DRAWINGS">FIG. <b>25</b></figref>, one or more spokes <b>216</b> extend from hub <b>206</b> to an inner surface <b>218</b> of the elongate body <b>203</b> to tether the hub <b>206</b> to the elongate body <b>203</b>. When inserted in the liquid retaining compartment <b>204</b>, at least a portion of the outer surface <b>222</b> of the insert <b>203</b> contacts an inner surface of the outer shell. The spokes <b>216</b> segment the aperture <b>220</b> into equal portions or, in other embodiments, unequal portions. In some embodiments, there are an odd number of spokes, as shown in <figref idref="DRAWINGS">FIG. <b>25</b></figref>, for example <b>3</b>, <b>5</b>, <b>7</b>, <b>9</b>, <b>11</b>, etc. In other embodiments, there are an even number of spokes, for example, <b>2</b>, <b>4</b>, <b>6</b>, <b>8</b>, <b>10</b>, etc. In some embodiments, an optimal number of spokes may be determined based on a balance between sloshing reduction by the spokes and weight addition by the spokes. In at least one embodiment, a number of spokes does not exceed ten. In some embodiments of <figref idref="DRAWINGS">FIG. <b>24</b></figref>, the outer shell further includes a lid <b>201</b> and/or mouthpiece <b>224</b> through which liquid is expelled, as described elsewhere herein. Although wedge shaped apertures are shown in <figref idref="DRAWINGS">FIG. <b>25</b></figref>, one of skill in the art will appreciate that any aperture shape may be formed by the hub and spoke arrangement that is described, for example petal shaped apertures, rounded wedges, pyramid shaped apertures, etc.</p>
+<p id="p-0119" num="0118">In some embodiments, as shown in <figref idref="DRAWINGS">FIGS. <b>26</b>-<b>28</b></figref>, the insert <b>303</b> positioned in the liquid retaining compartment <b>307</b> defined by the outer shell <b>302</b> and lid <b>301</b> includes elongate body <b>304</b> defining a plurality of apertures <b>306</b>. The plurality of apertures <b>306</b> longitudinally extends through the elongate body <b>304</b> between the first end <b>308</b> and the second end <b>310</b>. The plurality of apertures <b>306</b> may be uniform in size or, alternatively, have varying sizes. For example, the larger apertures may be positioned in a center region of the insert and smaller apertures may be positioned in an outer region of the insert. Alternatively, smaller apertures may be positioned in a center region of the insert and larger apertures may be positioned in an outer region of the insert. The apertures in the insert may be arranged concentrically, in parallel rows, in an unordered arrangement, or otherwise. For example, as shown in <figref idref="DRAWINGS">FIG. <b>28</b></figref>, the apertures are arranged substantially concentrically and are substantially uniform in size. In some embodiments, a diameter of each aperture may range from about 0.125 inches to about 1 inch; about 0.25 inches to about 1 inch; about 0.5 inches to about 1 inch; about 0.75 inches to about 1 inch; about 0.25 inches to about 0.75 inches; about 0.125 inches to about 0.875 inches; etc. A sidewall <b>310</b> of a first aperture may contact a sidewall <b>312</b> of an adjacent aperture. In some embodiments, a sidewall <b>310</b> of a first aperture may contact a sidewall of one or more adjacent apertures, two or more, or a plurality of apertures. Although circular apertures are shown in <figref idref="DRAWINGS">FIGS. <b>26</b>-<b>28</b></figref>, one of skill in the art will appreciate that any shape (e.g., ellipse, square, oval, etc.) of aperture may be used. The number of apertures extending through the elongate body may be about one to about <b>50</b>; about five to about <b>45</b>; about ten to about <b>40</b>; about <b>30</b> to about <b>40</b>; about <b>30</b> to about <b>50</b>; about <b>40</b> to about <b>50</b> about <b>25</b> to about <b>50</b> about <b>20</b> to about <b>45</b>; etc.</p>
+<p id="p-0120" num="0119">In any of the preceding embodiments, the lid is configured to reversibly couple to the outer shell via one or more of a hinge mechanisms, snap fit connection, screw and thread connection, or the like. The lid includes a mouthpiece with a means of controllably expelling liquid from the liquid retention compartment including a bite valve or retractable nozzle or other nozzle configuration. In some embodiments, the outer shell is filled with liquid through a port, such that the lid is irreversibly coupled to the outer shell. For example, a mouthpiece may be removable to allow filling of outer shell with liquid.</p>
+<p id="p-0121" num="0120">In any of the embodiments of <figref idref="DRAWINGS">FIGS. <b>21</b>-<b>28</b></figref>, the insert (both removable and non-removable) may have any one or more of the following attributes:
+<ul id="ul0001" list-style="none">
+<li id="ul0001-0001" num="0121">a durometer between about 40 A and about 70 A, between about 45 A to about 65 A, between about 50 A to about 60 A, between about 40 A to about 60 A, between about 50 A to about 70 A, etc.;</li>
+<li id="ul0001-0002" num="0122">a volume of less than about 10%, less than about 8%, less than about 6%, less than about 5%, less than about 2%, less than about 1%, between about 0.25% to about 1%, between about 1% and about 10%, between about 0.5% to about 1%, between about 0.5% to about 5%, etc. of a volume defined by the liquid retention compartment of the outer shell. For example, a volume of the insert may include a net volume such that the volume does not include any holes in the material of the insert or any aperture(s) defined by the insert. A gross volume of the insert includes all holes and/or apertures defined by the insert;</li>
+<li id="ul0001-0003" num="0123">formed of or includes a mesh material comprising one or more of: open cell foam, closed cell foam, a stainless-steel mesh, an elastomeric waffle, a polyurethane mesh, a silicone mesh, a thermoelastic mesh, or a combination thereof;</li>
+<li id="ul0001-0004" num="0124">prevents or reduces wave propagation through the liquid;</li>
+<li id="ul0001-0005" num="0125">reduces or dissipates turbulence kinetic energy of the liquid;</li>
+<li id="ul0001-0006" num="0126">formed of or includes a compressible mesh material;</li>
+<li id="ul0001-0007" num="0127">an uncompressed state <b>400</b>, as shown in <figref idref="DRAWINGS">FIG. <b>29</b></figref>, when removed from the outer shell and a compressed state <b>450</b>, as shown in <figref idref="DRAWINGS">FIG. <b>30</b></figref>, when positioned in the outer shell;</li>
+<li id="ul0001-0008" num="0128">a diameter <b>420</b> of a compressed state <b>450</b> of the insert <b>402</b> that is less than or equal to a smallest diameter of the liquid retention compartment of the outer shell, as shown in <figref idref="DRAWINGS">FIG. <b>30</b></figref>. For example, a diameter <b>420</b> of the compressed state <b>450</b> may be about 0.5 inches; about 0.25 inches to about 0.75 inches; about 0.5 inches to about one inch; etc. A diameter <b>410</b> of the uncompressed state <b>400</b> of the insert <b>402</b> may be substantially equal to a diameter of a liquid containing compartment, for example about 2 inches to about 5 inches; about 2.5 inches to about 4 inches; about 2.5 inches to about 3.5 inches; about 3 inches; etc., as shown in <figref idref="DRAWINGS">FIG. <b>29</b></figref>. In some embodiments, the compressed state <b>450</b> represents a semi-compressed state such that the insert <b>402</b> is maximally or fully compressed for insertion into the outer shell, but then partially or incrementally expands to fill the liquid retention compartment of the outer shell. In some embodiments, a diameter <b>420</b> of the compressed state <b>450</b> and/or a diameter <b>410</b> of in the uncompressed state <b>400</b> represents a maximum diameter of that state. In other embodiments, a diameter <b>420</b> of the compressed state <b>450</b> and/or a diameter <b>410</b> of in the uncompressed state <b>400</b> represents a minimum diameter of that state or an average diameter of that state. Although the embodiments in <figref idref="DRAWINGS">FIGS. <b>29</b>-<b>30</b></figref> show an insert that is shaped similarly to an outer shell into which it is placed, one of skill in the art will recognize that any shape of insert is contemplated (e.g., cylindrical, rectangular, etc.);</li>
+<li id="ul0001-0009" num="0129">a diameter <b>420</b> of a compressed state <b>450</b> of the insert <b>402</b> is about 2X to about 10X; about 2X to about 8X; about 4X to about 6X; about 5X to about 7X; etc. less than a diameter <b>410</b> of the uncompressed state <b>400</b> of the insert <b>402</b>;</li>
+<li id="ul0001-0010" num="0130">formed of or includes an antimicrobial material;</li>
+<li id="ul0001-0011" num="0131">washable, for example in a washing machine, by hand, in a dishwasher, or otherwise; or</li>
+<li id="ul0001-0012" num="0132">a combination thereof.</li>
+</ul>
+</p>
+<p id="p-0122" num="0133">In some embodiments, the insert may at least partially prevent wave propagation and/or sloshing of a liquid in the liquid retaining compartment defined by the outer shell. For example, the insert may at least partially absorb some of the liquid and/or at least partially disperse the water into separate cells or apertures to prevent larger volumes of water from moving in the compartment.</p>
+<p id="p-0123" num="0134">As used in the description and claims, the singular form &#x201c;a&#x201d;, &#x201c;an&#x201d; and &#x201c;the&#x201d; include both singular and plural references unless the context clearly dictates otherwise. For example, the term &#x201c;aperture&#x201d; may include, and is contemplated to include, a plurality of apertures. At times, the claims and disclosure may include terms such as &#x201c;a plurality,&#x201d; &#x201c;one or more,&#x201d; or &#x201c;at least one;&#x201d; however, the absence of such terms is not intended to mean, and should not be interpreted to mean, that a plurality is not conceived.</p>
+<p id="p-0124" num="0135">The term &#x201c;about&#x201d; or &#x201c;approximately,&#x201d; when used before a numerical designation or range (e.g., to define a length or pressure), indicates approximations which may vary by ( + ) or ( - ) 5%, 1% or 0.1%. All numerical ranges provided herein are inclusive of the stated start and end numbers. The term &#x201c;substantially&#x201d; indicates mostly (i.e., greater than 50%) or essentially all of a device, substance, or liquid.</p>
+<p id="p-0125" num="0136">As used herein, the term &#x201c;comprising&#x201d; or &#x201c;comprises&#x201d; is intended to mean that the devices include the recited elements and may additionally include any other elements. &#x201c;Consisting essentially of&#x201d; shall mean that the devices include the recited elements and exclude other elements of essential significance to the combination for the stated purpose. Thus, a device consisting essentially of the elements as defined herein would not exclude other materials or features that do not materially affect the basic and novel characteristic(s) of the claimed disclosure. &#x201c;Consisting of&#x201d; shall mean that the devices include the recited elements and exclude anything more than a trivial or inconsequential element. Embodiments defined by each of these transitional terms are within the scope of this disclosure.</p>
+<p id="p-0126" num="0137">The examples and illustrations included herein show, by way of illustration and not of limitation, specific embodiments in which the subject matter may be practiced. Other embodiments may be utilized and derived therefrom, such that structural and logical substitutions and changes may be made without departing from the scope of this disclosure. Such embodiments of the inventive subject matter may be referred to herein individually or collectively by the term &#x201c;invention&#x201d; merely for convenience and without intending to voluntarily limit the scope of this application to any single invention or inventive concept, if more than one is in fact disclosed. Thus, although specific embodiments have been illustrated and described herein, any arrangement calculated to achieve the same purpose may be substituted for the specific embodiments shown. This disclosure is intended to cover any and all adaptations or variations of various embodiments. Combinations of the above embodiments, and other embodiments not specifically described herein, will be apparent to those of skill in the art upon reviewing the above description.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-01-20" num="01-20">
+<claim-text><b>1</b>-<b>20</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. An anti-sloshing bottle, comprising:
+<claim-text>an outer shell defining a liquid retention compartment configured for storing liquid; and</claim-text>
+<claim-text>one or more wave breakers removably insertable into the outer shell, wherein each of the one or more wave breakers defines a plurality of apertures configured to disrupt a movement of a liquid retained in the outer shell.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The anti-sloshing bottle of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the one or more wave breakers comprises a plurality of wave breakers.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The anti-sloshing bottle of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the one or more wave breakers are reversibly couplable to an interior surface of the outer shell.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The anti-sloshing bottle of <claim-ref idref="CLM-00021">claim 21</claim-ref>, further comprising a lid, wherein the one or more wave breakers are reversibly couplable to the lid.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

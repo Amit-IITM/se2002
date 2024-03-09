@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225342A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225342</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18008969</doc-number>
+<date>20201216</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>B</subclass>
+<main-group>7</main-group>
+<subgroup>015</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>B</subclass>
+<main-group>71</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>B</subclass>
+<main-group>7</main-group>
+<subgroup>015</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>B</subclass>
+<main-group>71</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>V</subclass>
+<main-group>2300</main-group>
+<subgroup>12</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">STORAGE APPARATUS</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>HEFEI MIDEA REFRIGERATOR CO., LTD.</orgname>
+<address>
+<city>HEFEI</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="01" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>HEFEI HUALING CO., LTD.</orgname>
+<address>
+<city>HEFEI</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="02" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>MIDEA GROUP CO., LTD.</orgname>
+<address>
+<city>FOSHAN</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>REN</last-name>
+<first-name>Zhijie</first-name>
+<address>
+<city>HEFEI</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>FANG</last-name>
+<first-name>Min</first-name>
+<address>
+<city>HEFEI</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/CN2020/136970</doc-number>
+<date>20201216</date>
+</document-id>
+<us-371c12-date><date>20221208</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A storage apparatus, comprising a compartment; and a box assembly, which is arranged in the compartment. The box assembly comprises: a first side wall; a second side wall arranged opposite the first side wall; a first conductive layer arranged on the second side wall; a first electret membrane, which is arranged on the first side wall, located between the first side wall and the first conductive layer and arranged parallel to the first conductive layer; and an adjusting component, which is used for adjusting the electric field intensity between the first conductive layer and the first electret membrane.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="118.53mm" wi="99.91mm" file="US20230225342A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="217.09mm" wi="108.88mm" file="US20230225342A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="223.27mm" wi="108.97mm" file="US20230225342A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="175.34mm" wi="95.59mm" file="US20230225342A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="188.04mm" wi="119.46mm" file="US20230225342A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="144.61mm" wi="102.79mm" file="US20230225342A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="214.29mm" wi="97.96mm" file="US20230225342A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="201.85mm" wi="110.74mm" file="US20230225342A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="154.77mm" wi="100.50mm" file="US20230225342A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCES TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">The present disclosure is a national phase application of International Application No. PCT/CN2020/136970, filed on Dec. 16, 2020, the entireties of which are herein incorporated by reference</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">FIELD</heading>
+<p id="p-0003" num="0002">The present disclosure relates to the field of refrigeration apparatuses, and more particularly, to a storage apparatus.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">In the related art, studies on home appliances with storage functions such as refrigerators have shown that placing foods (fruits and vegetables, etc.) in an electrostatic field can effectively improve the shelf life and reduce the rate of spoilage. To form an electrostatic field, it is necessary to provide an energized electrode in a refrigerator compartment and arrange a power supply line, a voltage regulator, and the like, which is costly.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0005" num="0004">It is an object of the present disclosure to solve at least one of the technical problems existing in the prior art or related art.</p>
+<p id="p-0006" num="0005">To this end, in a first aspect of the present disclosure, a storage apparatus is provided.</p>
+<p id="p-0007" num="0006">In view of this, in the first aspect of the present disclosure, a storage apparatus is provided and includes: a compartment; a box assembly provided in the compartment, and the box assembly includes a first side wall and a second side wall, the second side wall being arranged opposite the first side wall; a first conductive layer provided on the second side wall; a first electret membrane provided on the first side wall, and the first electret membrane is between the first side wall and the first conductive layer and is in parallel with the first conductive layer; and an adjusting component for adjusting an intensity of an electric field between the first conductive layer and the first electret membrane.</p>
+<p id="p-0008" num="0007">In this embodiment, the storage apparatus can be a refrigerator, a freezer, or a cold storage containing a compartment. The compartment is kept at a constant and low temperature as set by a user to preserve the quality and freshness of materials.</p>
+<p id="p-0009" num="0008">A box assembly is provided in the compartment, and the distance between the first side wall and the second side wall of the box assembly can be adjusted by the adjusting component, that is, the adjusting component moves the first side wall closer to the second side wall to render a smaller air gap between the first side wall and the second side wall. In some embodiment, the adjusting component moves the first side wall farther from the second side wall to render a larger air gap between the first side wall and the second side wall.</p>
+<p id="p-0010" num="0009">Herein, the first side wall is provided with the first electret membrane, the second side wall is provided with the first conductive layer, and an electrostatic field can be generated between the first electret membrane and the first conductive layer.</p>
+<p id="p-0011" num="0010">In an embodiment, the electret is a dielectric material capable of long-term storage of electric charges. Therefore, the metal electrode is provided on one side of the electret material matrix, and the metal electrode is electrically polarized under the influence of the charges of the electret, and an electrode is formed without an external power source. Accordingly, the electrodes formed by the electret membrane may affect the distribution of charges in the first conductive layer, for electrically poling the first conductive layer as well. As such, an electrostatic field is generated between the first electret membrane and the first conductive layer.</p>
+<p id="p-0012" num="0011">The intensity of the electrostatic field is related to the distance between the first electret membrane and the first conductive layer. In an embodiment, when the distance between the first side wall and the second side wall decreases, the distance between the first electret membrane and the first conductive layer correspondingly decreases, and at this time, the intensity of the electrostatic field inside the box assembly increases; in an intensified electrostatic field, the cell membrane of bacteria may show perforation polarization, and then suffer irreversible damage, resulting in the inactivation of bacteria. The box assembly can thus be used as a sterilization apparatus.</p>
+<p id="p-0013" num="0012">As the distance between the first side wall and the second side wall increases, the electrostatic field intensity decreases, and the storage space between the first side wall and the second side wall expands. At this time, an electrostatic field with quite enough intensity is still maintained in the box assembly, and in the electrostatic field, food materials such as fruits and vegetables experience a break of the potential balance between the interior and exterior of a cell membrane, and charged particles on both sides of the cell membrane move directionally, for generating a biological current; the biological current can effectively inhibit ATP (adenosine triphosphate), and thus the metabolism of cells can be effectively inhibited for fresh keeping.</p>
+<p id="p-0014" num="0013">In the embodiment herein, the adjusting component is provided to adjust the distance between the first side wall and the second side wall in the box assembly and the box assembly can serve as a sterilization apparatus or a fresh-keeping apparatus. A user can adjust the working mode of the box assembly depending on actual requirements, catering to various requirements of the user, and accordingly, the storage apparatus has more function modes without additional function modules, for improving the user experience of the storage apparatus.</p>
+<p id="p-0015" num="0014">In the above embodiment, the box assembly further includes a second conductive layer provided on the first side wall and between the first side wall and the first electret membrane.</p>
+<p id="p-0016" num="0015">In this embodiment, the box assembly further includes the second conductive layer provided on the first side wall, and the second conductive layer is in parallel with the first conductive layer, that is, opposite electrical shielding layers are formed by the second conductive layer in combination with the first conductive layer, and the electrostatic field generated by the electret membrane is limited in a direction from the first side wall to the second side wall.</p>
+<p id="p-0017" num="0016">Taking the first side wall as a top wall and the second side wall as a bottom wall as an example, since the top wall and the bottom wall are respectively provided with the first conductive layer and the second conductive layer that are arranged opposite and parallel to each other, the electrostatic field can be limited in a vertical direction from the first side wall to the second side wall, i.e., between the top wall and the bottom wall. With the electrostatic field limited in one direction, a situation where electrostatic fields in multiple directions cancel each other is avoided, which is conducive to improving the intensity of the electrostatic field and rendering a better fresh-keeping effect of storing food or a better sterilization effect of the sterilization apparatus.</p>
+<p id="p-0018" num="0017">In any of the above embodiments, the box assembly further includes a second electret membrane provided on the first conductive layer, and the second electret membrane is in parallel with the first electret membrane, and the charge polarity of the second electret membrane is opposite to the charge polarity of the first electret membrane.</p>
+<p id="p-0019" num="0018">In this embodiment, the second electret membrane may further be provided in the box assembly, and the second electret membrane may be on the second side wall, opposite and in parallel with the first electret membrane. Herein, the charge polarity of the second electret membrane is opposite to the charge polarity of the first electret membrane, that is, when the second electret membrane is positively charged, the first electret membrane is negatively charged; when the second electret membrane is negatively charged, the first electret membrane is positively charged.</p>
+<p id="p-0020" num="0019">In the embodiment herein, the second electret membrane in parallel with the first electret membrane, and the charge polarity of the second electret membrane is opposite to the charge polarity of the first electret membrane, and thus the intensity of the electrostatic field is effectively increased, for improving the fresh-keeping effect of the box assembly to store food or the sterilization effect of the sterilization apparatus.</p>
+<p id="p-0021" num="0020">In any of the above embodiments, the storage apparatus includes a first ground line through which the first conductive layer is grounded, and a second ground line through which the second conductive layer is grounded.</p>
+<p id="p-0022" num="0021">In this embodiment, the first ground line and the second ground line are provided in the storage apparatus. The first ground line is connected to the first conductive layer and the first conductive layer is grounded. Similarly, the second ground line is connected to the second conductive layer and the second conductive layer is grounded. With the first conductive layer and the second conductive layer grounded, the first conductive layer and the second conductive layer have equal potentials, which can ensure that the electrostatic field generated by the electret membrane is limited in a fixed direction, advantageous for improving the intensity of the electrostatic field and rendering a better fresh-keeping effect of storing food.</p>
+<p id="p-0023" num="0022">In some embodiments, the first ground line is in communication with the second ground line, that is, the first conductive layer and the second conductive layer are commonly grounded, which can further increase the intensity of the electrostatic field.</p>
+<p id="p-0024" num="0023">In other embodiments, the first ground line and the second ground line are connected to a ground line of the refrigerator or a shell of the refrigerator.</p>
+<p id="p-0025" num="0024">In any of the above embodiments, the adjusting component includes a first connecting portion connected to the first side wall, a second connecting portion connected to the second side wall, and a drive member for driving the first connecting portion to move relative to the second connecting portion to move the first side wall closer to or away from the second side wall.</p>
+<p id="p-0026" num="0025">In this embodiment, the adjusting component includes the first connecting portion and the second connecting portion, and the first connecting portion is connected to the first side wall, and the second connecting portion is connected to the second side wall.</p>
+<p id="p-0027" num="0026">In an embodiment, in the box assembly, both the first side wall and the second side wall are configured to be movable. The box assembly may include five side walls, and the first side wall and the second side wall are arranger opposite to each other. As can be appreciated, the box assembly can further include fewer side walls, and in the case that the box assembly includes only the first side wall and the second side wall, the first side wall and the second side wall can optionally be top and bottom walls that sandwich something therebetween.</p>
+<p id="p-0028" num="0027">The first side wall and the second side wall are connected to the first connecting portion and the second connecting portion, respectively, and the first side wall can be fixedly connected to the first connecting portion by welding, adhesion or integral forming, or can be detachably connected to the first connecting portion by bolts, snaps, etc.</p>
+<p id="p-0029" num="0028">The drive member may be a direct current motor, and a gear is provided at an output end of the direct current motor, and the gear drives a rack to move, for driving the first side wall and the second side wall to move closer to or away from each other.</p>
+<p id="p-0030" num="0029">The drive member may also be a linear motor having a driving end directly connected to one of the first and second connecting portions, for directly driving the first and second side walls to move closer to or away from each other.</p>
+<p id="p-0031" num="0030">In the embodiment herein, the first connecting portion and the second connecting portion are driven by the drive member, for changing the distance between the first side wall and the second side wall, and the box assembly can serve as a sterilization apparatus or a fresh-keeping apparatus. A user can adjust the working mode of the box assembly depending on actual requirements, catering to various requirements of the user, and accordingly, the storage apparatus has more function modes without additional function modules, for improving the user experience of the storage apparatus.</p>
+<p id="p-0032" num="0031">In any of the above embodiments, the storage apparatus further includes a controller connected to the drive member, and the controller is configured to control the first connecting portion to move relative to the second connecting portion to bring the first conductive layer closer to the second conductive layer in response to a sterilizing instruction, and control the first connecting portion to move relative to the second connecting portion to bring the first conductive layer away from the second conductive layer in response to a fresh-keeping instruction, for forming a receiving cavity between the first conductive layer and the second conductive layer.</p>
+<p id="p-0033" num="0032">In this embodiment, upon the reception of the sterilizing instruction, the drive member is controlled to drive the first connecting portion to move towards the second connecting portion, and the air gap between the first conductive layer and the second conductive layer gets smaller, and the box assembly enters the sterilization mode.</p>
+<p id="p-0034" num="0033">Upon the reception of the fresh-keeping instruction, the drive member is controlled to drive the first connecting portion to move away from the second connecting portion, and the air gap between the first conductive layer and the second conductive layer gets larger, and the box assembly enters the fresh-keeping mode.</p>
+<p id="p-0035" num="0034">In an embodiment, assuming that the thickness of the electret membrane is s and the charges are distributed on the surface of the electret membrane with a density &#x3c3;, the first conductive layer and the second conductive layer have induced charges on their surfaces under the influence of the electret charges. The density of the induced charges on the surface of the first conductive layer is &#x3c3;<sub>0</sub>, and the density of the induced charges on the surface of the second conductive layer is &#x3c3;<sub>1</sub>. S<sub>1 </sub>is the distance between the first conductive layer and the second conductive layer, &#x3b5;<sub>r </sub>is the relative dielectric constant of the electret membrane, and &#x3b5;<sub>r1 </sub>is the relative dielectric constant of the air gap between the first conductive layer and the second conductive layer. E is the intensity of the electrostatic field between the first conductive layer and the second conductive layer.</p>
+<p id="p-0036" num="0035">According to the Gauss Theorem and Kirchhoff's Second Law, the following equation is obtained:</p>
+<p id="p-0037" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+ <mrow>
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+   <mrow>
+    <mi>s</mi>
+    <mo>&#x2062;</mo>
+    <mi>&#x3c3;</mi>
+   </mrow>
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>&#x3b5;</mi>
+      <mi>r</mi>
+     </msub>
+     <mo>&#x2062;</mo>
+     <msub>
+      <mi>&#x3b5;</mi>
+      <mrow>
+       <mi>r</mi>
+       <mo>&#x2062;</mo>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>&#x2062;</mo>
+     <mi>s</mi>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+     <msub>
+      <mi>&#x3b5;</mi>
+      <mi>r</mi>
+     </msub>
+     <mo>&#x2062;</mo>
+     <msub>
+      <mi>&#x3b5;</mi>
+      <mrow>
+       <mi>r</mi>
+       <mo>&#x2062;</mo>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>&#x2062;</mo>
+     <msub>
+      <mi>s</mi>
+      <mn>1</mn>
+     </msub>
+    </mrow>
+   </mrow>
+  </mfrac>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0038" num="0036">It can be seen that the intensity of the electrostatic field generated by the electret membrane is inversely related to the distance between the first conductive layer and the second conductive layer.</p>
+<p id="p-0039" num="0037">The sterilization mode has higher requirements on the intensity of the electrostatic field, and an electrostatic field with higher intensity can better inactivate bacteria and improve the sterilization efficiency. Therefore, in the sterilization mode, the air gap distance between the first conductive layer and the second conductive layer is reduced, and the sterilization effect can be effectively improved.</p>
+<p id="p-0040" num="0038">However, an electrostatic field with lower intensity is enough for the fresh-keeping mode, and a larger air gap distance is conducive to storing more food materials. Therefore, in the fresh-keeping mode, the air gap distance between the first conductive layer and the second conductive layer can be appropriately increased.</p>
+<p id="p-0041" num="0039">In the embodiment herein, the distance between the first conductive layer and the second conductive layer is adjusted in different working modes to facilitate the switch between the sterilization and fresh-keeping modes, which is beneficial for improving the user experience.</p>
+<p id="p-0042" num="0040">In any of the above embodiments, the storage apparatus further includes a fan oriented towards the air gap between the first side wall and the second side wall, and the controller is further configured to control the fan to begin operating in response to the sterilizing instruction.</p>
+<p id="p-0043" num="0041">In this embodiment, the storage apparatus further includes the fan having an outlet directed towards the air gap between the first side wall and the second side wall. When the box assembly is operated in the sterilization mode, the air in the compartment of the refrigerator is guided through the air gap between the first conductive layer and the second conductive layer by the fan, i.e., through the electrostatic field, hence the bacteria suspended in the air are inactivated in the electrostatic field, and thus effective sterilization is achieved.</p>
+<p id="p-0044" num="0042">Herein, the operation of the fan can further be controlled according to the state (i.e., being opened or closed) of the door body of the compartment. When the door of a refrigerator is detected to be opened, since the compartment of the refrigerator is in communication with the external environment now, the exchange of the air in the compartment with the external air may be accelerated if the fan continues operating, resulting in the loss of the cold energy and the massive invasion of external bacteria into the compartment. Therefore, at this time, the fan can be controlled to stop.</p>
+<p id="p-0045" num="0043">When the door of the refrigerator is detected to be closed, the external bacteria may invade into the compartment at the moment that the door is opened, and at this time, the fan is controlled to automatically operate for a while at the maximum rate, which can effectively kill the invasive bacteria in the compartment and enable the function of sterilizing, fresh keeping, and deodorizing.</p>
+<p id="p-0046" num="0044">In any of the above embodiments, the storage apparatus further includes a display control device connected to the controller for receiving the sterilizing instruction and the fresh-keeping instruction and displaying the working state of the box assembly.</p>
+<p id="p-0047" num="0045">In the embodiment, the display control device may be a touch screen or a combination of a display screen and switch keys, and the embodiments of the present disclosure do not limit the specific type of the display control device.</p>
+<p id="p-0048" num="0046">The display control device can receive the sterilizing instruction or the fresh-keeping instruction from a user and show the working state of the box assembly. In an embodiment, when the box assembly operates in the sterilization mode, the display control device correspondingly displays a text message that reads &#x201c;sterilization in progress&#x201d; or an animation message; when the sterilization is finished, the words like &#x201c;sterilization finished&#x201d; and &#x201c;fresh keeping in progress&#x201d; can be displayed.</p>
+<p id="p-0049" num="0047">Similarly, in an embodiment, when the box assembly operates in the fresh-keeping mode, the display control device correspondingly displays a text message that reads &#x201c;fresh keeping in progress&#x201d;, as well as the elapsed time after entering the fresh-keeping mode, such as &#x201c;in fresh keeping for 48 hours&#x201d;. As such, the user is well informed of the operation state of the storage apparatus at any time and enjoys a good user experience.</p>
+<p id="p-0050" num="0048">In any of the above embodiments, the first conductive layer and the second conductive layer are metal conductive layers.</p>
+<p id="p-0051" num="0049">In this embodiment, the first conductive layer and the second conductive layer can be formed as &#x201c;electrodes&#x201d;, and the material thereof can be selected as a metal material and made into a metal conductive layer. Herein, the metal conductive layer can be an aluminum, copper, iron, or silver conductive layer, and in some embodiments, the metal material can be replaced by non-metallic conductive materials such as elemental carbon and isostructural forms of carbon. The specific material of the metal conductive layer is not limited to the embodiments of the present disclosure.</p>
+<p id="p-0052" num="0050">In any of the above embodiments, the electret membrane includes the electret material matrix, and the metal electrode provided on one side of the electret material matrix and attached to the electret material matrix.</p>
+<p id="p-0053" num="0051">In this embodiment, the electret is a dielectric material capable of long-term storage of electric charges. Therefore, the metal electrode is provided on one side of the electret material matrix, and the metal electrode is electrically polarized under the influence of the charges of the electret, and an electrode is formed without an external power source.</p>
+<p id="p-0054" num="0052">In an embodiment, because of the electric polarization of the electret membrane, the electret membrane can form an electrostatic field in the storage unit; in the electrostatic field, food materials such as fruits and vegetables experience a break of the potential balance between the interior and exterior of a cell membrane, and charged particles on both sides of the cell membrane move directionally, for generating a biological current; the biological current can effectively inhibit ATP (adenosine triphosphate), and thus the metabolism of cells can be effectively inhibited for fresh keeping.</p>
+<p id="p-0055" num="0053">Moreover, in the electrostatic field, the cell membrane of bacteria may show perforation polarization, and then suffer irreversible damage, resulting in the inactivation of bacteria. The fan can guide a certain range of air continuously into the electrostatic field, for effectively inactivating bacteria in the air passing through the air gap.</p>
+<p id="p-0056" num="0054">Given the technical solution herein, the electret membrane can be electrically polarized without an external power source and form an electrostatic field that can simplify the electrostatic-field fresh-keeping and sterilizing structure and reduce the cost of generating the electrostatic field, which facilitates low-cost and highly reliable fresh-keeping and sterilizing effects through the electrostatic field.</p>
+<p id="p-0057" num="0055">In the above embodiment, the first electret membrane and the second electret membrane further include a hydrophobic layer provided on an outer surface of the electret material matrix and/or the metal electrode.</p>
+<p id="p-0058" num="0056">In this embodiment, when the electret membrane is applied in a refrigerator, condensed water is easily generated outside the electret membrane due to the cellular respiration of vegetables and fruits. Providing the hydrophobic layer on the outer surface of the electret membrane can effectively prevent the condensed water from invading into the interior of the electret membrane to cause charge loss or rust on the metal electrode, protect the electret membrane, and improve the service life of the electret membrane.</p>
+<p id="p-0059" num="0057">In any of the above embodiments, a material of the electret material matrix includes at least one of: poly tetra fluoroethylene, polypropylene, polyethylene, tetrafluorethylene-hexafluoropropylene, fluorinated ethylene propylene copolymer, silicon dioxide, aluminium oxide, magnesium dioxide, and silicon tetranitride.</p>
+<p id="p-0060" num="0058">In this embodiment, the electret material matrix includes electret materials, and in particular, the electret materials include poly tetra fluoroethylene (PTEF), polypropylene (PP), polyethylene (PE), tetrafluorethylene-hexafluoropropylene (F46), fluorinated ethylene-propylene copolymer (FEP), silicon dioxide, aluminium oxide, magnesium dioxide, and silicon tetranitride, and polyethylene includes large-size crystal-structure high-density polyethylene (HDPE), microcrystalline high-density polyethylene, medium-density polyethylene (HDPE) and low-density polyethylene (LDPE).</p>
+<p id="p-0061" num="0059">It should be understood that the electret materials include one or mixtures of the above materials, as well as other known electret materials; the embodiments of the present disclosure do not limit the types of the electret materials, and any material having electret properties is a possible embodiment of the present disclosure.</p>
+<p id="p-0062" num="0060">In any of the above embodiments, the metal electrode includes aluminum electrodes, copper electrodes, iron electrodes, or silver electrodes.</p>
+<p id="p-0063" num="0061">In this embodiment, the metal electrode includes aluminum electrodes, copper electrodes, iron electrodes, or silver electrodes. The specific materials of the metal electrode are not limited to the embodiments of the present disclosure.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0064" num="0062">The foregoing and/or additional aspects and advantages of the present disclosure will become apparent and readily appreciated from the following description of the embodiments, taken in conjunction with the accompanying drawings of which:</p>
+<p id="p-0065" num="0063"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a structure of an electret membrane according to an embodiment of the present disclosure;</p>
+<p id="p-0066" num="0064"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a first flowchart of a preparation method of an electret membrane according to an embodiment of the present disclosure;</p>
+<p id="p-0067" num="0065"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a second flowchart of the preparation method of an electret membrane according to an embodiment of the present disclosure;</p>
+<p id="p-0068" num="0066"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows a structure of a box assembly according to an embodiment of the present disclosure;</p>
+<p id="p-0069" num="0067"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a block diagram showing a structure of a refrigeration apparatus according to an embodiment of the present disclosure;</p>
+<p id="p-0070" num="0068"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows a structure of a refrigeration apparatus according to an embodiment of the present disclosure;</p>
+<p id="p-0071" num="0069"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a first flowchart showing a method of controlling the refrigeration apparatus according to an embodiment of the present disclosure;</p>
+<p id="p-0072" num="0070"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a second flowchart showing a method of controlling the refrigeration apparatus according to an embodiment of the present disclosure;</p>
+<p id="p-0073" num="0071"><figref idref="DRAWINGS">FIG. <b>9</b>A</figref> is a first structural diagram of a sterilization apparatus according to an embodiment of the present disclosure;</p>
+<p id="p-0074" num="0072"><figref idref="DRAWINGS">FIG. <b>9</b>B</figref> is a second structural diagram of the sterilization apparatus according to an embodiment of the present disclosure;</p>
+<p id="p-0075" num="0073"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a schematic diagram showing a structure of a refrigerator according to an embodiment of the present disclosure;</p>
+<p id="p-0076" num="0074"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a structural diagram of the refrigeration apparatus according to an embodiment of the present disclosure;</p>
+<p id="p-0077" num="0075"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a structural diagram of the box assembly according to an embodiment of the present disclosure;</p>
+<p id="p-0078" num="0076"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a schematic representation of a distribution of electric charges inside an electret;</p>
+<p id="p-0079" num="0077"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a first schematic diagram of an electret generating an electric field in a drawer;</p>
+<p id="p-0080" num="0078"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a second schematic diagram of the electret generating an electric field in the drawer;</p>
+<p id="p-0081" num="0079"><figref idref="DRAWINGS">FIG. <b>16</b></figref> shows a sectional view of a refrigerator drawer.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0082" num="0080">A list of reference signs in <figref idref="DRAWINGS">FIGS. <b>1</b> to <b>16</b></figref> is as follows:</p>
+<p id="p-0083" num="0081"><b>100</b> electret membrane, <b>102</b> electret material matrix, <b>104</b> metal electrode, <b>106</b> hydrophobic layer;</p>
+<p id="p-0084" num="0082"><b>200</b> box assembly, <b>202</b> upper cover plate, <b>206</b> second conductive layer, <b>2062</b> second ground line, <b>208</b> first electret membrane, <b>210</b> first side wall, <b>212</b> body, <b>214</b> first conductive layer, <b>2142</b> first ground line, <b>216</b> second side wall, <b>218</b> support plate;</p>
+<p id="p-0085" num="0083"><b>300</b> refrigeration apparatus, <b>302</b> refrigeration compartment;</p>
+<p id="p-0086" num="0084"><b>400</b> sterilization apparatus, <b>402</b> second electret membrane, <b>404</b> first conductive layer, <b>4042</b> first ground line, <b>406</b> first electret membrane, <b>408</b> second conductive layer, <b>4082</b> second ground line, <b>410</b> fan;</p>
+<p id="p-0087" num="0085"><b>500</b> refrigerator, <b>502</b> refrigeration compartment, <b>506</b> door body, <b>508</b> door sensor;</p>
+<p id="p-0088" num="0086"><b>600</b> refrigeration apparatus, <b>602</b> refrigeration compartment, <b>604</b> box assembly, <b>6041</b> first side wall, <b>6042</b> second conductive layer, <b>6043</b> first electret membrane, <b>6044</b> second electret membrane, <b>6045</b> first conductive layer, <b>6046</b> second side wall, <b>6047</b> first connecting portion, <b>6048</b> second connecting portion, <b>6049</b> adjusting component;</p>
+<p id="p-0089" num="0087"><b>700</b> refrigerator drawer, <b>702</b> upper cover plate, <b>704</b> first electret membrane, <b>706</b> second conductive layer, <b>708</b> first side wall, <b>710</b> second side wall, <b>712</b> first conductive layer, <b>714</b> second ground line, <b>716</b> first ground line.</p>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE DISCLOSURE</heading>
+<p id="p-0090" num="0088">In order that the above-recited objects, features, and advantages of the present disclosure may be more clearly understood, a more particular description of the disclosure will be rendered by reference to specific embodiments thereof which are illustrated in the appended drawings. It should be noted that the embodiments and features of the embodiments of the present disclosure can be combined with each other without conflict.</p>
+<p id="p-0091" num="0089">In the following description, numerous specific details are set forth to provide a thorough understanding of the present disclosure. However, the present disclosure may be practiced otherwise than as described herein. Accordingly, the scope of the present disclosure is not limited by the specific embodiments disclosed below.</p>
+<p id="p-0092" num="0090">A storage apparatus according to some embodiments of the present disclosure is described below with reference to <figref idref="DRAWINGS">FIGS. <b>1</b> to <b>16</b></figref>.</p>
+<heading id="h-0007" level="1">Embodiment 1</heading>
+<p id="p-0093" num="0091"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a structure of an electret membrane <b>100</b> according to an embodiment of the present disclosure. The electret membrane <b>100</b> includes: an electret material matrix <b>102</b>, a metal electrode <b>104</b> provided on one side of the matrix and attached to the electret material matrix <b>102</b>, and a hydrophobic layer <b>106</b> provided on an outer surface of the electret material matrix <b>102</b> and/or the metal electrode <b>104</b>.</p>
+<p id="p-0094" num="0092">Herein, the materials of the electret material matrix <b>102</b> includes at least one of poly tetra fluoroethylene, polypropylene, and polyethylene.</p>
+<p id="p-0095" num="0093">The metal electrode <b>104</b> includes aluminum electrode and aluminum alloy electrode, copper electrode and copper alloy electrode, iron electrode and iron alloy electrode, or silver electrode and silver alloy electrode.</p>
+<p id="p-0096" num="0094">In the embodiment herein, the electret is a dielectric material capable of long-term storage of electric charges. Therefore, the metal electrode <b>104</b> is provided on one side of the electret material matrix <b>102</b>, and the metal electrode <b>104</b> is electrically polarized under the influence of the charges of the electret, and an electrode is formed without an external power source.</p>
+<p id="p-0097" num="0095">In an embodiment, the electret membrane <b>100</b> of the embodiment herein is provided in a storage compartment of a refrigerator, and in particular, on one side of a storage unit such as a storage grid, a drawer, and a fresh-keeping box of the refrigerator; because of the electric polarization of the electret membrane <b>100</b>, the electret membrane <b>100</b> can form an electrostatic field in the storage unit; in the electrostatic field, food materials such as fruits and vegetables experience a break of the potential balance between the interior and exterior of a cell membrane, and charged particles on both sides of the cell membrane move directionally, for generating a biological current; the biological current can effectively inhibit ATP (adenosine triphosphate), and thus the metabolism of cells can be effectively inhibited for fresh keeping.</p>
+<p id="p-0098" num="0096">Moreover, for fruits and vegetables, the activity of biological enzyme is further one of the main factors affecting the metabolism, and the structural changes of water molecules around enzyme protein will further cause changes in the physiological state of fruits and vegetables. The water molecules in the fruit and vegetable cells are polar molecules and exist in the form of a water molecule cluster formed by hydrogen bonding, and this water molecule cluster is a non-fixed dynamic structure. In the electrostatic field, the structure of the water molecule cluster will change, and then change how the water molecules are bonded to the enzyme protein, and the activity of the enzyme protein is reduced, which further inhibits the metabolism of fruits and vegetables for fresh keeping.</p>
+<p id="p-0099" num="0097">Furthermore, cellular respiration exists in the food such as fruits and vegetables, and it is mainly iron ions that serve as a transporter of electrons in the respiration. The electrostatic field affects the iron ions and then disturbs the metabolism associated with the iron ions, and the electron transfer in a respiration chain of the fruits or vegetables is blocked, and thus the respiration of the plant would be inhibited, for inhibiting the metabolism of the fruits or vegetables for fresh keeping.</p>
+<p id="p-0100" num="0098">When the electret membrane <b>100</b> is applied in a refrigerator, condensed water is easily generated outside the electret membrane <b>100</b> due to the cellular respiration of vegetables and fruits. Providing the hydrophobic layer <b>106</b> on the outer surface of the electret membrane <b>100</b> can effectively prevent the condensed water from invading into the interior of the electret membrane <b>100</b> to cause charge loss or rust on the metal electrode <b>104</b>, protect the electret membrane <b>100</b>, and improve the service life of the electret membrane <b>100</b>.</p>
+<p id="p-0101" num="0099">Herein, the electret material matrix <b>102</b> includes an electret material, the electret material includes poly tetra fluoroethylene (PTEF), polypropylene (PP), and polyethylene (PE), and polyethylene includes large-size crystal-structure high-density polyethylene (HDPE), microcrystalline high-density polyethylene, medium-density polyethylene (HDPE) and low-density polyethylene (LDPE).</p>
+<p id="p-0102" num="0100">It should be understood that the electret materials include one or mixtures of the above materials, as well as other known electret materials; the embodiments of the present disclosure do not limit the types of the electret materials, and any material having electret properties is a possible embodiment of the present disclosure.</p>
+<p id="p-0103" num="0101">The metal electrode <b>104</b> includes aluminum electrode and aluminum alloy electrode, copper electrode and copper alloy electrode, iron electrode and iron alloy electrode, or silver electrode and silver alloy electrode. The specific materials of the metal electrode <b>104</b> are not limited to embodiments of the present disclosure.</p>
+<p id="p-0104" num="0102">Given the embodiment herein, an electret membrane <b>100</b> is prepared, the electret membrane <b>100</b> can be electrically polarized without an external power source and form an electrostatic field that can simplify the electrostatic-field fresh-keeping structure and reduce the cost of generating the electrostatic field when applied to the fresh-keeping function of equipment such as a refrigerator, which is conducive to providing the fresh-keeping equipment such as a refrigerator with a low-cost and highly reliable fresh-keeping electrostatic field.</p>
+<heading id="h-0008" level="1">Embodiment 2</heading>
+<p id="p-0105" num="0103"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a first flowchart of a preparation method of an electret membrane according to an embodiment of the present disclosure, wherein the preparation method is used for producing the electret membrane provided in &#x201c;Embodiment 1&#x201d;.</p>
+<p id="p-0106" num="0104">In an embodiment, the preparation method includes steps of:</p>
+<p id="p-0107" num="0105">step S<b>202</b>, mixing a dielectric material and a masterbatch to obtain a mixture;</p>
+<p id="p-0108" num="0106">step S<b>204</b>, melting the obtained mixture, applying a first temperature, and pressing the mixture to obtain a press-formed original matrix;</p>
+<p id="p-0109" num="0107">step S<b>206</b>, stretching the original matrix to obtain a stretched electret material matrix;</p>
+<p id="p-0110" num="0108">step S<b>208</b>, coating a metal electrode to one side of the electret material matrix through vacuum evaporation, and performing corona poling; and</p>
+<p id="p-0111" num="0109">step S<b>210</b>, spraying a hydrophobic coating on an outer surface of the electret material matrix and/or the metal electrode to form a hydrophobic layer, and obtaining a final electret membrane.</p>
+<p id="p-0112" num="0110">Herein, the hydrophobic coating includes at least one of ethylene tetrafluoroethylene copolymer, polyolefin, polycarbonate, and polyamide.</p>
+<p id="p-0113" num="0111">In the embodiment herein, the materials forming the electret material matrix in the electret membrane include primarily the dielectric material and the masterbatch, and the dielectric material and the masterbatch are mixed, a proportion of the dielectric material can range between 75% and 85%, and a proportion of the masterbatch correspondingly ranges between 25% and 15%.</p>
+<p id="p-0114" num="0112">After the dielectric material and the masterbatch are mixed, a melt blending process is performed, during which the mixture is pressed at the first temperature to obtain the original matrix in its original state.</p>
+<p id="p-0115" num="0113">After the original matrix is obtained, the original matrix is stretched and processed into a &#x201c;membrane&#x201d;-shaped electret material matrix with a proper thickness, the metal electrode is coated to one side of the matrix through vacuum evaporation and the metal electrode is subjected to corona poling to obtain the electret membrane.</p>
+<p id="p-0116" num="0114">When the electret membrane is applied in a refrigerator, condensed water is easily generated outside the electret membrane due to the cellular respiration of vegetables and fruits. Providing the hydrophobic layer on the outer surface of the electret membrane can effectively prevent the condensed water from invading into the interior of the electret membrane to cause charge loss or rust on the metal electrode, protect the electret membrane, and improve the service life of the electret membrane.</p>
+<p id="p-0117" num="0115">Herein, the hydrophobic coating includes ethylene-tetrafluoroethylene copolymer, polyolefin, polycarbonate, and polyamide.</p>
+<p id="p-0118" num="0116">It should be understood that the hydrophobic coating includes a solution or mixture of the above materials, as well as other known hydrophobic coatings. The embodiments of the present disclosure do not limit the type of hydrophobic coating, and any material having hydrophobic properties is a possible embodiment of the present disclosure.</p>
+<p id="p-0119" num="0117">The preparation of the electret membrane through the process provided in the embodiments of the present disclosure is simple and has a high yield, and efficient batch preparation of the electret membrane at a low cost is achieved. The resulting electret membrane can be electrically polarized without an external power source and form an electrostatic field that can simplify the electrostatic-field fresh-keeping structure when applied to the fresh-keeping function of equipment such as a refrigerator and reduce the cost of generating the electrostatic field, which is conducive to providing the fresh-keeping equipment such as a refrigerator with a low-cost and highly reliable fresh-keeping electrostatic field.</p>
+<heading id="h-0009" level="1">Embodiment 3</heading>
+<p id="p-0120" num="0118">In the preparation method of an electret membrane shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the dielectric material mentioned in step S<b>202</b> includes poly tetra fluoroethylene, polypropylene, large-size crystal-structure high-density polyethylene, microcrystalline high-density polyethylene, medium-density polyethylene, and low-density polyethylene.</p>
+<p id="p-0121" num="0119">In the embodiment herein, the dielectric material includes poly tetra fluoroethylene (PTEF), polypropylene (PP), and polyethylene (PE), and polyethylene includes large-size crystal-structure high-density polyethylene (HDPE), microcrystalline high-density polyethylene, medium-density polyethylene (MDPE) and low-density polyethylene (LDPE).</p>
+<p id="p-0122" num="0120">It should be understood that the dielectric material includes one or mixtures of the above materials, as well as other known electret materials; the present embodiments do not limit the types of the electret materials, and any material having electret properties is a possible embodiment of the present disclosure.</p>
+<p id="p-0123" num="0121">Given the dielectric material of the embodiment herein, efficient batch preparation of the electret membrane at a low cost is achieved. The resulting electret membrane can be electrically polarized without an external power source and form an electrostatic field that can simplify the electrostatic-field fresh-keeping structure when applied to the fresh-keeping function of equipment such as a refrigerator and reduce the cost of generating the electrostatic field, which is conducive to providing the fresh-keeping equipment such as a refrigerator with a low-cost and highly reliable fresh-keeping electrostatic field.</p>
+<heading id="h-0010" level="1">Embodiment 4</heading>
+<p id="p-0124" num="0122">In the preparation method of an electret membrane shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the masterbatch mentioned in step S<b>202</b> includes polypropylene, calcium carbonate, titanium oxide, and a coupling agent.</p>
+<p id="p-0125" num="0123">Herein, a proportion of the polypropylene is 37.5% to 47.5%, a proportion of the calcium carbonate is 42.5% to 52.5%, a proportion of the titanium oxide is 2.5% to 7.5%, and a proportion of the coupling agent is 2.5% to 7.5%.</p>
+<p id="p-0126" num="0124">In the embodiment herein, the masterbatch includes polypropylene (PP), calcium carbonate (CaCO<sub>3</sub>), titanium oxide (TiO<sub>2</sub>) and a coupling agent, and the coupling agent can be a chromium complex coupling agent, a silane coupling agent, a titanate coupling agent, and the like. The specific type of the coupling agent is not limited to the embodiments of the present disclosure.</p>
+<p id="p-0127" num="0125">Herein, the proportion of the polypropylene (PP) in the total masterbatch is between 37.5% and 47.5%, the proportion of the calcium carbonate (CaCO<sub>3</sub>) in the total masterbatch is between 42.5% and 52.5%, the proportion of the titanium oxide (TiO<sub>2</sub>) in the total masterbatch is between 2.5% and 7.5%, and the proportion of the coupling agent in the total masterbatch is between 2.5% and 7.5%.</p>
+<p id="p-0128" num="0126">It should be understood that the above proportions may be adjusted depending on the actual production, and a sum of the proportions of the components in the masterbatch shall be 1, however, the sum may be less than 1 taking into account possible impurities.</p>
+<p id="p-0129" num="0127">Given the components and proportions thereof in the masterbatch according to the embodiment herein, efficient batch preparation of the electret membrane at a low cost is achieved. The resulting electret membrane can be electrically polarized without an external power source and form an electrostatic field that can simplify the electrostatic-field fresh-keeping structure when applied to the fresh-keeping function of equipment such as a refrigerator and reduce the cost of generating the electrostatic field, which is conducive to providing the fresh-keeping equipment such as a refrigerator with a low-cost and highly reliable fresh-keeping electrostatic field.</p>
+<heading id="h-0011" level="1">Embodiment 5</heading>
+<p id="p-0130" num="0128">In the preparation method of an electret membrane shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the first temperature mentioned in step S<b>204</b> ranges from 230&#xb0; C. to 250&#xb0; C.</p>
+<p id="p-0131" num="0129">In the embodiment herein, in the step of melt-blending the dielectric material and the masterbatch, the melt-blending is performed at a temperature ranging between 230&#xb0; C. and 250&#xb0; C., which is advantageous for improving the mixing efficiency and the quality of the prepared electret material matrix.</p>
+<p id="p-0132" num="0130">It can be understood that the melting temperature can be adjusted accordingly depending on the type of the dielectric material and the type of the masterbatch to ensure the preparation effect.</p>
+<p id="p-0133" num="0131">Given the melting temperature provided in the embodiment of the present disclosure, the preparation of the electret membrane is simple in the process and has a high yield. Efficient batch preparation of the electret membrane at a low cost is achieved. The resulting electret membrane can be electrically polarized without an external power source and form an electrostatic field that can simplify the electrostatic-field fresh-keeping structure when applied to the fresh-keeping function of equipment such as a refrigerator and reduce the cost of generating the electrostatic field, which is conducive to providing the fresh-keeping equipment such as a refrigerator with a low-cost and highly reliable fresh-keeping electrostatic field.</p>
+<heading id="h-0012" level="1">Embodiment 6</heading>
+<p id="p-0134" num="0132"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a second flowchart of the preparation method of an electret membrane according to an embodiment of the present disclosure, and the process of stretching the original matrix can include:</p>
+<p id="p-0135" num="0133">step S<b>302</b>, stretching the original matrix in a first direction at a second temperature;</p>
+<p id="p-0136" num="0134">and</p>
+<p id="p-0137" num="0135">step S<b>304</b>, stretching the original matrix in a second direction at a third temperature.</p>
+<p id="p-0138" num="0136">Herein, the first direction is perpendicular to the second direction, the second temperature ranges from 100&#xb0; C. to 125&#xb0; C., and the third temperature ranges from 158&#xb0; C. to 175&#xb0; C.</p>
+<p id="p-0139" num="0137">In the embodiment herein, after the original matrix is obtained by pressing, the original matrix is stretched in a length direction and a width direction of the original matrix, respectively, to stretch the original matrix to a suitable thickness.</p>
+<p id="p-0140" num="0138">In an embodiment, the original matrix is stretched lengthwise at the second temperature and then widthwise at the third temperature. It can be understood that the original matrix formed after pressing is a &#x201c;plate&#x201d; shape; to improve the production efficiency, the press-formed original matrix is stretched in both directions for secondary shaping, and finally a thinner electret material matrix with a more uniform thickness is obtained, which is conducive to improving the preparation efficiency and yield of the electret membrane.</p>
+<p id="p-0141" num="0139">Herein, the original matrix is stretched lengthwise at a temperature ranging from 100&#xb0; C. to 125&#xb0; C., and then stretched widthwise at a temperature ranging from 158&#xb0; C. to 175&#xb0; C. It can be understood that the temperature at which the matrix is stretched is related to the types of the masterbatch and dielectric material, and the melting temperature can be adjusted correspondingly according to the types of the dielectric material and masterbatch to ensure the stretching effect.</p>
+<p id="p-0142" num="0140">Given the preparation process provided in the embodiment of the present disclosure, the preparation of the electret membrane features a simple process and a high yield. Efficient batch preparation of the electret membrane at a low cost is achieved. The resulting electret membrane can be electrically polarized without an external power source and form an electrostatic field that can simplify the electrostatic-field fresh-keeping structure when applied to the fresh-keeping function of equipment such as a refrigerator and reduce the cost of generating the electrostatic field, which is conducive to providing the fresh-keeping equipment such as a refrigerator with a low-cost and highly reliable fresh-keeping electrostatic field.</p>
+<heading id="h-0013" level="1">Embodiment 7</heading>
+<p id="p-0143" num="0141">In some embodiments of the present disclosure, the metal electrode includes aluminum electrode and aluminum alloy electrode, copper electrode and copper alloy electrode, iron electrode and iron alloy electrode, or silver electrode and silver alloy electrode, and a thickness of the metal electrode ranges from 80 nm to 120 nm.</p>
+<p id="p-0144" num="0142">In the embodiment herein, the metal electrode includes aluminum electrode and aluminum alloy electrode, copper electrode and copper alloy electrode, iron electrode and iron alloy electrode, or silver electrode and silver alloy electrode. The specific materials of the metal electrode are not limited to embodiments of the present disclosure.</p>
+<p id="p-0145" num="0143">Moreover, the thickness of the metal electrode is 80 nm to 120 nm. According to different application scenarios and different thickness requirements of the electret membrane, the thickness of the metal electrode can be adjusted correspondingly, and the specific thickness of the metal electrode is not defined in the embodiments of the present disclosure.</p>
+<heading id="h-0014" level="1">Embodiment 8</heading>
+<p id="p-0146" num="0144"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows a structure of a box assembly <b>200</b> according to an embodiment of the present disclosure, and the box assembly <b>200</b> includes a body <b>212</b>, a storage chamber, a first electret membrane <b>208</b>, and a first conductive layer <b>214</b>, the storage chamber including a first side wall <b>210</b> provided with the first electret membrane <b>208</b> and a second side wall <b>216</b> provided with the second conductive layer <b>206</b>.</p>
+<p id="p-0147" num="0145">Herein, the first side wall <b>210</b> and the second side wall <b>216</b> are arranged opposite to each other, and the first conductive layer <b>214</b> is in parallel with the first electret membrane <b>208</b>.</p>
+<p id="p-0148" num="0146">In the embodiment herein, the box assembly <b>200</b> can be used to store food such as vegetables and fruits, and the box assembly <b>200</b> has the storage chamber formed therein, and the stored food is placed in the storage chamber. The storage chamber includes the first side wall <b>210</b> and the second side wall <b>216</b> which are arranged opposite to each other, for example, the first side wall <b>210</b> is a &#x201c;top wall&#x201d;, and the second side wall <b>216</b> is a &#x201c;bottom wall&#x201d;.</p>
+<p id="p-0149" num="0147">The first electret membrane <b>208</b> is disposed on the first side wall <b>210</b>, the first conductive layer <b>214</b> is disposed on the second side wall <b>216</b>, and the first electret membrane <b>208</b> and the first conductive layer <b>214</b> are arranged in parallel, and an electrostatic field can be formed between the first electret membrane <b>208</b> and the first conductive layer <b>214</b>, and the electrostatic field can effectively prolong the shelf life of the food.</p>
+<p id="p-0150" num="0148">In an embodiment, the electret membrane itself can store electric charges for a long time, and therefore under the influence of the electric charges, the electret membrane has a certain polarity. Affected by the electret membrane, the first conductive layer <b>214</b> further polarizes, and therefore an electrostatic field with a fixed direction can be formed between the first electret membrane <b>208</b> and the first conductive layer <b>214</b>, that is, a stable electrostatic field is formed in the storage chamber and can be maintained without a power supply circuit, additional power supply line, or a power supply source.</p>
+<p id="p-0151" num="0149">In the electrostatic field, food materials such as fruits and vegetables experience a break of the potential balance between the interior and exterior of a cell membrane, and charged particles on both sides of the cell membrane move directionally, for generating a biological current; the biological current can effectively inhibit ATP (adenosine triphosphate), and thus the metabolism of cells can be effectively inhibited for fresh keeping.</p>
+<p id="p-0152" num="0150">Moreover, for fruits and vegetables, the activity of biological enzyme is further one of the main factors affecting the metabolism, and the structural changes of water molecules around enzyme protein will further cause changes in the physiological state of fruits and vegetables. The water molecules in the fruit and vegetable cells are polar molecules and exist in the form of a water molecule cluster formed by hydrogen bonding, and this water molecule cluster is a non-fixed dynamic structure. In the electrostatic field, the structure of the water molecule cluster will change, and then change how the water molecules are bonded to the enzyme protein, and the activity of the enzyme protein is reduced, which further inhibits the metabolism of fruits and vegetables for fresh keeping.</p>
+<p id="p-0153" num="0151">Furthermore, cellular respiration exists in the food such as fruits and vegetables, and it is mainly iron ions that serve as a transporter of electrons in the respiration. The electrostatic field affects the iron ions and then disturbs the metabolism associated with the iron ions, and the electron transfer in a respiration chain of the fruits or vegetables is blocked, and thus the respiration of the plant would be inhibited, for inhibiting the metabolism of the fruits or vegetables for fresh keeping.</p>
+<p id="p-0154" num="0152">Given the embodiment herein, a stable electrostatic field is formed in the storage chamber of the box assembly <b>200</b> without a power source and power supply line. On the one hand, the structure thereof is simple and the cost is low, which is beneficial to production and promotion; on the other hand, long-term fresh-keeping storage of food can be achieved through the electrostatic field, and the applicability to food storage devices such as a refrigerator is enabled, for improving the product competitiveness of corresponding devices in the market.</p>
+<heading id="h-0015" level="1">Embodiment 9</heading>
+<p id="p-0155" num="0153">In some embodiments herein, as shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the box assembly <b>200</b> further includes a second conductive layer <b>206</b> provided on the first side wall <b>210</b>, and the first electret membrane <b>208</b> is between the second conductive layer <b>206</b> and the first side wall <b>210</b>, and the second conductive layer <b>206</b> is in parallel with the first conductive layer <b>214</b>.</p>
+<p id="p-0156" num="0154">In the embodiment herein, the box assembly <b>200</b> further includes the second conductive layer <b>206</b> provided on the first side wall <b>210</b>, and the second conductive layer <b>206</b> is in parallel with the first conductive layer <b>214</b>, that is, opposite electrical shielding layers are formed by the second conductive layer <b>206</b> in combination with the first conductive layer <b>214</b>, and the electrostatic field generated by the electret membrane is limited in a direction from the first side wall <b>210</b> to the second side wall <b>216</b>.</p>
+<p id="p-0157" num="0155">Taking the first side wall <b>210</b> as a top wall and the second side wall <b>216</b> as a bottom wall as an example, since the top wall and the bottom wall are respectively provided with the first conductive layer <b>214</b> and the second conductive layer <b>206</b> that are arranged opposite and parallel to each other, the electrostatic field can be limited in a vertical direction from the first side wall <b>210</b> to the second side wall <b>216</b>, i.e., between the top wall and the bottom wall. With the electrostatic field limited in one direction, a situation where electrostatic fields in multiple directions cancel each other is avoided, which is conducive to improving the intensity of the electrostatic field and rendering a better fresh-keeping effect of storing food.</p>
+<heading id="h-0016" level="1">Embodiment 10</heading>
+<p id="p-0158" num="0156">In some embodiments herein, as shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the box assembly <b>200</b> further includes a first ground line <b>2142</b> through which the first conductive layer <b>214</b> is grounded, and a second ground line <b>2062</b> through which the second conductive layer <b>206</b> is grounded.</p>
+<p id="p-0159" num="0157">In the embodiment herein, the first ground line <b>2142</b> and the second ground line <b>2062</b> are provided in the box assembly <b>200</b>. The first ground line <b>2142</b> is connected to the first conductive layer <b>214</b> and the first conductive layer <b>214</b> is grounded. Similarly, the second ground line <b>2062</b> is connected to the second conductive layer <b>206</b> and the second conductive layer <b>206</b> is grounded. With the first conductive layer <b>214</b> and the second conductive layer <b>206</b> grounded, the first conductive layer <b>214</b> and the second conductive layer <b>206</b> have equal potentials, which can ensure that the electrostatic field generated by the electret membrane is limited in a fixed direction, advantageous for improving the intensity of the electrostatic field and rendering a better fresh-keeping effect of storing food.</p>
+<p id="p-0160" num="0158">In some embodiments, the first ground line <b>2142</b> is in communication with the second ground line <b>2062</b>, that is, the first conductive layer <b>214</b> and the second conductive layer <b>206</b> are commonly grounded, which can further increase the intensity of the electrostatic field.</p>
+<p id="p-0161" num="0159">In other embodiments, the first ground line <b>2142</b> and the second ground line <b>2062</b> are connected to a shell of the box assembly <b>200</b>.</p>
+<p id="p-0162" num="0160">In still other embodiments, the box assembly <b>200</b> is placed in an electric home appliance such as a refrigerator, and the first ground line <b>2142</b> and the second ground line <b>2062</b> are connected to a ground line of the refrigerator or a shell of the refrigerator.</p>
+<heading id="h-0017" level="1">Embodiment 11</heading>
+<p id="p-0163" num="0161">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the box assembly <b>200</b> further includes a support plate <b>218</b> provided on the body <b>212</b>, and the first conductive layer <b>214</b> is between the second side wall <b>216</b> and the support plate <b>218</b>.</p>
+<p id="p-0164" num="0162">In the embodiment herein, the box assembly <b>200</b> further includes a support plate <b>218</b>, and the first conductive layer <b>214</b> is disposed between the second side wall <b>216</b> and the support plate <b>218</b>, that is, the first conductive layer <b>214</b> is &#x201c;clamped&#x201d; to the second side wall <b>216</b> by the support plate <b>218</b>. Here, the detachable connection between the support plate <b>218</b> and the body <b>212</b> makes it possible to &#x201c;add&#x201d; the first conductive layer <b>214</b> to the original box assembly <b>200</b> or render the first conductive layer <b>214</b> replaceable. On the one hand, the structure of the box assembly <b>200</b> can be simplified, and on the other hand, the expandability and maintainability of the refrigerator body assembly <b>200</b> can be better, and the design of the box assembly <b>200</b> is more facilitating and conducive to improving the product competitiveness.</p>
+<heading id="h-0018" level="1">Embodiment 12</heading>
+<p id="p-0165" num="0163">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the box assembly <b>200</b> further includes an upper cover plate <b>202</b> provided on the body <b>212</b>, and the first electret membrane <b>208</b> and the second conductive layer <b>206</b> are both between the upper cover plate <b>202</b> and the first side wall <b>210</b>.</p>
+<p id="p-0166" num="0164">In the embodiment herein, the box assembly <b>200</b> further includes the upper cover plate <b>202</b>, and the first electret membrane <b>208</b> and the second conductive layer <b>206</b> are between the first side wall <b>210</b> and the upper cover plate <b>202</b>, that is, the first electret membrane <b>208</b> and the second conductive layer <b>206</b> are &#x201c;clamped&#x201d; to the first side wall <b>210</b> by the upper cover plate <b>202</b>. Here, the upper cover plate <b>202</b> is detachably connected to the body <b>212</b>, and the first electret membrane <b>208</b> and the second conductive layer <b>206</b> can be &#x201c;added&#x201d; to the original box assembly <b>200</b>, or the first electret membrane <b>208</b> and the second conductive layer <b>206</b> are rendered replaceable. On the one hand, the structure of the refrigerator body assembly <b>200</b> can be simplified, and on the other hand, the expandability and maintainability of the box assembly <b>200</b> can be better, and the design of the box assembly <b>200</b> is more facilitating and conducive to improving the product competitiveness.</p>
+<heading id="h-0019" level="1">Embodiment 13</heading>
+<p id="p-0167" num="0165">In some embodiments of the present disclosure, the first conductive layer <b>214</b> and the second conductive layer <b>206</b> are metal conductive layers.</p>
+<p id="p-0168" num="0166">In the embodiment herein, the first conductive layer <b>214</b> and the second conductive layer <b>206</b> can be formed as &#x201c;electrodes&#x201d;, and the material thereof can be selected as a metal material and made into a metal conductive layer. Herein, the metal conductive layer can be an aluminum, copper, iron, or silver conductive layer, and in some embodiments, the metal material can be replaced by non-metallic conductive materials such as elemental carbon and isostructural forms of carbon. The specific material of the metal conductive layer is not limited to the embodiments of the present disclosure.</p>
+<heading id="h-0020" level="1">Embodiment 14</heading>
+<p id="p-0169" num="0167">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the box assembly <b>200</b> further includes a second electret membrane provided on the second side wall <b>216</b>, the second electret membrane is in parallel with the first electret membrane <b>208</b>, and the charge polarity of the second electret membrane is opposite to the charge polarity of the first electret membrane <b>208</b>.</p>
+<p id="p-0170" num="0168">In the embodiment herein, the second electret membrane may further be provided in the box assembly <b>200</b>, and the second electret membrane may be on the second side wall <b>216</b>, opposite and in parallel with the first electret membrane <b>208</b>. Herein, the charge polarity of the second electret membrane is opposite to the charge polarity of the first electret membrane <b>208</b>, that is, when the second electret membrane is positively charged, the first electret membrane <b>208</b> is negatively charged; when the second electret membrane is negatively charged, the first electret membrane <b>208</b> is positively charged.</p>
+<p id="p-0171" num="0169">In the embodiment herein, the configuration that the second electret membrane is in parallel with and has a different charge polarity from the first electret membrane <b>208</b> can effectively improve the intensity of the electrostatic field, and the metabolism of cells of food such as fruits and vegetables in such an electrostatic field with greater intensity is further inhibited, for improving the food fresh-keeping effect of the box assembly <b>200</b>.</p>
+<heading id="h-0021" level="1">Embodiment 15</heading>
+<p id="p-0172" num="0170">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the body <b>212</b> further includes a third side wall and a fourth side wall, the third side wall and the fourth side wall are arranged opposite to each other, and the box assembly <b>200</b> further includes a third electret membrane provided on the third side wall and/or a fourth electret membrane provided on the fourth side wall, the fourth electret membrane being in parallel with the third electret membrane, and the charge polarity of the fourth electret membrane is opposite to the charge polarity of the third electret membrane.</p>
+<p id="p-0173" num="0171">In the embodiment herein, more electret membranes can further be provided on the body <b>212</b>, for further increasing the intensity of the electrostatic field to obtain a better fresh-keeping effect. The body <b>212</b> is provided with the third side wall and the fourth side wall, the third side wall and the fourth side wall can be any pair of opposing side walls, and the front wall and the rear wall, the left wall and the right wall, and further the top wall and the bottom wall.</p>
+<p id="p-0174" num="0172">In addition to the first electret membrane <b>208</b> and the second electret membrane, more electret membranes are provided, and only one more electret membrane may be provided, a pair of additional electret membranes that are arranged opposite to each other and have different charge polarities may be provided, or more electret membranes may be provided, to increase the intensity of the electrostatic field and obtain a better fresh-keeping effect of the box assembly <b>200</b>.</p>
+<heading id="h-0022" level="1">Embodiment 16</heading>
+<p id="p-0175" num="0173"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a structure of an electret membrane <b>100</b> according to an embodiment of the present disclosure. In the embodiment herein, as shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, each of the first electret membrane, the second electret membrane, the third electret membrane, and the fourth electret membrane includes the electret material matrix <b>102</b>, and the metal electrode <b>104</b> provided on one side of the electret material matrix <b>102</b> and attached to the electret material matrix <b>102</b>.</p>
+<p id="p-0176" num="0174">In an embodiment herein, the electret is a dielectric material capable of long-term storage of electric charges. Therefore, the metal electrode <b>104</b> is provided on one side of the electret material matrix <b>102</b>, and the metal electrode <b>104</b> is electrically polarized under the influence of the charges of the electret, and an electrode is formed without an external power source.</p>
+<p id="p-0177" num="0175">In an embodiment, because of the electric polarization of the electret membrane <b>100</b>, the electret membrane <b>100</b> can form an electrostatic field in the storage unit; in the electrostatic field, food materials such as fruits and vegetables experience a break of the potential balance between the interior and exterior of a cell membrane, and charged particles on both sides of the cell membrane move directionally, for generating a biological current; the biological current can effectively inhibit ATP (adenosine triphosphate), and thus the metabolism of cells can be effectively inhibited for fresh keeping.</p>
+<p id="p-0178" num="0176">Given the embodiment herein, the electret membrane <b>100</b> can be electrically polarized without an external power source and form an electrostatic field that can simplify the electrostatic-field fresh-keeping structure and reduce the cost of generating the electrostatic field, which is conducive to producing a box assembly with a low-cost and highly reliable fresh-keeping electrostatic field.</p>
+<heading id="h-0023" level="1">Embodiment 17</heading>
+<p id="p-0179" num="0177">In some embodiments of the present disclosure, a refrigeration apparatus <b>300</b> is provided. <figref idref="DRAWINGS">FIG. <b>5</b></figref> is a block diagram showing a structure of a refrigeration apparatus according to an embodiment of the present disclosure, the refrigeration apparatus <b>300</b> includes a refrigeration compartment <b>302</b> and the box assembly <b>200</b> as provided in any of the above embodiments, the box assembly <b>200</b> being disposed within the refrigeration compartment <b>302</b>.</p>
+<p id="p-0180" num="0178">In the embodiment herein, the refrigeration apparatus can be a refrigerator, a freezer, a cold storage, etc. Since the refrigeration compartment of the refrigeration apparatus is provided with the box assembly as provided in any one of the above embodiments, the refrigeration apparatus further includes all the advantages of the box assembly as provided in any one of the above embodiments, which will not be described in detail herein.</p>
+<heading id="h-0024" level="1">Embodiment 18</heading>
+<p id="p-0181" num="0179"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows a structure of a box assembly <b>200</b> according to an embodiment of the present disclosure, and <figref idref="DRAWINGS">FIG. <b>6</b></figref> shows a structure of the refrigeration apparatus <b>300</b> according to an embodiment of the present disclosure. As shown in <figref idref="DRAWINGS">FIGS. <b>4</b> and <b>6</b></figref>, the refrigeration apparatus <b>300</b> includes:</p>
+<p id="p-0182" num="0180">the refrigeration compartment <b>302</b>, and the box assembly <b>200</b> provided in the refrigeration compartment <b>302</b>, wherein the box assembly <b>200</b> includes: the body <b>212</b> including the storage chamber; the first electret membrane <b>208</b> detachably provided on the first side wall <b>210</b> of the storage chamber; the first conductive layer <b>214</b> on the second side wall <b>216</b> of the storage chamber, the second side wall <b>216</b> and the first side wall <b>210</b> are arranged opposite to each other, and the first conductive layer <b>214</b> is in parallel with the first electret membrane <b>208</b>; a charge detection member connected to the electret membrane, and the charge detection member serves to detect a quantity of charges of the electret membrane; and a controller connected to the charge detection member, and the controller serves to generate a corresponding prompt message according to the quantity of charges.</p>
+<p id="p-0183" num="0181">In the embodiment herein, the refrigeration apparatus <b>300</b> can be a refrigerator, a freezer, a cold storage, or the like. The refrigeration apparatus <b>300</b> includes therein the refrigeration compartment <b>302</b>, and the refrigeration compartment <b>302</b> is kept at a constant and low temperature as set by a user to preserve the quality and freshness of materials.</p>
+<p id="p-0184" num="0182">The refrigeration compartment <b>302</b> is provided with the box assembly <b>200</b>, and the box assembly <b>200</b> can be used to store food such as vegetables and fruits, the box assembly <b>200</b> has the storage chamber formed therein, and the stored food is placed in the storage chamber. The storage chamber includes the first side wall <b>210</b> and the second side wall <b>216</b> which are arranged opposite to each other, for example, the first side wall <b>210</b> is a &#x201c;top wall&#x201d;, and the second side wall <b>216</b> is a &#x201c;bottom wall&#x201d;.</p>
+<p id="p-0185" num="0183">The first electret membrane <b>208</b> is disposed on the first side wall <b>210</b>, the first conductive layer <b>214</b> is disposed on the second side wall <b>216</b>, and the first electret membrane <b>208</b> and the first conductive layer <b>214</b> are arranged in parallel, and an electrostatic field can be formed between the first electret membrane <b>208</b> and the first conductive layer <b>214</b>, and the electrostatic field can effectively prolong the shelf life of the food.</p>
+<p id="p-0186" num="0184">In an embodiment, the electret membrane itself can store electric charges for a long time, and therefore under the influence of the electric charges, the electret membrane has a certain polarity. Affected by the electret membrane, the first conductive layer <b>214</b> further polarizes, and therefore an electrostatic field with a fixed direction can be formed between the first electret membrane <b>208</b> and the first conductive layer <b>214</b>, that is, a stable electrostatic field is formed in the storage chamber and can be maintained without a power supply circuit, additional power supply line, or a power supply source.</p>
+<p id="p-0187" num="0185">In the electrostatic field, food materials such as fruits and vegetables experience a break of the potential balance between the interior and exterior of a cell membrane, and charged particles on both sides of the cell membrane move directionally, for generating a biological current; the biological current can effectively inhibit ATP (adenosine triphosphate), and thus the metabolism of cells can be effectively inhibited for fresh keeping.</p>
+<p id="p-0188" num="0186">Moreover, for fruits and vegetables, the activity of biological enzyme is further one of the main factors affecting the metabolism, and the structural changes of water molecules around enzyme protein will further cause changes in the physiological state of fruits and vegetables. The water molecules in the fruit and vegetable cells are polar molecules and exist in the form of a water molecule cluster formed by hydrogen bonding, and this water molecule cluster is a non-fixed dynamic structure. In the electrostatic field, the structure of the water molecule cluster will change, and then change how the water molecules are bonded to the enzyme protein, and the activity of the enzyme protein is reduced, which further inhibits the metabolism of fruits and vegetables for fresh keeping.</p>
+<p id="p-0189" num="0187">Furthermore, cellular respiration exists in the food such as fruits and vegetables, and it is mainly iron ions that serve as a transporter of electrons in the respiration. The electrostatic field affects the iron ions and then disturbs the metabolism associated with the iron ions, and the electron transfer in a respiration chain of the fruits or vegetables is blocked, and thus the respiration of the plant would be inhibited, for inhibiting the metabolism of the fruits or vegetables for fresh keeping.</p>
+<p id="p-0190" num="0188">Herein, the charges stored in the electret membrane may be lost due to external factors. With the loss of the charges, the electric field generated by the electret membrane will gradually weaken, which leads to the simultaneous decrease of the fresh-keeping effect. In the embodiment herein, a charge detection member is provided to simultaneously detect the quantity of charges in the first electret membrane <b>208</b> during the use of the refrigeration apparatus <b>300</b> and generate the corresponding prompt message according to the quantity of charges.</p>
+<p id="p-0191" num="0189">Moreover, since the first electret membrane <b>208</b> is of a detachable design, when the user receives the prompt message indicating that the quantity of charges of the first electret membrane <b>208</b> is low, he/she can replace the first electret membrane <b>208</b> manually to ensure the electric field intensity in the box assembly <b>200</b>, which is conducive to maintaining the fresh-keeping effect of the refrigeration apparatus <b>300</b>.</p>
+<p id="p-0192" num="0190">Given the embodiment herein, a stable electrostatic field is formed in the storage chamber of the box assembly <b>200</b> without a power source and power supply line. On the one hand, the structure thereof is simple and the cost is low, which is beneficial to production and promotion; on the other hand, long-term fresh-keeping storage of food can be achieved through the electrostatic field, for improving the fresh-keeping effect of the refrigeration apparatus <b>300</b>.</p>
+<p id="p-0193" num="0191">Moreover, the electret membrane is designed as a detachable consumable piece, and the charge detection member is further provided, the refrigeration apparatus <b>300</b> such as a refrigerator can actively prompt the user to replace the electret membrane, and thus the electrostatic field intensity is kept constant, which avoids the decline of the fresh-keeping effect caused by the attenuation of the electrostatic field intensity and is conducive to improving the user experience of the product.</p>
+<heading id="h-0025" level="1">Embodiment 19</heading>
+<p id="p-0194" num="0192"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows a structure of a box assembly <b>200</b> according to an embodiment of the present disclosure. In some embodiment, the box assembly <b>200</b> further includes the second conductive layer <b>206</b> provided on the first side wall <b>210</b>, wherein the first electret membrane <b>208</b> is between the second conductive layer <b>206</b> and the first side wall <b>210</b>, and the second conductive layer <b>206</b> is in parallel with the first conductive layer <b>214</b>.</p>
+<p id="p-0195" num="0193">In the embodiment herein, the box assembly <b>200</b> further includes the second conductive layer <b>206</b> provided on the first side wall <b>210</b>, and the second conductive layer <b>206</b> is in parallel with the first conductive layer <b>214</b>, that is, opposite electrical shielding layers are formed by the second conductive layer <b>206</b> in combination with the first conductive layer <b>214</b>, and the electrostatic field generated by the electret membrane is limited in a direction from the first side wall <b>210</b> to the second side wall <b>216</b>.</p>
+<p id="p-0196" num="0194">Taking the first side wall <b>210</b> as a top wall and the second side wall <b>216</b> as a bottom wall as an example, since the top wall and the bottom wall are respectively provided with the first conductive layer <b>214</b> and the second conductive layer <b>206</b> that are arranged opposite and parallel to each other, the electrostatic field can be limited in a vertical direction from the first side wall <b>210</b> to the second side wall <b>216</b>, i.e., between the top wall and the bottom wall. With the electrostatic field limited in one direction, a situation where electrostatic fields in multiple directions cancel each other is avoided, which is conducive to improving the intensity of the electrostatic field and rendering a better fresh-keeping effect of storing food.</p>
+<heading id="h-0026" level="1">Embodiment 20</heading>
+<p id="p-0197" num="0195">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIGS. <b>4</b> and <b>6</b></figref>, the refrigeration apparatus <b>300</b> further includes: the first ground line <b>2142</b> through which the first conductive layer <b>214</b> is grounded, and the second ground line <b>2062</b> through which the second conductive layer <b>206</b> is grounded.</p>
+<p id="p-0198" num="0196">In the embodiment herein, the refrigeration apparatus <b>300</b> includes the first ground line <b>2142</b> and the second ground line <b>2062</b>. The first ground line <b>2142</b> is connected to the first conductive layer <b>214</b> and the first conductive layer <b>214</b> is grounded. Similarly, the second ground line <b>2062</b> is connected to the second conductive layer <b>206</b> and the second conductive layer <b>206</b> is grounded. With the first conductive layer <b>214</b> and the second conductive layer <b>206</b> grounded, the first conductive layer <b>214</b> and the second conductive layer <b>206</b> have equal potentials, which can ensure that the electrostatic field generated by the electret membrane is limited in a fixed direction, advantageous for improving the intensity of the electrostatic field and rendering a better fresh-keeping effect of storing food.</p>
+<p id="p-0199" num="0197">In some embodiments, the first ground line <b>2142</b> is in communication with the second ground line <b>2062</b>, that is, the first conductive layer <b>214</b> and the second conductive layer <b>206</b> are commonly grounded, which can further increase the intensity of the electrostatic field.</p>
+<p id="p-0200" num="0198">In other embodiments, the first ground line <b>2142</b> and the second ground line <b>2062</b> are connected to the ground line of the refrigerator or the shell of the refrigerator.</p>
+<heading id="h-0027" level="1">Embodiment 21</heading>
+<p id="p-0201" num="0199">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the refrigeration apparatus <b>300</b> further includes: a charger connected to the electret membrane and the controller, and the charger is adapted to charge the electret membrane, and the controller is further configured to control the operation of the charger on the basis of the quantity of charges.</p>
+<p id="p-0202" num="0200">In the embodiment herein, the charger is provided in the refrigeration apparatus <b>300</b> and is connected to the electret membrane; when detecting that the quantity of charges in the electret membrane is low, the controller can control the charger to charge the electret membrane according to a certain voltage or current to increase the electric charges stored in the electret membrane and ensure the intensity of the electrostatic field generated by the electret membrane, for ensuring the freshness-keeping effect of the refrigeration apparatus <b>300</b>.</p>
+<p id="p-0203" num="0201">In an embodiment, the charger can be a charging circuit or a charging chip, and since neither a high voltage (or power) nor a fast charging rate is necessary for charging the electret membrane, a simple charging structure would be enough to charge the electret membrane after the charges in the electret membrane are lost, which is conducive to ensuring the intensity of the electrostatic field generated by the electret membrane, for guaranteeing the fresh-keeping effect. Moreover, a complex and expensive transformer or power supply structure is not necessary, which is beneficial for cost saving.</p>
+<heading id="h-0028" level="1">Embodiment 22</heading>
+<p id="p-0204" num="0202"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a structure of an electret membrane <b>100</b> according to an embodiment of the present disclosure. In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the electret membrane <b>100</b> includes the electret material matrix <b>102</b>, and the metal electrode <b>104</b> provided on one side of the electret material matrix <b>102</b> and attached to the electret material matrix <b>102</b>.</p>
+<p id="p-0205" num="0203">In an embodiment herein, the electret is a dielectric material capable of long-term storage of electric charges. Therefore, the metal electrode <b>104</b> is provided on one side of the electret material matrix <b>102</b>, and the metal electrode <b>104</b> is electrically polarized under the influence of the charges of the electret, and an electrode is formed without an external power source.</p>
+<p id="p-0206" num="0204">In an embodiment, because of the electric polarization of the electret membrane <b>100</b>, the electret membrane <b>100</b> can form an electrostatic field in the storage unit; in the electrostatic field, food materials such as fruits and vegetables experience a break of the potential balance between the interior and exterior of a cell membrane, and charged particles on both sides of the cell membrane move directionally, for generating a biological current; the biological current can effectively inhibit ATP (adenosine triphosphate), and thus the metabolism of cells can be effectively inhibited for fresh keeping.</p>
+<p id="p-0207" num="0205">Moreover, for fruits and vegetables, the activity of biological enzyme is further one of the main factors affecting the metabolism, and the structural changes of water molecules around enzyme protein will further cause changes in the physiological state of fruits and vegetables. The water molecules in the fruit and vegetable cells are polar molecules and exist in the form of a water molecule cluster formed by hydrogen bonding, and this water molecule cluster is a non-fixed dynamic structure. In the electrostatic field, the structure of the water molecule cluster will change, and then change how the water molecules are bonded to the enzyme protein, and the activity of the enzyme protein is reduced, which further inhibits the metabolism of fruits and vegetables for fresh keeping.</p>
+<p id="p-0208" num="0206">Furthermore, cellular respiration exists in the food such as fruits and vegetables, and it is mainly iron ions that serve as a transporter of electrons in the respiration. The electrostatic field affects the iron ions and then disturbs the metabolism associated with the iron ions, and the electron transfer in a respiration chain of the fruits or vegetables is blocked, and thus the respiration of the plant would be inhibited, for inhibiting the metabolism of the fruits or vegetables for fresh keeping.</p>
+<p id="p-0209" num="0207">Given the embodiment herein, the electret membrane <b>100</b> can be electrically polarized without an external power source and form an electrostatic field that can simplify the electrostatic-field fresh-keeping structure and reduce the cost of generating the electrostatic field, which is conducive to producing a refrigeration apparatus with a low-cost and highly reliable fresh-keeping electrostatic field.</p>
+<heading id="h-0029" level="1">Embodiment 23</heading>
+<p id="p-0210" num="0208"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a first flowchart showing a method of controlling the refrigeration apparatus according to an embodiment of the present disclosure. In some embodiment, the method of controlling can include:</p>
+<p id="p-0211" num="0209">step S<b>702</b>, acquiring the quantity of charges of the electret membrane; and</p>
+<p id="p-0212" num="0210">step S<b>704</b>, generating a corresponding prompt message when the acquired quantity of charges is less than or equal to a first quantity-of-charges threshold.</p>
+<p id="p-0213" num="0211">In the embodiment herein, the refrigeration apparatus can be a refrigerator, a freezer, a cold storage, or the like. The refrigeration apparatus includes therein the refrigeration compartment, and the refrigeration compartment is kept at a constant and low temperature as set by a user to preserve the quality and freshness of materials.</p>
+<p id="p-0214" num="0212">The box assembly is provided in the refrigeration compartment, and the box assembly can be used to store food such as vegetables and fruits, and the box assembly has the storage chamber formed therein, and the stored food is placed in the storage chamber. The storage chamber includes the first side wall and the second side wall which are arranged opposite to each other, for example, the first side wall is a &#x201c;top wall&#x201d;, and the second side wall is a &#x201c;bottom wall&#x201d;.</p>
+<p id="p-0215" num="0213">The first electret membrane is disposed on the first side wall, the first conductive layer is disposed on the second side wall, and the first electret membrane and the first conductive layer are arranged in parallel, and an electrostatic field can be formed between the first electret membrane and the first conductive layer, and the electrostatic field can effectively prolong the shelf life of the food.</p>
+<p id="p-0216" num="0214">In an embodiment, the electret membrane itself can store electric charges for a long time, and therefore under the influence of the electric charges, the electret membrane has a certain polarity. Affected by the electret membrane, the first conductive layer further polarizes, and therefore an electrostatic field with a fixed direction can be formed between the first electret membrane and the first conductive layer, that is, a stable electrostatic field is formed in the storage chamber and can be maintained without a power supply circuit, additional power supply line, or a power supply source.</p>
+<p id="p-0217" num="0215">In the electrostatic field, food materials such as fruits and vegetables experience a break of the potential balance between the interior and exterior of a cell membrane, and charged particles on both sides of the cell membrane move directionally, for generating a biological current; the biological current can effectively inhibit ATP (adenosine triphosphate), and thus the metabolism of cells can be effectively inhibited for fresh keeping.</p>
+<p id="p-0218" num="0216">Moreover, for fruits and vegetables, the activity of biological enzyme is further one of the main factors affecting the metabolism, and the structural changes of water molecules around enzyme protein will further cause changes in the physiological state of fruits and vegetables. The water molecules in the fruit and vegetable cells are polar molecules and exist in the form of a water molecule cluster formed by hydrogen bonding, and this water molecule cluster is a non-fixed dynamic structure. In the electrostatic field, the structure of the water molecule cluster will change, and then change how the water molecules are bonded to the enzyme protein, and the activity of the enzyme protein is reduced, which further inhibits the metabolism of fruits and vegetables for fresh keeping.</p>
+<p id="p-0219" num="0217">Furthermore, cellular respiration exists in the food such as fruits and vegetables, and it is mainly iron ions that serve as a transporter of electrons in the respiration. The electrostatic field affects the iron ions and then disturbs the metabolism associated with the iron ions, and the electron transfer in a respiration chain of the fruits or vegetables is blocked, and thus the respiration of the plant would be inhibited, for inhibiting the metabolism of the fruits or vegetables for fresh keeping.</p>
+<p id="p-0220" num="0218">Herein, the charges stored in the electret membrane may be lost due to external factors. With the loss of the charges, the electric field generated by the electret membrane will gradually weaken, which leads to the simultaneous decrease of the fresh-keeping effect. In the embodiment herein, a charge detection member is provided to simultaneously detect the quantity of charges in the first electret membrane during the use of the refrigeration apparatus and generate the corresponding prompt message according to the quantity of charges.</p>
+<p id="p-0221" num="0219">Moreover, since the first electret membrane is of a detachable design, when the user receives the prompt message indicating that the quantity of charges of the first electret membrane is low, he/she can replace the first electret membrane manually to ensure the electric field intensity in the box assembly, which is conducive to maintaining the fresh-keeping effect of the refrigeration apparatus.</p>
+<p id="p-0222" num="0220">Moreover, in the embodiment herein, the charge detection member is further provided, the refrigeration apparatus such as a refrigerator can actively prompt the user to replace the electret membrane, and thus the electrostatic field intensity is kept constant, which avoids the decline of the fresh-keeping effect caused by the attenuation of the electrostatic field intensity and is conducive to improving the user experience of the product.</p>
+<heading id="h-0030" level="1">Embodiment 24</heading>
+<p id="p-0223" num="0221"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a second flowchart showing a method of controlling the refrigeration apparatus according to an embodiment of the present disclosure. In some embodiment, the method of controlling can include:</p>
+<p id="p-0224" num="0222">step S<b>802</b>, controlling a charger to start charging the electret membrane when the quantity of charges is less than or equal to a second quantity-of-charges threshold; and</p>
+<p id="p-0225" num="0223">step S<b>804</b>, controlling the charger to stop charging the electret membrane when the quantity of charges is greater than a third quantity-of-charges threshold.</p>
+<p id="p-0226" num="0224">Herein, the third quantity-of-charges threshold is greater than the second quantity-of-charges threshold, and the second quantity-of-charges threshold is greater than the first quantity-of-charges threshold.</p>
+<p id="p-0227" num="0225">In the embodiment herein, the charger is provided in the refrigeration apparatus, and the charger is connected to the electret membrane; when a low quantity of charges in the electret membrane is detected, the charger can be controlled to charge the electret membrane according to a certain voltage or current to increase the electric charges stored in the electret membrane and ensure the intensity of the electrostatic field generated by the electret membrane, for ensuring the fresh-keeping effect of the refrigeration apparatus.</p>
+<p id="p-0228" num="0226">In an embodiment, if the quantity of charges of the electret membrane is less than or equal to the second quantity-of-charges threshold, the charger starts charging the electret membrane. During the charging process, the quantity of charges of the electret membrane is acquired in real time, and if the acquired quantity of charges is greater than the third quantity-of-charges threshold, the quantity of charges stored in the electret membrane is sufficient to maintain the electrostatic field intensity, and at this time, the charger is controlled to stop charging the electret.</p>
+<p id="p-0229" num="0227">In the embodiment herein, a simple charging structure is provided to charge the electret membrane after the charges in the electret membrane are attenuated, which is conducive to keeping the intensity constant of the electrostatic field generated by the electret membrane, for ensuring the fresh-keeping effect. Moreover, a complex and expensive transformer or power supply structure is not necessary, which is beneficial for cost saving.</p>
+<p id="p-0230" num="0228">Herein, the prompt message includes a text prompt message, audio prompt message, image prompt message, or optical prompt message.</p>
+<p id="p-0231" num="0229">When the quantity of charges of the electret membrane is detected to be less than the first quantity-of-charges threshold, a prompt message is sent to the user, and the prompt message can be a text prompt message displayed on a display device of the refrigerator to remind the user of replacing the electret membrane or charging in an intuitive text form.</p>
+<p id="p-0232" num="0230">The prompt message may also be an audio prompt message, and the audio prompt message may be a simple buzzer or human voice broadcast.</p>
+<p id="p-0233" num="0231">The prompt message may also be an image prompt message, and a simple icon serves to remind the user of a low quantity of charges of the electret membrane.</p>
+<p id="p-0234" num="0232">The prompt message may also be an optical prompt message, such as a flashing red light.</p>
+<p id="p-0235" num="0233">In the embodiment herein, a plurality of types of prompt message are provided and the user can be well informed of the quantity of the remaining charges of the electret membrane, while the specific types of prompt message are not limited to the embodiments of the present disclosure.</p>
+<heading id="h-0031" level="1">Embodiment 25</heading>
+<p id="p-0236" num="0234">In some embodiments of the present disclosure, a computer-readable storage medium is provided, the computer-readable storage medium having stored thereon a computer program that is executable by a processor to implement the steps of the method of controlling a refrigeration apparatus as provided in any of the above embodiments, and therefore, the computer-readable storage medium includes all the advantages of the method for controlling a refrigeration apparatus as provided in any of the above embodiments, which will not be described in detail herein.</p>
+<heading id="h-0032" level="1">Embodiment 26</heading>
+<p id="p-0237" num="0235"><figref idref="DRAWINGS">FIG. <b>9</b>A</figref> is a first structural diagram of a sterilization apparatus <b>400</b> according to an embodiment of the present disclosure, and <figref idref="DRAWINGS">FIG. <b>9</b>B</figref> is a second structural diagram of the sterilization apparatus <b>400</b> according to an embodiment of the present disclosure. In some embodiment, the sterilization apparatus <b>400</b> includes: a first conductive layer <b>404</b>; a second conductive layer <b>408</b>, and the second conductive layer <b>408</b> and the first conductive layer <b>404</b> arranged opposite to each other, and an air gap exists between the first conductive layer <b>404</b> and the second conductive layer <b>408</b>; a first electret membrane <b>406</b>, and the first electret membrane <b>406</b> is provided on the second conductive layer <b>408</b>, the first electret membrane <b>406</b> is between the first conductive layer <b>404</b> and the second conductive layer <b>408</b> and in parallel with the first conductive layer <b>404</b>; a fan <b>410</b>, and the fan <b>410</b> is oriented towards the air gap.</p>
+<p id="p-0238" num="0236">In the embodiment herein, the sterilization apparatus <b>400</b> includes the first conductive layer <b>404</b> and the second conductive layer <b>408</b> arranged opposite to each other, wherein the second conductive layer <b>408</b> is provided with the first electret membrane <b>406</b>, an electrostatic field is generated in the air gap between the first conductive layer <b>404</b> and the second conductive layer <b>408</b> by the first electret membrane <b>406</b>, and air is guided through the electrostatic field by the fan <b>410</b>. Therefore, effective sterilization is rendered.</p>
+<p id="p-0239" num="0237">In an embodiment, the electret membrane itself can store electric charges for a long time, and therefore under the influence of the electric charges, the electret membrane has a certain polarity. Affected by the electret membrane, the first conductive layer <b>404</b> further polarizes, and therefore an electrostatic field with a fixed direction can be formed between the first conductive layer <b>404</b> and the second conductive layer <b>408</b> by the first electret membrane <b>406</b>.</p>
+<p id="p-0240" num="0238">In the electrostatic field, the cell membrane of bacteria may show perforation polarization, and then suffer irreversible damage, resulting in the inactivation of bacteria. The fan <b>410</b> can guide a certain range of air continuously into the electrostatic field, for effectively inactivating bacteria in the air passing through the air gap.</p>
+<p id="p-0241" num="0239">Given the embodiment herein, an electrostatic field is generated between the first conductive layer <b>404</b> and the second conductive layer <b>408</b> by the electret membrane, without a power supply circuit to maintain it or an additional power supply line and a power source, simple in structure, low in cost, and easy to popularize, to facilitate the implementation of a cost-effective sterilization solution.</p>
+<heading id="h-0033" level="1">Embodiment 27</heading>
+<p id="p-0242" num="0240">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>9</b>A</figref>, the sterilization apparatus <b>400</b> further includes a second electret membrane <b>402</b>, wherein the second electret membrane <b>402</b> is provided on the first conductive layer <b>404</b>, the second electret membrane <b>402</b> is in parallel with the first electret membrane <b>406</b>, and the charge polarity of the second electret membrane <b>402</b> is opposite to the charge polarity of the first electret membrane <b>406</b>.</p>
+<p id="p-0243" num="0241">In the embodiment herein, the sterilization apparatus <b>400</b> may further be provided with the second electret membrane <b>402</b> that is opposite and in parallel with the first electret membrane <b>406</b>. Here, the charge polarity of the second electret membrane <b>402</b> is opposite to the charge polarity of the first electret membrane <b>406</b>, that is, when the second electret membrane <b>402</b> is positively charged, the first electret membrane <b>406</b> is negatively charged; when the second electret membrane <b>402</b> is negatively charged, the first electret membrane <b>406</b> is positively charged.</p>
+<p id="p-0244" num="0242">In the embodiment herein, the second electret membrane <b>402</b> is in parallel with the first electret membrane <b>406</b>, and the charge polarity of the second electret membrane <b>402</b> is opposite to the charge polarity of the first electret membrane <b>406</b>, and thus the intensity of the electrostatic field is effectively increased, for improving the sterilization effect of the sterilization apparatus without external power supply.</p>
+<heading id="h-0034" level="1">Embodiment 28</heading>
+<p id="p-0245" num="0243">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>9</b>A</figref>, the sterilization apparatus <b>400</b> further includes a first ground line <b>4042</b> through which the first conductive layer <b>404</b> is grounded and a second ground line <b>4082</b> through which the second conductive layer <b>408</b> is grounded.</p>
+<p id="p-0246" num="0244">In the embodiment herein, the first ground line <b>4042</b> and the second ground line <b>4082</b> are further provided in the sterilization apparatus <b>400</b>. The first ground line <b>4042</b> is connected to the first conductive layer <b>404</b> and the first conductive layer <b>404</b> is grounded. Similarly, the second ground line <b>4082</b> is connected to the second conductive layer <b>408</b> and the second conductive layer <b>408</b> is grounded. With the first conductive layer <b>404</b> and the second conductive layer <b>408</b> grounded, the first conductive layer <b>404</b> and the second conductive layer <b>408</b> have equal potentials, which can ensure that the electrostatic field generated by the electret membrane is limited in a fixed direction, advantageous for improving the intensity of the electrostatic field and rendering a better fresh-keeping effect of storing food.</p>
+<p id="p-0247" num="0245">In some embodiments, the first ground line <b>4042</b> is in communication with the second ground line <b>4082</b>, that is, the first conductive layer <b>404</b> and the second conductive layer <b>408</b> are commonly grounded, which can further increase the intensity of the electrostatic field.</p>
+<p id="p-0248" num="0246">In other embodiments, the first ground line <b>4042</b> and the second ground line <b>4082</b> are connected to a shell of the sterilization apparatus <b>400</b>.</p>
+<p id="p-0249" num="0247">In still other embodiments, the sterilization apparatus <b>400</b> is placed in an electric home appliance such as a refrigerator, and the first ground line <b>4042</b> and the second ground line <b>4082</b> are connected to a ground line of the refrigerator or a shell of the refrigerator.</p>
+<p id="p-0250" num="0248">Herein, the first conductive layer <b>404</b> and the second conductive layer <b>408</b> are metal conductive layers.</p>
+<p id="p-0251" num="0249">The first conductive layer <b>404</b> and the second conductive layer <b>408</b> can be formed as &#x201c;electrodes&#x201d;, and the material thereof can be selected as a metal material and made into a metal conductive layer. Herein, the metal conductive layer can be an aluminum, copper, iron, or silver conductive layer, and in some embodiments, the metal material can be replaced by non-metallic conductive materials such as elemental carbon and isostructural forms of carbon. The specific material of the metal conductive layer is not limited to the embodiments of the present disclosure.</p>
+<heading id="h-0035" level="1">Embodiment 29</heading>
+<p id="p-0252" num="0250"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a structure of an electret membrane <b>100</b> according to an embodiment of the present disclosure. In some embodiment, as shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the electret membrane <b>100</b> includes the electret material matrix <b>102</b>, and the metal electrode <b>104</b> provided on one side of the electret material matrix <b>102</b> and attached to the electret material matrix <b>102</b>.</p>
+<p id="p-0253" num="0251">In an embodiment herein, the electret is a dielectric material capable of long-term storage of electric charges. Therefore, the metal electrode <b>104</b> is provided on one side of the electret material matrix <b>102</b>, and the metal electrode <b>104</b> is electrically polarized under the influence of the charges of the electret, and an electrode is formed without an external power source.</p>
+<p id="p-0254" num="0252">In an embodiment, because of the electric polarization of the electret membrane <b>100</b>, the electret membrane <b>100</b> can form an electrostatic field in the storage unit; in the electrostatic field, food materials such as fruits and vegetables experience a break of the potential balance between the interior and exterior of a cell membrane, and charged particles on both sides of the cell membrane move directionally, for generating a biological current; the biological current can effectively inhibit ATP (adenosine triphosphate), and thus the metabolism of cells can be effectively inhibited for fresh keeping.</p>
+<p id="p-0255" num="0253">Given the embodiment herein, the electret membrane <b>100</b> can be electrically polarized without an external power source and form an electrostatic field that can simplify the electrostatic-field fresh-keeping structure and reduce the cost of generating the electrostatic field, which is conducive to producing a box assembly with a low-cost and highly reliable fresh-keeping electrostatic field.</p>
+<heading id="h-0036" level="1">Embodiment 30</heading>
+<p id="p-0256" num="0254"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a schematic diagram showing a structure of a refrigerator <b>500</b> according to an embodiment of the present disclosure. In some embodiment, the refrigerator <b>500</b> includes a refrigeration compartment <b>502</b> provided with a door body <b>506</b>, and the sterilization apparatus <b>400</b> according to any of the embodiments described above, wherein the sterilization apparatus <b>400</b> is disposed in the refrigeration compartment <b>502</b>.</p>
+<p id="p-0257" num="0255">In the embodiment herein, the refrigerator <b>500</b> includes the sterilization apparatus <b>400</b> as in any of the embodiments described above, and thus includes all the advantageous effects of the sterilization apparatus <b>400</b> as in any of the embodiments described above, which will not be described in detail herein.</p>
+<p id="p-0258" num="0256">In an embodiment, the sterilization apparatus <b>400</b> includes the first conductive layer <b>404</b> and the second conductive layer <b>408</b> that are arranged opposite to each other, wherein the second conductive layer <b>408</b> is provided with the first electret membrane <b>406</b>, an electrostatic field is generated in the air gap between the first conductive layer <b>404</b> and the second conductive layer <b>408</b> by the first electret membrane <b>406</b>, and air in the refrigeration compartment <b>502</b> is guided to pass through the electrostatic field by the fan <b>410</b>, and the air is ionized and then diffused back into the refrigeration compartment <b>502</b>, hence the sterilization is done.</p>
+<p id="p-0259" num="0257">Moreover, the refrigerator <b>500</b> includes the refrigeration compartment <b>502</b> and the door body <b>506</b>, and the sterilization apparatus <b>400</b> is provided in the refrigeration compartment <b>502</b>; when the door body <b>506</b> is closed, the refrigeration compartment <b>502</b> becomes a closed environment, and at this time, the sterilization apparatus <b>400</b> starts to work and can effectively kill bacteria in the refrigeration compartment <b>502</b> in a short time. As such, the sterilization treatment inside the refrigerator <b>500</b> is enabled, which is beneficial to retaining the freshness of food and avoiding off-flavors caused by bacterial growth for deodorization of the refrigerator <b>500</b>.</p>
+<heading id="h-0037" level="1">Embodiment 31</heading>
+<p id="p-0260" num="0258">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, the refrigerator <b>500</b> further includes: a door sensor <b>508</b> provided on the door body <b>506</b> and/or in the refrigeration compartment <b>502</b>, the door sensor <b>508</b> being configured to acquire a door opening signal and a door closing signal of the door body <b>506</b>; and a controller connected to the door sensor <b>508</b> and the sterilization apparatus <b>400</b> for controlling the operation of the sterilization apparatus according to the door opening signal and the door closing signal.</p>
+<p id="p-0261" num="0259">In the embodiment herein, the door sensor <b>508</b> is provided on the refrigerator <b>500</b>, for example, on the door body <b>506</b> or in the refrigeration compartment <b>502</b>, and the door sensor <b>508</b> serves for acquiring the door opening signal and the door closing signal of the door body <b>506</b> of the refrigerator <b>500</b>.</p>
+<p id="p-0262" num="0260">Herein, the door sensor <b>508</b> may be a micro-switch, a light sensor, or a Hall sensor, and the specific type of the door sensor <b>508</b> is not limited to the embodiments of the present disclosure.</p>
+<p id="p-0263" num="0261">In an embodiment, when the door of the refrigerator <b>500</b> is detected to be opened, since the refrigeration compartment <b>502</b> of the refrigerator <b>500</b> is in communication with the external environment now, the exchange of the air in the refrigeration compartment <b>502</b> with the external air may be accelerated if the fan continues operating, resulting in the loss of the cold energy and the massive invasion of external bacteria into the refrigeration compartment <b>502</b>. Therefore, at this time, the sterilization apparatus <b>400</b> can be controlled to shut down.</p>
+<p id="p-0264" num="0262">When the door of the refrigerator <b>500</b> is detected to be closed, the external bacteria may invade into the refrigeration compartment <b>502</b> at the moment that the door is opened, and at this time, the sterilization apparatus <b>400</b> is controlled to automatically operate for a while, which can effectively kill the invasive bacteria in the refrigeration compartment <b>502</b> and enable the function of sterilizing, fresh keeping, and deodorizing.</p>
+<p id="p-0265" num="0263">In the embodiment herein, the door sensor <b>508</b> detects the opening or closing of the door body <b>506</b> of the refrigerator <b>500</b>, and accordingly, the sterilization apparatus <b>400</b> is controlled to operate, which is conducive to improving the sterilizing and fresh-keeping effect of the refrigerator <b>500</b>, while reducing the energy consumption.</p>
+<heading id="h-0038" level="1">Embodiment 32</heading>
+<p id="p-0266" num="0264">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, the refrigerator <b>500</b> further includes a display device connected to the controller and the sterilization apparatus <b>400</b> for displaying an operation state of the sterilization apparatus <b>400</b>.</p>
+<p id="p-0267" num="0265">In the embodiment herein, the refrigerator <b>500</b> includes the display device, and the display device can display the operation state of the sterilization apparatus <b>400</b>. When the sterilization apparatus <b>400</b> is in operation, the display device correspondingly displays a text message that reads &#x201c;sterilization in progress&#x201d;, or a preset animation message; when the operation of the sterilization apparatus is finished, the display device can display text messages like &#x201c;sterilization finished&#x201d; and &#x201c;fresh keeping in progress&#x201d;, and the user is well informed of the operation state of the sterilization apparatus <b>400</b> at any time and enjoys a good user experience.</p>
+<heading id="h-0039" level="1">Embodiment 33</heading>
+<p id="p-0268" num="0266"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a structural diagram of the refrigeration apparatus <b>600</b> according to an embodiment of the present disclosure, and <figref idref="DRAWINGS">FIG. <b>12</b></figref> is a structural diagram of the box assembly according to an embodiment of the present disclosure. In some embodiment, the refrigeration apparatus <b>600</b> includes: a refrigeration compartment <b>602</b>; a box assembly <b>604</b> provided in the refrigeration compartment <b>602</b>, wherein the box assembly <b>604</b> includes a first side wall <b>6041</b> and a second side wall <b>6046</b> that are arranged opposite to each other; an adjusting component <b>6049</b> for adjusting a distance between the first side wall <b>6041</b> and the second side wall <b>6046</b>; a first conductive layer <b>6045</b> provided on the second side wall <b>6046</b>; and a first electret membrane <b>6043</b> provided on the first side wall <b>6041</b>, wherein the first electret membrane <b>6043</b> is between the first side wall <b>6041</b> and the first conductive layer <b>6045</b> and in parallel with the first conductive layer <b>6045</b>.</p>
+<p id="p-0269" num="0267">In the embodiment herein, the refrigeration apparatus <b>600</b> can be a refrigerator, a freezer, a cold storage, or the like. The refrigeration apparatus includes therein the refrigeration compartment <b>602</b>, and the refrigeration compartment <b>602</b> is kept at a constant and low temperature as set by a user to preserve the quality and freshness of materials.</p>
+<p id="p-0270" num="0268">The box assembly <b>604</b> is provided in the refrigeration compartment <b>602</b>, and the distance between the first side wall <b>6041</b> and the second side wall <b>6046</b> of the box assembly <b>604</b> can be adjusted by the adjusting component <b>6049</b>, that is, the adjusting component <b>6049</b> moves the first side wall <b>6041</b> closer to the second side wall <b>6046</b> to render a smaller air gap between the first side wall <b>6041</b> and the second side wall <b>6046</b>; alternatively, the adjusting component <b>6049</b> moves the first side wall <b>6041</b> farther from the second side wall <b>6046</b> to render a larger air gap between the first side wall <b>6041</b> and the second side wall <b>6046</b>.</p>
+<p id="p-0271" num="0269">Herein, the first side wall <b>6041</b> is provided with the first electret membrane <b>6043</b>, the second side wall <b>6046</b> is provided with the first conductive layer <b>6045</b>, and an electrostatic field can be generated between the first electret membrane <b>6043</b> and the first conductive layer <b>6045</b>.</p>
+<p id="p-0272" num="0270">In an embodiment, the electret is a dielectric material capable of long-term storage of electric charges. Therefore, the metal electrode is provided on one side of the electret material matrix, and the metal electrode is electrically polarized under the influence of the charges of the electret, and an electrode is formed without an external power source. Accordingly, the electrodes formed by the electret membrane may affect the distribution of charges in the first conductive layer <b>6045</b>, for electrically poling the first conductive layer <b>6045</b> as well. As such, an electrostatic field is generated between the first electret membrane <b>6043</b> and the first conductive layer <b>6045</b>.</p>
+<p id="p-0273" num="0271">The intensity of the electrostatic field is related to the distance between the first electret membrane <b>6043</b> and the first conductive layer <b>6045</b>. In an embodiment, when the distance between the first side wall <b>6041</b> and the second side wall <b>6046</b> decreases, the distance between the first electret membrane <b>6043</b> and the first conductive layer <b>6045</b> correspondingly decreases, and at this time, the intensity of the electrostatic field inside the box assembly <b>604</b> increases; in an intensified electrostatic field, the cell membrane of bacteria may show perforation polarization, and then suffer irreversible damage, resulting in the inactivation of bacteria. The box assembly <b>604</b> can thus be used as a sterilization apparatus.</p>
+<p id="p-0274" num="0272">As the distance between the first side wall <b>6041</b> and the second side wall <b>6046</b> increases, the electrostatic field intensity decreases, and the storage space between the first side wall <b>6041</b> and the second side wall <b>6046</b> expands. At this time, an electrostatic field with quite enough intensity is still maintained in the box assembly <b>604</b>, and in the electrostatic field, food materials such as fruits and vegetables experience a break of the potential balance between the interior and exterior of a cell membrane, and charged particles on both sides of the cell membrane move directionally, for generating a biological current; the biological current can effectively inhibit ATP (adenosine triphosphate), and thus the metabolism of cells can be effectively inhibited for fresh keeping.</p>
+<p id="p-0275" num="0273">In the embodiment herein, the adjusting component <b>6049</b> is provided to adjust the distance between the first side wall <b>6041</b> and the second side wall <b>6046</b> in the box assembly <b>604</b> and the box assembly <b>604</b> can serve as a sterilization apparatus or a fresh-keeping apparatus. A user can adjust the working mode of the box assembly <b>604</b> depending on actual requirements, catering to various requirements of the user, and accordingly, the refrigeration apparatus <b>600</b> has more function modes without additional function modules, for improving the user experience of the refrigeration apparatus <b>600</b>.</p>
+<heading id="h-0040" level="1">Embodiment 34</heading>
+<p id="p-0276" num="0274">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>, the box assembly <b>604</b> further includes a second conductive layer <b>6042</b> provided on the first side wall <b>6041</b> and between the first side wall <b>6041</b> and the first electret membrane <b>6043</b>.</p>
+<p id="p-0277" num="0275">In the embodiment herein, the box assembly <b>604</b> further includes the second conductive layer <b>6042</b> provided on the first side wall <b>6041</b>, and the second conductive layer <b>6042</b> is in parallel with the first conductive layer <b>6045</b>, that is, opposite electrical shielding layers are formed by the second conductive layer <b>6042</b> in combination with the first conductive layer <b>6045</b>, and the electrostatic field generated by the electret membrane is limited in a direction from the first side wall <b>6041</b> to the second side wall <b>6046</b>.</p>
+<p id="p-0278" num="0276">Taking the first side wall <b>6041</b> as a top wall and the second side wall <b>6046</b> as a bottom wall as an example, since the top wall and the bottom wall are respectively provided with the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b> that are arranged opposite and parallel to each other, the electrostatic field can be limited in a vertical direction from the first side wall <b>6041</b> to the second side wall <b>6046</b>, i.e., between the top wall and the bottom wall. With the electrostatic field limited in one direction, a situation where electrostatic fields in multiple directions cancel each other is avoided, which is conducive to improving the intensity of the electrostatic field and rendering a better fresh-keeping effect of storing food or a better sterilization effect of the sterilization apparatus.</p>
+<heading id="h-0041" level="1">Embodiment 35</heading>
+<p id="p-0279" num="0277">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>, the box assembly <b>604</b> further includes a second electret membrane <b>6044</b> provided on the first conductive layer <b>6045</b>, wherein the second electret membrane <b>6044</b> is in parallel with the first electret membrane <b>6043</b>, and the charge polarity of the second electret membrane <b>6044</b> is opposite to the charge polarity of the first electret membrane <b>6043</b>.</p>
+<p id="p-0280" num="0278">In the embodiment herein, the second electret membrane <b>6044</b> may further be provided in the box assembly <b>604</b>, and the second electret membrane <b>6044</b> may be on the second side wall <b>6046</b>, opposite and in parallel with the first electret membrane <b>6043</b>. Herein, the charge polarity of the second electret membrane <b>6044</b> is opposite to the charge polarity of the first electret membrane <b>6043</b>, that is, when the second electret membrane <b>6044</b> is positively charged, the first electret membrane <b>6043</b> is negatively charged; when the second electret membrane <b>6044</b> is negatively charged, the first electret membrane <b>6043</b> is positively charged.</p>
+<p id="p-0281" num="0279">In the embodiment herein, the second electret membrane <b>6044</b> is in parallel with the first electret membrane <b>6043</b>, and the charge polarity of the second electret membrane <b>6044</b> is opposite to the charge polarity of the first electret membrane <b>6043</b>, and thus the intensity of the electrostatic field is effectively increased, for improving the fresh-keeping effect of the box assembly <b>604</b> to store food or the sterilization effect of the sterilization apparatus.</p>
+<heading id="h-0042" level="1">Embodiment 36</heading>
+<p id="p-0282" num="0280">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>, the refrigeration apparatus <b>600</b> further includes a first ground line through which the first conductive layer <b>6045</b> is grounded, and a second ground line through which the second conductive layer <b>6042</b> is grounded.</p>
+<p id="p-0283" num="0281">In the embodiment herein, the refrigeration apparatus <b>600</b> includes the first ground line and the second ground line. The first ground line is connected to the first conductive layer <b>6045</b> and the first conductive layer <b>6045</b> is grounded. Similarly, the second ground line is connected to the second conductive layer <b>6042</b> and the second conductive layer <b>6042</b> is grounded. With the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b> grounded, the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b> have equal potentials, which can ensure that the electrostatic field generated by the electret membrane is limited in a fixed direction, advantageous for improving the intensity of the electrostatic field and rendering a better fresh-keeping effect of storing food.</p>
+<p id="p-0284" num="0282">In some embodiments, the first ground line is in communication with the second ground line, that is, the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b> are commonly grounded, which can further increase the intensity of the electrostatic field.</p>
+<p id="p-0285" num="0283">In other embodiments, the first ground line and the second ground line are connected to a ground line of the refrigerator or a shell of the refrigerator.</p>
+<heading id="h-0043" level="1">Embodiment 37</heading>
+<p id="p-0286" num="0284">In the embodiment herein, as shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>, the adjusting component <b>6049</b> includes a first connecting portion <b>6047</b> connected to the first side wall <b>6041</b>, a second connecting portion <b>6048</b> connected to the second side wall <b>6046</b>, and a drive member for driving the first connecting portion <b>6047</b> to move relative to the second connecting portion <b>6048</b> to move the first side wall <b>6041</b> closer to or away from the second side wall <b>6046</b>.</p>
+<p id="p-0287" num="0285">In the embodiment herein, the adjusting component <b>6049</b> includes the first connecting portion <b>6047</b> and the second connecting portion <b>6048</b>, wherein the first connecting portion <b>6047</b> is connected to the first side wall <b>6041</b> and the second connecting portion <b>6048</b> is connected to the second side wall <b>6046</b>.</p>
+<p id="p-0288" num="0286">In an embodiment, in the box assembly <b>604</b>, both the first side wall <b>6041</b> and the second side wall <b>6046</b> are configured to be movable. The box assembly <b>604</b> may include five side walls, wherein the first side wall <b>6041</b> and the second side wall <b>6046</b> are arranged opposite to each other. As can be appreciated, the box assembly <b>604</b> can further include fewer side walls, and in the case that the box assembly <b>604</b> includes only the first side wall <b>6041</b> and the second side wall <b>6046</b>, the first side wall <b>6041</b> and the second side wall <b>6046</b> can optionally be top and bottom walls that sandwich something therebetween.</p>
+<p id="p-0289" num="0287">The first side wall <b>6041</b> and the second side wall <b>6046</b> are connected to the first connecting portion <b>6047</b> and the second connecting portion <b>6048</b>, respectively, wherein the first side wall <b>6041</b> can be fixedly connected to the first connecting portion <b>6047</b> through welding, adhesion or integral forming, or can be detachably connected to the first connecting portion <b>6047</b> through bolts, snaps, etc.</p>
+<p id="p-0290" num="0288">The drive member may be a direct current motor, and a gear is provided at an output end of the direct current motor, and the gear drives a rack to move, for driving the first side wall <b>6041</b> and the second side wall <b>6046</b> to move closer to or away from each other.</p>
+<p id="p-0291" num="0289">The drive member may also be a linear motor having a driving end directly connected to one of the first and second connecting portions <b>6047</b> and <b>6048</b>, for directly driving the first and second side walls <b>6041</b> and <b>6046</b> to move closer to or away from each other.</p>
+<p id="p-0292" num="0290">In the embodiment herein, the first connecting portion <b>6047</b> and the second connecting portion <b>6048</b> are driven by the drive member, for changing the distance between the first side wall <b>6041</b> and the second side wall <b>6046</b> and the box assembly <b>604</b> can serve as a sterilization apparatus or a fresh-keeping apparatus. A user can adjust the working mode of the box assembly <b>604</b> depending on actual requirements, catering to various requirements of the user, and accordingly, the refrigeration apparatus <b>600</b> has more function modes without additional function modules, for improving the user experience of the refrigeration apparatus <b>600</b>.</p>
+<heading id="h-0044" level="1">Embodiment 38</heading>
+<p id="p-0293" num="0291">In some embodiments of the present disclosure, as shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>, the refrigeration apparatus <b>600</b> further includes a controller connected to the drive member, wherein the controller is configured to control the first connecting portion <b>6047</b> to move relative to the second connecting portion <b>6048</b> to bring the first conductive layer <b>6045</b> closer to the second conductive layer <b>6042</b> in response to a sterilizing instruction, and control the first connecting portion <b>6047</b> to move relative to the second connecting portion <b>6048</b> to bring the first conductive layer <b>6045</b> away from the second conductive layer <b>6042</b> in response to a fresh-keeping instruction, for forming a receiving cavity between the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b>.</p>
+<p id="p-0294" num="0292">In the embodiment herein, upon the reception of the sterilizing instruction, the drive member is controlled to drive the first connecting portion <b>6047</b> to move towards the second connecting portion <b>6048</b>, and the air gap between the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b> gets smaller, and the box assembly <b>604</b> enters the sterilization mode.</p>
+<p id="p-0295" num="0293">Upon the reception of the fresh-keeping instruction, the drive member is controlled to drive the first connecting portion <b>6047</b> to move away from the second connecting portion <b>6048</b>, and the air gap between the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b> gets larger, and the box assembly <b>604</b> enters the fresh-keeping mode.</p>
+<p id="p-0296" num="0294">In an embodiment, assuming that the thickness of the electret membrane is s and the charges are distributed on the surface of the electret membrane with a density &#x3c3;, the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b> have induced charges on their surfaces under the influence of the electret charges. The density of the induced charges on the surface of the first conductive layer <b>6045</b> is &#x3c3;<sub>0</sub>, and the density of the induced charges on the surface of the second conductive layer <b>6042</b> is &#x3c3;<sub>1</sub>. S<sub>1 </sub>is the distance between the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b>, &#x3b5;<sub>r </sub>is the relative dielectric constant of the electret membrane, and &#x3b5;<sub>r1 </sub>is the relative dielectric constant of the air gap between the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b>. E is the intensity of the electrostatic field between the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b>.</p>
+<p id="p-0297" num="0295">According to the Gauss Theorem and Kirchhoff's Second Law, the following equation is obtained:</p>
+<p id="p-0298" num="0000">
+<maths id="MATH-US-00002" num="00002">
+<math overflow="scroll">
+ <mrow>
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+   <mrow>
+    <mi>s</mi>
+    <mo>&#x2062;</mo>
+    <mi>&#x3c3;</mi>
+   </mrow>
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>&#x3b5;</mi>
+      <mi>r</mi>
+     </msub>
+     <mo>&#x2062;</mo>
+     <msub>
+      <mi>&#x3b5;</mi>
+      <mrow>
+       <mi>r</mi>
+       <mo>&#x2062;</mo>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>&#x2062;</mo>
+     <mi>s</mi>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+     <msub>
+      <mi>&#x3b5;</mi>
+      <mi>r</mi>
+     </msub>
+     <mo>&#x2062;</mo>
+     <msub>
+      <mi>&#x3b5;</mi>
+      <mrow>
+       <mi>r</mi>
+       <mo>&#x2062;</mo>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>&#x2062;</mo>
+     <msub>
+      <mi>s</mi>
+      <mn>1</mn>
+     </msub>
+    </mrow>
+   </mrow>
+  </mfrac>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0299" num="0296">It can be seen that the intensity of the electrostatic field generated by the electret membrane is inversely related to the distance between the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b>.</p>
+<p id="p-0300" num="0297">The sterilization mode has higher requirements on the intensity of the electrostatic field, and an electrostatic field with higher intensity can better inactivate bacteria and improve the sterilization efficiency. Therefore, in the sterilization mode, the air gap distance between the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b> is reduced, and the sterilization effect can be effectively improved.</p>
+<p id="p-0301" num="0298">However, an electrostatic field with lower intensity is enough for the fresh-keeping mode, and a larger air gap distance is conducive to storing more food materials. Therefore, in the fresh-keeping mode, the air gap distance between the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b> can be appropriately increased.</p>
+<p id="p-0302" num="0299">In the embodiment herein, the distance between the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b> is adjusted in different working modes to facilitate the switch between the sterilization and fresh-keeping modes, which is beneficial for improving the user experience.</p>
+<heading id="h-0045" level="1">Embodiment 39</heading>
+<p id="p-0303" num="0300">In the embodiment herein, as shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>, the refrigeration apparatus <b>600</b> further includes a fan oriented towards the air gap between the first side wall <b>6041</b> and the second side wall <b>6046</b>, wherein the controller is further configured to control the fan to begin operating in response to the sterilizing instruction.</p>
+<p id="p-0304" num="0301">In the embodiment herein, the refrigeration apparatus <b>600</b> further includes the fan having an outlet directed towards the air gap between the first side wall <b>6041</b> and the second side wall <b>6046</b>. When the box assembly <b>604</b> is operated in the sterilization mode, the air in the refrigeration compartment <b>602</b> of the refrigerator is guided through the air gap between the first conductive layer <b>6045</b> and the second conductive layer <b>6042</b> by the fan, i.e., through the electrostatic field, hence the bacteria suspended in the air are inactivated in the electrostatic field, and thus effective sterilization is achieved.</p>
+<p id="p-0305" num="0302">Herein, the operation of the fan can further be controlled according to the state (i.e., being opened or closed) of the door body of the refrigeration compartment <b>602</b>. In an embodiment, when the door of a refrigerator is detected to be opened, since the refrigeration compartment <b>602</b> of the refrigerator is in communication with the external environment now, the exchange of the air in the refrigeration compartment <b>602</b> with the external air may be accelerated if the fan continues operating, resulting in the loss of the cold energy and the massive invasion of external bacteria into the refrigeration compartment <b>602</b>. Therefore, at this time, the fan can be controlled to stop.</p>
+<p id="p-0306" num="0303">When the door of the refrigerator is detected to be closed, the external bacteria may invade into the refrigeration compartment <b>602</b> at the moment that the door is opened, and at this time, the fan is controlled to automatically operate for a while at the maximum rate, which can effectively kill the invasive bacteria in the refrigeration compartment <b>602</b> and enable the function of sterilizing, fresh keeping, and deodorizing.</p>
+<p id="p-0307" num="0304">In some embodiments of the present disclosure, refrigeration apparatus <b>600</b> further includes a display control device connected to the controller for receiving the sterilizing instruction and the fresh-keeping instruction and displaying the working state of the box assembly.</p>
+<p id="p-0308" num="0305">In the embodiment herein, the display control device may be a touch screen or a combination of a display screen and switch keys, and the embodiments of the present disclosure do not limit the specific type of the display control device.</p>
+<p id="p-0309" num="0306">The display control device can receive the sterilizing instruction or the fresh-keeping instruction from a user and show the working state of the box assembly <b>604</b>. In an embodiment, when the box assembly <b>604</b> operates in the sterilization mode, the display control device correspondingly displays a text message that reads &#x201c;sterilization in progress&#x201d; or an animation message; when the sterilization is finished, the words like &#x201c;sterilization finished&#x201d; and &#x201c;fresh keeping in progress&#x201d; can be displayed.</p>
+<p id="p-0310" num="0307">Similarly, in an embodiment, when the box assembly <b>604</b> operates in the fresh-keeping mode, the display control device correspondingly displays a text message that reads &#x201c;fresh keeping in progress&#x201d;, as well as the elapsed time after entering the fresh-keeping mode, such as &#x201c;in fresh keeping for <b>48</b> hours&#x201d;. As such, the user is well informed of the operation state of the refrigeration apparatus <b>600</b> at any time and enjoys a good user experience.</p>
+<heading id="h-0046" level="1">Embodiment 40</heading>
+<p id="p-0311" num="0308">In some embodiments of the present disclosure, the first conductive layer and the second conductive layer are metal conductive layers.</p>
+<p id="p-0312" num="0309">In the embodiment herein, the first conductive layer and the second conductive layer can be formed as &#x201c;electrodes&#x201d;, and the material thereof can be selected as a metal material and made into a metal conductive layer. Herein, the metal conductive layer can be an aluminum, copper, iron, or silver conductive layer, and in some embodiments, the metal material can be replaced by non-metallic conductive materials such as elemental carbon and isostructural forms of carbon. The specific material of the metal conductive layer is not limited to the embodiments of the present disclosure.</p>
+<heading id="h-0047" level="1">Embodiment 41</heading>
+<p id="p-0313" num="0310"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a structure of an electret membrane <b>100</b> according to an embodiment of the present disclosure. In some embodiment, as shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the electret membrane <b>100</b> includes the electret material matrix <b>102</b>, and the metal electrode <b>104</b> provided on one side of the electret material matrix <b>102</b> and attached to the electret material matrix <b>102</b>.</p>
+<p id="p-0314" num="0311">In an embodiment herein, the electret is a dielectric material capable of long-term storage of electric charges. Therefore, the metal electrode <b>104</b> is provided on one side of the electret material matrix <b>102</b>, and the metal electrode <b>104</b> is electrically polarized under the influence of the charges of the electret, and an electrode is formed without an external power source.</p>
+<p id="p-0315" num="0312">In an embodiment, because of the electric polarization of the electret membrane <b>100</b>, the electret membrane <b>100</b> can form an electrostatic field in the storage unit; in the electrostatic field, food materials such as fruits and vegetables experience a break of the potential balance between the interior and exterior of a cell membrane, and charged particles on both sides of the cell membrane move directionally, for generating a biological current; the biological current can effectively inhibit ATP (adenosine triphosphate), and thus the metabolism of cells can be effectively inhibited for fresh keeping.</p>
+<p id="p-0316" num="0313">Moreover, in the electrostatic field, the cell membrane of bacteria may show perforation polarization, and then suffer irreversible damage, resulting in the inactivation of bacteria. The fan can guide a certain range of air continuously into the electrostatic field, for effectively inactivating bacteria in the air passing through the air gap.</p>
+<p id="p-0317" num="0314">Given the embodiment herein, the electret membrane <b>100</b> can be electrically polarized without an external power source and form an electrostatic field that can simplify the electrostatic-field fresh-keeping and sterilizing structure and reduce the cost of generating the electrostatic field, which facilitates low-cost and highly reliable fresh-keeping and sterilizing effects through the electrostatic field.</p>
+<heading id="h-0048" level="1">Embodiment 42</heading>
+<p id="p-0318" num="0315">In some embodiments of the present disclosure, an electret membrane is provided and applied to a storage unit within a refrigerator, such as a refrigerator drawer, and the refrigerator is provided with the function of fresh keeping through an electrostatic field without a powered electrode or corresponding power supply structure.</p>
+<p id="p-0319" num="0316">In an embodiment, the mechanisms of fresh keeping and sterilization through the electrostatic field are explained below.</p>
+<p id="p-0320" num="0317">The mechanism of fresh keeping is as follows.</p>
+<p id="p-0321" num="0318">(1) In the electrostatic field, there is a break of the potential balance between the interior and exterior of a cell membrane, and charged particles on both sides of the cell membrane move directionally, for generating a biological current; the biological current can effectively inhibit ATP (adenosine triphosphate), and thus the metabolism of cells can be effectively inhibited for fresh keeping.</p>
+<p id="p-0322" num="0319">(2) For fruits and vegetables, the activity of biological enzyme is further one of the main factors affecting the metabolism, and the structural changes of water molecules around enzyme protein will further cause changes in the physiological state of fruits and vegetables. The water molecules in the fruit and vegetable cells are polar molecules and exist in the form of a water molecule cluster formed by hydrogen bonding, and this water molecule cluster is a non-fixed dynamic structure. In the electrostatic field, the structure of the water molecule cluster will change, and then change how the water molecules are bonded to the enzyme protein, and the activity of the enzyme protein is reduced, which further inhibits the metabolism of fruits and vegetables for fresh keeping.</p>
+<p id="p-0323" num="0320">(3) Cellular respiration exists in the food such as fruits and vegetables, and it is mainly iron ions that serve as a transporter of electrons in the respiration. The electrostatic field affects the iron ions and then disturbs the metabolism associated with the iron ions, and the electron transfer in a respiration chain of the fruits or vegetables is blocked, and thus the respiration of the plant would be inhibited, for inhibiting the metabolism of the fruits or vegetables for fresh keeping.</p>
+<p id="p-0324" num="0321">The mechanism of sterilization is as follows.</p>
+<p id="p-0325" num="0322">Moreover, in the electrostatic field, the cell membrane of bacteria may show perforation polarization, and then suffer irreversible damage, resulting in the inactivation of bacteria. The fan can guide a certain range of air continuously into the electrostatic field, for effectively inactivating bacteria in the air passing through the air gap.</p>
+<p id="p-0326" num="0323">Further, the electret membrane is explained.</p>
+<p id="p-0327" num="0324">Electrets are a class of dielectric materials capable of long-term storage of electric charges and showing a semi-permanent electrically polarized state. <figref idref="DRAWINGS">FIG. <b>13</b></figref> is a schematic diagram of a distribution of electric charges inside an electret, and unlike triboelectrification, electric charges occur both at the surface and inside.</p>
+<p id="p-0328" num="0325">To confine the electrostatic field generated by the electret membrane to the storage space inside the drawer, a metal conductive layer may be added to the upper and lower surfaces of the drawer, and the metal conductive layer may form an electrode under the action of the electrostatic field to prevent the electric field from scattering.</p>
+<p id="p-0329" num="0326">In some embodiments, the upper and lower metal conductive layers (electrodes) may be short-circuited to the ground, for limiting the electrostatic field to a direction perpendicular to the electrodes.</p>
+<p id="p-0330" num="0327">Herein, in the case where a metal electrode is coated on the electret membrane through evaporation, there is no need to provide the metal conductive layer, or the metal conductive layer is provided only on the side opposite the electret membrane.</p>
+<p id="p-0331" num="0328"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows a structure of the box assembly, and <figref idref="DRAWINGS">FIG. <b>14</b></figref> is a first schematic diagram of an electret generating an electric field in a drawer. Taking the electret membrane provided on the bottom of the drawer and the electret surface being negatively charged as an example, the distribution of the electrostatic field generated at this time is specifically described below.</p>
+<p id="p-0332" num="0329">In the electrostatic field of the electret membrane, induced charges of positive polarity are generated on an upper conductive layer (upper electrode), and the direction of the electrostatic field generated by the electret membrane is perpendicular to the surface and upward.</p>
+<p id="p-0333" num="0330">The distribution of the electrostatic field is similar in the case where the electret membrane is provided on the top of the drawer.</p>
+<p id="p-0334" num="0331">Herein, the intensity of the electrostatic field generated by the electret membrane is related to the quantity of charges stored in the electret and the distance between the upper and lower conductive layers (upper and lower electrodes).</p>
+<p id="p-0335" num="0332">In an embodiment, <figref idref="DRAWINGS">FIG. <b>15</b></figref> is a second schematic diagram of the electret generating an electric field in the drawer. Herein, assuming that the electret membrane has a thickness s and charges are distributed on the surface of the electret membrane with a density &#x3c3;, the upper electrode and the lower electrode have induced charges on their surfaces under the influence of the electret charges. The density of the induced charges on the surface of the upper electrode is &#x3c3;<sub>0</sub>, and the density of the induced charges on the surface of the lower electrode is &#x3c3;<sub>1</sub>. The distance between the upper electrode and the lower electrode is S<sub>1</sub>, &#x3b5;<sub>r </sub>is the relative dielectric constant of the electret membrane, and &#x3b5;<sub>r1 </sub>is the relative dielectric constant of the air gap between the upper electrode and the lower electrode. E is the intensity of the electrostatic field between the upper and lower electrodes.</p>
+<p id="p-0336" num="0333">According to the Gauss Theorem and Kirchhoff's Second Law, the following equation is obtained:</p>
+<p id="p-0337" num="0000">
+<maths id="MATH-US-00003" num="00003">
+<math overflow="scroll">
+ <mrow>
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+   <mrow>
+    <mi>s</mi>
+    <mo>&#x2062;</mo>
+    <mi>&#x3c3;</mi>
+   </mrow>
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>&#x3b5;</mi>
+      <mi>r</mi>
+     </msub>
+     <mo>&#x2062;</mo>
+     <msub>
+      <mi>&#x3b5;</mi>
+      <mrow>
+       <mi>r</mi>
+       <mo>&#x2062;</mo>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>&#x2062;</mo>
+     <mi>s</mi>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+     <msub>
+      <mi>&#x3b5;</mi>
+      <mi>r</mi>
+     </msub>
+     <mo>&#x2062;</mo>
+     <msub>
+      <mi>&#x3b5;</mi>
+      <mrow>
+       <mi>r</mi>
+       <mo>&#x2062;</mo>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>&#x2062;</mo>
+     <msub>
+      <mi>s</mi>
+      <mn>1</mn>
+     </msub>
+    </mrow>
+   </mrow>
+  </mfrac>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0338" num="0334">Wherein s is the thickness of the electret membrane, &#x3c3; is the area charge density of the electret membrane, S<sub>1 </sub>is the distance between the upper electrode and the lower electrode, &#x3b5;<sub>r </sub>is the relative dielectric constant of the electret membrane, &#x3b5;<sub>r1 </sub>is the relative dielectric constant of the air gap between the upper electrode and the lower electrode, and E is the intensity of the electrostatic field between the upper electrode and the lower electrode.</p>
+<p id="p-0339" num="0335">It can be seen from the above equation that in the storage space inside the drawer, the intensity of the electrostatic field increases with the increase of the density of the charges carried by the electret membrane on its surface and decreases with the increase of the distance between the upper and lower electrodes (which can be regarded as the height of the drawer). Moreover, the smaller the relative dielectric constant is of the electret membrane, the higher the intensity is of the electrostatic field in the storage space inside the drawer.</p>
+<p id="p-0340" num="0336">Therefore, the thickness of the electret membrane, the density of charges on the surface, and other parameters can be calibrated according to the height of the drawer employed, the required electrostatic field intensity and other indicators in a target refrigerator product to produce a desirable electret membrane.</p>
+<p id="p-0341" num="0337">Herein, the electret membrane includes an electret material matrix, and materials of the electret material matrix may include:</p>
+<p id="p-0342" num="0338">poly tetra fluoroethylene (PTEF), polypropylene (PP), and polyethylene (PE).</p>
+<p id="p-0343" num="0339">Among these, polyethylene specifically includes:</p>
+<p id="p-0344" num="0340">large-size crystal-structure high-density polyethylene (HDPE), microcrystalline high-density polyethylene, medium-density polyethylene (MDPE) and low-density polyethylene (LDPE).</p>
+<p id="p-0345" num="0341">The peak discharge temperatures of the electrets composed of above materials are shown in Table 1 below.</p>
+<p id="p-0346" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="98pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Material</entry>
+<entry>Peak discharge temperature</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>PTEF</entry>
+<entry>230&#xb0; C.</entry>
+</row>
+<row>
+<entry/>
+<entry>PP</entry>
+<entry>150&#xb0; C.</entry>
+</row>
+<row>
+<entry/>
+<entry>Large-size crystal-structure HDPE</entry>
+<entry>150&#xb0; C.</entry>
+</row>
+<row>
+<entry/>
+<entry>Microcrystalline HDPE</entry>
+<entry>130&#xb0; C.</entry>
+</row>
+<row>
+<entry/>
+<entry>MDPE</entry>
+<entry>120&#xb0; C.</entry>
+</row>
+<row>
+<entry/>
+<entry>LDPE</entry>
+<entry>&#x2002;85&#xb0; C.</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0347" num="0342">The higher the peak discharge temperature is, the greater the capacity of the corresponding material to store charge is, so one or more materials can be selected as the material of the electret material matrix of the electret membrane in an overall consideration of costs and parameter requirements of the electret membrane.</p>
+<p id="p-0348" num="0343"><figref idref="DRAWINGS">FIG. <b>16</b></figref> shows a sectional view of a refrigerator drawer, and as shown in <figref idref="DRAWINGS">FIGS. <b>4</b> and <b>16</b></figref>, the refrigerator drawer includes an upper cover plate <b>702</b>, a first electret membrane <b>704</b>, a second conductive layer <b>706</b>, a first side wall <b>708</b>, a second side wall <b>710</b>, a first conductive layer <b>712</b>, a second ground line <b>714</b>, and a first ground line <b>716</b>.</p>
+<p id="p-0349" num="0344">Herein, the electret membrane is mounted inside a packaging plate, and a first electric field shielding plate is provided on the back surface of the electret membrane. A first ground wire is provided on the first electric field shielding plate, and the electret membrane and the first electric field shielding plate are attached to each other and mounted inside the packaging plate. The packaging plate and an upper panel are mounted on a support of the upper panel of the drawer.</p>
+<p id="p-0350" num="0345">A further second electric field shielding plate is provided in a distance from the plane of the electret membrane and opposite the electret membrane, and a second ground wire is provided on the second electric field shielding plate. The first electric field shielding plate is in communication with the second electric field shielding plate via the wire, and they are connected to a refrigerator ground line.</p>
+<p id="p-0351" num="0346">The shielding plates are mounted on the support plate <b>218</b>, the two shielding plates and the electret membrane are arranged parallel and opposite to each other, the drawer is provided in the space between the shielding plates, and the storage space of the drawer is within the enclosure of the two shielding plates.</p>
+<p id="p-0352" num="0347">The electret membrane generates a spatial radiation electric field, and a uniform electric field with parallel electric field lines can be formed between the two shielding plates by configuring the two shielding plates. The shielding plates can limit the electric field between the two shielding plates and form a stronger electric field in the desirable space, which is conducive to improving the fresh-keeping effect.</p>
+<p id="p-0353" num="0348">To further increase the electric field intensity, the lower shielding plate may be replaced with a combination of an electret membrane of opposite polarity to the upper electret membrane and a shielding plate.</p>
+<p id="p-0354" num="0349">In addition, the electric field intensity is inversely related to the distance between the shielding plates, and one of the shielding plates is designed to be movable up and down structurally, and in use, the shielding plate is automatically moved upon an identification of the variety and quantity of food materials in storage to render the effect of intensifying the electric field.</p>
+<p id="p-0355" num="0350">In an embodiment, an adjusting component can be provided within the refrigerator drawer <b>700</b> to adjust the distance between the upper and lower shielding plates. The adjusting component can be a DC motor, wherein a gear is provided at an output end of the DC motor, and the gear drives a rack to move, for driving the upper and lower shielding plates to move closer to or away from each other, to adjust the intensity of the electrostatic field and the storage space in the refrigerator drawer <b>700</b>.</p>
+<p id="p-0356" num="0351">The adjusting component can further be a linear motor having a drive end directly connected to either the upper or lower shielding plate to directly drive one of the upper and lower shielding plates closer to or away from the other of the upper and lower shielding plates, to adjust the electrostatic field intensity and storage space within the refrigerator drawer <b>700</b>.</p>
+<p id="p-0357" num="0352">When the gap between the two shielding plates is small enough, the electric field intensity keeps increasing, and when the electric field intensity reaches 40 KV/m, the high-intensity electric field has a sterilization effect, that is, the gas is driven to flow between the shielding plates for sterilization.</p>
+<p id="p-0358" num="0353">In an embodiment, a fan may be provided on one side of the drawer <b>700</b> of the refrigerator, and the fan may be located inside or outside the drawer. When the fan is provided outside the drawer, a vent can be configured at a corresponding position.</p>
+<p id="p-0359" num="0354">The adjusting component adjusts the air gap distance between the upper shielding plate and the lower shielding plate. When the air gap distance between the upper shielding plate and the lower shielding plate is small enough to render the electric field intensity in the air gap to be greater than or equal to 40 KV/m, the fan can be started, and the air in the refrigeration compartment can be guided to pass through the air gap between the upper shielding plate and the lower shielding plate. In the high-intensity electric field in the air gap, the cell membrane of bacteria may show perforation polarization, and then suffer irreversible damage, resulting in the inactivation of bacteria. The fan can guide a certain range of air continuously into the electrostatic field, for effectively inactivating bacteria in the air passing through the air gap.</p>
+<p id="p-0360" num="0355">The sterilization process can effectively inhibit the quantity of bacteria in the refrigerator compartment, prevent the food from going bad because of bacteria growth, and avoid the occurrence of odor caused by bacterial activity, which is beneficial to ensure the health of users.</p>
+<p id="p-0361" num="0356">When the refrigerator drawer <b>700</b> is used as a sterilization apparatus, the sterilization process can be linked with the door body of the refrigeration compartment. In an embodiment, a door sensor for acquiring a door opening signal of the refrigerator door body and a door closing signal of the refrigerator door body can be provided, and the door sensor may be specifically provided on the door body or in the refrigeration compartment.</p>
+<p id="p-0362" num="0357">Herein, the door sensor can be a micro-switch, a light sensor or a Hall sensor, and the embodiments of the present disclosure do not limit the specific type of the door sensor.</p>
+<p id="p-0363" num="0358">In an embodiment, when the door of the refrigerator is detected to be opened, since the refrigeration compartment of the refrigerator is in communication with the external environment now, the exchange of the air in the refrigeration compartment with the external air may be accelerated if the fan continues operating, resulting in the loss of the cold energy and the massive invasion of external bacteria into the refrigeration compartment. Therefore, at this time, the sterilization apparatus can be controlled to shut down.</p>
+<p id="p-0364" num="0359">When the door of the refrigerator is detected to be closed, the external bacteria may invade into the refrigeration compartment at the moment that the door is opened, and at this time, the sterilization apparatus is controlled to automatically operate for a while, which can effectively kill the invasive bacteria in the refrigeration compartment and enable the function of sterilizing, fresh keeping, and deodorizing.</p>
+<p id="p-0365" num="0360">In the embodiment herein, the state (i.e., being opened or closed) of the refrigerator door body is detected by the door sensor, and correspondingly, the sterilization apparatus is controlled to operate, which is conducive to improving the sterilization and fresh-keeping effect of the refrigerator while reducing energy consumption.</p>
+<p id="p-0366" num="0361">In the description of the present disclosure, the term &#x201c;plurality&#x201d; means two or more. Unless expressly defined otherwise, the terms like &#x201c;upper&#x201d; and &#x201c;lower&#x201d; indicate orientations or positional relationships based on the drawings for purposes of describing the present disclosure and simplifying the description only and are not intended to indicate or imply that the referenced devices or parts must have a particular orientation, be constructed and operated in a particular orientation; therefore, these terms shall not be construed as limiting the present disclosure. The terms like &#x201c;connected&#x201d;, &#x201c;mounted&#x201d;, and &#x201c;fixed&#x201d; are to be construed broadly, for example, being &#x201c;connected&#x201d; may be in fixed connection, detachable connection, or integral connection, either in direct connection or indirect connection through an intermediary. For a person of ordinary skill in the art, the specific meaning of the above terms in the present disclosure can be understood according to specific situations.</p>
+<p id="p-0367" num="0362">In the description of the present disclosure, the terms like &#x201c;an embodiment&#x201d;, &#x201c;some embodiments&#x201d;, and &#x201c;specific embodiments&#x201d; mean that a particular feature, structure, material, or characteristic described in connection with the embodiment or example is included in at least one embodiment or example of the present disclosure. In this application, illustrative use of the above terms do not necessarily refer to the same embodiment or example. Furthermore, the particular features, structures, materials, or characteristics described may be combined in any suitable manner in any one or more embodiments or examples.</p>
+<p id="p-0368" num="0363">While the foregoing is directed to the preferred embodiments of the present disclosure, other and further embodiments of the present disclosure may be devised without departing from the basic scope thereof, and the scope thereof is defined by the appended claims. All changes, equivalents, improvements, and the like, that come within the spirit and scope of the application are intended to be embraced therein.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20230225342A1-20230720-M00001.NB">
+<img id="EMI-M00001" he="5.25mm" wi="76.20mm" file="US20230225342A1-20230720-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US20230225342A1-20230720-M00002.NB">
+<img id="EMI-M00002" he="5.25mm" wi="76.20mm" file="US20230225342A1-20230720-M00002.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00003" nb-file="US20230225342A1-20230720-M00003.NB">
+<img id="EMI-M00003" he="5.25mm" wi="76.20mm" file="US20230225342A1-20230720-M00003.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A storage apparatus comprising a box assembly, wherein the box assembly comprises:
+<claim-text>a first side wall;</claim-text>
+<claim-text>a second side wall opposite to the first side wall;</claim-text>
+<claim-text>a first conductive layer provided on the second side wall;</claim-text>
+<claim-text>a first electret membrane provided on the first side wall, the first electret membrane being between the first side wall and the first conductive layer and in parallel with the first conductive layer; and</claim-text>
+<claim-text>an adjusting component for adjusting an intensity of an electric field between the first conductive layer and the first electret membrane.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The storage apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the box assembly further comprises:
+<claim-text>a second conductive layer provided on the first side wall and between the first side wall and the first electret membrane.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The storage apparatus according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the box assembly further comprises:
+<claim-text>a second electret membrane provided on the first conductive layer, wherein the second electret membrane is in parallel with the first electret membrane, and a charge polarity of the second electret membrane is opposite to a charge polarity of the first electret membrane.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The storage apparatus according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, further comprising:
+<claim-text>a first ground line through which the first conductive layer is grounded; and</claim-text>
+<claim-text>a second ground line through which the second conductive layer is grounded.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. A The storage apparatus according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the adjusting component comprises:
+<claim-text>a first connecting portion connected to the first side wall; and</claim-text>
+<claim-text>a second connecting portion connected to the second side wall; and</claim-text>
+<claim-text>a drive member for driving the first connecting portion to move relative to the second connecting portion to move the first side wall closer to or away from the second side wall.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The storage apparatus according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, further comprising:
+<claim-text>a controller connected to the drive member, wherein the controller is configured to:</claim-text>
+<claim-text>control the first connecting portion to move relative to the second connecting portion to bring the first conductive layer closer to the second conductive layer in response to a sterilizing instruction, and</claim-text>
+<claim-text>control the first connecting portion to move relative to the second connecting portion to bring the first conductive layer away from the second conductive layer in response to a fresh-keeping instruction, for forming a receiving cavity between the first conductive layer and the second conductive layer.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The storage apparatus according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, further comprising:
+<claim-text>a fan oriented towards an air gap between the first side wall and the second side wall,</claim-text>
+<claim-text>wherein the controller is further configured to control the fan to begin operating in response to the sterilizing instruction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The storage apparatus according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, further comprising:
+<claim-text>display control device connected to the controller for receiving the sterilizing instruction and the fresh-keeping instruction and displaying a working state of the box assembly.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. A The storage apparatus according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the first conductive layer and the second conductive layer are metal conductive layers.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The storage apparatus according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein each of the first electret membrane and the second electret membrane comprises:
+<claim-text>an electret material matrix;</claim-text>
+<claim-text>a metal electrode provided on one side of the electret material matrix and adhered to the electret material matrix.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The storage apparatus according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the first and second electret membranes further comprises:
+<claim-text>a hydrophobic layer, provided on an outer surface of the electret material matrix and/or the metal electrode.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The storage apparatus according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein a material of the electret material matrix comprises at least one of:
+<claim-text>poly tetra fluoroethylene, polypropylene, polyethylene, tetrafluorethylene-hexafluoropropylene, fluorinated ethylene propylene copolymer, silicon dioxide, aluminium oxide, magnesium dioxide, and silicon tetranitride.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

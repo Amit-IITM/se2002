@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225627A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225627</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18190443</doc-number>
+<date>20230327</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EP</country>
+<doc-number>16195529.9</doc-number>
+<date>20161025</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>05</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>05</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>6893</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>7228</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">SENSOR DEVICE</invention-title>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16344618</doc-number>
+<date>20190424</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+<parent-pct-document>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2017/076407</doc-number>
+<date>20171017</date>
+</document-id>
+</parent-pct-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18190443</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>VIGILITECH AG</orgname>
+<address>
+<city>Heiden</city>
+<country>CH</country>
+</address>
+</addressbook>
+<residence>
+<country>CH</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>OSSWALD</last-name>
+<first-name>Harald</first-name>
+<address>
+<city>Rheinfelden</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Z&#xdc;ND</last-name>
+<first-name>Marc</first-name>
+<address>
+<city>Heiden</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Z&#xdc;ND</last-name>
+<first-name>Daniel</first-name>
+<address>
+<city>Heiden</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>VIGILITECH AG</orgname>
+<role>03</role>
+<address>
+<city>Heiden</city>
+<country>CH</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A device (<b>1</b>) for monitoring a response of a subject body (<b>2, 21, 211</b>) comprises an emitter (<b>3</b>) for emitting an input signal (<b>5, 51</b>, . . . ) and a receiver (<b>4</b>) for receiving an output signal (<b>6, 61</b>, . . . ). A first response (R1) of the subject body (<b>2, 21, 211</b>) is evaluated from the comparison between the signals. A further emitter (<b>31, 311</b>, . . . ) evaluates a second response (R2), wherein one of the responses is selected for a further monitoring of the response, and/or at least one further receiver (<b>41, 411</b>, . . . ) evaluates a third response (R3), wherein either the first response (R1) or the third response (R3) is selected for a further monitoring of the response, and/or wherein the input signal (<b>5, 51</b>, . . . ) is an electromagnetic field and the device (<b>1</b>) further comprises a signal modulator (<b>9</b>) which alters the input signal (<b>5, 51</b>, . . . ).</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="100.84mm" wi="108.46mm" file="US20230225627A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="250.19mm" wi="157.90mm" file="US20230225627A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="245.19mm" wi="138.68mm" orientation="landscape" file="US20230225627A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="219.63mm" wi="159.43mm" file="US20230225627A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="191.01mm" wi="163.91mm" file="US20230225627A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="167.13mm" wi="161.63mm" file="US20230225627A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="157.14mm" wi="161.97mm" file="US20230225627A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="171.79mm" wi="162.05mm" file="US20230225627A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="160.70mm" wi="167.81mm" file="US20230225627A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="173.48mm" wi="165.27mm" file="US20230225627A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="131.91mm" wi="155.36mm" file="US20230225627A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="136.91mm" wi="158.75mm" file="US20230225627A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="245.11mm" wi="161.37mm" file="US20230225627A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCES TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a divisional of U.S. patent application Ser. No. 16/344,618, filed Apr. 24, 2019, in the US Patent and Trademark Office, which application claims priority from European Patent Application No. 16195529.9, filed on Oct. 25, 2016, which is national stage of PCT/EP2017/076407, the entire contents each of the foregoing applications of which are hereby incorporated by reference.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present invention relates to a device for monitoring a response of a subject body and a method of monitoring a response of a subject body, respectively.</p>
+<heading id="h-0003" level="1">PRIOR ART</heading>
+<p id="p-0004" num="0003">The monitoring of a response of a subject body, such as a vital function of a living subject body or a control function of an industrial process, is of a major importance in order to evaluate the state of the living subject body or the state of the industrial process. For this purpose many sensor devices have been developed. For living subject bodies such as humans and animals commonly used methods are based on a contact-dependent application of a sensor device. Such an application often involves the attachment of electrodes or of sensors to the living subject body in order to measure physiological parameters associated with a vital function of the living subject body. Other devices, in particular portable device such as a watch, are known, in which one or more optical sensors are integrated and which devices therefore no longer need to be attached to a living organism. However, in particular due to a limited range of sensitivity of the optical sensor, such devices can usually only be used in close proximity to the subject body.</p>
+<p id="p-0005" num="0004">To circumvent the above-mentioned problems associated with contact-dependent or position-dependent devices, devices comprising contact-independent sensors have been developed which are able to monitor the physiological condition of living subject bodies. These sensors are able to identify vital parameters such as the heart rate, the respiration rate or the movement of the living subject body alike former contact-dependent sensors.</p>
+<p id="p-0006" num="0005">Such contact-independent sensors commonly use electromagnetic properties and can either be positioned opposite of each other with the living subject body to be measured being positioned between them, or such sensors can be positioned in the same plane with the living subject body to be measured being positioned above or next to them.</p>
+<p id="p-0007" num="0006">A monitoring system for physiological events is known from WO 2014/204721 A1, where electromagnetic impedance sensors are provided to monitor physiological processes in humans and animals by measuring the variation in the electrical currents due to changes in the electrical impedance of the subject-body.</p>
+<p id="p-0008" num="0007">US 2014/0285216 A1 discloses a system for enhancing the signal quality of vital signals received from capacitive sensors located within the seat of a vehicle, where the sensors sense electric impulses from the driver.</p>
+<p id="p-0009" num="0008">A system is known from US 2014/0276112 A1, where sensors, such as electric current or potential sensors, visual sensors or oxygen sensors, among others, are used for sensing physiological characteristics in order to determine changes in a body state.</p>
+<p id="p-0010" num="0009">WO 2006/111877 A1 discloses an apparatus for inductively measuring the bio-impedance of a user's body by means of a capacitor.</p>
+<p id="p-0011" num="0010">A device for monitoring the condition of a living subject is known from US 2013/0001422 A1, where the configuration and function of the device is adjusted by means of a range finder that is adapted to determine the distance to a target, such as an RFID tag affixed near or in a monitoring area.</p>
+<p id="p-0012" num="0011">However, all of these devices and methods depend on a correct positioning of the subject body to be measured on the device and/or the devices have only a predetermined area of sensitivity.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0013" num="0012">It is therefore an object of the present invention to provide a device and a method for monitoring a response of a subject body which overcomes the above-mentioned drawbacks. In particular, it is an object of the present invention to provide a device and a method for monitoring a response of a subject body which enables a contact-independent and position-independent monitoring of the response at a high sensitivity.</p>
+<p id="p-0014" num="0013">According to a first aspect, the invention provides a device for monitoring a response of a subject body which device comprises at least one emitter and at least one receiver, wherein the at least one emitter is configured to emit at least one input signal and the at least one receiver is configured to receive at least one output signal from the subject body in response to said at least one input signal, a signal generator being in connection with the at least one emitter and being configured to generate the at least one input signal, the at least one input signal being effective for penetrating the subject body and/or for being reflected from the subject body, and a signal analyser being in connection with the at least one receiver and being configured to analyse the at least one output signal received from the at least one receiver by comparing the at least one output signal with the at least one input signal. The device is configured to evaluate at least one first response of the subject body from the comparison between the at least one output signal and the at least one input signal. The device comprises at least one further emitter, wherein the at least one further emitter is configured to emit the at least one input signal and/or at least one further input signal in order to evaluate at least one second response of the subject body by the comparison between the at least one output signal received by the at least one receiver and the at least one input signal and/or the at least one further input signal emitted by the at least one further emitter, and wherein either the at least one emitter and the at least one receiver responsible for the at least one first response of the subject body or the at least one further emitter and the at least one receiver responsible for the at least one second response of the subject body are selected for a further monitoring of the response of the subject body on the basis of a predetermined characteristic, and/or the device comprises at least one further receiver, wherein the at least one further receiver is configured to further receive the at least one output signal in order to evaluate at least one third response of the subject body by the comparison between the at least one output signal received by the at least one further receiver and the at least one input signal emitted by the at least one emitter, and wherein either the at least one emitter and the at least one receiver responsible for the at least one first response of the subject body or the at least one emitter and the at least one further receiver responsible for the at least one third response of the subject body are selected for a further monitoring of the response of the subject body on the basis of a predetermined characteristic.</p>
+<p id="p-0015" num="0014">For overview purposes, the at least one emitter and/or the at least one further emitter are sometimes referred to as emitter, emitters or emitter(s), and the at least one receiver and/or the at least one further receiver are sometimes referred to as receiver, receivers or receiver(s), respectively. Likewise, the at least one first response, the at least one second response and the at least one third response are sometimes referred to as the first response(s), the second response(s) and the third response(s), respectively. Furthermore, the output signal refers to the signal received by the receiver, where a particular receiver may receive several output signals and where different receivers may receive different output signals.</p>
+<p id="p-0016" num="0015">That is to say, the device is configured to determine the at least one first response by comparing the at least one input signal emitted by the at least one emitter with the at least one output signal received by the at least one receiver. The device is further configured to determine the at least one second response and/or the at least one third response, where the at least one second response is determined by comparing the at least one output signal received by the at least one receiver with the at least one input signal and/or the at least one further input signal emitted by the at least one further emitter, and where the at least one third response is determined by comparing the at least one output signal received by the at least one further receiver with the at least one input signal emitted by the at least one emitter, respectively. In the former case, either the at least one emitter and the at least one receiver responsible for the at least one first response, or the at least one further emitter and the at least one receiver responsible for the at least one second response are selected for a further monitoring of the response of the subject body based on a predetermined characteristic. In the latter case, either the at least one emitter and the at least one receiver responsible for the at least one first response, or the at least one emitter and the at least one further receiver responsible for the at least one third response are selected for a further monitoring of the response of the subject body based on a predetermined characteristic.</p>
+<p id="p-0017" num="0016">Hence, by comparing the at least one first, second and/or third response with the predetermined characteristic, the particular at least one emitter, at least one further emitter, at least one receiver, and/or at least one further receiver can be evaluated which is/are providing a desired at least one output signal and which is/are thus suitable for the further monitoring of the response of the subject body. That is, a particular at least one emitter, at least one further emitter, at least one receiver and/or at least one further receiver which result(s) in a first, second and/or third response that deviates from the predetermined characteristic is (are) disregarded for the further monitoring, whereas a particular at least one emitter, at least one further emitter, at least one receiver and/or at least one further receiver which result(s) in a first, second and/or third response that is in accordance with the predetermined characteristic is (are) chosen for the further monitoring of the response of the subject body.</p>
+<p id="p-0018" num="0017">Broadly speaking, the evaluation of the at least one first, second and/or third response may serve the purpose of roughly determining a suitable, i.e., sensitive, area on the device for a subsequent thorough monitoring of the actual response of the subject body. Thereby, the device enables the monitoring of the response without the need of exactly or fixedly positioning the subject body on a certain area of sensitivity on the device. Instead, an adaptive area of sensitivity is provided which can be continuously optimized and adjusted to the instant position of the subject body on the device. As a result, the response from the subject body can be monitored at a high sensitivity.</p>
+<p id="p-0019" num="0018">Examples of a predetermined characteristic in the context of the present invention are a reference signal amplitude, a reference signal strength, a reference signal frequency, a reference signal phase, a reference signal phase change, a reference signal jitter, a reference signal skew, a reference signal spread spectrum, etcetera, which is/are compared to the signal amplitude, the signal strength, the signal frequency, the signal phase, the signal phase change, the signal jitter, the signal skew, the signal spread spectrum, etcetera, associated with the at least one first response, the at least one second response and the at least one third response, respectively.</p>
+<p id="p-0020" num="0019">As will be explained in detail below, the response to be monitored could be a vital function such as a heart rate or a respiration rate of a living subject body. Typical heart rates of an adult human being, of a new born child, of a dog, of a mouse and of a bird are about 1.25 hertz, 2 hertz, 1.5 hertz, 8 hertz and 15 hertz, respectively. Typical respiration rates of an adult human being, of a new born child, of a dog, of a mouse and of a bird are about 0.5 hertz, 0.8 hertz, 0.6 hertz, 2.5 hertz and 5 hertz, respectively. If the device is used for monitoring the respiration rate of an adult human being, a predetermined characteristic could be a reference signal frequency of 1.25 hertz.</p>
+<p id="p-0021" num="0020">In the context of the present invention, a monitoring of the response at a high sensitivity refers to the monitoring of a response signal at a high resolution and/or with a good signal to noise ratio and/or with good signal strength.</p>
+<p id="p-0022" num="0021">Preferably a first emitter-receiver-selection comprises at least one of the emitter and the further emitter(s), if any, respectively, and at least one of the receiver and the further receiver(s), if any, respectively, wherein at least one further emitter-receiver-selection comprises at least one of another of at least one of the emitter and the further emitter(s), if any, respectively, and at least one of another of at least one of the receiver and the further receiver(s), if any, respectively, wherein the at least one first response is derivable from the first emitter-receiver-selection, and wherein the at least one second response and/or the at least one third response is derivable from the at least one further emitter-receiver-selection.</p>
+<p id="p-0023" num="0022">Hence, any selection from at least one emitter, at least one further emitter, at least one receiver, and/or at least one further receiver, if any, so as to form one or more emitter-receiver-selections is conceivable. Said one or more emitter-receiver-selections are preferably based on a good correspondence between the at least one first, second and/or third response and the predetermined characteristic.</p>
+<p id="p-0024" num="0023">For example, if a particular at least one emitter and a particular at least one receiver result in a first response being largely congruent with a predetermined characteristic, said particular at least one emitter and said particular at least one receiver are preferably selected as a first emitter-receiver-selection. A further monitoring of the response is then preferably performed by said first emitter-receiver-selection.</p>
+<p id="p-0025" num="0024">The device preferably further comprises a signal modulator which is configured to alter the at least one input signal in order to adjust the penetration of the at least one input signal into the subject body and/or the reflection of the at least one input signal from the subject body, whereby the at least one first response and/or the at least one second response and/or the at least one third response, respectively, is altered so as to enable the monitoring of the response of the subject body with spatial resolution.</p>
+<p id="p-0026" num="0025">In the context of the present invention, &#x201c;altering the at least one input signal and/or the at least one further input signal&#x201d; is to be understood as changing an amplitude, phase, frequency, energy and/or intensity of the at least one input signal and/or of the at least one further input signal. By altering the amplitude, phase, frequency, energy, intensity, pulse width, etcetera, i.e. the physical characteristics, of the at least one input signal and/or the at least one further input signal, respectively, its penetration depth into the subject body and/or the amount of its reflection from the subject body can be changed and adjusted so as optimize the at least one first, second and/or third response, whereby the response can be further monitored with spatial resolution.</p>
+<p id="p-0027" num="0026">In other words, whereas the above-described selection of the at least one first, second and/or third response can be understood as a signal optimization, i.e. an optimization of the response, within an x-y-plane of the device, the alteration of the at least one input signal and/or the at least one further input signal can be understood as a signal optimization, i.e. an optimization of the response, in the corresponding z-direction of the x-y-plane, which z-direction is perpendicular to the x-y-plane. The x-y-plane is spanned by an x-direction and a y-direction and is defined here as a plane comprising the emitter(s) and receiver(s), respectively.</p>
+<p id="p-0028" num="0027">The at least one input signal and the at least one output signal preferably each are electrical signals, preferably an electromagnetic field.</p>
+<p id="p-0029" num="0028">That is, it is preferred that any one of the input signals and further input signals, and hence also any one of the output signals and further output signals from the subject body in response to said input signals and further input signals, respectively, are electromagnetic fields.</p>
+<p id="p-0030" num="0029">According to a second aspect, the invention provides a device for monitoring a response of a subject body which device comprises at least one emitter and at least one receiver, wherein the at least one emitter is configured to emit at least one input signal and the at least one receiver is configured to receive at least one output signal from the subject body in response to said at least one input signal, a signal generator being in connection with the at least one emitter and being configured to generate the at least one input signal, the at least one input signal being effective for penetrating the subject body and/or for being reflected from the subject body, and a signal analyser being in connection with the at least one receiver and being configured to analyse the at least one output signal received from the at least one receiver by comparing the at least one output signal with the at least one input signal. The device is configured to evaluate at least one first response of the subject body from the comparison between the at least one output signal and the at least one input signal. The at least one input signal is an electromagnetic field and the device further comprises a signal modulator which is configured to alter the at least one input signal, in particular the electromagnetic field strength of the at least one input signal and/or the amplitude of the at least one input signal, in order to adjust the penetration of the at least one input signal into the subject body and/or the reflection of the at least one input signal from the subject body, wherein the at least one input signal is altered so as to enable the monitoring of the response of the subject body with spatial resolution.</p>
+<p id="p-0031" num="0030">That is to say, the device is configured to alter the at least one input signal and hence also the at least one output signal from the subject body in response to said altered at least one input signal, whereby the at least one first response is altered, too. As mentioned above, any input signal and any further input signal, and hence also any output signal and further output signal from the subject body in response to said input signals and further input signals, respectively, preferably each are an electromagnetic field. Thus, an alteration of any one of the input signals and further inputs signals, such as an amplitude modulation and/or a frequency modulation and/or a phase modulation and/or and energy modulation and/or an intensity modulation and/or an electromagnetic field gradient modulation, results in an output signal and further output signal, respectively, whose amplitude and/or frequency and/or phase and/or electromagnetic field gradient is altered accordingly. Depending on the physical characteristics of the input signals, a certain interaction such as a certain penetration into and/or reflection from the subject body is produced. By emitting a particularly altered input signal and altered further input signal, respectively, at a first point in time thus results in a particularly altered first response at said first point in time. By emitting a particularly altered input signal and altered further input signal, respectively, at a further point in time results in a particularly altered first response at said further point in time. As a result, a further monitoring of the particularly altered first response at different points in time enables the monitoring of a varying response over time, i.e. a response whose spatial resolution is modified over time.</p>
+<p id="p-0032" num="0031">Moreover, the alteration of the input signal, in particular a frequency modulation, enables to determine the distance between the subject body and the device. For instance, by choosing the frequency of an input signal such, that it is fully reflected from the subject body, and by calculating the time that is needed by said input signal in order to propagate from a particular emitter to a particular receiver, i.e., the time that is used by said input signal in order to reach the subject body and the time that is used by the corresponding output signal in order to reach the receiver, the distance between the subject body and the device can be determined since the input signals and the corresponding output signals propagate with constant speed of light.</p>
+<p id="p-0033" num="0032">The device preferably comprises at least one further emitter, wherein the at least one further emitter is configured to emit the at least one input signal and/or at least one further input signal in order to evaluate at least one second response of the subject body by the comparison between the at least one output signal received by the at least one receiver and the at least one input signal and/or the at least one further input signal emitted by the at least one further emitter, and wherein either the at least one emitter and the at least one receiver responsible for the at least one first response of the subject body or the at least one further emitter and the at least one receiver responsible for the at least one second response of the subject body are selected for a further monitoring of the response of the subject body on the basis of a predetermined characteristic, and/or wherein the device comprises at least one further receiver, wherein the at least one further receiver is configured to further receive the at least one output signal in order to evaluate at least one third response of the subject body by the comparison between the at least one output signal received by the at least one further receiver and the at least one input signal emitted by the at least one emitter, and wherein either the at least one emitter and the at least one receiver responsible for the at least one first response of the subject body or the at least one emitter and the at least one further emitter responsible for the at least one third response the subject body are selected for a further monitoring of the response of the subject body on the basis of a predetermined characteristic.</p>
+<p id="p-0034" num="0033">Thus, as already outlined with respect to the device according to the first aspect of the invention, the device according to the second aspect of the invention is likewise preferably configured to compare the at least one first, second and/or third response with the predetermined characteristic, where the particular at least one emitter, at least one further emitter, at least one receiver, and/or at least one further receiver can be evaluated which is/are providing a desired at least one output signal and which is/are thus suitable for the further monitoring of the response of the subject body. Hence, in addition to the above-described alteration of the at least one input signal and/or the at least one further input signal, which can be understood as an optimization of the signal, i.e. of the response, in z-direction, the selection of the at least one first, second and/or third response can be understood as an optimization of the signal, i.e. the response, within the x-y-plane of the device.</p>
+<p id="p-0035" num="0034">It should be noted that the explanations provided herein with reference to the device according to the first aspect of the invention likewise apply to the device according to the second aspect of the invention and vice versa.</p>
+<p id="p-0036" num="0035">The at least one emitter and the at least one further emitter, if any, respectively, and/or the at least one receiver and the at least one further receiver, if any, respectively, are preferably capacitors which cooperate with each other in a predetermined manner.</p>
+<p id="p-0037" num="0036">It is particularly preferred that the emitters and receivers are provided in the form of an integrated circuit (IC) as it is known in the art, i.e. a set of electronic circuits that is provided on or integrated into a plate (&#x201c;chip&#x201d;) of a preferably non-conductive, dielectric substrate. That is, the emitters and receivers are preferably provided in the form of a printed circuit board (PCB) and are soldered onto or embedded into the preferably non-conductive, dielectric substrate. The PCB can be provided as a single sided, double sided, or multi-layered PCB. The conductors, i.e. the emitters and receivers, are preferably connected with each other by means of conductive tracks or pads that are laminated onto or integrated into the preferably non-conductive substrate.</p>
+<p id="p-0038" num="0037">However, it is also conceivable that the emitters and receivers are electrical components such as electrodes in the form of thin films, foils or sintered metals, which are electrically interconnected with each other and which are integrated into or provided on a dielectric medium. The non-conducting dielectric medium may be selected from the group comprising glass, ceramic, plastic film, or silicone, for example. By using silicone as the non-conducting medium, a high flexibility of the device with regard to deformations such as bending or twisting can be provided.</p>
+<p id="p-0039" num="0038">It is also conceivable that the electronic elements, i.e. the emitters and receivers, are overmolded with a resin such as acryl-resin in order to protect the electronics and to increase their durability.</p>
+<p id="p-0040" num="0039">It is preferred that the device comprises exactly one or more further emitters, and/or exactly one or more further receivers.</p>
+<p id="p-0041" num="0040">For example, the device can be provided with one receiver and a variety of emitters, where the one receiver receives all of the output signals generated from the subject body in response to the variety of input signals emitted from the variety of emitters. Depending on the actual size and shape of the receiver and of the emitters, it is possible to either acquire a large surface-area response or to monitor the response very locally.</p>
+<p id="p-0042" num="0041">In other words, having multiple emitters and at least one receiver, preferably a single one receiver allows scanning in the x-y-direction of the device for obtaining an optimal response. Such a scanning supersedes the necessity of an exact positioning or alignment of a subject body to be measured to a certain predetermined position. Furthermore, the combination of multiple emitters and at least one, preferably a single one receiver in addition to an alteration of the input signal, such as a frequency modulation of the input signal, allows for an automated volumetric scanning and three-dimensional response signal detection.</p>
+<p id="p-0043" num="0042">On the other hand, the device can be provided with at least one, preferably a single one emitter and a variety of receivers, where the variety of receivers receives the output signal generated in response to the preferably single one input signal emitted from the preferably single one emitter.</p>
+<p id="p-0044" num="0043">However, it is preferred to provide the device with any desired number of receivers and/or of emitters that are furthermore arbitrarily outlined or organized on the device, where their effective area can be continually expanded or condensed and adapted to the size or properties of the subject body.</p>
+<p id="p-0045" num="0044">The total number of the at least one emitter and the at least one further emitter, if any, respectively, preferably equals the total number of the at least one receiver and the at least one further receiver, if any, respectively. Or, it is also preferred that the total number of the at least one emitter and the at least one further emitter, if any, respectively, is not equal to the total number of the at least one receiver and the at least one further receiver, if any, respectively.</p>
+<p id="p-0046" num="0045">That is, it is possible to provide any desired number of receiver(s) and/or of emitter(s), where the total number of receiver(s) may or may not equal the total number of emitter(s).</p>
+<p id="p-0047" num="0046">The signal generator is preferably configured to transmit the at least one input signal to one or more of the further emitters, if any, respectively, and/or the signal generator is preferably configured to transmit the at least one further input signal to one or more of the emitter and further emitters, if any, respectively, so as to receive the at least one further output signal.</p>
+<p id="p-0048" num="0047">That is, it is possible to transmit the same input signal and/or a variety of same or different input signals to one or more of the emitters simultaneously or consecutively. As will be explained further below, the emitting of multiple input signals simultaneously can be particularly useful when, for example, one wants to determine a blood passage in a subject body. This can be done by comparing the output signals corresponding to two or more input signals that are simultaneously emitted from two or more different emitters.</p>
+<p id="p-0049" num="0048">Preferably two or more of the at least one emitter and the at least one further emitters are connected with each other so as to form one or more emitter units, the one or more emitter units being configured to receive the same input signal from the signal generator, and/or preferably two or more of the at least one receiver and the at least one further receiver are connected with each other so as to form one or more receiver units, the one or more receiver units being configured to receive the particular output signal that is in response to an input signal.</p>
+<p id="p-0050" num="0049">That is, it is possible to simultaneously or consecutively transmit an input signal or several input signals to the particular emitters forming the one or more emitter units. Likewise, it is possible that the particular receivers forming the one or more receiver units simultaneously or consecutively receive a respective output signal in response to a particular input signal.</p>
+<p id="p-0051" num="0050">Such a design results in a simplified control and operation of the device, since the individual emitters of an emitter unit can be commonly addressed by a common input signal and the output signals received by the individual receivers of a receiver unit can be commonly gathered.</p>
+<p id="p-0052" num="0051">On the other hand, it is also conceivable to provide a device whose emitter(s) and/or receiver(s) are each addressed individually, i.e. that every emitter is in connection with the signal generator and is receiving an individual input signal from the signal generator, and/or that every output signal in response to an individual input signal is received by an individual receiver and is used for the evaluation of an individual first, second, third, fourth, etcetera, response. Such a design provides a very high degree of freedom with respect to the area of sensitivity on the device, since the area of sensitivity in this case is not restricted to a certain arrangement and operation of emitters and receivers, but can be continuously expanded or condensed in accordance with the instant position of the subject body on the device by individually addressing those emitters and receivers that lead to a response with a high sensitivity. For example, by addressing different emitters individually with different input signals, i.e. input signals that differ in their frequency or amplitude or pulse width, etcetera, at the same point in time, it is possible to acquire different responses such as heart rate and a respiration rate simultaneously. It is also conceivable to address such emitters with input signals that differ in more than one physical property, i.e. to simultaneously emit input signal(s) that differ in their frequency and pulse width, etcetera, whereby the corresponding mixed output signal(s) may then be analysed by means of particular filters and may be decomposed into their individual contributions for a further signal processing.</p>
+<p id="p-0053" num="0052">It is also preferred to provide a device comprising both, individual emitter(s) and/or receiver(s) and emitter units and/or receiver units, respectively, so as to benefit from a simplified control and operation as well as from a certain adaptability with respect to the sensitivity of the device.</p>
+<p id="p-0054" num="0053">Two or more of the at least one emitter and the at least one further emitter are preferably arranged adjacent to each other, preferably within the one or more emitter units, and/or two or more of the at least one receiver and the at least one further receiver are preferably arranged adjacent to each other, preferably within the one or more receiver units.</p>
+<p id="p-0055" num="0054">Such emitter(s) and/or receiver(s), which are arranged adjacent to each other, can be separated by a small distance from each other or can be in immediate proximity, in particular without any interspace, to each other. For example, only some emitters and/or some receivers and/or some emitter units and/or some receiver units can be arranged at a small distance from each other so as to form one or more clusters, and/or they can be arranged in immediate proximity to each other so as to form one or more single entities. In other words, in the former case the device can be provided with an increased density of emitter(s) and/or receiver(s) and/or emitter units and/or receiver units on certain areas of the device, and in the latter case the device can be provided with emitter(s) and/or receiver/s) and/or emitter units and/or receiver units covering a whole area of the device. For instance, it is conceivable to arrange the emitter(s) and/or receiver/s) and/or emitter units and/or receiver units in the form of a tessellation, i.e. to tile a plane of the device, preferably the x-y-plane, by arranging the emitter(s) and/or receiver/s) and/or emitter units and/or receiver units in the form of one or more geometrical shapes with no overlaps and no gaps. That is, on the one side individual electronic elements can be electrically connected with each other by means of their merging arrangement on the device, e.g. they can be provided as merging honeycomb structure. On the other side, individual electronic elements, e.g. in the form of individual honeycombs, can be structurally separated from each other and can be electrically connected with each other by means of conductive tracks or pads. In the former case of merging electronic elements, only one conductive track or pad is required in order to transmit an input signal to said elements and only one conductive track or pad is required to receive an output signal from said elements. In the latter case, individual tracks or pads are required to address these elements, which individual tracks or pads however can be interconnected with each other so as to be jointly addressable.</p>
+<p id="p-0056" num="0055">It is preferred that the at least one emitter and the at least one further emitter, if any, respectively, and the at least one receiver and the at least one further receiver, if any, respectively, are arranged in a single plane or in a plurality of preferably parallel planes in the device, said single plane and plurality of planes, respectively, preferably defines or define a monitoring surface of the device.</p>
+<p id="p-0057" num="0056">That is, all of the electronic elements can be arranged within a single first plane or within at least one second plane, which may be arranged parallel to said first plane or inclined or angled with respect to said first plane, respectively. For instance, it is conceivable to arrange all of the electronic elements in a single plane or a plurality of parallel planes lying within the x-y-plane as defined above. In such a case, this plane or these planes, respectively, may delimit a monitoring surface, within which the area of sensitivity is determined. The monitoring surface can thus be regarded as a surface of the device that spans an area of the size of preferably about one times the size of the subject body to about five times or more of the size of the subject body, particularly preferably about two times the size of the subject body.</p>
+<p id="p-0058" num="0057">Furthermore, it is possible to arrange at least some emitters and/or some receivers and/or some emitter units and/or some receiver units opposite each other and/or inclined and/or staggered and/or shifted with respect to each other within the device, in particular within the dielectric substrate. It is also possible to arrange at least some emitters and/or some receivers and/or some emitter units and/or some receiver units within the same plane on the dielectric substrate and/or within the dielectric substrate.</p>
+<p id="p-0059" num="0058">A device whose electronic elements are all arranged within the same plane has the advantage of an increased detection volume and a simplified application as compared to a device whose electronic elements are arranged parallel with respect to each other, e.g. a device comprising oppositely positioned capacitors that sandwich the dielectric substrate.</p>
+<p id="p-0060" num="0059">The at least one emitter and the at least one further emitter, if any, respectively, preferably have identical geometrical dimensions and/or an identical shape, and/or the at least one receiver and the at least one further receivers, if any, respectively, preferably have identical geometrical dimensions and/or an identical shape.</p>
+<p id="p-0061" num="0060">It is also preferred that the at least one emitter and the at least one further emitter, if any, respectively, have different geometrical dimensions and/or a different shape, and/or wherein the at least one receiver and the at least one further receiver, if any, respectively, have different geometrical dimensions and/or a different shape.</p>
+<p id="p-0062" num="0061">Hence, the electronic elements can be of any desired geometrical form and dimension. Depending on the form and dimension of these electronic elements as well as on their distribution and density of arrangement on the device allows for a modification of the spatial resolution achieved with the device.</p>
+<p id="p-0063" num="0062">The signal generator is preferably configured to generate one or more electrical pulses with a pulse frequency in the range between 500 hertz and 30 megahertz, preferably between 1 kilohertz and 20 megahertz, the pulse or pulses preferably having a square or wave form, and/or the signal generator is preferably configured to generate one or more electrical pulses with a pulse width in the range between 1% to 99% of a pulse period associated with said one or more electrical pulses, and/or the signal generator is preferably configured to generate one or more electrical pulses having a pulse power in the range of 1 milliwatt to 10 watt, preferably in the range of 10 milliwatt to 1 watt, and/or wherein the input signal is preferably configured to create a capacity in the range between 1 picofarad and 1 millifarad, in particular in the range between 10 to 900 picofarad.</p>
+<p id="p-0064" num="0063">For example, for an input signal of 30 megahertz and a pulse width of 1% per pulse period, an absolute pulse width of about 10 nanoseconds is obtained. For an input signal of 500 hertz and a pulse width of 99% per pulse period, an absolute pulse width of about 2 milliseconds is obtained.</p>
+<p id="p-0065" num="0064">Instead of or in addition to generating pulses having a square and/or wave form, it is also preferred that the signal generator is configured to generate any desired pulse form or pulse shape or pulse sequence, such as a pulse ramping, where electrical pulses are generated with successively increasing or decreasing pulse powers and/or pulse frequencies. The pulse characteristics, in particular the pulse form(s), are preferably chosen so as to enable a signal processing with a high quality, e.g. it is preferred to choose a certain pulse form which results in a minimal or no signal distortion.</p>
+<p id="p-0066" num="0065">It is also conceivable to apply a monitoring scheme comprising alternating first and second pulses, wherein the first, preferably short, pulse addresses all of the electronic elements, and wherein the second pulse only addresses those electronic elements for which a response of the subject body has been received as a result of the first pulse. In doing so it is conveniently possible to monitor two or more preferably moving subject bodies simultaneously. In this context the first pulses could be referred to as positioning pulses which are used for the determination of the position of the one or more subject bodies on the device and the second pulses could be referred to as vitality pulses that are used for the monitoring of the vital function(s) of the one or more subject bodies, respectively. By applying a sequence of such pulses it is possible to perform a transient or real-time monitoring of the vital functions of one or more preferably moving subject bodies simultaneously. That is to say, it is possible to &#x201c;follow&#x201d; the moving subject bodies on the device. Furthermore, the application of e.g. short pulsed input signals offers the advantage of a fast data analysis which allows the extraction of information on the subject bodies from relatively short time fragments. It should be noted that the same results can also be achieved by applying pulses to particular electronic elements only. For example, the device could be divided into several quadrants comprising the electronic elements, where the moving subject bodies are located in certain quadrants only so that a monitoring can be exerted likewise only in said particular quadrants. This offers the advantage that a much higher resolution is achieved within the individual quadrants as compared to a monitoring based on pulses that are applied to all electronic elements of the device. In addition, it is not necessary to apply first pulses or second pulses of the same characteristics. Instead, it is conceivable to use first pulses and/or second pulses that differ in their characteristics such as e.g. their frequency or pulse length.</p>
+<p id="p-0067" num="0066">Moreover, it is possible to model the output signals by means of the input signals. In particular, depending on the characteristics of the input signal such as the pulse form, e.g. a square, a wave, or a ramp pulse, it is possible to generate harmonics of different order, where the frequencies of the harmonics arise as multiples of the frequency of the fundamental wave. For example, a sinusoidal fundamental wave generates third order harmonics that are spectrally well separated from the other harmonics and which therefore enable the monitoring with less noise and at a higher resolution as compared to the other harmonics. This might be due to the fact that the noise corresponds to thermal or background noise caused by electronic components being present in the device, such as e.g. circuits or semiconductors. Said thermal or background noise generated by the electronic components mainly comprises lower frequencies as compared to the higher order harmonic frequencies of the input signal. Whereas in the lower frequency region the overall input signal interacting with the subject body comprises frequency components of the emitter(s) and of the thermal or background noise, the higher frequency region mainly consists of the higher order frequencies of the emitter(s). Thus, depending on the waveform or pulse form, respectively, particular harmonics with high resolution can be generated which are especially useful for the resolution of several output signals that are spectrally close to each other.</p>
+<p id="p-0068" num="0067">The device is preferably adapted to monitor the response of a living subject body, preferably a mammal, wherein the living subject body comprises a dielectric medium with electrical charges, the electrical charges being redistributed due to the at least one input signal, where the charge redistribution of said electrical charges changes due to a vital function of the living subject body, wherein the at least one output signal corresponds to the at least one input signal that is altered by the charge redistribution of the dielectric medium, and wherein the response of the living subject body corresponds to the vital function.</p>
+<p id="p-0069" num="0068">Against this background it might be useful to apply different frequencies and/or DC voltages of different strengths on the same electronic element(s). For example, firstly a DC voltage can be applied to a particular electronic element and then secondly a pulse is applied so said particular electronic element, or vice versa. Thereby, the signal-to-noise ratio is optimized. A possible explanation for this observation is that the first signal &#x201c;pre-polarizes&#x201d; or &#x201c;pre-excites&#x201d; the subject body, for example it generates and aligns the dipole moments of the dielectric medium. If now the subject body moves, these aligned dipole moments are deflected more than they would deflect in the case of no &#x201c;pre-polarization&#x201d; or &#x201c;pre-excitation&#x201d;, wherein a stronger deflection can cause a stronger response from the subject body. Instead of applying these signals successively it is also conceivable to apply them simultaneously. For this purpose electronic elements are preferably chosen that are located in proximity to each other, e.g. a first electronic element that is surrounded by or adjacent to a second electronic element. Then, for instance, a DC voltage can be applied to the first electronic element that will polarize or align the medium of the subject body while a pulse is applied to the second electronic element that will further polarize or align the medium of the subject body for the actual monitoring of its vital function. In any case it is preferred that the strength of the second signal is greater than the strength of the first signal.</p>
+<p id="p-0070" num="0069">It is to be noted that the application of the device is not restricted to living subject bodies such as mammals. Instead it can also be used for the monitoring of a response of any other living organism such as a fish or a bird, etcetera.</p>
+<p id="p-0071" num="0070">In the context of the present invention a vital function can be a heart rate, a respiration rate, various brain waves, body part position or displacement, etcetera, of the living subject body.</p>
+<p id="p-0072" num="0071">That is, if an input signal in the form of an electromagnetic field is applied to the living subject body, the dielectric medium is polarized and the electrical charges comprised in the dielectric medium are displaced according to the applied electromagnetic field. If the subject body is moved or moves, the charge redistribution changes, which in turn changes the electromagnetic field. In the case of a periodical vital function such as a heartbeat or respiration, the charge redistribution changes periodically and the electromagnetic field is changed periodically, too.</p>
+<p id="p-0073" num="0072">For example, if an input signal in the form of an electromagnetic field at a given frequency and electromagnetic field strength is applied to a mouse that is placed on the device at a first point in time, a corresponding output signal is generated in response to said input signal, wherein said output signal corresponds to the input signal whose frequency and electromagnetic field strength is altered by the particular charge redistribution occurring in the dielectric medium of the mouse at said first point in time. By comparing the input signal, e.g. its frequency and electromagnetic field strength, with the output signal, e.g. its frequency and electromagnetic field strength, a first response as a function of said first point in time is evaluated. By applying the input signal at a second point in time, a corresponding output signal is generated whose frequency and electromagnetic field strength is altered by the particular charge redistribution occurring at said second point in time. Since the mouse is breathing and/or due to its heartbeat, the applied electromagnetic field results in a different charge redistribution in the dielectric medium of the mouse at the second point in time as compared to the charge redistribution generated at the first point in time. Thus, a different first response is evaluated at the second point in time as compared to the first response evaluated at the first point in time. By applying the input signal over different points in time, different first responses associated with a particular charge redistribution occurring at a particular point in time are obtained, where the overall first responses evaluated at the different points in time correspond to the monitoring of the response and reflect the respiration rate and/or the heart rate, i.e. a vital function, of the mouse.</p>
+<p id="p-0074" num="0073">The above described example of monitoring the response on the basis of the first response applies in analogy for a second, third, etcetera response associated with any one or more input signal and/or further input signals, respectively.</p>
+<p id="p-0075" num="0074">Depending on the physical characteristics of the input signals, such as its frequency, the input signals are fully or partially reflected from the subject body and/or penetrate fully or partially into the subject body. Since the frequency associated with the penetration and/or reflection behaviour depends on the density and the matter in the sense of the nature of the subject body, i.e. whether the subject body is a fur-bearing animal or a human being etcetera, the input signal is specifically altered so as to achieve a desired penetration into and/or reflection from the subject body in order to monitor the vital function at a high sensitivity. The device preferably further comprises a signal demodulator configured to demodulate the at least one output signal received by the at least one receiver and at least one further receiver, if any, respectively, and/or the device preferably further comprises an input selection device configured to select at least one of the input signals emitted by the at least one emitter and the at least one further emitter, if any, and/or the device preferably further comprises an output selection device, preferably a multiplexer, configured to select at least one of the output signals received by the at least one receiver and the at least one further receiver, if any, and/or the device preferably further comprises an analogue-to-digital-converter configured to convert the at least one output signal into a digital signal and preferably also comprises a signal processor configured to process the digital signal, preferably Fourier transforming the digital signal, and/or the device preferably further comprises a communication module configured to communicate the response to a further device such as a wireless LAN, a mobile phone, a smartphone, a computer, a monitor or the like. Hence, the device is preferably configured to subject the output signal(s) to a standard signal processing as it is known to the person skilled in the art.</p>
+<p id="p-0076" num="0075">The input signal(s) and/or output signal(s) emitted and received by the device may be quite noisy. However, these signal(s) can be processed using standard signal processing methods. The raw data of the signal(s) may be first smoothed, using convolution techniques. Thereby, smoother signal(s) may be obtained by removing high frequency contributions that do not contain any valuable information. What preferably should be taken care of by doing so is the size of any convolution filter used. The width of the filter is preferably chosen such that it does not remove information that is later needed. The pre-processed signal(s) is then preferably transformed into the frequency domain, for example by using a Fast Fourier Transform. In the frequency domain, two frequency ranges are generally important and which allow extracting the data. The first range is the range which contains the possible frequencies of respiration in the range of 0.25 Hz to 1.75 Hz. The second range is the corresponding range that contains the possible frequencies of the heartbeat. These span a range from 5 Hz to 20 Hz. The maximum amplitude within the respective ranges is the frequency that is closest to the frequency of the heart beat frequency and the respiration frequency, respectively.</p>
+<p id="p-0077" num="0076">As stated earlier, the input signal, i.e. the at least one input signal and any further input signals, if any, is altered by the signal modulator so as to adjust its penetration depth into the subject body and/or the amount of its reflection from the subject body. The signal analyser is in particular configured to compare an input signal that is altered by the signal modulator with the output signal, i.e. the input signal being altered by the charge redistribution in the dielectric medium of the subject body, and to correct the received output signal by the original input signal. The thereby corrected signal comprises two components, namely the physical characteristics, e.g. the frequency, of the original (unaltered) input signal with altered properties, e.g. a modulated power, and the input signal altered by the dielectric medium of the subject body, i.e. the output signal. To evaluate the response of the subject body, the output signal from the signal analyser is then demodulated with the physical characteristics of the original (unaltered) input signal, e.g. its frequency, in the demodulator. The demodulator is preferably configured to demodulate the amplitude of the output signal, in particular to perform a high and/or low frequency demodulation of the output signal. Thereafter, the analogue output signal of the signal demodulator is preferably converted into a digital signal for a further processing of the signal in the analogue-to-digital converter. The thus generated digital signal is then preferably processed in the signal processor. By means of a Fourier transformation, the digital signal may be transformed into its frequency contributions. Filters, such as frequency filters, or filters sensitive to a face shift, skew, jitter, amplitude, spread spectrum etcetera, may then be used to extract the information of interest, in particular the vital function. In addition, it is also conceivable to investigate the time component(s) associated with the input/output signal(s), e.g. to determine the passage time by comparing the input/output signal(s) from one particular emitter(s)/receiver(s) with the input/output signal(s) from another particular emitter(s)/receiver(s) in order to determine a blood flow, a blood pressure, etcetera in a subject body. An output selection device such as a multiplexer is preferably used for determining a particular at least one emitter and/or a particular at least one receiver and/or a particular at least one further emitter and/or a particular at least one further receiver and/or a particular at least one emitter-receiver-selection, etcetera, that result(s) in at least one first response and/or at least one second response and/or at least one third response, etcetera, that is largely congruent with a predetermined characteristic and which is thus preferably selected for a further monitoring of the response.</p>
+<p id="p-0078" num="0077">However, in addition to or instead of processing the received signal(s) as outlined above, it is also conceivable to analyse the output signal(s) directly after the signal(s) has passed the output selection device, i.e. without any further processing of the signal(s) for example by means of a demodulator. Such a &#x201c;direct&#x201d; signal analysis is particularly appropriate if the received output signal(s) already have a good signal-to-noise ratio. Suitable signal analysis methods in this case may involve a so-called peak-to-peak analysis, by means of which the physical characteristics such as the frequency of the response(s) can readily be evaluated.</p>
+<p id="p-0079" num="0078">According to a third aspect, the invention provides a method of monitoring a response of a subject body by means of a device as described above. The method comprises the steps of placing the subject body in a region of the device, generating the at least one input signal, emitting the at least one input signal by means of the at least one emitter, receiving the at least one output signal by means of the at least one receiver, determining the at least one first response by means of the signal analyser. The method further comprises the step selected from the group of steps consisting of emitting the input signal and/or at least one further input signal by means of the at least one further emitter, evaluating the at least one second response of the subject body by comparing the at least one output signal received by the at least one receiver and the input signal and/or the at least one further input signal emitted by the at least one further emitter, and selecting either the at least one emitter and the at least one receiver responsible for the at least one first response of the subject body or the at least one further emitter and the at least one receiver responsible for the at least one second response of the subject body for a further monitoring of the response of the subject body on the basis of the predetermined characteristic, and receiving the at least one output signal by means of the at least one further receiver, evaluating the at least one third response of the subject body by comparing the output signal received by the at least one further receiver and the input signal emitted by the at least one emitter, and selecting either the at least one emitter and the at least one receiver responsible for the at least one first response of the subject body or the at least one emitter and the at least one further receiver responsible for the at least one third response of the subject body for a further monitoring of the response of the subject body on the basis of the predetermined characteristic.</p>
+<p id="p-0080" num="0079">As outlined earlier, upon placing the subject body on the device, the at least one first response and the at least one second response and/or the at least one third response are determined. Then, the at least one emitter and the at least one receiver responsible for the at least one first response or the at least one further emitter and the at least one receiver responsible for the at least one second response and/or the at least one emitter and the at least one further receiver responsible for the at least one third response are selected for a further monitoring of the response of the subject body based on the comparison of the at least one first, second and/or third response with the predetermined characteristics. Placing the subject body in a region of the device can be understood as placing the subject body within the input signal(s) reach and/or within the range of the receiver(s) receiving the output signal(s). It is preferred that said region comprises the area of sensitivity as defined above and/or that said region delimits the monitoring surface within which the area of sensitivity is determined. It is also conceivable that the subject body is thereby put in physical contact with the device by for example placing the subject body directly onto the device. However, it is also conceivable that the subject body is in no direct physical contact with the device or the area of sensitivity or the monitoring surface, respectively, but rather placed at a distance from these, whereby said region then corresponds to the area between the device and the subject body within which the monitoring of the response is practicable.</p>
+<p id="p-0081" num="0080">According to a fourth aspect, the invention provides a method of monitoring a response of a subject body by means of a device as described above. The method comprises the steps of placing the subject body in a region of the device, generating the at least one input signal, emitting the at least one input signal by means of the at least one emitter, receiving the at least one output signal by means of the at least one receiver, determining the at least one first response by means of the signal analyser, alternating the at least one input signal, in particular the electromagnetic field strength of the at least one input signal and/or the amplitude of the at least one input signal, by means of the signal modulator in order to adjust the penetration of the at least one input signal into the subject body and/or the reflection of the at least one input signal from the subject body. The at least one input signal is altered so as to enable the monitoring of the response of the subject body with spatial resolution on the basis of the predetermined characteristic.</p>
+<p id="p-0082" num="0081">As outlined earlier, depending on the physical characteristics of the input signals, a certain interaction such as a certain penetration into and/or reflection from the subject body is produced. By emitting particularly altered input signals and/or altered further input signals, respectively, over different points in time allows the monitoring of a first response with an optimized penetration into and/or reflection from the subject body so as to yield a response with high sensitivity and spatial resolution.</p>
+<p id="p-0083" num="0082">As already stated, it is preferred that the subject body is a living subject body, preferably a mammal, which comprises a dielectric medium with electric charges, the electrical charges being redistributed due to the at least one input signal, wherein the charge redistribution of said electrical charges changes due to a vital function of the living subject body, wherein the at least one output signal corresponds to the at least one input signal that is altered by the charge redistribution of the dielectric medium, and wherein the response of the living subject body corresponds to the vital function.</p>
+<p id="p-0084" num="0083">The method preferably further comprises the step of choosing at least one particular emitter and/or at least one particular further emitter, if any, which enables the monitoring of the response of the subject body with a maximal signal strength and/or with a maximal spatial resolution and/or with a minimal input signal energy consumption on the basis of the predetermined characteristic, and/or preferably further comprises the step of choosing at least one particular receiver and/or at least one particular further receiver, if any, which enables the monitoring of the response of the subject body with a maximal signal strength and/or with a maximal spatial resolution and/or with a minimal input signal energy consumption on the basis of the predetermined characteristic.</p>
+<p id="p-0085" num="0084">That is, the response can be monitored without the need of positioning the subject body on a certain area of sensitivity on the device. Instead, an area of preferred sensitivity can be determined and can be continuously optimized and adjusted to the instant position of the subject body on the device. As a result, the response from the subject body can be monitored at a high sensitivity and with good spatial resolution. Since less suitable electronic components are not used for a monitoring and/or since mainly input signals with optimized physical properties are used for a monitoring, the device can be operated with low energy consumption. Thereby, a service length of the device can be enhanced and maintenance costs are reduced. Furthermore, due to the use of optimized and targeted input signals the subject body is subjected to less radiation as compared to a use with non-optimized radiation, which is especially important in the case of living subject bodies with respect to health issues.</p>
+<p id="p-0086" num="0085">That is to say, it is particularly preferred to individually address every electronic element or to combine certain electronic elements so that different parts of the device can be simultaneously or successively addressed and/or read out. It is furthermore particularly preferred to address certain individual electronic elements with input signals of a particular frequency, or amplitude, or pulse width, etcetera, so that different parts of the device can be simultaneously used with emitting signals of different physical properties to one another, and/or to address certain individual electronic elements with input signals with in each case simultaneously different physical properties, such as different frequency and different amplitude, so that different parts of the device can be simultaneously used with emitting signals of different physical properties to one another.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0087" num="0086">Preferred embodiments of the invention are described in the following with reference to the drawings, which are for the purpose of illustrating the present preferred embodiments of the invention and not for the purpose of limiting the same. In the drawings,</p>
+<p id="p-0088" num="0087"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a perspective view of a device according to the invention in a first application while monitoring the response from a first subject body;</p>
+<p id="p-0089" num="0088"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a perspective view of the device in a second application while monitoring the response from a second subject body;</p>
+<p id="p-0090" num="0089"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows a perspective view of the device in a third application while monitoring the response from a third subject body;</p>
+<p id="p-0091" num="0090"><figref idref="DRAWINGS">FIG. <b>4</b></figref> schematically shows different components and their interactions of the device;</p>
+<p id="p-0092" num="0091"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows a first arrangement and activation of electronic elements of the device;</p>
+<p id="p-0093" num="0092"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows a second arrangement and activation of electronic elements of the device;</p>
+<p id="p-0094" num="0093"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows a third arrangement and activation of electronic elements of the device;</p>
+<p id="p-0095" num="0094"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows a fifth arrangement and activation of electronic elements of the device;</p>
+<p id="p-0096" num="0095"><figref idref="DRAWINGS">FIG. <b>9</b></figref> shows a sixth arrangement and activation of electronic elements of the device;</p>
+<p id="p-0097" num="0096"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows a seventh arrangement and activation of electronic elements of the device;</p>
+<p id="p-0098" num="0097"><figref idref="DRAWINGS">FIG. <b>11</b></figref> shows an eighth arrangement and activation of electronic elements of the device;</p>
+<p id="p-0099" num="0098"><figref idref="DRAWINGS">FIG. <b>12</b></figref> shows a first selection of potential geometrical dimensions and shapes of the electronic elements;</p>
+<p id="p-0100" num="0099"><figref idref="DRAWINGS">FIG. <b>13</b></figref> shows a second selection of potential geometrical dimensions and shapes of the electronic elements;</p>
+<p id="p-0101" num="0100"><figref idref="DRAWINGS">FIG. <b>14</b></figref> shows a first arrangement of adjacent electronic elements;</p>
+<p id="p-0102" num="0101"><figref idref="DRAWINGS">FIG. <b>15</b></figref> shows a second arrangement of adjacent electronic elements.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DESCRIPTION OF PREFERRED EMBODIMENTS</heading>
+<p id="p-0103" num="0102"><figref idref="DRAWINGS">FIGS. <b>1</b> to <b>3</b></figref> show different applications of a device <b>1</b> according to the invention. For example, the device <b>1</b> can be integrated into a housing <b>18</b> and can be used to monitor the response of a mouse <b>2</b> comprising a dielectric medium <b>17</b>. It is also possible to arrange the device <b>1</b> within an apparatus <b>19</b> which is suited to monitor the response of a child <b>21</b> comprising a dielectric medium <b>171</b> or to integrate the device <b>1</b> into a car seat <b>20</b> in order to monitor the response of an adult <b>211</b> comprising a dielectric medium <b>1711</b>, respectively.</p>
+<p id="p-0104" num="0103">The device <b>1</b> has the capability of measuring responses such as vital functions contact-independently and it is therefore particularly interesting for applications on fur-bearing animals. State-of the art methods with electrodes are restricted to non-fur-bearing areas on the animal such as its paws or its tail which are thus complicated to use. Light-emitting sensors can hardly be used either since diodes are not able to penetrate into the fur.</p>
+<p id="p-0105" num="0104">The device <b>1</b> is also applicable in humans to assist in potentially harmful situations. Such situations can occur in cars, planes, bikes or any other moving object controlled by human beings. Losing consciousness or fatal incidences may cause dramatic results. The device <b>1</b> can be used to monitor physiological parameters of human beings in order to control vehicles and may be used to warn the human being or initiate safety protocols if the human being loses control over the vehicle, especially if there is a potential risk of harming itself and/or others. The device <b>1</b> has thus the capability of saving lives when configured with safety protocols of the moving object.</p>
+<p id="p-0106" num="0105">The device <b>1</b> is especially suited because physiological parameter detection does not depend on the size, gender, position or any other varying body parameter. The signal optimization further ensures that only the object to be measured is exposed to irradiation and thereby with minimal doses.</p>
+<p id="p-0107" num="0106">Monitoring of stationary subject bodies is of major importance because in many situations these are the subjects most susceptible to harmful events. This is the case for newborns, patients in hospitals or elderly people at home or any other subject body that has a high risk of being subjected to harmful events. The device <b>1</b> is able to detect physiological parameters and report quickly with an alarm or any other means of notification such as sms or telephone to other people in order to initiate safety protocols and for helping the subject body in need. The application is especially suitable because detection of physiological parameters does not depend on the size of the object and of its position on the device <b>1</b> as long as it is within a range of sensitivity.</p>
+<p id="p-0108" num="0107">In <figref idref="DRAWINGS">FIGS. <b>1</b> to <b>3</b></figref>, the device <b>1</b> comprises one emitter <b>3</b> for emitting input signals <b>5</b>, <b>51</b>, <b>511</b>, <b>5111</b>, <b>51111</b> and one receiver <b>4</b> for receiving output signals <b>6</b>, <b>61</b>, <b>611</b>, <b>6111</b>, <b>61111</b> from the subject body <b>2</b>, <b>21</b>, <b>211</b> in response to said input signals. Whereas here only one emitter <b>3</b> and one receiver <b>4</b> are used for emitting and receiving the signals, respectively, the input signals <b>5</b>, <b>51</b>, <b>511</b>, <b>5111</b>, <b>51111</b> are altered and depending on the physical properties of the input signals, different penetration depths and/or amount of reflection of the input signals <b>5</b>, <b>51</b>, <b>511</b>, <b>5111</b>, <b>51111</b> into/from the subject body <b>2</b>, <b>21</b>, <b>211</b> are achieved. That is, the alteration of the input signals shown here corresponds to an optimization of the response in a z-direction. However, as will be explained in greater detail further below, the device <b>1</b> may in fact comprise a multitude of emitters <b>3</b>, <b>31</b>, . . . and a multitude of receivers <b>4</b>, <b>41</b>, . . . so as to enable a scanning in the x-y-direction of the device for obtaining an optimal response at any possible position of the subject body <b>2</b>, <b>21</b>, <b>211</b> on the device <b>1</b>.</p>
+<p id="p-0109" num="0108">As follows from these Figures, the first input signal <b>5</b> has a frequency or amplitude that results in a full reflection of the corresponding output signal <b>6</b> from the subject body <b>2</b>, <b>21</b>, <b>211</b>, whereas for example the fourth input signal <b>5111</b> has a frequency or amplitude that results in a complete penetration into the subject body <b>2</b>, <b>21</b>, <b>211</b>. In particular, the third input signal <b>511</b> in <figref idref="DRAWINGS">FIG. <b>1</b></figref> and the fourth input signal <b>5111</b> in <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref>, respectively, have physical properties that are adapted to penetrate into the region of the heart of the mouse <b>2</b>, of the child <b>21</b> and of the adult <b>211</b>, respectively. Hence, the resulting output signal <b>611</b>, <b>6111</b> corresponds to the input signal <b>511</b>, <b>5111</b> that is maximally altered by the heartbeat of the mouse <b>2</b>, the child <b>21</b> and the adult <b>211</b>, respectively. In this case, the particular third input signal <b>511</b> and fourth input signal <b>5111</b>, respectively, is therefore optimal for a monitoring of the heart rate.</p>
+<p id="p-0110" num="0109">In these Figures, all of the electronic elements, i.e. every emitter and every receiver, are arranged within a single first plane E1 and delimit a monitoring surface <b>24</b>. Here, said monitoring surface <b>24</b> spans an area of the size of about two times the size of the respective subject body <b>2</b>, <b>21</b>, <b>211</b> and thereby defines an area being suitable, i.e. sensitive for a thorough monitoring of the response of the subject body <b>2</b>, <b>21</b>, <b>211</b> that is placed onto the device <b>1</b>. It can be said that said plane E1 is arranged within an x-y-plane of the device <b>1</b> that is spanned by an x-direction and a y-direction, where a corresponding z-direction extends perpendicularly from said x-y-plane. Thus, an E2-plane can be defined as an area arranged within the y-z-plane spanned by the y-direction and the z-direction and an E21-plane can be defined as an area arranged within the x-z-plane spanned by the x-direction and the y-direction, respectively.</p>
+<p id="p-0111" num="0110"><figref idref="DRAWINGS">FIG. <b>4</b></figref> schematically depicts the various components of the device <b>1</b>. As such, a communication module <b>15</b>, a frequency generator <b>7</b>, a signal modulator <b>9</b>, electronic elements <b>3</b>, <b>31</b>, . . . <b>4</b>, <b>41</b>, . . . for the generation of an electromagnetic field, a multiplexer <b>16</b>, a signal demodulator <b>12</b>, an analogue-to-digital converter <b>13</b>, a signal analyser <b>8</b> and a signal processor <b>14</b> are shown. In this example, the frequency generator <b>7</b> generates input signals which are transmitted to the signal modulator <b>9</b>, where the input signals are altered in their phase and/or amplitude and/or frequency and/or electromagnetic field strength, etcetera. Here, three altered input signals <b>5</b>, <b>51</b>, <b>511</b> are then transmitted individually to three different emitters <b>3</b>, <b>31</b>, <b>311</b>. Here, three receivers <b>4</b>, <b>41</b>, <b>411</b> are provided which receive output signals <b>6</b>, <b>61</b>, <b>611</b> in response from a subject body placed in a region of the device <b>1</b>. The output signals <b>6</b>, <b>61</b>, <b>611</b> are transmitted to the multiplexer <b>16</b> which selects and forwards one of the output signals <b>61</b> to the signal demodulator <b>12</b> and to the signal analyser <b>8</b>, respectively. The signal analyser <b>8</b> compares the input signal altered by the signal modulator <b>9</b> with the output signal <b>61</b> and corrects the received output signal <b>61</b> by the original input signal. The output signal <b>61</b> from the signal analyser <b>8</b> is then demodulated with the physical characteristics of the original (unaltered) input signal in the demodulator <b>12</b>. Thereafter, the analogue output signal <b>61</b> of the signal demodulator <b>12</b> is converted into a digital signal for a further processing of the signal in the analogue-to-digital converter <b>13</b>. The thus generated digital signal is then further processed in the signal processor <b>14</b>, where the actual first/second/ . . . response(s) and the actual response associated with the vital function are determined, and is then transmitted to a communication module <b>15</b>, which sends the signal to a wireless LAN, a mobile phone, a smartphone, a computer or a monitor (not shown).</p>
+<p id="p-0112" num="0111"><figref idref="DRAWINGS">FIGS. <b>5</b> to <b>11</b></figref> depict different arrangements and activation schemes of the electronic elements of the device <b>1</b>, whereby many other arrangements and activation schemes are conceivable, too.</p>
+<p id="p-0113" num="0112">In particular, the device <b>1</b> of <figref idref="DRAWINGS">FIG. <b>5</b></figref> comprises three emitters <b>3</b>, <b>31</b>, <b>311</b> and three receivers <b>4</b>, <b>41</b>, <b>411</b> which are all arranged within the same first plane E1 being spanned through the x-direction and the y-direction of the device. In this arrangement, the emitters <b>3</b>, <b>31</b>, <b>311</b> are provided in the form of points that are arranged within hexagonal receivers <b>4</b>, <b>41</b>, <b>411</b> that are merged to a single honeycomb structure. Each of the structurally separated emitters <b>3</b>, <b>31</b>, <b>311</b> is individually addressed with a particular input signal <b>5</b>, <b>51</b>, <b>511</b> by means of individual conductive tracks or pads <b>21</b>, <b>211</b>, <b>2111</b> leading to the particular emitter. In analogy to <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>3</b></figref>, the individual input signals <b>5</b>, <b>51</b>, <b>511</b> are in each case are likewise altered, whereby here these input signals <b>5</b>, <b>51</b>, <b>511</b> are altered in their amplitude so as to achieve different penetration depths and amounts of reflection from a subject body. That is, the alteration of the input signals shown here likewise corresponds to an optimization of the response in the z-direction. The output signals from a subject body in response to said input signals are in this case received from receivers <b>4</b>, <b>41</b>, <b>411</b> that are all interconnected with each other by means of their merging arrangement on the device. Therefore only one conductive track or pad <b>21111</b> is provided in order to transmit the output signal from said elements. The input signals <b>5</b>, <b>51</b>, <b>511</b> are each generated with different physical properties such as frequency and/or amplitude so as to reach different penetration depths into and/or amounts of reflection from a subject body during an optimization of the response in the z-direction. In this Figure, the structures <b>22</b>, <b>221</b>, . . . indicated with dashed and dotted lines correspond to electronic elements that are currently not used for a monitoring. However, these electronic elements could likewise be addressed in order to adapt the sensitive area of the device <b>1</b> to the subject body for an optimization of the response within the x-y-plane, i.e. the plane E1, of the device. Furthermore, it should be noted that the device depicted in this Figure is not restricted to the number of electronic elements actually depicted in there, but can comprise any desired number of such electronic elements. This also applies to any other device depicted in the Figures.</p>
+<p id="p-0114" num="0113">The devices of <figref idref="DRAWINGS">FIGS. <b>6</b> to <b>11</b></figref> depict some electronic elements that are arranged and addressed individually on the device <b>1</b> and some electronic elements that are combined so as to form a merging network of any size and complexity, respectively. The particular combination of single electronic elements determines the size and shape of the applied electromagnetic field, i.e. it depends on how the emitters <b>3</b>, . . . are positioned relative to the receivers <b>4</b>, . . . and vice versa. They can either be combined by their structural design, e.g. by merging structures, or by their wiring, i.e. their electronic activation by means of connecting conductive paths or tracks. That is, each electronic element can either be singly actuated, or, when structurally combined, all electronic elements or only part of the electronic elements can be actuated simultaneously. In addition, each individual electronic element can further be comprised of or contain smaller electronic elements that further increase the degree of freedom regarding the actuation and the resulting electromagnetic field design. Having single electronic elements that form a network also allows the formation of multiple electromagnetic fields at the same time, that is, enabling gross measurements using the whole or parts of the network and enabling small detailed and focused measurements using single electronic elements or single structures of single electronic elements. Furthermore, simultaneous measurements with different structures in the sense of the arrangement and wiring of the electronic elements at the same point in time is enabled, independent of the geometrical dimensions and/or shape of the respective electronic elements. That is, it is possible to combine and to activate and deactivate as many electronic elements as desired so as to enlarge and reduce the sensitive area of the device continuously. Furthermore, it is possible to continuously vary the physical properties of the input signal(s) such as adjusting their electromagnetic field strength and/or pulse width, etc. It is furthermore possible to individually or commonly address certain electronic elements by the same one or more input signal(s) or by physically different one or more input signal(s).</p>
+<p id="p-0115" num="0114">For instance in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, a first emitter <b>3</b> and one second emitter <b>31</b> are arranged directly adjacent to each other so as to form a single honeycomb structure which is subjected to the same input signal <b>5</b> by means of one common conductive track <b>21</b>. Furthermore, one third emitter <b>311</b> and one fourth emitter <b>3111</b> are merged and commonly addressed by one input signal <b>51</b> via conductive track <b>211</b> as well as one fifth emitter <b>31111</b> and one sixth emitter <b>311111</b> are merged and commonly addressed by one input signal <b>511</b> via conductive track <b>2111</b>. Likewise, one first receiver <b>4</b> and one second receiver <b>41</b> are arranged directly adjacent to each other so as to form a single honeycomb structure which transmits the output signal <b>6</b> by means of one common conductive track <b>21111</b>. Moreover, one third receiver <b>411</b> and one fourth receiver <b>4111</b> are merged and commonly transmit one output signal <b>61</b> via conductive track <b>211111</b> as well as one fifth emitter <b>41111</b> and one sixth emitter <b>411111</b> are merged and commonly transmit one output signal <b>611</b> via conductive track <b>2111111</b>. All of the emitters <b>3</b>, <b>31</b>, <b>311</b>, <b>3111</b>, <b>31111</b>, <b>311111</b> are arranged within a first common horizontal plane extending along the plane E1 of the device and all of the receivers <b>4</b>, <b>41</b>, <b>411</b>, <b>4111</b>, <b>41111</b>, <b>411111</b> are arranged within a second common horizontal plane, also extending along the plane E1 of the device, that is placed below the first plane with respect to the z-direction. As indicated by the dashed and dotted vertical lines, the receivers <b>4</b>, <b>41</b>, <b>411</b>, <b>4111</b>, <b>41111</b>, <b>411111</b> thereby have a width dR that is larger than a width dE of the emitters <b>3</b>, <b>31</b>, <b>311</b>, <b>3111</b>, <b>31111</b>, <b>311111</b>. Here, the first and second emitters <b>3</b>, <b>31</b> and the first and second receivers <b>4</b>, <b>41</b> form a first emitter-receiver-selection that is used for the evaluation of a first response based on the input signal <b>5</b> and the output signal <b>6</b>. Likewise, the third and fourth emitters <b>311</b>, <b>3111</b> and the third and fourth receivers <b>411</b>, <b>4111</b> form a second emitter-receiver-selection that is used for the evaluation of a second response based on the further input signal <b>51</b> and the further output signal <b>61</b>, and the fifth and sixth emitters <b>31111</b>, <b>311111</b> and the fifth and sixth receivers <b>41111</b>, <b>411111</b> form a third emitter-receiver-selection that is used for the evaluation of a third response based on the further input signal <b>511</b> and the further output signal <b>611</b>, respectively. The structures <b>22</b>, <b>221</b>, . . . indicated by the light lines correspond to electronic elements that are currently not used for a monitoring, which however could likewise be addressed in order to adapt the sensitive area of the device <b>1</b> to the subject body for an optimization of the response, as already explained above.</p>
+<p id="p-0116" num="0115">In the device <b>1</b> of <figref idref="DRAWINGS">FIG. <b>7</b></figref>, four emitters <b>3</b>, <b>31</b>, <b>311</b>, <b>3111</b> have a merging structure and are commonly arranged within one first horizontal plane extending along the plane E1 of the device. These emitters are jointly electrically connected by means of the conductive track <b>21</b> and thus simultaneously receive the same input signal <b>5</b>. In a second horizontal plane also extending along the E1 plane and being located below the first horizontal plane with respect to the z-direction are four receivers <b>4</b>, <b>41</b>, <b>411</b>, <b>4111</b> that also have a merging structure. Here, all of the emitters <b>3</b>, <b>31</b>, <b>311</b>, <b>3111</b> are merged together so as to form one single emitter unit <b>10</b> receiving the input signal <b>5</b> commonly and all of the receivers <b>4</b>, <b>41</b>, <b>41</b>, <b>4111</b> are merged together so as to form one single receiver unit <b>11</b> transmitting the output signal <b>6</b> commonly. This is in clear contrast to the merging structure of emitters and receivers of the device depicted in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, where the emitters and the receivers are only pairwise merged and thereby form emitter units <b>10</b>, <b>101</b>, <b>1011</b> and receiver units <b>11</b>, <b>111</b>, <b>1111</b> that are arranged at a distance from each other.</p>
+<p id="p-0117" num="0116">The device <b>1</b> depicted in <figref idref="DRAWINGS">FIG. <b>8</b></figref> comprises single emitters <b>3</b>, <b>31</b>, <b>311</b>, <b>3111</b> and single receivers <b>4</b>, <b>41</b>, <b>411</b>, <b>4111</b>, each being addressed by a single conductive track <b>21</b>, <b>211</b>, . . . so as to receive a single input signal <b>5</b>, <b>51</b>, . . . and so as to transmit a single output signal <b>6</b>, <b>61</b>, . . . , respectively. As in the devices depicted in <figref idref="DRAWINGS">FIGS. <b>6</b> and <b>7</b></figref>, all of the emitters <b>3</b>, <b>31</b>, <b>311</b>, <b>3111</b> are arranged within a common first horizontal plane extending along the plane E1 and all of the receivers <b>4</b>, <b>41</b>, <b>411</b>, <b>4111</b> are arranged within a common second horizontal plane that is extending along the plane E1 and is located below the first horizontal plane with respect to the z-direction. In contrast to the emitters and receivers of the devices shown in <figref idref="DRAWINGS">FIGS. <b>6</b> and <b>7</b></figref>, neither the emitters nor the receivers are merging with each other. Instead, the emitters and the receivers are respectively provided in the shape of a honeycomb structure, where, however, the individual electronic elements are not in direct contact with each other. Instead, the individual electronic elements are arranged in vicinity but at a distance to each other.</p>
+<p id="p-0118" num="0117">As follows from <figref idref="DRAWINGS">FIGS. <b>9</b> to <b>11</b></figref>, one or more single electronic elements can be added to the receiver units and/or to the emitter units. These can be of any size and shape depending on the intended application and electromagnetic field design. Having more receivers than emitters and vice versa allows further possibilities of using different electromagnetic field designs simultaneously. In particular, the actuation of different structures of emitters and receivers enables optimal electromagnetic field design and signal detection.</p>
+<p id="p-0119" num="0118">The device <b>1</b> depicted in <figref idref="DRAWINGS">FIG. <b>9</b></figref> essentially corresponds to the device <b>1</b> depicted in <figref idref="DRAWINGS">FIG. <b>6</b></figref> with respect to the arrangement and actuation of the merged emitters <b>3</b>, <b>31</b>, <b>311</b>, <b>3111</b>, <b>31111</b>, <b>311111</b> and the merged receivers <b>4</b>, <b>41</b>, <b>411</b>, <b>4111</b>, <b>41111</b>, <b>411111</b>. However, the device <b>1</b> of <figref idref="DRAWINGS">FIG. <b>9</b></figref> further comprises additional emitters <b>3111111</b>, <b>31111111</b>, <b>311111111</b> that are single electronic elements located within the merged structures of the emitter units <b>10</b>, <b>101</b>, <b>1011</b>. In this case, the single emitter elements <b>3111111</b>, <b>31111111</b>, <b>311111111</b> are provided as circular elements that are arranged within the same horizontal plane extending along the plane E1 as are the emitter units <b>10</b>, <b>101</b>, <b>1011</b>. Each of these single emitters is individually addressed by a conductive track so as to receive a separate input signal <b>5111</b>, <b>51111</b>, <b>511111</b>.</p>
+<p id="p-0120" num="0119">Likewise, in <figref idref="DRAWINGS">FIGS. <b>10</b> and <b>11</b></figref> are devices <b>1</b> shown which mainly correspond to the devices <b>1</b> depicted in <figref idref="DRAWINGS">FIGS. <b>7</b> and <b>8</b></figref> but that additionally comprise single electronic elements being addressed individually. As such, <figref idref="DRAWINGS">FIG. <b>10</b></figref> depicts a device <b>1</b> with four merging emitters <b>3</b>, <b>31</b>, <b>311</b>, <b>3111</b> in the form of a honeycomb structure, wherein in each center of one honeycomb a single emitter <b>31111</b>, <b>311111</b>, <b>3111111</b> is arranged. These emitters <b>31111</b>, <b>311111</b>, <b>3111111</b> have a circular form and are arranged within the horizontal plane extending along the plane E1 of the merging emitters. Whereas the single emitter unit <b>10</b> formed by the merging emitters is commonly addressed by the same input signal <b>5</b>, the individual emitters <b>31111</b>, <b>311111</b>, <b>3111111</b> are each addressed individually by means of a single electronic track <b>2111</b>, <b>21111</b>, <b>211111</b> and are thus adapted to receive different input signals <b>51</b>, <b>511</b>, <b>5111</b> independently.</p>
+<p id="p-0121" num="0120">In addition to the electronic elements of the device according to <figref idref="DRAWINGS">FIG. <b>8</b></figref>, the device of <figref idref="DRAWINGS">FIG. <b>11</b></figref> comprises single emitters <b>31111</b>, <b>311111</b>, <b>3111111</b> each being addressed by a single conductive track <b>211111</b>, <b>2111111</b>, <b>21111111</b> so as to receive single input signals independently. In this example, the single emitters are provided with a hexagonal form and are arranged within the same horizontal plane extending along the plane E1 as are the emitters <b>3</b>, <b>31</b>, <b>311</b>, <b>3111</b>.</p>
+<p id="p-0122" num="0121">In <figref idref="DRAWINGS">FIGS. <b>9</b> to <b>11</b></figref> only devices are shown that comprise individual emitters. However, it is likewise possible to provide such devices with individual receivers, or to provide such devices with individual emitters and receivers, respectively.</p>
+<p id="p-0123" num="0122"><figref idref="DRAWINGS">FIGS. <b>12</b> and <b>13</b></figref> depict possible geometrical dimensions and shapes of the electronic elements. However, neither the geometrical dimensions nor the shapes are restricted to those shown in these Figures. The electronic elements can be of any size and/or shape and they can be arranged on the device in any manner. Each particular design has certain advantages or disadvantages and must be chosen according to the intended use. Depending on the intended use, certain sizes, shapes and arrangements of the electronic elements are more appropriate than others, since the size, shape and arrangement of the electronic elements determines the shape of the applied electromagnetic field.</p>
+<p id="p-0124" num="0123">In general, the device should consist of at least two electronic elements such as capacitors that are adapted to emit an input signal and to receive an output signal. The capacitors can be arranged such, that they are either in the same or different plane, on top of each other or spatially separated from each other. The capacitors can have the same shape or a different shape. The size and shape of the capacitors determines the shape and sensitivity of the electromagnetic field. The device can also consist of electronic elements of different sizes and/or shapes. Hence, the number of emitters <b>3</b>, <b>31</b>, . . . must not equal the number of receivers, <b>4</b>, <b>41</b>, . . . and there can be more emitter elements than receiver elements and vice versa. As follows from <figref idref="DRAWINGS">FIG. <b>12</b></figref>, the capacitors can have any shape and size such as spirals, circles, rectangles, lines, stars, ellipses, that are arranged within each other or surrounding each other or being on top of each other, or next to each other, etcetera. Furthermore, individual electronic elements may be wired differently and grounding, i.e. distorting induction lines, and other wiring properties can be used to add more electromagnetic field design modalities.</p>
+<p id="p-0125" num="0124"><figref idref="DRAWINGS">FIGS. <b>14</b> and <b>15</b></figref> show different arrangements of single electronic elements that are combined to larger structures. From such arrangements the possibility emerges to use a whole network, only certain structures of combined electronic elements or only single electronic elements, respectively, which enables optimal signal detection. Each of these arrangements possesses different electromagnetic field properties and, depending on the intended use, is addressed differently in order to produce a wide or a flat electromagnetic field, a steep or a penetrating electromagnetic field, a circular volume electromagnetic field, etcetera.</p>
+<p id="p-0126" num="0125">In <figref idref="DRAWINGS">FIG. <b>14</b></figref> for instance, always three emitters <b>3</b>, <b>31</b>, . . . and three receivers <b>4</b>, <b>41</b>, . . . are respectively merged so as to form emitter units <b>10</b>, <b>101</b>, . . . and receiver units <b>11</b>, <b>111</b>, . . . in the form of a threefold honeycomb. Thereby always one emitter unit <b>10</b> and one receiver unit <b>11</b> are respectively combined so as to form one entity or cluster <b>23</b>, which is spatially separated from another entity or cluster <b>231</b>, <b>2311</b>, . . . formed by another emitter unit <b>101</b>, <b>1011</b>, . . . and another receiver unit <b>111</b>, <b>1111</b>, . . . .</p>
+<p id="p-0127" num="0126">Such clusters <b>23</b>, <b>231</b>, . . . of emitters and receivers are similarly formed in the device shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref>. Thereby, one cluster comprises four single emitters <b>3</b>, <b>31</b>, <b>311</b>, <b>3111</b> being completely surrounded by another, threesome emitter <b>31111</b> as well as one threesome receiver <b>4</b>. Each cluster <b>23</b>, <b>231</b>, . . . is spatially separated from another such cluster <b>2311</b>, <b>23111</b>, . . . .</p>
+<p id="p-0128" num="0127">Although these Figures only depict spatially separated clusters, it is likewise possible to arrange such clusters adjacent to each other, e.g. in the form of a continuous honeycomb with a merging honeycomb structure.</p>
+<p id="p-0129" num="0128">Furthermore, as mentioned earlier, a variety of arrangements of the electronic elements and their activation schemes are conceivable. With reference to <figref idref="DRAWINGS">FIG. <b>15</b></figref>, for instance, it is possible to separately or commonly address the emitters <b>3111</b> located centrally within the clusters <b>23</b>, <b>231</b>, <b>2311</b>, <b>23111</b> with a first input signal, e.g. a DC voltage, and to simultaneously or successively address the emitters <b>3</b>, <b>31</b>, <b>311</b> located in each case around said emitter <b>3111</b> with a further, i.e. second input signal such as a short pulse. Instead of applying a DC voltage and a pulse as first and further input signals, another possibility is to apply a first pulse of a first frequency and a second pulse of a second frequency differing from said first frequency as first and further input signals. Or, it is also conceivable to apply one or more input signals that generate harmonics, wherein the harmonics are then used to monitor the object.</p>
+<p id="p-0130" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>LIST OF REFERENCE SIGNS</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="84pt" align="left"/>
+<colspec colname="2" colwidth="105pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>&#x2002;1</entry>
+<entry>device</entry>
+</row>
+<row>
+<entry/>
+<entry>2, 21, 211</entry>
+<entry>subject body</entry>
+</row>
+<row>
+<entry/>
+<entry>3, 31, . . .</entry>
+<entry>emitter</entry>
+</row>
+<row>
+<entry/>
+<entry>4, 41, . . .</entry>
+<entry>receiver</entry>
+</row>
+<row>
+<entry/>
+<entry>5, 51, . . .</entry>
+<entry>input signal</entry>
+</row>
+<row>
+<entry/>
+<entry>6, 61, . . .</entry>
+<entry>output signal</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;7</entry>
+<entry>signal generator</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;8</entry>
+<entry>signal analyser</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x2002;9</entry>
+<entry>signal modulator</entry>
+</row>
+<row>
+<entry/>
+<entry>10, 101, . . .</entry>
+<entry>emitter unit</entry>
+</row>
+<row>
+<entry/>
+<entry>11, 111, . . .</entry>
+<entry>receiver unit</entry>
+</row>
+<row>
+<entry/>
+<entry>12</entry>
+<entry>demodulator</entry>
+</row>
+<row>
+<entry/>
+<entry>13</entry>
+<entry>A/D-converter</entry>
+</row>
+<row>
+<entry/>
+<entry>14</entry>
+<entry>signal processor</entry>
+</row>
+<row>
+<entry/>
+<entry>15</entry>
+<entry>communication module</entry>
+</row>
+<row>
+<entry/>
+<entry>16</entry>
+<entry>output selection device</entry>
+</row>
+<row>
+<entry/>
+<entry>17, 171, 1711</entry>
+<entry>dielectric medium</entry>
+</row>
+<row>
+<entry/>
+<entry>18</entry>
+<entry>housing</entry>
+</row>
+<row>
+<entry/>
+<entry>19</entry>
+<entry>apparatus</entry>
+</row>
+<row>
+<entry/>
+<entry>20</entry>
+<entry>seat</entry>
+</row>
+<row>
+<entry/>
+<entry>21, 211, . . .</entry>
+<entry>conductive track</entry>
+</row>
+<row>
+<entry/>
+<entry>22, 221, . . .</entry>
+<entry>inactive structure</entry>
+</row>
+<row>
+<entry/>
+<entry>23, 231, . . .</entry>
+<entry>cluster</entry>
+</row>
+<row>
+<entry/>
+<entry>24</entry>
+<entry>monitoring surface</entry>
+</row>
+<row>
+<entry/>
+<entry>25</entry>
+<entry>input selection device</entry>
+</row>
+<row>
+<entry/>
+<entry>R1</entry>
+<entry>first response</entry>
+</row>
+<row>
+<entry/>
+<entry>R2</entry>
+<entry>second response</entry>
+</row>
+<row>
+<entry/>
+<entry>R3</entry>
+<entry>third response</entry>
+</row>
+<row>
+<entry/>
+<entry>R</entry>
+<entry>response</entry>
+</row>
+<row>
+<entry/>
+<entry>E1</entry>
+<entry>first plane</entry>
+</row>
+<row>
+<entry/>
+<entry>E2, E21</entry>
+<entry>second plane</entry>
+</row>
+<row>
+<entry/>
+<entry>x</entry>
+<entry>x-direction</entry>
+</row>
+<row>
+<entry/>
+<entry>y</entry>
+<entry>y-direction</entry>
+</row>
+<row>
+<entry/>
+<entry>z</entry>
+<entry>z-direction</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A device for monitoring a response of a subject body comprising:
+<claim-text>at least one emitter and at least one receiver,</claim-text>
+<claim-text>wherein the at least one emitter is configured to emit at least one input signal and the at least one receiver is configured to receive at least one output signal from the subject body in response to said at least one input signal;</claim-text>
+<claim-text>a signal generator being in connection with the at least one emitter and being configured to generate the at least one input signal, the at least one input signal being effective at least one of i) for penetrating the subject body and ii) for being reflected from the subject body; and</claim-text>
+<claim-text>a signal analyser being in connection with the at least one receiver and being configured to analyse the at least one output signal received from the at least one receiver by comparing the at least one output signal with the at least one input signal,</claim-text>
+<claim-text>wherein the device is configured to evaluate at least one first response of the subject body from the comparison between the at least one output signal and the at least one input signal,</claim-text>
+<claim-text>wherein the device comprises at least one of:</claim-text>
+<claim-text>a. at least one further emitter, wherein the at least one further emitter is configured to emit at least one of i) the at least one input signal and ii) at least one further input signal in order to evaluate at least one second response of the subject body by the comparison between the at least one output signal received by the at least one receiver and at least one of i) the at least one input signal and ii) the at least one further input signal emitted by the at least one further emitter, and wherein either the at least one emitter and the at least one receiver responsible for the at least one first response of the subject body or the at least one further emitter and the at least one receiver responsible for the at least one second response of the subject body are selected for a further monitoring of the response of the subject body based on a comparison between the first response and the second response with a predetermined characteristic; and</claim-text>
+<claim-text>b. at least one further receiver, wherein the at least one further receiver is configured to further receive the at least one output signal in order to evaluate at least one third response of the subject body by the comparison between the at least one output signal received by the at least one further receiver and the at least one input signal emitted by the at least one emitter, and wherein either the at least one emitter and the at least one receiver responsible for the at least one first response of the subject body or the at least one emitter and the at least one further receiver responsible for the at least one third response of the subject body are selected for a further monitoring of the response of the subject body based on a comparison between the first response and the third response with a predetermined characteristic.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a first emitter-receiver-selection comprises at least one of the emitter and the further emitter(s), respectively, and at least one of the receiver and the further receiver(s), respectively,
+<claim-text>wherein at least one further emitter-receiver-selection comprises at least one of another of at least one of the emitter and the further emitter(s), respectively, and at least one of another of at least one of the receiver and the further receiver(s), respectively,</claim-text>
+<claim-text>wherein the at least one first response is derivable from the first emitter-receiver-selection, and</claim-text>
+<claim-text>wherein at least one of i) the at least one second response and ii) the at least one third response is derivable from the at least one further emitter-receiver-selection.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a signal modulator which is configured to alter the at least one input signal in order to adjust at least one of i) the penetration of the at least one input signal into the subject body and ii) the reflection of the at least one input signal from the subject body, whereby at least one of i) the at least one first response and ii) the at least one second response and iii) the at least one third response, respectively, is altered so as to enable the monitoring of the response of the subject body with spatial resolution.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one input signal and the at least one output signal each are electrical signals.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one of:
+<claim-text>a. two or more of the at least one emitter and the at least one further emitter are connected with each other so as to form one or more emitter units, the one or more emitter units being configured to receive the same input signal from the signal generator, and</claim-text>
+<claim-text>b. two or more of the at least one receiver and the at least one further receiver are connected with each other so as to form one or more receiver units, the one or more receiver units being configured to receive the particular output signal that is in response to an input signal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one of:
+<claim-text>a. two or more of the at least one emitter and the at least one further emitter are arranged adjacent to each other, and</claim-text>
+<claim-text>b. two or more of the at least one receiver and the at least one further receiver are arranged adjacent to each other.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one emitter and the at least one further emitter, respectively, and the at least one receiver and the at least one further receiver, respectively, are arranged in a single plane or in a plurality of planes in the device.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the device is adapted to monitor the response of a living subject body, wherein the living subject body comprises a dielectric medium with electric charges, the electrical charges being redistributed due to the at least one input signal,
+<claim-text>wherein the charge redistribution of said electrical charges changes due to a vital function of the living subject body,</claim-text>
+<claim-text>wherein the at least one output signal corresponds to the at least one input signal that is altered by the charge redistribution of the dielectric medium, and</claim-text>
+<claim-text>wherein the response of the living subject body corresponds to the vital function.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising at least one of:
+<claim-text>a. a signal demodulator configured to demodulate the at least one output signal received by the at least one receiver and the at least one further receiver, respectively, and
+<claim-text>b. an input selection device configured to select at least one of the input signals emitted by the at least one emitter and the at least one further emitter, and</claim-text>
+<claim-text>c. an output selection device configured to select at least one of the output signals received by the at least one receiver and the at least one further receiver, and</claim-text>
+<claim-text>d. an analogue-to-digital-converter configured to convert the at least one output signal into a digital signal, and</claim-text>
+<claim-text>e. a communication module configured to communicate the response to a further device such as a wireless LAN, a mobile phone, a smartphone, a computer, a monitor or the like.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The device according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein at least one of:
+<claim-text>a. two or more of the at least one emitter and the at least one further emitter are arranged adjacent to each other within the one or more emitter units, and</claim-text>
+<claim-text>b. two or more of the at least one receiver and the at least one further receiver are arranged adjacent to each other within the one or more receiver units.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The device according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein at least one of i) the plurality of planes are parallel planes and ii) said single plane and plurality of planes, respectively, defines or define a monitoring surface of the device.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The device according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein at least one of i) the output selection device is a multiplexer and ii) the device further also comprises a signal processor configured to process the digital signal.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the predetermined characteristics corresponds to at least one of a reference signal amplitude, a reference signal strength, a reference signal frequency, a reference signal phase, a reference signal phase change, a reference signal jitter, a reference signal skew, and a reference signal spread spectrum.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one of the first response, the second response and the third response is associated with at least one of a signal amplitude, a signal strength, a signal frequency, a signal phase, a signal phase change, a signal jitter, a signal skew, and a signal spread spectrum.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

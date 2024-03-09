@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20230225260A1-20230720.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20230704" date-publ="20230720">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20230225260</doc-number>
+<kind>A1</kind>
+<date>20230720</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17918283</doc-number>
+<date>20210409</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2020-071382</doc-number>
+<date>20200411</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>G</subclass>
+<main-group>9</main-group>
+<subgroup>26</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>G</subclass>
+<main-group>9</main-group>
+<subgroup>24</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>G</subclass>
+<main-group>9</main-group>
+<subgroup>26</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20190501</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>G</subclass>
+<main-group>9</main-group>
+<subgroup>249</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>G</subclass>
+<main-group>9</main-group>
+<subgroup>246</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230720</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">PLANT CULTIVATION DEVICE AND PLANT CULTIVATION METHOD</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>PLANTX CORP.</orgname>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>OHSHIMA</last-name>
+<first-name>Kazutaka</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>YAMADA</last-name>
+<first-name>Shinjiro</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>AKIYAMA</last-name>
+<first-name>Takuji</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>SAKAGUCHI</last-name>
+<first-name>Shunsuke</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>YAMADA</last-name>
+<first-name>Kosuke</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2021/015081</doc-number>
+<date>20210409</date>
+</document-id>
+<us-371c12-date><date>20230322</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">To provide a mechanism for performing environment control in a plant cultivation device and process control regarding to a work process for cultivating a plant. A plant cultivation device includes a plurality of sensors for monitoring a growing condition of a plant to be cultivated; an environment controlling unit for controlling an environment which is a condition of at least one of light, air, water, and space in the plant cultivation device; and a process controlling unit for controlling a work process for cultivating the plant.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="109.73mm" wi="151.05mm" file="US20230225260A1-20230720-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="219.29mm" wi="153.08mm" file="US20230225260A1-20230720-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="225.47mm" wi="137.92mm" file="US20230225260A1-20230720-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="193.97mm" wi="167.47mm" file="US20230225260A1-20230720-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="207.01mm" wi="164.17mm" file="US20230225260A1-20230720-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="149.01mm" wi="150.54mm" file="US20230225260A1-20230720-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="169.42mm" wi="167.13mm" file="US20230225260A1-20230720-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="218.52mm" wi="124.38mm" file="US20230225260A1-20230720-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="224.03mm" wi="128.86mm" file="US20230225260A1-20230720-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="195.33mm" wi="162.05mm" file="US20230225260A1-20230720-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="205.82mm" wi="89.83mm" file="US20230225260A1-20230720-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="209.38mm" wi="143.09mm" file="US20230225260A1-20230720-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="192.87mm" wi="150.79mm" file="US20230225260A1-20230720-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="219.29mm" wi="146.47mm" file="US20230225260A1-20230720-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">The present application claims the benefit of priority of Japanese Patent Application 2020-071382 entitled &#x201c;Plant cultivation device and plant cultivation method&#x201d; filed Apr. 11, 2020, the entire contents of which are incorporated herein by reference.</p>
+<p id="p-0003" num="0002">The invention relates to a device and a method for cultivating a plant.</p>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0004" num="0003">With respect to the background art, there is a patent document, JP2008-61575A (Patent Document 1) on this technical field. The following is described in this publication. &#x201c;A plant management device <b>1</b><i>a </i>is provided to prompt proper management of cultivation by informing a user of a cultivation condition according to a growing environment for each plant. The plant management device <b>1</b><i>a </i>includes a temperature detecting unit <b>16</b>, a humidity detecting unit <b>17</b>, and an illumination detecting unit <b>18</b> for detecting various values indicating conditions of a peripheral environment of plant; a first memory unit <b>11</b> for storing various values detected from the temperature detecting unit <b>16</b>, the humidity detecting unit <b>17</b>, and the illumination detecting unit <b>18</b>; and a CPU (Central Processing Unit) <b>10</b> for discriminating an existence or nonexistence of abnormality in the cultivation condition of the plant and a problem tendency based on a predetermined decision reference information and the various values detected from the temperature detecting unit <b>16</b>, the humidity detecting unit <b>17</b>, and the illumination detecting unit <b>18</b>; an indicating lamp <b>14</b> and a sounding unit <b>15</b> for informing the cultivation condition of the plant according to the determined result of the cultivation condition of the plant by the CPU <b>1</b>; and a first communication unit <b>12</b> for sending various detected values stored in the first memory unit <b>11</b> to an external device <b>2</b><i>a </i>according to a power supply generated by an induced electromagnetic field or electric wave supplied from the external device <b>2</b><i>a </i>(i.e. the abstract).&#x201d;</p>
+<heading id="h-0003" level="1">PRIOR ART DOCUMENTS</heading>
+<p id="p-0005" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0004">[Patent Document 1] JP2008-61575A</li>
+</ul>
+</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0006" num="0005">A mechanism for informing a user about a cultivation condition in a plant cultivation device is disclosed in the Patent Document 1. However, a mechanism for performing a process control regarding to a work process for cultivating a plant is not disclosed in the plant cultivation device of the Patent Document 1.</p>
+<p id="p-0007" num="0006">Accordingly, it is the object of the invention to provide a mechanism for performing the both of an environmental control in a plant cultivation device and a process control regarding to a work process for cultivating a plant.</p>
+<p id="p-0008" num="0007">In addition, a mechanism for performing the environmental control and the process control in the plant cultivation device according to a recipe received from a management server is provided.</p>
+<p id="p-0009" num="0008">For example, by employing configurations described in the claims, the above-mentioned problems are solved.</p>
+<p id="p-0010" num="0009">According to the present application, there are a plurality of ways for solving the problems. For example, the present application provides a plant cultivation device (or a device for cultivating plant) which includes a plurality of sensors for monitoring a growing condition of a plant to be cultivated; an environment controlling unit for controlling an environment which is a condition of at least one of light, air, water, and space in the plant cultivation device; and a process controlling unit for controlling a work process for cultivating the plant.</p>
+<p id="p-0011" num="0010">According to the present invention, it becomes possible to provide a mechanism for performing the both of an environmental control in the plant cultivation device and a process control regarding to a work process for cultivating a plant.</p>
+<p id="p-0012" num="0011">Also, it becomes possible to provide a mechanism for performing the environmental control and the process control in the plant cultivation device according to a recipe received from a management server.</p>
+<p id="p-0013" num="0012">The problems, configurations and effects other than the above will be clarified by the following description of the embodiment.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is an example of a functional diagram illustrating a configuration of a cultivation device <b>1</b>A.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is an example of an external view of the cultivation device <b>1</b>A.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is an example of an internal view of the cultivation device <b>1</b>A.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is an example of a sectional view of a cultivation room <b>10</b>A as seen from a longitudinal direction.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>5</b>A</figref> is an example of a cultivation plate and a cultivation tray which are provided in the cultivation device <b>1</b>A</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>5</b>B</figref> is an example for illustrating an artificial light source included in the cultivation device <b>1</b>A.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is an example of an air circulation device which is provided in the cultivation device <b>1</b>A.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is an example of a nourishing solution circulation device which is provided in the cultivation device <b>1</b>A.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is an example of an entire configuration of a plant cultivation system <b>800</b>.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is an example of a hardware configuration of a management terminal <b>810</b>.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is an example of a hardware configuration of a management server <b>820</b>.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is an example of a hardware configuration of a work terminal <b>830</b>.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is an example of a basic recipe <b>1200</b>.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is an example of a work recipe <b>1300</b>.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is an example of a processing flow <b>1400</b> for registering a recipe.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is an example of a processing <b>1500</b> flow for controlling an environment.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is an example of a processing flow <b>1600</b> for controlling a process.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is an example of a processing flow <b>1700</b> for monitoring a growing condition.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is an example of a display screen regarding to a growing condition to be shown.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>19</b></figref> is an example of a cultivation facility for controlling the environment at the inside and the outside of the cultivation device <b>1</b>A.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0034" num="0033">Hereinafter, embodiments will be described with reference to the drawings.</p>
+<p id="p-0035" num="0034">A cultivation device of the present invention is configured to be used in a plant factory depending on an artificial light source. In a case of a plant factory having a large scale of production, it has been known that controlling a cultivation environment is difficult. The cultivation device of the present invention is configured to be used suitably in such a plant factory.</p>
+<heading id="h-0007" level="1">First Embodiment</heading>
+<p id="p-0036" num="0035">A cultivation device <b>1</b>A in relation with a first embodiment will be described with referring to <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>7</b></figref>.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is an example of a functional diagram illustrating a configuration of a cultivation device <b>1</b>A of the invention.</p>
+<p id="p-0038" num="0037">The cultivation device (or a device for cultivating plant) <b>1</b>A is configured to include a cultivation room <b>10</b>A, a plurality of cultivation chambers <b>20</b>A, an air circulation device (or a device for circulating an air) <b>30</b>, a nourishing solution circulation device (or a device for circulating a nourishing solution) <b>40</b>, an operating unit <b>50</b>, a controlling unit <b>60</b>, and a displaying unit <b>70</b>.</p>
+<p id="p-0039" num="0038">As depicted in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the cultivation room <b>10</b>A has an outer wall formed in a rectangular parallelopiped shape for closing or sealing the inside thereof, by which the cultivation room <b>10</b>A is made to be able to maintain its cultivation environment independent from an environment (for example, a temperature and/or a humidity) of a work room of a plant factory in which the cultivation device <b>1</b>A is disposed. As a material of the outer wall, it is preferable to use a heat insulating material so as to be less susceptible to an environmental influence of the work room which is outside of the cultivation room <b>10</b>A. Referring to <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the cultivation device <b>1</b>A is depicted under a condition where the outer wall of the cultivation room <b>10</b>A is removed.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is an example of a sectional view of the cultivation room <b>10</b>A according to the present invention as seen from a longitudinal direction.</p>
+<p id="p-0041" num="0040">As depicted in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, a plurality of cultivation chambers <b>20</b>A are formed by partitioning the cultivation room <b>10</b>A by shelf boards <b>111</b> which are located at predetermined intervals in an up-and-down direction. Each of the cultivation chambers <b>20</b>A has a substantially rectangular parallelepiped shape. The plurality of cultivation chamber <b>20</b>A may be configured by providing an exterior material to a conventionally known multistage type cultivation shelf. In the embodiment, it is configured by providing the exterior material (i.e. the outer wall of the cultivation room <b>10</b>A) to a five-stage type cultivation shelf <b>100</b>.</p>
+<p id="p-0042" num="0041">In each of the cultivation chambers <b>20</b>A, a plurality of nourishing solution trays <b>210</b> and cultivation plates <b>220</b> are provided (c.f. <figref idref="DRAWINGS">FIG. <b>5</b>A</figref>). In this case, a lateral direction of the nourishing solution trays <b>210</b> and a lateral direction of the cultivation plates <b>220</b> are directed along a longitudinal direction of the cultivation chamber <b>20</b>A (c.f. <figref idref="DRAWINGS">FIG. <b>5</b>B</figref>). The nourishing solution tray <b>210</b> has a substantially same size as that of the rectangular cultivation plate <b>220</b>, and the nourishing solution tray <b>210</b> is configured as a rectangular tray so as to fit the cultivation plate <b>220</b> therein. In this embodiment, sixteen items are provided on each of the cultivation chambers <b>20</b>A in a state in which the cultivation plate <b>220</b> is fitted into the nourishing solution tray <b>210</b> having a size of approximately 30 cm&#xd7;120 cm (c.f. <figref idref="DRAWINGS">FIG. <b>5</b>B</figref>).</p>
+<p id="p-0043" num="0042">As for the shape of the cultivation chamber <b>20</b>A, it is preferable that the cultivation chamber <b>20</b>A has a lengthy shape in which a length along a longitudinal direction is more than double a length along a lateral direction (or a transverse direction), because the cultivation chamber <b>20</b>A is preferably used in a plant factory having a relatively larger scale of production. In the embodiment, the ratio of the length along the lateral direction to the length along the longitudinal direction is one to five (i.e. lateral direction length:longitudinal direction length=1:5). Please notice that the size of the cultivation chamber <b>20</b>A (or the number of cultivation plates <b>220</b> arranged in the cultivation chamber <b>20</b>A) is not limited to the above-mentioned size of the embodiment.</p>
+<p id="p-0044" num="0043">In addition, according to the embodiment, the nourishing solution tray <b>210</b> and the cultivation plate <b>220</b> are depicted as being rectangular. Please notice that the shapes are not limited to the example. For example, the shapes may be square. In such a case, one side of the square cultivation plate <b>220</b> is arranged along the longitudinal direction of the cultivation chamber <b>20</b>A.</p>
+<p id="p-0045" num="0044">In this manner, in a state where the nourishing solution trays <b>210</b> are arranged, each of the plurality of cultivation chambers <b>20</b>A is in a closed condition or semi-closed condition.</p>
+<p id="p-0046" num="0045">In each of the nourishing solution trays <b>210</b>, a discharge port <b>211</b> for discharging a supplied nourishing solution (c.f. <figref idref="DRAWINGS">FIG. <b>4</b></figref>) is formed on one end side along the longitudinal direction (or downstream side of a flow of the nourishing solution). In addition, the nourishing solution tray <b>210</b> is provided with an inclined surface which is inclined at a predetermined angle (for example, about 1 degree) with respect to the lateral direction of the cultivation chamber <b>20</b>A. As a result, a downstream side of a flow of the nourishing solution is lowered. Consequently, the supplied nourishing solution will not stay in the nourishing solution tray <b>210</b>, and a flow will be created in one direction at a predetermined flow rate according to a flow rate of the supplied flow. Further, a nourishing solution collect pipe <b>470</b>, which will be described later, is arranged below each of the discharge port <b>211</b> (c.f. <figref idref="DRAWINGS">FIG. <b>4</b></figref>).</p>
+<p id="p-0047" num="0046">Please notice that the nourishing solution tray <b>210</b> may not have a size corresponding to one cultivation plate <b>220</b>. It is possible to configure the nourishing solution tray <b>210</b> to arrange a plurality of cultivation plates <b>220</b> therein.</p>
+<p id="p-0048" num="0047">Further, as depicted in <figref idref="DRAWINGS">FIG. <b>5</b>B</figref>, an artificial light source <b>230</b> is provided above each of the cultivation chambers <b>20</b>A, and a light control device <b>231</b> for dimming the artificial light sources <b>230</b> is connected to them. In the embodiment, two artificial light sources <b>230</b> are arranged along the longitudinal direction of the nourishing solution tray <b>210</b> and that of the cultivation plate <b>220</b> (i.e. along the lateral direction of the cultivation chamber <b>20</b>A). It is preferable to use an LED that consumes less power and is able to be configured to be thin, as the artificial light source <b>230</b>. Also, it is possible to use a fluorescent lamp as the artificial light source.</p>
+<p id="p-0049" num="0048">As depicted in <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref>, an air circulation device <b>30</b> is provided on one end side along the longitudinal direction of the cultivation room <b>10</b>A adjacently to the cultivation shelf <b>100</b>. The air circulation device <b>30</b> is configured to supply an air which is adjusted to a predetermined condition, to each cultivation chamber <b>20</b>A at a predetermined flow rate, to collect the air that has passed through the inside of each cultivation chamber <b>20</b>A, and to adjust the air to satisfy a predetermined condition. The air circulation device <b>30</b> repeats these tasks to perform a circulation feeding.</p>
+<p id="p-0050" num="0049">A configuration of the air circulation device <b>30</b> will be described with reference to <figref idref="DRAWINGS">FIG. <b>6</b></figref>. The air circulation device <b>30</b> may have a function of adjusting at least a temperature, a humidity, a carbon dioxide concentration, and a flow rate (or an amount of flow) of air. The air circulation device <b>30</b> of the embodiment is configured to include an air sterilization device <b>310</b>; a direct expansion type air conditioner <b>320</b> (or an air conditioner of a type of using a refrigerant for directly cooling air) having functions of heating, cooling and dehumidifying; a humidifying device <b>330</b> having a humidifying function; a carbon dioxide supply device <b>340</b> for adjusting a carbon dioxide concentration; a suction pump <b>350</b>; and a compression pump <b>360</b>.</p>
+<p id="p-0051" num="0050">As a device having a function of adjusting a temperature, it is possible to use an indirect expansion type chiller device (or a chiller device of a type of using a refrigerant for cooling air via water).</p>
+<p id="p-0052" num="0051">Each of the cultivation chambers <b>20</b>A and the air circulation device <b>30</b> are connected via an air collect pipe <b>370</b>A and an air supply pipe <b>380</b>. The air collect pipe <b>370</b>A and the air supply pipe <b>380</b> extend along the longitudinally direction of the cultivation chamber <b>20</b>A. In the air collect pipe <b>370</b>A, a plurality of air collect ports <b>371</b> are formed at predetermined intervals. Also, in the air supply pipe <b>380</b>, a plurality of air supply ports <b>381</b> are formed at predetermined intervals. A constant flow rate valve (not shown) is also provided for these air supply ports <b>381</b>.</p>
+<p id="p-0053" num="0052">Further, in each of the cultivation chambers <b>20</b>, a temperature sensor, a humidity sensor, and a carbon dioxide concentration sensor (not shown) are provided at predetermined locations for monitoring a temperature, a humidity, and a carbon dioxide concentration of the circulating air.</p>
+<p id="p-0054" num="0053">By using the suction pump <b>350</b>, the air is collected from each of the cultivation chambers <b>20</b>A via the air collect pipe <b>370</b>A. Then. The air is sterilized through the air sterilization device <b>310</b> and sent to the air conditioner <b>320</b>. In the air conditioner <b>320</b>, a temperature adjusting and a dehumidifying are carried out in accordance with measurement results obtained from the temperature sensor and the humidity sensor. Then, a humidifying is carried out in the humidifying device <b>330</b>. Thereafter, in the carbon dioxide supply device <b>340</b>, a carbon dioxide is supplied from a carbon dioxide supply source <b>341</b> such as a carbon dioxide cylinder or the like according to measurement results obtained from the carbon dioxide concentration sensor. Then, the air adjusted to a predetermined condition and a predetermined flow rate is supplied to each of the cultivation chambers <b>20</b>A through the air supply pipe <b>380</b> by using the compression pump <b>360</b>.</p>
+<p id="p-0055" num="0054">The set value of the flow rate of the air may be fixed. Alternatively, the set value may be made variable.</p>
+<p id="p-0056" num="0055">As depicted in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, a flow direction of air in the cultivation chamber <b>20</b>A is oriented along the lateral direction of the cultivation chamber <b>20</b>A. Consequently, compared with a case where a flow direction of air is oriented along the longitudinal direction of the cultivation chamber <b>20</b>A, it becomes possible to shorten a time period from supplying of air to collecting of air. Therefore, it becomes possible to suppress a change in the cultivation environment such as a temperature, a humidity, a carbon dioxide concentration or the like occurring on the upstream side and the downstream side of the air flow.</p>
+<p id="p-0057" num="0056">Without being limited by the above-mentioned case, a flow direction of air in the cultivation chamber <b>20</b>A may be oriented from the upper side to the lower side of the cultivation chamber <b>20</b>A.</p>
+<p id="p-0058" num="0057">In the embodiment, one cultivation device <b>1</b>A is configured to include one cultivation room <b>10</b>A, and the one cultivation room <b>10</b>A is configured to include a plurality of cultivation chambers <b>20</b>A and one air circulation device <b>30</b> in order to provide an air from the single air circulation device <b>30</b> to a plurality of cultivation chambers <b>20</b>A.</p>
+<p id="p-0059" num="0058">However, without being limited by this, one cultivation device <b>1</b>A may include one cultivation room <b>10</b>A, and the one cultivation room <b>10</b>A may include a plurality of cultivation chambers <b>20</b>A and a plurality of air circulation devices <b>30</b> corresponding to each of the cultivation chambers <b>20</b>A so that an air may be provided from the corresponding air circulation devices <b>30</b> to each of the cultivation chambers <b>20</b>A. In this case, it becomes possible to change a temperature, a humidity, a carbon dioxide concentration, a flow rate (or an amount of flow) and the like of the circulating air for each of the cultivation chambers <b>20</b>A.</p>
+<p id="p-0060" num="0059">In addition, one cultivation device <b>1</b>A may include a plurality of cultivation rooms <b>10</b>A, and each of the cultivation rooms <b>10</b>A may include a plurality of cultivation chambers <b>20</b>A and one air circulation device <b>30</b>.</p>
+<p id="p-0061" num="0060">Further, one cultivation device <b>1</b>A may include a plurality of cultivation rooms <b>10</b>A, and each of the cultivation rooms <b>10</b>A may include a plurality of cultivation chambers <b>20</b>A and a plurality of air circulation devices <b>30</b> corresponding to each of the cultivation chambers <b>20</b>A.</p>
+<p id="p-0062" num="0061">As depicted in <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref>, the nourishing solution circulation device <b>40</b> is provided below the cultivation room <b>10</b>A to supply a nourishing solution which is adjusted to a predetermined condition, to each of the nourishing solution trays <b>210</b> of the cultivation chambers <b>20</b>A at a predetermined flow rate. The nourishing solution circulation device <b>40</b> is also configured to collect the nourishing solution that has passed through each of the nourishing solution trays, and to adjust the collected nourishing solution to satisfy a predetermined condition. The nourishing solution circulation device <b>40</b> repeats these tasks to circulate and supply a nourishing solution.</p>
+<p id="p-0063" num="0062">By referring to <figref idref="DRAWINGS">FIG. <b>7</b></figref>, a configuration of the nourishing solution circulation device <b>40</b> will be described. The nourishing solution circulation device <b>40</b> may have a function of adjusting, at least, a temperature and a nutrient content (i.e. various kinds of ions of the straight fertilizer such as nitrogen, phosphoric acid, potassium, and the like.) of a nourishing solution (or a nutrient fluid). In the embodiment, the nourishing solution circulation device <b>40</b> is configured to include a nourishing solution sterilization device <b>410</b>; a nourishing solution tank <b>420</b> connected to an urban water supply source; a chiller device (not shown) having heating and cooling functions; a nutrient content supply device <b>440</b>; an oxygen supply device <b>450</b> for adjusting a dissolved oxygen concentration by supplying an oxygen; and a nourishing solution pressure pump <b>460</b>.</p>
+<p id="p-0064" num="0063">Each of the cultivation chambers <b>20</b>A and the nourishing solution circulation device <b>40</b> are connected to each other via a nourishing solution collect pipe <b>470</b> and a nourishing solution supply pipe <b>480</b>. The nourishing solution collect pipe <b>470</b> is configured to extend along the longitudinal direction of the cultivation chamber <b>20</b>A and to collect the nourishing solution discharged from the discharge ports of the nourishing solution trays <b>210</b>. The nourishing solution supply pipe <b>480</b> also extends along the longitudinal direction of the cultivation chamber <b>20</b>A, and a plurality of nourishing solution supply ports <b>481</b> are formed at predetermined intervals in the nourishing solution supply pipe <b>480</b>. The nourishing solution supply ports <b>481</b> may be opened downward in the nourishing solution supply pipe <b>480</b>. However, as depicted in the embodiment, it is preferable to open the nourishing solution supply ports <b>481</b> to face a direction which is along a flow direction of the nourishing solution (c.f. <figref idref="DRAWINGS">FIGS. <b>4</b> and <b>7</b></figref>). As a result, it becomes possible to increase a flow rate of the nourishing solution as compared with a case where the nourishing solution supply ports are opened downward when a supply amount is equal.</p>
+<p id="p-0065" num="0064">In some embodiments, one cultivation device <b>1</b>A may include one cultivation room <b>10</b>A, and the one cultivation room <b>10</b>A may include a plurality of cultivation chambers <b>20</b>A and one nourishing solution circulation device <b>40</b> in order to provide a nourishing solution from the single nourishing solution circulation device <b>40</b> to each of the cultivation chambers <b>20</b>A.</p>
+<p id="p-0066" num="0065">The set value of the flow rate of the nourishing solution may be fixed. Alternatively, the set value may be made variable.</p>
+<p id="p-0067" num="0066">However, without being limited by this, one cultivation device <b>1</b>A may include one cultivation room <b>10</b>A, and the one cultivation room <b>10</b>A may include a plurality of cultivation chambers <b>20</b>A and a plurality of nourishing solution circulation devices <b>40</b> corresponding to each of the cultivation chambers <b>20</b>A so that a nourishing solution may be provided from the corresponding nourishing solution circulation devices <b>40</b> to each of the cultivation chambers <b>20</b>A. In this case, it becomes possible to adjust a temperature, a nutrient content, a flow rate, and the like of the nourishing solution for each of the cultivation chambers <b>20</b>A.</p>
+<p id="p-0068" num="0067">In addition, one cultivation device <b>1</b>A may include a plurality of cultivation rooms <b>10</b>A, and each of the cultivation rooms <b>10</b>A may include a plurality of cultivation chamber <b>20</b>A and one nourishing solution circulation device <b>40</b>.</p>
+<p id="p-0069" num="0068">Further, one cultivation device <b>1</b>A may include a plurality of cultivation rooms <b>10</b>A, and each of the cultivation rooms <b>10</b>A may include a plurality of cultivation chambers <b>20</b>A and a plurality of nourishing solution circulation device <b>40</b> corresponding to each of the cultivation chambers <b>20</b>A.</p>
+<p id="p-0070" num="0069">A water temperature sensor (not shown) is attached to the nourishing solution tank <b>420</b>, and a single fertilizer sensor SFS for measuring concentrations of various nutrients is attached to the nourishing solution tank <b>420</b> in the vicinity of a connection port with the nourishing solution collect pipe <b>470</b> for monitoring a water temperature and ion concentrations of various single fertilizers of the nourishing solution which is circulating. The chiller device is able to adjust a temperature of the nourishing solution according to measurement results obtained from the water temperature sensor.</p>
+<p id="p-0071" num="0070">The nutrient content supply device <b>440</b> is configured to include an ion concentration control unit <b>441</b> for straight fertilizer, a straight fertilizer sensor SFS, and a supply plunger <b>442</b> for ions of straight fertilizer. In the nutrient content supply device <b>440</b>, the ion concentration control unit <b>441</b> for straight fertilizer adjusts an ion concentration of straight fertilizer in a nourishing solution by driving the supply plunger <b>442</b> for ions of straight fertilizer according to the measurement results obtained from various straight fertilizer sensors SFS. The ion concentration of straight fertilizer in the nourishing solution may be measured by using a pH sensor and an EC sensor.</p>
+<p id="p-0072" num="0071">The nourishing solution stored in the nourishing solution tank <b>420</b> is adjusted to a predetermined water temperature by a chiller device. Then, it is adjusted to a predetermined ion concentration of straight fertilizer by the nutrient content supply device <b>440</b>. Further, it is adjusted to a predetermined dissolved oxygen amount by the oxygen supply device <b>450</b>. Then, the nourishing solution is supplied by the nourishing solution pressure pump <b>460</b> to the nourishing solution trays <b>210</b> arranged on each of the cultivation chambers <b>20</b>A via the nourishing solution supply pipe <b>480</b>. As depicted in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the nourishing solution flows through the nourishing solution trays <b>210</b> at a predetermined flow rate along the lateral directions of the cultivation chamber <b>20</b>A. Then, the nourishing solution is discharged from the discharge port <b>211</b> of the nourishing solution trays <b>210</b>. As a result, the nourishing solution flows into the nourishing solution collect pipe <b>470</b>. The nourishing solution collected by the nourishing solution collect pipe <b>470</b> which is connected to the cultivation chamber <b>20</b>A is sterilized by the nourishing solution sterilization device <b>410</b>, then the nourishing solution flows into the nourishing solution tank <b>420</b>.</p>
+<p id="p-0073" num="0072">At that time, a flow direction of nourishing solution in the cultivation chamber <b>20</b>A is oriented along the lateral direction of the cultivation chamber <b>20</b>A. Therefore, it becomes possible to shorten a time period from supplying of nourishing solution to collecting of nourishing solution as compared with a case where a flow direction of nourishing solution is oriented along the longitudinal direction of the cultivation chamber <b>20</b>A.</p>
+<p id="p-0074" num="0073">The nourishing solution tank <b>420</b> may be provided for each cultivation chamber <b>20</b>A or the nourishing solution tank <b>420</b> may be provided only one in the cultivation room <b>10</b>A.</p>
+<p id="p-0075" num="0074">The operating unit <b>50</b> is comprised of a button, a keyboard and the like so as to make the cultivation room <b>10</b>A have a predetermined cultivation environment. As depicted in <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref>, the operating unit <b>50</b> is arranged outside one end side along the longitudinal direction of the cultivation room <b>10</b>A (or the side where the air circulation device <b>30</b> is provided).</p>
+<p id="p-0076" num="0075">The controlling unit <b>60</b> is provided in the cultivation room <b>10</b>A to receive signals from the air circulation device <b>30</b>, the nourishing solution circulation device <b>40</b>, and the operating unit <b>50</b> so as to control the air circulation device <b>30</b>, the nourishing solution circulation device <b>40</b>, and the displaying unit <b>70</b> which will be described later. For example, the controlling unit <b>60</b> is comprised of a computer device including a central processing unit, a RAM, a ROM, and the like.</p>
+<p id="p-0077" num="0076">The displaying unit <b>70</b> is configured to display measurement results which are monitored by various sensors provided in each of the cultivation chambers <b>20</b>A in the cultivation room <b>10</b>A, and to display the predetermined cultivation environment or the like which is set by the operating unit <b>50</b>. The displaying unit <b>70</b> is comprised of a liquid crystal panel or the like. As depicted in <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref>, the displaying unit <b>70</b> is provided outside one end side along the longitudinal direction of the cultivation room <b>10</b>A (or the side where the air circulation device <b>30</b> is provided).</p>
+<p id="p-0078" num="0077">The operating unit <b>50</b>, the controlling unit <b>60</b>, and the displaying unit <b>70</b> may not be configured integrally with the cultivation room <b>10</b>A. In other words, the operating unit <b>50</b>, the controlling unit <b>60</b>, and the displaying unit <b>70</b> may be configured separately from the cultivation room <b>10</b>A. In that case, a control panel having the operating unit, the controlling unit, and the displaying unit may be provided at a predetermined location in a plant factory. As a result, cultivation environments of cultivation chambers <b>20</b>A for each of the cultivation rooms <b>10</b>A may be managed intensively by the control panel.</p>
+<heading id="h-0008" level="1">Second Embodiment</heading>
+<p id="p-0079" num="0078">In the second embodiment, a configuration for controlling the cultivation device <b>1</b>A according to a basic recipe <b>1200</b> and/or a work recipe <b>1300</b> received from a separate management server <b>820</b> will be described.</p>
+<p id="p-0080" num="0079"><figref idref="DRAWINGS">FIG. <b>8</b></figref> depicts an example of an entire constitution of a plant cultivation system <b>800</b>. The plant cultivation system <b>800</b> includes a management terminal <b>810</b> and work terminals <b>830</b>, and they are connected to a separate management server <b>820</b> via a network. The cultivation device <b>1</b>A is able to be connected to the management server <b>820</b> via a network directly. Or it is also possible to connect the cultivation device <b>1</b>A to the management server <b>820</b> via a network through the management terminal <b>810</b>.</p>
+<p id="p-0081" num="0080">Each terminal may transmit and receive information via the network which may be either the one by cable or radio wave.</p>
+<p id="p-0082" num="0081">The management terminal <b>810</b> is configured as a terminal for managing and controlling the cultivation device <b>1</b>A. The management terminal <b>810</b> may be configured to be incorporated in the cultivation device <b>1</b>A. Alternatively, the management terminal <b>810</b> may be configured to be independent from the cultivation device <b>1</b>A as a computer or the like to control the air circulation device <b>30</b>, the nourishing solution circulation device <b>40</b>, the artificial light source, and the like in the cultivation device <b>1</b>A via the network.</p>
+<p id="p-0083" num="0082">The management server <b>820</b> is configured as a device for storing and managing a basic recipe <b>1200</b> and a work recipe <b>1300</b> which are configured to be read into the management terminal <b>810</b> or the cultivation device <b>1</b>A.</p>
+<p id="p-0084" num="0083">The work terminal <b>830</b> is configured as a terminal for performing confirmation and inputting by a worker (or an operator) according to each work process for cultivating a plant.</p>
+<p id="p-0085" num="0084">Each of the terminals and the management server <b>820</b> of the plant cultivation system <b>800</b> may be, for example, a portable terminal (or a mobile terminal) such as a smartphone, a tablet, a mobile phone, or a personal digital assistant (PDA), or a wearable terminal such as a glasses-type terminal, a wristwatch-type terminal, a clothing-type terminal or the like. It may also be a stationary computer or a portable computer, or a server located on a cloud or network. As regards functions, it may be configured as a VR (Virtual Reality) terminal, an AR terminal, or an MR (Mixed Reality) terminal. Also, it may be configured as a combination of these terminals. For example, a combination of one smartphone and one wearable terminal may logically function as one terminal. In addition, it is possible to use other information processing terminal(s).</p>
+<p id="p-0086" num="0085">Each of the terminals and the management server <b>820</b> of the plant cultivation system <b>800</b> is configured to include a processor for executing an operating system, applications, programs, and the like; a main storage device (main memory) such as a RAM (Random Access Memory); an auxiliary storage device such as an IC card, a hard disk drive, a SSD (Solid State Drive), a flash memory; a communication control unit such as a network card, a wireless communication module, a mobile communication module; an input device such as a touch panel, a keyboard, a mouse, a voice input device, an input device based on detection of motions by imaging of a camera unit; and an output device such as a monitor, a display or the like. The output device may be a device or a terminal that transmits information to be outputted on an external monitor, a display, a printer, a device or the like.</p>
+<p id="p-0087" num="0086">Various programs and applications (or modules) are stored in the main storage device, and each functional element of the entire system is realized when the processor executes the programs and/or applications. Each of these modules may be implemented by hardware by integrating, etc. Also, each module may be implemented as an independent program or application, but it may be implemented in a form of a sub-program or function in a single integrated program or application.</p>
+<p id="p-0088" num="0087">In this specification, each module is described as a subject that performs processing. In practice, a processor that processes various programs, applications, and the like (modules) may be used to execute the processing.</p>
+<p id="p-0089" num="0088">In the auxiliary storage device, various databases (DB) are stored. Here, a &#x201c;database&#x201d; as used herein means a functional element (storage unit) that is able to store a data set to accommodate any data manipulation (e.g., extraction, addition, deletion, and/or overwriting of data) by a processor or an external computer. The method of implementing the database is not limited particularly. For example, it is possible to use a database management system, a spreadsheet software, or a text file such as XML, JSON or the like.</p>
+<p id="p-0090" num="0089"><figref idref="DRAWINGS">FIG. <b>9</b></figref> depicts an example of a hardware configuration of the management terminal <b>810</b>.</p>
+<p id="p-0091" num="0090">For example, the management terminal <b>810</b> is constituted by a terminal such as a smartphone, a tablet, a notebook PC, a desktop PC or the like.</p>
+<p id="p-0092" num="0091">In the main storage device <b>901</b>, programs and applications such as a recipe registration controlling module <b>911</b>, an environment controlling module <b>912</b>, a process controlling module <b>913</b>, a growing condition monitoring module <b>914</b>, a cryptographic processing module <b>915</b> and the like are stored. When the processor <b>903</b> executes these programs and/or applications, each of the functional elements of the management server <b>101</b> can be realized.</p>
+<p id="p-0093" num="0092">The recipe registration controlling module <b>911</b> is configured to receive a basic recipe <b>1200</b> and a work recipe <b>1300</b> from the management server <b>820</b> to store them in a basic recipe DB <b>921</b> and work recipe DB <b>922</b>, respectively.</p>
+<p id="p-0094" num="0093">The environment controlling module (or environment controlling unit) <b>912</b> is configured to manage an environment inside the cultivation device <b>1</b>A according to the basic recipe that defines environmental value data (environmental value information) which is a condition of at least one of light, air, water, and space useful for cultivating a plant.</p>
+<p id="p-0095" num="0094">Specifically, the environment controlling module <b>912</b> is configured to read the basic recipe <b>1200</b> which is stored in the basic recipe DB <b>921</b>. Then, according to the read information, the environment controlling module <b>912</b> controls the air circulation device <b>30</b>, the nourishing solution circulation device <b>40</b>, the artificial light source, a robot manipulator, a conveyor or the like in the cultivation device <b>1</b>A in order to control a cultivation density, a light wavelength, a photon flux density, a temperature, a humidity, a carbon dioxide concentration, an electric conductivity, a pH value, various ion concentrations, a water temperature, a water flow velocity, a horizontal air flow rate, an air flow rate from above (upstream air flow rate), a dissolved oxygen concentration, or the like in the cultivation device <b>1</b>A.</p>
+<p id="p-0096" num="0095">In addition, the environment controlling module <b>912</b> is configured to acquire, manage and control information relating to a cultivation density, a light wavelength, a photon flux density, a temperature, a humidity, a carbon dioxide concentration, an electric conductivity, a pH value, various ion concentrations, a water temperature, a water flow velocity, a horizontal air flow rate, an air flow rate from above, a dissolved oxygen concentration or the like read from various sensors which are provided in the cultivation device <b>1</b>A.</p>
+<p id="p-0097" num="0096">The process controlling module (or process controlling unit) <b>913</b> is configured to manage a work process for cultivating a plant according to the work recipe which defines required work process to be performed in accordance with an elapsed time from a start time of plant cultivation. Here, the &#x201c;start time&#x201d; as used herein means, for example, either a start point for cultivating a plant or a point in time for sowing.</p>
+<p id="p-0098" num="0097">Specifically, the process controlling module <b>913</b> is configured to read the work recipe <b>1300</b> which is stored in the work recipe DB <b>922</b> in order to control a robot manipulator, a conveyor, or the like according to the read information for executing a work process for cultivating a plant.</p>
+<p id="p-0099" num="0098">Alternatively, the process controlling module <b>913</b> is configured to display each of the work steps necessary for the work process on the output device <b>905</b> such as the monitor, the external work terminal <b>830</b> or the like according to the work recipe <b>1300</b> for controlling or managing a work of a worker.</p>
+<p id="p-0100" num="0099">The growing condition monitoring module <b>914</b> is configured to monitor and display a growing condition of plant to be cultivated according to information acquired from various sensors. For example, a photosynthesis rate, an evaporation rate, a water absorption rate, an area of leaves, a height of leaves, a number of leaves (counts of leaves), a weight of strains, an abnormal growth, a number of bacteria(s) (counts of bacteria), or the like associated with a plant to be cultivated may be monitored.</p>
+<p id="p-0101" num="0100">The growing condition monitoring module <b>914</b> is configured to display both of an assumed growing condition when a plant is assumed to be cultivated according to the environmental value data defined in the basic recipe (or the assumed growing condition is assumed when the plant is cultivated according to the environmental value information), and an actual growing condition which is obtained from a plurality of sensors. The assumed growing condition and the actual growing condition are displayed in such a manner that the conditions can be compared. In addition, the growing condition monitoring module <b>914</b> is able to display an alert or change the basic recipe to be applied when the actual growing condition deviates from the assumed growing condition by a predetermined range or over.</p>
+<p id="p-0102" num="0101">The cryptographic processing module <b>915</b> is configured to enhance a security of the plant cultivation system <b>800</b> by encrypting and/or decrypting contents of messages among the management server <b>820</b>, the work terminal <b>830</b>, the cultivation device <b>1</b>A, and the various devices in the cultivation device <b>1</b>A.</p>
+<p id="p-0103" num="0102">It is possible to make the cultivation device <b>1</b>A as a device including the operating unit <b>50</b>, the controlling unit <b>60</b> and the displaying unit <b>70</b> therein. However, it is also possible to substitute these units by the management terminal <b>810</b>. In that case, the input device <b>904</b> may correspond to the operating unit <b>50</b>, the processor <b>903</b> may correspond to the controlling unit <b>60</b>, and the output device <b>905</b> may correspond to the displaying unit <b>70</b>, respectively.</p>
+<p id="p-0104" num="0103">The auxiliary storage device <b>902</b> is configured to include the basic recipe DB <b>921</b> and the work recipe DB <b>922</b>.</p>
+<p id="p-0105" num="0104">The basic recipe DB <b>921</b> stores the basic recipes <b>1200</b>, and the work recipe DB <b>922</b> stores the work recipes <b>1300</b>.</p>
+<p id="p-0106" num="0105">It is possible to implement the above-mentioned databases on a single database. Or it is also possible to implement them on more partitioned databases.</p>
+<p id="p-0107" num="0106"><figref idref="DRAWINGS">FIG. <b>10</b></figref> depicts an example of a hardware configuration of the management server <b>820</b>.</p>
+<p id="p-0108" num="0107">For example, the management server <b>820</b> is configured as a server which is arranged on a cloud.</p>
+<p id="p-0109" num="0108">In the main storage device <b>1001</b>, programs and applications can be stored. For example, the server recipe controlling module <b>1011</b> is stored therein. When the processor <b>1003</b> executes these programs and/or applications, various functional elements of the management server <b>820</b> can be realized.</p>
+<p id="p-0110" num="0109">The server recipe controlling module <b>1011</b> is configured to manage the basic recipe <b>1200</b> and/or the work recipe <b>1300</b> stored in the server basic recipe DB <b>1021</b> and/or the server work recipe DB <b>1022</b> on the auxiliary storage device <b>1002</b>.</p>
+<p id="p-0111" num="0110">Further, in response to the requirement from the management terminal <b>810</b> and/or the cultivation device <b>1</b>A, the server recipe controlling module <b>1011</b> transmits the basic recipe <b>1200</b> and/or the work recipe <b>1300</b> to the management terminal <b>810</b> and/or the cultivation device <b>1</b>A.</p>
+<p id="p-0112" num="0111"><figref idref="DRAWINGS">FIG. <b>11</b></figref> depicts an example of a hardware configuration of the work terminal <b>830</b>.</p>
+<p id="p-0113" num="0112">The work terminal <b>830</b> is composed of a terminal, for example, a smartphone, a tablet, a glass-type wearable terminal, a notebook PC, a desktop PC, or the like.</p>
+<p id="p-0114" num="0113">In the main storage device <b>1101</b>, programs and applications including a work step controlling module <b>1111</b> and the like are stored. When the processor <b>1103</b> executes these programs and/or applications, various functional elements of the work terminal <b>830</b> can be realized.</p>
+<p id="p-0115" num="0114">The work step controlling module <b>1111</b> is configured to cooperate with the process controlling module <b>913</b> of the management terminal <b>810</b> to display information of each of the work steps in the work process for cultivating a plant, to receive inputs sequentially from a worker, and to control and/or confirm the progress of the work steps.</p>
+<p id="p-0116" num="0115">Information relating to each of the work steps of the work process based on the work recipe <b>1300</b>, for example, information relating to a worker, contents of work, a work object and the like may be stored in the work step controlling information <b>1121</b> on the auxiliary storage device <b>1102</b>.</p>
+<p id="p-0117" num="0116">The work terminal <b>830</b> is configured to include an input device <b>1104</b>, for example, a bar code reader or a RFID reader. Thus, a progress of the work steps is able to be managed when a worker reads a bar code or a RFID tag at a timing in which each work step is performed.</p>
+<p id="p-0118" num="0117">In addition, by reading a bar code attached to a name tag or the like on a worker by the bar code reader, it becomes possible to manage information of a worker who performs the work.</p>
+<p id="p-0119" num="0118">Furthermore, by analyzing an image received from a built-in camera unit <b>1106</b> or an external camera unit <b>1106</b>, it becomes possible to track a work of a worker, a movement of a worker, a movement of a cultivation plate, and/or a movement of a cultivation tray in the cultivation device <b>1</b>A.</p>
+<p id="p-0120" num="0119">It is possible to configure the environment controlling module <b>912</b> to serve functions of the work terminal <b>830</b>.</p>
+<p id="p-0121" num="0120"><figref idref="DRAWINGS">FIG. <b>12</b></figref> depicts an example of the basic recipe <b>1200</b>.</p>
+<p id="p-0122" num="0121">A plurality of basic recipes <b>1200</b> are defined according to a plurality of plant varieties <b>1210</b> to be cultivated and their specifications <b>1220</b>. Therefore, it becomes possible to control and manage a cultivation environment of the cultivation device <b>1</b>A with regards to plant varieties and specifications.</p>
+<p id="p-0123" num="0122">The basic recipe <b>1200</b> includes environmental value data <b>1230</b> which is a condition of at least one of light, air, water, and space useful for cultivating a plant in the cultivation device <b>1</b>A. As the environmental value data <b>1230</b>, for example, information such as a cultivation density, a light wavelength, a photon flux density (PPFD), a temperature, a humidity, a carbon dioxide concentration (CO2), an electric conductivity (EC), a pH value (pH), various ion concentrations, a water temperature, a water flow velocity, a horizontal air flow rate, an air flow rate from above, a dissolved oxygen concentration, or the like in the cultivation device may be defined. These values are defined to be applied in accordance with an elapsed time from a start time of cultivation.</p>
+<p id="p-0124" num="0123">The basic recipe <b>1200</b> includes index value alert data <b>1240</b> for indicating an assumed growing condition when a plant is assumed to be cultivated according to the environmental value data defined in the basic recipe. For example, as the index value alert data <b>1240</b>, information such as a photosynthesis rate, an evaporation rate, a water absorption rate, an area of leaves, a height of leaves, a number of leaves, a weight of strains, an abnormal growth, a number of bacteria, or the like associated with a plant to be cultivated may be specified.</p>
+<p id="p-0125" num="0124">In the cultivation device <b>1</b>A described in the embodiment, a cultivation environment of a plant to be cultivated may be appropriately managed according to the basic recipe <b>1200</b> and the work recipe <b>1300</b> which are managed by the management server <b>820</b>. In addition, in a case when the cultivation device <b>1</b>A is configured as a cultivation device that is able to be closed or substantially closed from the outside, it becomes possible to reproduce a special cultivation environment that greatly differs from the condition of outside air according to the basic recipe <b>1200</b>.</p>
+<p id="p-0126" num="0125">For example, by using a photon flux density which is made higher than usual, by using a cultivation temperature which is made higher than usual, or by using a carbon dioxide concentration which is made higher than that of the human working environment, it becomes possible to cultivate a plant with higher productivity than ever, comparing to the case in cultivating a plant with a conventional plant factory.</p>
+<p id="p-0127" num="0126">By storing and managing these parameter values suitable for cultivating a plant in a form of the basic recipe <b>1200</b> on the management server <b>820</b> and by distributing these parameter values from the management server <b>820</b>, it becomes possible to reproduce the same cultivation environment in a plurality of cultivation devices <b>1</b>A even if these cultivation devices <b>1</b>A are distributed in a plurality of different places.</p>
+<p id="p-0128" num="0127"><figref idref="DRAWINGS">FIG. <b>13</b></figref> depicts an example of the work recipe <b>1300</b>.</p>
+<p id="p-0129" num="0128">In the work recipe <b>1300</b>, a work environment <b>1310</b> and a work constraint condition <b>1320</b> are defined for each of a plurality of work processes. The work recipe <b>1300</b> is configured to define work processes of cultivation to be performed in accordance with a change of an elapsed time from the start of cultivation, a condition of the plant cultivation device, a condition of the plant cultivation system <b>800</b>, the environmental value data <b>1230</b> of the basic recipe <b>1200</b> (that is, a change in the environment), or the like.</p>
+<p id="p-0130" num="0129">The process control performed by the work recipe <b>1300</b> is managed based on an absolute time from a particular point in time such as sowing. Alternatively, it is possible to correlate the work recipe <b>1300</b> with the environmental value data <b>1230</b> of the basic recipe <b>1200</b>. As a result, when the cultivation environment is changed and the environmental value data <b>1230</b> of the basic recipe <b>1200</b> is changed, the process management may be performed at the time of changing the growing environment, by referring to the work recipe <b>1300</b>.</p>
+<p id="p-0131" num="0130">As for the work processes, for example, sowing, transplanting from <b>150</b> strains to <b>32</b> strains, transplanting from <b>32</b> strains to <b>12</b> strains, harvesting, trimming, packaging, storing, transporting and the like may be included. Here, a &#x201c;process&#x201d; as used herein means a progress of a series of activities which are consisted of growing of species of raw material, harvesting the plant, packing the plant, and shipping the plant as a product.</p>
+<p id="p-0132" num="0131">The work environment <b>1310</b> defines the constraint condition for the work environment to be satisfied in executing the work process, for each of the work processes. For example, for the work process of the &#x201c;sowing&#x201d;, hours worked are defined as 300 seconds as the restriction condition. Also, as for a temperature, an allowable fluctuation range of a temperature is set to plus or minus 5 degrees from a reference temperature value of 25 degrees which is defined at 0 hours of elapsed time (at a timing of sowing) of the basic recipe <b>1200</b>.</p>
+<p id="p-0133" num="0132">Similarly, other allowable fluctuation ranges during the work process of sowing are defined, for example, a fluctuation range of a humidity is set to plus or minus 10% from a reference value of the basic recipe <b>1200</b>, and a fluctuation range of a carbon dioxide concentration is set to from 400 ppm to 1000 ppm.</p>
+<p id="p-0134" num="0133">Also, in the work constraint condition <b>1320</b>, items which are required to be controlled for performing the work are also defined, apart from the work environment. For example, when the work is not automated, precautions or the like for working are specified for workers.</p>
+<p id="p-0135" num="0134">For example, the number of cultivations for each work process and a designation of a used stage and its position in the device for cultivating a plant are defined as the shelving logic.</p>
+<p id="p-0136" num="0135">In addition, at a time of reproducing a cultivation environment in the cultivation device <b>1</b>A by the basic recipe <b>1200</b>, there may be a case where a control method differs depending on the device. The control logic for each device defines the control content specific to each device. For example, in order to set the environmental temperature to 20 degrees, the set temperature of the air conditioner in a device X is set to 20 degrees. In addition, the set temperature is set to A+1 degrees for a device Y. Further, in a case that the air conditioner is not provided in a device Z, a different control content such as controlling the set temperature to 20 degrees by using a cold water and a hot water is defined for the device Z,</p>
+<p id="p-0137" num="0136">In the work constraint condition <b>1320</b>, the work step (s) (single process) to be performed at each work process is defined. The process controlling module <b>913</b> reads the work recipe <b>1300</b> stored in the work recipe DB <b>922</b> for controlling a robot manipulator, a conveyor, etc., according to the read information in order to perform the work process for cultivating a plant.</p>
+<p id="p-0138" num="0137">Alternatively, the process controlling module <b>913</b> displays each work step to be performed as the work process on the output device <b>905</b> such as a monitor, etc., or on the external work terminal <b>830</b>, etc., according to the work recipe <b>1300</b> for managing or controlling a work of a worker.</p>
+<p id="p-0139" num="0138">For example, the following may correspond to one of the work steps: preparing a tool such as a tray for sowing, sowing of seeds by a worker, installing the sowed tray in an automated machine, moving the tray to a predetermined position by the automated machine, and growing a plant in an environment-controlled device or the like.</p>
+<p id="p-0140" num="0139">In a case where a work of a worker is monitored, a progress of a work step is managed by reading a bar code or a RFID tag which is connected to the work terminal <b>830</b> or the management terminal <b>810</b> by the worker at a timing at which each work step is performed.</p>
+<p id="p-0141" num="0140">In addition, by reading a bar code attached to a name tag or the like of the worker by using a bar code reader, information of the worker who performs the work may also be managed.</p>
+<p id="p-0142" num="0141">In this way, the entire work process is able to be managed and controlled by appropriately acquiring and managing at least one of information about the worker, the work content, and the work target for each work step (single process) to be performed in each work process in the work constraint condition <b>1320</b>.</p>
+<p id="p-0143" num="0142">For the proper illustration of this, a process of transplantation from <b>150</b> strains to <b>32</b> strains (primary transplantation) will be described.</p>
+<p id="p-0144" num="0143">There are sub-processes in the primary transplantation, for example, a step for taking a cultivation tray out from the closed or semi-closed cultivation device <b>1</b>A (i.e. shelf removing step), a step for transplanting (i.e. transplanting step), and a step for placing it in the cultivation device <b>1</b>A again (i.e. shelf placing step) included as the sub-processes.</p>
+<p id="p-0145" num="0144">In the shelf removing step, for example, the following items are defined as the data to be acquired in the work constraint condition <b>1320</b>.
+<ul id="ul0002" list-style="none">
+    <li id="ul0002-0001" num="0000">
+    <ul id="ul0003" list-style="none">
+        <li id="ul0003-0001" num="0145">1. The starting time of the work,</li>
+        <li id="ul0003-0002" num="0146">2. The ID of the person who has completed the work,</li>
+        <li id="ul0003-0003" num="0147">3. The ID of the device,</li>
+        <li id="ul0003-0004" num="0148">4. Indicating the content of the work (indicating the process of sowing and/or growing),</li>
+        <li id="ul0003-0005" num="0149">5. Reading the bar code attached to the device,</li>
+        <li id="ul0003-0006" num="0150">6. Confirming the tray ID of the cultivation tray to be taken out from the shelf of the cultivation device <b>1</b>A,</li>
+        <li id="ul0003-0007" num="0151">7. Measuring the time when the shelf is opened,</li>
+        <li id="ul0003-0008" num="0152">8. Measuring the temperature difference caused by opening/closing the door of the cultivation tray,</li>
+        <li id="ul0003-0009" num="0153">9. Measuring the time when the cultivation tray is outputted from the shelf,</li>
+        <li id="ul0003-0010" num="0154">10. Measuring the time when the shelf is closed, and</li>
+        <li id="ul0003-0011" num="0155">11. Measuring the temperature difference caused by opening/closing the door of the cultivation device <b>1</b>A for outputting the cultivating tray.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0146" num="0156">Further, as the data acquisition process, for example, the following items are defined in the work constraint condition <b>1320</b>.
+<ul id="ul0004" list-style="none">
+    <li id="ul0004-0001" num="0000">
+    <ul id="ul0005" list-style="none">
+        <li id="ul0005-0001" num="0157">1. Acquiring information of the starting time of the work by reading the ID of the worker with the bar code reader,</li>
+        <li id="ul0005-0002" num="0158">2. Acquiring the start ID by reading the bar code attached to the cultivation device <b>1</b>A,</li>
+        <li id="ul0005-0003" num="0159">3. Indicating the content of the work step of the work process by reading the bar code attached to the cultivation device <b>1</b>A (indicating the process of sowing and/or growing),</li>
+        <li id="ul0005-0004" num="0160">4. Measuring the time when the door of the shelf is opened by acquiring the time when the door was opened with the handy switch,</li>
+        <li id="ul0005-0005" num="0161">5. Measuring the time when the cultivation tray is outputted from the shelf by acquiring a signal from the RFID reader which is provided at the entrance of the shelf,</li>
+        <li id="ul0005-0006" num="0162">6. Measuring the time when the door of the shelf is closed by acquiring the time when the door is closed with the handy switch, and</li>
+        <li id="ul0005-0007" num="0163">7. Acquiring the termination ID of the cultivation device <b>1</b>A by reading the bar code attached to the cultivation device <b>1</b>A.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0147" num="0164">Similarly, in the work recipe <b>1300</b>, a transplanting step for transplanting and a shelf placing step for putting it into the cultivation device <b>1</b>A again are defined.</p>
+<p id="p-0148" num="0165">According to the cultivation device <b>1</b>A of the embodiment, it becomes possible to appropriately manage the work process for cultivating a plant based on a list of the work steps for each work process described in the work recipe <b>1300</b> managed by the management server <b>820</b>, a confirmation thereof, and data information to be acquired, etc.</p>
+<p id="p-0149" num="0166">In a case that the cultivation device <b>1</b>A is configured to be closed or substantially closed from the outside, the cultivation device <b>1</b>A is sealed or semi-sealed based on the basic recipe <b>1200</b>, and the cultivation tray is required to be outputted from the cultivation device <b>1</b>A for performing a work process such as sowing, transplanting, harvesting, or the like.</p>
+<p id="p-0150" num="0167">The basic recipe <b>1200</b> defines environmental value data in the plant cultivation device, and the work recipe <b>1300</b> defines environmental value data to be satisfied when the plant to be cultivated is outputted to the outside from the plant cultivation device, for such a case, in the work environment <b>1310</b> and the work constraint condition <b>1320</b>.</p>
+<p id="p-0151" num="0168"><figref idref="DRAWINGS">FIG. <b>14</b></figref> depicts an example of the processing flow <b>1400</b> for registering a recipe.</p>
+<p id="p-0152" num="0169">Firstly, the recipe registration controlling module <b>911</b> of the management terminal <b>810</b> receives a selection of a plant to be cultivated in the cultivation device <b>1</b>A from a cultivation manager or a worker (step <b>1410</b>).</p>
+<p id="p-0153" num="0170">Then, the recipe registration controlling module <b>911</b> receives a selection of a specification of the plant to be cultivated (Step <b>1420</b>)</p>
+<p id="p-0154" num="0171">The recipe registration controlling module <b>911</b> downloads a basic recipe <b>1200</b> and a work recipe <b>1300</b> corresponding to the selected plant and the specification from the management server <b>820</b> (step <b>1430</b>).</p>
+<p id="p-0155" num="0172">The recipe registration controlling module <b>911</b> registers the downloaded basic recipe <b>1200</b> and the work recipe <b>1300</b> in the basic recipe DB <b>921</b> and the work recipe DB <b>922</b> of the management terminal <b>810</b>, respectively.</p>
+<p id="p-0156" num="0173">In the management server <b>820</b>A, the basic recipes <b>1200</b> are registered for a plurality of plants and a plurality of specifications. Therefore, it becomes possible to control the cultivation device <b>1</b>A for reproducing an optimum cultivation environment, by receiving and registering the basic recipe <b>1200</b> corresponding to the plant to be cultivated and the specification.</p>
+<p id="p-0157" num="0174">In addition, in the management server <b>820</b>, the work recipes <b>1300</b> are registered for a plurality of plants and a plurality of specifications. Therefore, it becomes possible to control and manage the work process of the cultivation, by receiving and registering the work recipe <b>1300</b> corresponding to the plant to be cultivated and the specification.</p>
+<p id="p-0158" num="0175"><figref idref="DRAWINGS">FIG. <b>15</b></figref> depicts an example of the processing flow <b>1500</b> for controlling the environment.</p>
+<p id="p-0159" num="0176">Firstly, the environment controlling module <b>912</b> of the management terminal <b>810</b> reads the basic recipe <b>1200</b> which is stored in the basic recipe DB <b>921</b> (step <b>1510</b>).</p>
+<p id="p-0160" num="0177">Then, the environment controlling module <b>912</b> controls the environment in the cultivation device <b>1</b>A according to the read basic recipe <b>1200</b>.</p>
+<p id="p-0161" num="0178">For example, the environment controlling module <b>912</b> controls the air circulation device <b>30</b>, the nourishing solution circulation device <b>40</b>, the artificial light source, the robot manipulator, the conveyor and the like in the cultivation device <b>1</b>A according to the environmental value data <b>1230</b> defined in the basic recipe <b>1200</b>. Thus, the environment controlling module <b>912</b> is able to control a cultivation density, a light wavelength, a photon flux density, a temperature, a humidity, a carbon dioxide concentration, an electric conductivity, a pH value, various ion concentrations, a water temperature, a water flow velocity, a horizontal air flow rate, an air flow rate from above, a dissolved oxygen concentration, or the like in the cultivation device.</p>
+<p id="p-0162" num="0179">The cultivation device <b>1</b>A of the embodiment is configured as a closed or semi-closed cultivation device. Therefore, without being affected by an air outside the cultivation device <b>1</b>A, the cultivation device <b>1</b>A is able to accurately control and manage the cultivation environment related to light, air, water, or space, based on the basic recipe <b>1200</b>.</p>
+<p id="p-0163" num="0180">The cultivation device <b>1</b>A is able to be applied not only to the closed or semi-closed cultivation device but also to an open type cultivation device for cultivating a plant in the same environment as the outside air in an environment in which a worker inside the cultivation plant performs a work. Based on the basic recipe <b>1200</b> downloaded from the management server <b>820</b>, the cultivation environment such as light, air, water, or space relating to a plant to be cultivated in an open type shelf or the like is controlled and managed. Although not perfect, compared to the closed or semi-closed type cultivation device, it is possible to sufficiently control and manage the cultivation environment even in the open type cultivation device.</p>
+<p id="p-0164" num="0181"><figref idref="DRAWINGS">FIG. <b>16</b></figref> depicts an example of the processing flow <b>1600</b> for controlling the process.</p>
+<p id="p-0165" num="0182">The process control processing flow <b>1600</b> is started in response to a change in the value of the environmental value data <b>1230</b> of the basic recipe <b>1200</b>. Alternatively, it may be controlled based on the absolute time from a specific point in time, for example, at a time of sowing, etc., so as to be started when a predetermined time is reached.</p>
+<p id="p-0166" num="0183">The process controlling module <b>913</b> of the management server <b>820</b> reads the work recipe <b>1300</b> which is stored in the work recipe DB <b>922</b> (step <b>1610</b>).</p>
+<p id="p-0167" num="0184">The process controlling module <b>913</b> confirms the start of the work for the work process defined in the work recipe <b>1300</b> (step <b>1620</b>). For example, each of the work steps of the work process defined in the work recipe <b>1300</b> is displayed on a monitor or a screen of the work terminal <b>830</b> so that the worker is allowed to confirm the work content and tap a start button of the work.</p>
+<p id="p-0168" num="0185">Alternatively, by using the bar code reader, the camera, or the RFID reader connected to the work terminal <b>830</b>, the start of the work may be confirmed by reading the information, the bar code, or the RFID tag, etc. for indicating the start of the work,</p>
+<p id="p-0169" num="0186">Further, during the process in which the transplantation is performed, the start of the work may be confirmed by sensing an opening of the door of the cultivation device <b>1</b>A for outputting the cultivation tray.</p>
+<p id="p-0170" num="0187">The process controlling module <b>913</b> acquires information for confirming each of the work steps of the work process defined in the work recipe <b>1300</b> and related information (step <b>1630</b>).</p>
+<p id="p-0171" num="0188">According to the acquired work step, the worker, the robotic manipulator or the conveyor, etc., of the cultivation device <b>1</b>A is allowed to perform each work step of the work process.</p>
+<p id="p-0172" num="0189">In a case where the worker performs the work step manually, it is possible to manage the progress of the work step by providing check items for each work step, and by acquiring confirmation data in response to input from the bar code reader, the RFID reader, or the worker for each check item.</p>
+<p id="p-0173" num="0190">The process controlling module <b>913</b> acquires various data relating to the environment or the like from a plurality of sensors such as the temperature sensor, the humidity sensor, the carbon dioxide concentration sensor and the like which are provided at the place of work in the cultivation device <b>1</b>A and/or the outside of the cultivation device <b>1</b>A (step <b>1640</b>).</p>
+<p id="p-0174" num="0191">Then, the data of the environment or the like obtained from the sensors are determined whether these are within a scope of the constraint condition (that is, a scope of the work environment <b>1310</b> and the work constraint condition <b>1320</b>) defined in the work recipe <b>1300</b> (step <b>1650</b>).</p>
+<p id="p-0175" num="0192">In a case that the data are within the scope of the constraint condition (Yes in step <b>1650</b>), each work step is performed as it is, and it is repeated until the end of the work (No in step <b>1680</b>).</p>
+<p id="p-0176" num="0193">Alternatively, in a case that the data is outside the scope of the constraint condition (No in step <b>1650</b>), an alert may be displayed (step <b>1670</b>).</p>
+<p id="p-0177" num="0194">In the work environment <b>1310</b>, the constraint condition for the work environment is defined, which is supposed to be satisfied for performing the work process. For example, for the work process of the &#x201c;sowing&#x201d;, as the constraint condition, the working hours are defined as 300 seconds. Also, as for the temperature, a range of variation of the allowable temperature is set to plus or minus 5 degrees from a reference temperature value of 25 degrees at the elapsed time of 0 hours (at a time of sowing) defined in the basic recipe <b>1200</b>.</p>
+<p id="p-0178" num="0195">The temperature in the closed or semi-closed cultivation device <b>1</b>A is controlled to be 25 degrees Celsius according to the basic recipe <b>1200</b>. In a case where the sowing is performed outside the cultivation device <b>1</b>A, there may be a case that the temperature at the work place of the sowing is out of a range of 25 degrees plus or minus 5 degrees (i.e. out of a range from 20 to 30 degrees). In such a case, an alert may be notified.</p>
+<p id="p-0179" num="0196">Also, in a case where the hours worked exceed 300 seconds which are set as the constraint condition, an alert may be notified.</p>
+<p id="p-0180" num="0197">In this way, the cultivation device <b>1</b>A of the embodiment is configured to seal the inside of the cultivation device <b>1</b>A for cultivating plant from the outside, and the basic recipe <b>1200</b> defines the environmental value data in the cultivation device <b>1</b>A. In addition, the work recipe <b>1300</b> defines the environmental value data to be satisfied when a plant to be cultivated is outputted to the outside from the cultivation device <b>1</b>A.</p>
+<p id="p-0181" num="0198"><figref idref="DRAWINGS">FIG. <b>17</b></figref> depicts an example of the processing flow <b>1700</b> for monitoring a growing condition.</p>
+<p id="p-0182" num="0199">Firstly, the growing condition monitoring module <b>914</b> of the management server <b>820</b> reads the basic recipe <b>1200</b> stored in the basic recipe DB <b>921</b> (step <b>1710</b>).</p>
+<p id="p-0183" num="0200">Then, the growing condition monitoring module <b>914</b> acquires various data from a plurality of sensors which are arranged inside and/or outside the cultivation device <b>1</b>A (step <b>1720</b>).</p>
+<p id="p-0184" num="0201">The growing condition monitoring module <b>914</b> monitors and displays the growing condition of the plant to be cultivated according to the information acquired from the various sensors (step <b>1730</b>). For example, a photosynthesis rate, an evaporation rate, a water absorption rate, an area of leaves, a height of leaves, a number of leaves, a weight of strains, an abnormal growth, a number of bacteria, or the like associated with the plant to be cultivated may be monitored.</p>
+<p id="p-0185" num="0202">The growing condition monitoring module <b>914</b> displays an assumed growing condition when the plant is assumed to be cultivated according to the environmental value data <b>1230</b> defined in the basic recipe <b>1200</b>, and also an actual growing condition which is obtained from a plurality of sensors. The assumed growing condition and the actual growing condition are displayed in such a manner that the conditions can be compared. The assumed growing condition is specified in the index value alert data <b>1240</b>. For example, as the index value alert data <b>1240</b>, information such as a photosynthesis rate, an evaporation rate, a water absorption rate, an area of leaves, a height of leaves, a number of leaves, a weight of strains, an abnormal growth, a number of bacteria, or the like associated with the plant to be cultivated may be defined.</p>
+<p id="p-0186" num="0203">The growing condition monitoring module <b>914</b> determines whether the actual growing condition is within a predetermined range from the assumed growing condition (step <b>1740</b>). When the actual growing condition is out of a predetermined range or more from the assumed growing condition (for example, when the actual growing condition is deviated by 5% or more), an alert may be displayed (step <b>1750</b>).</p>
+<p id="p-0187" num="0204">In addition, when the actual growing condition deviates from the assumed growing condition by a predetermined range or more, the growing condition monitoring module <b>914</b> may change the basic recipe <b>1200</b> which is applied to the cultivation device <b>1</b>A, in cooperation with the environment controlling module <b>912</b>.</p>
+<p id="p-0188" num="0205">The growing condition monitoring module <b>914</b> repeats the process for monitoring the growing condition until an end indication of the monitoring is made (step <b>1760</b>).</p>
+<p id="p-0189" num="0206"><figref idref="DRAWINGS">FIG. <b>18</b></figref> depicts an example of a display screen of the monitored growing condition.</p>
+<p id="p-0190" num="0207">The growing condition monitoring module <b>914</b> displays the actual growing condition of the plant which is acquired from a plurality of sensors, on a monitor such as the output device <b>905</b> of the management terminal <b>810</b> or on a screen of the work terminal <b>830</b>.</p>
+<p id="p-0191" num="0208">As the items to be displayed, information such as a photosynthesis rate, an evaporation rate, a water absorption rate, an area of leaves, a height of leaves, a number of leaves, a weight of strains, an abnormal growth, a number of bacteria, or the like described in the index value alert data <b>1240</b> of the basic recipe <b>1200</b> may be tracked and displayed. In the example illustrated in <figref idref="DRAWINGS">FIG. <b>18</b></figref>, a rate of increase in weight is shown by measuring the strain weight of the plant to be cultivated.</p>
+<p id="p-0192" num="0209">The portion indicated by the broken line corresponds to the assumed growing condition <b>1810</b> when the plant is assumed to be cultivated according to the environmental value data <b>1230</b>. Also, the portion indicated by the solid line corresponds to the actual growing condition <b>1820</b>.</p>
+<p id="p-0193" num="0210">In this way, the growing condition monitoring module <b>914</b> is able to display the assumed growing condition and the actual growing condition in such a manner that the conditions can be compared.</p>
+<p id="p-0194" num="0211">The parts shown by the reference numbers <b>1830</b> and <b>1840</b> correspond to parts where transplantations have been performed. It can be seen that, in the case of making the transplantation, taking out the plant from the closed or semi-closed cultivation device <b>1</b>A may change the cultivation environment even if it is performed in a short time, resulting in a significant delay in the growth rate of the plant.</p>
+<p id="p-0195" num="0212">The growing condition monitoring module <b>914</b> may display an alert when a deviation of a predetermined value (for example, 5% or more) occurs between the assumed growing condition <b>1810</b> such as <b>1830</b> or <b>1840</b> and the actual growing condition <b>1820</b>.</p>
+<p id="p-0196" num="0213">Or, it is possible to change the work recipe <b>1300</b> to be applied. For example, it may be changed to the environmental value data <b>1230</b> for promoting the delayed growth.</p>
+<p id="p-0197" num="0214">The cultivation device <b>1</b>A of the embodiment is configured as the closed or semi-closed type cultivation device. Therefore, by making different the inside from the normal outside air environment, for example, by setting a photon flux density higher than normal, by setting a cultivation temperature higher than normal, and/or by setting a carbon dioxide concentration higher than a working environment for a person, it becomes possible to set the environment for cultivating a plant with high productivity compared to a plant cultivation method with a conventional plant factory. In the work process, a significant delay may be caused in the cultivation of the plant by taking out the plant from such a special cultivation environment to perform the work process such as the transplantation under the normal outside air environment.</p>
+<p id="p-0198" num="0215">Hence, according to the embodiment, the constraint condition such as the work environment <b>1310</b> and/or the work constraint condition <b>1320</b> or the like may be set even for the work process which can be conducted outside the cultivation device <b>1</b>A in order to maintain the work environment within a certain environmental quality not to be deviated largely from the inside of the cultivation device <b>1</b>A. As a result, by performing the environmental control and the process control of the whole plant cultivation process, it becomes possible to enhance the speed and the quality for cultivating the plant.</p>
+<heading id="h-0009" level="1">Third Embodiment</heading>
+<p id="p-0199" num="0216">In the third embodiment, the cultivation device <b>1</b>A is arranged in a closed or semi-closed cultivation facility <b>1</b>. In this configuration, an external environment of the cultivation device <b>1</b>A is managed together.</p>
+<p id="p-0200" num="0217"><figref idref="DRAWINGS">FIG. <b>19</b></figref> depicts an example of the cultivation facility for controlling both the inside and the outside of the cultivation device <b>1</b>A.</p>
+<p id="p-0201" num="0218">The cultivation facility <b>1</b> is configured as a structure capable of sealing or semi-sealing the inside from the outside of the facility. The cultivation facility <b>1</b> is provided with the cultivation device <b>1</b>A which is described in the first embodiment and/or the second embodiment inside. The cultivation facility <b>1</b> is configured to manage light, air, water, and space outside the cultivation device <b>1</b>A.</p>
+<p id="p-0202" num="0219">The cultivation facility <b>1</b> constitutes a part of the plant cultivation system <b>800</b>, and is connected to the management terminal <b>810</b>, the management server <b>820</b>, the work terminal <b>830</b>, and the cultivation device <b>1</b>A via a network.</p>
+<p id="p-0203" num="0220">The cultivation facility <b>1</b> includes a plurality of sensors <b>1901</b> for monitoring various conditions such as light, air, water, and space. In addition, the cultivation facility <b>1</b> includes an air circulation device <b>1903</b> and an artificial light source <b>1902</b> or the like for controlling the external environment outside the cultivation device <b>1</b>A. The external environment may have various conditions such as light, air, water, and space.</p>
+<p id="p-0204" num="0221">The air circulation device <b>1903</b> has a function similar to that of the air circulation device <b>30</b> provided in the cultivation device <b>1</b>A, that is, a function of adjusting at least a temperature, a humidity, a carbon dioxide concentration, and flow rate (or an amount of flow) of air.</p>
+<p id="p-0205" num="0222">The artificial light source <b>1902</b> has a function similar to that of the artificial light source <b>230</b> provided in the cultivation device <b>1</b>A, that is, a function of dimming with light of any brightness and/or wavelength.</p>
+<p id="p-0206" num="0223">The cultivation facility <b>1</b> is configured to adjust and manage an environment in the cultivation facility <b>1</b> (and outside the cultivation device <b>1</b>A) such as light, air, water, and space according to the basic recipe <b>1200</b> described in the second embodiment. The basic recipe <b>1200</b> sent from the management server <b>820</b> is received by the management terminal <b>810</b> and the basic recipe <b>1200</b> is stored in the basic recipe DB <b>921</b>.</p>
+<p id="p-0207" num="0224">The environment controlling module <b>912</b> of the management terminal <b>810</b> reads the basic recipe <b>1200</b> stored in the basic recipe DB <b>921</b>. Then, the environment controlling module <b>912</b> controls the air circulation device, the artificial light source, the robot manipulator, the conveyor or the like in the cultivation facility <b>1</b> according to the read information in order to control a light wavelength, a photon flux density, a temperature, a humidity, a carbon dioxide concentration, various ion concentrations, a horizontal air flow rate, an air flow rate from above, or the like in the cultivation facility <b>1</b>.</p>
+<p id="p-0208" num="0225">It is possible to use the management server <b>820</b> instead of the management terminal <b>810</b> in order to operates the cultivation facility <b>1</b>.</p>
+<p id="p-0209" num="0226">In this way, it is possible to control various environments such as light, air, water and space inside of the cultivation device <b>1</b>A and those inside the cultivation facility <b>1</b> (that is, outside the cultivation device <b>1</b>A) according to the basic recipe <b>1200</b> received from the management server <b>820</b>.</p>
+<p id="p-0210" num="0227">The basic recipe <b>1200</b> applied to the cultivation device <b>1</b>A defines a constraint condition as an acceptable variation range from the environment in the cultivation device which is controlled according to the environmental value data <b>1230</b>. In addition, the basic recipe <b>1200</b> applied to the cultivation facility <b>1</b> defines a constraint condition as an acceptable variation range from the environment in the cultivation facility <b>1</b> (that is, outside the cultivation device) which is controlled according to the environmental value data <b>1230</b>.</p>
+<p id="p-0211" num="0228">In the inside and outside of the cultivation device <b>1</b>A, the environment may be changed due to a growth and movement of a plant to be cultivated and also operations for cultivating a plant, etc. The environment is managed in order to satisfy the constraint condition.</p>
+<p id="p-0212" num="0229">The environment controlling module <b>912</b> is able to detect that the environment exceeds the allowable variation range of the environment value which is determined as the constraint condition inside or outside of the cultivation device <b>1</b>A, based on information received from various sensors. In such a case, the environment controlling module <b>912</b> may output an alert to the management terminal <b>810</b> and/or the management server <b>820</b>. In addition, the environment controlling module <b>912</b> may control the air circulation device, the nourishing solution circulation device <b>40</b>, the artificial light source, the robot manipulator, the conveyor or the like in order to adjust the environment of the inside or outside of the cultivation device <b>1</b>A. As a result, it becomes possible to bring the environment within the constraint condition.</p>
+<p id="p-0213" num="0230">Next, the environmental value data <b>1230</b> to be set to the inside part and outside part of the cultivation device <b>1</b>A will be described.</p>
+<p id="p-0214" num="0231">Basically, a person who performs a work (that is, worker) will not enter in the closed or semi-closed type cultivation device <b>1</b>A. Therefore, the environment in the plant cultivation device managed by the basic recipe is set to correspond to a plant to be cultivated.</p>
+<p id="p-0215" num="0232">However, in a case of the inside of the cultivation facility <b>1</b> and the outside of the cultivation device <b>1</b>A, there is a possibility that a worker stays there to perform a work for a plant to be cultivated. In such a case, the environment outside the plant cultivation device managed by the basic recipe is set to correspond to a person who performs a work.</p>
+<p id="p-0216" num="0233">It is possible to set the environment in the cultivation device <b>1</b>A out of the scope permitted to a person who performs a work. For example, the outside of the cultivation device <b>1</b>A may be set to an environment in which a carbon dioxide concentration is set not higher than 1000 ppm which is defined by the standards of the environmental hygiene management for the air environment. In addition, the inside of the cultivation device <b>1</b>A is set to an environment in which a carbon dioxide concentration is set higher than this standard value. As a result, it becomes possible to acquire an environment for cultivating a plant with higher productivity than ever, comparing to a case in which a plant is cultivated with a conventional plant factory.</p>
+<p id="p-0217" num="0234">When a work process is performed according to the second embodiment, there is a possibility that a plant to be cultivated is outputted from the cultivation device <b>1</b>A. In such a case, the plant to be cultivated may be placed in the environment that is largely different from the environment in the cultivation device <b>1</b>A even if the period is short.</p>
+<p id="p-0218" num="0235">As described with reference to <figref idref="DRAWINGS">FIG. <b>18</b></figref>, the change in the cultivation environment even in a short period of time may result in a significant delay in the growth rate of the plant.</p>
+<p id="p-0219" num="0236">Therefore, in the present embodiment, the environment outside the cultivation device <b>1</b>A is managed together, so that the variation of the cultivation environment for the plant is suppressed as much as possible to maintain the growth rate.</p>
+<p id="p-0220" num="0237">For example, when there is no worker in the environment outside the cultivation device <b>1</b>A, the environment is determined only by the appropriate environment value for the plant to be cultivated. Specifically, the environment is set equivalent to or close to the inside of the cultivation device <b>1</b>A.</p>
+<p id="p-0221" num="0238">Or, in a case that the plant to be cultivated does not exist outside the cultivation device <b>1</b>A, the environment is determined only by the appropriate environment value for a worker. For example, the environment is set to be suitable for a worker, such as within a range of content ratio of carbon dioxide of 1000 ppm or below, a temperature range from 17 degrees or more to 28 degrees or below, and a relative humidity range from 40% or more to 70% or below, etc.</p>
+<p id="p-0222" num="0239">In addition, in a case that a worker coexists with a plant to be cultivated, the value may be set to a value between an optimal value of the environment for the plant to be cultivated and an optimal value of the environment for the worker. In other words, the environment in the cultivation facility <b>1</b> (and the environment outside the cultivation device <b>1</b>A) is set according to an environmental value data which is calculated from both the basic recipe for defining the environment inside the cultivation device <b>1</b>A and the basic recipe of the cultivation facility <b>1</b> for defining the environment outside the cultivation device <b>1</b>A.</p>
+<p id="p-0223" num="0240">For example, the environment outside the cultivation device <b>1</b>A is set according to the constraint condition of the basic recipe for the cultivation device <b>1</b>A and the constraint condition of the basic recipe for the cultivation facility <b>1</b>. Specifically, the environmental setting value is calculated for minimizing a sum of a deviation from the environmental allowable range for the plant to be cultivated defined by the basic recipe for the cultivation device <b>1</b>A to the set environmental value and a deviation from the environmental allowable range for the worker defined by the basic recipe for the cultivation facility <b>1</b> to the set environmental value.</p>
+<p id="p-0224" num="0241">Here, it is thought that a plurality of items or values may coexist in the appropriate values of the environment for the plant to be cultivated.</p>
+<p id="p-0225" num="0242">In addition, it is conceivable to adapt a method to add a significance factor to the plant to be calculated and/or the worker and to calculate the environmental setting value so as to minimize a sum of the above-mentioned deviation and the significance.</p>
+<p id="p-0226" num="0243">The present invention is not limited to the above-described embodiments. Further, various modifications may be included in the present invention. For example, the above-described embodiments are explained in detail in order to illustrate the present invention properly. Please notice that, the above-mentioned embodiments are not necessarily limited to the examples which comprise all the described configurations. It is possible to replace a part of a configuration of one embodiment with a part of a configuration of another embodiment. It is also possible to add a part of a configuration of another embodiment to a configuration of one embodiment. Furthermore, it is also possible to modify a configuration of one embodiment by adding, deleting, or replacing a part of a configuration of another embodiment.</p>
+<p id="p-0227" num="0244">In addition, some or all of the above-described configurations, functions, processing units, processing means, and the like may be realized by hardware, for example, by designing them with an integrated circuit. In addition, the above-described configurations, functions, and the like may be implemented by software by interpreting and executing a program by the processor which is configured to realize respective functions. Information such as programs, tables, and files that realize various functions may be stored in a recording device such as a memory, a hard disk or an SSD (Solid State Drive), etc., or in a recording medium such as an IC card, a SD card, or a DVD, etc.</p>
+<p id="p-0228" num="0245">In addition, the control lines and the information lines considered to be necessary for explanation are indicated. Please notice that all the control lines and the information lines are not necessarily shown for the product. In practice, almost all of the configurations may be considered to be interconnected with each other.</p>
+<p id="p-0229" num="0246">The above-described embodiments disclose at least configurations described in the claims.</p>
+<heading id="h-0010" level="1">EXPLANATION OF REFERENCE NUMERALS</heading>
+<p id="p-0230" num="0000">
+<ul id="ul0006" list-style="none">
+    <li id="ul0006-0001" num="0247"><b>1</b> . . . Plant cultivation system, <b>800</b>, <b>810</b> . . . Management terminal, <b>820</b> . . . Management server, <b>830</b> . . . Work terminal, <b>911</b> . . . Recipe registration controlling module, <b>912</b> . . . Environment controlling module, <b>913</b> . . . Process controlling module, <b>914</b> . . . Growing condition monitoring module, <b>915</b> . . . Cryptographic processing module, <b>921</b> . . . Basic recipe DB, <b>922</b> . . . Work recipe DB</li>
+</ul>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>We claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A plant cultivation device, comprising:
+<claim-text>a plurality of sensors for monitoring a growing condition of a plant to be cultivated;</claim-text>
+<claim-text>an environment controlling unit for controlling an environment, wherein the environment is a condition of at least one of light, air, water, and space in the plant cultivation device; and</claim-text>
+<claim-text>a process controlling unit for controlling a work process for cultivating the plant.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The plant cultivation device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the environment controlling unit is configured to control the environment in the plant cultivation device according to a basic recipe for defining environmental value information, wherein the environmental value information relates to a condition of at least one of light, air, water, and space for use in cultivating the plant.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The plant cultivation device as recited in <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein a plurality of basic recipes defined for respective plants to be cultivated are stored in a separate management server, and wherein the environment controlling unit controls the environment in the plant cultivation device according to the basic recipe received from the separate management server, corresponding to the plant to be cultivated.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The plant cultivation device as recited in any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00003">3</claim-ref>, wherein the process controlling unit controls the work process for cultivating the plant, according to a work recipe for defining the work process for cultivating the plant, wherein the work process is defined to be performed according to at least one of an elapsed time from a predetermined start time, a condition of the plant cultivation device, and a change in the environment.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The plant cultivation device as recited in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein a plurality of work recipes defined for respective plants to be cultivated are stored in a separate management server, and wherein the process controlling unit controls the work process for cultivating the plant, according to the work recipe received from the separate management server, corresponding to the plant to be cultivated.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The plant cultivation device as recited in <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the predetermined start time is either a start time for cultivating the plant or a sowing time for the plant.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The plant cultivation device as recited in any one of <claim-ref idref="CLM-00004">claims 4</claim-ref> to <claim-ref idref="CLM-00006">6</claim-ref>, wherein the work recipe defines, for each of work process to be performed, a constraint condition for a work environment to be satisfied.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The plant cultivation device as recited in <claim-ref idref="CLM-00007">claim 7</claim-ref> reciting <claim-ref idref="CLM-00002">claim 2</claim-ref> indirectly, wherein the constraint condition for the work environment is an allowable variation range from the environment in the cultivation device which is controlled according to the environment value information of the basic recipe.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The plant cultivation device as recited in <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the environmental value information relates to a temperature, and the constraint condition for the work environment relates to an allowable variation range of a temperature from a temperature in the cultivation device which is controlled according to the environmental value information.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The plant cultivation device as recited in <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the environmental value information relates to a humidity, and the constraint condition for the work environment relates to an allowable variation range of a humidity from a humidity in the cultivation device which is controlled according to the environmental value information.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The plant cultivation device as recited in <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the environmental value information relates to a carbon dioxide concentration, and the constraint condition for the work environment relates to an allowable variation range of a carbon dioxide concentration from a carbon dioxide concentration in the cultivation device which is controlled according to the environmental value information.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The plant cultivation device as recited in any one of <claim-ref idref="CLM-00007">claims 7</claim-ref> to <claim-ref idref="CLM-00011">11</claim-ref>, wherein the process controlling unit displays the constraint condition for the work environment to be satisfied when the work process is performed, together with the work process defined in the work recipe.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The plant cultivation device as recited in any one of <claim-ref idref="CLM-00007">claims 7</claim-ref> to <claim-ref idref="CLM-00012">12</claim-ref>, wherein the process controlling unit displays an alert when the constraint condition for the work environment to be satisfied in executing the work process is not satisfied.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The plant cultivation device as recited in any one of <claim-ref idref="CLM-00004">claims 4</claim-ref> to <claim-ref idref="CLM-00013">13</claim-ref> reciting <claim-ref idref="CLM-00002">claim 2</claim-ref> directly or indirectly, wherein the plant cultivation device is configured as a cultivation device capable of closing the inside of the plant cultivation device for cultivating the plant from the outside, wherein the basic recipe defines environmental value information for the inside of the plant cultivation device, and wherein the work recipe defines environmental value information to be satisfied for a case that the plant to be cultivated is taken out from the plant cultivation device.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The plant cultivation device as recited in any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00014">14</claim-ref>, wherein the work process includes at least one of sowing, transplanting, and harvesting with regards to the plant to be cultivated.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The plant cultivation device as recited in any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00015">15</claim-ref>, wherein the plant cultivation device includes a growing condition monitoring unit for displaying the growing condition of the plant to be cultivated.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The plant cultivation device as recited in <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the growing condition is at least one of a photosynthesis rate, an evaporation rate, a water absorption rate, and a weight with regards to the plant to be cultivated.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The plant cultivation device as recited in <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the growing condition is at least one of an area of leaves, a height of leaves, a number of leaves, and a number of related bacteria with regards to the plant to be cultivated.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The plant cultivation device as recited in any one of <claim-ref idref="CLM-00015">claims 15</claim-ref> to <claim-ref idref="CLM-00018">18</claim-ref> reciting <claim-ref idref="CLM-00002">claim 2</claim-ref> indirectly, wherein the growing condition monitoring unit displays an assumed growing condition which is assumed when the plant is cultivated according to the environmental value information defined in the basic recipe, and an actual growing condition of the plant obtained from the plurality of sensors.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The plant cultivation device as recited in <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the assumed growing condition and the actual growing condition are displayed in such a manner that the conditions can be compared.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The plant cultivation device as recited in <claim-ref idref="CLM-00019">claim 19</claim-ref> or <claim-ref idref="CLM-00020">20</claim-ref>, wherein the growing condition monitoring unit displays an alert when the actual growing condition deviates from the assumed growing condition by a predetermined range or more.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The plant cultivation device as recited in any one of <claim-ref idref="CLM-00019">claims 19</claim-ref> to <claim-ref idref="CLM-00021">21</claim-ref>, wherein the growing condition monitoring unit changes the basic recipe to be applied when the actual growing condition deviates from the assumed growing condition by a predetermined range or more.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. A program for causing a plant cultivation device to function as the units recited in any one of <claim-ref idref="CLM-00001">claims 1</claim-ref> to <claim-ref idref="CLM-00022">22</claim-ref>, the plant cultivation device being configured to acquire information from a plurality of sensors for monitoring a growing condition of a plant to be cultivated.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. A method for cultivating a plant in a plant cultivation device, comprising the steps of:
+<claim-text>acquiring information from a plurality of sensors for monitoring a growing condition of a plant to be cultivated;</claim-text>
+<claim-text>controlling an environment, wherein the environment is a condition of at least one of light, air, water, and space in the plant cultivation device; and</claim-text>
+<claim-text>controlling a work process for cultivating the plant.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The method for cultivating the plant as recited in <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein the environment in the plant cultivation device is controlled according to a basic recipe for defining environmental value information, wherein the environmental value information relates to a condition of at least one of light, air, water, and space to be applied for cultivating the plant.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The method for cultivating the plant as recited in <claim-ref idref="CLM-00025">claim 25</claim-ref>, wherein the basic recipe corresponding to the plant to be cultivated is received from a separate management server storing a plurality of basic recipes defined for respective plants to be cultivated, and the environment in the plant cultivation device is controlled according to the received basic recipe.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. The method for cultivating the plant as recited in any one of <claim-ref idref="CLM-00024">claims 24</claim-ref> to <claim-ref idref="CLM-00026">26</claim-ref>, wherein the work process for cultivating the plant is controlled according to a work recipe for defining the work process for cultivating the plant, wherein the work process is defined to be performed according to at least one of an elapsed time from a predetermined start time, a condition of the plant cultivation device, and a change in the environment.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. The method for cultivating the plant as recited in <claim-ref idref="CLM-00027">claim 27</claim-ref>, wherein the work recipe corresponding to the plant to be cultivated is received from a separate management server storing a plurality of work recipes defined for respective plants to be cultivated, and wherein the work process for cultivating the plant is controlled according to the received work recipe.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. A plant produced by using a method for cultivating the plant, wherein the method is recited in any one of <claim-ref idref="CLM-00024">claims 24</claim-ref> to <claim-ref idref="CLM-00028">28</claim-ref>.</claim-text>
+</claim>
+</claims>
+</us-patent-application>
